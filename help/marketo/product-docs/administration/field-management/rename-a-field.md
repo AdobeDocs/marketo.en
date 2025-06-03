@@ -3,6 +3,7 @@ unique-page-id: 2360293
 description: Rename a Field - Marketo Docs - Product Documentation
 title: Rename a Field
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
+feature: Field Management
 ---
 # Rename a Field {#rename-a-field}
 
@@ -14,21 +15,25 @@ exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 >
 >**Admin Permissions Required**
 
-1. Go to Admin and click **Field Management**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2014-9-24-14-3a2-3a25.png)
+   ![](assets/rename-a-field-1.png)
+
+1. Click **[!UICONTROL Field Management]**.
+
+   ![](assets/rename-a-field-2.png)
 
 1. Find and select the field you want to rename, then click the field name in the canvas.
 
+   ![](assets/rename-a-field-3.png)
+
    >[!TIP]
    >
-   >Click the **Used By** link to find assets that reference this field.
+   >Click the **[!UICONTROL Used By]** link to find assets that reference this field.
 
-   ![](assets/changefieldname.png)
+1. Rename the field and click **[!UICONTROL Save]**.
 
-1. Rename the field and click **Save**.
-
-   ![](assets/image2014-9-24-14-2-55.png)
+   ![](assets/rename-a-field-4.png)
 
 Nice job! You now know how to rename fields in Marketo.
 

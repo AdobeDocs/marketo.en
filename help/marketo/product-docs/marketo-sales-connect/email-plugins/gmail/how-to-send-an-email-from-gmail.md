@@ -3,8 +3,13 @@ unique-page-id: 14352440
 description: How to Send an Email From Gmail - Marketo Docs - Product Documentation
 title: How to Send an Email From Gmail
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
+feature: Marketo Sales Connect
 ---
 # How to Send an Email From Gmail {#how-to-send-an-email-from-gmail}
+
+>[!CAUTION]
+>
+>Using the "Undo Send" functionality in Gmail will prevent the email from sending when using the Gmail extension, but you may still see an activity in the web application as well as in Salesforce if you're logging activities to Salesforce.
 
 1. In Gmail, click **Compose**.
 

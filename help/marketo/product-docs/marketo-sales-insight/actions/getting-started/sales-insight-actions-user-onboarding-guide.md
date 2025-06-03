@@ -2,8 +2,13 @@
 description: Sales Insight Actions User Onboarding Guide - Marketo Docs - Product Documentation
 title: Sales Insight Actions User Onboarding Guide
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
+feature: Sales Insight Actions
 ---
 # Sales Insight Actions User Onboarding Guide {#sales-insight-actions-user-onboarding-guide}
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions is a web-based application that integrates exclusively with the Salesforce CRM via the [Marketo Sales Insight package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. It is sometimes referred to as "Marketo Sales," or simply "Actions."
 
 >[!PREREQUISITES]
 >

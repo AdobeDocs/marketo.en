@@ -2,6 +2,7 @@
 description: Execute Campaign - Marketo Docs - Product Documentation
 title: Execute Campaign
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
+feature: Smart Campaigns
 ---
 # Execute Campaign {#execute-campaign}
 
@@ -17,7 +18,7 @@ There many things you can do with an Executable Campaign. They are designed to f
 
 You can also use them when you need to run a separate flow, but you need to depend upon the results of that flow in subsequent flow step choices (i.e., if this, do that).
 
-Execute Campaign is an improvement upon [Request Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), as it can run in-series or in parallel, whereas the latter only runs in parallel.
+Execute Campaign is an improvement upon [Request Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), as it can run in-series, whereas the latter only runs in parallel.
 
 >[!NOTE]
 >
@@ -25,17 +26,17 @@ Execute Campaign is an improvement upon [Request Campaign](/help/marketo/product
 
 ## How to Create an Executable Campaign {#how-to-create-an-executable-campaign}
 
-1. Right-click on your desired program and select **New Smart Campaign**.
+1. Right-click on your desired program and select **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/execute-campaign-1.png)
 
-1. Give it a name, select the **Executable** checkbox, and click **Create**.
+1. Give it a name, select the **[!UICONTROL Executable]** checkbox, and click **[!UICONTROL Create]**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Define the Smart List and Flow, like any other Smart Campaign.
 
-You can also clone an existing Smart Campaign. If you clone an existing Executable Campaign, you will still have to select the **Executable** checkbox after naming it.
+You can also clone an existing Smart Campaign. If you clone an existing Executable Campaign, you will still have to select the **[!UICONTROL Executable]** checkbox after naming it.
 
 >[!NOTE]
 >
@@ -53,7 +54,7 @@ When set to true, the following token contexts will be sent into the child campa
 
 **API Interaction**
 
-When using Schedule or Request Campaign [in the API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), both let you pass values for My Tokens, which overrides the values set for those tokens in the campaign you're calling. If that Campaign then executes another campaign and sets "Use Parent Context to True," it will use the values passed through the API, rather than the values which are set in the application.
+When using Schedule or Request Campaign [in the API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), both let you pass values for My Tokens, which overrides the values set for those tokens in the campaign you're calling. If that Campaign then executes another campaign and sets "Use Parent Context to True," it will use the values passed through the API, rather than the values which are set in the application.
 
 ## Things to Note {#things-to-note}
 
@@ -66,11 +67,11 @@ When using Schedule or Request Campaign [in the API](https://developers.marketo.
 
 >[!CAUTION]
 >
->Never leave your smart lists for Executable Campaigns invalid, otherwise **no one** will qualify for it. Best practice is to create separate smart list assets, define them completely, and make sure they're valid. Then, use the "Member of Smart List" filter in the Executable Campaign so you can swap your smart list definition.
+>Never leave your smart lists for Executable Campaigns invalid, otherwise _no one_ will qualify for it. Best practice is to create separate smart list assets, define them completely, and make sure they're valid. Then, use the "Member of Smart List" filter in the Executable Campaign so you can swap your smart list definition.
 
 ## Token Inheritance Example {#token-inheritance-example}
 
-Below is a visual example of Token Inheritance in one Executable Campaign and two parent campaigns: one with token context set to **True**, the other to **False**.
+Below is a visual example of Token Inheritance in one Executable Campaign and two parent campaigns: one with token context set to **[!UICONTROL True]**, the other to **[!UICONTROL False]**.
 
 Child campaign with a tokenized Change Score.
 
@@ -80,7 +81,7 @@ The child campaign's My Tokens.
 
 ![](assets/execute-campaign-4.png)
 
-**Example One - True**
+### Example One - True {#example-one-true}
 
 In the Execute Campaign flow step of the first parent campaign, the "Use Parent Campaign Token Context" is set to **True**.
 
@@ -94,9 +95,9 @@ The results: score changed by +10.
 
 ![](assets/execute-campaign-7.png)
 
-**Example Two: False**
+### Example Two: False {#example-two-false}
 
-In the Execute Campaign filter of the second parent campaign, the "Use Parent Campaign Token Context" is set to **False**.
+In the Execute Campaign flow step of the second parent campaign, the "Use Parent Campaign Token Context" is set to **False**.
 
 ![](assets/execute-campaign-8.png)
 

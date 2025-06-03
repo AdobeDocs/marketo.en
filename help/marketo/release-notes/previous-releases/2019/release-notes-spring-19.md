@@ -3,6 +3,7 @@ unique-page-id: 17728380
 description: Release Notes -Spring 2019 - Marketo Docs - Product Documentation
 title: Release Notes -Spring 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
+feature: Release Information
 ---
 # Release Notes: Spring 2019 {#release-notes-spring}
 
@@ -18,8 +19,8 @@ The following features were released on March 15, 2019.
 
 * **Waitlisted:** New program/event status for waitlisting a member when you want to [put them on hold](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) until a vacancy opens. This applies to channels associated with Event programs in Marketo Classic, and both Event and Event with Webinar programs in Marketo Sky. By default, Waitlisted has the same step value as Registered.
 * **[Custom Communication Limit](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Admins can now set custom daily or weekly communication limits.
-* **[Smart Campaign Asset APIs](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: Enrich your analytics outside of Marketo with smart campaign record retrieval by updated date and ID.
-* **HTTPS Tracking Links for Email:** For customers that have purchased “Secure Domains for Tracking Links,” branded tracking links can now be displayed within your emails as HTTPS.
+* **[Smart Campaign Asset APIs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**: Enrich your analytics outside of Marketo with smart campaign record retrieval by updated date and ID.
+* **HTTPS Tracking Links for Email:** For customers that have purchased "Secure Domains for Tracking Links," branded tracking links can now be displayed within your emails as HTTPS.
 * **Email Deliverability Powerpack Updates**: Ability to flag and comment on specific test results, share results with stakeholders through a URL, and track changes to see the evolution of an email as stakeholders edit content.
 
 Account-Based Marketing
@@ -47,5 +48,5 @@ The following features are expected to release throughout the first calendar qua
 ## Bizible by Marketo {#bizible-by-marketo}
 
 * **Bizible Discover Feature Enhancements**: New dashboard segmentation capabilities enable marketers to better understand performance.
-* **Multi-Currency Support**: Switch between your corporate currency and any local currency with Bizible’s new automatic currency conversion functionality built on CRM currency tables.
+* **Multi-Currency Support**: Switch between your corporate currency and any local currency with Bizible's new automatic currency conversion functionality built on CRM currency tables.
 * **CRM Campaign Costs**:  Measure the spend and ROI of offline marketing activities with the ability to automatically pull cost data from the CRM campaign object.

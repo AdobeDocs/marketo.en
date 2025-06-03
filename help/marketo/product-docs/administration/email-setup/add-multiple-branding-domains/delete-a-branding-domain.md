@@ -3,16 +3,21 @@ unique-page-id: 11378041
 description: Delete a Branding Domain - Marketo Docs - Product Documentation
 title: Delete a Branding Domain
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
+feature: Email Setup
 ---
 # Delete a Branding Domain {#delete-a-branding-domain}
 
-1. In My Marketo, click **Admin** and then the **Email** link.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2016-6-29-16-3a42-3a20.png)
+   ![](assets/delete-a-branding-domain-1.png)
 
-1. In the Branding Domains table, select the domain you want to remove and click **Delete**.
+1. Click **[!UICONTROL Email]**.
 
-   ![](assets/image2016-8-12-11-3a0-3a26.png)
+   ![](assets/delete-a-branding-domain-2.png)
+
+1. In the Branding Domains table, select the domain you want to remove and click **[!UICONTROL Delete]**.
+
+   ![](assets/delete-a-branding-domain-3.png)
 
    >[!NOTE]
    >

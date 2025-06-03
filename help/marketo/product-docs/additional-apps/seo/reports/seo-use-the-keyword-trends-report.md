@@ -3,6 +3,7 @@ unique-page-id: 2949273
 description: SEO - Use the Keyword Trends Report - Marketo Docs - Product Documentation
 title: SEO - Use the Keyword Trends Report
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
+feature: SEO
 ---
 # SEO - Use the Keyword Trends Report {#seo-use-the-keyword-trends-report}
 
@@ -10,11 +11,11 @@ In this report, you can see how you are ranked on keywords over time.
 
 ## Load Report {#load-report}
 
-1. Go to **Reports**.
+1. Go to **[!UICONTROL Reports]**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Click on **Keyword Rank Trends**.
+1. Click on **[!UICONTROL Keyword Rank Trends]**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -26,10 +27,10 @@ In this report, you can see how you are ranked on keywords over time.
 
    | Item |Description |
    |---|---|
-   | Keywords  |The number of keywords you are tracking. |
-   | Ranking URLs  |The number of URLs on your site ranking in the range you've set.  |
-   | Avg. rank  |The average rank of keywords in the range you've set.  |
-   | Avg. searches  |The average number of searches on those keywords that occurred during the range you set (in the last 30 days, on Google US search |
+   | [!UICONTROL Keywords]  |The number of keywords you are tracking. |
+   | [!UICONTROL Ranking URLs]  |The number of URLs on your site ranking in the range you've set.  |
+   | [!UICONTROL Avg. rank]  |The average rank of keywords in the range you've set.  |
+   | [!UICONTROL Avg. searches]  |The average number of searches on those keywords that occurred during the range you set (in the last 30 days), on Google US search |
 
 ## Filtering Data {#filtering-data}
 
@@ -47,7 +48,7 @@ In this report, you can see how you are ranked on keywords over time.
    >
    >You can export this report to your desktop.
 
-1. Click Export CSV or Export PDF.
+1. Click **[!UICONTROL Export CSV]** or **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 

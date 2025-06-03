@@ -2,15 +2,25 @@
 description: Product Usage Limits - Marketo Docs - Product Documentation
 title: Product Usage Limits
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
+feature: Sales Insight Actions
 ---
 # Product Usage Limits {#product-usage-limits}
 
-The following limits are in place for usage of expanded sales engagement capabilities available with Sales Insight Actions.
+Below you'll find the limits in place for usage of expanded sales engagement capabilities available with Sales Insight Actions.
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions is a web-based application that integrates exclusively with the Salesforce CRM via the [Marketo Sales Insight package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. It is sometimes referred to as "Marketo Sales," or simply "Actions."
 
 <table>
   <th>Functionality</th>
   <th>Rate</th>
   <th>Limit</th>
+ <tr>
+  <td>Marketo Person Database sync</td>
+  <td>ongoing</td>
+  <td>1,500,000 people</td>
+ </tr>
  <tr>
   <td>Sales Email Sends</td>
   <td>per user/per day</td>
@@ -74,6 +84,11 @@ The following limits are in place for usage of expanded sales engagement capabil
   <td>Groups</td>
   <td>per user</td>
   <td>50</td>
+ </tr>
+ <tr>
+  <td>People Per Group</td>
+  <td>per group</td>
+  <td>200</td>
  </tr>
  <tr>
   <td>Attachments Uploaded</td>

@@ -3,6 +3,7 @@ unique-page-id: 2360274
 description: Managing Tag Values - Marketo Docs - Product Documentation
 title: Managing Tag Values
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
+feature: Tags
 ---
 # Managing Tag Values {#managing-tag-values}
 
@@ -18,48 +19,52 @@ exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 
 ## Adding Tag Values {#adding-tag-values}
 
-1. Under **Admin**, click **Tags**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2014-9-24-12-3a24-3a55.png)
+   ![](assets/managing-tag-values-1.png)
 
-1. Click **New**, then **New Tag Value**.
+1. Click **[!UICONTROL Tags]**.
 
-   ![](assets/image2014-9-24-12-3a25-3a23.png)
+   ![](assets/managing-tag-values-2.png)
 
-1. Select the **Tag Type**.
+1. Click **[!UICONTROL New]**, then **[!UICONTROL New Tag Value]**.
 
-   ![](assets/image2014-9-24-12-3a26-3a2.png)
+   ![](assets/managing-tag-values-3.png)
 
-1. Enter a **Value** and click **Add Another**. You can add as many values as you'd like.
+1. Select the **[!UICONTROL Tag Type]**.
 
-   ![](assets/image2014-9-24-12-3a26-3a27.png)
+   ![](assets/managing-tag-values-4.png)
 
-1. Add the remaining values and click **Create**.
+1. Enter a **[!UICONTROL Value]** and click **[!UICONTROL Add Another]**. You can add as many values as you'd like.
 
-   ![](assets/image2014-9-24-12-3a26-3a55.png)
+   ![](assets/managing-tag-values-5.png)
 
-1. You should see the changes immediately!
+1. Add the remaining values and click **[!UICONTROL Create]**.
 
-   ![](assets/image2014-9-24-12-3a27-3a34.png)
+   ![](assets/managing-tag-values-6.png)
+
+You should see the changes immediately!
+
+   ![](assets/managing-tag-values-7.png)
 
 ## Hiding Tag Values {#hiding-tag-values}
 
 Tags might be used by old programs. You can deprecate them for future use by hiding the tag type.
 
-1. Select the **Tag** and select the **Value** you want to hide.
+1. Select the **[!UICONTROL Tag]** and select the **[!UICONTROL Value]** you want to hide.
 
-   ![](assets/image2014-9-24-12-3a28-3a25.png)
+   ![](assets/managing-tag-values-8.png)
 
-1. Under **Tag Actions**, select **Hide**.
+1. Under **[!UICONTROL Tag Actions]**, select **[!UICONTROL Hide]**.
 
-   ![](assets/image2014-9-24-12-3a29-3a4.png)
+   ![](assets/managing-tag-values-9.png)
 
 ## Show Hidden Values {#show-hidden-values}
 
 If you want to see your hidden values again, do the following:
 
-1. Select the Show Hidden box. Once checked, you can see the hidden value.
+1. Select the **[!UICONTROL Show Hidden]** checkbox. Once checked, you can see the hidden value.
 
-   ![](assets/image2014-9-24-12-3a29-3a58.png)
+   ![](assets/managing-tag-values-10.png)
 
 You can then unhide the values you would like to use in the future.

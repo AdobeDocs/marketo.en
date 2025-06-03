@@ -3,6 +3,7 @@ unique-page-id: 2359410
 description: Send an Email - Marketo Docs - Product Documentation
 title: Send an Email
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
+feature: Getting Started
 ---
 # Send an Email {#send-an-email}
 
@@ -14,43 +15,43 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
 ## Create an Email Program {#create-an-email-program}
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
-   ![](assets/one-1.png)
+   ![](assets/send-an-email-1.png)
 
-1. Select your **Learning** folder. Click the **New** drop-down and select **New Program**.
+1. Select your **[!UICONTROL Learning]** folder. Click the **[!UICONTROL New]** drop-down and select **[!UICONTROL New Program]**.
 
-   ![](assets/two-1.png)
+   ![](assets/send-an-email-2.png)
 
-1. Enter a **Name** and select **Email** for **Program Type.**
+1. Enter a **[!UICONTROL Name]** and select **[!UICONTROL Email]** for **[!UICONTROL Program Type]**.
 
    >[!TIP]
    >
    >Add your initials at the end of the program name to make it unique.
 
-   ![](assets/three.png)
+   ![](assets/send-an-email-3.png)
 
-1. Under **Channel**, select **Email Send** and click **Create**.
+1. Under **[!UICONTROL Channel]**, select **[!UICONTROL Email Send]** and click **[!UICONTROL Create]**.
 
-   ![](assets/image2015-3-2-16-3a25-3a18.png)
+   ![](assets/send-an-email-4.png)
 
 ## Define your Audience {#define-your-audience}
 
-1. Click **Edit Smart List** under the Audience tile.
+1. Click **[!UICONTROL Edit Smart List]** under the [!UICONTROL Audience] tile.
 
-   ![](assets/five.png)
+   ![](assets/send-an-email-5.png)
 
-1. Find and drag the Email Address filter into the canvas.
+1. Find and drag the [!UICONTROL Email Address] filter onto the canvas.
 
-   ![](assets/six.png)
+   ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >Use **Search** at the top of the Filters list to find the filter more easily.
+   >Use the **[!UICONTROL Search]** function to find filters more easily.
 
 1. Find and select your email address.
 
-   ![](assets/seven-1.png)
+   ![](assets/send-an-email-7.png)
 
    >[!NOTE]
    >
@@ -60,69 +61,69 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
    >
    >In this example we're having you send the email to only yourself, but you can customize the audience as you see fit.
 
-1. Go back to the main program tab and click the refresh icon for **Person**.
+1. Go back to the main program tab and click the refresh icon for **[!UICONTROL Person]**.
 
-   ![](assets/refresh-icon.png)
+   ![](assets/send-an-email-8.png)
 
    You should see the person count go up to 1. That's you!
 
 ## Create an Email {#create-an-email}
 
-1. Under the Email tile click **New Email**.
+1. Under the Email tile click **[!UICONTROL New Email]**.
 
-   ![](assets/image2014-9-8-15-3a10-3a47.png)
+   ![](assets/send-an-email-9.png)
 
-1. Enter a **Name**, select a **Template**, and click **Create**.
+1. Enter a **[!UICONTROL Name]**, select a **Template**, and click **[!UICONTROL Create]**.
 
-   ![](assets/ten-1.png)
+   ![](assets/send-an-email-10.png)
 
 1. The email editor window will open. Enter a subject that's 50 characters or less (recommended).
 
-   ![](assets/eleven.png)
+   ![](assets/send-an-email-11.png)
 
    >[!NOTE]
    >
-   >If you have a pop-up blocker, click **Edit Draft** to enter the email editor.
+   >If you have a pop-up blocker, click **[!UICONTROL Edit Draft]** to enter the email editor.
 
-1. Select the area you want to edit, click the gear icon on the right, then select **Edit** (you can also double-click the editable section to edit).
+1. Select the area you want to edit, click the gear icon on the right, then select **[!UICONTROL Edit]** (you can also double-click the editable section to edit).
 
-   ![](assets/twelve.png)
+   ![](assets/send-an-email-12.png)
 
-1. Enter the content you want and click **Save**.
+1. Enter the content you want and click **[!UICONTROL Save]**.
 
-   ![](assets/thirteen.png)
+   ![](assets/send-an-email-13.png)
 
-1. The changes will auto-save. Close the editor tab/window.
+1. Click the **[!UICONTROL Email Actions]** drop-down and select **[!UICONTROL Approve and Close]**.
 
-   ![](assets/fourteen.png)
-
-1. Click the **Email Actions** drop-down and select **Approve**.
-
-   ![](assets/fifteen.png)
+   ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
-   >Want to send yourself a quick sample to see how your email looks prior to launching? Select **Send Sample** in the menu above, or click **Email Actions** then [**Send Sample**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}.
+   >Want to send yourself a quick sample to see how your email looks prior to launching? Select **[!UICONTROL Send Sample]** in the menu above, or click **[!UICONTROL Email Actions]** then [**[!UICONTROL Send Sample]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}.
 
 1. Select the Email Program in the left tree.
 
-   ![](assets/sixteen.png)
+   ![](assets/send-an-email-15.png)
 
-1. Under the Schedule tile, set the launch day for the email to **Today.**
+1. Under the [!UICONTROL Schedule] tile, set the launch day for the email to **[!UICONTROL Today]**.
 
-   ![](assets/image2014-9-8-15-3a13-3a11.png)
+   ![](assets/send-an-email-16.png)
+
+   >[!NOTE]
+   >
+   >Learn more about [Recipient Time Zone](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} and [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}.
 
 1. Select a time that's at least 15 minutes in the future.
 
-   ![](assets/image2014-9-8-15-3a13-3a25.png)
+   ![](assets/send-an-email-17.png)
 
    >[!TIP]
    >
    >Is the default time zone not yours? Learn how to [update it here](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
 
-1. Click **Approve Program** under the Approval tile and you're done!
+1. Click **[!UICONTROL Approve Program]** under the [!UICONTROL Approval] tile and you're done!
 
-   ![](assets/image2014-9-8-15-3a13-3a34.png)
+   ![](assets/send-an-email-18.png)
 
 You should receive the email shortly after the scheduled day/time.
 

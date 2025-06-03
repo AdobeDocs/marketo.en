@@ -3,6 +3,7 @@ unique-page-id: 2360401
 description: Compare Channel Effectiveness with the Program Analyzer - Marketo Docs - Product Documentation
 title: Compare Channel Effectiveness with the Program Analyzer
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Compare Channel Effectiveness with the Program Analyzer {#compare-channel-effectiveness-with-the-program-analyzer}
 

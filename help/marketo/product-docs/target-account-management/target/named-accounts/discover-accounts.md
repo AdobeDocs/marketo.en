@@ -3,6 +3,7 @@ unique-page-id: 11378812
 description: Discover Accounts - Marketo Docs - Product Documentation
 title: Discover Accounts
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
+feature: Target Account Management
 ---
 # Discover Accounts {#discover-accounts}
 
@@ -20,7 +21,7 @@ Identify potential target accounts from your CRM.
 
 **Potential People** (In Discover CRM Accounts & Discover Marketo Companies): Shows how many leads Marketo found that could possibly belong to a CRM account.
 
-**Custom CRM field** (In Discover CRM Accounts only): This will help you align your sales and marketing organization for selection of correct target accounts. Once you [map the custom CRM field](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) with Marketo TAM, we’ll show you the mapped data to help you identify your target accounts.
+**Custom CRM field** (In Discover CRM Accounts only): This will help you align your sales and marketing organization for selection of correct target accounts. Once you [map the custom CRM field](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) with Marketo TAM, we'll show you the mapped data to help you identify your target accounts.
 
 1. In Named Accounts, click the **New** drop-down and select **Discover CRM Accounts**.
 
@@ -69,8 +70,6 @@ Identify the right companies for targeting.
    >* Filters out most Internet Service Providers and Public Domains (e.g., yahoo.com, gmail.com) as company names
    >
    >* Dedupes CRM accounts. If you have "Acme" in one record and "Acme Inc" (or any of the following suffixes: Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), we will merge them in TAM as just "Acme"
-   >
-   >If you'd like Marketo to de-dupe accounts by CRM ID or Account Owner instead of by Company Name, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Click the down arrow under the Named Account column to reveal the drop-down.
 

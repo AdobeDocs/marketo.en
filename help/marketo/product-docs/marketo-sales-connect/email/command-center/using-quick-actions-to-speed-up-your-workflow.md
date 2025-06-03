@@ -3,6 +3,7 @@ unique-page-id: 37357306
 description: Using Quick Actions to Speed Up Your Workflow - Marketo Docs - Product Documentation
 title: Using Quick Actions to Speed Up Your Workflow
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
+feature: Marketo Sales Connect
 ---
 # Using Quick Actions to Speed Up Your Workflow {#using-quick-actions-to-speed-up-your-workflow}
 

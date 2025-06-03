@@ -2,6 +2,7 @@
 description: Export Roles and Permissions - Marketo Docs - Product Documentation
 title: Export Roles and Permissions
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
+feature: Users and Roles
 ---
 # Export Roles and Permissions {#export-roles-and-permissions}
 
@@ -11,15 +12,15 @@ Here's how to export all roles and their permissions.
 >
 >Admin Permissions Required
 
-1. In your My Marketo, click **Admin**.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/export-roles-and-permissions-1.png)
 
-1. Select **Users and Roles**.
+1. Select **[!UICONTROL Users & Roles]**.
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. Click the **Roles** tab.
+1. Click the **[!UICONTROL Roles]** tab.
 
    ![](assets/export-roles-and-permissions-3.png)
 

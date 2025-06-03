@@ -3,25 +3,22 @@ unique-page-id: 1147080
 description: Change Revenue Stage - Marketo Docs - Product Documentation
 title: Change Revenue Stage
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
+feature: Smart Campaigns
 ---
 # Change Revenue Stage {#change-revenue-stage}
 
-## Overview {#overview}
+If you're using Revenue Cycle Modeler and have an approved model, you may decide to move people manually from one stage to another. This flow step will help.
 
-If you're using Revenue Cycle Modeler and have an approved model, you may decide to move leads manually from one stage to another. This flow step will help.
+![](assets/change-revenue-stage-1.png)
 
-![](assets/image2014-9-22-17-3a4-3a59.png)
+1. Select the **[!UICONTROL Model]**.
 
-## Usage {#usage}
+   ![](assets/change-revenue-stage-2.png)
 
-1. Select the **Model**.
+1. Select the **[!UICONTROL New Stage]** you want to assign and you're done!
 
-   ![](assets/image2014-9-22-17-3a5-3a4.png)
-
-1. Select the **New Stage** you want to assign and you're done!
-
-   ![](assets/image2014-9-22-17-5-8.png)
+   ![](assets/change-revenue-stage-3.png)
 
    >[!CAUTION]
    >
-   >The data warehouse pays close attention to when leads move between stages. This can create bad data if used incorrectly.
+   >The data warehouse pays close attention to when people move between stages. This can create bad data if used incorrectly.

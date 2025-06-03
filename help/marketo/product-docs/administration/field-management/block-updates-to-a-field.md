@@ -3,30 +3,35 @@ unique-page-id: 2360291
 description: Block Updates to a Field - Marketo Docs - Product Documentation
 title: Block Updates to a Field
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
+feature: Field Management
 ---
 # Block Updates to a Field {#block-updates-to-a-field}
 
-Blocking updates to a field allows you to write to the field once and then retain the original value for the lifetime of the field. This can be useful for a field like Person Source.
+Blocking updates to a field allows you to write to the field once and then retain the original value for the lifetime of the field. This can be useful for a field like [!UICONTROL Person Source].
 
 >[!NOTE]
 >
 >**Admin Permissions Required**
 
-1. Go to **Admin** and click **Field Management**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2014-9-24-13-3a54-3a40.png)
+   ![](assets/block-updates-to-a-field-1.png)
 
-1. Find the field, select it, then under **Field Actions**, click **Block Field Updates**.
+1. Click **[!UICONTROL Field Management]**.
 
-   ![](assets/two-1.png)
+   ![](assets/block-updates-to-a-field-2.png)
+
+1. Find the field, select it, then under **[!UICONTROL Field Actions]**, click **[!UICONTROL Block Field Updates]**.
+
+   ![](assets/block-updates-to-a-field-3.png)
 
    >[!NOTE]
    >
    >You can block updates to [Program Member Custom Fields](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md) as well.
 
-1. Select the **Input Sources** you want to block and click **Apply**.
+1. Select the **[!UICONTROL Input Sources]** you want to block and click **[!UICONTROL Apply]**.
 
-   ![](assets/image2014-9-24-13-3a55-3a16.png)
+   ![](assets/block-updates-to-a-field-4.png)
 
    >[!CAUTION]
    >

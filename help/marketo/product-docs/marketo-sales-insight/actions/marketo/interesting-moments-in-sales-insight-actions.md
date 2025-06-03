@@ -2,6 +2,7 @@
 description: Interesting Moments in Sales Insight Actions - Marketo Docs - Product Documentation
 title: Interesting Moments in Sales Insight Actions
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
+feature: Sales Insight Actions
 ---
 # Interesting Moments in Sales Insight Actions {#interesting-moments-in-sales-insight-actions}
 

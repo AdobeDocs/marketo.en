@@ -3,12 +3,13 @@ unique-page-id: 2949841
 description: Understanding Event Programs - Marketo Docs - Product Documentation
 title: Understanding Event Programs
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
+feature: Events
 ---
 # Understanding Event Programs {#understanding-event-programs}
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 ## Overview {#overview}
 

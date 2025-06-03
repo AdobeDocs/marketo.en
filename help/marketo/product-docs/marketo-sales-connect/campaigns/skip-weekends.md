@@ -3,6 +3,7 @@ unique-page-id: 14352622
 description: Skip Weekends - Marketo Docs - Product Documentation
 title: Skip Weekends
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
+feature: Marketo Sales Connect
 ---
 # Skip Weekends {#skip-weekends}
 

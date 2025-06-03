@@ -3,6 +3,7 @@ unique-page-id: 5472348
 description: Make an Existing Free-form Landing Page Template Mobile Compatible - Marketo Docs - Product Documentation
 title: Make an Existing Free-form Landing Page Template Mobile Compatible
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
+feature: Landing Pages
 ---
 # Make an Existing Free-form Landing Page Template Mobile Compatible {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
@@ -46,7 +47,7 @@ This can be done in two places, the Template Editor and the Landing Page Editor.
 
    Great questions! Your template must have have the following tags:
 
-   `<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`  
+   `Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>`  
 
    If everything looks good, you'll see this message.
 

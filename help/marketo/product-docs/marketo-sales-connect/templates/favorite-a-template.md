@@ -3,6 +3,7 @@ unique-page-id: 14352633
 description: Favorite a Template - Marketo Docs - Product Documentation
 title: Favorite a Template
 exl-id: f2697fff-5be3-4137-9a8d-8d8f338d9627
+feature: Marketo Sales Connect
 ---
 # Favorite a Template {#favorite-a-template}
 

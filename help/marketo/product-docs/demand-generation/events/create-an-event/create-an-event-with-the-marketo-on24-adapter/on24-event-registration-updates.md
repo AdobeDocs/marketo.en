@@ -3,6 +3,7 @@ unique-page-id: 10096683
 description: ON24 Event Registration Updates - Marketo Docs - Product Documentation
 title: ON24 Event Registration Updates
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
+feature: Events
 ---
 # ON24 Event Registration Updates {#on-event-registration-updates}
 
@@ -34,4 +35,4 @@ Marketo automatically pulls in the attendance information at approximately 11pm 
 
 >[!MORELIKETHIS]
 >
->[Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

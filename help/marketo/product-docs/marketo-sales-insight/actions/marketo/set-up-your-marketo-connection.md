@@ -4,6 +4,7 @@ title: Set up Your Marketo Connection
 hide: yes
 hidefromtoc: yes
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
+feature: Sales Insight Actions
 ---
 # Set up Your Marketo Connection {#set-up-your-marketo-connection}
 

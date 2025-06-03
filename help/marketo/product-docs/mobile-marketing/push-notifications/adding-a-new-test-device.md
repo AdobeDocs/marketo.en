@@ -3,6 +3,7 @@ unique-page-id: 8783146
 description: Adding a New Test Device - Marketo Docs - Product Documentation
 title: Adding a New Test Device
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
+feature: Mobile Marketing
 ---
 # Adding a New Test Device {#adding-a-new-test-device}
 

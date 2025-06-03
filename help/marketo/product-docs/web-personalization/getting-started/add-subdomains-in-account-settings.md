@@ -3,6 +3,7 @@ unique-page-id: 17727870
 description: Add Subdomains in Account Settings - Marketo Docs - Product Documentation
 title: Add Subdomains in Account Settings
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
+feature: Web Personalization
 ---
 # Add Subdomains in Account Settings {#add-subdomains-in-account-settings}
 

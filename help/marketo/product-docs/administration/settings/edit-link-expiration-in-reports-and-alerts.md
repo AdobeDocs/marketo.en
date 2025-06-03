@@ -3,6 +3,7 @@ unique-page-id: 2360213
 description: Edit Link Expiration in Reports and Alerts - Marketo Docs - Product Documentation
 title: Edit Link Expiration in Reports and Alerts
 exl-id: 9be08798-c413-451b-9b67-893042668061
+feature: Administration
 ---
 # Edit Link Expiration in Reports and Alerts {#edit-link-expiration-in-reports-and-alerts}
 
@@ -12,17 +13,21 @@ Links in your report subscription emails expire after three days. In order to ch
 >
 >**Admin Permissions Required**
 
-1. Under **Admin**, click **Login Settings**.
+1. Go to the **[!UICONTROL Admin]** section.
 
-   ![](assets/image2014-9-24-11-3a33-3a31.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
 
-1. Click **Edit URL Expiration**.
+1. Click **[!UICONTROL Login Settings]**.
 
-   ![](assets/image2014-9-24-11-3a33-3a43.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
-1. In the drop-down, select the number of days before the link expires. Click **Save**.
+1. Click **[!UICONTROL Edit URL Expiration]**.
 
-   ![](assets/emaillinkexpiration.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
+
+1. In the drop-down, select the number of days before the link expires. Click **[!UICONTROL Save]**.
+
+   ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 
 >[!IMPORTANT]
 >

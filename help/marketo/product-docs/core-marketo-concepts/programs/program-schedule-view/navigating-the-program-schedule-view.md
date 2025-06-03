@@ -3,6 +3,7 @@ unique-page-id: 1147100
 description: Navigating the Program Schedule View - Marketo Docs - Product Documentation
 title: Navigating the Program Schedule View
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
+feature: Programs
 ---
 # Navigating the Program Schedule View {#navigating-the-program-schedule-view}
 
@@ -10,11 +11,11 @@ Here are the basics to help you navigate the program schedule view.
 
 ## Find the Schedule View {#find-the-schedule-view}
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select your program. Click the **View** drop-down. Select **Schedule**.
+1. Select your program. Click the **[!UICONTROL View]** drop-down. Select **[!UICONTROL Schedule]**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -44,7 +45,7 @@ Here are the basics to help you navigate the program schedule view.
 
 ## Changing Between Modes {#changing-between-modes}
 
-1. Clicking on **3 Weeks** or **Month** will change the visible dates on your display.
+1. Clicking on **[!UICONTROL 3 Weeks]** or **[!UICONTROL Month]** will change the visible dates on your display.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
@@ -58,4 +59,4 @@ Great! Now that you know how to view your program, let's learn the other cool th
 
 >[!MORELIKETHIS]
 >
->[Creating an Entry in the Program Schedule View](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
+>[Creating an Entry in the Program Schedule View](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}

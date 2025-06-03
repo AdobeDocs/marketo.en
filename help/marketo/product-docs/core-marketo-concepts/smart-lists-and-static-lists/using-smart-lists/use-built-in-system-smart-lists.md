@@ -3,46 +3,67 @@ unique-page-id: 557275
 description: Use Built-in/System Smart Lists - Marketo Docs - Product Documentation
 title: Use Built-in/System Smart Lists
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
+feature: Smart Lists
 ---
 # Use Built-in/System Smart Lists {#use-built-in-system-smart-lists}
 
-Marketo has some very useful built-in smart lists. Let's check them out!
+Marketo Engage has some very useful built-in Smart Lists. Let's check them out!
 
->[!NOTE]
->
->Marketo is in the process of changing terms such as Blacklist and Whitelist to Blocklist and Allowlist in our product. During this update, you may see the old terms in our UI and documentation screenshots, and the new terms in our documentation text. We apologize for any confusion.
+1. Go to the **[!UICONTROL Database]**.
 
-1. Go to the **Database**.
+   ![](assets/use-built-in-system-smart-lists-1.png)
 
-   ![](assets/db.png)
+1. Open the **[!UICONTROL System Smart Lists]** folder to reveal the collection.
 
-1. Open the **System Smart Lists** folder to reveal the collection.
+   ![](assets/use-built-in-system-smart-lists-2.png)
 
-   ![](assets/two.png)
+1. To see one example: Select **[!UICONTROL All People]**, then click the **[!UICONTROL People]** tab.
 
-1. To see one example: Select **All People**, then click the **People** tab.
-
-   ![](assets/three.png)
+   ![](assets/use-built-in-system-smart-lists-3.png)
 
    >[!NOTE]
    >
-   >The filters in system smart lists do not need to be applied to each smart list/campaign. Their contents are automatically recognized.
+   >The filters in System Smart Lists do not need to be applied to each Smart List/Campaign. Their contents are automatically recognized.
 
-Here's a summary of what the built-in smart lists do:
+Here's a summary of what the built-in Smart Lists do:
 
-   | List Name |Description |
-   |---|---|
-   | All People |All people in your Marketo database |
-   | Unsubscribed People |These people can only be sent operational emails; this is usually controlled by the person themselves. |
-   | Marketing Suspended |These people can only be sent operational emails; this is usually controlled by you, the marketer. |
-   | Blocklist |These people will not receive any email at all. |
-   | Bounced Email Addresses |People with an undeliverable email address or that reject your email. |
-   | Possible Duplicates |People that might be duplicated in the Marketo database. |
+<table><thead>
+  <tr>
+    <th>List Name</th>
+    <th>Description</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>All People</td>
+    <td>All people in your Marketo database</td>
+  </tr>
+  <tr>
+    <td>Unsubscribed People</td>
+    <td>These people can only be sent operational emails; this is usually controlled by the person themselves.</td>
+  </tr>
+  <tr>
+    <td>Marketing Suspended</td>
+    <td>These people can only be sent operational emails; this is usually controlled by you, the marketer.</td>
+  </tr>
+  <tr>
+    <td>Blocklist</td>
+    <td>These people will not receive any email at all.</td>
+  </tr>
+  <tr>
+    <td>Bounced Email Addresses</td>
+    <td>People with an undeliverable email address or that reject your email.</td>
+  </tr>
+  <tr>
+    <td>Possible Duplicates</td>
+    <td>People that might be duplicated in the Marketo database.</td>
+  </tr>
+</tbody>
+</table>
 
 >[!NOTE]
 >
->System smart lists can't be deleted. With the exception of the Possible Duplicates list, they cannot be edited, either.
+>System Smart Lists can't be deleted. With the exception of the Possible Duplicates list, they cannot be edited, either.
 
 >[!MORELIKETHIS]
 >
->[Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

@@ -1,6 +1,7 @@
 ---
 description: Actions Data Sync FAQ - Marketo Docs - Product Documentation
 title: Actions Data Sync FAQ
+feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
 ---
 # Actions Data Sync FAQ {#actions-data-sync-faq}
@@ -35,7 +36,7 @@ The sales owner does not have to be the Marketo sync user or any specific Salesf
 
    ![](assets/actions-data-sync-faq-3.png)
 
-The activity data such as email, call, interesting moment and web, is all sourced from Marketo Engage’s database. The Sales Insight Smart Grid makes a request to the Marketo Engage instance to retrieve this each time a sales user loads the Sales Insight panel.
+The activity data such as email, call, interesting moment and web, is all sourced from Marketo Engage's database. The Sales Insight Smart Grid makes a request to the Marketo Engage instance to retrieve this each time a sales user loads the Sales Insight panel.
 
    ![](assets/actions-data-sync-faq-4.png)
 
@@ -49,6 +50,8 @@ There are 11 fields that sync from Marketo Engage to Sales Insight Actions:
 * Last name
 * Salesforce contact ID
 * Salesforce lead ID
+* Salesforce account ID
+* Salesforce opportunity ID
 * Marketo ID
 * Company
 * Title
@@ -113,3 +116,4 @@ The diagram above shows what information is logged to Salesforce. Activities suc
 >* [Salesforce Sync Settings](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Reminder Task Sync with Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [Initiate Data Sync](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
+

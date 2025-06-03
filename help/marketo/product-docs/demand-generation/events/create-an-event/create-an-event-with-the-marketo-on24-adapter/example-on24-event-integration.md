@@ -3,6 +3,7 @@ unique-page-id: 10096679
 description: Example ON24 Event Integration - Marketo Docs - Product Documentation
 title: Example ON24 Event Integration
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
+feature: Events
 ---
 # Example ON24 Event Integration {#example-on-event-integration}
 
@@ -86,4 +87,4 @@ Here's a sample event, including campaigns, for an ON24 webinar. When you build 
 
 >[!MORELIKETHIS]
 >
->[Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

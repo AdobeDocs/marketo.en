@@ -3,6 +3,7 @@ unique-page-id: 2359562
 description: Champion/Challenger -Define Champion Criteria - Marketo Docs - Product Documentation
 title: Champion/Challenger -Define Champion Criteria
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
+feature: Email Editor
 ---
 # Champion/Challenger: Define Champion Criteria {#champion-challenger-define-champion-criteria}
 
@@ -22,7 +23,7 @@ Once you've set up your test type, you need to define the champion criteria. Her
    >
    >We'll track this metric and send you a report with the data by email.
 
-1. If you picked one of the default **Champion Criteria**, go ahead and move on to [Champion/Challenger: Configure Report Alerts](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
+1. If you picked one of the default **Champion Criteria**, go ahead and move on to [configuring report alerts](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)!
 
 ## Custom Champion Criteria {#custom-champion-criteria}
 
@@ -52,4 +53,4 @@ Once you've set up your test type, you need to define the champion criteria. Her
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: Configure Report Alerts](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+   >[Champion/Challenger: Analytics](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)

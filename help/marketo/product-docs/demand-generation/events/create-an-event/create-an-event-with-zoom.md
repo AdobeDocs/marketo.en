@@ -3,6 +3,7 @@ unique-page-id: 17728023
 description: Create an Event with Zoom - Marketo Docs - Product Documentation
 title: Create an Event with Zoom
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
+feature: Events
 ---
 # Create an Event with Zoom {#create-an-event-with-zoom}
 
@@ -10,13 +11,13 @@ exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 >
 >* [Add Zoom as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Set the appropriate [flow actions](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)to track engagement
+>* Set the appropriate [flow actions](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) to track engagement
 
 First create your webinar in Zoom. Certain settings in the creation of your Zoom are used by Marketo, and some are only used by Zoom.
 
 After you create a Marketo event and associate a Zoom webinar with it, the systems will be able to share registration and attendance information. For help creating a webinar, see  [Getting Started with Zoom Webinars](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
 
-Enter the following information for your webinar and it will be pulled into Marketo via the adapter. If you make any changes to this information, you must click the link “Refresh from Webinar Provider” under Event Actions, in order for Marketo to see the changes.
+Enter the following information for your webinar and it will be pulled into Marketo via the adapter. If you make any changes to this information, you must click the link "Refresh from Webinar Provider" under Event Actions, in order for Marketo to see the changes.
 
 **Title and Description**
 
@@ -96,4 +97,4 @@ Now, let's jump into Marketo!
 
    >[!TIP]
    >
-   >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, select **Refresh from Webinar Provider** from the Event Actions menu in the **Summary** tab of your event.
+   >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, select **Refresh from Webinar Provider** from the Event Actions menu in the **Summary** tab of your event, then click the refresh icon on the bottom right of the screen.

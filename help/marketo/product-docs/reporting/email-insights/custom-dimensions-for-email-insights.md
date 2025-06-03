@@ -3,6 +3,7 @@ unique-page-id: 11375276
 description: Custom Dimensions for Email Insights - Marketo Docs - Product Documentation
 title: Custom Dimensions for Email Insights
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
+feature: Reporting
 ---
 # Custom Dimensions for Email Insights {#custom-dimensions-for-email-insights}
 

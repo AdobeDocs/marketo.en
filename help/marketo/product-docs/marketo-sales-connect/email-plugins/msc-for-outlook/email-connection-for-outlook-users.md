@@ -3,6 +3,7 @@ unique-page-id: 17727591
 description: Email Connection for Outlook Users - Marketo Docs - Product Documentation
 title: Email Connection for Outlook Users
 exl-id: e694915c-39a6-4476-a643-080acb758de7
+feature: Marketo Sales Connect
 ---
 # Email Connection for Outlook Users {#email-connection-for-outlook-users}
 

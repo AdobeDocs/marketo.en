@@ -3,6 +3,7 @@ unique-page-id: 14745959
 description: Release Notes -Spring '18 - Marketo Docs - Product Documentation
 title: Release Notes -Spring '18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
+feature: Release Information
 ---
 # Release Notes: Spring '18 {#release-notes-spring}
 
@@ -18,7 +19,7 @@ Please click the title links to view detailed articles for each feature. Note: S
 
 >[!AVAILABILITY]
 >
->Sales Engage is an add-on product. Please contact your Marketo Customer Success Manager or Account Executive for a quote.
+>Sales Engage is an add-on product. Please contact your Marketo Account Manager or Account Executive for a quote.
 
 Drive more pipeline and revenue by empowering sales with the intelligence, content, playbooks, and analytics to convert more of your leads into sales opportunities. Sales Engage provides sales and marketing with a unified platform for engagement across the customer journey and enables better coordination through a shared view of customer touchpoints.
 
@@ -70,16 +71,12 @@ Set the objective of the ContentAI optimization algorithm to drive more views, c
 
 ## Integration and APIs {#integration-and-apis}
 
-[Facebook Workplace Integration](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
-
-Send system notifications and interesting moments to Facebook Workplace.
-
-[Static List APIs](https://developers.marketo.com/rest-api/assets/static-lists/)
+[Static List APIs](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
 
 Manage lists between Marketo and other systems more easily with new bi-directional APIs for creating, reading, updating, and deleting static lists remotely without taking any action in the Marketo UI.
 
 ## Privacy Enhancements {#privacy-enhancements}
 
-[Web Tracking Privacy](https://developers.marketo.com/javascript-api/lead-tracking/)
+[Web Tracking Privacy](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
 
 Enhanced Munchkin tracking complies with local and international privacy regulations by anonymizing the IP addresses of web visitors and allowing them to permanently opt-out of web tracking.

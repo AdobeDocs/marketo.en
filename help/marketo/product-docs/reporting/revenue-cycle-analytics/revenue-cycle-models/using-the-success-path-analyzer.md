@@ -3,6 +3,7 @@ unique-page-id: 3571886
 description: Using the Success Path Analyzer - Marketo Docs - Product Documentation
 title: Using the Success Path Analyzer
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Using the Success Path Analyzer {#using-the-success-path-analyzer}
 

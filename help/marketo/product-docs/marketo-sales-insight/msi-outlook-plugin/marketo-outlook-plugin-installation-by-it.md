@@ -3,6 +3,7 @@ unique-page-id: 11382815
 description: Marketo Outlook Plugin Installation by IT - Marketo Docs - Product Documentation
 title: Marketo Outlook Plugin Installation by IT
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
+feature: Marketo Sales Insights
 ---
 # Marketo Outlook Plugin Installation by IT {#marketo-outlook-plugin-installation-by-it}
 

@@ -3,6 +3,7 @@ unique-page-id: 1147247
 description: Hiding and Unhiding Custom Entry Types - Marketo Docs - Product Documentation
 title: Hiding and Unhiding Custom Entry Types
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
+feature: Programs
 ---
 # Hiding and Unhiding Custom Entry Types {#hiding-and-unhiding-custom-entry-types}
 
@@ -10,11 +11,11 @@ Custom entry types can be hidden in the Admin section. Once hidden, the entry ty
 
 ## Hide a Custom Entry Type {#hide-a-custom-entry-type}
 
-1. Go to the **Admin** section and click **Calendar Entry** **Types**.
+1. Go to the **[!UICONTROL Admin]** section and click **[!UICONTROL Calendar Entry Types]**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
-1. Right-click your custom entry and click **Hide**.
+1. Right-click your custom entry and click **[!UICONTROL Hide]**.
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
@@ -24,7 +25,7 @@ Custom entry types can be hidden in the Admin section. Once hidden, the entry ty
 
    If you want to unhide a custom entry type, that's easy, too.
 
-1. Right-click your entry and select **Unhide**.
+1. Right-click your entry and select **[!UICONTROL Unhide]**.
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 

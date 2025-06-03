@@ -3,6 +3,7 @@ unique-page-id: 37356593
 description: Using a Template in the Compose Window - Marketo Docs - Product Documentation
 title: Using a Template in the Compose Window
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
+feature: Marketo Sales Connect
 ---
 # Using a Template in the Compose Window {#using-a-template-in-the-compose-window}
 

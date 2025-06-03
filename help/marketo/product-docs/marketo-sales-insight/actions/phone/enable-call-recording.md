@@ -2,6 +2,7 @@
 description: Enable Call Recording - Marketo Docs - Product Documentation
 title: Enable Call Recording
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
+feature: Sales Insight Actions
 ---
 # Enable Call Recording {#enable-call-recording}
 

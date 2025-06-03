@@ -1,12 +1,13 @@
 ---
 unique-page-id: 2360354
-description: Add Munchkin Tracking Code to Your Website - Marketo Docs - Product Documentation
-title: Add Munchkin Tracking Code to Your Website
+description: "Add [!DNL Munchkin] Tracking Code to Your Website - Marketo Docs - Product Documentation"
+title: "Add [!DNL Munchkin] Tracking Code to Your Website"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
+feature: Administration, Munchkin Tracking Code
 ---
-# Add Munchkin Tracking Code to Your Website {#add-munchkin-tracking-code-to-your-website}
+# Add [!DNL Munchkin] Tracking Code to Your Website {#add-munchkin-tracking-code-to-your-website}
 
-Marketo's custom JavaScript tracking code, called Munchkin, tracks all individuals who visit your website so you can react to their visits with automated marketing campaigns. Even anonymous visitors are tracked along with their IP addresses and other information. **Without this tracking code, you will not be able to track visits or other activity on your website**!
+Marketo's custom JavaScript tracking code, called [!DNL Munchkin], tracks all individuals who visit your website so you can react to their visits with automated marketing campaigns. Even anonymous visitors are tracked along with their IP addresses and other information. **Without this tracking code, you will not be able to track visits or other activity on your website**!
 
 >[!PREREQUISITES]
 >
@@ -16,105 +17,122 @@ Marketo's custom JavaScript tracking code, called Munchkin, tracks all individua
 
 >[!NOTE]
 >
->Adobe Experience Cloud customers can also use Marketo's integration in Adobe Launch to include Munchkin script on their web pages. Get the app [here](https://www.adobeexchange.com/experiencecloud.details.101054.html).
+>Adobe Experience Cloud users can also use the [Marketo integration in Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} to include [!DNL Munchkin] script on their web pages. If you use Adobe Launch, _the [!DNL Munchkin] script gets added automatically_, so you would not need to add it yourself.
 
-1. Go to **Admin** and click **Munchkin** in the tree on the left.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2015-8-25-16-3a21-3a14.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
-   Select Asynchronous for Tracking Code Type.
+1. Click **[!UICONTROL Munchkin]**.
 
-   ![](assets/image2015-8-25-16-3a24-3a33.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
+
+1. Select **[!UICONTROL Asynchronous]** for **[!UICONTROL Tracking Code Type]**.
+
+   ![](assets/add-munchkin-tracking-code-to-your-website-3.png)
 
    >[!NOTE]
    >
-   >In almost all cases, you should use the asynchronous code. [Learn more.](#types-of-munchkin-tracking-codes)
+   >In almost all cases, you should use the asynchronous code. [Learn more](#types-of-munchkin-tracking-codes).
 
-   Click and copy the Javascript tracking code to put on your website.
+1. Click and copy the Javascript tracking code to put on your website.
 
-   ![](assets/image2015-8-25-16-3a26-3a12.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-4.png)
 
    >[!CAUTION]
    >
-   >Don’t use the code shown in this screenshot - you must use the unique code that appears in your account!
+   >Don't use the code shown in this screenshot - you must use the unique code that appears in your account!
 
    >[!TIP]
    >
    >Put tracking code on the web pages you want to track. This may be every page for smaller sites, or only key pages on sites that have many dynamically generated Web pages, user forums, and so on.
 
-   For best results, use the asynchronous Munchkin code and place it inside the `<head>` elements of your pages. If you are using the simple code (not recommended), this is right before the `</body>` tag.
-   ![](assets/image2015-8-25-16-3a5-3a20.png)
+   For best results, use the asynchronous [!DNL Munchkin] code and place it inside the `<head>` elements of your pages. If you are using the simple code (not recommended), this is right before the `</body>` tag.
 
->[!TIP]
->
->For sites that see a high volume of traffic (i.e., hundreds of thousands of visits per month), we recommend you opt not to track anonymous people. [Learn more](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
+   ![](assets/add-munchkin-tracking-code-to-your-website-5.png)
+
+   >[!TIP]
+   >
+   >For sites that see a high volume of traffic (i.e., hundreds of thousands of visits per month), we recommend you opt not to track anonymous people. [Learn more](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}.
 
 ## Add Tracking Code When Using Multiple Workspaces {#add-tracking-code-when-using-multiple-workspaces}
 
-If you're using Workspaces in your Marketo account, you probably also have separate web presences that correspond to your workspaces. In that case, you can use the Munchkin tracking Javascript to assign your anonymous people to the correct workspace and partition.
+If you're using Workspaces in your Marketo account, you probably also have separate web presences that correspond to your workspaces. In that case, you can use the [!DNL Munchkin] tracking Javascript to assign your anonymous people to the correct workspace and partition.
 
-1. Go to **Admin** and click **Munchkin** in the tree on the left.
+1. Go to the **[!UICONTROL Admin]** area.
 
-![](assets/image2015-8-25-16-3a28-3a41.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
+
+1. Click **[!UICONTROL Munchkin]**.
+
+   ![](assets/add-munchkin-tracking-code-to-your-website-7.png)
 
 1. Select the appropriate workspace for the web pages you wish to track.
 
-   ![](assets/image2015-8-25-16-3a30-3a32.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-8.png)
 
->[!NOTE]
->
->If you don't use the special workspace Munchkin code, the people will be assigned to the default partition that was created when your account was set up. It's named "Default" initially, but you might have changed that in your own Marketo account.
+   >[!NOTE]
+   >
+   >If you don't use the special workspace [!DNL Munchkin] code, the people will be assigned to the default partition that was created when your account was set up. It's named "[!UICONTROL Default]" initially, but you might have changed that in your own Marketo account.
 
-1. Select **Asynchronous** for Tracking Code Type.
+1. Select **[!UICONTROL Asynchronous]** for **[!UICONTROL Tracking Code Type]**.
 
-   ![](assets/image2015-8-25-16-3a32-3a42.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
 1. Click and copy the JavaScript tracking code to put on your website.
 
-   ![](assets/image2015-8-25-16-3a34-3a7.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-10.png)
 
    >[!CAUTION]
    >
-   >Don’t use the code shown in this screenshot - you must use the unique code that appears in your account!
+   >Don't use the code shown in this screenshot - you must use the unique code that appears in your account!
 
 1. Place the tracking code on your web pages in the `<head>` element. New people that visit this page will be assigned to this partition.
 
-   ![](assets/image2015-8-25-16-3a5-3a20.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-11.png)
 
->[!CAUTION]
->
->You can only use one Munchkin tracking script for a single partition and workspace on a page. Do not include tracking scripts for multiple partitions/workspaces on your website.
+   >[!CAUTION]
+   >
+   >You can only use one [!DNL Munchkin] tracking script for a single partition and workspace on a page. Do not include tracking scripts for multiple partitions/workspaces on your website.
 
->[!NOTE]
->
->Landing pages created in Marketo automatically contain tracking code, so you don’t need to put this code on them.
+   >[!NOTE]
+   >
+   >Landing pages created in Marketo automatically contain tracking code, so you don't need to put this code on them.
 
-## Types of Munchkin Tracking Codes {#types-of-munchkin-tracking-codes}
+## Types of [!DNL Munchkin] Tracking Codes {#types-of-munchkin-tracking-codes}
 
-There are three types of Munchkin tracking codes you can choose from. Each impact the webpage load times differently.
+There are three types of [!DNL Munchkin] tracking codes you can choose from. Each impact the webpage load times differently.
 
-1. **Simple**: has the fewest lines of code, but does not optimize for webpage loading time. This code loads the jQuery library each time a webpage is loaded.
-1. **Asynchronous**: reduces webpage loading time.
-1. **Asynchronous jQuery**: reduces webpage loading time and also improves system performance. This code assumes that you already have jQuery, and does not check to load it.
+1. **[!UICONTROL Simple]**: has the fewest lines of code, but does not optimize for webpage loading time. This code loads the jQuery library each time a webpage is loaded.
+1. **[!UICONTROL Asynchronous]**: reduces webpage loading time.
+1. **[!UICONTROL Asynchronous jQuery]**: reduces webpage loading time and also improves system performance. This code assumes that you already have jQuery, and does not check to load it.
 
-## Test if Your Munchkin Code is Working {#test-if-your-munchkin-code-is-working}
+## Test if Your [!DNL Munchkin] Code is Working {#test-if-your-munchkin-code-is-working}
 
-To check that your Munchkin code is working after you've added it:
+To check that your [!DNL Munchkin] code is working after you've added it:
 
 1. Visit your web page.
 
-1. Go to **Analytics**.
+1. In your [!DNL My Marketo], click the **[!UICONTROL Analytics]** tile.
 
-   ![](assets/mainnav-analytics-hand.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-12.png)
 
-1. Click **Web Page Activity**.
+1. Click **[!UICONTROL Web Page Activity]**.
 
-   ![](assets/webanalytics.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-13.png)
 
-1. Click the **Setup** tab, double-click **Activity Source**, and change it to **Anonymous Visitors (including ISPs)**.
+1. Click the **[!UICONTROL Setup]** tab, double-click **[!UICONTROL Activity Source]**.
 
-   ![](assets/analytics-activity-source.png)
+   ![](assets/add-munchkin-tracking-code-to-your-website-14.png)
 
-   ![](assets/activitysource.png)
+1. Change the [!UICONTROL Activity Source] to **[!UICONTROL Anonymous Visitors (including ISPs)]** and click **[!UICONTROL Apply]**.
 
-1. Click the **Report** tab. If you don't see any data, wait a few minutes, then click the refresh icon at the bottom.
+   ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
+
+1. Click the **[!UICONTROL Report]** tab. 
+
+   ![](assets/add-munchkin-tracking-code-to-your-website-16.png)
+
+   >[!NOTE]
+   >
+   >If you don't see any data, wait a few minutes, then click the refresh icon at the bottom.

@@ -3,6 +3,7 @@ unique-page-id: 1900565
 description: Include a Calendar Event (.ics) in an Email - Marketo Docs - Product Documentation
 title: Include a Calendar Event (.ics) in an Email
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
+feature: Email Editor
 ---
 # Include a Calendar Event (.ics) in an Email {#include-a-calendar-event-ics-in-an-email}
 

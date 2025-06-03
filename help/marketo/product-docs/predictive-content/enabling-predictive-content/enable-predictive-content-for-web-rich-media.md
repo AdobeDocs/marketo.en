@@ -3,6 +3,7 @@ unique-page-id: 7514956
 description: Enable Predictive Content for Web Rich Media - Marketo Docs - Product Documentation
 title: Enable Predictive Content for Web Rich Media
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
+feature: Predictive Content
 ---
 # Enable Predictive Content for Web Rich Media {#enable-predictive-content-for-web-rich-media}
 
@@ -40,7 +41,7 @@ Once you've prepared the content title, description and image for Rich Media, yo
 
 ## Customize the Javascript Code and Embed it into your Website  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Refer to the documentation for the Rich Media Recommendation template [on the Marketo Developers site](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target="_blank"}. This explains how to customize the template for your website.
+Refer to the documentation for the Rich Media Recommendation template [on the Marketo Developers site](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. This explains how to customize the template for your website.
 
 Paste the JavaScript code into your website in the location where you want the template to appear.
 

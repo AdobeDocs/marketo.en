@@ -10,7 +10,7 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
+>Not everyone has purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
 >[!PREREQUISITES]
 >
@@ -18,39 +18,39 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
 >[!IMPORTANT]
 >
->This feature is fully supported in the current versions of Firefox, Chrome, and Edge. It is not supported in Safari.
+>Currently, this feature is only fully supported in Firefox. It is not supported in Safari, and it might not work in the latest version of Chrome, depending on your SameSite cookie settings.
 
-1. Click **Design Studio**.
+1. Click **[!UICONTROL Design Studio]**.
 
-   ![](assets/one-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Click the New drop-down and select **Import from Adobe Experience Manager**.
+1. Click the New drop-down and select **[!UICONTROL Import from Adobe Experience Manager]**.
 
-   ![](assets/two-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
 1. Choose the folder where your images will be saved to.
 
-   ![](assets/three-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
 1. Log in to Adobe Experience Manager (if you haven't already).
 
-   ![](assets/four-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Choose your folder. Then select your desired images by clicking on the thumbnail (you can choose up to 10). Click **Select** when done.
+1. Choose your folder. Then select your desired images by clicking on the thumbnail (you can choose up to 10). Click **[!UICONTROL Select]** when done.
 
-   ![](assets/five.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
    >[!NOTE]
    >
    >Images cannot exceed 100MB in size.
 
-1. Click **Import** to complete the process.
+1. Click **[!UICONTROL Import]** to complete the process.
 
-   ![](assets/six-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   And that's it! Click **Close** to return to the Design Studio.
+   And that's it! Click **[!UICONTROL Close]** to return to the Design Studio.
 
-   ![](assets/seven-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
 ## Things to Note {#things-to-note}
 

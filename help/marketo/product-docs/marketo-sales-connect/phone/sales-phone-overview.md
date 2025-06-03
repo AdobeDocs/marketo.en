@@ -3,6 +3,7 @@ unique-page-id: 14352438
 description: Sales Phone Overview - Marketo Docs - Product Documentation
 title: Sales Phone Overview
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
+feature: Marketo Sales Connect
 ---
 # Sales Phone Overview {#sales-phone-overview}
 

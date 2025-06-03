@@ -3,34 +3,35 @@ unique-page-id: 10100269
 description: Edit a Custom Activity - Marketo Docs - Product Documentation
 title: Edit a Custom Activity
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
+feature: Custom Activities
 ---
 # Edit a Custom Activity {#edit-a-custom-activity}
 
 Need to make changes to a custom activity you've already created? Here's how.
 
-1. Click **Admin**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/one-1.png)
+   ![](assets/edit-a-custom-activity-1.png)
 
-1. In **Database Management** click **Custom Activities**.
+1. Click **[!UICONTROL Marketo Custom Activities]**.
 
-   ![](assets/two-1.png)
+   ![](assets/edit-a-custom-activity-2.png)
 
 1. Select the custom activity you want to edit.
 
-   ![](assets/three-1.png)
+   ![](assets/edit-a-custom-activity-3.png)
 
-1. Click **Custom Activity Actions** and select **Edit Activity**.
+1. Click **[!UICONTROL Custom Activity Actions]** and select **[!UICONTROL Edit Activity]**.
 
-   ![](assets/four-1.png)
+   ![](assets/edit-a-custom-activity-4.png)
 
-   Edit Activity Type appears. In this example we're fixing a typo.
+   Edit Activity Type appears. In this example, we're fixing a typo.
 
-   ![](assets/five-1.png)
+   ![](assets/edit-a-custom-activity-5.png)
 
-1. Enter your new info and click **Submit**.
+1. Enter your new info and click **[!UICONTROL Submit]**.
 
-   ![](assets/six-1.png)
+   ![](assets/edit-a-custom-activity-6.png)
 
    Your custom activity is now edited!
 

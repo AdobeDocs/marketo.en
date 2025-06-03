@@ -3,6 +3,7 @@ unique-page-id: 10092919
 description: Template 20D - Marketo Docs - Product Documentation
 title: Template 20D
 exl-id: b6fdc927-a469-463a-808e-a08a52c6cfa2
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 20D {#template-20d}
 

@@ -3,6 +3,7 @@ unique-page-id: 8783963
 description: Template 8B - Marketo Docs - Product Documentation
 title: Template 8B
 exl-id: fd194747-2465-4685-a0de-bea7a294726d
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 8B {#template-8b}
 

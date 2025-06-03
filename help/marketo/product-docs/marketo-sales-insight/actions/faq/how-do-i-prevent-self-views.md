@@ -2,6 +2,7 @@
 description: How Do I Prevent Self Views - Marketo Docs - Product Documentation
 title: How Do I Prevent Self Views
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
+feature: Sales Insight Actions
 ---
 # How Do I Prevent Self Views? {#how-do-i-prevent-self-views}
 

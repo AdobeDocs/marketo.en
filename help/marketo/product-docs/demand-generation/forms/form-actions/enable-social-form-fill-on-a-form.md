@@ -3,6 +3,9 @@ unique-page-id: 2359616
 description: Enable Social Form Fill on a Form - Marketo Docs - Product Documentation
 title: Enable Social Form Fill on a Form
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
+hide: yes
+hidefromtoc: yes
+feature: Forms
 ---
 # Enable Social Form Fill on a Form {#enable-social-form-fill-on-a-form}
 
@@ -10,7 +13,7 @@ Allow your visitors to fill out the form using their social network. You will au
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 1. Go to **Marketing Activities**.
 
@@ -30,7 +33,7 @@ Allow your visitors to fill out the form using their social network. You will au
 
    >[!TIP]
    >
-   >Take a look at what [data Marketo will capture](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) if people use the social buttons.
+   >Take a look at what _data Marketo will capture_ if people use the social buttons.
 
 1. Click **Finish**.
 

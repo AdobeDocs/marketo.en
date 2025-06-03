@@ -3,17 +3,18 @@ unique-page-id: 7516241
 description: SFDC Sync - Lead Queue - Marketo Docs - Product Documentation
 title: SFDC Sync - Lead Queue
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
+feature: Salesforce Integration
 ---
 # SFDC Sync: Lead Queue {#sfdc-sync-lead-queue}
 
-Marketo allows you to add people to [Salesforce lead queues](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) to help with lead distribution. Here are the details.
+Marketo Engage allows you to add people to [Salesforce lead queues](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} to help with lead distribution. Here are the details.
 
 ## How to assign a person to a queue in Marketo? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
 You can assign a person to a Salesforce lead queue using either of these flow actions:
 
-* [Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [Change Owner](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
+* [Change Owner](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
 
 >[!NOTE]
 >

@@ -5,10 +5,11 @@ title: Configuring Adobe Experience Manager Integration
 hide: yes
 hidefromtoc: yes
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
+feature: Integrations
 ---
 # Configuring Adobe Experience Manager Integration {#configuring-adobe-experience-manager-integration}
 
-Configure AEM so you can access, select, and import AEM assets into Marketo's Design Studio.
+Configure Adobe Experience Manager (AEM) so you can access, select, and import AEM assets into the Marketo Engage Design Studio.
 
 >[!NOTE]
 >
@@ -24,11 +25,11 @@ Configure AEM so you can access, select, and import AEM assets into Marketo's De
 
    ![](assets/one.png)
 
-1. You can sign in with Adobe or sign in locally. In this example we'll sign in locally.
+1. You can sign in with Adobe or sign in locally. In this example, we'll sign in locally.
 
    ![](assets/two.png)
 
-1. In **Tools**, click **Operations** and select **Web Console**.
+1. In **[!UICONTROL Tools]**, click **[!UICONTROL Operations]** and select **[!UICONTROL Web Console]**.
 
    ![](assets/2a.png)
 
@@ -40,36 +41,34 @@ Configure AEM so you can access, select, and import AEM assets into Marketo's De
 
    ![](assets/four.png)
 
-1. In the **Allowed Origins (Regexp)** text box, type in `https://.*\.marketo\.com` and click **Save**.
+1. In the **[!UICONTROL Allowed Origins (Regexp)]** text box, type in `https://.*\.marketo\.com` and click **[!UICONTROL Save]**.
 
    ![](assets/five-psd.png)
 
-1. In the header at the top of the page, click **Web Console** and select **System Information**.
+1. In the header at the top of the page, click **[!UICONTROL Web Console]** and select **[!UICONTROL System Information]**.
 
    ![](assets/six.png)
 
-1. Under Server Information, click the **Restart** button.
+1. Under Server Information, click the **[!UICONTROL Restart]** button.
 
    ![](assets/seven.png)
 
-1. Click **OK** to confirm.
+1. Click **[!UICONTROL OK]** to confirm.
 
    ![](assets/eight.png)
 
-1. In Marketo Classic, click **Admin**.
+1. In Marketo Engage, click **[!UICONTROL Admin]**.
 
    ![](assets/nine.png)
 
-1. Under Integration, select **Adobe Experience Manager**.
+1. Under Integration, select **[!UICONTROL Adobe Experience Manager]**.
 
    ![](assets/ten.png)
 
-1. Click **Edit**.
+1. Click **[!UICONTROL Edit]**.
 
    ![](assets/eleven.png)
 
-1. Enter your AEM URL and click **OK**.
+1. Enter your AEM URL and click **[!UICONTROL OK]**.
 
    ![](assets/twelve.png)
-
-   You're all set! You can now [import AEM assets into the Design Studio in Marketo Sky](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio).

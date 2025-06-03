@@ -3,6 +3,7 @@ unique-page-id: 10096673
 description: Configure Event Settings and Sync Marketo with Your Webinar - Marketo Docs - Product Documentation
 title: Configure Event Settings and Sync Marketo with Your Webinar
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
+feature: Events
 ---
 # Configure Event Settings and Sync Marketo with Your Webinar {#configure-event-settings-and-sync-marketo-with-your-webinar}
 
@@ -46,8 +47,8 @@ When you set up an event that is associated with an ON24 Webinar, the event sche
    >
    >If you update any event information in ON24, you must click **Refresh from Webinar Provider** in the Event Actions menu to see the new data populate.
 
-Now you can move on to the next step: [creating child campaigns and local assets](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
+Now you can move on to the next step: [creating child campaigns and local assets](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Understanding Marketo On24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Understanding Marketo On24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

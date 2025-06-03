@@ -3,6 +3,7 @@ unique-page-id: 2359462
 description: Approve/Unapprove an Email Program - Marketo Docs - Product Documentation
 title: Approve/Unapprove an Email Program
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
+feature: Email Programs
 ---
 # Approve/Unapprove an Email Program {#approve-unapprove-an-email-program}
 

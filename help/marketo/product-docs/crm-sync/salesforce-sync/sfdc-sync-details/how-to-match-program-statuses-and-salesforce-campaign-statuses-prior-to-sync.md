@@ -3,6 +3,7 @@ unique-page-id: 2360370
 description: How to Match Program Statuses and Salesforce Campaign Statuses Prior to Sync - Marketo Docs - Product Documentation
 title: How to Match Program Statuses and Salesforce Campaign Statuses Prior to Sync
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
+feature: Salesforce Integration
 ---
 # How to Match Program Statuses and Salesforce Campaign Statuses Prior to Sync {#how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync}
 
@@ -20,4 +21,4 @@ From this error message, you can opt to:
 1. You can cancel out, fix the status errors, and try to sync once the errors are repaired. To fix the status errors, do one of the following:
 
     * Log in to Salesforce and remove or rename the incompatible Campaign Member Statuses to map to the Marketo Program Statuses used for the channel type associated with your Marketo Program.
-    * Modify the Program Statuses in Marketo to map to the Salesforce Campaign Member Statuses you have in place. This is a Marketo Admin function. For details, see [Create a Program Channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+    * Modify the Program Statuses in Marketo to map to the Salesforce Campaign Member Statuses you have in place. This is a Marketo Admin function. For details, see [Create a Program Channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.

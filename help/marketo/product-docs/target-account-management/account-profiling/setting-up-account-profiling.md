@@ -3,10 +3,15 @@ unique-page-id: 17432598
 description: Setting up Account Profiling - Marketo Docs - Product Documentation
 title: Setting up Account Profiling
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
+feature: Target Account Management
 ---
 # Setting up Account Profiling {#setting-up-account-profiling}
 
 Follow these steps to start using Account Profiling.
+
+>[!IMPORTANT]
+>
+>As of 2025, Account Profiling is no longer available for new users. It will continue to work for existing users.
 
 >[!CAUTION]
 >

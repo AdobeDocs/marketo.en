@@ -3,6 +3,7 @@ unique-page-id: 11384634
 description: The Predictive Content Summary - Marketo Docs - Product Documentation
 title: The Predictive Content Summary
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
+feature: Predictive Content
 ---
 # The Predictive Content Summary {#the-predictive-content-summary}
 

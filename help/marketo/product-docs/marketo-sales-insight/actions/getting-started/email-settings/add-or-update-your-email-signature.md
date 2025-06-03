@@ -2,6 +2,7 @@
 description: Add or Update Your Email Signature - Marketo Docs - Product Documentation
 title: Add or Update Your Email Signature
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
+feature: Sales Insight Actions
 ---
 # Add or Update Your Email Signature {#add-or-update-your-email-signature}
 

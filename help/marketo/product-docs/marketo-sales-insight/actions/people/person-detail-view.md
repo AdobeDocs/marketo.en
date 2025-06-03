@@ -4,6 +4,7 @@ title: Person Detail View
 hide: yes
 hidefromtoc: yes
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
+feature: Sales Insight Actions
 ---
 # Person Detail View {#person-detail-view}
 

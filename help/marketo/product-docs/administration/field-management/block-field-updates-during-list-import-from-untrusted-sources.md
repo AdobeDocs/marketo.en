@@ -3,6 +3,7 @@ unique-page-id: 2360335
 description: Block Field Updates During List Import from Untrusted Sources - Marketo Docs - Product Documentation
 title: Block Field Updates During List Import from Untrusted Sources
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
+feature: Field Management
 ---
 # Block Field Updates During List Import from Untrusted Sources {#block-field-updates-during-list-import-from-untrusted-sources}
 
@@ -14,29 +15,33 @@ You can trust the data in some lists more than others. Sometimes you have questi
 
 ## Blocking Field Updates From Untrusted Sources {#blocking-field-updates-from-untrusted-sources}
 
-1. Go to **Admin** and click **Field Management**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2014-9-19-9-3a38-3a38.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 
-1. Find the field you want, select it, then under **Field Actions**, click **Block Field Updates**.
+1. Click **[!UICONTROL Field Management]**.
 
-   ![](assets/image2014-9-19-9-3a39-3a40.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. Check **List Import untrusted source** and click **Apply**.
+1. Find the field you want, select it, then under **[!UICONTROL Field Actions]**, click **[!UICONTROL Block Field Updates]**.
 
-   ![](assets/blockupdates.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
+
+1. Check **[!UICONTROL List Import untrusted source]** and click **[!UICONTROL Apply]**.
+
+   ![](assets/blocking-field-updates-from-untrusted-sources-4.png)
 
 >[!TIP]
 >
->You can keep fields safe from all lists, trusted and untrusted, by also checking **List Import trusted source**.
+>You can keep fields safe from all lists, trusted and untrusted, by also checking **[!UICONTROL List Import trusted source]**.
 
 Repeat the above steps for any other fields you want to keep safe from untrusted lists.
 
 ## Running an Untrusted List Import {#running-an-untrusted-list-import}
 
-1. When running your list import, be sure to select **Untrusted** if you want all fields you set up in the previous step to be safe.
+1. When running your list import, be sure to select **[!UICONTROL Untrusted]** if you want all fields you set up in the previous step to be safe.
 
-   ![](assets/importpersondetails.jpg)
+   ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
 For detailed instructions on importing lists, see [Import a List of People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 

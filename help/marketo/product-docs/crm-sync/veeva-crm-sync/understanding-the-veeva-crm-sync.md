@@ -2,6 +2,7 @@
 description: Understanding the Veeva CRM Sync - Marketo Docs - Product Documentation
 title: Understanding the Veeva CRM Sync
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
+feature: Veeva CRM
 ---
 # Understanding the Veeva CRM Sync {#understanding-the-veeva-crm-sync}
 
@@ -32,4 +33,4 @@ The sync between Veeva and Marketo Engage is bidirectional only for Contact fiel
 
 * Veeva CRM is based on force.com and the rich experience Marketo Engage has with the platform is inherited into this sync.
 
-* The Veeva CRM shows: Lead, Contact, Accounts (Business Accounts, Opportunity, Campaign, and Activity. However, they are not supported in the sync with Marketo Engage.
+* The Veeva CRM shows: Lead, Contact, Accounts, Business Accounts, Opportunity, Campaign, and Activity. However, they are not supported in the sync with Marketo Engage.

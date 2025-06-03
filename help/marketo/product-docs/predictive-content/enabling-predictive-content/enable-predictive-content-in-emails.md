@@ -3,6 +3,7 @@ unique-page-id: 11385020
 description: Enable Predictive Content in Emails - Marketo Docs - Product Documentation
 title: Enable Predictive Content in Emails
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
+feature: Predictive Content
 ---
 # Enable Predictive Content in Emails {#enable-predictive-content-in-emails}
 

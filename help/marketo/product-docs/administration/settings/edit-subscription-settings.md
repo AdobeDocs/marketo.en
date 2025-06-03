@@ -3,6 +3,7 @@ unique-page-id: 10099785
 description: Edit Subscription Settings - Marketo Docs - Product Documentation
 title: Edit Subscription Settings
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
+feature: Administration
 ---
 # Edit Subscription Settings {#edit-subscription-settings}
 
@@ -10,22 +11,18 @@ If you have access to multiple Marketo subscriptions and want to be sure which o
 
 For example, if you work in both production and sandbox instances, you can name one subscription **Marketo Production** and the other **Marketo Sandbox**.
 
-![](assets/image2016-4-8-14-3a34-3a28.png)
+1. Go to **[!UICONTROL Admin]**.
 
-1. Go to **Admin**.
+   ![](assets/edit-subscription-settings-1.png)
 
-   ![](assets/adminhand-1.png)
+1. Click **[!UICONTROL My Account]**.
 
-1. Click **My Account**.
+   ![](assets/edit-subscription-settings-2.png)
 
-   ![](assets/image2015-6-23-15-3a16-3a52.png)
+1. Click **[!UICONTROL Edit Subscription Information]**.
 
-1. Click **Edit Subscription Information**.
+   ![](assets/edit-subscription-settings-3.png)
 
-   ![](assets/image2016-5-24-10-3a34-3a32.png)
+1. Make your edits and click **[!UICONTROL Save]**.
 
-1. Make your edits and click **Save**.
-
-   ![](assets/image2016-5-24-10-3a40-3a6.png)
-
-   Ta-da! Your subscription has a new name.
+   ![](assets/edit-subscription-settings-4.png)

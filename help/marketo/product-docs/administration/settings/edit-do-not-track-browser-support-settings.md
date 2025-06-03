@@ -3,6 +3,7 @@ unique-page-id: 6095047
 description: Edit "Do Not Track" Browser Support Settings - Marketo Docs - Product Documentation
 title: Edit "Do Not Track" Browser Support Settings
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
+feature: Administration
 ---
 # Edit "Do Not Track" Browser Support Settings {#edit-do-not-track-browser-support-settings}
 
@@ -16,25 +17,25 @@ exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 >
 >"Do Not Track" will be set to Ignore by default, so if that's what you want, you won't need to take any steps.
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
-   ![](assets/one.png)
+   ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. Click **Munchkin**.
+1. Click **[!UICONTROL Munchkin]**.
 
-   ![](assets/two.png)
+   ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. Under **Person Tracking**, click **Edit**.
+1. Under **[!UICONTROL Person Tracking]**, click **[!UICONTROL Edit]**.
 
-   ![](assets/three-2.png)
+   ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Select **Support** and click **Save**.
+1. Select **[!UICONTROL Support]** and click **[!UICONTROL Save]**.
 
-   ![](assets/four-1.png)
+   ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
    After saving the changes, you'll see the update.
 
-   ![](assets/five-1.png)
+   ![](assets/edit-do-not-track-browser-support-settings-5.png)
 
    >[!NOTE]
    >

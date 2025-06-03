@@ -3,6 +3,7 @@ unique-page-id: 7515620
 description: Template 1A - Marketo Docs - Product Documentation
 title: Template 1A
 exl-id: e2dd3c0a-405b-414a-bdbc-bd1cb85d6d13
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 1A {#template-1a}
 
@@ -19,6 +20,6 @@ This template includes the following content:
 * Three body sections (optional)
 * Footer (optional)
 
-**Right-Right-click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 1A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html)

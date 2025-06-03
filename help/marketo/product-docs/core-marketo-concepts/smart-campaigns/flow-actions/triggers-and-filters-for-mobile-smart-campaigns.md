@@ -3,12 +3,13 @@ unique-page-id: 9437991
 description: Triggers and Filters for Mobile Smart Campaigns - Marketo Docs - Product Documentation
 title: Triggers and Filters for Mobile Smart Campaigns
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
+feature: Smart Campaigns
 ---
 # Triggers and Filters for Mobile Smart Campaigns {#triggers-and-filters-for-mobile-smart-campaigns}
 
-You can set up triggers and filters for a Mobile App smart campaign.
+You can set up triggers and filters for a Mobile App Smart Campaign.
 
-For most activities, there are a trigger, a filter, and an inactivity filter. Use inactivity filters to track an action, such as tapping a push notification, that *didn’t* happen.
+For most activities, there are a trigger, a filter, and an inactivity filter. Use inactivity filters to track an action, such as tapping a push notification, that _didn't_ happen.
 
 * Mobile App Is/Was Installed
 * Mobile App Is/Was Opened
@@ -20,15 +21,15 @@ There are only filters for this activity:
 
 * Was Sent Push Notification - filter and inactivity filter
 
-Search for **mobile app** in the right panel to list all of the Mobile App triggers and filters.
+Search for "mobile app" in the right panel to list all of the Mobile App triggers and filters.
 
-![](assets/image2015-8-12-17-3a25-3a18.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
 ## Constraints {#constraints}
 
 Use constraints with triggers and filters to further sort the data.
 
-![](assets/image2015-8-17-12-3a6-3a33.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-2.png)
 
 All triggers and filters, except for Was Sent Push Notification, contain these two standard constraints:
 
@@ -62,13 +63,13 @@ Use this filter to find out all people who have ever had your app installed. Thi
 >
 >The filter will find both current and former installs as Marketo does not track app uninstalls.
 
-**Constraints**: Device Type, Platform, Mobile App, Mobile App Version, Device Type, Install Source, Is Push Enabled, and Locale
+**Constraints** - Device Type, Platform, Mobile App, Mobile App Version, Device Type, Install Source, Is Push Enabled, and Locale
 
-![](assets/image2015-8-21-13-3a33-3a54.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
 >[!TIP]
 >
->It’s a best practice to specify Has Mobile App = true and Is Push Enabled = true, as well as the name of your mobile app when defining the smart list of who should receive a push notification.
+>It's a best practice to specify Has Mobile App = true and Is Push Enabled = true, as well as the name of your mobile app when defining the smart list of who should receive a push notification.
 
 Mobile App Is/Was Installed
 
@@ -78,9 +79,9 @@ Mobile App Is/Was Installed
 
 * NOT Mobile App was Installed - inactivity filter
 
-**Constraints**: Device Type, Platform, App Version, Locale, and Install Source
+**Constraints** - Device Type, Platform, App Version, Locale, and Install Source
 
-![](assets/image2015-8-17-13-3a11-3a3.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
 Mobile App Is/Was Opened
 
@@ -90,13 +91,13 @@ Mobile App Is/Was Opened
 
 * NOT Mobile App was Opened - inactivity filter
 
-**Constraints**: Device Type and Platform
+**Constraints** - Device Type and Platform
 
-![](assets/image2015-8-17-13-3a13-3a55.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 Has/Had Mobile App Activity
 
-These provide a powerful way to track custom mobile activity. You'll need to work with your developer to set up tracking [for Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+These provide a powerful way to track custom mobile activity. You'll need to work with your developer to set up tracking [for Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} and [for iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Has Mobile App Activity - trigger
 
@@ -104,7 +105,7 @@ These provide a powerful way to track custom mobile activity. You'll need to wor
 
 * NOT Had Mobile App Activity - inactivity filter
 
-**Constraints**: Device Type and Platform, plus five additional ones:
+**Constraints** - Device Type, Platform, Mobile App Version, Locale, Platform Version, plus five additional ones:
 
 * Action - Custom mobile activity
 
@@ -131,7 +132,7 @@ The Action constraints let you use the trigger and filters to track mobile activ
 
 Here's how the filter looks in Marketo:
 
-   ![](assets/image2015-8-17-13-3a16-3a12.png)
+   ![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 
 >[!NOTE]
 >
@@ -153,9 +154,9 @@ Here's how the filter looks in Marketo:
 
 * NOT Had Mobile App Session - inactivity filter
 
-**Constraints**: Device Type, Platform, and Session Length (seconds)
+**Constraints** - Device Type, Platform, and Session Length (seconds)
 
-![](assets/image2015-8-17-13-3a18-3a34.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
 Taps/Tapped Push Notification
 
@@ -165,13 +166,13 @@ Taps/Tapped Push Notification
 
 * NOT Tapped Push Notification - inactivity filter
 
-**Constraints**: Device Type, Platform, Mobile App Version, Push Notification, and Platform Version
+**Constraints** - Device Type, Platform, Mobile App Version, Push Notification, and Platform Version
 
-![](assets/image2015-8-21-14-3a2-3a24.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
 >[!TIP]
 >
->Use the Not Tapped Push Notification inactivity filter to find people who didn’t tap a push notification recently sent to them, so that you can follow up via email.
+>Use the Not Tapped Push Notification inactivity filter to find people who didn't tap a push notification recently sent to them, so that you can follow up via email.
 
 **Was Sent Push Notification** This activity is available only as a filter.
 
@@ -179,11 +180,11 @@ Taps/Tapped Push Notification
 
 * NOT Was Sent Push Notification - inactivity filter
 
-**Constraints**: Push Notification and Mobile App
+**Constraints** - Push Notification and Mobile App
 
-![](assets/image2015-8-21-14-3a3-3a50.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
->* [Add a Constraint to a Smart List Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Use Inactivity Filters in a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [Add a Constraint to a Smart List Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [Use Inactivity Filters in a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

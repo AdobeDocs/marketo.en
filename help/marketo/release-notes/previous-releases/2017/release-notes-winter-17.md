@@ -3,6 +3,7 @@ unique-page-id: 12255606
 description: Release Notes -Winter '17 - Marketo Docs - Product Documentation
 title: Release Notes -Winter '17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
+feature: Release Information
 ---
 # Release Notes: Winter '17 {#release-notes-winter}
 
@@ -20,7 +21,7 @@ Basic Matching uses email addresses only, but new Advanced Matching uses an addi
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [Custom Object Import API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [Custom Object Import API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Custom-Objects) {#custom-object-import-api}
 
 This API provides a faster interface to synchronize custom objects into Marketo. You can import CSV, TSV, or SSV spreadsheet files into Marketo as custom objects.
 
@@ -60,13 +61,13 @@ Filter Predictive Content pieces that are enabled for Email, Rich Media, or the 
 
 **[Filter Analytics by Source](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Filter Predictive Content analytics for specific sources — Email, Rich Media, or Recommendation Bar.
+Filter Predictive Content analytics for specific sources - Email, Rich Media, or Recommendation Bar.
 
 ![](assets/predictive-content-analytics-by-source.png)
 
 **Predictive Content Editor**
 
-There's an improved editing experience and layout that splits content preparation by source — Email, Rich Media, or Recommendation Bar.
+There's an improved editing experience and layout that splits content preparation by source - Email, Rich Media, or Recommendation Bar.
 
 ![](assets/predictive-content-editor.png)
 
@@ -74,11 +75,11 @@ There's an improved editing experience and layout that splits content preparatio
 
 Image URL and metadata are now used in the content auto-discovery process.
 
-## [SDK Enhancements](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [SDK Enhancements](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 Developers now have additional control over the delivery of Push Notifications with the addition of a new SDK API call that allows developers to remove push tokens.
 
-## [Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
+## [Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 Improve your targeting with a new filter option, "Member of Vibes List."
 

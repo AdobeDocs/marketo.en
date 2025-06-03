@@ -3,6 +3,7 @@ unique-page-id: 13795734
 description: Create a Hierarchy - Marketo Docs - Product Documentation
 title: Create a Hierarchy
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
+feature: Target Account Management
 ---
 # Create a Hierarchy {#create-a-hierarchy}
 

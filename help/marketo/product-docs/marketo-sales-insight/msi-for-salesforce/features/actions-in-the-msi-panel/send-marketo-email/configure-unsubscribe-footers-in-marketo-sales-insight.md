@@ -3,6 +3,7 @@ unique-page-id: 2953373
 description: Configure Unsubscribe Footers in Marketo Sales Insight - Marketo Docs - Product Documentation
 title: Configure Unsubscribe Footers in Marketo Sales Insight
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
+feature: Marketo Sales Insights
 ---
 # Configure Unsubscribe Footers in Marketo Sales Insight {#configure-unsubscribe-footers-in-marketo-sales-insight}
 

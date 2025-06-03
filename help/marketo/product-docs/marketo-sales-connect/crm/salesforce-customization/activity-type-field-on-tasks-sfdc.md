@@ -3,6 +3,7 @@ unique-page-id: 14352476
 description: Activity Type Field on Tasks (SFDC) - Marketo Docs - Product Documentation
 title: Activity Type Field on Tasks (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
+feature: Marketo Sales Connect
 ---
 # Activity Type Field on Tasks (SFDC) {#activity-type-field-on-tasks-sfdc}
 
@@ -31,7 +32,7 @@ First check that you have the correct picklist values in place. You'll need the 
 1. You are now at the Task Type Picklist. Make sure there isn't a 'Default' selected.
 1. Make sure there's a Type value listed for Email, Call, and Reply.
 
-Now that this is in place, you will begin to see the Type field populate the corresponding value for logged Emails, Calls, and Replies. These values will **not** be populated on Sales Connect reminder tasks.
+Now that this is in place, you will begin to see the Type field populate the corresponding value for logged Emails, Calls, and Replies. These values will _not_ be populated on Sales Connect reminder tasks.
 
 >[!NOTE]
 >

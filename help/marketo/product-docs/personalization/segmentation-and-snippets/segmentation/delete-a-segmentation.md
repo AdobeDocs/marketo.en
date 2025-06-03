@@ -3,6 +3,7 @@ unique-page-id: 2359510
 description: Delete a Segmentation - Marketo Docs - Product Documentation
 title: Delete a Segmentation
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
+feature: Segmentation
 ---
 # Delete a Segmentation {#delete-a-segmentation}
 

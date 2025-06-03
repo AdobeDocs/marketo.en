@@ -3,6 +3,7 @@ unique-page-id: 11376159
 description: Before You Create Push Notifications and In-App Messages - Marketo Docs - Product Documentation
 title: Before You Create Push Notifications and In-App Messages
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
+feature: Mobile Marketing
 ---
 # Before You Create Push Notifications and In-App Messages {#before-you-create-push-notifications-and-in-app-messages}
 
@@ -12,11 +13,11 @@ Creating push notifications and in-app messages isn't difficult, but you need to
 
 1. The Marketo Admin then [sends a code snippet to the developer](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md).
 
-1. The developer downloads the SDK, and includes snippet and other methods, for [Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/) or [iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/).
+1. The developer downloads the SDK, and includes snippet and other methods, for [Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) or [iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios).
 
 1. By default, in-app messages are triggered when your app opens. If you want to trigger messages for other events, such as when a particular page is viewed or a specific button is pushed, the developer needs to add custom events to the code (see [Custom Events for In-App Messages](#CustomEvents) below).
 
-1. The developer [generates the Server API key and project number for Android](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/) or [the certification and password for iOS](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/) and sends it to the Marketo Admin.
+1. The developer [generates the Server API key and project number for Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) or [the certification and password for iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) and sends it to the Marketo Admin.
 
 1. The Marketo Admin configures push notification access [with the Server API key (Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) or [with the certificate (iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md).
 

@@ -4,12 +4,13 @@ title: Add to Marketing Campaign
 hide: yes
 hidefromtoc: yes
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
+feature: Sales Insight Actions
 ---
 # Add to Marketing Campaign {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]
 >
->[Make a Campaign Visible to Sales Users](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+>[Make a Campaign Visible to Sales Users](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
 
 ## Add Individuals to a Campaign {#add-individuals-to-a-campaign}
 

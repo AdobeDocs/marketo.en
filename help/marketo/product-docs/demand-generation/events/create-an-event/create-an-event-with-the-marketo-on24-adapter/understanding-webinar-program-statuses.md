@@ -3,6 +3,7 @@ unique-page-id: 10096681
 description: Understanding Webinar Program Statuses - Marketo Docs - Product Documentation
 title: Understanding Webinar Program Statuses
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
+feature: Events
 ---
 # Understanding Webinar Program Statuses {#understanding-webinar-program-statuses}
 
@@ -22,7 +23,7 @@ Here's a brief description of the program statuses associated to the Webinar cha
 
 **Invited** - Use this status to add people to the event.
 
-**Pending Approval** - Use this status to hold off on sending your people a confirmation email. See "Manually Approving Registrants" in [ON24 Event Registration Updates](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) for more information.
+**Pending Approval** - Use this status to hold off on sending your people a confirmation email. See "Manually Approving Registrants" in [ON24 Event Registration Updates](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"} for more information.
 
 **Wait Listed** - Use this status to keep some people waiting until additional seats become available.
 
@@ -48,4 +49,4 @@ Here's a brief description of the program statuses associated to the Webinar cha
 
 >[!MORELIKETHIS]
 >
->[Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

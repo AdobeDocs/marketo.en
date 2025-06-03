@@ -3,6 +3,7 @@ unique-page-id: 2359949
 description: Pause People in an Engagement Program - Marketo Docs - Product Documentation
 title: Pause People in an Engagement Program
 exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
+feature: Engagement Programs
 ---
 # Pause People in an Engagement Program {#pause-people-in-an-engagement-program}
 

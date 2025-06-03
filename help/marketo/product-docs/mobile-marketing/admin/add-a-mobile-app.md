@@ -3,6 +3,7 @@ unique-page-id: 7512252
 description: Add a Mobile App - Marketo Docs - Product Documentation
 title: Add a Mobile App
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
+feature: Mobile Marketing
 ---
 # Add a Mobile App {#add-a-mobile-app}
 
@@ -13,7 +14,7 @@ Apps normally start out in a sandbox environment, where initial development and 
 >[!AVAILABILITY]
 >
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 1. Click **Admin**.
 

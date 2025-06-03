@@ -3,6 +3,7 @@ unique-page-id: 12978647
 description: Create a Custom Field for CRM Discovery - Marketo Docs - Product Documentation
 title: Create a Custom Field for CRM Discovery
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
+feature: Target Account Management
 ---
 # Create a Custom Field for CRM Discovery {#create-a-custom-field-for-crm-discovery}
 

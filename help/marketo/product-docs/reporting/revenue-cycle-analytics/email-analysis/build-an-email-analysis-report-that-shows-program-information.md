@@ -3,6 +3,7 @@ unique-page-id: 2360409
 description: Build an Email Analysis Report that Shows Program Information - Marketo Docs - Product Documentation
 title: Build an Email Analysis Report that Shows Program Information
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Build an Email Analysis Report that Shows Program Information {#build-an-email-analysis-report-that-shows-program-information}
 
@@ -10,7 +11,7 @@ Follow these steps to create an Email Analysis Report that will show email infor
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your Customer Success Manager for details.
+>Not everyone has purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
 1. Launch **Revenue Explorer**.
 

@@ -3,6 +3,7 @@ unique-page-id: 10099415
 description: Email Insights Quick Charts - Marketo Docs - Product Documentation
 title: Email Insights Quick Charts
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
+feature: Reporting
 ---
 # Email Insights Quick Charts {#email-insights-quick-charts}
 

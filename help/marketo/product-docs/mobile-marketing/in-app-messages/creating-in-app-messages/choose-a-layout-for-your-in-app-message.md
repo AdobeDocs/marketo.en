@@ -3,6 +3,7 @@ unique-page-id: 10100434
 description: Choose a Layout for Your In-App Message - Marketo Docs - Product Documentation
 title: Choose a Layout for Your In-App Message
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
+feature: Mobile Marketing
 ---
 # Choose a Layout for Your In-App Message {#choose-a-layout-for-your-in-app-message}
 

@@ -3,6 +3,7 @@ unique-page-id: 7511959
 description: Best Bets in Salesforce1 - Marketo Docs - Product Documentation
 title: Best Bets in Salesforce1
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
+feature: Marketo Sales Insights
 ---
 # Best Bets in Salesforce1 {#best-bets-in-salesforce}
 

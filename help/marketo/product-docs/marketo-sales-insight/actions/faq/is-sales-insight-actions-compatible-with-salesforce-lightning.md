@@ -4,6 +4,7 @@ title: Is Sales Insight Actions Compatible with Salesforce Lightning?
 hide: yes
 hidefromtoc: yes
 exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
+feature: Sales Insight Actions
 ---
 # Is Sales Insight Actions Compatible with Salesforce Lightning? {#is-sales-insight-actions-compatible-with-salesforce-lightning}
 

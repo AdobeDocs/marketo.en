@@ -2,6 +2,7 @@
 description: Using a Template in the Compose Window - Marketo Docs - Product Documentation
 title: Using a Template in the Compose Window
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
+feature: Sales Insight Actions
 ---
 # Using a Template in the Compose Window {#using-a-template-in-the-compose-window}
 
@@ -46,6 +47,10 @@ Favorite **up to five** specific template categories to gain quick access to you
 1. Click the **Pin a Category** drop-down and select your desired category.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
+
+   >[!TIP]
+   >
+   >We recommend pinning the "All" category to give you quick access to searching your entire template library, since you may often need to search through all your Templates to find what you're looking for. When you have a pinned category selected and click the search icon, the search will default to the search within the pinned category selected.
 
 1. Click **Save Changes** when done (optional: repeat Step 3 to add more).
 

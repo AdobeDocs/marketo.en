@@ -3,26 +3,27 @@ unique-page-id: 2360247
 description: Change the Default From Email and From Label - Marketo Docs - Product Documentation
 title: Change the Default From Email and From Label
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
+feature: Email Setup
 ---
 # Change the Default From Email and From Label {#change-the-default-from-email-and-from-label}
 
-Each Admin user has the ability to change the default values for **From Email** and **From Label** so that when they create new emails, those defaults are used.
+Each Admin user has the ability to change the default values for **[!UICONTROL From Email]** and **[!UICONTROL From Label]** so that when they create new emails, those defaults are used.
 
 >[!NOTE]
 >
 >**Admin Permissions Required**
 
-1. Go to the **Admin** section.
+1. Go to the **[!UICONTROL Admin]** section.
 
-   ![](assets/adminhand.png)
+   ![](assets/change-the-default-from-email-and-from-label-1.png)
 
-1. Click **Email**.
+1. Click **[!UICONTROL Email]**.
 
-   ![](assets/image2014-9-18-16-3a27-3a19.png)
+   ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Enter the default values you want for **From Email** and **From Label** then click **Save Changes**.
+1. Enter the default values you want for **[!UICONTROL From Email]** and **[!UICONTROL From Label]** then click **[!UICONTROL Save Changes]**.
 
-   ![](assets/change-default-hands.png)
+   ![](assets/change-the-default-from-email-and-from-label-3.png)
 
 >[!NOTE]
 >

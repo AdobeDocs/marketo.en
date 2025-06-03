@@ -3,6 +3,7 @@ unique-page-id: 12979010
 description: Performance Insights Trend Overview - Marketo Docs - Product Documentation
 title: Performance Insights Trend Overview
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
+feature: Reporting
 ---
 # Performance Insights Trend Overview {#performance-insights-trend-overview}
 

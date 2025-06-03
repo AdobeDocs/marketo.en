@@ -3,6 +3,7 @@ unique-page-id: 11377958
 description: User Login History - Marketo Docs - Product Documentation
 title: User Login History
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
+feature: Audit Trail
 ---
 # User Login History {#user-login-history}
 
@@ -22,42 +23,46 @@ The User Login History identifies people who log in by:
 
 To view the User Login History:
 
-1. Click the **Admin** tab and under Security, click **Users & Roles**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2016-7-12-9-3a2-3a31.png)
+   ![](assets/user-login-history-1.png)
 
-1. Click the **Login History** tab. The listing shows the most recent logins.
+1. Under Security, click **[!UICONTROL Users & Roles]**.
 
-   ![](assets/login-history-tab.jpg)
+   ![](assets/user-login-history-2.png)
+
+1. Click the **[!UICONTROL Login History]** tab. The listing shows the most recent logins.
+
+   ![](assets/user-login-history-3.png)
 
 1. Use the Filter to narrow your search.
 
-   ![](assets/filter-main.jpg)
+   ![](assets/user-login-history-4.png)
 
 1. Select a date range using the date pickers.
 
-   ![](assets/select-date-range-hand.jpg)
+   ![](assets/user-login-history-5.png)
 
 1. Or, choose from the drop-down.
 
-   ![](assets/filter-select-from-dropdown.jpg)
+   ![](assets/user-login-history-6.png)
 
-1. Select the users from the **Users** drop-down.
+1. Select the users from the **[!UICONTROL Users]** drop-down.
 
-   ![](assets/user-dropdown.jpg)
+   ![](assets/user-login-history-7.png)
 
-1. Check the **Only Failed Logins** box to display only failed logins in your search.
+1. Check the **[!UICONTROL Only Failed Logins]** box to display only failed logins in your search.
 
-   ![](assets/only-failed-logins.jpg)
+   ![](assets/user-login-history-8.png)
 
-1. Click **Apply**.
+1. Click **[!UICONTROL Apply]**.
 
-   ![](assets/click-apply-real.jpg)
+   ![](assets/user-login-history-9.png)
 
    >[!NOTE]
    >
    >The user interface displays up to 30 days of data. If you need more, you can download the most recent six months of data to a csv file.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
    >[Audit Trail Overview](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

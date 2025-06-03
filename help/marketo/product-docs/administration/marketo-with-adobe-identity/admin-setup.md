@@ -2,14 +2,15 @@
 description: Admin Setup - Marketo Docs - Product Documentation
 title: Admin Setup
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
+feature: Marketo with Adobe Identity
 ---
 # Admin Setup {#admin-setup}
 
-Once you're added as an Adobe System Admin to Marketo Engage in an Adobe org, there are a few steps you'll need to take to complete the initial setup.
+After you're added as an Adobe System Admin to Marketo Engage in an Adobe org, there are a few steps you'll need to take to complete the initial setup.
 
 ## Initial Setup {#initial-setup}
 
-1. After you've been added as a designated System Admin for Marketo Engage (in a new or established org), you'll receive a welcome email. In that email, click **Get Started**.
+1. After you've been added as a designated System Admin for Marketo Engage (in a new or established org), you'll receive a welcome email. In that email, click **[!UICONTROL Get Started]**.
 
    ![](assets/admin-setup-1.png)
 
@@ -21,7 +22,7 @@ Once you're added as an Adobe System Admin to Marketo Engage in an Adobe org, th
 
 After the System Admin accesses the Admin Console, it's time to create a product profile. This is how your users/Admins get access to Marketo Engage.
 
-1. In the Overview page, under Products and Services, click **Marketo Engage**.
+1. In the **[!UICONTROL Overview]** page, under **[!UICONTROL Products and Services]**, click **Marketo Engage**.
 
    ![](assets/admin-setup-3.png)
 
@@ -33,13 +34,15 @@ After the System Admin accesses the Admin Console, it's time to create a product
    >
    >If you do have multiple subscriptions, these steps must be followed for each one.
 
-1. Click the **New Profile** button.
+1. Click the **[!UICONTROL New Profile]** button.
 
    ![](assets/admin-setup-5.png)
 
-1. Give your Product Profile a name (Display Name and Description are optional) and click **Save**.
+1. Give your Product Profile a name (Display Name and Description are optional) and click **[!UICONTROL Next]**.
 
    ![](assets/admin-setup-6.png)
+
+1. No services need to be selected. Click **[!UICONTROL Save]**.
 
 >[!NOTE]
 >

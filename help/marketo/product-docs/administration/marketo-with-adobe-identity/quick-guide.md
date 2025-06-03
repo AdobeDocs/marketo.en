@@ -2,6 +2,7 @@
 description: Quick Guide - Marketo Docs - Product Documentation
 title: Quick Guide
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
+feature: Marketo with Adobe Identity
 ---
 # Quick Guide {#quick-guide}
 
@@ -32,7 +33,7 @@ Marketo Engage API Only Users must be created and managed in Marketo Engage.
 
 ## Add Users via CSV {#add-users-via-csv}
 
-[Import a CSV](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"}
+[Import a CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## User Sign-in {#user-sign-in}
 
@@ -40,4 +41,4 @@ Marketo Engage API Only Users must be created and managed in Marketo Engage.
 
 ## FAQ {#faq}
 
-[Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md#faq){target="_blank"}
+[Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}

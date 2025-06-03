@@ -3,6 +3,7 @@ unique-page-id: 11380789
 description: Named Account Dimension in RCA - Marketo Docs - Product Documentation
 title: Named Account Dimension in RCA
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
+feature: Target Account Management
 ---
 # Named Account Dimension in RCA {#named-account-dimension-in-rca}
 

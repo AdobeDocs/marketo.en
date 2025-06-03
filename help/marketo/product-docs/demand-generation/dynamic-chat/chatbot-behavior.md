@@ -1,6 +1,7 @@
 ---
 description: Chatbot Behavior - Marketo Docs - Product Documentation
 title: Chatbot Behavior
+feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
 ---
 # Chatbot Behavior {#chatbot-behavior}
@@ -46,7 +47,7 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 visits WP1</p>
       </td>
       <td>
-        <p>D1 will be resolved to V1 </p>
+        <p>D1 will be resolved to V1</p>
       </td>
       <td>The trigger count for D1 will be increased by 1</td>
     </tr>
@@ -125,7 +126,7 @@ The following are different possible scenarios outling the Chatbot's expected be
       <td>
         <p>D1 targeted for WP1 only, WP2</p>
         <p>V1 visits WP1 for the first time</p>
-        <p>V1 clicks on D1 but did not respond </p>
+        <p>V1 clicks on D1 but did not respond</p>
         <p>V1 visits WP2</p>
       </td>
       <td>
@@ -175,7 +176,7 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>D1 targeted for WP1 only</p>
         <p>D2 targeted for only WP2</p>
         <p>V1 visits WP1 for the first time</p>
-        <p>V1 clicks on D1 but did not respond </p>
+        <p>V1 clicks on D1 but did not respond</p>
         <p>V1 visits WP2</p>
       </td>
       <td>D1 will be resolved on WP1<br/>
@@ -206,7 +207,7 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 visits WP1 for the first time</p>
         <p>V1 clicks on D1 and completes D1</p>
         <p>V1 visits WP2</p>
-        <p>V1 clicks on D2 provides the first response </p>
+        <p>V1 clicks on D2 provides the first response</p>
       </td>
       <td>D1 will be resolved on WP1 and on post-completion<br/>D2 will be resolved on WP2</td>
       <td>
@@ -249,7 +250,7 @@ The following are different possible scenarios outling the Chatbot's expected be
       <td>
         <p>D1 targeted for WP1 only</p>
         <p>V1 visits WP1 for the first time</p>
-        <p>V1 engaged with D1 </p>
+        <p>V1 engaged with D1</p>
         <p>D1 is unpublished</p>
         <p>V1 refreshes WP1</p>
       </td>
@@ -294,7 +295,7 @@ The following are different possible scenarios outling the Chatbot's expected be
       </td>
       <td>
         <p>The trigger count for D1 will be increased by 1</p>
-        <p>The engagement count for D1 will be increased by 1 </p>
+        <p>The engagement count for D1 will be increased by 1</p>
         <p>After refresh, as the old D1 will appear so no change to trigger count</p>
       </td>
     </tr>
@@ -319,10 +320,10 @@ The following are different possible scenarios outling the Chatbot's expected be
     <tr>
       <td>
         <p>D1 targeted for WP1 with 1 priority</p>
-        <p>D2 targeted for WP1 with 2 priority </p>
+        <p>D2 targeted for WP1 with 2 priority</p>
         <p>V1 visits WP1 for the first time</p>
         <p>V1 clicks on D1 and completes D1</p>
-        <p>V1 refreshes WP1 and see D2<br/>V1 clicks on D2 and completes D2</p>
+        <p>V1 refreshes WP1 and see D2<br/>V1 clicks on D2 and completes D2</p>
         <p>Marketer made changes to D1 and republished</p>
         <p>V1 refreshes WP1</p>
       </td>
@@ -399,3 +400,7 @@ The following are different possible scenarios outling the Chatbot's expected be
     </tr>
   </tbody>
 </table>
+
+## Real-time lead resolution {#real-time-lead-resolution}
+
+During a conversation with an anonymous lead and an email ID is provided, we resolve if a known lead record exists with that email ID, and use that record for personalization in real time. If we find multiple records, we merge them in real-time. This behavior is implemented for both Dialogues and Conversational Flows.

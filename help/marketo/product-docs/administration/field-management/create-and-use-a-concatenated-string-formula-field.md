@@ -3,34 +3,39 @@ unique-page-id: 2360337
 description: Create and Use a Concatenated String (Formula) Field - Marketo Docs - Product Documentation
 title: Create and Use a Concatenated String (Formula) Field
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
+feature: Field Management
 ---
 # Create and Use a Concatenated String (Formula) Field {#create-and-use-a-concatenated-string-formula-field}
 
-You can combine values from multiple fields or build a conditional value using a Marketo Formula field.
+You can combine values from multiple fields or build a conditional value using a Marketo Engage formula field.
 
-1. Go to **Admin** and click **Field Management**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2014-9-19-9-3a44-3a58.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. Click **New Custom Field**.
+1. Click **[!UICONTROL Field Management]**.
 
-   ![](assets/image2014-9-19-9-3a45-3a8.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
-1. Select **Formula** for the **Type**.
+1. Click **[!UICONTROL New Custom Field]**.
 
-   ![](assets/image2014-9-19-9-3a45-3a17.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. Enter a **Name** for your field then click **Create**.
+1. Select **[!UICONTROL Formula]** for the **[!UICONTROL Type]**.
 
-   ![](assets/image2014-9-19-9-3a46-3a0.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
-1. Find and select your formula field then click **Edit Rules**.
+1. Enter a **[!UICONTROL Name]** for your field then click **[!UICONTROL Create]**.
 
-   ![](assets/image2014-9-19-9-3a46-3a13.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
+
+1. Find and select your formula field then click **[!UICONTROL Edit Rules]**.
+
+   ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
 1. Add two choices and define them like the screenshot below.
 
-   ![](assets/image2014-9-19-9-3a46-3a25.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-7.png)
 
    >[!TIP]
    >
@@ -38,10 +43,10 @@ You can combine values from multiple fields or build a conditional value using a
 
 1. Now you can add the formula field as a token in an email.
 
-   ![](assets/seven.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-8.png)
 
 >[!NOTE]
 >
->Formula fields can be used in landing pages, emails and smart list columns (they are not exported). Emails with formula fields can **not** be sent using a batch campaign. Please use an [email script token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in this scenario.
+>Formula fields can be used in Landing Pages, emails and Smart List columns. Emails with formula fields can _not_ be sent using a batch campaign. Please use an [email script token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in this scenario.
 
 Good work! Now you have a smart field that knows what salutation to include based on gender. Have fun with this and get creative.
