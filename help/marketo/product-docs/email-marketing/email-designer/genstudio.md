@@ -6,6 +6,7 @@ hidefromtoc: yes
 feature: Email Editor
 solution: Marketo Engage
 product: marketo
+exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
 ---
 # GenStudio Integration for Marketo Engage {#genstudio-integration-for-marketo-engage}
 
