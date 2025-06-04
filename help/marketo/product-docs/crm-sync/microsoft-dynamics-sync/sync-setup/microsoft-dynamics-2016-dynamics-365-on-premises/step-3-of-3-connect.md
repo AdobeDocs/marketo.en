@@ -95,8 +95,6 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. The first sync may take a few hours. After it's done, you'll receive an email notification.
+1. Depending on the number of records, the initial sync can take anywhere from a few hours to a few days. You will receive an email notification upon completion.
 
    ![](assets/image2015-3-16-9-59-51.png)
-
-Excellent work!
