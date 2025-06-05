@@ -58,21 +58,26 @@ Here we get counts of activities over the previous seven days based on meaningfu
 >
 >* The dashboard only shows the top 20 activity types, while the rest are sorted into a category titled "Other."
 
-![](assets/product-usage-dashboards-4.png){width="800" zoomable="yes"}
- 
 Activity usage shows you how much marketing is being conducted, and helps visualize growth against identified for the level of product contracted for. Dashboards can also be used as a guide to determine how much optimization can/should be done by reducing the fields being updated.
 
 ### By Type {#by-type}
 
 Group activities by the most common activity types seen in the last seven days. This may include categories like _Change Data Value_, _Add to List_, or _Send Email_. This lets you see what types of activities are happening the most often in your Marketo Engage account.
 
+![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
+ 
+
 ### By Change Data Value Attribute {#by-change-data-value-attribute}
 
 _Change Data Value_ is the most common activity type. It indicates when a piece of information on a person/lead record is updated. Here, we group by the fields that are changed most often so you can determine what information is useful for your marketing operations, if there are opportunities to optimize platform usage, etc.
 
+![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
+
 ### By Campaign {#by-campaign}
 
 Group by which campaigns are producing the most activities. This allows you to see if you have any particularly "noisy" campaigns that create more activity than necessary. Quickly learn about campaigns that should be decommissioned, or campaigns that are doing more work than intended.
+
+![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
 
 ### By Source (COMING SOON) {#by-source}
 
