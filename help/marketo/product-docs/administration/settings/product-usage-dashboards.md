@@ -78,7 +78,3 @@ _Change Data Value_ is the most common activity type. It indicates when a piece 
 Group by which campaigns are producing the most activities. This allows you to see if you have any particularly "noisy" campaigns that create more activity than necessary. Quickly learn about campaigns that should be decommissioned, or campaigns that are doing more work than intended.
 
 ![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
-
-### By Source (COMING SOON) {#by-source}
-
-Group by the source of the activities (_CRM Sync_, _Campaign Flow Action_, _API Upload_, _Landing Page Form Fill_, etc.). This helps you understand if most of your activities are being produced by marketing actions, CRM syncs, or by the people/leads themselves.
