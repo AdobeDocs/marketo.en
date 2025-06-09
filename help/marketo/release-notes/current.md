@@ -57,8 +57,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td><strong>Role-based Access Control for Email Designer Assets</strong>: A new enhancement to the role-based access control (RBAC) system provides more granular permissions and improved user management for assets powered by the new Email Designer.</td> 
-   <td>Shipped</td>
-   <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">Granular permissions to New Email Designer (blog post)</a></td>
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
@@ -67,8 +67,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td><strong>Cloning Emails Created in the Email Designer</strong>: You now have the ability to clone an existing email created using the new Email Designer.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
