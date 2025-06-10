@@ -32,8 +32,6 @@ Activity Types include both counts of activities captured when people/leads inte
 >
 >To view a count of activity types for a particular week, hover over the desired week and the count appears.
 
-![](assets/product-usage-dashboards-3.png){width="800" zoomable="yes"}
-
 #### FAQ {#faq}
  
 **Which Activity Types are counted?**
@@ -64,17 +62,10 @@ Activity usage shows you how much marketing is being conducted, and helps visual
 
 Group activities by the most common activity types seen in the last seven days. This may include categories like _Change Data Value_, _Add to List_, or _Send Email_. This lets you see what types of activities are happening the most often in your Marketo Engage account.
 
-![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
- 
-
 ### By Change Data Value Attribute {#by-change-data-value-attribute}
 
 _Change Data Value_ is the most common activity type. It indicates when a piece of information on a person/lead record is updated. Here, we group by the fields that are changed most often so you can determine what information is useful for your marketing operations, if there are opportunities to optimize platform usage, etc.
 
-![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
-
 ### By Campaign {#by-campaign}
 
 Group by which campaigns are producing the most activities. This allows you to see if you have any particularly "noisy" campaigns that create more activity than necessary. Quickly learn about campaigns that should be decommissioned, or campaigns that are doing more work than intended.
-
-![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
