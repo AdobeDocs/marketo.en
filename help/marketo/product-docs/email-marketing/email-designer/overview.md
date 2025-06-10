@@ -70,11 +70,19 @@ New Email Designer emails are accessible across all programs (with the lone exce
 
 **Will our existing email templates work in the new designer? If not, do we need to create templates using the new designer so all the sections/modules correspond to how we want our content to look?**
 
-No, email templates from the classic editor cannot be referenced in the new designer. You'll need to create new templates in the new designer. However, you _can_ import template HTML into the new designer, then make necessary tweaks. We are also working on a way to easily migrate templates from the classic editor to the new designer.
+Email templates from the classic editor cannot be referenced in the new designer. You'll need to create new templates in the new designer. However, you _can_ import template HTML into the new designer, then make necessary tweaks. **Note**: Classic editor template compatibility with the new designer is coming soon.
+
+**Can I easily move new designer assets to a different program?**
+
+Not at this time. But, that functionality is coming soon.
+
+**Can assets be edited via API in the new email designer?**
+
+Assets being edited via API is not supported in the new email designer at this time.
 
 **Is there a way to enforce branding (fonts, logos, and colors)?**
 
-Locking content sections are part of the new designer, and locking styling, colors, etc., will be coming a later this year.
+Locking content sections are part of the new designer, and locking styling, colors, etc., is coming soon.
 
 **Will making modules for templates be more customizable and scalable?**
 
@@ -82,16 +90,11 @@ Yes, absolutely, more customizable with our WYSIWYG(what-you-see-is-what-you-get
 
 **How does the email template creation process work in the new designer? Is it WYSIWYG, or does it require HTML knowledge?**
 
-It is WYSIWYG; HTML knowledge is not necessary. You can easily create
-templates in the designer, reducing the need for external web developers. However, you still have the option to update CSS and edit individual sections via HTML. We are also working on a way to easily migrate templates from the classic editor to the new designer.
+It is WYSIWYG; HTML knowledge is not necessary. You can easily create templates in the designer, reducing the need for external web developers. However, you still have the option to update CSS and edit individual sections via HTML. We are also working on a way to easily migrate templates from the classic editor to the new designer.
 
 **Does the new email designer support AMP language?**
 
 It does not have support for AMP at this time.
-
-**Can assets be edited via API in the new email designer?**
-
-Assets being edited via API is not supported in the new email designer at this time.
 
 **The dynamic content by attribute is great, but does the dynamic content by segment still work?**
 
