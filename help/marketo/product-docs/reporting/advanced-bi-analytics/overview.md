@@ -54,7 +54,7 @@ These enhancements help you save time, discover more valuable insights, drive op
 
 ## Export a report {#export-a-report}
 
-When exporting a complete report, your export options are PDF and PPT. If you need your data in XLS or CSV, you can do so by exporting individual visualizations ([see below](#export-a-visualization)).
+When exporting a complete report, your export options are PDF and PPT. If you need your data in .XLS or .CSV, you can do so by exporting individual visualizations ([see below](#export-a-visualization)).
 
 >[!BEGINTABS]
 
