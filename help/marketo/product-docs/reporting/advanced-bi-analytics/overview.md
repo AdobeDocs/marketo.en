@@ -52,6 +52,69 @@ These enhancements help you save time, discover more valuable insights, drive op
 
    ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
+## Export a report {#export-a-report}
+
+When exporting a complete report, your export options are PDF and PPT. If you need your data in XLS or CSV, you can do so by exporting individual visualizations ([see below](#export-a-visualization)).
+
+>[!BEGINTABS]
+
+>[!TAB From the Reports page]
+
+1. On the Reports page, click the 'more' icon (...) of the desired report and select **Export**. 
+
+   ![](assets/export-a-report-1a.png)
+
+1. Choose PDF or PPT and click **Export**.
+
+   ![](assets/export-a-report-2a.png)
+
+>[!TAB Within the report]
+
+1. Within the report itself, click the 'more' icon (**...**) on the upper-right and select **Export**. 
+
+   ![](assets/export-a-report-1b.png)
+
+1. Choose PDF or PPT and click **Export**.
+
+   ![](assets/export-a-report-2b.png)
+
+>[!ENDTABS]
+
+### Export a visualization {#export-a-visualization}
+
+Learn how to export specifc sections of your report.
+
+1. Choose the desired report. 
+
+   ![](assets/export-a-visualization-1.png){width="600" zoomable="yes"}
+
+1. Hover over the displayed visualization to reveal three icons. 
+
+   ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
+
+1. Click the 'more' icon (**...**) 
+
+   ![](assets/export-a-visualization-3.png)
+
+1. Select **Export data**.
+
+   ![](assets/export-a-visualization-4.png)
+
+1. Choose your desired data format. 
+
+   ![](assets/export-a-visualization-5.png)
+
+   >[!NOTE]
+   >
+   >* _Data with current layout_ is only available for table and matrix visuals.
+   * _Underlying data_ is not available in Marketo Engage.
+
+1. Choose the desired file format (.XLS, .CSV).
+
+   ![](assets/export-a-visualization-6.png)
+
+1. Click **Export**.
+
 ## Video demo {#video}
 
 Watch the following video to see an example of a multi-page, drill-through report experience.
