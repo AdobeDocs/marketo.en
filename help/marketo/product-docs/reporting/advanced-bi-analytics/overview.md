@@ -107,7 +107,7 @@ Learn how to export specifc sections of your report.
    >[!NOTE]
    >
    >* _Data with current layout_ is only available for table and matrix visuals.
-   * _Underlying data_ is not available in Marketo Engage.
+   >* _Underlying data_ is not available in Marketo Engage.
 
 1. Choose the desired file format (.XLS, .CSV).
 
