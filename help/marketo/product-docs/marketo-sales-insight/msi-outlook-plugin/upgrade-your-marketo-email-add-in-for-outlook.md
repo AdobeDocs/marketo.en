@@ -111,7 +111,7 @@ Download the installer appropriate for your version of Microsoft Outlook.
  </tbody> 
 </table>
 
-&#42;Office 365 version: Windows client only (on Windows 10, Enterprise or Pro).
+&#42;Office 365 version: Windows client only (on Windows 10, Windows 11, Enterprise, or Pro).
 
 ## Upgrade {#upgrade}
 

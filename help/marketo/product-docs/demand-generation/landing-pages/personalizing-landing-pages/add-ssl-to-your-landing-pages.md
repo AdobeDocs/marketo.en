@@ -65,7 +65,7 @@ Below you'll find error messages you may receive along with their definitions.
 <tbody>
   <tr>
     <td><i>Unexpected error encountered while creating a domain. Please contact Support for assistance.</i></td>
-    <td>An unexpected error has occurred. Please gather logs and error details, and escalate the issue to Support.</td>
+    <td>An unexpected error has occurred. Please gather logs and error details, and escalate the issue to <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo Support</a>.</td>
   </tr>
   <tr>
     <td><i>The default domain was not found. Please contact Support for assistance.</i></td>
@@ -83,10 +83,6 @@ Below you'll find error messages you may receive along with their definitions.
     <td><i>Domain already exists.</i></td>
     <td>A domain with same name already exists.</td>
   </tr>
-  <tr>
-    <td><i>A one-time IP configuration is required before adding more domains. Please contact Support to complete setup and reattempt to add another domain.</i></td>
-    <td>The first custom domain after the default domain needs a one-time setup to be initiated by you. Please raise a Support ticket to complete the setup and add the domain after they're done.</td>
-  </tr>
 </tbody></table>
 
 ## Things to Note {#things-to-note}
@@ -97,8 +93,6 @@ Below you'll find error messages you may receive along with their definitions.
 
 * **Pre-existing SSLs**: While adding a domain, the system checks for pre-existing SSLs, which may have been manually created prior. If you encounter this validation, create your domain without selecting SSL creation, and we will connect them for you. [Contact Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} more additional details/options.
 
-* **First-time tracking domain**: First-time creation of email tracking link domains will need manual intervention by [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Subsequent subdomain creation under the same domain is allowed in the UI.
-
 * **Adding certs to existing domains**: Adding certs to existing domains is not supported at this time. For pre-existing domains, or for cases where you missed checking the SSL certificate box, you must reach out to [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} to get the certificate added.
 
-* **Deletion of domains**: Deleting a domain does not automatically delete the SSL certificate at this time. This will be addressed in a future release.
+* **Deletion of domains**: Deleting a domain automatically deletes the SSL certificate.
