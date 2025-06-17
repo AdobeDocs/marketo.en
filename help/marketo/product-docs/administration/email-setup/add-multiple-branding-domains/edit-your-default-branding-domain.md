@@ -34,3 +34,7 @@ Editing your default branding domain is the first step in working with branding 
    ![](assets/edit-your-default-branding-domain-4.png)
 
 Now, you can [add any additional branding domains](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md){target="_blank"} you need.
+
+>[!NOTE]
+>
+>If you need to update or remove an existing SSL, please reach out to [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.

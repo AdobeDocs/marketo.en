@@ -81,6 +81,8 @@ Add an additional branding domain when you're running multiple brands out of a s
 
 * **Adding certs to existing domains**: Adding certs to existing domains is not supported at this time. For pre-existing domains, or for cases where you missed checking the SSL certificate box, you must reach out to [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} to get the certificate added.
 
+* **Editing or removing certs on existing domains**: If you need to update or remove an existing SSL, please reach out to [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+
 * **Deletion of domains**: Deleting a domain does not automatically delete the SSL certificate at this time. This will be addressed in a future release.
 
 >[!MORELIKETHIS]
