@@ -12,7 +12,7 @@ hidefromtoc: yes
 
 Leverage your [Litmus](https://www.litmus.com/email-testing) account in Marketo Engage to instantly see how your email renders in popular email clients.
 
-## How to use {how-to-use}
+## How to use {#how-to-use}
 
 1. From the edit content screen of your message or in the Email Designer, click the Simulate content button.
 
