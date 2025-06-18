@@ -13,6 +13,10 @@ When you fill out a web form or visit a Landing Page that's hosted by Marketo En
 
 Marketo Engage tracks "Visited Web Page" and "Click Link on Web Page" by default over non-secure HTTP protocol. If you want to have your tracking links secured with their own certificate, you need to have Marketo build a separate non-shared server to enable it. To secure all aspects of a contact's interaction with you typically means securing both Landing Pages and tracking links.
 
+>[!IMPORTANT]
+>
+>Before adding an SSL, be sure to check your contract for the total number of domains you're permitted to add. Otherwise, you may incur a fee. If you cannot find the information, please reach out to the Adobe Account Team (your account manager) for details.
+
 ## Enable SSL certification {#enable-ssl-certification}
 
 Automatically add SSL for all the domain aliases you create as part of the Landing Page rules.
