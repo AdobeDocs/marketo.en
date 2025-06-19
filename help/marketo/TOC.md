@@ -1023,6 +1023,7 @@ feature-set: Marketo Engage
         + [Feature Comparison](product-docs/email-marketing/email-designer/feature-comparison.md)
         + [Email Authoring](product-docs/email-marketing/email-designer/email-authoring.md)
         + [Email Template Authoring](product-docs/email-marketing/email-designer/email-template-authoring.md)
+        + [Test Email Rendering with Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
         + [Personalization Tokens](product-docs/email-marketing/email-designer/personalization-tokens.md)
         + [Work with AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
         + [Edit images with Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
@@ -1031,6 +1032,7 @@ feature-set: Marketo Engage
         + [GenStudio Integration for Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
         + [Content Locking](product-docs/email-marketing/email-designer/content-locking.md)
         + [AI Assistant](product-docs/email-marketing/email-designer/ai-assistant.md)
+        + [Email Spam Report with SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
     + Email Programs {#email-programs}
       + Creating an Email Program {#creating-an-email-program}
         + [Create an Email Program](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

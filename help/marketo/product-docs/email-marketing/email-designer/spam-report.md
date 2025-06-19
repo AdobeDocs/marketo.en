@@ -4,7 +4,7 @@ product: marketo
 title: Spam Assassin
 description: TEXT GOES HERE
 level: Beginner, Intermediate
-feature: Email Editor
+feature: Email Designer
 hide: yes
 hidefromtoc: yes
 ---

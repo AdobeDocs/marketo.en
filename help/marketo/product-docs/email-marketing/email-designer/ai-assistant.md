@@ -3,7 +3,8 @@ solution: Marketo Engage
 product: marketo
 title: Use the AI Assistant
 description: Leverage Adobe's generative AI technology to add helpful text and/or images to your emails.
-feature: Email Editor
+level: Beginner, Intermediate
+feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
 ---
 # Use the AI Assistant {#use-the-ai-assistant}

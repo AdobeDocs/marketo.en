@@ -3,9 +3,9 @@ solution: Marketo Engage
 product: marketo
 title: Customizable fragments
 description: Learn how to customize fragments by making some of their fields editable.
-feature: Email Editor
-role: User
 level: Beginner, Intermediate
+feature: Email Designer
+role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
 ---
 # Customizable fragments {#customizable-fragments}

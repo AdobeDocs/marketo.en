@@ -4,6 +4,7 @@ product: marketo
 title: Fragments
 description: Learn how to create and use visual content fragments as reusable components for emails and email templates.
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
 ---
 # Fragments

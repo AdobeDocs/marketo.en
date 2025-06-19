@@ -3,9 +3,10 @@ title: GenStudio Integration for Marketo Engage
 description: Learn how to use GenStudio in Marketo Engage.
 hide: yes
 hidefromtoc: yes
-feature: Email Editor
 solution: Marketo Engage
 product: marketo
+level: Beginner, Intermediate
+feature: Email Designer
 exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
 ---
 # GenStudio Integration for Marketo Engage {#genstudio-integration-for-marketo-engage}

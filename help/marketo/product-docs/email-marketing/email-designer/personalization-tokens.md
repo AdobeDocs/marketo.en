@@ -4,6 +4,7 @@ product: marketo
 title: Personalization Tokens
 description: Learn how to use personalization tokens in the new Marketo Engage Email Designer
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 ---
 # Personalization Tokens {#personalization-tokens}

@@ -1,6 +1,8 @@
 ---
 title: Connect Experience Manager doc
 description: Learn how to connect Adobe Experience Manager Cloud Services to Adobe Marketo Engage so you can leverage your AEM assets.
+level: Beginner, Intermediate
+feature: Email Designer
 hide: yes
 hidefromtoc: yes
 ---
