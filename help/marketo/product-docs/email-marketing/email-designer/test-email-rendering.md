@@ -16,7 +16,7 @@ Leverage your [Litmus](https://www.litmus.com/email-testing) account in Marketo 
 
 ## How to use {#how-to-use}
 
-1. In the _Edit email content_ screen, click the **Simulate Content** button.
+1. On the _Edit email content_ screen, click the **Simulate Content** button.
 
     ![](assets/test-email-rendering-with-litmus-1.png)
 
@@ -48,10 +48,10 @@ Leverage your [Litmus](https://www.litmus.com/email-testing) account in Marketo 
     >
     >Learn how to [customize your default email client list](https://help.litmus.com/article/227-change-your-default-email-clients-list).
 
-1. When you're done testing, click the back arrow in the upper-left of the screen to return to the _Simulate Content_ screen.
+1. When you're done testing, click the back arrow on the upper-left to return to the _Simulate Content_ screen.
 
     ![](assets/test-email-rendering-with-litmus-6.png)
 
-**OPTIONAL STEP**: If you decide to make changes to your email, after you click **Render email** to view them, be sure to also click the **Retest** button on the upper-right of the Litmus screen.
+**OPTIONAL STEP**: If you decide to make changes to your email, after you click **Render email** to view them, be sure to also click the **Retest** button on the upper-right of the Litmus _Email Previews_ screen.
 
    ![](assets/test-email-rendering-with-litmus-7.png)

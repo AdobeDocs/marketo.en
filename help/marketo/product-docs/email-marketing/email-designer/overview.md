@@ -6,7 +6,7 @@ title: Overview
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
 ---
-# Overview {#overview}
+# Email Designer Overview {#overview}
 
 Welcome to the new Adobe Marketo Engage Email Designer.
 
@@ -48,6 +48,8 @@ In order to access the new email designer, your Marketo Engage subscription must
 
 * [Customizable fragments](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: Learn how to customize fragments by making some of their fields editable.
 
+* [Personalization Tokens](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}: Learn about the new format for personalization tokens in the new email designer.
+
 * [Work with AEM assets](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Learn how to easily access your AEM digital assets for use in Marketo Engage.
 
 * [Edit Images with Adobe Express](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: Learn how to edit images in the Adobe Marketo Engage Email Editor using Adobe Express.
@@ -55,6 +57,8 @@ In order to access the new email designer, your Marketo Engage subscription must
 * [Use the AI Assistant](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Leverage Adobe's generative AI technology to add helpful text and/or images to your emails.
 
 * [Lock content in email templates](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Learn how to lock content in email templates, helping to prevent unintentional edits or deletions.
+
+* [Test Email Rendering with Litmus](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: Leverage your Litmus account in Marketo Engage to instantly see how your email renders in popular email clients.
 
 * [Feature comparison](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Compare the availability of features in the previous email editor (Email Editor 2.0) and the new Email Designer.
 
@@ -106,4 +110,4 @@ If you log in to Marketo Engage via the [Adobe Experience Cloud](https://experie
 
 **Which browsers can I use with the new Email Designer?**
 
-It is recommended to use Google Chrome, Apple Safari, or Microsoft Edge. Full support for Mozilla Firefox will be available at a later date.
+It is recommended to use Google Chrome, Apple Safari, or Microsoft Edge. Full support for Mozilla Firefox will be available soon.
