@@ -7,6 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: yes
 hidefromtoc: yes
+exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
 ---
 # Spam Assassin {#spam-assassin}
 
