@@ -167,6 +167,12 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Available</td>
   </tr>
   <tr>
+    <td>Litmus Integration</td>
+    <td>Ability to <a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">integrate with Litmus</a> to see how your emails will render in different email clients.</td>
+    <td>Not Available</td>
+    <td>Available</td>
+  </tr>
+  <tr>
     <td>Personalization Editor</td>
     <td>Ability to personalize content in emails using tokens.</td>
     <td>Available</td>
@@ -247,12 +253,6 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
    <tr>
     <td>Handlebar Scripting</td>
     <td>Ability to use Handlebar scripting in emails.</td>
-    <td>Not Available</td>
-    <td>Planned for Q3 '25</td>
-  </tr>
-  <tr>
-    <td>Litmus Integration</td>
-    <td>Ability to integrate with Litmus to see how your emails will render in different email clients.</td>
     <td>Not Available</td>
     <td>Planned for Q3 '25</td>
   </tr>
