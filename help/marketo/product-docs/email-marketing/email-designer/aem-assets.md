@@ -37,7 +37,9 @@ Before you can use this capability, you must first link AEM Cloud Services with 
 
    >[!NOTE]
    >
-   >Only repositories that have been associated in the same IMS org as your Marketo Engage subscription are listed.
+   >* Only repositories that have been associated in the same IMS org as your Marketo Engage subscription are listed.
+   >
+   >* Marketo Engage only supports repositories from the Delivery tier. If you use the Author tier and would like to convert it, please contact [Adobe Experience Manager Support](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources).
 
 1. You must add a [service credential certificate](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) to configure the repository. Click the **+ Add certificate** button.
 
