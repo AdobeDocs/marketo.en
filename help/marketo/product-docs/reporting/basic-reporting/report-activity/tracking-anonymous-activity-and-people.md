@@ -23,7 +23,7 @@ The first time someone visits a Marketo [landing page](/help/marketo/product-doc
 
     * Clicks a [link in a Marketo email](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
     * Fills out a Marketo [form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md).
-    * Uses Marketo's [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) or [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API (for developers) to associate an anonymous activity with a known record.
+    * Uses Marketo's [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) or [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API (for developers) to associate an anonymous activity with a known record.
 
    One name in the database might be tied to many cookies because people often use different devices and browsers to visit your site.
 

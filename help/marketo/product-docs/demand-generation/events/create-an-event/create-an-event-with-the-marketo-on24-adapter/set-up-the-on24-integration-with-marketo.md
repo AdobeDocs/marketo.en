@@ -78,4 +78,4 @@ Here's how to set up your ON24 event integration.
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 
-1. With your saved Client ID, Client Secret, and Identity, navigate to your ON24 account. The rest of the steps are performed there, and are [outlined here](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}.
+1. With your saved Client ID, Client Secret, and Identity, navigate to your ON24 account. The rest of the steps are performed there, and can be found in the [ON24 documentation](https://support.on24.com/hc/en-us/articles/21420762650523-Data-Integration-Setup-Instructions-When-Using-Marketo-Registration-Option-1){target="_blank"}.

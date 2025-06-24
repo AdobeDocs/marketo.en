@@ -15,7 +15,7 @@ Before you can sync Microsoft Dynamics On-Premises and Marketo Engage, you need 
 
 >[!PREREQUISITES]
 >
->You must have [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 or 3.0 (ADFS) configured. Note: The IFD document downloads automatically when you click the link.
+>You must have [Internet Facing Deployment](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 or 3.0 (ADFS) configured. Note: The IFD document downloads automatically when you click the link.
 >
 >[Download the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} before you start.
 

@@ -14,7 +14,7 @@ Before you can sync Microsoft Dynamics 2016 On-Prem/Dynamics 365 with Marketo En
 
 >[!PREREQUISITES]
 >
->If you're using Microsoft Dynamics On-Premise, you must have [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS) configured. Note: The IFD document downloads automatically when you click the link.
+>If you're using Microsoft Dynamics On-Premise, you must have [Internet Facing Deployment](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS) configured. Note: The IFD document downloads automatically when you click the link.
 >
 >[Download the Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} before you start.
 

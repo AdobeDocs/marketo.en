@@ -60,10 +60,6 @@ feature: Integrations
    >
    >All lists that you push over to Facebook become static. Smart lists in Marketo will not auto-update the audience list in Facebook to reflect any changes made after the transfer.
 
-   >[!TIP]
-   >
-   >See the [Facebook learning path for Marketo customers](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. It covers everything you need to know, from creating a Facebook page to targeting your Facebook ads using Marketo's ad network integrations.
-
    >[!MORELIKETHIS]
    >
    >[Add Leads to a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

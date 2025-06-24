@@ -23,4 +23,4 @@ Sync additional fields from [!DNL BrightTALK] to Marketo, including Company Name
 
 ## Android Tablet Event Check-In App {#android-tablet-event-check-in-app}
 
-Check registrants into your event using our new [Android-based check in app](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) available on [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&hl=en).
+Check registrants into your event using our new Android-based check in app available on Google Play.
