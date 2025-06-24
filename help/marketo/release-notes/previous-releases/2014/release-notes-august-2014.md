@@ -27,7 +27,7 @@ The following new user permissions were added:
 | Activate Trigger Campaign |Control who can and cannot activate trigger campaigns. |
 | Schedule Batch Campaign |Control who can and cannot schedule batch campaign runs. |
 
-## Export Users and Roles from Admin {#export-users-and-roles-from-admin}
+## Export Users and Roles from [!UICONTROL Admin] {#export-users-and-roles-from-admin}
 
 You can now [Export a List of Users and Roles](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) from Marketo. You can also include a "Last Login" time stamp to be included with the export.
 
@@ -41,15 +41,15 @@ You can now delete any unused channels and statuses. As always, you can only hid
 
 ![](assets/image2014-9-16-12-3a23-3a4.png)
 
-## Automated DKIM {#automated-dkim}
+## Automated [!DNL DKIM] {#automated-dkim}
 
-For improved deliverability, all outgoing emails will be DKIM (DomainKeys Identified Mail) signed. By default, emails will use Marketo's shared DKIM signature. You will have the option to customize this signature.
+For improved deliverability, all outgoing emails will be [!DNL DKIM] (DomainKeys Identified Mail) signed. By default, emails will use Marketo's shared [!DNL DKIM] signature. You will have the option to customize this signature.
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
 >[!NOTE]
 >
->DKIM will be rolled out slowly, you may not see it for a few weeks.
+>[!DNL DKIM] will be rolled out slowly, you may not see it for a few weeks.
 
 ## Real-Time Personalization Updates {#real-time-personalization-updates}
 

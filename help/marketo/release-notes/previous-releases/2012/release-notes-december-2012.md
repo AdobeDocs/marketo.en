@@ -23,31 +23,31 @@ Use the corresponding triggers and filters to identify users who used the **Forw
 
 ## Granular Admin Permissions {#granular-admin-permissions}
 
-Our newest release gives you greater access and control over Admin roles, by controlling access to different functions in the Marketo Admin area for each role. When you create a new role, you can assign specific Admin functions that role may access.
+Our newest release gives you greater access and control over [!UICONTROL Admin] roles, by controlling access to different functions in the Marketo [!UICONTROL Admin] area for each role. When you create a new role, you can assign specific [!UICONTROL Admin] functions that role may access.
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
 >[!NOTE]
 >
->By default, existing roles with ‘Access Admin’ permission have access to all Admin functions until and unless modified.
+>By default, existing roles with ‘[!UICONTROL Access Admin]’ permission have access to all [!UICONTROL Admin] functions until and unless modified.
 
-## BrightTALK Adapter {#brighttalk-adapter}
+## [!UICONTROL BrightTALK] Adapter {#brighttalk-adapter}
 
-The Marketo BrightTALK adapter enables you to capture attendance information from a live or on-demand webcast, directly into a Marketo event!
+The Marketo [!UICONTROL BrightTALK] adapter enables you to capture attendance information from a live or on-demand webcast, directly into a Marketo event!
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## Marketo Sales Insight for Microsoft Dynamics {#marketo-sales-insight-for-microsoft-dynamics}
+## Marketo [!DNL Sales Insight] for [!DNL Microsoft Dynamics] {#marketo-sales-insight-for-microsoft-dynamics}
 
-Sales Insight is now available to Microsoft Dynamics customers!
+[!DNL Sales Insight] is now available to [!DNL Microsoft Dynamics] customers!
 
-## Dynamics Opportunity Sync {#dynamics-opportunity-sync}
+## [!DNL Dynamics] Opportunity Sync {#dynamics-opportunity-sync}
 
-Sync opportunity data between Marketo and Microsoft Dynamics.
+Sync opportunity data between Marketo and [!DNL Microsoft Dynamics].
 
 ## Marketing Influenced Opportunities Report&#42; {#marketing-influenced-opportunities-report}
 
-View what percentage of your company’s pipeline and revenue was influenced by your marketing programs. In **Revenue Explorer**, you can now create custom reports with the new ‘Marketing Influenced Opportunity‘ yellow dot in Opportunity Analysis. You can also use the following two reports in the Standard folder:
+View what percentage of your company’s pipeline and revenue was influenced by your marketing programs. In **[!UICONTROL Revenue Explorer]**, you can now create custom reports with the new ‘Marketing Influenced Opportunity‘ yellow dot in Opportunity Analysis. You can also use the following two reports in the Standard folder:
 
 * Marketing Influence on Opportunities Created
 * Marketing Influence on Opportunities Closed Won
@@ -56,14 +56,14 @@ View what percentage of your company’s pipeline and revenue was influenced by 
 
 ## Custom Opportunity Fields in Program Opportunity Analysis&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
-Add custom opportunity fields to enrich your Program Opportunity Analysis reports in Revenue Explorer.
+Add custom opportunity fields to enrich your Program Opportunity Analysis reports in [!UICONTROL Revenue Explorer].
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
 ## Campaign Inspector {#campaign-inspector}
 
-Have you ever wondered which campaigns are using a specific flow action, such as Change Score or Request Campaign? Or where a certain filter is being used? The new Campaign Inspector (available from the Treasure Chest) enables you to identify these campaigns, as well as active campaigns and campaigns with errors.
+Have you ever wondered which campaigns are using a specific flow action, such as [!UICONTROL Change Score] or [!UICONTROL Request Campaign]? Or where a certain filter is being used? The new [!UICONTROL Campaign Inspector] (available from the Treasure Chest) enables you to identify these campaigns, as well as active campaigns and campaigns with errors.
 
-Go to **Admin** > **Treasure Chest** to enable the **Campaign Inspector**.
+Go to **[!UICONTROL Admin]** > **[!UICONTROL Treasure Chest]** to enable the **[!UICONTROL Campaign Inspector]**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

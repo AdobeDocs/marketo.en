@@ -3,15 +3,14 @@ unique-page-id: 11384018
 description: Release Notes -Fall '16 - Marketo Docs - Product Documentation
 title: Release Notes -Fall '16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-feature: Release Information
 ---
 # Release Notes: Fall '16 {#release-notes-fall}
 
 The following features are included in the Fall '16 release. Check your Marketo edition for feature availability. Please click the title links to view detailed articles for each feature.
 
-## Predictive Content in Email {#predictive-content-in-email}
+## [!UICONTROL Predictive Content] in Email {#predictive-content-in-email}
 
-There's a new user experience for our Predictive Content application to track, manage, and recommend your content through our machine learning and predictive algorithms across the web and email channels.
+There's a new user experience for our [!UICONTROL Predictive Content] application to track, manage, and recommend your content through our machine learning and predictive algorithms across the web and email channels.
 
 >[!NOTE]
 >
@@ -25,7 +24,7 @@ You can now add predictive content to your email. When the email is opened, the 
 
 ## [Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
-With Facebook Offline Conversions integration, conversion data in Marketo (for Lead Ad leads) is automatically sent back to Facebook so that your advertising team can better optimize its ad spend. In this Facebook Ad Manager Report, the offline conversions are highlighted.
+With [!DNL Facebook] Offline Conversions integration, conversion data in Marketo (for Lead Ad leads) is automatically sent back to [!DNL Facebook] so that your advertising team can better optimize its ad spend. In this [!DNL Facebook] Ad Manager Report, the offline conversions are highlighted.
 
 ![](assets/facebook.png)
 
@@ -41,19 +40,19 @@ A Universal ID lets you access multiple Marketo subscriptions with a single logi
 
 ## Marketo Account Based Marketing Enhancements {#marketo-account-based-marketing-enhancements}
 
-Now, you can assign account teams to named accounts in Account Based Marketing (ABM), for example, account owner, sales development representative, business development representative, and account manager. You also can build account-owner-specific account lists and send personalized weekly ABM reports to the account team.
+Now, you can assign account teams to named accounts in Account Based Marketing (ABM), for example, account owner, sales development representative, business development representative, and customer success manager. You also can build account-owner-specific account lists and send personalized weekly ABM reports to the account team.
 
 ![](assets/account-team-11-15-16.png)
 
 **REST API**
 
-This release also enables you to manage named account attributes and accounts scores in ABM using the Marketo REST API. For more details on the API operations, please visit the [Marketo Developers website](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
+This release also enables you to manage named account attributes and accounts scores in ABM using the Marketo REST API. For more details on the API operations, please visit the [Marketo Developers website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Audit Trail Enhancements](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
 Audit trail provides a comprehensive history of the changes made within your Marketo subscription. We have added additional tracking capabilities for programs as well as surfacing important change details for smart campaigns, smart lists, and changes made to users and roles.
 
-## [New Permissions](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
+## [New Permissions](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
 
 **Make Email Operational**
 
@@ -76,16 +75,16 @@ Give your iOS Push Notification added richness by enabling sound. This new featu
 
 ## [Sales Insight Compatible with Salesforce Encryption](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight is now compatible with Salesforce Shield Encryption. All Sales Insight customers should upgrade to this latest managed package (version 1.4359.2), which is [available on the Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+Market [!DNL Sales Insight] is now compatible with [!DNL Salesforce] Shield Encryption. All [!DNL Sales Insight] customers should upgrade to this latest managed package (version 1.4359.2), which is [available on the [!DNL Appexchange]](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [Named Accounts APIs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
+## [Named Accounts APIs](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 With this release, Marketo ABM users can manage named accounts via the Named Accounts API. Users can create, update, and delete named accounts, as well as read and update ABM named account scores.
 
-## [Email Editor v2.0 API Support](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [Email Editor v2.0 API Support](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 Manage variables and modules for emails in v2.0 format using the Marketo REST API.
 
 ## [Changes to Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketo's Salesforce integration is evolving to improve the way that Marketo fields are synced with Salesforce. Now, instead of having to sync a large group of fields that you may or may not need, you can pick and choose which fields you'd like to have included. Check out our documentation here for more information: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+Marketo’s [!DNL Salesforce] integration is evolving to improve the way that Marketo fields are synced with [!DNL Salesforce]. Now, instead of having to sync a large group of fields that you may or may not need, you can pick and choose which fields you’d like to have included. Check out our documentation here for more information: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).

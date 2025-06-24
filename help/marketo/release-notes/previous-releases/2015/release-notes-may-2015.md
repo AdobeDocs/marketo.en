@@ -25,7 +25,7 @@ Did you hit send before an email program was ready to go out? Pull the brakes wi
 
 ## Email Deliverability  {#email-deliverability}
 
-Marketo will now run weekly automated SPF and DKIM checks on your added domains. Stay on top of this by checking your notifications.
+Marketo will now run weekly automated [!DNL SPF] and [!DNL DKIM] checks on your added domains. Stay on top of this by checking your notifications.
 
 ## Email Template Behavior Change {#email-template-behavior-change}
 
