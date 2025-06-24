@@ -60,7 +60,7 @@ feature: Getting Started
 
    ![](assets/simple-scoring-9.png)
 
-1. Drag the **Change Score** flow action onto the left canvas.
+1. Drag the **[!UICONTROL Change Score]** flow action onto the left canvas.
 
    ![](assets/simple-scoring-10.png)
 

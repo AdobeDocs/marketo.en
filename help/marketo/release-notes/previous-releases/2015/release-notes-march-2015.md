@@ -15,19 +15,19 @@ Display your team's marketing actives with the calendar's new presentation mode.
 
 >[!NOTE]
 >
->This feature is not available for Spark and Standard editions.
+>This feature is not available for Spark and [!DNL Standard] editions.
 
 ![](assets/image2015-3-23-11-3a39-3a15.png)
 
-## Google Adwords Integration {#google-adwords-integration}
+## [!DNL Google Adwords] Integration {#google-adwords-integration}
 
-Link your [Google AdWords account to Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) to automatically upload offline conversion data from Marketo to Google AdWords. Then, from the AdWords UI, you will be able to easily see which clicks resulted in qualified leads, opportunities, and new customers (or whatever revenue stages you want to track).
+Link your [[!DNL Google AdWords] account to Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) to automatically upload offline conversion data from Marketo to [!DNL Google AdWords]. Then, from the [!DNL AdWords] UI, you will be able to easily see which clicks resulted in qualified leads, opportunities, and new customers (or whatever revenue stages you want to track).
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
-## Revenue Explorer Redesign {#revenue-explorer-redesign}
+## [!UICONTROL Revenue Explorer] Redesign {#revenue-explorer-redesign}
 
-Revenue Explorer has a brand new look and feel, as well as the new Sunburst chart type! We'll be rolling this out over the first two weeks of April.
+[!UICONTROL Revenue Explorer] has a brand new look and feel, as well as the new Sunburst chart type! We'll be rolling this out over the first two weeks of April.
 
 ## New Asset REST APIs {#new-asset-rest-apis}
 
@@ -35,7 +35,7 @@ Revenue Explorer has a brand new look and feel, as well as the new Sunburst char
 
 We now have support for creating and editing emails, templates, my tokens, files, and snippets [via the API](https://developer.adobe.com/marketo-apis/api/asset/)!
 
-## Microsoft Dynamics 2015 On Premise {#microsoft-dynamics-on-premise}
+## [!DNL Microsoft Dynamics] 2015 On Premise {#microsoft-dynamics-on-premise}
 
 Supported with the latest installer now [accessible through the app](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 

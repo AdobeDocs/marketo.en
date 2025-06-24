@@ -3,7 +3,6 @@ unique-page-id: 12977439
 description: Release Notes -Spring '17 - Marketo Docs - Product Documentation
 title: Release Notes -Spring '17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-feature: Release Information
 ---
 # Release Notes: Spring '17 {#release-notes-spring}
 
@@ -13,23 +12,23 @@ Please click the title links to view detailed articles for each feature. **Note*
 
 ## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) are a more direct way for a business to run lead generation campaigns on LinkedIn. People can fill out forms to express interest in a product or service, enabling the business to capture the person's details and sync them to Marketo, where automated follow-up processes and lead routing activities can occur.
+[[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) are a more direct way for a business to run lead generation campaigns on [!DNL LinkedIn]. People can fill out forms to express interest in a product or service, enabling the business to capture the person’s details and sync them to Marketo, where automated follow-up processes and lead routing activities can occur.
 
-The Marketo integration with LinkedIn Lead Gen Forms automatically captures the information a lead provides within the Lead Gen form. Follow-up actions and notifications can then be automated using the new **Fills Out LinkedIn Lead Gen Form** trigger and filter.
+The Marketo integration with [!UICONTROL LinkedIn Lead Gen] Forms automatically captures the information a lead provides within the Lead Gen form. Follow-up actions and notifications can then be automated using the new **Fills Out [!DNL LinkedIn Lead Gen] Form** trigger and filter.
 
 ![](assets/release-notes-image.png)
 
 ## [Expire MSI Template](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
 
-Gone are the days of cleaning up outdated templates in Sales Insight. Set an expiration date when you publish your email and we'll take care of un-publishing it for you when the expiration date rolls around.
+Gone are the days of cleaning up outdated templates in [!DNL Sales Insight]. Set an expiration date when you publish your email and we'll take care of un-publishing it for you when the expiration date rolls around.
 
 >[!NOTE]
 >
->Setting the expiration date for 5/31/17 means that the template will be removed from Sales Insight at the end of the day on 5/31/17.
+>Setting the expiration date for 5/31/17 means that the template will be removed from [!DNL Sales Insight] at the end of the day on 5/31/17.
 
 ![](assets/four-281-29.png)
 
-## [Bulk Extract APIs for People and Activities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [Bulk Extract APIs for People and Activities](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
 
 Easily transfer large amounts of person and activity data from Marketo to your external systems.
 
@@ -43,7 +42,7 @@ Marketo ABM now allows you to create up to 10 custom fields on your Named Accoun
 
 Named Account scores can vary greatly. Marketo ABM now automatically calculates a percentile for each of your scores, so you can see at a glance where each Named Account ranks among your other Named Accounts.
 
-**[ABM Account List APIs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[ABM Account List APIs](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Take advantage of rich and robust ABM partner integrations with enhanced API support for Named Account Lists.
 
@@ -53,7 +52,7 @@ Take advantage of rich and robust ABM partner integrations with enhanced API sup
 
 **[Web Campaign Upon Scroll](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-New Web Campaign effects provide your web visitors with a more personalized experience. Set your personalized Web Campaigns to display only when a web visitor scrolls down on your web page. You can set your Dialog Web Campaigns to show upon scroll based on:
+New Web Campaign effects provide your web visitors with a more personalized experience. Set your personalized [!UICONTROL Web Campaigns] to display only when a web visitor scrolls down on your web page. You can set your Dialog [!UICONTROL Web Campaigns] to show upon scroll based on:
 
 * percentage of the page scrolled
 * pixel reached
@@ -61,9 +60,9 @@ New Web Campaign effects provide your web visitors with a more personalized expe
 
 **[Web Campaign Upon Exit Intent](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-Capture your visitor's attention before they close your page. Set your personalized Web Campaigns to display only when a mouse gesture indicates the visitor is leaving the page.
+Capture your visitor’s attention before they close your page. Set your personalized [!UICONTROL Web Campaigns] to display only when a mouse gesture indicates the visitor is leaving the page.
 
-**[Animation Effects for Web Campaigns](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
+**[Animation Effects for [!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 Set the animation effects for your Dialog Web Campaign to customize how a campaign appears upon entering or exiting your web page. You can select from 6 different effects and control the timing and direction of the dialog.
 
@@ -71,13 +70,13 @@ Set the animation effects for your Dialog Web Campaign to customize how a campai
 
 **[Dialog Close Button Customization](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
-Customize the Close Button for dialog boxes. Select from a range of options used in Transparent Dialog Style Web Campaigns. Select the icon, color, and positioning for the Close Button. You can also add your own button image.
+Customize the Close Button for dialog boxes. Select from a range of options used in Transparent Dialog Style [!UICONTROL Web Campaigns]. Select the icon, color, and positioning for the Close Button. You can also add your own button image.
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
 **[Archive Web Campaigns](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
 
-Archive is a new Web Campaign status that allows you to archive Web Campaigns and hide them from the default Web Campaign view. This lets you focus on your most relevant, active campaigns and retrieve older archived campaigns on demand.
+Archive is a new Web Campaign status that allows you to archive [!UICONTROL Web Campaigns] and hide them from the default Web Campaign view. This lets you focus on your most relevant, active campaigns and retrieve older archived campaigns on demand.
 
 ![](assets/archive-campaign-5b2-5d.png)
 

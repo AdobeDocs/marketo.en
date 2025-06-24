@@ -16,7 +16,7 @@ feature: Getting Started
 
 ## Step 1: Create an Email {#step-create-an-email}
 
-1. Go to the **[!UICONTROL Marketing Activities]** area.
+1. Go to the [!UICONTROL Marketing Activities] area.
 
    ![](assets/email-auto-response-1.png)
 
@@ -122,9 +122,7 @@ feature: Getting Started
 
 ## Mission Complete {#mission-complete}
 
-Within just a few minutes you should see the auto response email in your inbox. Great job!
-
-<br>&nbsp;
+Within just a few minutes you should see the auto response email in your inbox.
 
 [◄ Mission 3: Simple Scoring](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 

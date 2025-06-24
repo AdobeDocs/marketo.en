@@ -17,9 +17,9 @@ You can now [build mobile views for landing pages](/help/marketo/product-docs/de
 
 [-Landing Page Walkthrough Video-](https://youtu.be/aPQHlG2X6c0)
 
-**New Rest API Calls**
+**New REST API Calls**
 
-Three new calls for the Lead & Activity ReST API:
+Three new calls for the Lead & Activity REST API:
 
 * Delete Lead
 * Get Leads by Program ID
@@ -33,9 +33,9 @@ Now access custom objects associated with the Account object from within email s
 
 ## Real-Time Personalization {#real-time-personalization}
 
-**Personalized Remarketing for Google and Facebook**
+**Personalized Remarketing for Google and [!DNL Facebook]**
 
-Remarketing shows ads to people who have visited your website. You can now personalize your remarketing campaigns on [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) and [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) using data from Real-Time Personalization. Remarket to audiences from different industries, named account lists, company sizes or any data from known leads.
+Remarketing shows ads to people who have visited your website. You can now personalize your remarketing campaigns on [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) and [[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) using data from Real-Time Personalization. Remarket to audiences from different industries, named account lists, company sizes or any data from known leads.
 
 [Named Account List Module](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
