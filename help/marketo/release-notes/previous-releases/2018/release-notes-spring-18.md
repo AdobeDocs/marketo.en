@@ -70,16 +70,16 @@ Set the objective of the ContentAI optimization algorithm to drive more views, c
 
 ## Integration and APIs {#integration-and-apis}
 
-[[!DNL Facebook Workplace] Integration](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
+Facebook Workplace Integration
 
 Send system notifications and interesting moments to [!DNL Facebook Workplace].
 
-[Static List APIs](https://developers.marketo.com/rest-api/assets/static-lists/)
+Static List APIs
 
 Manage lists between Marketo and other systems more easily with new bi-directional APIs for creating, reading, updating, and deleting static lists remotely without taking any action in the Marketo UI.
 
 ## Privacy Enhancements {#privacy-enhancements}
 
-[Web Tracking Privacy](https://developers.marketo.com/javascript-api/lead-tracking/)
+Web Tracking Privacy
 
 Enhanced [!DNL Munchkin] tracking complies with local and international privacy regulations by anonymizing the IP addresses of web visitors and allowing them to permanently opt-out of web tracking.

@@ -15,9 +15,9 @@ The following features began a phased rollout on **August 26, 2022**.
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
-* **[Enable/Disable All Published Dialogues at Once for [!DNL Dynamic Chat]](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**: Globally enable/disable all published Dialogues at once from the Configuration page with the press of a button.
+* Enable/Disable All Published Dialogues at Once for [!DNL Dynamic Chat]**: Globally enable/disable all published Dialogues at once from the Configuration page with the press of a button.
 
-* **[Custom Avatars for [!DNL Dynamic Chat]](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target="_blank"}**: Upload a custom chatbot avatar so it can be personalized to your brand.
+* **Custom Avatars for [!DNL Dynamic Chat]**: Upload a custom chatbot avatar so it can be personalized to your brand.
 
 * **Chat Transcripts for [!DNL Dynamic Chat]**: View chat transcripts for every conversation to obtain deeper insight into what each web visitor is interested in.
 
