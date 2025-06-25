@@ -29,7 +29,7 @@ Google Fonts are awesome, and we built them right into the form editor. Check it
 
    >[!TIP]
    >
-   >A bunch of [Google Fonts](https://www.google.com/fonts) are available for use.
+   >A bunch of [Google Fonts](https://fonts.google.com/){target="_blank"} are available for use.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 

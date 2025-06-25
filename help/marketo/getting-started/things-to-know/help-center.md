@@ -14,9 +14,9 @@ There are two different experiences, depending on if your subscription has been 
 
 ### Pre-Adobe IMS Migration {#pre-adobe-ims-integration}
 
-These steps are for Marketo Engage users who have _not_ been migrated to [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) yet.
+These steps are for Marketo Engage users who have _not_ been migrated to [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} yet.
 
-[Log in](http://login.marketo.com/) to Marketo Engage and click the Help icon.
+[Log in](https://login.marketo.com/){target="_blank"} to Marketo Engage and click the Help icon.
 
    ![](assets/help-center-1.png)
 
@@ -64,9 +64,9 @@ The Resources tab gives you quick and direct access to various ways you can get 
 
 ### Post-Adobe IMS Migration {#post-adobe-ims-integration}
 
-These steps are for Marketo Engage users who have already been migrated to [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
+These steps are for Marketo Engage users who have already been migrated to [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}.
 
-[Log in](https://experience.adobe.com/) to Marketo Engage and click the Help icon.
+[Log in](https://experience.adobe.com/){target="_blank"} to Marketo Engage and click the Help icon.
 
    ![](assets/help-center-9.png)
 
