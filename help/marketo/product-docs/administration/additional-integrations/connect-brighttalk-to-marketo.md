@@ -73,4 +73,4 @@ Learn how to connect your [!DNL BrightTALK] channel to your Marketo instance. In
 
 1. Return to the [!DNL BrightTALK] connector set-up screen from Step 3, and enter the credentials you saved from Steps 12 and 14.
 
-After the credentials are authenticated, you've officially connected [!DNL BrightTALK] to Marketo. The next step is to determine [which data fields you'd like to sync](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync){target="_blank"}.
+After the credentials are authenticated, you've officially connected [!DNL BrightTALK] to Marketo. The next step is to determine which data fields you'd like to sync. If you need assistance with that, please contact Support at [BrightTALK](https://www.brighttalk.com/){target="_blank"}.
