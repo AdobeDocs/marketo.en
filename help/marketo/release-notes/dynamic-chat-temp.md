@@ -4,6 +4,7 @@ title: Dynamic Chat Release Notes
 feature: Release Information, Dynamic Chat
 hide: yes
 hidefromtoc: yes
+exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
 ---
 # Dynamic Chat Release Notes {#dynamic-chat-release}
 
@@ -207,4 +208,4 @@ Whenever a visitor requests to connect with an agent, today we provide in-app, b
 
 * Content for Pulse notification can be the same as what we use today for in-app, browser notification 
 
-Behavior should be same as current for agent to accept when multiple agents accepts. 
+Behavior should be same as current for agent to accept when multiple agents accepts.
