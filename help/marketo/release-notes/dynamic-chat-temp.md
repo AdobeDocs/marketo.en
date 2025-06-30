@@ -18,7 +18,7 @@ The standard Release Notes page for Marketo Engage [can be found here](/help/mar
 
 We've revamped the live chat routing logic in Dynamic Chat to ensure more intelligent and predictable engagement behavior across all routing types (Account, Custom, Team, and Round Robin). The new logic simplifies routing flows and improves fallback handling when agents are unavailable. 
  
-#### Key Improvements in Routing Behavior 
+#### Key Improvements in Routing Behavior
 
 * **Up to two engagement attempts per session**
 
