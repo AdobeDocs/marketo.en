@@ -4,6 +4,7 @@ title: Current Release Notes
 hide: yes
 hidefromtoc: yes
 feature: Release Information
+exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
 ---
 # Release Notes: July 2025 {#release-notes-july-25}
 
