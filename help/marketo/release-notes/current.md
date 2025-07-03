@@ -4,9 +4,9 @@ title: Current Release Notes
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 ---
-# Release Notes: May 2025 {#release-notes-may-25}
+# Release Notes: July 2025 {#release-notes-july-25}
 
-Below you'll find all the features included in the May '25 release. Check your Adobe Marketo Engage edition for feature availability.
+Below you'll find all the features included in the July '25 release. Check your Adobe Marketo Engage edition for feature availability.
 
 The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -16,7 +16,7 @@ The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/
 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
-The following features fall under the standard release cycle and will start to be released on **May 23, 2025**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
+The following features fall under the standard release cycle and will start to be released on **July 11, 2025**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
 <table style="table-layout:auto"> 
  <tbody>
@@ -26,37 +26,7 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr> 
-   <td><strong>Email Content Personalization</strong>: Marketo Engage now follows the same camel case syntax as the other AEP application tokens so a consistent experience is provided across Adobe DX products. All standard tokens as well as Marketo Engage specific tokens such as Member, Program, and My Tokens are made available in the new Email Designer.</td> 
-   <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md">Personalization Tokens</a></td>
-  </tr>
-  <tr> 
-   <td>&nbsp;</td> 
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr> 
-   <td><strong>Role-based Access Control for Email Designer Assets</strong>: A new enhancement to the role-based access control (RBAC) system provides more granular permissions and improved user management for assets powered by the new Email Designer.</td> 
-   <td>Shipped</td>
-   <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">Granular permissions to New Email Designer (blog post)</a></td>
-  </tr>
-  <tr> 
-   <td>&nbsp;</td> 
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr> 
-   <td><strong>Cloning Emails Created in the Email Designer</strong>: You now have the ability to clone an existing email created using the new Email Designer.</td> 
-   <td>Shipped</td>
-   <td>n/a</td>
-  </tr>
-  <tr> 
-   <td>&nbsp;</td> 
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr> 
-   <td><strong>GenStudio Integration in the Email Designer</strong>: Integrate GenStudio for performance marketing from within emails to enhance marketing efficiency and to maintain brand consistency.</td> 
+   <td><strong>Email Designer - Brand Kit with AI Assistant</strong>: Maintain brand consistency across email assets by storing and managing brand assets such as colors, fonts, logos, themes, visual content, compliance guidelines, etc., all in one place.</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -66,7 +36,117 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr> 
-   <td><strong>Trigger Tokens for Any Attribute</strong>: Expanded list of trigger tokens to support using data from any activity attribute in Smart Campaign fields.</td> 
+   <td><strong>Email Designer - Custom CSS Support</strong>: When designing emails, you can now add your own custom CSS directly within the Email Designer.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - Support of Moving Assets and Program Deletion</strong>: Quickly relocate an email asset across programs. You can now also delete programs that contain new designer email assets.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - Firefox Support</strong>: The Email Designer is now fully supported in Mozilla Firefox. For the best experience, always keep your browser up to date.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - Simulate Content from the Properties Page</strong>: Simulate content for email assets from <i>Email Properties</i> without having to go back into the editing screen.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+   <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - Role-based Access Control for Assets</strong>: The May release saw Role-based Access Control (RBAC) implemented for Edit, Approve, and Delete permissions. Read permissions are now available with this release.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - Edit Email Properties for Published Emails</strong>: Make edits in <i>Email Properties</i> even after the email is published.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - Select Branding Domain and Domain IP Configuration</strong>: You can now select a "Branding domain" and "Domain IP configuration" for every email asset.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - GenStudio Integration</strong>: Integrate GenStudio for performance marketing from within emails to enhance marketing efficiency and to maintain brand consistency.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>REST API Error Code Notification Updates</strong>: Two additional classes of REST API error in in-app notifications have been added: 606 - Max Rate Limit Exceeded and 607 - Daily Quota Reached.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Display Program Member Standard Fields in Field Management</strong>: Both standard and custom program member fields in <i>Field Management</i> are now visible.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>REST API Names in Field Management</strong>: This update allows admins to see REST API field names without having to export the list.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>My Tokens Used By List</strong>: View the list of assets that are using a My Token (up to 50 assets at a time).</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -75,12 +155,6 @@ The following features fall under the standard release cycle and will start to b
 <br/>
 
 ## Announcements {#announcements}
-
-* **Facebook Offline Conversion Integration Update**: On May 29, 2025, the [Facebook Offline Conversion](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} integration for Marketo Engage will be migrated to the new Meta [Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}, due to Meta's deprecation of the [Offline Conversions API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} in line with Graph API versioning. For more information, please view Meta's guide to [sending offline events via Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI for Offline).
-
-* **New Analytics Feature - Public Beta**: [Advanced BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (formerly known as Revenue Explorer and Advanced Report Builder) began rolling out to all current Revenue Cycle Explorer users in mid-April. This new tool offers a flexible reporting and visualization interface on Marketo Engage data, providing granular details about progression, performance, and more. It features richer interactivity and visualization, faster performance, and a more seamless and intuitive user experience.
-
-To access this feature, you must have purchased the Advanced BI Analytics add-on. Please contact the Adobe Account Team (your Account Manager) for details.
 
 * **Rest API 'access_token' Parameter Deprecation**: The `access_token` query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after October 31, 2025. All new and existing integrations should authenticate REST API calls using the 'Authorization' header, [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 

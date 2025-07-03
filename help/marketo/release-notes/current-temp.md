@@ -107,7 +107,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr> 
-   <td><strong>TITLE</strong>: DESCRIPTION.</td> 
+   <td><strong>Email Designer - GenStudio Integration</strong>: Integrate GenStudio for performance marketing from within emails to enhance marketing efficiency and to maintain brand consistency.</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -117,7 +117,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr> 
-   <td><strong>TITLE</strong>: DESCRIPTION.</td> 
+   <td><strong>REST API Error Code Notification Updates</strong>: Two additional classes of REST API error in in-app notifications have been added: 606 - Max Rate Limit Exceeded and 607 - Daily Quota Reached.</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -127,7 +127,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr> 
-   <td><strong>TITLE</strong>: DESCRIPTION.</td> 
+   <td><strong>Display Program Member Standard Fields in Field Management</strong>: Both standard and custom program member fields in <i>Field Management</i> are now visible.</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -137,7 +137,17 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr> 
-   <td><strong>TITLE</strong>: DESCRIPTION.</td> 
+   <td><strong>REST API Names in Field Management</strong>: This update allows admins to see REST API field names without having to export the list.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>My Tokens Used By List</strong>: View the list of assets that are using a My Token (up to 50 assets at a time).</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
