@@ -16,7 +16,7 @@ When designing your emails, you can add your own custom CSS directly within the 
 
 To add custom CSS to your email content, follow the steps below.
 
-1. Ensure there is some content defined in the Email Designer by adding at least one [component](content-components.md).
+1. Ensure there is some content defined in the Email Designer by adding at least one component. LINK - KEEP THIS?
 
 1. Select **[!UICONTROL Body]**, either from the **[!UICONTROL Navigation tree]** on the left, or on top of the right pane. The **[!UICONTROL CSS styles]** section displays on the right.
  
