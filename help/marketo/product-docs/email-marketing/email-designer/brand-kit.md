@@ -240,7 +240,7 @@ The **[!UICONTROL Writing style]** section outlines the standards for writing co
 
 To personalize your **[!UICONTROL Writing Style]**:
 
-1. From the **[!UICONTROL Writing Style]** tab, click ![](assets/do-not-localize/Smock_Add_18_N.svg) to add a guideline, exception or exclusion.
+1. From the **[!UICONTROL Writing Style]** tab, click THIS ICON to add a guideline, exception or exclusion.
 
 1. Enter your guideline, exception or exclusion and click **[!UICONTROL Add]**.
 
