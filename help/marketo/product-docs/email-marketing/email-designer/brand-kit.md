@@ -7,6 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: yes
 hidefromtoc: yes
+exl-id: 34bd5fea-0859-4634-9ddd-ae6fd7a1d423
 ---
 # Create & manage your brands {#brands}
 
