@@ -101,7 +101,7 @@ Your brand guidelines are now accessible from the **[!UICONTROL Brand]** drop-do
 
 You can designate a default brand to be automatically applied when generating content and calculating alignment scores during campaign creation.
 
-To set a default brand, go to your **[!UICONTROL Brands]** dashboard. Open the advanced menu by clicking the by clicking the ![](assets/do-not-localize/Smock_More_18_N.svg) icon and select **[!UICONTROL Mark as default brand]**.
+To set a default brand, go to your **[!UICONTROL Brands]** dashboard. Open the advanced menu by clicking the by clicking THE ICON and select **[!UICONTROL Mark as default brand]**.
 
    SCREENSHOT
 
