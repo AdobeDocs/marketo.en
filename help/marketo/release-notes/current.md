@@ -26,16 +26,6 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr> 
-   <td><strong>Email Designer - Brand Kit with AI Assistant</strong>: Maintain brand consistency across email assets by storing and managing brand assets such as colors, fonts, logos, themes, visual content, compliance guidelines, etc., all in one place.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr> 
-   <td>&nbsp;</td> 
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr> 
    <td><strong>Email Designer - Custom CSS Support</strong>: When designing emails, you can now add your own custom CSS directly within the Email Designer.</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
@@ -155,6 +145,12 @@ The following features fall under the standard release cycle and will start to b
 <br/>
 
 ## Announcements {#announcements}
+
+* **Marketo Engage Identity End of Life**: In August 2025, Adobe will begin phasing out support for Marketo Engage Identity (logging in via `login.marketo.com`). To prevent interrupted access to Marketo Engage, you must transition to [Adobe Identity](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} no later than September 30, 2025.
+
+  * _IP Restrictions Deprecation_: Support for the [Restricting Marketo Logins Based on IP](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} will end on July 30, 2025. The feature will remain operational until the transition to Adobe Identity is complete. A new location-based access control feature for Adobe Identity in the Adobe Admin Console is targeted for the August 2025 release.
+
+  * _Single Sign-On (SSO) Deprecation_: Support for [Marketo Identity SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} will end on July 30, 2025. The feature will remain operational until the transition to Adobe Identity is complete. Single Sign-On for Adobe Identity in the Adobe Admin Console must be configured separately. For setup steps, see [Set up identity and Single Sign-On](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 * **Rest API 'access_token' Parameter Deprecation**: The `access_token` query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after October 31, 2025. All new and existing integrations should authenticate REST API calls using the 'Authorization' header, [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
