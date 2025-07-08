@@ -248,7 +248,17 @@ The following standard reports are included as examples for your custom reports.
 
 * Existing Revenue Explorer users automatically have access to the new Advanced BI Analytics experience.
 
-* You can create up to 700 reports in Advanced BI Analytics.
+* You can create **up to 700 reports** in Advanced BI Analytics.
+
+   >[!NOTE]
+   >
+   >If you had more than 700 reports in the Revenue Explorer, some reports have been combined with others and consolidated via pages within the report.
+   >
+   >* If a report had an email subscription, it was not combined.
+   >
+   >* The rest of the reports in the _same folder_ were combined into one or more reports, by reporting area. If there were more than five reports for the reporting area, they were consolidated into more than one combined report.
+   >
+   >* Each combined report has no more than five pages.
 
 * There is a limitation of 1 million rows per query on any given visualization. If your query exceeds that, you will receieve the following error: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. To fix this, reduce your date range, and/or adjust the filters in your report to reduce the number of rows in your query result.
 
