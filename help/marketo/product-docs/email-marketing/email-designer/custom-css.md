@@ -11,23 +11,21 @@ exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
 ---
 # Add custom CSS to your email content {#email-metadata}
 
-When designing your emails, you can add your own custom CSS directly within the Marketo Engage Email Designer. This capability enables you to apply advanced and specific styling, for greater flexibility and control over the appearance of your content.
+Add your own custom CSS directly within the Marketo Engage Email Designer for advanced and specific styling.
 
 ## Define custom CSS {#define-custom-css}
 
-To add custom CSS to your email content, follow the steps below.
+1. Ensure there is some content defined in the Email Designer by adding at least one component.
 
-1. Ensure there is some content defined in the Email Designer by adding at least one component. LINK - KEEP THIS?
-
-1. Select **[!UICONTROL Body]**, either from the **[!UICONTROL Navigation tree]** on the left, or on top of the right pane. The **[!UICONTROL CSS styles]** section displays on the right.
+1. Select **[!UICONTROL Body]**, either from the **[!UICONTROL Navigation tree]** on the left, or the right pane. **[!UICONTROL CSS styles]** displays on the right.
  
    SCREENSHOT
 
     >[!NOTE]
     >
-    >The **[!UICONTROL CSS styles]** section is only available when content is already present in the editor. 
+    >The **[!UICONTROL CSS styles]** section is only available when content is present in the editor. 
 
-1. Click the **[!UICONTROL Add Custom CSS]** button.
+1. Click the **[!UICONTROL + Add custom CSS]** button.
 
     >[!NOTE]
     >
@@ -39,27 +37,27 @@ To add custom CSS to your email content, follow the steps below.
 
     >[!NOTE]
     >
-    >When using a [template with locked content](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md), you cannot add custom CSS to your content. The button label changes to **[!UICONTROL View custom CSS]** and any custom CSS already present in the content is read-only.
+    >You cannot add custom CSS to your content when using a [template with locked content](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md). The button label changes to **[!UICONTROL View custom CSS]** and any custom CSS shown is read-only.
 
-1. Save your custom CSS and check that your custom CSS is correctly applied to your content. If this is not the case, check the [Troubleshooting](#troubleshooting) section.
+1. Save your custom CSS and make sure it applies to your content. If it doesn't, check the [Troubleshooting](#troubleshooting) section.
 
    SCREENSHOT
 
-1. If you remove all content, the section disappears, and the previously defined custom CSS is no longer applied.
+   >[!NOTE]
+   >
+   >If you remove all content, the section disappears, and the previously defined custom CSS is no longer applied. Add content back to make the **[!UICONTROL CSS styles]** section reappear. The custom CSS is applied again.
 
-1. Add content back to the editor to make the **[!UICONTROL CSS styles]** section reappear. The custom CSS is applied again.
-
-## Ensure using valid CSS {#use-valid-css}
+## Using valid CSS {#using-valid-css}
  
 You can input any valid CSS string in the **[!UICONTROL Add custom CSS]** text area. Properly formatted CSS is immediately applied to the content.
 
 >[!CAUTION]
 >
->Users are responsible for the security of their custom CSS. Ensure that your CSS does not introduce vulnerabilities or conflicts with the existing content. 
+>You are responsible for the security of your custom CSS. Ensure your CSS does not introduce vulnerabilities or conflicts with the existing content. 
 >
->Avoid using CSS that could unintentionally break the layout or functionality of the content.
+>Avoid using CSS that could unintentionally break the content's layout or functionality.
 
-+++ Samples of CSS
++++ Samples of valid CSS
 
 Below are examples of valid CSS.
 
@@ -133,7 +131,7 @@ Below are examples of valid CSS.
 
 +++ Samples of invalid CSS
 
-If invalid CSS is entered, an error message is displayed, indicating that the CSS cannot be saved. Below are examples of invalid CSS.
+If invalid CSS is entered, an error message is displayed, indicating the CSS cannot be saved. Below are examples of invalid CSS.
  
 Using `<style>` tags is not accepted:
 
@@ -161,7 +159,7 @@ body {
 
 ## Technical implementation {#implementation}
  
-Your custom CSS is added to the end of the `<head>` section as part of a `<style>` tag with the `data-name="global-custom"` attribute, such as in the example below. This ensures that the custom styles are applied globally to the content.
+Your custom CSS is added to the end of the `<head>` section as part of a `<style>` tag with the `data-name="global-custom"` attribute, such as in the example below. This ensures the custom styles are applied globally to the content.
 
 +++ See sample 
 
@@ -203,23 +201,23 @@ Your custom CSS is added to the end of the `<head>` section as part of a `<style
 
 The custom CSS is not interpreted or validated by the Email Designer's **[!UICONTROL Settings]** pane. It is entirely independent and can only be modified through the **[!UICONTROL Add Custom CSS]** option.
 
-### Guardrails - Imported content
+### Guardrails - Imported content {#guardrails}
 
 If you want to use custom CSS with content imported into the Email Designer, consider the following:
 
-* If [importing external HTML](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) content including CSS, unless converting that content, it will be in **[!UICONTROL Compatibility mode]**, where the **[!UICONTROL CSS styles]** section is not available.
+* If [importing external HTML](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) content including CSS, unless you convert that content, it will be in **[!UICONTROL Compatibility mode]**, where the **[!UICONTROL CSS styles]** section is not available.
 
-* If importing content created with the Email Designer including CSS applied through the **[!UICONTROL Add custom CSS]** option, the CSS previously applied will be visible and editable from the same option.
+* If importing content created with the Email Designer includes CSS applied through the **[!UICONTROL Add custom CSS]** option, the CSS previously applied will be visible and editable from the same option.
 
 ## Troubleshooting {#troubleshooting}
 
-If your custom CSS is not applied, consider the options below.
+If your custom CSS is not applied, try the suggestions below.
 
-* Ensure that your CSS is valid and free of syntax errors (such as missing braces, incorrect property names). [Learn how](#use-valid-css)
+* Ensure your CSS is valid and free of syntax errors (such as missing braces, incorrect property names). [Learn how](#use-valid-css)
 
-* Ensure that your CSS is being added to the `<style>` tag with the `data-name="global-custom"` attribute.
+* Ensure your CSS is being added to the `<style>` tag with the `data-name="global-custom"` attribute.
 
-* Check if the `global-custom` style tag has the attribute `data-disabled` set to `true`. If this is the case, the custom CSS is not applied.
+* Check if the `global-custom` style tag has the attribute `data-disabled` set to `true`. If so, the custom CSS is not applied.
 
   +++ For example:
 
@@ -229,9 +227,9 @@ If your custom CSS is not applied, consider the options below.
 
   +++
 
-* Ensure that your CSS is not overridden by other CSS rules.
+* Ensure your CSS is not overridden by other CSS rules.
  
-  * Use your browser developer tools to inspect the content and verify that your CSS is targeting the correct selectors.
+  * Use your browser developer tools to inspect the content and verify your CSS is targeting the correct selectors.
   
   * Consider adding `!important` to your declarations to ensure they take precedence.
   
@@ -244,3 +242,7 @@ If your custom CSS is not applied, consider the options below.
     ```
 
     +++
+
+>[!NOTE]
+>
+>Marketo Engage Support is not set up to assist with troubleshooting custom CSS. For CSS assistance, please consult a web developer.
