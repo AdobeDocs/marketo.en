@@ -62,11 +62,17 @@ _If the user needs to be migrated_ (and the domain enforcement is enabled in ano
 
 _If the user does **not** need to be migrated_ - Marketo Engage admin to skip the user in the Migration Console. The "Migration Complete" button appears when all users are accounted for by migrating or skipping. Click the button to conclude the user migration process.
 
-### User Creation Failed {#user-creation-failed}
-
-[See below](#failed)
-
 ### Type2E Failure {#type2e-failure}
+
+**Root cause**: Creation of a federated user account (for Single Sign-On) failed during user migration because an Adobe ID already exists for the same email address as an individual user.
+
+**Resolutions**:
+
+1. Remove the individual user from the Adobe org. Please note: the user will lose access to all products and will need to be re-entitled again later.
+1. Re-run the user migration so a federated user account gets created for this user. 
+1. Add the user back to the products they previously had access to.
+
+### User Creation Failed {#user-creation-failed}
 
 [See below](#failed)
 
