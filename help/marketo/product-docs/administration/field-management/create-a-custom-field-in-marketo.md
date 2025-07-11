@@ -25,24 +25,32 @@ If you need a new custom field in Marketo Engage to store/capture data, here's h
 
     ![](assets/create-a-custom-field-in-marketo-3.png)
 
-1. Choose the field Type. This will change how it's rendered in smart lists and forms in Marketo.
-
-    >[!TIP]
-    >
-    >Check out the [Custom Field Types Glossary](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+1. Choose the _[!UICONTROL Object]_.
 
     ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. Enter the [!UICONTROL Name] as you want it to appear in Marketo. The [!UICONTROL API Name] is automatically generated. You can tweak it, but it cannot be renamed once set. Click **[!UICONTROL Create]** when done.
+   >[!NOTE]
+   >
+   >While you are not able to select the _Company_ object yourself, you can request it by contacting [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+
+1. Choose the field _[!UICONTROL Type]_. This will change how it's rendered in Smart Lists and forms in Marketo.
+
+   >[!TIP]
+   >
+   >Check out the [Custom Field Types Glossary](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+
+    ![](assets/create-a-custom-field-in-marketo-5.png)
+
+1. Enter the _[!UICONTROL Name]_ as you want it to appear in Marketo (the _[!UICONTROL API Name]_ is automatically generated). Choose carefully, as it cannot be renamed after saving. Click **[!UICONTROL Create]** when done.
 
 >[!CAUTION]
 >
 >Field names cannot start with the following characters: **. & + []**
 
-![](assets/create-a-custom-field-in-marketo-5.png)
+![](assets/create-a-custom-field-in-marketo-6.png)
 
 >[!NOTE]
 >
 >The API name is used by the SOAP API and other backend processes.
 
-You can now use this custom field in forms, flow steps and Smart Lists!
+You can now use this custom field in forms, flow steps, and Smart Lists!
