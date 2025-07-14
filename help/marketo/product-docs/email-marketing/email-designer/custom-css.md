@@ -1,7 +1,7 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TITLE
+title: Add custom CSS to your email content
 description: Learn how to add custom CSS to your email content directly within the Email Designer in Marketo Engage.
 level: Intermediate
 feature: Email Designer
@@ -9,9 +9,9 @@ hide: yes
 hidefromtoc: yes
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
 ---
-# Add custom CSS to your email content {#email-metadata}
+# Add custom CSS to your email content {#custom-css}
 
-Add your own custom CSS directly within the Marketo Engage Email Designer for advanced and specific styling.
+Add your own custom CSS directly within the Marketo Engage Email Designer for advanced, specific styling.
 
 ## Define custom CSS {#define-custom-css}
 
@@ -19,7 +19,7 @@ Add your own custom CSS directly within the Marketo Engage Email Designer for ad
 
 1. Select **[!UICONTROL Body]**, either from the **[!UICONTROL Navigation tree]** on the left, or the right pane. **[!UICONTROL CSS styles]** displays on the right.
  
-   SCREENSHOT
+   ![](assets/custom-css-1.png){width="800" zoomable="yes"}
 
     >[!NOTE]
     >
@@ -31,17 +31,17 @@ Add your own custom CSS directly within the Marketo Engage Email Designer for ad
     >
     >The **[!UICONTROL Add custom CSS]** button is only available when **[!UICONTROL Body]** is selected. However, you can apply custom CSS styles to all the components inside your content.
 
-1. Enter your CSS code in the dedicated text area that pops up. Make sure the custom CSS is valid and follows the proper syntax. [Learn more](#use-valid-css)
+1. Enter your CSS code in the dedicated text area that pops up. Make sure the custom CSS [is valid and follows the proper syntax](#use-valid-css). Click **Save** when done.
 
-   SCREENSHOT
+   ![](assets/custom-css-2.png)
 
     >[!NOTE]
     >
     >You cannot add custom CSS to your content when using a [template with locked content](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md). The button label changes to **[!UICONTROL View custom CSS]** and any custom CSS shown is read-only.
 
-1. Save your custom CSS and make sure it applies to your content. If it doesn't, check the [Troubleshooting](#troubleshooting) section.
+1. Make sure the CSS applies to your content. If it doesn't, check the [Troubleshooting](#troubleshooting) section.
 
-   SCREENSHOT
+   ![](assets/custom-css-3.png)
 
    >[!NOTE]
    >
