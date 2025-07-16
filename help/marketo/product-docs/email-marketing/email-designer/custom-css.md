@@ -5,8 +5,6 @@ title: Add custom CSS to your email content
 description: Learn how to add custom CSS to your email content directly within the Email Designer in Marketo Engage.
 level: Intermediate
 feature: Email Designer
-hide: yes
-hidefromtoc: yes
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
 ---
 # Add custom CSS to your email content {#custom-css}
