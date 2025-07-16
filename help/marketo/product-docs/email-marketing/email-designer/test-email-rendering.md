@@ -13,7 +13,7 @@ Leverage your [Litmus](https://www.litmus.com/email-testing) account in Marketo 
 
 >[!AVAILABILITY]
 >
->This feature is available to all Marketo Engage users who have an active Litmus account.
+>This feature is available to all Marketo Engage users who have an active [Litmus Enterprise](https://www.litmus.com/enterprise){target="_blank"} account.
 
 ## How to use {#how-to-use}
 
