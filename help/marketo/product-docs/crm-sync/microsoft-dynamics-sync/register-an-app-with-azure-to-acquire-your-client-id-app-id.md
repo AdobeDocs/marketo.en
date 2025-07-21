@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Register an App with Azure to Acquire Your Client ID/App ID {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
-Azure Active Directory extends your on-premises directories into the cloud, providing support for MS Dynamics 365 CRM with on-premise ADFS authentication.
+Azure Active Directory extends your on-premises directories into the cloud, providing support for [!DNL MS Dynamics 365] CRM with on-premise ADFS authentication.
 
 ## Registering a New App {#registering-a-new-app}
 
@@ -15,20 +15,20 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
 
    >[!CAUTION]
    >
-   >You must use an account in the same Office 365 subscription as the one you intend to register the app with.
+   >You must use an account in the same [!DNL Office 365] subscription as the one you intend to register the app with.
 
    >[!NOTE]
    >
    >If you don't have an Azure account, you can [sign up](https://azure.microsoft.com/en-us/free/){target="_blank"} for one. Please refer to Microsoft's documentation or reach out to your Microsoft representative for more information. Once you've created an Azure account, you can register one or more apps using the procedure outlined below.
    >
    >
-   >If you have an Azure account but your Office 365 subscription with Microsoft Dynamics 365 isn't available in your Azure subscription, follow [these instructions](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} to associate the two accounts.
+   >If you have an Azure account but your [!DNL Office 365] subscription with [!DNL Microsoft Dynamics 365] isn't available in your Azure subscription, follow [these instructions](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} to associate the two accounts.
 
 1. Find and click **[!UICONTROL Azure Active Directory]** in the left navigation pane.
 
    ![](assets/two.png)
 
-1. Under Manage, click **[!UICONTROL App registrations]**.
+1. Under [!UICONTROL Manage], click **[!UICONTROL App registrations]**.
 
    ![](assets/three.png)
 
@@ -50,7 +50,7 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
 
    ![](assets/seven.png)
 
-1. Under Manage, click **[!UICONTROL API permissions]**.
+1. Under [!UICONTROL Manage], click **[!UICONTROL API permissions]**.
 
    ![](assets/eight.png)
 
@@ -62,7 +62,7 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
 
    ![](assets/ten.png)
 
-1. Check the **[!UICONTROL Access Common Data Service as organization users]** box, then click **[!UICONTROL Add permissions]**.
+1. Check the **[!UICONTROL Access Common Data Service as organization users]** box, then click **[!UICONTROL Add permissions].**
 
    ![](assets/eleven.png)
 

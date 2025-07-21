@@ -17,7 +17,7 @@ You can modify a Landing Page's URL. This can help make the URL easier to rememb
 
    ![](assets/change-the-landing-page-url-2.png)
 
-1. Enter the **New URL**, choose to have the old URL discarded or redirected, and click **Save**.
+1. Enter the **[!UICONTROL New URL]**, choose to have the old URL discarded or redirected, and click **[!UICONTROL Save]**.
 
    ![](assets/change-the-landing-page-url-3.png)
 

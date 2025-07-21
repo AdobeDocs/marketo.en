@@ -9,11 +9,11 @@ feature: Email Editor
 
 What if you want to send an email to a lead on behalf of the Lead Owner?  Here's how.
 
-1. Find your email, select it and click **Edit Draft**.
+1. Find your email, select it and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/one.png)
 
-1. Click in the **From** field (delete any existing name), and click the **Insert Token** button.
+1. Click in the **[!UICONTROL From]** field (delete any existing name), and click the **Insert Token** button.
 
    ![](assets/two.png)
 
@@ -21,7 +21,7 @@ What if you want to send an email to a lead on behalf of the Lead Owner?  Here's
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
-1. Enter a default value in case the lead does not yet have a lead owner and click **Insert**.
+1. Enter a default value in case the lead does not yet have a lead owner and click **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
@@ -33,7 +33,7 @@ What if you want to send an email to a lead on behalf of the Lead Owner?  Here's
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
-1. Enter a default value in case the lead does not yet have a lead owner and click **Insert**.
+1. Enter a default value in case the lead does not yet have a lead owner and click **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-11-13-3a8-3a39.png)
 
@@ -41,7 +41,7 @@ What if you want to send an email to a lead on behalf of the Lead Owner?  Here's
    >
    >Make sure you added a space between the first and last name tokens.
 
-1. Click in the From Email field (delete any existing email address), and click the Insert Token button.
+1. Click in the **[!UICONTROL From Address]** field (delete any existing email address), and click the **Insert Token** button.
 
    ![](assets/eight.png)
 
@@ -49,10 +49,10 @@ What if you want to send an email to a lead on behalf of the Lead Owner?  Here's
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
-1. Enter a default value in case the lead does not yet have a lead owner and click **Insert**.
+1. Enter a default value in case the lead does not yet have a lead owner and click **[!UICONTROL Insert]**.
 
    ![](assets/ten.png)
 
-1. Make sure the **Reply-to** and **Subject** fields are populated, and you're done!
+1. Make sure the **[!UICONTROL Reply-to]** and **[!UICONTROL Subject]** fields are populated, and you're done!
 
    ![](assets/eleven.png)

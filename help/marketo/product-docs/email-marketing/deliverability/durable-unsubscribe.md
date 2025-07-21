@@ -37,7 +37,7 @@ When a new person is created, Marketo checks it against the master email status 
 
 ## Changing an Email Address {#changing-an-email-address}
 
-If you change the email address of a person to an unsubscribed email address, that person will be unsubscribed. This change can occur in either Marketo or Salesforce.
+If you change the email address of a person to an unsubscribed email address, that person will be unsubscribed. This change can occur in either Marketo or [!DNL Salesforce].
 
 ## Re-subscribing {#re-subscribing}
 

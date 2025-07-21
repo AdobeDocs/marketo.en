@@ -20,7 +20,7 @@ feature: Email Programs
 
 Now that your program is ready to go, the final step is to approve it. Here is how:
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -31,7 +31,7 @@ Now that your program is ready to go, the final step is to approve it. Here is h
    >
    >If you don't approve your email program, the email will not go out.
 
-1. Under the **Approval** tile go ahead and click on **Approve Program**.
+1. Under the **[!UICONTROL Approval]** tile go ahead and click on **[!UICONTROL Approve Program]**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -47,7 +47,7 @@ Now that your program is ready to go, the final step is to approve it. Here is h
 
 If you change your mind and decide you don't want it to go out, you can unapprove the email program.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -55,7 +55,7 @@ If you change your mind and decide you don't want it to go out, you can unapprov
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. Under the **Approval** tile, simply click on **Unapprove Program**.
+1. Under the **[!UICONTROL Approval]** tile, simply click on **[!UICONTROL Unapprove Program]**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

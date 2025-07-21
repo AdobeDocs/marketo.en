@@ -18,44 +18,44 @@ feature: Reporting, Revenue Cycle Analytics
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>What happens when…?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>How it impacts the Model Performance Analysis (Leads) Area</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>How it impacts the <span class="uicontrol">Model Performance Analysis (Leads)</span> Area</strong></p></td> 
    <td colspan="1" rowspan="1"><p><strong>How it impacts the Lead Analysis, Campaign Analysis, and Opportunity Analysis Areas</strong></p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>What happens when you enable a custom field group associated with a standard lead or company field?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>The custom field group is enabled for reporting in the Model Performance Analysis (Leads) Area</p></td> 
+   <td colspan="1" rowspan="1"><p>The custom field group is enabled for reporting in the <span class="uicontrol">Model Performance Analysis (Leads)</span> Area</p></td> 
    <td colspan="1" rowspan="1"><p>No Impact</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>What happens when you enable a custom field group associated with a custom person or company field?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>The custom field group is enabled for reporting in the Model Performance Analysis (Leads) Area</p></td> 
+   <td colspan="1" rowspan="1"><p>The custom field group is enabled for reporting in the <span class="uicontrol">Model Performance Analysis (Leads)</span> Area</p></td> 
    <td colspan="1" rowspan="1"><p>The custom field itself is enabled for reporting in the Lead Analysis, Campaign Analysis, and Opportunity Analysis Areas.</p><p><strong>NOTE:</strong> Custom field groups are NOT supported in these analysis areas, so the group associations do not display in Revenue Cycle Explorer--<em>only</em> the custom field.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-Follow these steps to enable a custom field group for reporting in the Model Performance Analysis (Leads) area.
+Follow these steps to enable a custom field group for reporting in the [!UICONTROL Model Performance Analysis (Leads)] area.
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/one-1.png)
 
-1. Click **Revenue Cycle Analytics**.
+1. Click **[!UICONTROL Revenue Cycle Analytics]**.
 
    ![](assets/two-1.png)
 
-1. Click **None** next to an empty field group. If you already have three field groups enabled and want to make an edit, click the name of the field group you wish to modify.
+1. Click **[!UICONTROL None]** next to an empty field group. If you already have three field groups enabled and want to make an edit, click the name of the field group you wish to modify.
 
    ![](assets/three.png)
 
-1. Click the **Field** drop-down and select the one you want.
+1. Click the **[!UICONTROL Field]** drop-down and select the one you want.
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >This example enabled a custom field group for a standard field (State). Therefore, only the Model Performance Analysis (Leads) Area was impacted. If a custom field group for a custom person or company field had been enabled, the enabled group would display in the Model Performance Analysis (Leads) section of the Sync Summary tab and the custom field count for Lead, Campaign, and Opportunity Analysis would increase by one.
+   >This example enabled a custom field group for a standard field (State). Therefore, only the [!UICONTROL Model Performance Analysis (Leads)] Area was impacted. If a custom field group for a custom person or company field had been enabled, the enabled group would display in the [!UICONTROL Model Performance Analysis (Leads)] section of the Sync Summary tab and the custom field count for Lead, Campaign, and Opportunity Analysis would increase by one.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/five-1.png)

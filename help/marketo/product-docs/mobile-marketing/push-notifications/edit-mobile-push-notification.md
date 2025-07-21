@@ -7,11 +7,11 @@ feature: Mobile Marketing
 ---
 # Edit Mobile Push Notification {#edit-mobile-push-notification}
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
 ![](assets/image2015-4-22-18-3a44-3a42.png)
 
-1. Select your Mobile App and click **Edit Draft**.
+1. Select your Mobile App and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-4-22-18-3a45-3a13.png)
 

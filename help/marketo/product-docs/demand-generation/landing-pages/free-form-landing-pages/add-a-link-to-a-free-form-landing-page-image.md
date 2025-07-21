@@ -15,11 +15,11 @@ feature: Landing Pages
 >
 >This only applies to free-form landing pages.
 
-1. Select the image you added to your landing page and expand the **Property Sheet.**
+1. Select the image you added to your landing page and expand the **[!UICONTROL Property Sheet].**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Type your mailto link in the **Link URL.**
+1. Type your mailto link in the **[!UICONTROL linkUrl].**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

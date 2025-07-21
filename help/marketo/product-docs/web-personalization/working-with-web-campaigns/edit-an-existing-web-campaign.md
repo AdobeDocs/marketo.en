@@ -7,11 +7,11 @@ feature: Web Personalization
 ---
 # Edit an Existing Web Campaign {#edit-an-existing-web-campaign}
 
-1. Go to **Web Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. On the **Web Campaigns** page, click **Edit** on the campaign you want to edit.
+1. On the **[!UICONTROL Web Campaigns]** page, click **[!UICONTROL Edit]** on the campaign you want to edit.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 

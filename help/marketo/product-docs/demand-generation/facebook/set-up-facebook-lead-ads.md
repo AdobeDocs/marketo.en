@@ -25,7 +25,7 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/lead
 
    ![](assets/set-up-facebook-lead-ads-2.png)
 
-1. Enter a **Display Name** for your service, select the **Facebook Lead Ads** service from the drop-down, and click **Create**.
+1. Enter a **[!UICONTROL Display Name]** for your service, select the **[!UICONTROL Facebook Lead Ads]** service from the drop-down, and click **[!UICONTROL Create]**.
 
    ![](assets/set-up-facebook-lead-ads-3.png)
 
@@ -33,31 +33,31 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/lead
 
    >[!NOTE]
    >
-   >The Facebook account will need access to all the Facebook business pages you want to pull lead ads from.
+   >The [!DNL Facebook] account will need access to all the [!DNL Facebook] business pages you want to pull lead ads from.
 
    ![](assets/set-up-facebook-lead-ads-4.png)
 
-1. After you're logged into Facebook, return to Marketo and click **Authorize**.
+1. After you're logged into [!DNL Facebook], return to Marketo and click **[!UICONTROL Authorize]**.
 
    ![](assets/set-up-facebook-lead-ads-5.png)
 
-1. If prompted, click **OK** to accept the Marketo app installation into Facebook.
+1. If prompted, click **[!UICONTROL OK]** to accept the Marketo app installation into [!DNL Facebook].
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. You'll notice you are now authorized. Click **Next**.
+1. You'll notice you are now authorized. Click **[!UICONTROL Next]**.
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
-1. Select the page(s) you want Marketo to pull Facebook Lead Ads from and click **Next**.
+1. Select the page(s) you want Marketo to pull [!UICONTROL Facebook Lead Ads] from and click **[!UICONTROL Next]**.
 
    >[!TIP]
    >
-   >If you don't see a page you're expecting, ensure that the Facebook account used to authenticate is added to the page on Facebook and try again.
+   >If you don't see a page you're expecting, ensure that the [!DNL Facebook] account used to authenticate is added to the page on [!DNL Facebook] and try again.
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. To accept default Facebook to Marketo field mappings, simply click **Create**.
+1. To accept default [!DNL Facebook] to Marketo field mappings, simply click **[!UICONTROL Create]**.
 
    >[!TIP]
    >
@@ -65,11 +65,11 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/lead
 
    >[!CAUTION]
    >
-   >Marketo doesn't support mapping two Facebook fields to a single Marketo field, only 1 to 1. If you map 2 to 1, leads may fail to enter the Marketo system.
+   >Marketo doesn't support mapping two [!DNL Facebook] fields to a single Marketo field, only 1 to 1. If you map 2 to 1, leads may fail to enter the Marketo system.
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   Nicely done! Leads will start flowing into Marketo as you run successful Facebook Lead Ad campaigns.
+   Nicely done! Leads will start flowing into Marketo as you run successful [!DNL Facebook] Lead Ad campaigns.
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

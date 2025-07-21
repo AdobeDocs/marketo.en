@@ -27,7 +27,7 @@ Sometimes you need to edit a field that's not approved yet.
    >
    >You can't edit the API Name.
 
-1. The changes appear in the Fields listing.
+1. The changes appear in the **[!UICONTROL Fields]** listing.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-4.png)
 

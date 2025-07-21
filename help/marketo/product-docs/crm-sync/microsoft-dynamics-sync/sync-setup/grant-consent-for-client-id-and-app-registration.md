@@ -10,7 +10,7 @@ Follow the steps below to learn how to grant the mecessary consent/permissions.
 
 ## Grant Delegated User Permissions for the Sync User {#grant-delegated-user-permissions-for-the-sync-user}
 
-1. Use a clean text program (Notepad for Windows, Text Edit for Mac) to create a Uniform Resource Identifier (URI) for authorization by pasting the below text and substituting the client_id, redirect_uri, and stae values.
+1. Use a clean text program (Notepad for Windows, Text Edit for Mac) to create a Uniform Resource Identifier (URI) for authorization by pasting the below text and substituting the `client_id`, `redirect_uri`, and `state` values.
 
    ```
    https://login.microsoftonline.com/common/oauth2/authorize?
@@ -69,7 +69,7 @@ As an administrator, you can also consent to an application's delegated permissi
 
 1. In your Azure portal, navigate to the application homepage.
 
-1. Under Manage, click **[!UICONTROL API Permissions]**.
+1. Under [!UICONTROL Manage], click **[!UICONTROL API Permissions]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 

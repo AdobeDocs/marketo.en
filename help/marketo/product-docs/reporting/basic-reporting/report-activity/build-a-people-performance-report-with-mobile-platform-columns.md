@@ -11,7 +11,7 @@ Follow these steps to create a People Performance Report with mobile platform (i
 
 ## Create Mobile Smart Lists {#create-mobile-smart-lists}
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
@@ -19,35 +19,35 @@ Follow these steps to create a People Performance Report with mobile platform (i
 
    ![](assets/two-1.png)
 
-1. Under **New**, select **New Local Asset**.
+1. Under **[!UICONTROL New]**, select **[!UICONTROL New Local Asset]**.
 
    ![](assets/three-1.png)
 
-1. Click **Smart List**.
+1. Click **[!UICONTROL Smart List]**.
 
    ![](assets/four-1.png)
 
-1. Type in a name and click **Create**.
+1. Type in a name and click **[!UICONTROL Create]**.
 
    ![](assets/five-1.png)
 
-1. Find and drag the Opened Email filter into the canvas.
+1. Find and drag the [!UICONTROL Opened Email] filter into the canvas.
 
    ![](assets/six-1.png)
 
-1. Set Email to **is any**.
+1. Set Email to **[!UICONTROL is any]**.
 
    ![](assets/seven.png)
 
-1. Click on **Add Constraint** and select **Platform**.
+1. Click on **[!UICONTROL Add Constraint]** and select **[!UICONTROL Platform]**.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >We used the Opened Email filter in this example. You can also use the Clicked Email filter as it has the Platform constraint.
+   >We used the [!UICONTROL Opened Email] filter in this example. You can also use the [!UICONTROL Clicked Email] filter as it has the Platform constraint.
 
-1. Set Platform to **iOS**.
+1. Set [!UICONTROL Platform] to **[!UICONTROL iOS]**.
 
    ![](assets/nine.png)
 
@@ -59,23 +59,23 @@ Follow these steps to create a People Performance Report with mobile platform (i
 
 ## Create a People Performance Report {#create-a-people-performance-report}
 
-1. Under Marketing Activities, select the program that is housing your **iOS** and **Android** smart lists.
+1. Under Marketing Activities, select the program that is housing your **[!UICONTROL iOS]** and **[!UICONTROL Android]** smart lists.
 
    ![](assets/ten.png)
 
-1. Under **New**, select **New Local Asset**.
+1. Under **[!UICONTROL New]**, select **[!UICONTROL New Local Asset]**.
 
    ![](assets/eleven.png)
 
-1. Click **Report**.
+1. Click **[!UICONTROL Report]**.
 
    ![](assets/twelve.png)
 
-1. Set Type to **People Performance**.
+1. Set Type to **[!UICONTROL People Performance]**.
 
    ![](assets/thirteen.png)
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/fourteen.png)
 
@@ -83,7 +83,7 @@ Follow these steps to create a People Performance Report with mobile platform (i
 
 ## Add Mobile Smart Lists as Columns {#add-mobile-smart-lists-as-columns}
 
-1. In the report you just created, click **Setup**, then drag **Custom Columns** into the canvas.
+1. In the report you just created, click **[!UICONTROL Setup]**, then drag **[!UICONTROL Custom Columns]** into the canvas.
 
    ![](assets/fifteen.png)
 
@@ -91,11 +91,11 @@ Follow these steps to create a People Performance Report with mobile platform (i
    >
    >By default the People Performance report is looking at the Last 7 days. You can change the timeframe by double-clicking on it.
 
-1. Find and select the smart lists you created earlier and click **Apply**.
+1. Find and select the smart lists you created earlier and click **[!UICONTROL Apply]**.
 
    ![](assets/sixteen.png)
 
-1. Click **Report** to run the report and see your data.
+1. Click **[!UICONTROL Report]** to run the report and see your data.
 
    ![](assets/seventeen.png)
 

@@ -9,23 +9,23 @@ feature: Forms
 
 If a visitor has provided their full name and email address in the past, and you don't want them to get the whole form, learn how to show them some custom HTML (e.g., just a download button).
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Under **Marketing Activities**, select your form and click **Edit Form**.
+1. Under **[!UICONTROL Marketing Activities]**, select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Under **Form Settings**, click on **Settings**.
+1. Under **[!UICONTROL Form Settings]**, click on **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Set If **Known Visitor, Show**: to **Custom HTML**.
+1. Set If **[!UICONTROL Known Visitor, Show]**: to **[!UICONTROL Custom HTML]**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Click the ![--](assets/image2014-9-25-14-3a1-3a26.png) to edit the **Custom HTML** that will be shown to known people.
+1. Click the ![--](assets/image2014-9-25-14-3a1-3a26.png) to edit the **[!UICONTROL Custom HTML]** that will be shown to known people.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -46,11 +46,11 @@ If a visitor has provided their full name and email address in the past, and you
    >
    >Only the four tokens above can be used. Any other token will not work here.
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    >[!NOTE]
    >

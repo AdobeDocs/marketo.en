@@ -9,7 +9,7 @@ feature: Engagement Programs
 
 You can quickly see members of an engagement program. Here's how.
 
-1. From your engagement program, right-click and select **View Members**.
+1. From your engagement program, right-click and select **[!UICONTROL View Members]**.
 
    ![](assets/membersofengagement.jpg)
 

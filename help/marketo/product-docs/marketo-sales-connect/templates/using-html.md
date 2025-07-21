@@ -13,7 +13,7 @@ feature: Marketo Sales Connect
 
 1. Paste the source code there.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
 >[!NOTE]
 >

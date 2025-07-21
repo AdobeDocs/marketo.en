@@ -5,7 +5,7 @@ title: Hide a Salesforce Field From the Marketo Sync
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
 ---
-# Hide a Salesforce Field From the Marketo Sync {#hide-a-salesforce-field-from-the-marketo-sync}
+# Hide a [!DNL Salesforce] Field From the Marketo Sync {#hide-a-salesforce-field-from-the-marketo-sync}
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Not every field in Salesforce is useful for Marketing. You can optimize the sync
 
    >[!NOTE]
    >
-   >If the field you hide in Salesforce has already been synced with Marketo, you'll need to hide it in Marketo, too if you don't want to use it.
+   >If the field you hide in [!DNL Salesforce] has already been synced with Marketo, you'll need to hide it in Marketo, too if you don't want to use it.
 
    That's it! You will no longer see this field in Marketo after the next sync is finished.
 

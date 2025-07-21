@@ -83,7 +83,7 @@ The child campaign's My Tokens.
 
 ### Example One - True {#example-one-true}
 
-In the Execute Campaign flow step of the first parent campaign, the "Use Parent Campaign Token Context" is set to **True**.
+In the Execute Campaign flow step of the first parent campaign, the "[!UICONTROL Use Parent Campaign Token Context]" is set to **[!UICONTROL True]**.
 
 ![](assets/execute-campaign-5.png)
 

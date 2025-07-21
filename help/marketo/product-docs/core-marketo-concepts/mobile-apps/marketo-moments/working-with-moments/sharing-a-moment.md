@@ -27,7 +27,7 @@ Want to give an update to your team? You've got two choices to select sharing.
 
    >[!NOTE]
    >
-   >Sharing depends on the apps installed on your phone. So, if you don't have Facebook, you won't see it in Moments.
+   >Sharing depends on the apps installed on your phone. So, if you don't have [!DNL Facebook], you won't see it in Moments.
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 

@@ -11,13 +11,13 @@ This flow step can be used in Marketo Engage campaigns or as a single flow step 
 
 >[!NOTE]
 >
->Only available when integrated with Salesforce.
+>Only available when integrated with [!DNL Salesforce].
 
 ![](assets/add-to-sfdc-campaign-1.png)
 
 ## Usage {#usage}
 
-1. Find and select the Salesforce campaign you want to add your leads to.
+1. Find and select the [!DNL Salesforce] campaign you want to add your leads to.
 
    ![](assets/add-to-sfdc-campaign-2.png)
 
@@ -32,7 +32,7 @@ This flow step can be used in Marketo Engage campaigns or as a single flow step 
    >
    >You can use Salesforce campaign [My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} to make program cloning easier.
 
-1. Select the Salesforce campaign member status you want to assign to leads when they're added.
+1. Select the [!DNL Salesforce] campaign member status you want to assign to leads when they're added.
 
    ![](assets/add-to-sfdc-campaign-3.png)
 

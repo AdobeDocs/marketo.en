@@ -7,11 +7,11 @@ feature: Web Personalization
 ---
 # Clone a Web Campaign {#clone-a-web-campaign}
 
-Use the clone feature on the Web Campaigns page to copy the campaign settings and change the content for split testing optimization, or clone a campaign with the same content and target it toward a different segment. Create web campaigns in seconds!
+Use the clone feature on the [!UICONTROL Web Campaigns] page to copy the campaign settings and change the content for split testing optimization, or clone a campaign with the same content and target it toward a different segment. Create web campaigns in seconds!
 
 ## Create a Clone Campaign {#create-a-clone-campaign}
 
-1. Go to **Web Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 

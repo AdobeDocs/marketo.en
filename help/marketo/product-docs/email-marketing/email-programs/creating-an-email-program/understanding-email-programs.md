@@ -11,7 +11,7 @@ Send out emails, create A/B tests, and track your results all in one place.
 
 ## Control Panel {#control-panel}
 
-Four boxes keep you focused. **Audience** defines the "who," **Email** provides the "what," **Schedule** defines "when," and **Approval** makes it ready to go.
+Four boxes keep you focused. **[!UICONTROL Audience]** defines the "who," **[!UICONTROL Email]** provides the "what," **[!UICONTROL Schedule]** defines "when," and **[!UICONTROL Approval]** makes it ready to go.
 
 ![](assets/emailprogram.png)
 

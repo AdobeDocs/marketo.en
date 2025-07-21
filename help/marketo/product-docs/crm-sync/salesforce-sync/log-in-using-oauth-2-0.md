@@ -10,7 +10,7 @@ Salesforce uses the OAuth protocol to allow users of applications to securely ac
 
 >[!IMPORTANT]
 >
->To connect Marketo and Salesforce using OAuth, log in to Marketo via private (incognito) browser as to avoid connecting to Salesforce with the wrong username.
+>To connect Marketo and [!DNL Salesforce] using OAuth, log in to Marketo via private (incognito) browser as to avoid connecting to [!DNL Salesforce] with the wrong username.
 
 ## Set Up Connected App {#set-up-connected-app}
 
@@ -50,7 +50,7 @@ Salesforce uses the OAuth protocol to allow users of applications to securely ac
 >* Marketo Sync user has to be created in Salesforce.
 >* For existing customers, Feature to "Enable OAuth for SFDC sync" is enabled on the customer's subscription.
 >* Pop-up blockers are disabled.
->* Connected App is created and we have the Consumer Key and Consumer Secret are available for use.
+>* Connected App is created and we have the [!UICONTROL Consumer Key] and [!UICONTROL Consumer Secret] are available for use.
 
 >[!CAUTION]
 >
@@ -96,7 +96,7 @@ Salesforce uses the OAuth protocol to allow users of applications to securely ac
 
    ![](assets/setting-up-oauth-2-15.png)
 
-Your Sync between Marketo and Salesforce is now in progress.
+Your Sync between Marketo and [!DNL Salesforce] is now in progress.
 
    ![](assets/setting-up-oauth-2-16.png)
 

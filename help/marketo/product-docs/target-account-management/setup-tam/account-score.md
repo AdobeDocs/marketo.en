@@ -5,9 +5,9 @@ title: Account Score
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
 ---
-# Account Score {#account-score}
+# [!UICONTROL Account Score] {#account-score}
 
-Account Scoring is a vital part of Target Account Management. It helps you determine the level of engagement of your accounts.
+Account Scoring is a vital part of [!UICONTROL Target Account Management]. It helps you determine the level of engagement of your accounts.
 
 ## What is Account Scoring? {#what-is-account-scoring}
 
@@ -51,30 +51,30 @@ In the complex world of B2B buying processes, it's rare that a single individual
 
 Once you've configured the lead score, proceed by following the steps below.
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/account-score-1.png)
 
-1. Click **Target Account Management**.
+1. Click **[!UICONTROL Target Account Management]**.
 
    ![](assets/account-score-2.png)
 
-1. In Scoring Fields, click **Edit**.
+1. In [!UICONTROL Scoring Fields], click **[!UICONTROL Edit]**.
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >You can choose up to **five** fields to calculate the Account Score.
+   >You can choose up to **five** fields to calculate the [!UICONTROL Account Score].
 
-1. Enter the Account Score name, click the **Select Person Score** drop-down and select the corresponding score.
+1. Enter the [!UICONTROL Account Score] name, click the **[!UICONTROL Select Person Score]** drop-down and select the corresponding score.
 
    ![](assets/account-score-4.png)
 
-1. Click **+Add** to add more scores.
+1. Click **[!UICONTROL +Add]** to add more scores.
 
    ![](assets/account-score-5.png)
 
-1. Add all desired scores. Click **Save** when done.
+1. Add all desired scores. Click **[!UICONTROL Save]** when done.
 
    ![](assets/account-score-6.png)

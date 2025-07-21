@@ -5,6 +5,6 @@ title: Does Sales Connect Have an iPhone or Android App?
 exl-id: 94f1106a-69fe-44ea-bb57-beba51cee576
 feature: Marketo Sales Connect
 ---
-# Does Sales Connect Have an iPhone or Android App? {#does-sales-connect-have-an-iphone-or-android-app}
+# Does [!DNL Sales Connect] Have an iPhone or Android App? {#does-sales-connect-have-an-iphone-or-android-app}
 
-Sales Connect does not have an iPhone or Android App at this time. It's something we're hoping to add in the future.
+[!DNL Sales Connect] does not have an iPhone or Android App at this time. It's something we're hoping to add in the future.

@@ -39,4 +39,4 @@ Nice job! You now know how to rename fields in Marketo.
 
 >[!CAUTION]
 >
->If you rename the API name in Salesforce, Marketo will create a brand new field and leave the old one behind!
+>If you rename the API name in [!DNL Salesforce], Marketo will create a brand new field and leave the old one behind!

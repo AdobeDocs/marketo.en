@@ -9,7 +9,7 @@ feature: Marketo Sales Connect
 
 We track email opens by placing an invisible image inside the emails you send.
 
-If someone responds to your email but Sales Connect is saying it wasn't viewed, odds are the recipient did not enable images within their email client (i.e., click on the "click here to download images" message in the email).
+If someone responds to your email but [!DNL Sales Connect] is saying it wasn't viewed, odds are the recipient did not enable images within their email client (i.e., click on the "click here to download images" message in the email).
 
 Some tips for getting better tracking stats on your emails:
 

@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 ---
 # How to Add a Template {#how-to-add-a-template}
 
-1. In a new message, click **Templates**.
+1. In a new message, click **[!UICONTROL Templates]**.
 
 1. By default, we will show your recently used templates.
 

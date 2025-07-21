@@ -13,11 +13,11 @@ Marketo Engage provides fine-grain control over the Salesforce custom object syn
 >
 >**Admin Permissions Required**
 
-1. Got to the **[!UICONTROL Admin]** area.
+1. Click **[!UICONTROL Admin].**
 
    ![](assets/add-remove-custom-object-field-1.png)
 
-1. Click **[!UICONTROL Salesforce Objects Sync]**.
+1. Click **[!UICONTROL Admin]** and then **[!UICONTROL Salesforce Objects Sync].**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
@@ -33,7 +33,7 @@ Marketo Engage provides fine-grain control over the Salesforce custom object syn
 
    >[!TIP]
    >
-   >If the **[!UICONTROL Edit Visible Fields]** button is grayed out, the object is currently in use in a Smart List or Smart Campaign. Remove all associations to proceed.
+   >If the **[!UICONTROL Edit Visible Fields]** button is greyed out, the object is currently in use in a smart list or smart campaign. Remove all associations to proceed.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 

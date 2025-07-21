@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # Understanding Analytics Cards {#understanding-analytics-cards}
 
-At the beginning of each month, Marketo Moments provides three different report cards: Acquired Leads, New Leads, and Unsubscribes. Each one shows you monthly performance and the trend over a six-month period.
+At the beginning of each month, Marketo Moments provides three different report cards: [!UICONTROL Acquired Leads], [!UICONTROL New Leads], and [!UICONTROL Unsubscribes]. Each one shows you monthly performance and the trend over a six-month period.
 
 >[!IMPORTANT]
 >
@@ -27,15 +27,15 @@ Tap an Analytics card to show:
 * A month-over month comparison
 * A bar chart of the most or top three (depending on the card)
 
-For example, let's take a look at the details for the Acquired Leads Analytics card:
+For example, let's take a look at the details for the [!UICONTROL Acquired Leads] Analytics card:
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
 In this example, red indicates the value has decreased over the selected date range (uh oh!). Green indicates the value has increased (yay!).
 
-## Acquired Leads {#acquired-leads}
+## [!UICONTROL Acquired Leads] {#acquired-leads}
 
-The **Acquired Leads** card shows you a trending month-over-month report of the number of new leads.
+The **[!UICONTROL Acquired Leads]** card shows you a trending month-over-month report of the number of new leads.
 
 >[!NOTE]
 >
@@ -43,13 +43,13 @@ The **Acquired Leads** card shows you a trending month-over-month report of the 
 
 ![](assets/image2015-6-30-14-3a31-3a40.png)
 
-## New Leads {#new-leads}
+## [!UICONTROL New Leads] {#new-leads}
 
 The **[!UICONTROL New Leads]** card shows you a trending month-over-month report of the total number of new leads in your instance over the last six months.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## Unsubscribes {#unsubscribes}
+## [!UICONTROL Unsubscribes] {#unsubscribes}
 
 The **[!UICONTROL Unsubscribes]** card shows you a month-over-month trending report of your unsubscribe rate over the last six months.
 

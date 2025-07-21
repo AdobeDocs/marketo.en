@@ -135,4 +135,4 @@ To check that your [!DNL Munchkin] code is working after you've added it:
 
    >[!NOTE]
    >
-   >If you don't see any data, wait a few minutes, then click the refresh icon at the bottom.
+   >If you don't see any data, wait a few minutes, then click the [!UICONTROL refresh] icon at the bottom.

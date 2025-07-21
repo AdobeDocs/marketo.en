@@ -8,11 +8,11 @@ feature: Sales Insight Actions
 ---
 # Person Detail View {#person-detail-view}
 
-Person detail view provides a detailed profile of each person in your Marketo Sales account.
+Person detail view provides a detailed profile of each person in your [!DNL Marketo Sales] account.
 
 ## How to Access {#how-to-access}
 
-1. To access the person detail view, click the **People** tab.
+1. To access the person detail view, click the **[!UICONTROL People]** tab.
 
    ![](assets/person-detail-view-1.png)
 
@@ -40,8 +40,8 @@ Includes all of the person's contact information.
 
 **Account Information**
 
-* Can add a person to Salesforce
-* Pull account and lead/contact information from Salesforce
+* Can add a person to [!DNL Salesforce]
+* Pull account and lead/contact information from [!DNL Salesforce]
 
 **Custom Fields**
 

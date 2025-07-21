@@ -9,7 +9,7 @@ feature: Reporting
 
 Drill down in a People Performance Report to see additional person information.
 
-1. Click the **Report** tab to view any existing report.
+1. Click the **[!UICONTROL Report]** tab to view any existing report.
 
    ![](assets/one.png)
 
@@ -17,11 +17,11 @@ Drill down in a People Performance Report to see additional person information.
 
    ![](assets/two.png)
 
-1. Click on **Drill-Down**.
+1. Click on **[!UICONTROL Drill-Down]**.
 
    ![](assets/three.png)
 
-1. In the **Drill-Down** pop-up, select the attribute you would like to drill down to. Then click **Drill-Down**.
+1. In the **[!UICONTROL Drill-Down]** pop-up, select the attribute you would like to drill down to. Then click **[!UICONTROL Drill-Down]**.
 
    ![](assets/four.png)
 
@@ -33,6 +33,6 @@ Drill down in a People Performance Report to see additional person information.
 
    ![](assets/five.png)
 
-1. To save your results (optional), click the **Export** icon on the bottom-left.
+1. To save your results (optional), click the **[!UICONTROL Export]** icon on the bottom-left.
 
    ![](assets/six.png)

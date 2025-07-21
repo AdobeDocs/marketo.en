@@ -9,7 +9,7 @@ feature: Programs
 >[!PREREQUISITES]
 >
 >* Creation of [Program Member Custom Fields](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
->* [Sync a Salesforce Campaign with a Program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* [Sync a [!DNL Salesforce] Campaign with a Program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ feature: Programs
 
    ![](assets/program-member-custom-field-sync-2.png)
  
-1. Use the search box to locate the Salesforce fields you want to map. In this example, we're using Do Not Call.
+1. Use the search box to locate the [!DNL Salesforce] fields you want to map. In this example, we're using Do Not Call.
 
    ![](assets/program-member-custom-field-sync-3.png)
 
@@ -33,13 +33,13 @@ feature: Programs
 
    ![](assets/program-member-custom-field-sync-4.png)
 
-1. Choose the desired Marketo Program Member Custom Field to map.
+1. Choose the desired Marketo [!UICONTROL Program Member Custom Field] to map.
 
    ![](assets/program-member-custom-field-sync-5.png)
 
    >[!NOTE]
    >
-   >The drop-down will only show Program Member Custom Fields that match the data type of the Salesforce field.
+   >The drop-down will only show [!UICONTROL Program Member Custom Fields] that match the data type of the [!DNL Salesforce] field.
 
 1. For additional field mappings, clear the search box and repeat steps 3 through 5.
 
@@ -49,11 +49,11 @@ feature: Programs
 
    >[!IMPORTANT]
    >
-   >Changes to program member data on the mapped fields will be synced between Marketo and Salesforce going forward.
+   >Changes to program member data on the mapped fields will be synced between Marketo and [!DNL Salesforce] going forward.
 
    >[!NOTE]
    >
-   >If you rename or change the data type of a field in Salesforce, we will remove any mapping of that field with the Program Member Custom Field. But you can remap it with the new field after review.
+   >If you rename or change the data type of a field in [!DNL Salesforce], we will remove any mapping of that field with the [!UICONTROL Program Member Custom Field]. But you can remap it with the new field after review.
 
 ## Unmap Salesforce Fields from Program Member Custom Fields {#unmap-salesforce-fields-from-program-member-custom-fields}
 

@@ -35,7 +35,7 @@ This section shows you how your site is ranked for the [keywords you're targetin
 
 ## [!UICONTROL Average Page Optimization Score] {#average-page-optimization-score}
 
-The Average Page Optimization Score is a proprietary Marketo score which measures all the pages on your site on a scale of 1 to 100.
+The [!UICONTROL Average Page Optimization Score] is a proprietary Marketo score which measures all the pages on your site on a scale of 1 to 100.
 
 It's based on a compilation of dozens of best practices. A score of 70 or higher indicates a well-optimized site.
 

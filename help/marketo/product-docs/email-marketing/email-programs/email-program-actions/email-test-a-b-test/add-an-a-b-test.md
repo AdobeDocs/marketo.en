@@ -16,7 +16,7 @@ feature: Email Programs, A/B Testing
 
 Testing is a great way to optimize your emails for better engagement. Here's how to get it started.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -24,7 +24,7 @@ Testing is a great way to optimize your emails for better engagement. Here's how
 
    ![](assets/selectemailprogram.jpg)
 
-1. Under the **Email** tile, click **Add A/B Test**.
+1. Under the **[!UICONTROL Email]** tile, click **[!UICONTROL Add A/B Test]**.
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 

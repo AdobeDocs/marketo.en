@@ -5,15 +5,15 @@ title: Performance Insights Quick Charts
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
 ---
-# Performance Insights Quick Charts {#performance-insights-quick-charts}
+# [!UICONTROL Performance Insights] [!UICONTROL Quick Charts] {#performance-insights-quick-charts}
 
-Quick Charts are thumbnails that you customize and save, providing a quick view of charts that you use the most.
+[!UICONTROL Quick Charts] are thumbnails that you customize and save, providing a quick view of charts that you use the most.
 
 ## Create a New Quick Chart {#create-a-new-quick-chart}
 
-Quick Charts derive from data you specify. In this example, we'll choose: **new opportunities (first touch), opportunity type = new business, current year-to-date**.
+[!UICONTROL Quick Charts] derive from data you specify. In this example, we'll choose: **new opportunities (first touch), opportunity type = new business, current year-to-date**.
 
-1. Click the date filter and choose **Current Year (YTD)**.
+1. Click the date filter and choose **[!UICONTROL Current Year (YTD)]**.
 
    ![](assets/1-2.png)
 
@@ -25,11 +25,11 @@ Quick Charts derive from data you specify. In this example, we'll choose: **new 
 
    ![](assets/3-3.png)
 
-1. Click the Export icon and select **Save as Quick Chart**.
+1. Click the Export icon and select **[!UICONTROL Save as Quick Chart]**.
 
    ![](assets/4-2.png)
 
-1. Name your Quick Chart and click **Save**.
+1. Name your Quick Chart and click **[!UICONTROL Save]**.
 
    ![](assets/5-3.png)
 
@@ -43,7 +43,7 @@ Your Quick Chart is now with the others.
 
 ## View Existing Quick Charts {#view-existing-quick-charts}
 
-1. To view your existing Quick Charts, simply click the **Quick Charts** icon.
+1. To view your existing Quick Charts, simply click the **[!UICONTROL Quick Charts]** icon.
 
    ![](assets/7-1.png)
 
@@ -51,7 +51,7 @@ Your Quick Chart is now with the others.
 
 If you need to delete a Quick Chart, follow these simple steps.
 
-1. Click the **Quick Charts** icon.
+1. Click the **[!UICONTROL Quick Charts]** icon.
 
    ![](assets/8-1.png)
 
@@ -59,6 +59,6 @@ If you need to delete a Quick Chart, follow these simple steps.
 
    ![](assets/9-2.png)
 
-1. Click **Delete**.
+1. Click **[!UICONTROL Delete]**.
 
    ![](assets/10-1.png)

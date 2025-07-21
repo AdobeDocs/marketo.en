@@ -10,9 +10,9 @@ This is the last step of the sync. You're almost there!
 
 >[!PREREQUISITES]
 >
->* [Step 1 of 4: Install the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"}
->* [Step 2 of 4: Set up the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
->* [Step 3 of 4: Set up Client App on MS Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md){target="_blank"}
+>* [Step 1 of 4: Install the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
+>* [Step 2 of 4: Set up the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
+>* [Step 3 of 4: Set up Client App on MS [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
 
 >[!NOTE]
 >
@@ -20,15 +20,15 @@ This is the last step of the sync. You're almost there!
 
 >[!NOTE]
 >
->If you're upgrading from Basic Authentication to OAuth, you can use [this article](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"} to reconfigure your authentication.
+>If you’re upgrading from Basic Authentication to [!DNL OAuth], you can use [this article](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) to reconfigure your authentication.
 
-## Enter Dynamics Sync User information {#enter-dynamics-sync-user-information}
+## Enter [!DNL Dynamics] Sync User information {#enter-dynamics-sync-user-information}
 
-1. Log in to Marketo and click **A[!UICONTROL ]dmin**.
+1. Log into Marketo and click **[!UICONTROL Admin]**.
 
    ![](assets/login-admin.png)
 
-1. Click **[!UICONTROL CRM]**.
+1. Click on **[!UICONTROL CRM]**.
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
@@ -36,7 +36,7 @@ This is the last step of the sync. You're almost there!
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. Click **[!UICONTROL Edit]** in **[!UICONTROL Enter Credentials]**.
+1. Click **[!UICONTROL Edit]** in **[!UICONTROL Step 1: Enter Credentials]**.
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
@@ -48,7 +48,7 @@ This is the last step of the sync. You're almost there!
    >
    >Before you enter new credentials, you can [validate them here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
 
-1. Enter the **[!UICONTROL Username]**, **[!UICONTROL Password]**, Microsoft Dynamics **URL**, **[!UICONTROL Client ID]**, and **[!UICONTROL Client Secret]**. Click **[!UICONTROL Save]** when done.
+1. Enter the **[!UICONTROL Username]**, **[!UICONTROL Password]**, [!DNL Microsoft Dynamics] **[!UICONTROL URL]**, **[!UICONTROL Client ID]**, and **[!UICONTROL Client Secret]**. Click **[!UICONTROL Save]** when done.
 
    ![](assets/step-4-of-4-connect-ropc-5.png)
 
@@ -58,7 +58,7 @@ This is the last step of the sync. You're almost there!
 
 ## Select Fields to Sync {#select-fields-to-sync}
 
-1. Click **[!UICONTROL Edit]** in **[!UICONTROL Select Fields to Sync]**.
+1. Click **[!UICONTROL Edit]** in **[!UICONTROL Step 2: Select Fields to Sync]**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -68,17 +68,17 @@ This is the last step of the sync. You're almost there!
 
 >[!NOTE]
 >
->Marketo stores a reference to the fields to sync. If you delete a field in Dynamics, we recommended doing so with the [sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
+>Marketo stores a reference to the fields to sync. If you delete a field in [!DNL Dynamics], we recommended doing so with the [sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Sync Fields for a Custom Filter {#sync-fields-for-a-custom-filter}
 
 If you've created a custom filter, be sure to go in and select the new fields to be synced with Marketo.
 
-1. Go to Admin and select **[!DNL Microsoft Dynamics]**.
+1. Go to [!UICONTROL Admin] and select **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Click **[!UICONTROL Edit]** on Field Sync Details.
+1. Click **[!UICONTROL Edit]** on [!UICONTROL Field Sync Details].
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -88,13 +88,13 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
 ## Enable Sync {#enable-sync}
 
-1. Click **[!UICONTROL Edit]** in **[!UICONTROL Enable Sync]**.
+1. Click **[!UICONTROL Edit]** in **[!UICONTROL Step 3: Enable Sync]**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
    >[!CAUTION]
    >
-   >Marketo will not automatically de-dupe against a Microsoft Dynamics sync, or when you manually enter people or leads.
+   >Marketo will not automatically de-dupe against a [!UICONTROL Microsoft Dynamics] sync, or when you manually enter people or leads.
 
 1. Read everything in the pop-up, enter your email address, and click **[!UICONTROL Start Sync]**.
 
@@ -106,4 +106,4 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
 >[!MORELIKETHIS]
 >
->[Reconfigure Dynamics Authentication Method](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"}
+>[Reconfigure [!DNL Dynamics] Authentication Method](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)

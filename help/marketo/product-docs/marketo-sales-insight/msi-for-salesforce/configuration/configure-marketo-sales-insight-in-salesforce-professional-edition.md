@@ -5,15 +5,15 @@ title: Configure Marketo Sales Insight in Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
 ---
-# Configure Marketo Sales Insight in Salesforce Professional Edition {#configure-marketo-sales-insight-in-salesforce-professional-edition}
+# Configure [!DNL Marketo Sales Insight] in [!DNL Salesforce] Professional Edition {#configure-marketo-sales-insight-in-salesforce-professional-edition}
 
 Configure Marketo Sales Insight in Salesforce Professional Edition by completing the following steps.
 
 >[!PREREQUISITES]
 >
->* Install Marketo in your Salesforce Professional Edition.
+>* Install Marketo in your [!DNL Salesforce] Professional Edition.
 >
->* [Install Marketo Sales Insight Package in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [Install [!DNL Marketo Sales Insight] Package in [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Configure Marketo Sales Insight in Salesforce Professional Edition by completing
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5-1.png)
 
-## Configure Sales Insight in Salesforce {#configure-sales-insight-in-salesforce}
+## Configure Sales Insight in [!DNL Salesforce] {#configure-sales-insight-in-salesforce}
 
 1. From Salesforce, click **[!UICONTROL Setup]**.
 
@@ -103,7 +103,7 @@ Due to Salesforce security enhancements, AppExchange packages can no longer gran
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
-1. Drag and drop **Lead** into the new section.
+1. Drag and drop **[!UICONTROL Lead]** into the new section.
 
    ![](assets/image2014-9-24-17-3a33-3a45.png)
 
@@ -214,5 +214,5 @@ You should be able to see the Marketo Sales Insight fields for Leads, Contacts, 
 >[!MORELIKETHIS]
 >
 >* [Priority, Urgency, Relative Score, and Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target="_blank"}
->* [Add Marketo Tab to Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target="_blank"}
+>* [Add Marketo Tab to [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target="_blank"}
 >* [Add Sales Insight Access to Profiles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

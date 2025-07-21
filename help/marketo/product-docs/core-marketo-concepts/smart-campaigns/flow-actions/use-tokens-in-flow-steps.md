@@ -16,7 +16,7 @@ A token is a variable. You use it in emails, Landing Pages, and Smart Campaigns 
 * Change Data Value
 * Change Program Member Data
 * Interesting Moment
-* Salesforce Campaign Steps (add, remove, change status)
+* [!DNL Salesforce] Campaign Steps (add, remove, change status)
 * Create Task
 * Send Alert (in Trigger Campaigns only)
 

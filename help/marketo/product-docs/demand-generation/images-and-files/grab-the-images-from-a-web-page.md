@@ -9,15 +9,15 @@ feature: Image Editor
 
 To add images from a web page, copy the web address (URL) of the page that has the images you want, then follow these easy steps.
 
-1. Go to **Design Studio**.
+1. Go to **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-2.png)
 
-1. Click on **New** and **Grab Images from Web**.
+1. Click on **[!UICONTROL New]** and **[!UICONTROL Grab Images from Web]**.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Select the **Images and Files** folder, paste the web address (URL) into the URL text box, and click **Next**.
+1. Select the **[!UICONTROL Images and Files]** folder, paste the web address (URL) into the URL text box, and click **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -25,7 +25,7 @@ To add images from a web page, copy the web address (URL) of the page that has t
    >
    >This feature does not work with URLs that point directly to an image. Use the URL of the web page that contains the images.
 
-1. Select the images you want to add and click **Import**.
+1. Select the images you want to add and click **[!UICONTROL Import]**.
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
@@ -33,7 +33,7 @@ To add images from a web page, copy the web address (URL) of the page that has t
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. You can see all your available images in **Images and Files**.
+1. You can see all your available images in **[!UICONTROL Images and Files]**.
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 

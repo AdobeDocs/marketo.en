@@ -13,11 +13,11 @@ feature: Snippets
 
 A Snippet needs to be approved before use.
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Click on your **Snippet**. Under **Snippet Actions**, click **Approve**.
+1. Click on your **Snippet**. Under **[!UICONTROL Snippet Actions]**, click **[!UICONTROL Approve]**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 

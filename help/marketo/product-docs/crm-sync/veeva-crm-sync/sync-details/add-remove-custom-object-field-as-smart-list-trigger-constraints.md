@@ -6,7 +6,7 @@ feature: Veeva CRM
 ---
 # Add/Remove Custom Object Field as Smart List/Trigger Constraints {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo Engage provides specific control over the Veeva custom object sync. This allows you to select the fields available as constraints in custom object filters and to use them as triggers in Smart Campaigns.
+Marketo Engage provides specific control over the [!DNL Veeva] custom object sync. This allows you to select the fields available as constraints in custom object filters and to use them as triggers in Smart Campaigns.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Marketo Engage provides specific control over the Veeva custom object sync. This
 
    >[!TIP]
    >
-   >If the Edit Visible Fields button is greyed out, the object is currently in use in a Smart List or Smart Campaign. Remove all associations to proceed.
+   >If the [!UICONTROL Edit Visible Fields] button is greyed out, the object is currently in use in a smart list or smart campaign. Remove all associations to proceed.
 
 1. If your global sync is enabled, click **[!UICONTROL Disable Global Sync]**.
 

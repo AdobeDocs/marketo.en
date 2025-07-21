@@ -57,7 +57,7 @@ It's very important to not over-communicate with your people. Setting communicat
    >
    >**Example**
    >
-   >The above settings mean that people won't receive more than **1 email per day** or more than **5 in any seven-day period**.
+   >The above settings mean that people won't receive more than **email per day** or more than **5 in any seven-day period**.
 
    >[!NOTE]
    >
@@ -65,4 +65,4 @@ It's very important to not over-communicate with your people. Setting communicat
 
 >[!MORELIKETHIS]
 >
->[Apply Communication Limits to Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[Apply Communication Limits to [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)

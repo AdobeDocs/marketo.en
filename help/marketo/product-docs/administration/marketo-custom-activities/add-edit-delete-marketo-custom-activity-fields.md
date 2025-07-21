@@ -67,7 +67,7 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
-   The Edit Field pop-up appears. In this example let's change the name of the field.
+   The **[!UICONTROL Edit Field]** pop-up appears. In this example let's change the name of the field.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
@@ -77,7 +77,7 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
 
    >[!NOTE]
    >
-   >The Api Name will not auto-populate when editing a field. While it's not required that the Field Name and Api Name match, we recommend they do.
+   >The [!UICONTROL Api Name] will not auto-populate when editing a field. While it's not required that the Field [!UICONTROL Name] and [!UICONTROL Api Name] match, we recommend they do.
 
    >[!CAUTION]
    >

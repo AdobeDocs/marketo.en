@@ -1,25 +1,25 @@
 ---
-description: Reconfigure Dynamics Authentication Method - Marketo Docs - Product Documentation
-title: Reconfigure Dynamics Authentication Method
+description: Reconfigure [!DNL Dynamics] Authentication Method - Marketo Docs - Product Documentation
+title: Reconfigure [!DNL Dynamics] Authentication Method
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
 ---
 # Reconfigure Dynamics Authentication Method {#reconfigure-dynamics-authentication-method}
 
-Follow the steps below to update your Dynamics Authentication Method.
+Follow the steps below to update your [!DNL Dynamics] Authentication Method.
 
 >[!PREREQUISITES]
 >
->Set up the application in Microsoft Dynamics and active directory (Azure AD/ADFS) using the desired authentication method from either of the following articles:
+>Set up the application in [!DNL Microsoft Dynamics] and active directory (Azure AD/ADFS) using the desired authentication method from either of the following articles:
 >
 >* [Step 2 of 3: Set up Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
 >* [Step 2 of 4: Set up the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
 
-1. In Marketo Engage, click **[!UICONTROL Admin]**.
+1. In Marketo click **[!UICONTROL Admin]**.
 
    ![](assets/reconfigure-dynamics-authentication-method-1.png)
 
-1. Click **[!DNL Microsoft Dynamics]**, then **[!UICONTROL Disable Sync]**.
+1. Click **Microsoft Dynamics**, then **[!UICONTROL Disable Sync]**.
 
    ![](assets/reconfigure-dynamics-authentication-method-2.png)
 
@@ -50,7 +50,7 @@ Follow the steps below to update your Dynamics Authentication Method.
 
    >[!NOTE]
    >
-   >If you see a ![](assets/red-x.png), that step has an issue. See [Fix Dynamics Validation Sync Issues](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md){target="_blank"} to identify and fix the problem(s). Then rerun the sync validation steps until the result looks like the image above.
+   >If you see a ![](assets/red-x.png), that step has an issue. See [Fix [!DNL Dynamics] Validation Sync Issues](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) to identify and fix the problem(s). Then rerun the sync validation steps until the result looks like the image above.
 
 1. Click **[!UICONTROL Confirm]** to proceed.
 

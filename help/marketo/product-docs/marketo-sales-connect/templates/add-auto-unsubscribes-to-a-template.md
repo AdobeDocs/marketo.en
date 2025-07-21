@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 ---
 # Add Auto-Unsubscribes to a Template {#add-auto-unsubscribes-to-a-template}
 
-1. Select your template and click **Edit** in the Unsubscribe section.
+1. Select your template and click **[!UICONTROL Edit]** in the [!UICONTROL Unsubscribe] section.
 
 1. Select whether you want to append the auto-unsubscribe, auto-block unsubscribe, or both.
 
@@ -15,4 +15,4 @@ feature: Marketo Sales Connect
 
 >[!NOTE]
 >
->You can also adjust how these unsubscribe messages appear from the **Timezone & Unsubscribes** tab in **Settings**.
+>You can also adjust how these unsubscribe messages appear from the **[!UICONTROL Timezone & Unsubscribes]** tab in **[!UICONTROL Settings]**.

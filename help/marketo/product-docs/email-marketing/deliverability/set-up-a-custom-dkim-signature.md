@@ -15,7 +15,7 @@ In order to ensure top-notch deliverability, we automatically sign all outbound 
 
 You can personalize the DKIM signature to reflect the domain(s) of your choice. Here's how.
 
-1. Go to the **Admin** section.
+1. Go to the **[!UICONTROL Admin]** section.
 
    ![](assets/set-up-a-custom-dkim-signature-1.png)
 
@@ -60,11 +60,11 @@ You can personalize the DKIM signature to reflect the domain(s) of your choice. 
    >
    >Please note that when doing so, DKIM will not be signed for your domain until your new record is published and validated by our system. Plan your change accordingly, as it can take 24 to 48 hours before the new DKIM record is fully propagated across the internet.
 
-1. Send the **Host Record** and **TXT Value** to your IT. Ask them to create the record for you and make sure it propagates to all nameservers associated with the from domain. Marketo's DKIM verification requires that the DKIM key is propagated to all nameservers associated with the domain being DKIM-signed.
+1. Send the **[!UICONTROL Host Record]** and **[!UICONTROL TXT Value]** to your IT. Ask them to create the record for you and make sure it propagates to all nameservers associated with the from domain. Marketo's DKIM verification requires that the DKIM key is propagated to all nameservers associated with the domain being DKIM-signed.
 
    ![](assets/set-up-a-custom-dkim-signature-5.png)
 
-1. Once they confirm they've created the record, come back to Marketo, select your domain, and click **Check DNS**.
+1. Once they confirm they've created the record, come back to Marketo, select your domain, and click **[!UICONTROL Check DNS]**.
 
    ![](assets/set-up-a-custom-dkim-signature-6.png)
 

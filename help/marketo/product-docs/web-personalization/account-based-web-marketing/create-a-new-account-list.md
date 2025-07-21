@@ -15,15 +15,15 @@ Create and upload a list of organization and domain names to target these key ac
 
 ## Create a New Account List {#create-a-new-account-list-1}
 
-1. Go to **Account Lists**.
+1. Go to **[!UICONTROL Account Lists]**.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Select **Create New**.
+1. Select **[!UICONTROL Create New]**.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Select **Browse** and upload your CSV file (Make sure the csv file meets the criteria). Add a **Name** and **Description**. Click **Save**.
+1. Select **[!UICONTROL Browse]** and upload your CSV file (Make sure the csv file meets the criteria). Add a **[!UICONTROL List Name]** and **[!UICONTROL Description]**. Click **[!UICONTROL Save]**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -62,7 +62,7 @@ On the **Account Lists** page, click the **Edit** icon on the list.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Select **Browse** and upload your new CSV file. This file will replace the original file. Click **Save**. The new uploaded file will be in a pending state until approved by Marketo Support, when in a pending state the original file will remain active.
+Select **[!UICONTROL Browse...]** and upload your new CSV file. This file will replace the original file. Click **[!UICONTROL Save]**. The new uploaded file will be in a pending state until approved by Marketo Support, when in a pending state the original file will remain active.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
@@ -70,11 +70,11 @@ The CSV file will replace the existing file. The existing list will remain activ
 
 ## Delete a Named Account List {#delete-a-named-account-list}
 
-1. On the **Account Lists** page, click the Delete icon of the list you wish to delete.
+1. On the **[!UICONTROL Account Lists]** page, click the Delete icon of the list you wish to delete.
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. A message appears to confirm if you want to delete the list. Click **OK**.
+1. A message appears to confirm if you want to delete the list. Click **[!UICONTROL OK]**.
 
    ![](assets/delete-notification-hand.jpg)
 

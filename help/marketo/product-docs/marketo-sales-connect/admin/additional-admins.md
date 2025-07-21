@@ -7,5 +7,5 @@ feature: Marketo Sales Connect
 ---
 # Additional Admins {#additional-admins}
 
-To change or remove a team member, head over to the Settings page and click **Team Management** in the left navigation panel.
+To change or remove a team member, head over to the [!UICONTROL Settings] page and click **[!UICONTROL Team Management]** in the left navigation panel.
 As the admin of an account, this is where you can manage who is on your team.

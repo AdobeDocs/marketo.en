@@ -9,7 +9,7 @@ feature: Mobile Marketing
 
 After you [create a Vibes SMS message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}, you'll want to use Smart List triggers and filters within a Smart Campaign to get the benefits. Here's how.
 
-1. In My Marketo, click **Marketing Activities**.
+1. In My Marketo, click **[!UICONTROL Marketing Activities]**.
 
    ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
@@ -40,17 +40,17 @@ The **SMS Message Bounces** trigger initiates a flow, such as sending an email, 
 
 ![](assets/sms-message-bounces-real.jpg)
 
-The **Subscribes to Vibes List** trigger initiates a flow when a person subscribes.
+The **[!UICONTROL Subscribes to Vibes List]** trigger initiates a flow when a person subscribes.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-The **Clicks Link in SMS Message** trigger initiates a flow when a person clicks on a link in the SMS message.
+The **[!UICONTROL Clicks Link in SMS Message]** trigger initiates a flow when a person clicks on a link in the SMS message.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## SMS Filters {#sms-filters}
 
-You can also use Vibes filters in smart lists. The **Subscribed to Vibes List** filter finds anyone who has *ever* subscribed to Vibes. This includes both unsubscribed and deleted people, even though deleted people are omitted from the flow. This filter is best suited for reporting.
+You can also use Vibes filters in smart lists. The **[!UICONTROL Subscribed to Vibes List]** filter finds anyone who has *ever* subscribed to Vibes. This includes both unsubscribed and deleted people, even though deleted people are omitted from the flow. This filter is best suited for reporting.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
@@ -60,7 +60,7 @@ By contrast, the **Member of Vibes List** filter finds _anyone_ currently subscr
 
 >[!NOTE]
 >
->All SMS filters includes the **Date of Activity** constraint by default.
+>All SMS filters includes the **[!UICONTROL Date of Activity]** constraint by default.
 
 After you set up Vibes triggers and filters in your smart list, you can [define the flow](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 

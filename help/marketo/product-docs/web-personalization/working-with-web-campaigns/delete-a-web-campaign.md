@@ -7,7 +7,7 @@ feature: Web Personalization
 ---
 # Delete a Web Campaign {#delete-a-web-campaign}
 
-1. Go to **Web Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-3.jpg)
 
@@ -15,7 +15,7 @@ feature: Web Personalization
    >
    >To make it easier to find the web campaign you want, use the [filter feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. On the Web Campaigns page, click **Delete** on the campaign you want to delete.
+1. On the [!UICONTROL Web Campaigns] page, click **[!UICONTROL Delete]** on the campaign you want to delete.
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 

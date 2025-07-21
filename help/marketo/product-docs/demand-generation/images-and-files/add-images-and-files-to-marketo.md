@@ -9,7 +9,7 @@ feature: Image Editor
 
 Learn how to add new images or files to your Marketo Engage instance.
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 

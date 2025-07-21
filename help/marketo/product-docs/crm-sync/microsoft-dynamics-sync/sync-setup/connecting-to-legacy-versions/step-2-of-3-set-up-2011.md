@@ -1,11 +1,11 @@
 ---
 unique-page-id: 3571807
-description: Step 2 of 3 -Set up Marketo Sync User in Dynamics (2011 On-Premises) - Marketo Docs - Product Documentation
-title: Step 2 of 3 -Set up Marketo Sync User in Dynamics (2011 On-Premises)
+description: Step 2 of 3 -Set up Marketo Sync User in [!DNL Dynamics] (2011 On-Premises) - Marketo Docs - Product Documentation
+title: Step 2 of 3 -Set up Marketo Sync User in [!DNL Dynamics] (2011 On-Premises)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
 ---
-# Step 2 of 3: Set up Marketo Sync User in Dynamics (2011 On-Premises) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
+# Step 2 of 3: Set up Marketo Sync User in [!DNL Dynamics] (2011 On-Premises) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
 
 Great job completing the previous steps, let's keep moving through this.
 
@@ -19,7 +19,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
 >[!NOTE]
 >
->This applies to Marketo plugin version 4.0.0.14 and later. For earlier versions, all users must have the sync user role. To upgrade Marketo, see [Upgrade the Marketo Solution for Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
+>This applies to Marketo plugin version 4.0.0.14 and later. For earlier versions, all users must have the sync user role. To upgrade Marketo, see [Upgrade the Marketo Solution for [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
@@ -37,7 +37,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
    ![](assets/image2015-4-2-14-3a4-3a37.png)
 
-1. You will see a list of users here. Select your dedicated Marketo sync user or contact your [Active Directory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} administrator to create a new user that's dedicated to Marketo. Click **[!UICONTROL Manage Roles]**.
+1. You will see a list of users here. Select your dedicated Marketo sync user or contact your [Active Directory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) administrator to create a new user that's dedicated to Marketo. Click **[!UICONTROL Manage Roles]**.
 
    ![](assets/image2015-4-2-14-3a11-3a7.png)
 
@@ -63,7 +63,7 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 
    >[!NOTE]
    >
-   >If Marketo Config is missing, try refreshing the page. If the issue persists, [publish the Marketo solution again](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"} or log out and back in.
+   >If [!UICONTROL Marketo Config] is missing, try refreshing the page. If the issue persists, [publish the Marketo solution again](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) or log out and back in.
 
 1. Click **[!UICONTROL Default]**.
 
@@ -87,12 +87,12 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 
 ## Before Proceeding to Step 3 {#before-proceeding-to-step}
 
-* If you want to restrict the number of records you sync, [set up a custom sync filter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"} now.
-* Run the [Validate Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"} process. It verifies that your initial setups were done correctly.
-* Log in to the Marketo Sync User in Microsoft Dynamics CRM.
+    * If you want to restrict the number of records you sync, [set up a custom sync filter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) now.
+    * Run the [Validate [!DNL Microsoft Dynamics] Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) process. It verifies that your initial setups were done correctly.
+    * Log into the Marketo Sync User in [!DNL Microsoft Dynamics] CRM.
 
    Great job!
 
 >[!MORELIKETHIS]
 >
->[Step 3 of 3: Connect Microsoft Dynamics with Marketo (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md){target="_blank"}
+>[Step 3 of 3: Connect [!DNL Microsoft Dynamics] with Marketo (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)

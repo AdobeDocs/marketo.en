@@ -5,11 +5,11 @@ title: Filtering in Email Insights
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
 ---
-# Filtering in Email Insights {#filtering-in-email-insights}
+# Filtering in [!UICONTROL Email Insights] {#filtering-in-email-insights}
 
-In Email Insights, there are different ways to filter your data.
+In [!UICONTROL Email Insights], there are different ways to filter your data.
 
-## Email Insights {#email-insights}
+## [!UICONTROL Email Insights] {#email-insights}
 
 Click the + to start adding filters. Add as many as you'd like.
 
@@ -53,10 +53,10 @@ Choose from common preset date ranges, select specific dates, even use the previ
 
 >[!NOTE]
 >
->Date ranges apply to both the Analytics page and Sends page. The **Compare** option is only applicable to the Analytics page, however.
+>Date ranges apply to both the [!UICONTROL Analytics] page and [!UICONTROL Sends] page. The **Compare** option is only applicable to the [!UICONTROL Analytics] page, however.
 
 ## Account Based Marketing {#account-based-marketing}
 
-If you use [Target Account Management](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), there are filters specifically for you.
+If you use [[!UICONTROL Target Account Management]](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), there are filters specifically for you.
 
 ![](assets/abm.png)

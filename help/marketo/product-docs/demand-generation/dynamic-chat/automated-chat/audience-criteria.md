@@ -22,11 +22,11 @@ Events allow you to target visitors based on how much they scroll or how long th
 
    ![](assets/audience-criteria-3.png)
 
-1. Set the "Greater Than" time to 20 seconds.
+1. Set the "[!UICONTROL Greater Than]" time to 20 seconds.
 
    ![](assets/audience-criteria-4.png)
 
-1. Add the URL of the desired page in the [Target](#target) section.
+1. Add the URL of the desired page in the [[!UICONTROL Target]](#target) section.
 
    ![](assets/audience-criteria-5.png)
 
@@ -40,7 +40,7 @@ There are _many_ attribute combinations to choose from. In the example below, we
 
    ![](assets/audience-criteria-7.png)
 
-1. _Is_ is set by default. In the Select Values field, type in CA (you can also click the drop-down and select from the list).
+1. _[!UICONTROL Is]_ is set by default. In the Select Values field, type in CA (you can also click the drop-down and select from the list).
 
    ![](assets/audience-criteria-8.png)
 
@@ -82,7 +82,7 @@ There's an easy way to specifically target people who are not in your database y
    >
    >When someone visits your website, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} cookies them and puts them into the system. We look up their IP in a special database and infer all kinds of good info.
 
-1. _Is_ is set by default. In the Select Values field, type in NY (you can also click the drop-down and select from the list).
+1. _[!UICONTROL Is]_ is set by default. In the Select Values field, type in NY (you can also click the drop-down and select from the list).
 
    ![](assets/audience-criteria-15.png)
 

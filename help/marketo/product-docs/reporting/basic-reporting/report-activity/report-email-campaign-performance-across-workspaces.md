@@ -9,7 +9,7 @@ feature: Reporting
 
 Turn on Global Reporting to include data from all your Marketo [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in your [Email Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) and [Email Link performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) reports.
 
-1. Go to **Analytics** (or **Marketing Activities**) area.
+1. Go to **[!UICONTROL Analytics]** (or **[!UICONTROL Marketing Activities]**) area.
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -17,15 +17,15 @@ Turn on Global Reporting to include data from all your Marketo [workspaces](/hel
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Click the **Setup** tab and double-click **Global Reporting**.
+1. Click the **[!UICONTROL Setup]** tab and double-click **[!UICONTROL Global Reporting]**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
-1. Select **Enabled**.
+1. Select **[!UICONTROL Enabled]**.
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. That's all! Click the **Report** tab to see data from all your workspaces.
+1. That's all! Click the **[!UICONTROL Report]** tab to see data from all your workspaces.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 

@@ -107,7 +107,7 @@ The new person is registered as checked in to your event, and will be added to t
 
 ## Reverse a Check-In {#reverse-a-check-in}
 
-If you checked in a person by mistake, _before you synced with Marketo_, you can reverse the Attended status.
+If you checked in a person by mistake, _before you synced with Marketo_, you can reverse the [!UICONTROL Attended] status.
 
 1. Tap the name in the list, and in the person record, tap **[!UICONTROL Undo]**.
 

@@ -7,7 +7,7 @@ feature: Salesforce Integration
 ---
 # Turn Off Email Notifications to Lead Owner {#turn-off-email-notifications-to-lead-owner}
 
-You can disable the automatic email notifications that are sent to Lead Owners in Salesforce upon Lead Assignment. Here's how.
+You can disable the automatic email notifications that are sent to Lead Owners in [!DNL Salesforce] upon Lead Assignment. Here's how.
 
 1. Go to **[!UICONTROL Admin]**.
 

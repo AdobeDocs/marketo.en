@@ -7,7 +7,7 @@ feature: Salesforce Integration
 ---
 # SFDC Sync: Activity Sync {#sfdc-sync-activity-sync}
 
-Marketo Engage also syncs over the Salesforce activities data. Here are some questions and answers.
+Marketo also syncs over the [!DNL Salesforce] activities data. Here are some questions and answers.
 
 ## What types of activity data does Marketo sync over? {#what-types-of-activity-data-does-marketo-sync-over}
 
@@ -15,7 +15,7 @@ Marketo syncs over both Events and Tasks associated with a lead or contact.
 
 ## How are activity details kept in sync between the two systems? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-The sync is one way, from Salesforce to Marketo. But you can create a task in Salesforce using the [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flow step or [Customize Activities Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"} to Salesforce.
+The sync is one way, from [!DNL Salesforce] to Marketo. But you can create a task in [!DNL Salesforce] using the [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flow step or [Customize Activities Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) to [!DNL Salesforce].
 
 ## Can I create a task using Marketo? {#can-i-create-a-task-using-marketo}
 

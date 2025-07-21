@@ -1,30 +1,30 @@
 ---
-description: Step 1 of 3 - Add Marketo Fields to Veeva CRM - Marketo Docs - Product Documentation
-title: Step 1 of 3 - Add Marketo Fields to Veeva CRM
+description: "Step 1 of 3 - Add Marketo Fields to [!DNL Veeva] CRM - Marketo Docs - Product Documentation"
+title: "Step 1 of 3 - Add Marketo Fields to [!DNL Veeva] CRM"
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
 ---
-# Step 1 of 3: Add Marketo Fields to Veeva CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
+# Step 1 of 3: Add Marketo Fields to [!DNL Veeva] CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
 >[!PREREQUISITES]
 >
->Your Veeva CRM instance must have access to Salesforce APIs to sync data between Marketo Engage and Veeva CRM.
+>Your [!DNL Veeva] CRM instance must have access to Salesforce APIs to sync data between Marketo Engage and [!DNL Veeva] CRM.
 
-Marketo Engage uses a set of fields to capture certain kinds of marketing related information. If you would like this data in Veeva CRM, please follow the instructions below.
+Marketo Engage uses a set of fields to capture certain kinds of marketing related information. If you would like this data in [!DNL Veeva] CRM, please follow the instructions below.
 
-`1.` Create a custom field in Veeva CRM on the contact objects: Score
+`1.` Create a custom field in [!DNL Veeva] CRM on the contact objects: Score
 
 `2.` You can create additional fields, if desired (see the table below).
 
-All of these custom fields are optional and are not required to sync Marketo Engage and Veeva CRM.
+All of these custom fields are optional and are not required to sync Marketo Engage and [!DNL Veeva] CRM.
 
-## Add Marketo Fields to Veeva CRM {#add-marketo-fields-to-veeva-crm}
+## Add Marketo Fields to [!DNL Veeva] CRM {#add-marketo-fields-to-veeva-crm}
 
-Add a custom field on the lead and contact objects in Veeva CRM listed above. If you want to add more, see the table of available fields at the end of this section.
+Add a custom field on the lead and contact objects in [!DNL Veeva] CRM listed above. If you want to add more, see the table of available fields at the end of this section.
 
 Perform the following steps for the Score field to add it.
 
-1. Log in to the Veeva CRM and click **[!UICONTROL Setup]**.
+1. Log in to the [!DNL Veeva] CRM and click **[!UICONTROL Setup]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
@@ -74,7 +74,7 @@ Decimal Places 0</td>
 
 >[!NOTE]
 >
->Veeva CRM appends __c to Field Names when it uses them to create API Names.
+>[!DNL Veeva] CRM appends __c to Field Names when it uses them to create API Names.
 
    ![](assets/step-1-of-3-add-marketo-fields-7.png)
 
@@ -88,12 +88,12 @@ Decimal Places 0</td>
 
 1. Specify the access settings and click **[!UICONTROL Next]**.
 
-1. Set all roles to Visible and Read-Only.
+1. Set all roles to **[!UICONTROL Visible]** and **[!UICONTROL Read-Only]**.
 
-1. Clear the Read-Only checkbox for the profile of your sync user:
+1. Clear the **[!UICONTROL Read-Only]** checkbox for the profile of your sync user:
 
-* If you have a user with the profile of a System Administrator as the sync user, clear the Read-Only checkbox for the System Administrator profile (as shown below).
-* If you created a custom profile for the sync user, clear the Read-Only checkbox for that custom profile.
+* If you have a user with the profile of a System Administrator as the sync user, clear the [!UICONTROL Read-Only] checkbox for the System Administrator profile (as shown below).
+* If you created a custom profile for the sync user, clear the [!UICONTROL Read-Only] checkbox for that custom profile.
 
    ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
@@ -166,4 +166,4 @@ OPTIONAL: Use the above procedure for any additional custom fields from the tabl
 
 >[!NOTE]
 >
->Values in the fields automatically assigned by Marketo will not immediately be available in Veeva CRM when the new field has been created. Marketo will sync the data to Veeva CRM upon the next update to the record on either system (i.e., an update to any of the fields in sync between Marketo and Veeva CRM).
+>Values in the fields automatically assigned by Marketo will not immediately be available in [!DNL Veeva] CRM when the new field has been created. Marketo will sync the data to [!DNL Veeva] CRM upon the next update to the record on either system (i.e., an update to any of the fields in sync between Marketo and [!DNL Veeva] CRM).

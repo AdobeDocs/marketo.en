@@ -41,7 +41,7 @@ Click the text area to work on your text style and content.
    >
    >The text font that's rendered in the ad is the standard one for each platform: Helvetica for Apple and Roboto for Android
 
-1. Check the box to select Text tap action.
+1. Check the box to select **[!UICONTROL Text Tap action]**.
 
    ![](assets/image2016-5-6-10-3a20-3a41.png)
 
@@ -51,7 +51,7 @@ Click the text area to work on your text style and content.
 
    >[!NOTE]
    >
-   >For tap actions, you can set up different actions for Apple and Android platforms. For example, deep links are handled differently for Apple and Android. If your message is going only to one platform or the other, you can leave the other one in the default setting or select None.
+   >For tap actions, you can set up different actions for Apple and Android platforms. For example, deep links are handled differently for Apple and Android. If your message is going only to one platform or the other, you can leave the other one in the default setting or select [!UICONTROL None].
 
 1. Click the Supporting Text to edit it inline. It works the same way as editing the Main text, but the default text size is smaller.
 
@@ -61,13 +61,13 @@ Click the text area to work on your text style and content.
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. Select a My Token from the drop-down, add a default value, and click **Insert**.
+1. Select a My Token from the drop-down, add a default value, and click **[!UICONTROL Insert]**.
 
    ![](assets/mytoken.png)
 
    >[!NOTE]
    >
-   >Only My Tokens are available as options. If no My Tokens have been set up in the program, the Token drop-down will be empty.
+   >Only My Tokens are available as options. If no My Tokens have been set up in the program, the [!UICONTROL Token] drop-down will be empty.
 
    >[!TIP]
    >

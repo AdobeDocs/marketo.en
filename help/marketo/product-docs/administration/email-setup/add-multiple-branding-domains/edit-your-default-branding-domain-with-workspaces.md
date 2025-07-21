@@ -15,7 +15,7 @@ feature: Email Setup
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. In the Branding Domains table, select the current generic domain and click Edit to change it to your company's branded domain.
+1. In the [!UICONTROL Branding Domains] table, select the current generic domain and click **[!UICONTROL Edit]** to change it to your company's branded domain.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 

@@ -16,7 +16,9 @@ Text email links can be tracked in Marketo. Let's see how it works.
 
 1. Select your email and click **Edit Draft**.
 
-![](assets/one-9.png)
+1. Select your email and click **[!UICONTROL Edit Draft]**.
+
+   ![](assets/one-9.png)
 
 1. Double-click the editable area you want to add the link to.
 

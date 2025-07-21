@@ -33,7 +33,7 @@ Custom Objects created in your Salesforce instance can be part of Marketo Engage
 
    >[!NOTE]
    >
-   >A sync of the Salesforce custom object schema may take a few minutes.
+   >A sync of the [!DNL Salesforce] custom object schema may take a few minutes.
 
 1. Click **[!UICONTROL Refresh Schema]**.
 
@@ -43,7 +43,7 @@ Custom Objects created in your Salesforce instance can be part of Marketo Engage
 
    >[!TIP]
    >
-   >Marketo can only sync a custom object if it has a direct relationship with the Lead, Contact or Account object in Salesforce.
+   >Marketo can only sync a custom object if it has a direct relationship with the Lead, Contact or Account object in [!DNL Salesforce].
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 

@@ -11,7 +11,7 @@ You can import a list of people who automatically become members of a program. H
 
 ## Prepare Your CSV file {#prepare-your-csv-file}
 
-1. Create a standard CSV file in Excel, like the example below.
+1. Create a standard CSV file in [!DNL Excel], like the example below.
 
    ![](assets/image2014-9-18-14-3a33-3a4.png)
 

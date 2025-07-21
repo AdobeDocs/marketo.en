@@ -27,10 +27,10 @@ Marketo Engage has a System Smart List that finds duplicate people by matching t
 
 1. Choose one of four available options:
 
-    * Email Address
-    * Full Name
-    * Last Name
-    * Updated At
+    * [!UICONTROL Email Address]
+    * [!UICONTROL Full Name]
+    * [!UICONTROL Last Name]
+    * [!UICONTROL Updated At]
 
     >[!NOTE]
     >

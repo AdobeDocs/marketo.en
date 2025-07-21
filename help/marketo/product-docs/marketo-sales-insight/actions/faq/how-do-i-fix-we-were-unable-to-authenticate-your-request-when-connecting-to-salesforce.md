@@ -4,7 +4,7 @@ title: How Do I Fix "We Were Unable to Authenticate Your Request" When Connectin
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
 ---
-# How Do I Fix "We Were Unable to Authenticate Your Request" When Connecting to Salesforce {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
+# How Do I Fix "We Were Unable to Authenticate Your Request" When Connecting to [!DNL Salesforce] {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
 If you're trying to connect your Marketo Sales instance to Salesforce and you're seeing the "We are unable to authenticate your request" error, it's likely related to how your Salesforce instance is configured.
 

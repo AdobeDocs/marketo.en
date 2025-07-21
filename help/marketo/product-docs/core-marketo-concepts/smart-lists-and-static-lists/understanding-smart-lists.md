@@ -34,7 +34,7 @@ This is where you see your results; i.e., all the people who qualify for the fil
 
 ## Smart List Tab {#smart-list-tab}
 
-You add and define the filters to see a specific group of people in the People tab.
+You add and define the filters to see a specific group of people in the [!UICONTROL People] tab.
 
 ![](assets/understanding-smart-lists-3.png)
 

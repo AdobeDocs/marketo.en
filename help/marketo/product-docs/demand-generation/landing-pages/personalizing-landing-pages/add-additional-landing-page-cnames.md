@@ -51,19 +51,19 @@ You may want to add landing page CNAMEs to allow different URLs to point to your
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. Click **New** then select **New Domain Alias**.
+1. Click **[!UICONTROL New]** then select **[!UICONTROL New Domain Alias]**.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Enter your **Domain Alias.** The **Default Page** is displayed if the visitor does not put in a URL. Enter where they should go in that case.
+1. Enter your **[!UICONTROL Domain Alias].** The **[!UICONTROL Default Page]** is displayed if the visitor does not put in a URL. Enter where they should go in that case.
 
    >[!NOTE]
    >
-   >For the Default Page, you can select a landing page or an external URL, such as your public website.
+   >For the [!UICONTROL Default Page], you can select a landing page or an external URL, such as your public website.
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. Enter your **Default Page** and click **Create**.
+1. Enter your **[!UICONTROL Default Page]** and click **[!UICONTROL Create]**.
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

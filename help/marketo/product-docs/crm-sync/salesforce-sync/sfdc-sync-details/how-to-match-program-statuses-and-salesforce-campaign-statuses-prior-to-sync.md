@@ -5,13 +5,13 @@ title: How to Match Program Statuses and Salesforce Campaign Statuses Prior to S
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
 ---
-# How to Match Program Statuses and Salesforce Campaign Statuses Prior to Sync {#how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync}
+# How to Match Program Statuses and [!DNL Salesforce] Campaign Statuses Prior to Sync {#how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync}
 
-This article describes how to fix an incompatible status error and map statuses prior to Marketo Program and Salesforce Campaign sync.
+This article describes how to fix an incompatible status error and map statuses prior to Marketo Program and [!DNL Salesforce] Campaign sync.
 
 ## What Do You Do if You Received an Error Message {#what-do-you-do-if-you-received-an-error-message}
 
-If you try to sync to an existing Salesforce Campaign that contains leads and the campaign contains one or more incompatible statuses, an error message displays. A Marketo Program and a Salesforce Campaign *will not* sync if the statuses are not an exact match.
+If you try to sync to an existing [!DNL Salesforce] Campaign that contains leads and the campaign contains one or more incompatible statuses, an error message displays. A Marketo Program and a [!DNL Salesforce] Campaign *will not* sync if the statuses are not an exact match.
 
 ![](assets/image2015-7-22-9-3a23-3a29.png)
 

@@ -49,7 +49,7 @@ Your [!DNL Zoom] account is now synced with Marketo and can be found in the [!UI
 
 >[!CAUTION]
 >
->When you update your password in Zoom, you must update your password in Marketo as well.
+>When you update your password in [!DNL Zoom], you must update your password in Marketo as well.
 
 >[!MORELIKETHIS]
 >

@@ -7,7 +7,7 @@ feature: Salesforce Integration
 ---
 # SFDC Sync: Custom Object Sync {#sfdc-sync-custom-object-sync}
 
-Custom Objects created in your Salesforce instance can be part of Marketo Engage, too. Here's how to set it up.
+Custom Objects created in your [!DNL Salesforce] instance can be part of Marketo too.  Here's how to set it up.
 
 >[!NOTE]
 >
@@ -15,7 +15,7 @@ Custom Objects created in your Salesforce instance can be part of Marketo Engage
 
 >[!PREREQUISITES]
 >
->To use a custom object, it must be associated to a [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}, or [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} object in Salesforce.
+>To use a custom object, it must be associated to a [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md), or [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) object in [!DNL Salesforce].
 
 >[!IMPORTANT]
 >
@@ -37,7 +37,7 @@ Custom Objects created in your Salesforce instance can be part of Marketo Engage
 
    >[!NOTE]
    >
-   >An initial sync of the Salesforce custom object schema may take a few minutes.
+   >An initial sync of the [!DNL Salesforce] custom object schema may take a few minutes.
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -61,7 +61,7 @@ Custom Objects created in your Salesforce instance can be part of Marketo Engage
    >
    >Don't forget to re-enable your global sync!
 
-1. Go back to the **Salesforce** tab.
+1. Go back to the **[!UICONTROL Salesforce]** tab.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
@@ -69,7 +69,7 @@ Custom Objects created in your Salesforce instance can be part of Marketo Engage
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. To view all of your Salesforce custom objects, click **[!UICONTROL Admin]** and the **[!UICONTROL Salesforce Objects Sync]** link (same as step 1 above).
+1. To view all of your [!DNL Salesforce] custom objects, click **[!UICONTROL Admin]** and the **[!UICONTROL Salesforce Objects Sync]** link (same as step 1 above).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 

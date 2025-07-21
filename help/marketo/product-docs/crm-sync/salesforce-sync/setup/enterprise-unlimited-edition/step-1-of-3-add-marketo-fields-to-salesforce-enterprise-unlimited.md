@@ -5,31 +5,31 @@ title: Step 1 of 3 -Add Marketo Fields to Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
 ---
-# Step 1 of 3: Add Marketo Fields to Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# Step 1 of 3: Add Marketo Fields to [!DNL Salesforce] (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >
->You must have access to Salesforce APIs to sync between Marketo Engage and Salesforce.
+>You must have access to [!DNL Salesforce] API's to sync between Marketo and [!DNL Salesforce].
 
-Marketo uses a set of fields to capture certain kinds of marketing related information. If you would like this data in Salesforce, please follow the instructions below.
+Marketo uses a set of fields to capture certain kinds of marketing related information. If you would like this data in [!DNL Salesforce], please follow the instructions below.
 
-1. Create three custom fields in Salesforce on the lead and contact objects: Score, Acquisition Program, and Acquisition Date. 
-1. Map these custom fields between leads and contacts so that on conversion in Salesforce, the values carry over.
+1. Create three custom fields in [!DNL Salesforce] on the lead and contact objects: Score, Acquisition Program, and Acquisition Date. 
+1. Map these custom fields between leads and contacts so that on conversion in [!DNL Salesforce], the values carry over.
 1. You can create other additional fields, if necessary (see the table below).
 
-All of these custom fields are optional and are not required to sync Marketo and Salesforce. As a best practice, we recommend that you do create fields for Score, Acquisition Program, and Acquisition Date.
+All of these custom fields are optional and are not required to sync Marketo and [!DNL Salesforce]. As a best practice, we recommend that you do create fields for Score, Acquisition Program, and Acquisition Date.
 
-## Add Marketo Fields to Salesforce {#add-marketo-fields-to-salesforce}
+## Add Marketo Fields to [!DNL Salesforce] {#add-marketo-fields-to-salesforce}
 
-Add three custom fields on the lead and contact objects in Salesforce listed above. If you want to add more, see the table of available fields at the end of this section.
+Add three custom fields on the lead and contact objects in [!DNL Salesforce] listed above. If you want to add more, see the table of available fields at the end of this section.
 
 Perform the following steps for each of the three custom fields to add them. Start with Score.
 
-1. Log in to Salesforce and click **[!UICONTROL Setup]**.
+1. Log in to [!DNL Salesforce] and click **[!UICONTROL Setup]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. In the [!UICONTROL Build] menu on the left, click **[!UICONTROL Customize]** and select **[!UICONTROL Leads]**. Click **[!UICONTROL Fields]**.
+1. In the Build menu on the left, click **[!UICONTROL Customize]** and select **[!UICONTROL Leads]**. Click **[!UICONTROL Fields]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
@@ -92,7 +92,7 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
 >[!NOTE]
 >
->Salesforce appends __c to Field Names when it uses them to create API Names.
+>[!DNL Salesforce] appends __c to Field Names when it uses them to create API Names.
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
@@ -123,7 +123,7 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. In the Build menu on the left, click **[!UICONTROL Customize]** and select Contacts. Click Fields.
+1. In the Build menu on the left, click **[!UICONTROL Customize]** and select Contacts. Click [!UICONTROL Fields].
 1. Perform steps 3 through 10 for the Score, Acquisition Date, and Acquisition Program fields on the contact object, just as you did for the lead object.
 1. Optionally, use the above procedure for any additional custom fields from this table.
 
@@ -232,21 +232,21 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
 >[!NOTE]
 >
->Values in the fields automatically assigned by Marketo will not immediately be available in Salesforce when the new field has been created. Marketo will sync the data to Salesforce upon the next update to the record on either system (i.e., an update to any of the fields in sync between Marketo and Salesforce).
+>Values in the fields automatically assigned by Marketo will not immediately be available in [!DNL Salesforce] when the new field has been created. Marketo will sync the data to [!DNL Salesforce] upon the next update to the record on either system (i.e., an update to any of the fields in sync between Marketo and [!DNL Salesforce]).
 
 ## Map Custom Fields for Conversions {#map-custom-fields-for-conversions}
 
-A custom field on the lead object in Salesforce should be mapped to a contact field on the contact object so that data is carried over when a conversion occurs.  
+A custom field on the lead object in [!DNL Salesforce] should be mapped to a contact field on the contact object so that data is carried over when a conversion occurs.  
 
 1. In the top right corner, click **[!UICONTROL Setup]**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Type "Fields" into the Nav Search without pressing Enter. Fields appears under different objects; Click **[!UICONTROL Fields]** under Leads.
+1. Type "Fields" into the Nav Search without pressing Enter. Fields appears under different objects; Click **[!UICONTROL Fields]** under [!UICONTROL Leads].
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Go to the Lead Custom Fields & Relationships section and click **[!UICONTROL Map Lead Fields]**.
+1. Go to the [!UICONTROL Lead Custom Fields & Relationships] section and click **[!UICONTROL Map Lead Fields]**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -260,8 +260,10 @@ A custom field on the lead object in Salesforce should be mapped to a contact fi
 
 1. Repeat the above steps for any other fields you've created.
 
-1. Click **[!UICONTROL Save]** when done.
+1. Click **[!UICONTROL Save]** when you're done.
+
+   Easy enough, right?
 
 >[!MORELIKETHIS]
 >
->[Step 2 of 3: Create a Salesforce User for Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
+>[Step 2 of 3: Create a [!DNL Salesforce] User for Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)

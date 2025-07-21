@@ -7,9 +7,9 @@ feature: Marketo Sales Connect
 ---
 # Dynamic Fields Glossary {#dynamic-fields-glossary}
 
-When creating a template in Sales Connect, we always recommend integrating dynamic fields, using the **MSE Dynamic Fields** button.
+When creating a template in [!DNL Sales Connect], we always recommend integrating dynamic fields, using the **[!UICONTROL MSE Dynamic Fields]** button.
 
-This tool is used to `auto-personalize your email` and save you tons of time by `pulling information from the People page`.
+This tool is used to `auto-personalize your email` and save you tons of time by `pulling information from the [!UICONTROL People] page`.
 
 | Dynamic Field | Example of what appears in your email |
 |---|---|

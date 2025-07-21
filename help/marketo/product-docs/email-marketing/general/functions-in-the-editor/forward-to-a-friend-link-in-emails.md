@@ -13,11 +13,11 @@ For example, say Keith uses the 'Forward to Friend' link to forward the email to
 
 ## Add the Link to an Email Template {#add-the-link-to-an-email-template}
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/one-8.png)
 
-1. Find and select the email template you want to add the link to. Click **Edit Draft**.
+1. Find and select the email template you want to add the link to. Click **[!UICONTROL Edit Draft]**.
 
    ![](assets/two-7.png)
 
@@ -38,7 +38,7 @@ For example, say Keith uses the 'Forward to Friend' link to forward the email to
    >
    >We do not recommend using the styling **position:relative** in your email template. It may create issues with the position and display of the 'Forward to Friend' box.
 
-1. Click **Preview Draft** to make sure the template looks the way you want it to.
+1. Click **[!UICONTROL Preview Draft]** to make sure the template looks the way you want it to.
 
    ![](assets/four-5.png)
 
@@ -78,7 +78,7 @@ You can also add the 'Forward to Friend' link directly into an email.
 
    ![](assets/eight-1.png)
 
-1. Paste the **`{{system.forwardToFriendLink}}`** token into the **URL** box using Ctrl/Cmd+V, then click **Insert**.
+1. Paste the **`{{system.forwardToFriendLink}}`** token into the **URL** box using Ctrl/Cmd+V, then click **[!UICONTROL Insert]**.
 
    ![](assets/nine.png)
 
@@ -94,7 +94,7 @@ You can also add the 'Forward to Friend' link directly into an email.
 
 You can see who forwarded and received the emails in the person's Activity Log.
 
-1. Go to the **`Database`**.
+1. Go to the **[!UICONTROL Database]**.
 
    ![](assets/db.png)
 
@@ -102,7 +102,7 @@ You can see who forwarded and received the emails in the person's Activity Log.
 
    ![](assets/fourteen.png)
 
-1. Go to the **Activity Log** tab. Double-click **Received Forward to Friend Email** or **Sent Forward to Friend Email** to see details.
+1. Go to the **[!UICONTROL Activity Log]** tab. Double-click **[!UICONTROL Received Forward to Friend Email]** or **[!UICONTROL Sent Forward to Friend Email]** to see details.
 
    ![](assets/fifteen.png)
 
@@ -122,7 +122,7 @@ You can see who forwarded and received the emails in the person's Activity Log.
 
    >[!NOTE]
    >
-   >We will make the **Person ID** clickable and link directly to the person in an upcoming patch.
+   >We will make the **[!UICONTROL Person ID]** clickable and link directly to the person in an upcoming patch.
 
    ![](assets/seventeen.png)
 

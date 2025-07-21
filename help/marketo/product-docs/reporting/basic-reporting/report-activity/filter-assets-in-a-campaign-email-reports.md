@@ -21,12 +21,12 @@ Focus your [Campaign Email Performance](/help/marketo/product-docs/reporting/bas
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. Click the **Setup** tab and drag over a filter.
+1. Click the **[!UICONTROL Setup]** tab and drag over a filter.
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
-    * **Campaigns**: Active smart campaigns in your Marketo account.
-    * **Archived Campaigns**: Inactive, retired smart campaigns.
+    * **[!UICONTROL Campaigns]**: Active smart campaigns in your Marketo account.
+    * **[!UICONTROL Archived Campaigns]**: Inactive, retired smart campaigns.
 
 1. Choose the folders and specific smart campaigns to include in your report.
 
@@ -36,7 +36,7 @@ Focus your [Campaign Email Performance](/help/marketo/product-docs/reporting/bas
    >
    >If you select a folder, your report will include everything that folder contains at the time the report runs.
 
-1. You're done! Click the **Report** tab to see your filtered report.
+1. You're done! Click the **[!UICONTROL Report]** tab to see your filtered report.
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 

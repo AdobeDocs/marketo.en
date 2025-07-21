@@ -4,7 +4,7 @@ title: Salesforce Sync Errors
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
 ---
-# Salesforce Sync Errors {#salesforce-sync-errors}
+# [!DNL Salesforce] Sync Errors {#salesforce-sync-errors}
 
 View a summary of the errors faced during the sync process. This includes errors caused by failures to sync incompatible data.
 
@@ -34,7 +34,7 @@ View a summary of the errors faced during the sync process. This includes errors
 
 >[!TIP]
 >
->Clicking on the record level record shows the Marketo and Salesforce IDs of the related object. In some cases, the message on the record and job level errors are directly from Salesforce. Searching for them online may provide additional details.
+>Clicking on the record level record shows the Marketo and [!DNL Salesforce] IDs of the related object. In some cases, the message on the record and job level errors are directly from [!DNL Salesforce]. Searching for them online may provide additional details.
 
 ## Filter Sync Errors {#filter-sync-errors}
 

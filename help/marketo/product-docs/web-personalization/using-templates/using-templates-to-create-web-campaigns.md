@@ -13,11 +13,11 @@ Speed up and simplify your web campaign creation process by using our built in t
 >
 >Templates are optimized for all devices and browsing experiences for both desktop and mobile.
 
-1. Go to **Web Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Click **Create New Web Campaign**.
+1. Click **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -25,11 +25,11 @@ Speed up and simplify your web campaign creation process by using our built in t
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-1. Select a Target Segment.
+1. Select a [!UICONTROL Target Segment].
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Click **Templates**.
+1. Click **[!UICONTROL Templates]**.
 
    ![](assets/templates.png)
 
@@ -49,7 +49,7 @@ Speed up and simplify your web campaign creation process by using our built in t
 
    ![](assets/customize-template.jpg)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/click-save-hand.jpg)
 

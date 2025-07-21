@@ -11,7 +11,7 @@ Here's how to send/edit emails using the Group Email option.
 
 ## Sending a Group Email {#sending-a-group-email}
 
-1. Click the **People** tab.
+1. Click the **[!UICONTROL People]** tab.
 
    ![](assets/one-3.png)
 
@@ -19,7 +19,7 @@ Here's how to send/edit emails using the Group Email option.
 
    ![](assets/two-3.png)
 
-1. Click the Group Actions button and select **Email Group**.
+1. Click the [!UICONTROL Group Actions] button and select **[!UICONTROL Email Group]**.
 
    ![](assets/three-3.png)
 
@@ -43,7 +43,7 @@ Here's how to send/edit emails using the Group Email option.
 
    ![](assets/edit-four.png)
 
-1. Click **Preview Dynamic Fields**, and view the preview on the right.
+1. Click **[!UICONTROL Preview Dynamic Fields]**, and view the preview on the right.
 
    ![](assets/edit-five.png)
 

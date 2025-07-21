@@ -4,7 +4,7 @@ title: Dynamic Chat Overview
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 ---
-# Dynamic Chat Overview {#dynamic-chat-overview}
+# [!DNL Dynamic Chat] Overview {#dynamic-chat-overview}
 
 Dynamic Chat allows you to leverage an easy-to-use interface to target both people and accounts visiting your website. Collect relevant content such as name, contact information, and free text. Site visitors can also chat with a live agent and even book meetings with your Sales Team. Dynamic Chat activity and engagement data can be used to add members to Marketo programs and trigger cross-channel activities.
 
@@ -60,9 +60,9 @@ Follow the steps below to change your Dynamic Chat language.
 
 >[!IMPORTANT]
 >
->Changing your language at the profile level will change the language for _all_ Experience Cloud applications, not just Dynamic Chat.
+>Changing your language at the profile level will change the language for _all_ Experience Cloud applications, not just [!DNL Dynamic Chat].
 
-1. In your Experience Cloud account, click the settings icon and choose **Preferences**.
+1. In your Experience Cloud account, click the settings icon and choose **[!UICONTROL Preferences]**.
 
    ![](assets/dynamic-chat-overview-1.png)
 
@@ -70,13 +70,13 @@ Follow the steps below to change your Dynamic Chat language.
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. Choose your new language (second language is optional) and click **Save**.
+1. Choose your new language (second language is optional) and click **[!UICONTROL Save]**.
 
    ![](assets/dynamic-chat-overview-3.png)
 
    >[!NOTE]
    >
-   >There are a few dozen languages to choose from, however, Dynamic Chat only supports the following: English, French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese.
+   >There are a few dozen languages to choose from, however, [!DNL Dynamic Chat] only supports the following: English, French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese.
 
 When you update the language, everything in the app itself changes except for the words you've personally populated (e.g., stream responses).
 

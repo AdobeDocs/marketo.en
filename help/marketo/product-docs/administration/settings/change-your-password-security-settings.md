@@ -31,7 +31,7 @@ Control the password policy of your subscription. Here's how.
 
    >[!NOTE]
    >
-   >A template is just a pre-built configuration. Standard is good. High Security is the strongest. Custom lets you make your own.
+   >A template is just a pre-built configuration. **[!UICONTROL Standard Security]** is good. **[!UICONTROL High Security]** is the strongest. **[!UICONTROL Custom]** lets you make your own.
 
    >[!TIP]
    >

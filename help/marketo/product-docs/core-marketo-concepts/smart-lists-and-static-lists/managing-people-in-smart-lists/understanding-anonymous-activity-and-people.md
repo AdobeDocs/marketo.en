@@ -11,7 +11,7 @@ The first time someone visits a Marketo landing page (or a page on your website 
 
 >[!IMPORTANT]
 >
->Enabling the Beta Feature **Munchkin V2 Anonymous Replay Activity on Known** ensures that campaigns triggered by anonymous lead promotion will always be replayed after the anonymous lead is successfully merged into the known record. As a result, custom fields changed by Change Data Value steps in any replayed campaigns will be retained in the known record.
+>Enabling the Beta Feature **[!DNL Munchkin] V2 Anonymous Replay Activity on Known** ensures that campaigns triggered by anonymous lead promotion will always be replayed after the anonymous lead is successfully merged into the known record. As a result, custom fields changed by Change Data Value steps in any replayed campaigns will be retained in the known record.
 
 **An Anonymous** activity is created when someone:
 

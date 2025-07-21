@@ -10,19 +10,19 @@ We allow you to personalize your email templates with predefined attributes like
 
 >[!TIP]
 >
->The "first_name" and "company" field are the only fields that will look to both Sales Insight Actions and Salesforce. That means if a contact does not exist in the [web application](https://toutapp.com/login), we look in Salesforce to see if we can find a contact/lead record with a matching email address. We then use information from that record to populate the field.
+>The "first_name" and "company" field are the only fields that will look to both [!DNL Sales Insight Actions] and [!DNL Salesforce]. That means if a contact does not exist in the [web application](https://toutapp.com/login), we look in [!DNL Salesforce] to see if we can find a contact/lead record with a matching email address. We then use information from that record to populate the field.
 
 ## Insert a Dynamic Field into a Template {#insert-a-dynamic-field-into-a-template}
 
-1. In **Templates & Campaigns**, find the template you want to edit and click **Edit Template**.
+1. In **[!UICONTROL Templates & Campaigns]**, find the template you want to edit and click **[!UICONTROL Edit Template]**.
 
-1. Click **Insert Dynamic Field**.
+1. Click **[!UICONTROL Insert Dynamic Field]**.
 
    >[!NOTE]
    >
-   >When emailing contacts who exist in Sales Insight Actions, you can use the basic dynamic fields. These will pull directly from the contact.
+   >When emailing contacts who exist in [!DNL Sales Insight Actions], you can use the basic dynamic fields. These will pull directly from the contact.
 
-If you're emailing contacts who exist in Salesforce, you can take advantage of the Salesforce dynamic fields. These all begin with "sfdc". As long as you have a connection to Salesforce, these fields will call directly to the lead/contact in Salesforce to populate information in the template.
+If you're emailing contacts who exist in [!DNL Salesforce], you can take advantage of the [!DNL Salesforce] dynamic fields. These all begin with "sfdc". As long as you have a connection to [!DNL Salesforce], these fields will call directly to the lead/contact in [!DNL Salesforce] to populate information in the template.
 
 ## Insert Dynamic Fields in a Subject Line {#insert-dynamic-fields-in-a-subject-line}
 
@@ -42,7 +42,7 @@ To do this, add "|" after the dynamic field label, then add "default:" (both wit
 
 ## Dynamic Fields Glossary {#dynamic-fields-glossary}
 
-When creating a template in Sales Insight Actions, we always recommend integrating dynamic fields, using the **Insert Dynamic Field** button.
+When creating a template in [!DNL Sales Insight Actions], we always recommend integrating dynamic fields, using the **[!UICONTROL Insert Dynamic Field]** button.
 
 This tool is used to `auto-personalize your email` and save you tons of time by `pulling information from the People page`.
 
@@ -63,7 +63,7 @@ This tool is used to `auto-personalize your email` and save you tons of time by 
 
 * If a contact's information is entered incorrectly or is missing from the People page, it will not pull over correctly into your template.
 * The difference between `{{company}}` and `{{company_friendly}}` is that `{{company_friendly}}` will remove any formal title, such as Inc., LLC., etc., from the name of your contact's company.
-* When using `{{company_friendly}}`, make sure you separate Inc. or Co. with a comma in the contact details. This is how Sales Insight Actions knows what to remove when pulling in the value.
+* When using `{{company_friendly}}`, make sure you separate Inc. or Co. with a comma in the contact details. This is how [!DNL Sales Insight Actions] knows what to remove when pulling in the value.
 * We allow you to personalize your email templates with predefined attributes like `{{my_name}}` or `{{my_title}}`. These fields allow you to quickly reference yourself in your email templates.
 * The system automatically appends the user's signature to each email sent. If the user is using a template with the `{{my_signature}}` dynamic field, the system will populate the signature where the `{{my_signature}}` dynamic field has been placed. It's only added there as to avoid duplication. The system will handle `{{team_unsubscribe}}` the same way when the global append unsubscribe setting is enabled.
 

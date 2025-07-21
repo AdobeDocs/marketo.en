@@ -5,7 +5,7 @@ title: Performance Insights Settings
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
 ---
-# Performance Insights Settings {#performance-insights-settings}
+# [!UICONTROL Performance Insights] Settings {#performance-insights-settings}
 
 Learn about the different Settings options in MPI.
 
@@ -17,7 +17,7 @@ Learn about the different Settings options in MPI.
 
 ## View Program Success By {#view-program-success-by}
 
-**Engagement Dashboard - Contribution and Trend**
+**[!UICONTROL Engagement] Dashboard - Contribution and Trend**
 
 <table> 
  <tbody> 
@@ -34,7 +34,7 @@ Learn about the different Settings options in MPI.
 
 ## Previous Period Configuration {#previous-period-configuration}
 
-**Engagement, Pipeline, Revenue Dashboards - Contribution only**
+**[!UICONTROL Engagement], [!UICONTROL Pipeline], [!UICONTROL Revenue] Dashboards - Contribution only**
 
 <table> 
  <tbody> 
@@ -51,7 +51,7 @@ Learn about the different Settings options in MPI.
 
 ## Marketing-Influenced Opportunities {#marketing-influenced-opportunities}
 
-**Pipeline Dashboard - Contribution and Trend**
+**[!UICONTROL Pipeline] Dashboard - Contribution and Trend**
 
 <table> 
  <tbody> 
@@ -66,7 +66,7 @@ Learn about the different Settings options in MPI.
  </tbody> 
 </table>
 
-**Revenue Dashboard - Contribution and Trend**
+**[!UICONTROL Revenue] Dashboard - Contribution and Trend**
 
 <table> 
  <tbody> 
@@ -83,7 +83,7 @@ Learn about the different Settings options in MPI.
 
 ## Cost Calculation {#cost-calculation}
 
-**Pipeline and Revenue Dashboards - Contribution and Trend**
+**[!UICONTROL Pipeline] and [!UICONTROL Revenue] Dashboards - Contribution and Trend**
 
 <table> 
  <tbody> 

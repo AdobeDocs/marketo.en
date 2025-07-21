@@ -51,7 +51,7 @@ If your Marketo sync user is set to a language other than English you may run in
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 
-1. Now go back to Salesforce and use the above steps to change the sync user back to your preferred language.
+1. Now go back to [!DNL Salesforce] and use the above steps to change the sync user back to your preferred language.
 
 >[!NOTE]
 >

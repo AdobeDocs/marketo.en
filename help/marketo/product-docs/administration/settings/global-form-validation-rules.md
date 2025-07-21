@@ -28,7 +28,7 @@ Before you can utilize this feature, you must enable its permssion per desired r
 
    ![](assets/global-form-validation-rules-4.png)
 
-1. Click the **+** sign next to Access Admin.
+1. Click the **+** sign next to **Access Admin**.
 
    ![](assets/global-form-validation-rules-5.png)
 
@@ -56,7 +56,7 @@ Before you can utilize this feature, you must enable its permssion per desired r
 
    >[!NOTE]
    >
-   >The Form Validation Rule Actions drop-down allows you to delete or edit existing rules.
+   >The [!UICONTROL Form Validation Rule Actions] drop-down allows you to delete or edit existing rules.
 
 1. Name your rule, give it an optional description, and enter the error message you want your form visitors to see. Enter the domain(s) you want blocked in the rules box, select **[!UICONTROL Activate Rule]**, and click **[!UICONTROL Create]**.
 

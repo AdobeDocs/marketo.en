@@ -11,7 +11,7 @@ feature: Microsoft Dynamics
 >
 >**Admin Permissions Required**
 
-You will need to download and install a Marketo Engage Solution into your Microsoft Dynamics account to get the sync started.
+You will need to download and install a Marketo Solution into your [!DNL Microsoft Dynamics] account to get the sync started.
 
 >[!CAUTION]
 >
@@ -37,7 +37,7 @@ You will need to download and install a Marketo Engage Solution into your Micros
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 
-1. Select the appropriate solution for your Microsoft Dynamics version.
+1. Select the appropriate solution for your [!DNL Microsoft Dynamics] version.
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 

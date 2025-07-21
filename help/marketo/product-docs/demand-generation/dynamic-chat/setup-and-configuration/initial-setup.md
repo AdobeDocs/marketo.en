@@ -14,7 +14,7 @@ Follow the steps below to set up Dynamic Chat.
 >
 >**Admin permissions required.**
 
-1. After Dynamic Chat is enabled for your Marketo Instance, the designated System Admin will receive a welcome email. In that email, click **Get Started**.
+1. After [!DNL Dynamic Chat] is enabled for your Marketo Instance, the designated System Admin will receive a welcome email. In that email, click **[!UICONTROL Get Started]**.
 
    ![](assets/initial-setup-1.png)
 

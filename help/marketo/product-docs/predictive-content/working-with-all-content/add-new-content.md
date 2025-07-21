@@ -7,9 +7,9 @@ feature: Predictive Content
 ---
 # Add New Content {#add-new-content}
 
-You can easily add content manually to the All Content page.
+You can easily add content manually to the [!UICONTROL All Content] page.
 
-1. Click the **Add Content** drop-down and select **Add Content**.
+1. Click the **[!UICONTROL Add Content]** drop-down and select **[!UICONTROL Add Content]**.
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -21,11 +21,11 @@ You can easily add content manually to the All Content page.
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. Click **Add**.
+1. Click **[!UICONTROL Add]**.
 
    ![](assets/all-content-add-hand.png)
 
-1. The new title now appears on the **All Content** page. Note that it's not approved for predictive content yet.
+1. The new title now appears on the **[!UICONTROL All Content]** page. Note that it's not approved for predictive content yet.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 

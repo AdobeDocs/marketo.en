@@ -7,16 +7,16 @@ exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
 ---
 # Expected Behavior {#expected-behavior}
 
-In this article, you'll find information on expected behavior associated with Predictive Audiences (PA).
+In this article, you'll find information on expected behavior associated with [!UICONTROL Predictive Audiences] (PA).
 
 ## Data and Privacy Considerations
 
 * All required data processing for the AI/ML models takes place in North America.
 * AI/ML models do not use specific lead information such as first or last names, gender, emails, contact numbers, etc. Models only utilize general attributes derived from firmographics and activity logs.
 
-**For Predictive Audiences, you can expect the following behavior**
+**For [!UICONTROL Predictive Audiences], you can expect the following behavior**
 
-* PA is accessible in both Marketo Sky and the Marketo Classic experience. The availability of specific features is as follows:
+* PA is accessible in both [!DNL Marketo Sky] and the [!DNL Marketo Classic] experience. The availability of specific features is as follows:
   * Predictive filters - [!DNL Sky/Classic]
   * Projected registrations - [!DNL Sky/Classic]
   * Lead-level likelihood predictions - [!DNL Sky/Classic]

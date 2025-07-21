@@ -9,11 +9,11 @@ feature: Reporting
 
 Use columns to sort the data in your report and make the most important figures easy to find.
 
-1. Go to **Analytics** (or **Marketing Activities**).
+1. Go to **[!UICONTROL Analytics]** (or **[!UICONTROL Marketing Activities]**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Select your report from the navigation tree, and click the **Report** tab.
+1. Select your report from the navigation tree, and click the **[!UICONTROL Report]** tab.
 
    ![](assets/reports2.jpg)
 

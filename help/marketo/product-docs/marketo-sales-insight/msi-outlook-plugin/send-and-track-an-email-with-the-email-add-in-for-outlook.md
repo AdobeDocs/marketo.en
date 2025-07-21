@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949716
-description: Send and Track an Email with the Email Add-In for Outlook - Marketo Docs - Product Documentation
-title: Send and Track an Email with the Email Add-In for Outlook
+description: Send and Track an Email with the Email Add-In for [!DNL Outlook] - Marketo Docs - Product Documentation
+title: "Send and Track an Email with the Email Add-In for [!DNL Outlook]"
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
 ---
-# Send and Track an Email with the Email Add-In for Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# Send and Track an Email with the Email Add-In for [!DNL Outlook] {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
-You can send and track emails with Marketo directly from Outlook.
+You can send and track emails with Marketo directly from [!DNL Outlook].
 
 >[!PREREQUISITES]
 >
->If you haven't yet, install the [Marketo email add-in for Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>If you haven't yet, install the [Marketo email add-in for [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ You can send and track emails with Marketo directly from Outlook.
    >
    >If you include multiple recipients in the email, all activity will be tracked under the first recipient.
 
-1. Compose your email as you normally would, then click **Send and Track**.
+1. Compose your email as you normally would, then click **[!UICONTROL Send and Track]**.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -35,9 +35,9 @@ You can send and track emails with Marketo directly from Outlook.
 
    >[!TIP]
    >
-   >If you want to use a Marketo template, see [Send and Track from Outlook Using a Template](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
+   >If you want to use a Marketo template, see [Send and Track from [!DNL Outlook] Using a Template](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
-1. Take a look at the preview and click **Send**.
+1. Take a look at the preview and click **[!UICONTROL Send]**.
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 
@@ -45,11 +45,11 @@ You can send and track emails with Marketo directly from Outlook.
    >
    >Anti-spam technology often rejects opens and clicks that happen within 20 seconds of sending the email, so please wait at least that long to open/click while testing.
 
-   In order to see who has received your emails sent through Outlook, create a smart list using the "Was Sent Sales Email" filter.
+   In order to see who has received your emails sent through [!DNL Outlook], create a smart list using the "[!UICONTROL Was Sent Sales Email]" filter.
 
    ![](assets/was-sent-sales-email.png)
 
-It's that easy! Even though this email was sent by a salesperson's Outlook, it will be tracked in Marketo.
+It's that easy! Even though this email was sent by a salesperson's [!DNL Outlook], it will be tracked in Marketo.
 
 >[!MORELIKETHIS]
 >

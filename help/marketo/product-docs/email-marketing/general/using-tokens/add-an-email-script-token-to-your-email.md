@@ -13,11 +13,11 @@ After you've [created your email script](/help/marketo/product-docs/email-market
 >
 >Total size of all script tokens inserted into a single email cannot exceed 100KB.
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/one-2.png)
 
-1. Find and select the email you want to add the token to and click **Edit Draft**.
+1. Find and select the email you want to add the token to and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/two-2.png)
 
@@ -33,7 +33,7 @@ After you've [created your email script](/help/marketo/product-docs/email-market
 
    ![](assets/four-2.png)
 
-1. Find and select the email script token you created previously and click **Insert**.
+1. Find and select the email script token you created previously and click **[!UICONTROL Insert]**.
 
    ![](assets/five-1.png)
 

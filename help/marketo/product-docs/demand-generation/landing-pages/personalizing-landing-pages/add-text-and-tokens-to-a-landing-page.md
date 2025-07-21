@@ -13,7 +13,7 @@ feature: Landing Pages
 
 ## Add Rich Text to Your Landing Page {#add-rich-text-to-your-landing-page}
 
-1. Select your landing page and click **Edit Draft**.
+1. Select your landing page and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-14-3a30-3a29.png)
 
@@ -21,11 +21,11 @@ feature: Landing Pages
    >
    >The landing page designer opens in a new window.
 
-1. Drag over the **Rich Text** element.
+1. Drag over the **[!UICONTROL Rich Text]** element.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
-1. Enter the desired text and click **Save**.
+1. Enter the desired text and click **[!UICONTROL Save]**.
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
@@ -39,7 +39,7 @@ Tokens are dynamic bits of text that can personalize your landing page.
 >
 >Things like First Name come from the person record. Other tokens come from the My Tokens tab in the program.
 
-1. Select your landing page and click **Edit Draft**.
+1. Select your landing page and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-14-3a30-3a54.png)
 
@@ -59,11 +59,11 @@ Tokens are dynamic bits of text that can personalize your landing page.
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Enter a **Default Value** and click **Insert**.
+1. Enter a **[!UICONTROL Default Value]** and click **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 

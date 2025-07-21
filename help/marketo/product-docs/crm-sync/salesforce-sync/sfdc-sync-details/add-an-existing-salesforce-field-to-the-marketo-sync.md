@@ -5,7 +5,7 @@ title: Add an Existing Salesforce Field to the Marketo Sync
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
 ---
-# Add an Existing Salesforce Field to the Marketo Sync {#add-an-existing-salesforce-field-to-the-marketo-sync}
+# Add an Existing [!DNL Salesforce] Field to the Marketo Sync {#add-an-existing-salesforce-field-to-the-marketo-sync}
 
 >[!NOTE]
 >
@@ -41,4 +41,4 @@ Usually, new custom fields in Salesforce sync over to Marketo Engage automatical
 
    >[!NOTE]
    >
-   > If the field already has values in Salesforce, those values don't sync over to Marketo until the next record update.
+   > If the field already has values in [!DNL Salesforce], those values don't sync over to Marketo until the next record update.

@@ -13,15 +13,15 @@ Here's how to create a segment using an Account List.
 >
 >[Create a New Account List](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
-1. Go to **Segments**.
+1. Go to **[!UICONTROL Segments]**.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Click **Create New**.
+1. Click **[!UICONTROL Create New]**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Enter a name for the segment. Drag and drop **Account Lists** from the **Firmographics** section.
+1. Enter a name for the segment. Drag and drop **[!UICONTROL Account Lists]** from the **[!UICONTROL Firmographics]** section.
 
    ![](assets/set-segment-hands.jpg)
 
@@ -33,7 +33,7 @@ Here's how to create a segment using an Account List.
    >
    >Account Lists are synced from ABM to Web Personalization for use in Segmentation. Select them from the drop-down. The sync can take up to five minutes. It will only sync if there are one or more Named Accounts in the Account List.
 
-1. Click **Save**, or click **Save & Define Campaign** to go to the Campaigns page.  
+1. Click **[!UICONTROL Save]**, or click **[!UICONTROL Save & Define Campaign]** to go to the Campaigns page.  
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

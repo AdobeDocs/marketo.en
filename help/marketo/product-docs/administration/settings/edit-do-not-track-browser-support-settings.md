@@ -15,7 +15,7 @@ feature: Administration
 
 >[!NOTE]
 >
->"Do Not Track" will be set to Ignore by default, so if that's what you want, you won't need to take any steps.
+>"Do Not Track" will be set to **[!UICONTROL Ignore]** by default, so if that's what you want, you won't need to take any steps.
 
 1. Click **[!UICONTROL Admin]**.
 

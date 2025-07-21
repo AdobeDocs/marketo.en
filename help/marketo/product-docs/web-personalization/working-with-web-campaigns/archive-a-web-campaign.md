@@ -7,18 +7,18 @@ feature: Web Personalization
 ---
 # Archive a Web Campaign {#archive-a-web-campaign}
 
-1. Go to **Web Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/one.jpg)
 
-1. Click the status drop-down of the desired web campaign and select **Archive**.
+1. Click the status drop-down of the desired web campaign and select **[!UICONTROL Archive]**.
 
    ![](assets/two-3.png)
 
    >[!NOTE]
    >
-   >Archived web campaigns will not show in the default filter. To see them click the Filter icon and under **Status**, select the **Archived** checkbox and click **Apply**.
+   >Archived web campaigns will not show in the default filter. To see them click the Filter icon and under **[!UICONTROL Status]**, select the **[!UICONTROL Archived]** checkbox and click **[!UICONTROL Apply]**.
 
 >[!MORELIKETHIS]
 >
->[Delete a Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>[Delete a [!UICONTROL Web Campaign]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)

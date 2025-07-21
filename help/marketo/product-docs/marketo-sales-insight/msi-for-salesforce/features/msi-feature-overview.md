@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 ---
 # MSI Feature Overview {#msi-feature-overview}
 
-MSI has the following features available in Salesforce Lightning and Classic.
+MSI has the following features available in [!DNL Salesforce] Lightning and Classic.
 
 >[!NOTE]
 >
@@ -81,7 +81,7 @@ Fields:
 * Urgency Value
 * View in Marketo - Click on this field to open a non-editable view of the lead in Marketo. Includes: Lead Info, Company Info, SFDC Lead Info, SFDC Custom Fields, Activity Log
 * Mkto Lead Score
-* Sales Insight - Opens contact full list page
+* [!DNL Sales Insight] - Opens contact full list page
 
 ## Account Layout {#account-layout}
 
@@ -93,7 +93,7 @@ Visualforce pages:
 
 Fields:
 
-* Sales Insight - Opens contact full list page
+* [!DNL Sales Insight] - Opens contact full list page
 
 Actions:
 
@@ -115,7 +115,7 @@ Visualforce pages:
 
 Fields:
 
-* Sales Insight - Opens contact full list page
+* [!DNL Sales Insight] - Opens contact full list page
 * Marketo Opportunity Analysis – Opens Opportunity Influence Analyzer in Marketo
 
 Actions:
@@ -130,13 +130,13 @@ The following features are **not available** in the Opportunity Layout page:
 
 ## Lead and Contact List view (Bulk Actions) {#lead-and-contact-list-view-bulk-actions}
 
-Salesforce Lightning: Add to Watchlist, Add to Marketo Campaign and Send Marketo Email bulk action buttons in Lead and Contact list view.
+[!DNL Salesforce Lightning]: Add to Watchlist, Add to Marketo Campaign and Send Marketo Email bulk action buttons in Lead and Contact list view.
 
-Salesforce Classic: Add to Watchlist, Add to Marketo Campaign, and Send Marketo Email bulk action buttons in Lead and Contact list view.
+[!DNL Salesforce Classic]: Add to Watchlist, Add to Marketo Campaign, and Send Marketo Email bulk action buttons in Lead and Contact list view.
 
 ## Marketo Tab {#marketo-tab}
 
-* Best Bets
+* [!DNL Best Bets]
 
     * Includes ability to create and edit views. Ability to Hide Best Bets depending on configuration of "Default Hide" option in Marketo Configuration page
     * Columns - Name, Account, Last Interesting Moment, Status Header, Engagement (Stars & Flames), Hide
@@ -170,30 +170,30 @@ Salesforce Classic: Add to Watchlist, Add to Marketo Campaign, and Send Marketo 
     * Subscribe option to receive email notification for this type of event
     * High priority icon to show this person is a Best Bet
 
-## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
+## [!DNL Marketo Sales Insight] Configuration Tab {#marketo-sales-insight-configuration-tab}
 
 * Operational Settings: Includes Soap & Rest API credentials needed to set up MSI in SFDC
 * MSI Configuration: Includes configuration of Marketo tab and MSI visualforce panel
-* Reset Marketo Sales Insight: Includes ability to wipe out all configurations
+* Reset [!DNL Marketo Sales Insight]: Includes ability to wipe out all configurations
 
 >[!MORELIKETHIS]
 >
->[Marketo Sales Insight Configuration tab in Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+>[[!DNL Marketo Sales Insight] Configuration tab in [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
-## Sales Insight Performance Reports {#sales-insight-performance-reports}
+## [!DNL Sales Insight] Performance Reports {#sales-insight-performance-reports}
 
-View the performance of emails sent through Salesforce, Microsoft Dynamics, or a Gmail or Outlook plug-in
+View the performance of emails sent through [!DNL Salesforce], [!DNL Microsoft Dynamics], or a Gmail or [!DNL Outlook] plug-in
 
 ## MSI for Mobile {#msi-for-mobile}
 
-MSI features are supported in Salesforce mobile application
+MSI features are supported in [!DNL Salesforce] mobile application
 
 ## Language Support {#language-support}
 
-Marketo Sales Insight is stored by language. So, if you want it to work for more than one language, you have to enter the credentials separately for each language.
+[!DNL Marketo Sales Insight] is stored by language. So, if you want it to work for more than one language, you have to enter the credentials separately for each language.
 
 >[!NOTE]
 >
 >* A contact/lead needs to be in the Default partition in order to be added to the Watchlist.
 >
->* The MSI Salesforce package doesn't support custom view with dependent fields.
+>* The MSI [!DNL Salesforce] package doesn't support custom view with dependent fields.

@@ -5,11 +5,11 @@ title: Marketo Sales Insight Configuration Tab in Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
 ---
-# Marketo Sales Insight Configuration Tab in Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}
+# [!DNL Marketo Sales Insight] Configuration Tab in [!DNL Salesforce] {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## Operational Settings {#operational-settings}
 
-You will need to have this set up in order to start using Sales Insight in SFDC.
+You will need to have this set up in order to start using [!DNL Sales Insight] in SFDC.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-1.png)
 

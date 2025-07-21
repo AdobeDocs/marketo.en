@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949863
-description: Create an Event with Webex - Marketo Docs - Product Documentation
-title: Create an Event with Webex
+description: "Create an Event with [!DNL Webex] - Marketo Docs - Product Documentation"
+title: "Create an Event with [!DNL Webex]"
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
 ---
-# Create an Event with Webex {#create-an-event-with-webex}
+# Create an Event with [!DNL Webex] {#create-an-event-with-webex}
 
 After you create a webinar in Webex, you'll need to sync your event with Marketo Engage.
 
 >[!PREREQUISITES]
 >
->* [Add Webex as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+>* [Add [!DNL Webex] as a [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Set the appropriate [flow actions](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) to track engagement
 
@@ -21,8 +21,8 @@ You schedule your event and choose your preferred settings in [Webex](https://ww
 
 ### Basic Information {#basic-information}
 
-![](assets/create-an-event-with-webex-1.png)
-
+* **[!UICONTROL Event Name] -** This name will be viewable in Marketo.
+* **[!UICONTROL Unlisted Checkbox]**
 * **Topic**: This is your event name and will be viewable in Marketo.
 * **Date and time**: Start/end date, start/end time, duration, and time zone are all viewable in Marketo.
 * **Maximum attendees**: The maximum number of attendees determines which Webex features are supported.

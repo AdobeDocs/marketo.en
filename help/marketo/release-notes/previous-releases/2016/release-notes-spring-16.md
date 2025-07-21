@@ -59,9 +59,9 @@ Similar to the IP allowlisting feature for Marketo user logins, Marketo admins c
 
 The new, high-speed Dynamics connector provides speeds up to 20 times faster for initial sync and up to 5 times faster for incremental sync. All new customers will onboard to this connector on the release date, and we will gradually roll it out to existing customers over the summer release time frame.
 
-**Refresh data for new fields**: Now you can enable new sync fields at any point in time and all data values for that field will be refreshed from Dynamics CRM into Marketo. No more worries about having to select all fields during initial setup. If you disable an existing sync field and re-enable it later, all data values for that field will be refreshed from Dynamics CRM into Marketo.
+**Refresh data for new fields**: Now you can enable new sync fields at any point in time and all data values for that field will be refreshed from [!DNL Dynamics] CRM into Marketo. No more worries about having to select all fields during initial setup. If you disable an existing sync field and re-enable it later, all data values for that field will be refreshed from [!DNL Dynamics] CRM into Marketo.
 
-**Sync Lead as Contact**: The Sync Lead to Microsoft flow action has a new option to sync as a lead or a contact.
+**Sync Lead as Contact**: The [!UICONTROL Sync Lead to Microsoft] flow action has a new option to sync as a lead or a contact.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
@@ -69,7 +69,7 @@ The new, high-speed Dynamics connector provides speeds up to 20 times faster for
 
 ![](assets/sync-errors.png)
 
-**Microsoft Dynamics 2016**: Connector is fully certified for Dynamics 2016 Online and On-premise versions.
+**[!DNL Microsoft Dynamics] 2016**: Connector is fully certified for [!DNL Dynamics] 2016 [!DNL Online] and [!DNL On-premise] versions.
 
 **Plug-In Updates are now documented:** See the [plug-in updates docs article](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 

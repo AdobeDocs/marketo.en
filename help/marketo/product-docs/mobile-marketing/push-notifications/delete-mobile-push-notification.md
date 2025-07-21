@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # Delete Mobile Push Notification {#delete-mobile-push-notification}
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -15,11 +15,11 @@ feature: Mobile Marketing
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. Under **Push Notification Actions**, click **Delete**.
+1. Under **[!UICONTROL Push Notification Actions]**, click **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-1. Confirm by clicking **Delete**.
+1. Confirm by clicking **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 

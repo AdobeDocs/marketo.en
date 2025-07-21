@@ -9,19 +9,19 @@ feature: Engagement Programs
 
 When people exhaust all content in a stream, Marketo can send you a notification. You can disable/enable the notifications based on your needs. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Select an engagement program and click the **Setup** tab.
+1. Select an engagement program and click the **[!UICONTROL Setup]** tab.
 
    ![](assets/setuptab.jpg)
 
-1. Double-click **Exhausted Content Notifications**.
+1. Double-click **[!UICONTROL Exhausted Content Notifications]**.
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Select **Off** (or **On**) and click **Save**.
+1. Select **[!UICONTROL Off]** (or **[!UICONTROL On]**) and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 

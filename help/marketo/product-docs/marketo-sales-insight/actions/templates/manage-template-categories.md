@@ -10,25 +10,25 @@ feature: Sales Insight Actions
 
 ## Create a Category {#create-a-category}
 
-1. Click the **Templates** tab.
+1. Click the **[!UICONTROL Templates]** tab.
 
    ![](assets/manage-template-categories-1.png)
 
-1. Click the **+** icon next to **Categories**.
+1. Click the **+** icon next to **[!UICONTROL Categories]**.
 
    ![](assets/manage-template-categories-2.png)
 
-1. Enter a name for your new category, then click **Create**.
+1. Enter a name for your new category, then click **[!UICONTROL Create]**.
 
    ![](assets/manage-template-categories-3.png)
 
 ## Rename a Template Category {#rename-a-template-category}
 
-1. Click the **Templates** tab.
+1. Click the **[!UICONTROL Templates]** tab.
 
    ![](assets/manage-template-categories-4.png)
 
-1. Hover over the template you want to rename and click the dota (three dots). Select **Rename**.
+1. Hover over the template you want to rename and click the dota (three dots). Select **[!UICONTROL Rename]**.
 
    ![](assets/manage-template-categories-5.png)
 
@@ -38,15 +38,15 @@ feature: Sales Insight Actions
 
 ## Delete a Template Category {#delete-a-template-category}
 
-1. Click the **Templates** tab.
+1. Click the **[!UICONTROL Templates]** tab.
 
    ![](assets/manage-template-categories-7.png)
 
-1. Hover over the template you want to rename and click the dota (three dots). Select **Delete**.
+1. Hover over the template you want to rename and click the dota (three dots). Select **[!UICONTROL Delete]**.
 
    ![](assets/manage-template-categories-8.png)
 
-1. Click **Delete** to confirm.
+1. Click **[!UICONTROL Delete]** to confirm.
 
    ![](assets/manage-template-categories-9.png)
 

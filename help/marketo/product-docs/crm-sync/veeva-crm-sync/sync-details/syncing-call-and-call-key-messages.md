@@ -6,7 +6,7 @@ feature: Veeva CRM
 ---
 # Syncing Call and Call Key Messages {#syncing-call-and-call-key-messages}
 
-Call and Call Key Message Objects in Veeva CRM are synced by default into Marketo Engage. Marketo syncs data that's up to 6 months old, based on Call Created Date.  
+Call and Call Key Message Objects in [!DNL Veeva] CRM are synced by default into Marketo Engage. Marketo syncs data that's up to 6 months old, based on Call Created Date.  
 
 >[!NOTE]
 >

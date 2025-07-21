@@ -15,7 +15,7 @@ Tags are attributes that describe your programs and are used to group program ty
 
 ## Use a Tag in a Program {#use-a-tag-in-a-program}
 
-1. Select your program. Click **Setup**.
+1. Select your program. Click **[!UICONTROL Setup]**.
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -27,7 +27,7 @@ Tags are attributes that describe your programs and are used to group program ty
 
    ![](assets/use-tags-in-a-program-3.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/use-tags-in-a-program-4.png)
 
@@ -37,7 +37,7 @@ Tags are attributes that describe your programs and are used to group program ty
 
 ## Edit a Tag {#edit-a-tag}
 
-1. Go to the **Setup** tab. Right-click the tag. Select **Edit**.
+1. Go to the **[!UICONTROL Setup]** tab. Right-click the tag. Select **[!UICONTROL Edit]**.
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -45,7 +45,7 @@ Tags are attributes that describe your programs and are used to group program ty
 
    ![](assets/use-tags-in-a-program-7.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/use-tags-in-a-program-8.png)
 
@@ -55,11 +55,11 @@ Tags are attributes that describe your programs and are used to group program ty
 
 ## Delete a Tag  {#delete-a-tag}
 
-1. Go to the **Setup** tab. Right-click the tag and select **Delete**.
+1. Go to the **[!UICONTROL Setup]** tab. Right-click the tag and select **[!UICONTROL Delete]**.
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. Click **Delete** to confirm.
+1. Click **[!UICONTROL Delete]** to confirm.
 
    ![](assets/use-tags-in-a-program-11.png)
 

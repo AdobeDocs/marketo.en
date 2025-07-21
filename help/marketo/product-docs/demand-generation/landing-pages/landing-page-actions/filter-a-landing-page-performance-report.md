@@ -7,9 +7,9 @@ feature: Landing Pages
 ---
 # Filter a Landing Page Performance Report {#filter-a-landing-page-performance-report}
 
-Focus your [landing page performance report](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) on landing pages in your programs (local assets), on those in Design Studio (global assets), or on those that have been archived.
+Focus your [landing page performance report](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) on landing pages in your programs (local assets), on those in [!UICONTROL Design Studio] (global assets), or on those that have been archived.
 
-1. Go to **Analytics** (or **Marketing Activities**).
+1. Go to **[!UICONTROL Analytics]** (or **[!UICONTROL Marketing Activities]**).
 
    ![](assets/analyticstile.png)
 
@@ -17,13 +17,13 @@ Focus your [landing page performance report](/help/marketo/product-docs/demand-g
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. Click the **Setup** tab and drag in a filter.
+1. Click the **[!UICONTROL Setup]** tab and drag in a filter.
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-    * **Design Studio Landing Pages:** Global assets, managed in the Design Studio.
-    * **Marketing Activities Landing Pages:** Local assets in programs on the Marketing Activities tab.
-    * **Archived Landing Pages:** Inactive, retired landing pages.
+    * **[!UICONTROL Design Studio Landing Pages]:** Global assets, managed in the [!UICONTROL Design Studio].
+    * **[!UICONTROL Marketing Activities Landing Pages]:** Local assets in programs on the [!UICONTROL Marketing Activities] tab.
+    * **[!UICONTROL Archived Landing Pages]:** Inactive, retired landing pages.
 
 1. Choose the folders and specific landing pages to include in your report.
 
@@ -33,6 +33,6 @@ Focus your [landing page performance report](/help/marketo/product-docs/demand-g
    >
    >If you select a folder, your report will include everything that folder contains at the time the report runs.
 
-1. You're done! Click the **Report** tab to see your filtered report.
+1. You're done! Click the **[!UICONTROL Report]** tab to see your filtered report.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)

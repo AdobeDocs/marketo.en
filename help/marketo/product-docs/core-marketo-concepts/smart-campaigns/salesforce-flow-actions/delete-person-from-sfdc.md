@@ -11,7 +11,7 @@ If you need to remove a specific set of leads from Salesforce but leave them as 
 
 >[!NOTE]
 >
->Only available when integrated with Salesforce.
+>Only available when integrated with [!DNL Salesforce].
 
 1. In the Database, click the person you want to remove from Salesforce. Then click **[!UICONTROL Person Actions]** and select **[!DNL Salesforce]**.
 
@@ -25,7 +25,7 @@ If you need to remove a specific set of leads from Salesforce but leave them as 
 
    ![](assets/delete-person-from-sfdc-3.png)
 
-   After the flow step runs, your person will no longer be a lead in Salesforce but will remain in Marketo.
+   After the flow step runs, your person will no longer be a lead in [!DNL Salesforce] but will remain in Marketo.
 
    >[!CAUTION]
    >

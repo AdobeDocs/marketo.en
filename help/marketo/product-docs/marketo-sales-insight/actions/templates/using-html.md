@@ -12,7 +12,7 @@ feature: Sales Insight Actions
 
    ![](assets/using-html-1.png)
 
-1. In the Template Editor card, click **Edit**.
+1. In the Template Editor card, click **[!UICONTROL Edit]**.
 
    ![](assets/using-html-2.png)
 
@@ -20,7 +20,7 @@ feature: Sales Insight Actions
 
    ![](assets/using-html-3.png)
 
-1. Paste the source code and click **Save**.
+1. Paste the source code and click **[!UICONTROL Save]**.
 
    ![](assets/using-html-4.png)
 

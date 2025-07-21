@@ -31,13 +31,13 @@ Follow these steps to create a new custom activity.
 
    >[!CAUTION]
    >
-   >If you decide to change the API name, make sure the name does not conflict with fields in other custom activities.
+   >If you decide to change the [!UICONTROL API Name], make sure the name does not conflict with fields in other custom activities.
 
 1. Define your [!UICONTROL Filter] and [!UICONTROL Trigger] and click **[!UICONTROL Next]**.
 
    ![](assets/create-a-custom-activity-5.png)
 
-1. Give your primary field a name that summarizes what the custom activity is for.
+1. Give your primary field a **[!UICONTROL Name]** that summarizes what the custom activity is for.
 
    ![](assets/create-a-custom-activity-6.png)
 

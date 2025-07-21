@@ -5,7 +5,7 @@ title: Create a Contact in Microsoft Dynamics
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 feature: Microsoft Dynamics
 ---
-# Create a Contact in Microsoft Dynamics {#create-a-contact-in-microsoft-dynamics}
+# Create a Contact in [!DNL Microsoft Dynamics] {#create-a-contact-in-microsoft-dynamics}
 
 1. Select the Marketo Engage-only person (Microsoft Type is empty) that you want to create as a contact in Dynamics.
 
@@ -23,7 +23,7 @@ feature: Microsoft Dynamics
    >
    >When using the "[!UICONTROL Sync Person to Microsoft]" flow action (in a Trigger Campaign only), the lead/contact will be created in real-time in Dynamics.
 
-1. Marketo qualifies that Lead record in Dynamics into a Contact that is not associated to any Account in Dynamics.
+1. Marketo qualifies that Lead record in [!DNL Dynamics] into a Contact that is not associated to any Account in [!DNL Dynamics].
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 

@@ -7,7 +7,7 @@ feature: Salesforce Integration
 ---
 # SFDC Sync: Lead/Account Owner Sync {#sfdc-sync-lead-account-owner-sync}
 
-These are technically syncing the "user" table in Salesforce, however we will refer to it as Lead/Account Owner fields.
+These are technically syncing the "user" table in [!DNL Salesforce], however we will refer to it as Lead/Account Owner fields.
 
 ## Which fields will sync to Marketo Engage? {#which-fields-will-sync-to-marketo-engage}
 
@@ -42,4 +42,4 @@ There are lots of reasons to use this data such as
 * Assignment (and re-assignment) rules in Marketo
 * Use them in the [Change Owner](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}, and [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flow actions
 
-Marketo sure has an awesome Salesforce sync. No one else does it so well!
+Marketo sure has an awesome [!DNL Salesforce] sync. No one else does it so well!

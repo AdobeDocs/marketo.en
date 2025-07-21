@@ -30,4 +30,4 @@ Events can automatically connect to your [webinar provider](/help/marketo/produc
 >
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
->* [LaunchPoint Event Partners](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)
+>* [[!DNL LaunchPoint] Event Partners](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)

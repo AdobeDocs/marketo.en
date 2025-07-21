@@ -7,11 +7,11 @@ feature: Mobile Marketing
 ---
 # Delete Mobile App {#delete-mobile-app}
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Select **Mobile Apps**.
+1. Select **[!UICONTROL Mobile Apps]**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -19,11 +19,11 @@ feature: Mobile Marketing
 
    ![](assets/image2015-4-22-17-3a22-3a11.png)
 
-1. Click **Mobile App Actions** and select **Delete App**.
+1. Click **[!UICONTROL Mobile App Actions]** and select **[!UICONTROL Delete App]**.
 
    ![](assets/image2015-4-22-17-3a21-3a51.png)
 
-1. Confirm by clicking **Delete**.
+1. Confirm by clicking **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-22-17-3a23-3a18.png)
 

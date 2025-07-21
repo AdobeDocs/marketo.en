@@ -19,4 +19,4 @@ feature: Marketo Sales Connect
 
 1. Select an email template or write a new message.
 
-1. When your email is ready to send, click the **Send & Connect** button. Clicking that button instead of the normal send button will ensure your email is sent with tracking applied. Sales Connect will track when your email is opened, and when someone clicks on any links.
+1. When your email is ready to send, click the **[!UICONTROL Send & Connect]** button. Clicking that button instead of the normal send button will ensure your email is sent with tracking applied. Sales Connect will track when your email is opened, and when someone clicks on any links.
