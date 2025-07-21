@@ -3,6 +3,7 @@ unique-page-id: 17728028
 description: "Add [!DNL Zoom] as a [!DNL LaunchPoint] Service - Marketo Docs - Product Documentation"
 title: "Add [!DNL Zoom] as a [!DNL LaunchPoint] Service"
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
+feature: Administration, Integrations
 ---
 # Add [!DNL Zoom] as a [!DNL LaunchPoint] Service {#add-zoom-as-a-launchpoint-service}
 
@@ -44,7 +45,7 @@ Marketo manages your [!DNL Zoom] registration and attendance.
 
    ![](assets/add-zoom-as-a-launchpoint-service-7.png)
 
-   Great! Your [!DNL Zoom] account is now synced with Marketo and can be found in the [!UICONTROL LaunchPoint] area.
+Your [!DNL Zoom] account is now synced with Marketo and can be found in the [!UICONTROL LaunchPoint] area.
 
 >[!CAUTION]
 >

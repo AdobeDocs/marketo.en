@@ -3,6 +3,7 @@ unique-page-id: 4720856
 description: Add a Mobile View for Your Free-Form Landing Page - Marketo Docs - Product Documentation
 title: Add a Mobile View for Your Free-Form Landing Page
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
+feature: Landing Pages
 ---
 # Add a Mobile View for Your Free-Form Landing Page {#add-a-mobile-view-for-your-free-form-landing-page}
 

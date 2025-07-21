@@ -3,6 +3,7 @@ unique-page-id: 2359466
 description: Edit Snippets with Dynamic Content - Marketo Docs - Product Documentation
 title: Edit Snippets with Dynamic Content
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
+feature: Snippets
 ---
 # Edit Snippets with Dynamic Content {#edit-snippets-with-dynamic-content}
 

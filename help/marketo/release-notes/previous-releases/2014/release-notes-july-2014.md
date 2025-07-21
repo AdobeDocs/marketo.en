@@ -3,6 +3,7 @@ unique-page-id: 2951040
 description: Release Notes -July 2014 - Marketo Docs - Product Documentation
 title: Release Notes -July 2014
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
+feature: Release Information
 ---
 # Release Notes: July 2014 {#release-notes-july}
 
@@ -24,7 +25,7 @@ Documentation on the Marketing Calendar will be available at release time.
 
 ## Date Operators {#date-operators}
 
-[Advanced filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) for “[!UICONTROL in past before]”, “[!UICONTROL in future]”, and “[!UICONTROL in future after]”. For example, find leads that have a birth date in the next 3 months, or a contract that is expiring after 6 months.
+[Advanced filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) for "[!UICONTROL in past before]", "[!UICONTROL in future]", and "[!UICONTROL in future after]". For example, find leads that have a birth date in the next 3 months, or a contract that is expiring after 6 months.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -40,7 +41,7 @@ In addition to the marketing calendar you manage your events and default program
 
 ## List Operations in the REST API {#list-operations-in-the-rest-api}
 
-We’ve added the calls below related to list operations in REST. See [developers.marketo.com](https://developers.marketo.com/documentation/rest/) for the full documentation.
+We've added the calls below related to list operations in ReST. See [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) for the full documentation.
 
 * Get List By ID
 * Get Multiple Lists
@@ -49,9 +50,9 @@ We’ve added the calls below related to list operations in REST. See [developer
 
 ## Fast List Import {#fast-list-import}
 
-Over **50x faster**, your files will zoom into Marketo! The old “Normal” and “Optimized for New Leads” import options have been replaced with “Default (Fast Import)”.
+Over **50x faster**, your files will zoom into Marketo! The old "Normal" and "Optimized for New Leads" import options have been replaced with "Default (Fast Import)".
 
-The “Skip New Leads and Updates” option remains unchanged.
+The "Skip New Leads and Updates" option remains unchanged.
 
 ## New Improved Munchkin! {#new-improved-munchkin}
 
@@ -71,10 +72,10 @@ The RTP Set Campaign page now [includes ready-made templates](/help/marketo/prod
 
 ## RTP: JavaScript API Enhancements {#rtp-javascript-api-enhancements}
 
-New RTP API call to get real-time visitor data such as organization, industry, location and segment code match. In addition, hovering over a segment name in the Segments page will reveal a tooltip showing the segment code. See our [developers site](https://developers.marketo.com/documentation/websites/rtp-js-api/) for full documentation.
+New RTP API call to get real-time visitor data such as organization, industry, location and segment code match. In addition, hovering over a segment name in the Segments page will reveal a tooltip showing the segment code. See our [developers site](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) for full documentation.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
 ## RTP: HTML5 support in Campaign Content Editor {#rtp-html-support-in-campaign-content-editor}
 
-The content WYSIWYG editor in the Set Campaigns page now has full HTML5 compatibility. Click on the “HTML” icon within the editor to insert any HTML5 code.
+The content WYSIWYG editor in the Set Campaigns page now has full HTML5 compatibility. Click on the "HTML" icon within the editor to insert any HTML5 code.

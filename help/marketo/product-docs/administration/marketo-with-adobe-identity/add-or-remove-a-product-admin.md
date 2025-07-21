@@ -2,6 +2,7 @@
 description: Add or Remove a Product Admin - Marketo Docs - Product Documentation
 title: Add or Remove a Product Admin
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
+feature: Marketo with Adobe Identity
 ---
 # Add or Remove a Product Admin {#add-or-remove-a-product-admin}
 
@@ -15,7 +16,7 @@ exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 >
 >An Admin must be added to a product profile in order to get access to Marketo Engage.
 
-1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
@@ -63,7 +64,7 @@ The user will then receive two emails. The first email notifies them they've bee
 
 ## Remove an Admin {#remove-a-user}
 
-1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 

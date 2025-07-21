@@ -3,6 +3,7 @@ unique-page-id: 6848922
 description: Download the Marketo Lead Management Solution - Marketo Docs - Product Documentation
 title: Download the Marketo Lead Management Solution
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
+feature: Microsoft Dynamics
 ---
 # Download the Marketo Lead Management Solution {#download-the-marketo-lead-management-solution}
 
@@ -14,7 +15,7 @@ You will need to download and install a Marketo Solution into your [!DNL Microso
 
 >[!CAUTION]
 >
->It is imperative you download the latest Marketo Solution _before_ performing any upgrade.
+>It's imperative you download the latest Marketo Solution _before_ performing any upgrade.
 
 >[!NOTE]
 >
@@ -24,11 +25,11 @@ You will need to download and install a Marketo Solution into your [!DNL Microso
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 
-1. Click on **CRM**.
+1. Click on **[!UICONTROL CRM]**.
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. Select **Microsoft**.
+1. Select **[!DNL Microsoft]**.
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 

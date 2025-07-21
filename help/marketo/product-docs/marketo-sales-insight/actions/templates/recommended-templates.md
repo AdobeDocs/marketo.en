@@ -2,6 +2,7 @@
 description: Recommended Templates - Marketo Docs - Product Documentation
 title: Recommended Templates
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
+feature: Sales Insight Actions
 ---
 # Recommended Templates {#recommended-templates}
 

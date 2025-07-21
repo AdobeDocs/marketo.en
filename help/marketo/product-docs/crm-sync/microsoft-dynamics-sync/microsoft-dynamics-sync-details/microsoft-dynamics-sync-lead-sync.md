@@ -3,6 +3,7 @@ unique-page-id: 3571848
 description: Microsoft Dynamics Sync -Lead Sync - Marketo Docs - Product Documentation
 title: Microsoft Dynamics Sync -Lead Sync
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
+feature: Microsoft Dynamics
 ---
 # [!DNL Microsoft Dynamics] Sync: Lead Sync {#microsoft-dynamics-sync-lead-sync}
 
@@ -14,7 +15,7 @@ The sync is bi-directional. If you make changes to either a lead in [!DNL Dynami
 
 >[!NOTE]
 >
->Deletes do not always sync in both directions automatically. See [Deleting a Lead or Contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md).
+>Deletes do not always sync in both directions automatically. See [Deleting a Lead or Contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md){target="_blank"}.
 
 ## What if changes are made to the same field in both systems at the same time? (Data Collision) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
@@ -34,7 +35,7 @@ No, the automated background sync is the only way to sync updates between Market
 
 ## What fields will sync to Marketo? {#what-fields-will-sync-to-marketo}
 
-You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) during setup.
+You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} during setup.
 
 ## Will Marketo respect the [!DNL Dynamics] validation rules? {#will-marketo-respect-the-dynamics-validation-rules}
 

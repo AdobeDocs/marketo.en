@@ -2,6 +2,7 @@
 description: Sales Insight Actions Activity Glossary - Marketo Docs - Product Documentation
 title: Sales Insight Actions Activity Glossary
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
+feature: Sales Insight Actions
 ---
 # [!DNL Sales Insight Actions] Activity Glossary {#sales-insight-actions-activity-glossary}
 
@@ -188,6 +189,22 @@ The activities below will be logged to Marketo from [!DNL Sales Insight Actions]
  </tr>
  <tr>
   <td>[!UICONTROL Sales Campaign ID]</td>
+ </tr>
+ <tr>
+  <th rowspan="5">Sales Email Bounce</th>
+  <td>Details</td>
+ </tr>
+ <tr>
+  <td>Email</td>
+ </tr>
+ <tr>
+  <td>Sent By</td>
+ </tr>
+ <tr>
+  <td>Marketo Sales Person ID</td>
+ </tr>
+ <tr>
+  <td>Template ID</td>
  </tr>
 </table>
 

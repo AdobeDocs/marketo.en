@@ -2,6 +2,7 @@
 description: "Step 1 of 3 - Add Marketo Fields to [!DNL Veeva] CRM - Marketo Docs - Product Documentation"
 title: "Step 1 of 3 - Add Marketo Fields to [!DNL Veeva] CRM"
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
+feature: Veeva CRM
 ---
 # Step 1 of 3: Add Marketo Fields to [!DNL Veeva] CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
@@ -31,11 +32,11 @@ Perform the following steps for the Score field to add it.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
-1. In the search bar, search for Contact.
+1. In the search bar, search for "Contact."
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. Click the Contact object.
+1. Click the **[!UICONTROL Contact]** object.
 
 1. Select **[!UICONTROL Fields and Relationships]**.
 
@@ -43,7 +44,7 @@ Perform the following steps for the Score field to add it.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
-1. Choose the appropriate field type (for Score — number).
+1. Choose the appropriate field type (for Score - number).
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
@@ -79,7 +80,7 @@ Decimal Places 0</td>
 
 >[!NOTE]
 >
->Text and number fields require a length, but Date/Time fields don’t. A description is optional.
+>Text and number fields require a length, but Date/Time fields don't. A description is optional.
 
 1. Click **[!UICONTROL Next]**.
 
@@ -100,7 +101,7 @@ Decimal Places 0</td>
 
 1. Click **[!UICONTROL Save & New]** to go back and create each of the other two custom fields.
 
-1. Click **[!UICONTROL Save]** when you’re done with all three.
+1. Click **[!UICONTROL Save]** when you're done with all three.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 

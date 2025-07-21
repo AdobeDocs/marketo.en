@@ -3,6 +3,7 @@ unique-page-id: 1147358
 description: Add a Snippet to an Email - Marketo Docs - Product Documentation
 title: Add a Snippet to an Email
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
+feature: Email Editor
 ---
 # Add a Snippet to an Email {#add-a-snippet-to-an-email}
 
@@ -36,6 +37,6 @@ Snippets are reusable blocks of rich text and graphics that you can use in your 
 
    >[!NOTE]
    >
-   >Each time you update and approve your snippet, the changes will be reflected in the email. The email will be drafted unless you approve the snippet with [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
+   >Each time you update and approve your snippet, the changes will be reflected in the email. The email will be drafted unless you approve the snippet with [No-Draft](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
 
 This is a quick and easy way to re-use dynamic content.

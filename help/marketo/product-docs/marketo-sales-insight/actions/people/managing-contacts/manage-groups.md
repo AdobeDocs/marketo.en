@@ -2,6 +2,7 @@
 description: Manage Groups - Marketo Docs - Product Documentation
 title: Manage Groups
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
+feature: Sales Insight Actions
 ---
 # Manage Groups {#manage-groups}
 
@@ -60,11 +61,7 @@ Learn how to manage your groups in [!DNL Sales Insight Actions].
 
    ![](assets/manage-groups-4.png)
 
-   >[!NOTE]
-   >
-   >This will add one contact at a time. To add multiple contacts at the same time, follow [these steps](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
-
-1. Fill out the contact's information and click **[!UICONTROL Create]** (or **[!UICONTROL Create and Add New]** to add another).
+1. Fill out the contact's information and click **Create** (or **Create and Add New** to add another).
 
    ![](assets/manage-groups-5.png)
 

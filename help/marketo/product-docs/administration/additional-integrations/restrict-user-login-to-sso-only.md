@@ -3,6 +3,7 @@ unique-page-id: 2360358
 description: Restrict User Login to SSO Only - Marketo Docs - Product Documentation
 title: Restrict User Login to SSO Only
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
+feature: Administration
 ---
 # Restrict User Login to SSO Only {#restrict-user-login-to-sso-only}
 
@@ -38,7 +39,7 @@ If you're [using SSO](/help/marketo/product-docs/administration/additional-integ
 
 >[!TIP]
 >
->If you select **[!UICONTROL Require SSO]**, you can exclude a [user role](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) from this restriction by checking the **[!UICONTROL Bypass Single Sign-On]** option while setting up the role. This will allow users to sign in normally. For example, Admin users may still need to log into Marketo through the login screen.
+>If you select **[!UICONTROL Require SSO]**, you can exclude a [user role](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) from this restriction by checking the **[!UICONTROL Bypass Single Sign-On]** option while setting up the role. This will allow users to sign in normally. For example, Admin users may still need to log into Marketo through the login screen. If both SSO and Universal ID are enabled, you must have the "Bypass Single Signed On" permission set to toggle between subscriptions.
 
 >[!CAUTION]
 >

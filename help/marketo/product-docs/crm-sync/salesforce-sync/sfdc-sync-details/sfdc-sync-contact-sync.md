@@ -3,6 +3,7 @@ unique-page-id: 2953457
 description: SFDC Sync - Contact Sync - Marketo Docs - Product Documentation
 title: SFDC Sync - Contact Sync
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
+feature: Salesforce Integration
 ---
 # SFDC Sync: Contact Sync {#sfdc-sync-contact-sync}
 
@@ -18,7 +19,7 @@ We are nice and let [!DNL Salesforce] win. It's rare that this sort of collision
 
 ## Can I convert a person into a contact in Marketo? {#can-i-convert-a-person-into-a-contact-in-marketo}
 
-Yes, use the **[Convert Person](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)** flow action.
+Yes, use the **[Convert Person](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"}** flow action.
 
 >[!CAUTION]
 >
@@ -26,7 +27,7 @@ Yes, use the **[Convert Person](/help/marketo/product-docs/core-marketo-concepts
 
 ## Can I manually force a sync of a contact? {#can-i-manually-force-a-sync-of-a-contact}
 
-Yes, use the **[Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** flow action and it will sync in real-time.
+Yes, use the **[Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}** flow action and it will sync in real-time.
 
 ## Does every single standard field sync to Marketo? {#does-every-single-standard-field-sync-to-marketo}
 

@@ -1,23 +1,20 @@
 ---
-description: "[!DNL Dynamic Chat] Overview - Marketo Docs - Product Documentation"
-title: "[!DNL Dynamic Chat] Overview"
+description: Dynamic Chat Overview - Marketo Docs - Product Documentation
+title: Dynamic Chat Overview
+feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 ---
 # [!DNL Dynamic Chat] Overview {#dynamic-chat-overview}
 
-[!DNL Dynamic Chat] allows you to leverage an easy-to-use interface to target both people and accounts visiting your website. Collect relevant content such as name, contact information, and free text. Site visitors can also book meetings with your Sales Team. [!DNL Dynamic Chat] activity and engagement data can be used to add members to Marketo programs and trigger cross-channel activities.
-
-   >[!NOTE]
-   >
-   >[!DNL Dynamic Chat] is in the process of being rolled out gradually and is currently in limited availability. This page will be updated with general availability (GA) details as they become available.
+Dynamic Chat allows you to leverage an easy-to-use interface to target both people and accounts visiting your website. Collect relevant content such as name, contact information, and free text. Site visitors can also chat with a live agent and even book meetings with your Sales Team. Dynamic Chat activity and engagement data can be used to add members to Marketo programs and trigger cross-channel activities.
 
    >[!TIP]
    >
-   >Visit [this page](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) to view tutorial videos of [!DNL Dynamic Chat].
+   >Visit [this page](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} to view tutorial videos of Dynamic Chat.
 
 ## Integrations {#integrations}
 
-A key component of [!DNL Dynamic Chat] is its ability to natively interface with your Marketo subscription. In order to leverage the full capability of this integration, you'll first need to initiate the data sync. Depending on the size of your Marketo database, it may take up to 24 hours for data for the initial, [one-time sync](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) to complete.
+A key component of Dynamic Chat is its ability to natively interface with your Marketo subscription. In order to leverage the full capability of this integration, you'll first need to initiate the data sync. Depending on the size of your Marketo database, it may take up to 24 hours for data for the initial, [one-time sync](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} to complete.
 
 The following is synced:
 
@@ -27,53 +24,39 @@ The following is synced:
 
 ## Dialogues {#dialogues}
 
-Dialogues represent a single chat engagement. Think of it as a container with all the stuff you need to have an engaging chat dialogue to your website visitors. In each Dialogue, you can specify which page(s) you'd like the Dialogue to appear on, to whom you'd like it to be shown to, and the content and flow of the Dialogue itself. Additionally, you can find metrics to see how well your Dialogue is performing. [Learn more about Dialogues](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
+Dialogues represent a single chat engagement. Think of it as a container with all the stuff you need to have an engaging chat dialogue to your website visitors. In each Dialogue, you can specify which page(s) you'd like the Dialogue to appear on, to whom you'd like it to be shown to, and the content and flow of the Dialogue itself. Additionally, you can find metrics to see how well your Dialogue is performing. [Learn more about Dialogues](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md){target="_blank"}.
 
 ## Configuration {#configuration}
 
-In the Configuration tab, customize the look and feel of your various Dialogues. Change font, colors, response time, and more! [Learn more about Configuration](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
+In the Configuration tab, customize the look and feel of your various Dialogues. Change font, colors, response time, and more! [Learn more about Configuration](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md){target="_blank"}.
 
 ## Calendar {#calendar}
 
-Connect your [!DNL Outlook] or [!DNL Gmail] calendar for use in appointment scheduling in the chatbot. [Learn more about Calendar](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
+Connect your Outlook or Gmail calendar for use in appointment scheduling in the chatbot. [Learn more about Calendar](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#connect-calendar){target="_blank"}
 
 ## Meetings {#meetings}
 
-This is where you'll see all of the appointments that have been scheduled by website visitors through your various Dialogues. [Learn more about Meetings](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
+This is where you'll see all of the appointments that have been scheduled by website visitors through your various Dialogues. [Learn more about Meetings](/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md){target="_blank"}
 
 ## Routing {#routing}
 
-This is where you can see a list of all the agents that have connected their calendars, what order they'll be presented to website visitors, and create custom routing rules. [Learn more about Routing](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+This is where you can see a list of all the agents that have connected their calendars, what order they'll be presented to website visitors, and create custom routing rules. [Learn more about Routing](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md){target="_blank"}
 
-## FAQ {#faq}
+## Live Chat {#live-chat}
 
-**Can I install [!DNL Dynamic Chat] anywhere on my company website or does it only work on Marketo landing pages?**
+Offer your qualified web visitors to connect with your sales representatives via [live chat](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
 
-The [!DNL Dynamic Chat] JavaScript snippet can be installed on any website as well as Marketo landing pages.
+## Conversational Flow {#conversational-flow}
 
-**How long is data stored for reporting?**
+[Design a conversation](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} that can be triggered by a visitor based on an action you designate (e.g., filling out a form, clicking a link, etc.).
 
-90 days (see the full list of limits [below](#limits-in-dynamic-chat)).
+## Generative AI {#generative-ai}
 
-**Does [!DNL Dynamic Chat] allow for live chat?**
-
-No, it only utilizes pre-determined responses.
-
-**Does [!DNL Dynamic Chat] support any languages besides English?**
-
-Yes. [!DNL Dynamic Chat] supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. Learn more in the [section below](#changing-the-language).
-
-**Do you support AI/NLP functionality?**
-
-We do not support AI/NLP functionality.
-
-**How can I target anonymous people?**
-
-In your dialogue, you would need to use the _Person Email is Empty_ attribute.
+[Generative AI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} in Adobe Dynamic Chat processes intent signals, user preferences, and past behavior in real time to generate relevant, personalized messages for chat visitors.
 
 ## Changing the Language {#changing-the-language}
 
-Follow these steps to change your [!DNL Dynamic Chat] language.
+Follow the steps below to change your Dynamic Chat language.
 
 >[!IMPORTANT]
 >
@@ -97,80 +80,35 @@ Follow these steps to change your [!DNL Dynamic Chat] language.
 
 When you update the language, everything in the app itself changes except for the words you've personally populated (e.g., stream responses).
 
-## Limits in [!DNL Dynamic Chat] {#limits-in-dynamic-chat}
+## Dynamic Chat Data Retention Limits {#dynamic-chat-data-retention-limits}
+
+Below are just some of the limits/parameters within Dynamic Chat. For a complete list, please see the Marketo Engage [Product Description page](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 <table>
-  <th>Parameter</th>
-  <th>Description</th>
-  <th>Limit</th>
+  <th>Data Type</th>
+  <th>Retention Period</th>
  <tr>
-  <td>Total Dialogues</td>
-  <td>Total number of Dialogues (published and draft)</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Published Dialogues</td>
-  <td>Number of published Dialogues saved</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>Target URLs per Dialogue</td>
-  <td>Number of Target URLs that can be added to a single Dialogue</td>
-  <td>20</td>
- </tr>
- <tr>
-  <td>Attributes per Dialogue</td>
-  <td>Number of attributes that can be added to audience criteria for a single Dialogue</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>Groups</td>
-  <td>Number of groups that can be added to a single Dialogue</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Attributes per Group</td>
-  <td>Number of attributes that can be added to a group</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Cards</td>
-  <td>Number of cards that can be added to the canvas per Dialogue</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Anonymous Lead Data Retention Period</td>
-  <td>Duration for how long information of an anonymous lead without any engagement will be retained</td>
+  <td>Anonymous Lead Without Any Engagement</td>
   <td>90 days</td>
  </tr>
  <tr>
-  <td>Goal Activity Retention Period</td>
-  <td>Amount of time goal activity data is retained</td>
+  <td>Goal Activity</td>
   <td>24 months</td>
  </tr>
  <tr>
-  <td>Document Activity Retention Period</td>
-  <td>Amount of time document activity data is retained</td>
+  <td>Document Activity</td>
   <td>24 months</td>
  </tr>
  <tr>
-  <td>Interacted w/ Dialogue Activity Retention Period</td>
-  <td>Amount of time interacted with Dialogue activity data is retained</td>
+  <td>Interacted with Dialogue Activity</td>
   <td>90 days</td>
  </tr>
  <tr>
-  <td>Meeting Booking Activity Retention Period</td>
-  <td>Amount of time meeting booking activity will be stored in [!DNL Dynamic Chat]</td>
+  <td>Meeting Booking Activity</td>
   <td>24 months</td>
- </tr>
- <tr>
-  <td>Conversations Engaged</td>
-  <td>Number of chat conversations that can be engaged with by web visitors per day</td>
-  <td>1,000</td>
- </tr>
- <tr>
-  <td>Conversations Triggered</td>
-  <td>Number of chat conversations that can be shown to web visitors per day</td>
-  <td>25,000</td>
  </tr>
 </table>
+
+## FAQ {#faq}
+
+Please see the [Dynamic Chat FAQ](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.

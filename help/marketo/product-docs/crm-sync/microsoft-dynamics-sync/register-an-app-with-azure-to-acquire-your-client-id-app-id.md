@@ -3,6 +3,7 @@ unique-page-id: 12983390
 description: Register an App with Azure to Acquire Your Client ID/App ID - Marketo Docs - Product Documentation
 title: Register an App with Azure to Acquire Your Client ID/App ID
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
+feature: Microsoft Dynamics
 ---
 # Register an App with Azure to Acquire Your Client ID/App ID {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
@@ -10,7 +11,7 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
 
 ## Registering a New App {#registering-a-new-app}
 
-1. [Log in](https://login.microsoftonline.com/){target="_blank"} to the Microsoft Azure management portal using an account with admin permissions. You can also access the Microsoft Azure portal through the Office 365 Admin Center by expanding the **Admin** item in the left navigation pane and selecting **Azure AD**.
+1. [Log in](https://login.microsoftonline.com/){target="_blank"} to the Microsoft Azure management portal using an account with admin permissions. You can also access the Microsoft Azure portal through the Office 365 Admin Center by expanding the **[!UICONTROL Admin]** item in the left navigation pane and selecting **[!UICONTROL Azure AD]**.
 
    >[!CAUTION]
    >
@@ -18,7 +19,7 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
 
    >[!NOTE]
    >
-   >If you don’t have an Azure account, you can [sign up](https://azure.microsoft.com/en-us/free/){target="_blank"} for one. Please refer to Microsoft's documentation or reach out to your Microsoft representative for more information. Once you've created an Azure account, you can register one or more apps using the procedure outlined below.
+   >If you don't have an Azure account, you can [sign up](https://azure.microsoft.com/en-us/free/){target="_blank"} for one. Please refer to Microsoft's documentation or reach out to your Microsoft representative for more information. Once you've created an Azure account, you can register one or more apps using the procedure outlined below.
    >
    >
    >If you have an Azure account but your [!DNL Office 365] subscription with [!DNL Microsoft Dynamics 365] isn't available in your Azure subscription, follow [these instructions](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} to associate the two accounts.

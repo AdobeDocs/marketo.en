@@ -3,6 +3,7 @@ unique-page-id: 11382122
 description: Enable Audit Trail - Marketo Docs - Product Documentation
 title: Enable Audit Trail
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
+feature: Audit Trail
 ---
 # Enable Audit Trail {#enable-audit-trail}
 
@@ -38,9 +39,9 @@ Audit Trail is available to all customers and controlled by two admin permission
    >
    >**Definition**
    >
-   >**[!UICONTROL Access Audit Trail]:** Gives users access to both [!UICONTROL Asset Audit Trail] and [!UICONTROL Admin Audit Trail].
+   >**[!UICONTROL Access Audit Trail]**: Gives users access to both [!UICONTROL Asset Audit Trail] and [!UICONTROL Admin Audit Trail].
    >
-   >**[!UICONTROL Access Login History]:** Gives users access to [User Login History](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
+   >**[!UICONTROL Access Login History]**: Gives users access to [User Login History](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
 
 ## Assign Audit Trail Role to a User {#assign-audit-trail-role-to-a-user}
 

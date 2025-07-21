@@ -3,6 +3,7 @@ unique-page-id: 1900577
 description: Create an Email Script Token - Marketo Docs - Product Documentation
 title: Create an Email Script Token
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
+feature: Tokens
 ---
 # Create an Email Script Token {#create-an-email-script-token}
 
@@ -42,7 +43,7 @@ For advanced developers, you can use [Velocity scripts](https://velocity.apache.
 
 1. Write your script in Velocity. Here are some useful resources:
 
-    * [Marketo Developers Email Scripting Documentation](https://developers.marketo.com/email-scripting/)
+    * [Marketo Developers Email Scripting Documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
     * [Velocity User Guide](https://velocity.apache.org/engine/devel/user-guide.html)
     * [Velocity Reference Guide](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
     * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

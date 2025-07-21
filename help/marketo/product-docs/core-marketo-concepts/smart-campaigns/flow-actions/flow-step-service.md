@@ -2,6 +2,7 @@
 description: Flow Step Service - Marketo Docs - Product Documentation
 title: Flow Step Service
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
+feature: Smart Campaigns
 ---
 # Flow Step Service {#flow-step-service}
 
@@ -9,7 +10,7 @@ Self-service Flow Steps is a framework and set of features for authoring, publis
 
 ## Onboarding and Managing Services {#onboarding-and-managing-services}
 
-Installing a custom flow step requires Admin permissions in Marketo (**Manage Webhooks** in the Jan 21st release, Changing in the March 11th release). Apart from the Installation URL, all other aspects of a serviced may be edited after completing initial onboarding by drilling down into the service detail screen from the Service Providers grid.
+Installing a custom flow step requires Admin permissions in Marketo. Apart from the Installation URL, all other aspects of a serviced may be edited after completing initial onboarding by drilling down into the service detail screen from the Service Providers grid.
 
 ## Installation URL {#installation-url}
 
@@ -23,11 +24,11 @@ Click **[!UICONTROL Next]** to go to the Enter Service Credentials section.
 
 To access the service being installed, Marketo must have valid API credentials. These credentials should be provided to you by your service provider. Services have three different authentication options, so you may see one of three different prompts for credentials: **API Key** which has only one input field, **Basic Authentication** which requires a username and password and may also require a field called Realm, and **OAuth2** using the _Client Credentials_ grant, which requires a _Client ID_ and _Client Secret_.
 
->[!NOTE]
->
->OAuth2 will not be available until the March 11th release.
-
 When you save your credentials, Marketo will attempt to call the status endpoint of the service to verify that they are valid. If the credentials provided are invalid, you'll see an error indicating this.
+
+>[!CAUTION]
+>
+>If a Service Provider is created and deleted, you won't be able to reuse its Service Provider, API, Trigger, or Filter name going forward. 
 
 ## Onboarding Guide (Optional) {#onboarding-guide}
 

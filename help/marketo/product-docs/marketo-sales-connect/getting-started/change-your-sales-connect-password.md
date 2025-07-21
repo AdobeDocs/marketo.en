@@ -2,6 +2,7 @@
 description: Change Your Sales Connect Password - Marketo Docs - Product Documentation
 title: Change Your Sales Connect Password
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
+feature: Marketo Sales Connect
 ---
 # Change Your Sales Connect Password {#change-your-sales-connect-password}
 

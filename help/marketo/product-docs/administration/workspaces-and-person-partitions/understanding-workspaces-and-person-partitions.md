@@ -3,6 +3,7 @@ unique-page-id: 2360309
 description: Understanding Workspaces and Person Partitions - Marketo Docs - Product Documentation
 title: Understanding Workspaces and Person Partitions
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
+feature: Partitions, Workspaces
 ---
 # Understanding Workspaces and Person Partitions {#understanding-workspaces-and-person-partitions}
 
@@ -37,25 +38,29 @@ Here's how to share assets across workspaces. It works the same for anything you
 >
 >The parent folder containing your assets is the only folder that can be shared, not the children folders.
 
-1. Create a new folder.
+1. Click **[!UICONTROL Database]**.
 
-   ![](assets/one.png)
+   ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Name the folder you're going to share.
+1. Right-click on the Segmentation folder and click **[!UICONTROL New Folder]**.
 
-   ![](assets/two.png)
+   ![](assets/understanding-workspaces-and-person-partitions-2.png)
+
+1. Name your folder and click **[!UICONTROL Create]**.
+
+   ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
 1. Move the asset(s) you want to share into the folder.
 
-   ![](assets/three.png)
+   ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
 1. Right-click the folder and select **[!UICONTROL Share Folder]**.
 
-   ![](assets/four.png)
+   ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. Select the workspace(s) you want to share the folder with and click **[!UICONTROL Save]**. The **[!UICONTROL Share Folder]** dialog box will only display workspaces you have permission to view.
+1. Select the workspace(s) you want to share the folder with and click **[!UICONTROL Save]**. The Share Folder dialog box will only display workspaces you have permission to view.
 
-   ![](assets/image2015-5-27-11-3a6-3a40.png)
+   ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
    >[!NOTE]
    >
@@ -73,12 +78,16 @@ You can share these items across workspaces.
 
 ## Cloning across Workspaces {#cloning-across-workspaces}
 
-For assets that aren't templates, its best to clone them as local assets inside of a program.  With the proper access level, you can drag and drop these assets into another workspace:
+For assets that aren't templates, it's best to clone them as local assets inside of a program. With the proper access level, you can drag and drop these assets into another workspace:
 
 * Programs
 * Emails
 * Landing Pages
 * Forms
+
+>[!IMPORTANT]
+>
+>While all of the items listed above can be cloned across Workspaces, emails, forms, and Landing Pages _must be inside a program_ at the time of cloning.
 
 >[!NOTE]
 >

@@ -3,6 +3,7 @@ unique-page-id: 1147100
 description: Navigating the Program Schedule View - Marketo Docs - Product Documentation
 title: Navigating the Program Schedule View
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
+feature: Programs
 ---
 # Navigating the Program Schedule View {#navigating-the-program-schedule-view}
 
@@ -58,4 +59,4 @@ Great! Now that you know how to view your program, let's learn the other cool th
 
 >[!MORELIKETHIS]
 >
->[Creating an Entry in the Program Schedule View](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
+>[Creating an Entry in the Program Schedule View](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}

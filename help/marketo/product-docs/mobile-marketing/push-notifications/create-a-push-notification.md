@@ -3,6 +3,7 @@ unique-page-id: 7512451
 description: Create a Push Notification - Marketo Docs - Product Documentation
 title: Create a Push Notification
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
+feature: Mobile Marketing
 ---
 # Create a Push Notification {#create-a-push-notification}
 

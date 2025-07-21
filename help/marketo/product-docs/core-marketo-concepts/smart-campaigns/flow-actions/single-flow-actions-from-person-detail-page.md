@@ -4,6 +4,7 @@ title: Single Flow Actions from Person Detail Page
 hide: yes
 hidefromtoc: yes
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
+feature: Smart Campaigns
 ---
 # Single Flow Actions from Person Detail Page {#single-flow-actions-from-person-detail-page}
 
@@ -17,7 +18,7 @@ In addition to running single flow actions from within a Smart List, you can als
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Click the **[!UICONTROL Person Actions]** drop-down and select the flow step of your choice. In this example we'll use [[!UICONTROL Send Email]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
+1. Click the **[!UICONTROL Person Actions]** drop-down and select the flow step of your choice. In this example we'll use [Send Email](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
@@ -27,4 +28,4 @@ In addition to running single flow actions from within a Smart List, you can als
 
 >[!NOTE]
 >
->If your instance contains Workspaces/Partitions and you navigate to a Person Detail page directly (i.e., via link) instead of coming from a page/asset tied to a Workspace, you'll have to also choose a Workspace in Step 4.
+>If your instance contains Workspaces/Partitions and you navigate to a Person Detail page directly (e.g., via link) instead of coming from a page/asset tied to a Workspace, you'll have to also choose a Workspace in Step 4.

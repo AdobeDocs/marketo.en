@@ -3,27 +3,24 @@ unique-page-id: 1147029
 description: Change Status in SFDC Campaign - Marketo Docs - Product Documentation
 title: Change Status in SFDC Campaign
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
+feature: Smart Campaigns, Salesforce Integration
 ---
 # Change Status in SFDC Campaign {#change-status-in-sfdc-campaign}
+
+This flow step allows you to change the Salesforce campaign member status of leads.
 
 >[!NOTE]
 >
 >Only available when integrated with [!DNL Salesforce].
 
-## Overview {#overview}
+If a lead does not exist in Salesforce or is not a member of the campaign yet, it will automatically be synced and added to the Salesforce campaign with the appropriate status.
 
-This flow step allows you to change the [!DNL Salesforce] campaign member status of leads.
+![](assets/change-status-in-sfdc-campaign-1.png)
 
-If a lead does not exist in [!DNL Salesforce] or is not a member of the campaign yet, it will automatically be synced and added to the [!DNL Salesforce] campaign with the appropriate status.
+1. First find and select the Salesforce **[!UICONTROL Campaign]** the record is in.
 
-![](assets/image2014-9-22-15-3a13-3a54.png)
+   ![](assets/change-status-in-sfdc-campaign-2.png)
 
-## Usage {#usage}
+1. Then select the **[!UICONTROL New Status]** you want to set, and you're done!
 
-1. First find and select the [!DNL Salesforce] **[!UICONTROL Campaign]** the record is in.
-
-   ![](assets/image2014-9-22-15-3a13-3a58.png)
-
-1. Then select the **[!UICONTROL New Status]** you want to set and you're done!
-
-   ![](assets/image2014-9-22-15-3a14-3a0.png)
+   ![](assets/change-status-in-sfdc-campaign-3.png)

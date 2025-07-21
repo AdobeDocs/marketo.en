@@ -3,12 +3,13 @@ unique-page-id: 2360352
 description: Configuring Your SOAP API Settings - Marketo Docs - Product Documentation
 title: Configuring Your SOAP API Settings
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
+feature: Administration
 ---
 # Configuring Your SOAP API Settings {#configuring-your-soap-api-settings}
 
 >[!NOTE]
 >
->We suggest using the REST API. Learn more on [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+>We suggest using the REST API. Learn more on [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >
@@ -32,4 +33,4 @@ exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 
 >[!MORELIKETHIS]
 >
->[SOAP API Documentation](https://developers.marketo.com/documentation/soap/)
+>[SOAP API Documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

@@ -3,6 +3,7 @@ unique-page-id: 7504676
 description: Understanding Period Costs - Marketo Docs - Product Documentation
 title: Understanding Period Costs
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
+feature: Programs
 ---
 # Understanding Period Costs {#understanding-period-costs}
 
@@ -16,7 +17,7 @@ Period costs refer to the money you spend in a specific month on a program.
 >
 >If you spend $1000 to hire an illustrator for an [!DNL eBook] that launches in July - the [!DNL eBook] program would have a period cost of $1000 in July.
 >
->If you spend $200 per month on [!DNL Google Adwords] - the [!DNL Google Adwords] program would have a period cost of $200 **every month**.
+>If you spend $200 per month on [!DNL Google Adwords] - the [!DNL Google Adwords] program would have a period cost of $200 _every month_.
 
 >[!NOTE]
 >

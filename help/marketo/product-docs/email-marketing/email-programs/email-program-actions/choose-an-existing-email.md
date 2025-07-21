@@ -3,6 +3,7 @@ unique-page-id: 2359451
 description: Choose an Existing Email - Marketo Docs - Product Documentation
 title: Choose an Existing Email
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
+feature: Email Programs
 ---
 # Choose an Existing Email {#choose-an-existing-email}
 
@@ -10,6 +11,10 @@ exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 >
 >* [Create an Email Program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Define an Audience with a Smart List](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) or [Define an Audience by Importing a List](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+
+>[!CAUTION]
+>
+>For accurate reporting, avoid _reusing_ an email from an email program, either by referencing it in a Smart Campaign or by moving the asset from the launched email program to a new one. Doing so will aggregate all of the data in every reporting dashboard attached to that email. If you need to reuse an email, please [clone it](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} instead, as that copies the email but creates a new one with a new email ID.
 
 Once you've [created an email program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) and defined your audience, you will want to decide what email you're sending. You can [create an email for an email program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) from scratch or pick one that already exists. Here's how to pick one that already exists.
 

@@ -3,6 +3,7 @@ unique-page-id: 7504130
 description: Create a Custom Goal - Marketo Docs - Product Documentation
 title: Create a Custom Goal
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
+feature: Marketing Calendar
 ---
 # Create a Custom Goal {#create-a-custom-goal}
 
@@ -30,11 +31,11 @@ Like presentations, goals are [workspace](/help/marketo/product-docs/administrat
 
    >[!NOTE]
    >
-   >If the goal is not a monetary value you can select **[!UICONTROL None (Number)]**.
+   >If the goal is not a monetary value you can select **[!UICONTROL None]**.
 
    ![](assets/image2015-3-24-12-3a36-3a0.png)
 
-1. Enter a value for the **[!UICONTROL Goal Target]** and the **[!UICONTROL Current Value]** (if there isn't one, **enter 0**). Then click **[!UICONTROL Create]**.
+1. Enter a value for the **[!UICONTROL Goal Target]** and the **[!UICONTROL Current Value]** (if there isn't one, enter **0**). Then click **[!UICONTROL Create]**.
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 

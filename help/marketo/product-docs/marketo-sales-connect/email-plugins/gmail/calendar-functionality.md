@@ -3,6 +3,7 @@ unique-page-id: 14352443
 description: Calendar Functionality - Marketo Docs - Product Documentation
 title: Calendar Functionality
 exl-id: 15d127a8-ed9a-4e87-b41e-0126a38ec2b8
+feature: Marketo Sales Connect
 ---
 # Calendar Functionality {#calendar-functionality}
 

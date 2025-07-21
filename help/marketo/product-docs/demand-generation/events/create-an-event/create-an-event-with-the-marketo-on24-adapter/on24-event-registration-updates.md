@@ -3,6 +3,7 @@ unique-page-id: 10096683
 description: ON24 Event Registration Updates - Marketo Docs - Product Documentation
 title: ON24 Event Registration Updates
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
+feature: Events
 ---
 # ON24 Event Registration Updates {#on-event-registration-updates}
 

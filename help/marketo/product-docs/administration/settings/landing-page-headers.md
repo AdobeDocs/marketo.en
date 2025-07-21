@@ -2,6 +2,7 @@
 description: Landing Page Headers - Marketo Docs - Product Documentation
 title: Landing Page Headers
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
+feature: Administration, Landing Pages
 ---
 # Landing Page Headers {#landing-page-headers}
 
@@ -15,7 +16,7 @@ Follow the steps below to customize some of the HTTP headers on your Landing Pag
 
    ![](assets/landing-page-headers-2.png)
 
-1. Click **[!UICONTROL Edit]** next to [!UICONTROL Landing Page HTTP Headers].
+1. Click **[!UICONTROL Edit]** next to Landing Page HTTP Headers.
 
    ![](assets/landing-page-headers-3.png)
 

@@ -3,6 +3,7 @@ unique-page-id: 2360354
 description: "Add [!DNL Munchkin] Tracking Code to Your Website - Marketo Docs - Product Documentation"
 title: "Add [!DNL Munchkin] Tracking Code to Your Website"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
+feature: Administration, Munchkin Tracking Code
 ---
 # Add [!DNL Munchkin] Tracking Code to Your Website {#add-munchkin-tracking-code-to-your-website}
 
@@ -16,7 +17,7 @@ Marketo's custom JavaScript tracking code, called [!DNL Munchkin], tracks all in
 
 >[!NOTE]
 >
->Adobe Experience Cloud customers can also use Marketo's integration in Adobe Launch to include [!DNL Munchkin] script on their web pages. Get the app [here](https://www.adobeexchange.com/experiencecloud.details.101054.html).
+>Adobe Experience Cloud users can also use the [Marketo integration in Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} to include [!DNL Munchkin] script on their web pages. If you use Adobe Launch, _the [!DNL Munchkin] script gets added automatically_, so you would not need to add it yourself.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -52,7 +53,7 @@ Marketo's custom JavaScript tracking code, called [!DNL Munchkin], tracks all in
 
    >[!TIP]
    >
-   >For sites that see a high volume of traffic (i.e., hundreds of thousands of visits per month), we recommend you opt not to track anonymous people. [Learn more](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
+   >For sites that see a high volume of traffic (i.e., hundreds of thousands of visits per month), we recommend you opt not to track anonymous people. [Learn more](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Add Tracking Code When Using Multiple Workspaces {#add-tracking-code-when-using-multiple-workspaces}
 
@@ -120,7 +121,7 @@ To check that your [!DNL Munchkin] code is working after you've added it:
 
    ![](assets/add-munchkin-tracking-code-to-your-website-13.png)
 
-1. Click the **[!UICONTROL Setup]** tab, double-click **[!UICONTROL Activity Source]**. 
+1. Click the **[!UICONTROL Setup]** tab, double-click **[!UICONTROL Activity Source]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-14.png)
 

@@ -3,6 +3,7 @@ unique-page-id: 4718670
 description: Using Revenue Model Gate Stages - Marketo Docs - Product Documentation
 title: Using Revenue Model Gate Stages
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Using Revenue Model Gate Stages {#using-revenue-model-gate-stages}
 

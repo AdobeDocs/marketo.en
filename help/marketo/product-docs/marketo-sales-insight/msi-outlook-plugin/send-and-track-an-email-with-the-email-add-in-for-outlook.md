@@ -3,6 +3,7 @@ unique-page-id: 2949716
 description: Send and Track an Email with the Email Add-In for [!DNL Outlook] - Marketo Docs - Product Documentation
 title: "Send and Track an Email with the Email Add-In for [!DNL Outlook]"
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
+feature: Marketo Sales Insights
 ---
 # Send and Track an Email with the Email Add-In for [!DNL Outlook] {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
@@ -12,7 +13,11 @@ You can send and track emails with Marketo directly from [!DNL Outlook].
 >
 >If you haven't yet, install the [Marketo email add-in for [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
-1. Open [!DNL Microsoft Outlook] and create a new email.
+>[!NOTE]
+>
+>Sales Insight Actions capabilities, including Send Sales Email, Add to Sales Campaign, and Tasks, are not available in the Sales Insight email plugins for Gmail and Outlook. At this time, users only have the ability to send a trackable email with or without a Marketo email template from their email client when using the Sales Insight email plugins.
+
+1. Open Microsoft Outlook and create a new email.
 
    ![](assets/image2014-9-23-16-3a6-3a46.png)
 

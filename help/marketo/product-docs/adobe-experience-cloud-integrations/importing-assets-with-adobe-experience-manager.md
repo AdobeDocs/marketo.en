@@ -3,14 +3,15 @@ unique-page-id: 37355768
 description: Importing Assets with Adobe Experience Manager - Marketo Docs - Product Documentation
 title: Importing Assets with Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
+feature: Integrations
 ---
 # Importing Assets with Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-The Asset Selector allows Marketo customers to access, select, and import AEM assets into Marketo's [!DNL Design Studio]. **Admin permissions are required**.
+The Asset Selector allows Marketo customers to access, select, and import AEM assets into the Marketo [!DNL Design Studio]. **Admin permissions are required**.
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
+>Not everyone has purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
 >[!PREREQUISITES]
 >
@@ -24,7 +25,7 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Click the **[!UICONTROL New]** drop-down and select **[!UICONTROL Import from Adobe Experience Manager]**.
+1. Click the New drop-down and select **[!UICONTROL Import from Adobe Experience Manager]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
@@ -48,7 +49,7 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   And that's it! Click **[!UICONTROL Close]** to return to the [!DNL Design Studio].
+   And that's it! Click **[!UICONTROL Close]** to return to the Design Studio.
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
@@ -58,4 +59,4 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
 * All users in your instance will be able to view/access the images you import.
 
-* Images are not automatically updated. If an image you imported into the [!DNL Marketo Design Studio] is updated in AEM, you must manually re-import it into Marketo.
+* Images are not automatically updated. If an image you imported into the Marketo [!DNL Design Studio] is updated in AEM, you must manually re-import it into Marketo.

@@ -3,6 +3,7 @@ unique-page-id: 10097584
 description: Sync Status - Marketo Docs - Product Documentation
 title: Sync Status
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
+feature: Microsoft Dynamics
 ---
 # Sync Status {#sync-status}
 
@@ -28,7 +29,7 @@ You can keep tabs on the current throughput and backlog of the sync process on t
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Click the **View:** drop-down and select **Last Hour** to view throughput information.
+1. Click the **[!UICONTROL View]** drop-down and select **[!UICONTROL Last Hour]** to view throughput information.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -48,4 +49,4 @@ Browse, search, or export leads (and other objects) that failed to synchronize w
 
 >[!MORELIKETHIS]
 >
->[Notification Types](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+>[Notification Types](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md){target="_blank"}

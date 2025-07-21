@@ -3,6 +3,7 @@ unique-page-id: 11385057
 description: Set up Categories - Marketo Docs - Product Documentation
 title: Set up Categories
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
+feature: Predictive Content
 ---
 # Set up Categories {#set-up-categories}
 

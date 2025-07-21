@@ -3,16 +3,17 @@ unique-page-id: 3571797
 description: Step 2 of 3 -Create a Salesforce User for Marketo (Professional) - Marketo Docs - Product Documentation
 title: Step 2 of 3 -Create a Salesforce User for Marketo (Professional)
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
+feature: Salesforce Integration
 ---
 # Step 2 of 3: Create a [!DNL Salesforce] User for Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
 >
->These steps must be completed by a [!DNL Salesforce] administrator
+>These steps must be completed by a Salesforce administrator.
 
 >[!PREREQUISITES]
 >
->[Step 1 of 3: Add Marketo Fields to [!DNL Salesforce] (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>[Step 1 of 3: Add Marketo Fields to Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
 
 In this article, you will customize field permissions with a [!DNL Salesforce] Page Layout and create a Marketo-[!DNL Salesforce] sync user.
 
@@ -20,7 +21,7 @@ In this article, you will customize field permissions with a [!DNL Salesforce] P
 
 [!DNL Salesforce] Professional sets field level accessibility with Page Layouts, as opposed to [!DNL Salesforce] Enterprise/Unlimited's Profiles. Following these steps will allow the Marketo sync user to update the custom fields.
 
-1. Type **page layouts** in the Nav search bar without pressing **Enter**, and click **[!UICONTROL Page Layout]** under **[!UICONTROL Leads]**.
+1. Type "[!UICONTROL page layouts]" in the Nav search bar without pressing **[!UICONTROL Enter]**, and click **[!UICONTROL Page Layout]** under **[!UICONTROL Leads]**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
@@ -36,7 +37,7 @@ In this article, you will customize field permissions with a [!DNL Salesforce] P
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Click and drag the field **[!UICONTROL Acquisition Date]** into the **[!UICONTROL Marketo]** section.
+1. Click and drag the field **[!UICONTROL Acquisition Date]** into the **Marketo** section.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
@@ -71,7 +72,7 @@ In this article, you will customize field permissions with a [!DNL Salesforce] P
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
-1. Repeat all of the above steps for the [!DNL Salesforce] **[!UICONTROL Contact Page Layout]**.
+1. Repeat all of the above steps for the Salesforce **[!UICONTROL Contact Page Layout]**.
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
@@ -89,7 +90,7 @@ Marketo requires credentials to access [!DNL Salesforce]. This is best done with
 
 >[!NOTE]
 >
->If your organization has no additional [!DNL Salesforce] licenses, you can use an existing **Marketing user** with the **System Administrator** profile.
+>If your organization has no additional Salesforce licenses, you can use an existing Marketing user with the System Administrator profile.
 
 1. Enter "users" in the Nav search bar, and click **[!UICONTROL Users]** under **[!UICONTROL Manage Users]**.
 
@@ -99,7 +100,7 @@ Marketo requires credentials to access [!DNL Salesforce]. This is best done with
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Fill in the required fields, select the **[!UICONTROL User License: Salesforce]**, set the **[!UICONTROL Profile]: [!UICONTROL System Administrator]**, check **[!UICONTROL Marketing User]** and click **[!UICONTROL Save]**.
+1. Fill in the required fields, select the **[!UICONTROL User License: Salesforce]**, set the **[!UICONTROL Profile: System Administrator]**, check **[!UICONTROL Marketing User]** and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 
@@ -111,4 +112,4 @@ Excellent! Now you have an account that Marketo can use to connect to [!DNL Sale
 
 >[!MORELIKETHIS]
 >
->[Step 3 of 3: Connect Marketo and [!DNL Salesforce] (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
+>[Step 3 of 3: Connect Marketo and Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md){target="_blank"}

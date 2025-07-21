@@ -2,6 +2,7 @@
 description: Release Notes - June 2022 - Marketo Docs - Product Documentation
 title: Release Notes - June 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
+feature: Release Information
 ---
 # Release Notes: June 2022 {#release-notes-june-22}
 
@@ -17,7 +18,7 @@ The following features will start to be released on **June 24, 2022**, with a ph
 
 * **Expose CreatedAt/UpdatedAt fields for Custom Objects**: Gives you the ability to inspect these fields in the Person Detail screen to gain additional insight.
 
-## Cross-Channel Orchestration {#cross-channel-orchestration}
+## Cross-Channel Orchestration {#cross-channel-orchestration}
 
 * **Improved Stream Designer Usability for [!DNL Dynamic Chat]**: Add cards directly from the Stream Designer canvas without the need to drag and drop. The [!DNL Dynamic Chat] interface has also been improved to offer better visibility of content in individual cards.
 

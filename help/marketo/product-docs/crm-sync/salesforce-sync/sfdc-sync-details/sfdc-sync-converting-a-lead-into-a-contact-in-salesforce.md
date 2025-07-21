@@ -3,6 +3,7 @@ unique-page-id: 2953465
 description: SFDC Sync - Converting a Lead into a Contact in Salesforce - Marketo Docs - Product Documentation
 title: SFDC Sync - Converting a Lead into a Contact in Salesforce
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
+feature: Salesforce Integration
 ---
 # SFDC Sync: Converting a Lead into a Contact in [!DNL Salesforce] {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
@@ -11,7 +12,7 @@ Imagine three different scenarios in [!DNL Salesforce]: (not using the [Convert 
 1. Converting a Lead into a **new contact and new account**
 1. Converting a Lead into a **new contact** in an **existing account**
 
-1. Converting a Lead to an **existing contact** in an **existing account** (this works identical to [merging](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md))
+1. Converting a Lead to an **existing contact** in an **existing account** (this works identical to [merging](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md){target="_blank"})
 
 In all three cases you end up with **1 contact and no leads in [!DNL Salesforce] and 1 contact and no people in Marketo.**
 

@@ -3,6 +3,7 @@ unique-page-id: 7504238
 description: Custom RTP Dashboards in Google Universal Analytics - Marketo Docs - Product Documentation
 title: Custom RTP Dashboards in Google Universal Analytics
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
+feature: Web Personalization
 ---
 # Custom RTP Dashboards in Google Universal Analytics {#custom-rtp-dashboards-in-google-universal-analytics}
 
@@ -122,20 +123,20 @@ The dashboard consists of 3 columns
    <th> 
     <ul> 
      <li>Name: Sessions by RTP-Groups</li> 
-     <li>Type: <span class="uicontrol">Bar</span><br></li> 
-     <li><span class="uicontrol">Create a bar chart showing</span>: <span class="uicontrol">Sessions</span></li> 
-     <li><span class="uicontrol">Grouped by</span>: <span class="uicontrol">RTP-Group</span></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a35-3a54.png" data-linked-resource-id="7504256" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
+     <li>Type: Bar<br></li> 
+     <li>Create a bar chart showing: Sessions</li> 
+     <li>Grouped by: RTP-Group</li> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a35-3a54.png" data-linked-resource-id="7504256" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
   </tr> 
   <tr> 
    <th> </th> 
    <th> 
     <ul> 
      <li>Name: Sessions &amp; Goals by Top Segments</li> 
-     <li>Type: <span class="uicontrol">Table</span><br></li> 
-     <li><span class="uicontrol">Display the following columns</span>: <br><span class="uicontrol">Event Label</span> | <span class="uicontrol">Sessions</span> | <span class="uicontrol">Goal Conversion Rate</span></li> 
-     <li>Filter: <br><span class="uicontrol">Only Show</span> | <span class="uicontrol">Event Category</span> (containing) RTP-Segments</li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
+     <li>Type: Table<br></li> 
+     <li>Display the following columns: <br>Event Label | Sessions | Goal Conversion Rate</li> 
+     <li>Filter: <br>Only Show | Event Category (containing) RTP-Segments</li> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> </th> 
   </tr> 
  </tbody> 
@@ -172,17 +173,17 @@ Create a new dashboard called **RTP Engagement Dashboard** and define the follow
    <td> 
     <ul> 
      <li>Name: <strong>Total CTA (Engagement)</strong></li> 
-     <li>Type: <strong><span class="uicontrol">2.1 Metric</span> </strong></li> 
-     <li><span class="uicontrol">Show the following metric</span>: <strong><span class="uicontrol">Total Events</span></strong></li> 
-     <li>Filters:<br><strong>[<span class="uicontrol">only show</span>] <span class="uicontrol">Event Category</span> (contains): RTP-Campaigns</strong><br><strong>[<span class="uicontrol">only show</span>] <span class="uicontrol">Event Action</span> (<span class="uicontrol">exactly matcing</span>): Impression</strong><strong>[<span class="uicontrol">don't show</span>] <span class="uicontrol">Event Label</span> (<span class="uicontrol">containing</span>): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+     <li>Type: <strong>2.1 Metric </strong></li> 
+     <li>Show the following metric: <strong>Total Events</strong></li> 
+     <li>Filters:<br><strong>[only show] Event Category (contains): RTP-Campaigns</strong><br><strong>[only show] Event Action (exactly matcing): Impression</strong>[don't show] Event Label (containing): #</li> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Name: <strong>Total CTA (Clickthrough)</strong></li> 
-     <li>Type: <strong><span class="uicontrol">2.1 Metric</span> </strong></li> 
-     <li><span class="uicontrol">Show the following metric</span>: <strong><span class="uicontrol">Total Events</span></strong></li> 
-     <li>Filters:<br><strong>[<span class="uicontrol">only show</span>] <span class="uicontrol">Event Category</span> (contains): RTP-Campaigns</strong><br><strong>[<span class="uicontrol">only show</span>] <span class="uicontrol">Event Action</span> (exactly matching): Clicks</strong><strong>[<span class="uicontrol">don't show</span>] <span class="uicontrol">Event Label</span> (containing): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+     <li>Type: <strong>2.1 Metric </strong></li> 
+     <li>Show the following metric: <strong>Total Events</strong></li> 
+     <li>Filters:<br><strong>[only show] Event Category (contains): RTP-Campaigns</strong><br><strong>[only show] Event Action (exactly matching): Clicks</strong><strong>[don't show] Event Label (containing): #</strong></li> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Name: <strong>CRE - Total Clicks</strong></li> 
@@ -195,17 +196,17 @@ Create a new dashboard called **RTP Engagement Dashboard** and define the follow
    <td colspan="1"> 
     <ul> 
      <li>Name: <strong>Avg. Session Duration (Engagement)</strong></li> 
-     <li>Type: <strong><span class="uicontrol">2.1 Metric</span> </strong></li> 
-     <li><span class="uicontrol">Show the following metric</span>: <strong><span class="uicontrol">Avg. Session Duration</span></strong></li> 
-     <li>Filters:<br><strong>[<span class="uicontrol">only show</span>] <span class="uicontrol">Event Category</span> (exactly matching): RTP-Campaigns</strong><br><strong>[<span class="uicontrol">only show</span>] <span class="uicontrol">Event Action</span> (exactly matching): impression</strong><strong>[<span class="uicontrol">don't show</span>] <span class="uicontrol">Event Label</span> (<span class="uicontrol">containing</span>): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+     <li>Type: <strong>2.1 Metric </strong></li> 
+     <li>Show the following metric: <strong>Avg. Session Duration</strong></li> 
+     <li>Filters:<br><strong>[only show] Event Category (exactly matching): RTP-Campaigns</strong><br><strong>[only show] Event Action (exactly matching): impression</strong><strong>[don't show] Event Label (containing): #</strong></li> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>Name: <strong>Avg. Session Duration (Clickthrough)</strong></li> 
-     <li>Type: <strong><span class="uicontrol">2.1 Metric</span> </strong></li> 
-     <li><span class="uicontrol">Show the following metric</span>: <strong><span class="uicontrol">Avg. Session Duration</span></strong></li> 
-     <li>Filters:<br><strong>[<span class="uicontrol">only show</span>] <span class="uicontrol">Event Category</span> (<span class="uicontrol">exactly matching</span>): RTP-Campaigns</strong><br><strong>[<span class="uicontrol">only show</span>] <span class="uicontrol">Event Action</span> (<span class="uicontrol">exactly matching</span>): clicks</strong><strong>[<span class="uicontrol">don't show</span>] <span class="uicontrol">Event Label</span> (<span class="uicontrol">containing</span>): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+     <li>Type: <strong>2.1 Metric </strong></li> 
+     <li>Show the following metric: <strong>Avg. Session Duration</strong></li> 
+     <li>Filters:<br><strong>[only show] Event Category (exactly matching): RTP-Campaigns</strong><br><strong>[only show] Event Action (exactly matching): clicks</strong><strong>[don't show] Event Label (containing): #</strong></li> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>Name: <strong>CRE - Top Recommended Content</strong></li> 
@@ -227,12 +228,12 @@ Create a new dashboard called **RTP Engagement Dashboard** and define the follow
    <td> 
     <ul> 
      <li>Name: <strong>Pages / Session (Clickthrough)</strong></li> 
-     <li>Type: <strong><span class="uicontrol">2.1 Metric</span> </strong></li> 
-     <li><span class="uicontrol">Show the following metric</span>: <strong><span class="uicontrol">Pages / Session</span></strong></li> 
-     <li>Filters:<br><strong>[<span class="uicontrol">only show</span>] <span class="uicontrol">Event Category</span> (<span class="uicontrol">exactly matching</span>): RTP-Campaigns</strong></li> 
-     <li><strong>[<span class="uicontrol">only show</span>] <span class="uicontrol">Event Action</span> (<span class="uicontrol">exactly matching</span>): clicks</strong></li> 
-     <li><strong>[<span class="uicontrol">don't show</span>] <span class="uicontrol">Event Label</span> (<span class="uicontrol">containing</span>): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+     <li>Type: <strong>2.1 Metric </strong></li> 
+     <li>Show the following metric: <strong>Pages / Session</strong></li> 
+     <li>Filters:<br><strong>[only show] Event Category (exactly matching): RTP-Campaigns</strong></li> 
+     <li><strong>[only show] Event Action (exactly matching): clicks</strong></li> 
+     <li><strong>[don't show] Event Label (containing): #</strong></li> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 
   <tr> 

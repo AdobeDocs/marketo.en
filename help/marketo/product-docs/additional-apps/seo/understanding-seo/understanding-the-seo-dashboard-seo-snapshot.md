@@ -3,6 +3,7 @@ unique-page-id: 2949178
 description: Understanding the SEO Dashboard -SEO Snapshot - Marketo Docs - Product Documentation
 title: Understanding the SEO Dashboard -SEO Snapshot
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
+feature: SEO
 ---
 # Understanding the SEO Dashboard: SEO Snapshot {#understanding-the-seo-dashboard-seo-snapshot}
 
@@ -28,7 +29,9 @@ This section shows you how your site is ranked for the [keywords you're targetin
 >
 >You can also view how a [specific list](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) of keywords is performing. Click the drop-down and select which one interests you.
 
-Rock on! Let's keep movin'.  
+>[!NOTE]
+>
+>Data is only shown for keywords ranked 1-100.
 
 ## [!UICONTROL Average Page Optimization Score] {#average-page-optimization-score}
 
@@ -52,7 +55,7 @@ The [!UICONTROL Keyword Rank Trends] graph pulls your keywords with the five hig
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Easy, right? Now let's check out the [!UICONTROL Recommendations] section of this dashboard.
+Now let's check out the [!UICONTROL Recommendations] section of this dashboard.
 
 >[!MORELIKETHIS]
 >

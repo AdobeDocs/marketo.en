@@ -2,6 +2,7 @@
 description: Sending Emails via Group Email - Marketo Docs - Product Documentation
 title: Sending Emails via Group Email
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
+feature: Sales Insight Actions
 ---
 # Sending Emails via Group Email {#sending-emails-via-group-email}
 

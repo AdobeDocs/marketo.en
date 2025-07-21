@@ -3,6 +3,7 @@ unique-page-id: 2949206
 description: SEO - Importing Keywords with a CSV - Marketo Docs - Product Documentation
 title: SEO - Importing Keywords with a CSV
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
+feature: SEO
 ---
 # SEO - Importing Keywords with a CSV {#seo-importing-keywords-with-a-csv}
 
@@ -36,7 +37,9 @@ exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 
    ![](assets/image2014-9-18-11-3a45-3a30.png)
 
-   It may take a few minutes to load all the data associated with each keyword. Meditate on the meaning of life.
+   >[!NOTE]
+   >
+   >It may take a few minutes to load all the data associated with each keyword.
 
    >[!MORELIKETHIS]
    >

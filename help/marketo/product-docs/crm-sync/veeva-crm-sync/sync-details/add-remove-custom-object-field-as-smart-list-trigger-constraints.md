@@ -2,6 +2,7 @@
 description: Add/Remove Custom Object Field as Smart List/Trigger Constraints - Marketo Docs - Product Documentation
 title: Add/Remove Custom Object Field as Smart List/Trigger Constraints
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
+feature: Veeva CRM
 ---
 # Add/Remove Custom Object Field as Smart List/Trigger Constraints {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
@@ -45,9 +46,9 @@ Marketo Engage provides specific control over the [!DNL Veeva] custom object syn
 
 >[!IMPORTANT]
 >
->Don’t forget to re-enable your global sync!
+>Don't forget to re-enable your global sync!
 
-Now your smart lists and smart campaigns have even more power.
+Now your Smart Lists and Smart Campaigns have even more power.
 
 >[!MORELIKETHIS]
 >

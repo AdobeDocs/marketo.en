@@ -3,6 +3,7 @@ unique-page-id: 11372054
 description: Edit the Text Version of an Email - Marketo Docs - Product Documentation
 title: Edit the Text Version of an Email
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
+feature: Email Editor
 ---
 # Edit the Text Version of an Email {#edit-the-text-version-of-an-email}
 
@@ -32,4 +33,6 @@ When you create an email, you may want its text version to be worded differently
 
    ![](assets/five-3.png)
 
-Now you know!
+>[!CAUTION]
+>
+>Selecting **Copy from HTML**, or reselecting **Automatically copy from HTML** in emails that contain dynamic content will set the Reviewed flag to _true_ for all segments (producing the green check mark that indicates it's been reviewed) in both the HTML and Text versions of the email. If you perform either action above, be sure to double-check your content before sending. 

@@ -3,6 +3,7 @@ unique-page-id: 2359637
 description: Delete a Form - Marketo Docs - Product Documentation
 title: Delete a Form
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
+feature: Forms
 ---
 # Delete a Form {#delete-a-form}
 

@@ -3,6 +3,7 @@ unique-page-id: 17728023
 description: "Create an Event with [!DNL Zoom] - Marketo Docs - Product Documentation"
 title: "Create an Event with [!DNL Zoom]"
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
+feature: Events
 ---
 # Create an Event with [!DNL Zoom] {#create-an-event-with-zoom}
 
@@ -16,7 +17,7 @@ First create your webinar in [!DNL Zoom]. Certain settings in the creation of yo
 
 After you create a Marketo event and associate a [!DNL Zoom] webinar with it, the systems will be able to share registration and attendance information. For help creating a webinar, see  [Getting Started with [!DNL Zoom] Webinars](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
 
-Enter the following information for your webinar and it will be pulled into Marketo via the adapter. If you make any changes to this information, you must click the link “Refresh from Webinar Provider” under Event Actions, in order for Marketo to see the changes.
+Enter the following information for your webinar and it will be pulled into Marketo via the adapter. If you make any changes to this information, you must click the link "Refresh from Webinar Provider" under Event Actions, in order for Marketo to see the changes.
 
 **Title and Description**
 
@@ -96,4 +97,4 @@ Now, let's jump into Marketo!
 
    >[!TIP]
    >
-   >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, select **[!UICONTROL Refresh from Webinar Provider]** from the [!UICONTROL Event Actions] menu in the **Summary** tab of your event.
+   >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, select **Refresh from Webinar Provider** from the Event Actions menu in the **Summary** tab of your event, then click the refresh icon on the bottom right of the screen.

@@ -2,6 +2,7 @@
 description: "Step 2 of 3 - Create a [!DNL Veeva] CRM User for Marketo Engage - Marketo Docs - Product Documentation"
 title: "Step 2 of 3 - Create a Veeva CRM User for Marketo Engage"
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
+feature: Veeva CRM
 ---
 # Step 2 of 3: Create a [!DNL Veeva] CRM User for Marketo Engage {#step-2-of-3-create-a-veeva-crm-user-for-marketo-engage}
 
@@ -119,17 +120,17 @@ Following these steps will allow the Marketo sync user to update the custom fiel
 
 1. Discuss with your marketers to find out what custom fields are necessary to sync.
 
->[!NOTE]
->
->This step will prevent fields you don’t need from showing up in Marketo, which will reduce clutter and speed up sync.
+   >[!NOTE]
+   >
+   >This step will prevent fields you don't need from showing up in Marketo, which will reduce clutter and speed up sync.
 
 1. In the [!UICONTROL profile detail] page, go to **[!UICONTROL Field-Level Security]** section. Click **[!UICONTROL View]** to edit the accessibility for the [!UICONTROL Contact] and [!UICONTROL Account] objects.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-17.png)
 
->[!TIP]
->
->You may configure other objects according to your organization’s needs.
+   >[!TIP]
+   >
+   >You may configure other objects according to your organization's needs.
 
 1. For each object, click **[!UICONTROL Edit]**.
 
@@ -139,9 +140,9 @@ Locate the unnecessary fields, make sure that [!UICONTROL Read Access] and [!UIC
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
->[!NOTE]
->
->Only edit the accessibility for the custom fields.
+   >[!NOTE]
+   >
+   >Only edit the accessibility for the custom fields.
 
 1. After you finish disabling all unnecessary fields, check [!UICONTROL Read Access] and [!UICONTROL Edit Access] for the following object fields. Click **[!UICONTROL Save]** when done.
 

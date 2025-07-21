@@ -2,8 +2,11 @@
 description: Grant Consent for Client Id and App Registration - Marketo Docs - Product Documentation
 title: Grant Consent for Client Id and App Registration
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
+feature: Microsoft Dynamics
 ---
 # Grant Consent for Client Id and App Registration {#grant-consent-for-client-id-and-app-registration}
+
+Follow the steps below to learn how to grant the mecessary consent/permissions.
 
 ## Grant Delegated User Permissions for the Sync User {#grant-delegated-user-permissions-for-the-sync-user}
 
@@ -70,11 +73,10 @@ As an administrator, you can also consent to an application's delegated permissi
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. Click the **Grant admin consent** (for tenant) button.
+1. Click the **[!UICONTROL Grant admin consent]** (for tenant) button.
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. Click **Yes** to confirm.
+1. Click **[!UICONTROL Yes]** to confirm.
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)
-

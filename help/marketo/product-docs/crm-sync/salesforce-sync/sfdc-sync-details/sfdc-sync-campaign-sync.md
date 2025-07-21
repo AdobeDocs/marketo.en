@@ -3,6 +3,7 @@ unique-page-id: 2953469
 description: SFDC Sync - Campaign Sync - Marketo Docs - Product Documentation
 title: SFDC Sync - Campaign Sync
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
+feature: Salesforce Integration
 ---
 # SFDC Sync: Campaign Sync {#sfdc-sync-campaign-sync}
 
@@ -46,11 +47,11 @@ Yes, use the [Add to SFDC campaign flow action](/help/marketo/product-docs/core-
 
 ## Can I remove members from my SFDC campaign using Marketo? {#can-i-remove-members-from-my-sfdc-campaign-using-marketo}
 
-Yes, use the [Remove from SFDC Campaign flow action](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md).
+Yes, use the [Remove from SFDC Campaign flow action](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md){target="_blank"}.
 
 ## Can I change campaign member status using Marketo? {#can-i-change-campaign-member-status-using-marketo}
 
-Yes, use the [Change Status in SFDC Campaign flow action](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md).
+Yes, use the [Change Status in SFDC Campaign flow action](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}.
 
 ## Why can't I see any of my [!DNL Salesforce] campaigns? {#why-cant-i-see-any-of-my-salesforce-campaigns}
 
@@ -65,7 +66,7 @@ Here are things you can check:
 
 >[!MORELIKETHIS]
 >
->* [Sync an SFDC Campaign with a Program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
->* [Understanding Program Membership](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
->* [Enable/Disable Campaign Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)
->* [Make Marketo Sync User a Marketing User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)
+>* [Sync an SFDC Campaign with a Program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* [Understanding Program Membership](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+>* [Enable/Disable Campaign Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}
+>* [Make Marketo Sync User a Marketing User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"}

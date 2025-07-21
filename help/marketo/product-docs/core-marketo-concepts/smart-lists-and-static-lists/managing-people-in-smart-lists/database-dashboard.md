@@ -3,6 +3,7 @@ unique-page-id: 10097447
 description: Database Dashboard - Marketo Docs - Product Documentation
 title: Database Dashboard
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
+feature: Smart Lists
 ---
 # Database Dashboard {#database-dashboard}
 
@@ -10,7 +11,9 @@ The Database Dashboard serves as a snapshot to help you quickly determine key at
 
 >[!NOTE]
 >
->Each workspace has its own Database Dashboard.
+>* The Database Dashboard is automatically updated every 24-32 hours. You can perform a manual update at any time by clicking the "last updated" text on the right side of the screen.
+>
+>* Each workspace has its own Database Dashboard.
 
 To get there, select **[!UICONTROL Database]** from your My Marketo.
 
@@ -22,7 +25,7 @@ The graphs indicate total number of people, number of marketable people, as well
 
 >[!TIP]
 >
->Want to obtain more specific or timely info on your people? Try a [People Performance Report](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
+>Want to obtain more specific or timely info on your people? Try a [People Performance Report](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
 **Total People:** The number of all-time people for the workspace listed.
 

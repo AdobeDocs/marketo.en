@@ -3,6 +3,7 @@ unique-page-id: 2360005
 description: Company Web Activity Report - Marketo Docs - Product Documentation
 title: Company Web Activity Report
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
+feature: Reporting
 ---
 # Company Web Activity Report {#company-web-activity-report}
 

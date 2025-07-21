@@ -3,6 +3,7 @@ unique-page-id: 1147251
 description: Creating Custom Overlays in Program Schedule View - Marketo Docs - Product Documentation
 title: Creating Custom Overlays in Program Schedule View
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
+feature: Programs
 ---
 # Creating Custom Overlays in Program Schedule View {#creating-custom-overlays-in-program-schedule-view}
 
@@ -20,7 +21,7 @@ You can create custom overlays to view entries relevant to your needs.
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. You can also filter by [[!UICONTROL Program Tags]](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
+1. You can also filter by [program tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

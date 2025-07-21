@@ -3,6 +3,7 @@ unique-page-id: 7504120
 description: Launch a Presentation - Marketo Docs - Product Documentation
 title: Launch a Presentation
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
+feature: Marketing Calendar
 ---
 # Launch a Presentation {#launch-a-presentation}
 
@@ -11,7 +12,7 @@ Once you've set the views and rotation frequency for your presentation, it's tim
 >[!AVAILABILITY]
 >
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 >[!PREREQUISITES]
 >
@@ -20,7 +21,7 @@ Once you've set the views and rotation frequency for your presentation, it's tim
 
 >[!TIP]
 >
->Make sure to **Preview a Presentation** before you launch.
+>Make sure to _Preview a Presentation_ before you launch.
 
 1. Click **[!UICONTROL Launch]**.
 
@@ -32,4 +33,4 @@ Once you've set the views and rotation frequency for your presentation, it's tim
 
    >[!TIP]
    >
-   >Your presentation will launch in a new tab. If needed, move the tab to an external monitor or TV for display and click **[!UICONTROL Fullscreen]** (or press **F11** on your keyboard if you're using Internet Explorer).
+   >Your presentation will launch in a new tab. If needed, move the tab to an external monitor for display and click **[!UICONTROL Fullscreen]**.

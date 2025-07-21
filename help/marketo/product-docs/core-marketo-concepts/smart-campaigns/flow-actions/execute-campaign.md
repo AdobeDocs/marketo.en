@@ -2,6 +2,7 @@
 description: Execute Campaign - Marketo Docs - Product Documentation
 title: Execute Campaign
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
+feature: Smart Campaigns
 ---
 # Execute Campaign {#execute-campaign}
 
@@ -53,7 +54,7 @@ When set to true, the following token contexts will be sent into the child campa
 
 **API Interaction**
 
-When using Schedule or Request Campaign [in the API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), both let you pass values for My Tokens, which overrides the values set for those tokens in the campaign you're calling. If that Campaign then executes another campaign and sets "Use Parent Context to True," it will use the values passed through the API, rather than the values which are set in the application.
+When using Schedule or Request Campaign [in the API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), both let you pass values for My Tokens, which overrides the values set for those tokens in the campaign you're calling. If that Campaign then executes another campaign and sets "Use Parent Context to True," it will use the values passed through the API, rather than the values which are set in the application.
 
 ## Things to Note {#things-to-note}
 
@@ -66,11 +67,11 @@ When using Schedule or Request Campaign [in the API](https://developers.marketo.
 
 >[!CAUTION]
 >
->Never leave your smart lists for Executable Campaigns invalid, otherwise **no one** will qualify for it. Best practice is to create separate smart list assets, define them completely, and make sure they're valid. Then, use the "Member of Smart List" filter in the Executable Campaign so you can swap your smart list definition.
+>Never leave your smart lists for Executable Campaigns invalid, otherwise _no one_ will qualify for it. Best practice is to create separate smart list assets, define them completely, and make sure they're valid. Then, use the "Member of Smart List" filter in the Executable Campaign so you can swap your smart list definition.
 
 ## Token Inheritance Example {#token-inheritance-example}
 
-Below is a visual example of Token Inheritance in one Executable Campaign and two parent campaigns: one with token context set to **True**, the other to **False**.
+Below is a visual example of Token Inheritance in one Executable Campaign and two parent campaigns: one with token context set to **[!UICONTROL True]**, the other to **[!UICONTROL False]**.
 
 Child campaign with a tokenized Change Score.
 
@@ -80,7 +81,7 @@ The child campaign's My Tokens.
 
 ![](assets/execute-campaign-4.png)
 
-**Example One - True**
+### Example One - True {#example-one-true}
 
 In the Execute Campaign flow step of the first parent campaign, the "[!UICONTROL Use Parent Campaign Token Context]" is set to **[!UICONTROL True]**.
 
@@ -94,9 +95,9 @@ The results: score changed by +10.
 
 ![](assets/execute-campaign-7.png)
 
-**Example Two: False**
+### Example Two: False {#example-two-false}
 
-In the Execute Campaign filter of the second parent campaign, the "[!UICONTROL Use Parent Campaign Token Context]" is set to **[!UICONTROL False]**.
+In the Execute Campaign flow step of the second parent campaign, the "Use Parent Campaign Token Context" is set to **False**.
 
 ![](assets/execute-campaign-8.png)
 

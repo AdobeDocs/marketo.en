@@ -3,6 +3,7 @@ unique-page-id: 2360405
 description: Build a Program Membership Analysis Report that Lists Leads - Marketo Docs - Product Documentation
 title: Build a Program Membership Analysis Report that Lists Leads
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Build a Program Membership Analysis Report that Lists Leads {#build-a-program-membership-analysis-report-that-lists-leads}
 
@@ -10,7 +11,7 @@ Follow these steps to create a Program Membership Analysis report that will show
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 1. Launch **[!UICONTROL Revenue Explorer]**.
 

@@ -3,6 +3,7 @@ unique-page-id: 10100311
 description: Using a Universal ID for Subscription Login - Marketo Docs - Product Documentation
 title: Using a Universal ID for Subscription Login
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
+feature: Administration
 ---
 # Using a Universal ID for Subscription Login {#using-a-universal-id-for-subscription-login}
 
@@ -14,7 +15,7 @@ Subscription level settings are honored for users who are using Universal ID, fo
 
 ## Setting Up a Universal ID {#setting-up-a-universal-id}
 
-All Marketo subscriptions come with the optional Universal ID feature. From each individual instance, your Marketo admin must invite you to each of your different subscriptions with the same login. Marketo can’t merge your existing logins automatically.
+All Marketo subscriptions come with the optional Universal ID feature. From each individual instance, your Marketo admin must invite you to each of your different subscriptions with the same login. Marketo can't merge your existing logins automatically.
 
 >[!NOTE]
 >
@@ -24,7 +25,7 @@ All Marketo subscriptions come with the optional Universal ID feature. From each
 
 When you log in to accept an invitation to a second subscription using a Universal ID, you'll see the Opt-in login page. Here, you must check a checkbox to accept the terms and conditions. After you've accepted, you'll see the normal reset page, not this one, for any subsequent logins. By accepting the terms and conditions, you are allowing Marketo to distribute your basic profile data (such as first name, last name, and email address) to the datacenters in different locations where your subscription is hosted.
 
-![](assets/new-login-reduced-hands-name.png)
+![](assets/using-a-universal-id-for-subscription-login-1.png)
 
 >[!TIP]
 >
@@ -38,13 +39,15 @@ With a Universal ID for multiple subscriptions, only you can change the password
 
 >[!NOTE]
 >
->Marketo will ask users who want to use Universal ID to reset their password if the current subscription’s password doesn't comply with the password policy of the second subscription to which they are being invited.
+>Marketo will ask users who want to use Universal ID to reset their password if the current subscription's password doesn't comply with the password policy of the second subscription to which they are being invited.
 
 ## Switching Between Subscriptions {#switching-between-subscriptions}
 
-Using a Universal ID, you can see the subscription you're logged into, and select other subscriptions to which you have login access. In most cases, you can switch between them without having to log out and back in.
+Using a Universal ID, you can see the subscription you are logged into, and select other subscriptions to which you have login access. In most cases, you can switch between them without having to log out and back in.
 
-![](assets/image2016-11-3-15-3a10-3a16.png)
+If both [Single Sign On](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) and Universal ID are enabled, you must have the "Bypass Single Signed On" permission set to toggle between subscriptions.
+
+![](assets/using-a-universal-id-for-subscription-login-2.png)
 
 When you log out and back in, Marketo automatically logs you into the subscription you were last logged into. You can then switch to a different subscription if necessary.
 
@@ -52,12 +55,8 @@ When you log out and back in, Marketo automatically logs you into the subscripti
 
 If you have multiple subscriptions, you may have multiple community profiles. We recommend that you choose the login that's linked with your most active community profile.
 
-## Mobile Platform {#mobile-platform}
-
-Users with Universal ID can see their data on Marketo Moments and the iPad event check-in application from the subscription that they have last logged into. You can't change subscriptions from the Mobile platform itself.
-
 >[!MORELIKETHIS]
 >
->* [Add Single Sign-On to a Portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [Restrict User Login to SSO Only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Inviting Marketo Users to Two Instances with Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [Add Single Sign-On to a Portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
+>* [Restrict User Login to SSO Only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Inviting Marketo Users to Two Instances with Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}

@@ -3,6 +3,7 @@ unique-page-id: 10617434
 description: Select Your In-App Message - Marketo Docs - Product Documentation
 title: Select Your In-App Message
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
+feature: Mobile Marketing
 ---
 # Select Your In-App Message {#select-your-in-app-message}
 

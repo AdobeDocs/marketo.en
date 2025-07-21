@@ -2,6 +2,7 @@
 description: Toggle Switch - Marketo Docs - Product Documentation
 title: Toggle Switch
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
+feature: Modern UX
 ---
 # Toggle Switch {#toggle-switch}
 
@@ -49,7 +50,7 @@ Select **[!UICONTROL Enable for all available features]** and click **[!UICONTRO
 
 ## Available Features {#available-features}
 
-The following features are currently available in the Modern UX (with new features added each Release):
+The following features are currently available in the Modern UX (with new features added each release):
 
 * Email Details View
 * Email List View
@@ -62,5 +63,9 @@ The following features are currently available in the Modern UX (with new featur
 * Landing Page Details View
 * Landing Page List View
 * Landing Page Template Details
+* Landing Page Template List
 * Snippet Details View
+* Snippet List View
+
+
 

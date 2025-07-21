@@ -3,6 +3,7 @@ unique-page-id: 8783322
 description: Validate [!DNL Microsoft Dynamics] Sync - Marketo Docs - Product Documentation
 title: Validate [!DNL Microsoft Dynamics] Sync
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
+feature: Microsoft Dynamics
 ---
 # Validate [!DNL Microsoft Dynamics] Sync {#validate-microsoft-dynamics-sync}
 
@@ -18,7 +19,7 @@ It's very important to run the Validate Sync tool to make sure your [!DNL Micros
 
    ![](assets/image2015-9-28-16-3a7-3a51.png)
 
-1. Select **Microsoft**.
+1. Select **[!DNL Microsoft]**.
 
    ![](assets/image2015-9-28-16-3a10-3a47.png)
 

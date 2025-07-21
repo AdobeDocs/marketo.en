@@ -3,10 +3,11 @@ unique-page-id: 4719300
 description: Add/Remove Custom Object Field as Smart List/Trigger Constraints - Marketo Docs - Product Documentation
 title: Add/Remove Custom Object Field as Smart List/Trigger Constraints
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
+feature: Salesforce Integration
 ---
 # Add/Remove Custom Object Field as Smart List/Trigger Constraints {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo provides fine-grain control over the Salesforce custom object sync. This allows you to select the fields available as constraints in custom object filters and to use them as triggers in smart campaigns.
+Marketo Engage provides fine-grain control over the Salesforce custom object sync. This allows you to select the fields available as constraints in custom object filters and to use them as triggers in Smart Campaigns.
 
 >[!NOTE]
 >
@@ -14,7 +15,7 @@ Marketo provides fine-grain control over the Salesforce custom object sync. This
 
 1. Click **[!UICONTROL Admin].**
 
-   ![](assets/image2014-12-10-13-3a9-3a47.png)
+   ![](assets/add-remove-custom-object-field-1.png)
 
 1. Click **[!UICONTROL Admin]** and then **[!UICONTROL Salesforce Objects Sync].**
 
@@ -56,8 +57,8 @@ Marketo provides fine-grain control over the Salesforce custom object sync. This
    >
    >Don't forget to re-enable your global sync!
 
-Wow! Now your smart lists and smart campaigns have even more power.
+Now your Smart Lists and Smart Campaigns have even more power.
 
 >[!MORELIKETHIS]
 >
->[Enable/Disable Custom Object Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
+>[Enable/Disable Custom Object Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md){target="_blank"}

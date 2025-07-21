@@ -3,6 +3,7 @@ unique-page-id: 1900556
 description: Create a Text Only Email - Marketo Docs - Product Documentation
 title: Create a Text Only Email
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
+feature: Email Editor
 ---
 # Create a Text Only Email {#create-a-text-only-email}
 

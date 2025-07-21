@@ -3,26 +3,21 @@ unique-page-id: 1147084
 description: Remove from Flow - Marketo Docs - Product Documentation
 title: Remove from Flow
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
+feature: Smart Campaigns
 ---
 # Remove from Flow {#remove-from-flow}
 
-Imagine you have a smart campaign flow that uses "Send Alert" to remind a sales rep to call a hot prospect. It sends one message every day until the rep makes the call. You could use "Remove from Flow" in a trigger campaign once the prospect has been contacted to stop further alerts. It's like a smart campaign ejector seat for a person.
+Imagine you have a Smart Campaign flow that uses "Send Alert" to remind a sales rep to call a hot prospect. It sends one message every day until the rep makes the call. You could use "Remove from Flow" in a trigger campaign once the prospect has been contacted to stop further alerts. It's like a Smart Campaign ejector seat for a person.
+
+![](assets/remove-from-flow-1.png)
 
 >[!NOTE]
 >
 >This would normally affect people that are sitting in a campaign flow's wait step.
 
-## Overview {#overview}
+1. Find and select the Smart Campaign you want to remove people from.
 
-You can remove people from a campaign's flow by using the **[!UICONTROL Remove from Flow]** flow step.
-
-![](assets/image2014-9-22-17-3a10-3a21.png)
-
-## Usage {#usage}
-
-Find and select the smart campaign you want to remove people from.
-
-![](assets/image2014-9-22-17-3a10-3a28.png)
+   ![](assets/remove-from-flow-2.png)
 
 >[!NOTE]
 >
@@ -30,4 +25,4 @@ Find and select the smart campaign you want to remove people from.
 
 >[!NOTE]
 >
->This functionality is meant to be used within the flow steps of a smart campaign.
+>This functionality is meant to be used within the flow steps of a Smart Campaign.

@@ -3,6 +3,7 @@ unique-page-id: 2949182
 description: SEO - Understanding Keywords - Marketo Docs - Product Documentation
 title: SEO - Understanding Keywords
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
+feature: SEO
 ---
 # SEO - Understanding [!UICONTROL Keywords] {#seo-understanding-keywords}
 
@@ -39,11 +40,15 @@ The [!UICONTROL Keywords] section will show you how successful your site is at a
    <td colspan="1" rowspan="1">How many searches happen per month on the keyword. This data is based on exact matches and is available only for Google-US over a 12-month period. </td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">Highest Ranking URL for Keyword Phrase</span></td> 
+   <td colspan="1" rowspan="1"><span class="uicontrol">Highest Ranking URL for Keyword Phrase</span></td>
    <td colspan="1" rowspan="1">Of your URLs, which is the highest ranking one for the keyword.</td> 
   </tr> 
  </tbody> 
 </table>
+
+>[!NOTE]
+>
+>Data is only shown for keywords ranked 1-100.
 
 ## [!UICONTROL Keywords] - Competitor View {#keywords-competitor-view}
 

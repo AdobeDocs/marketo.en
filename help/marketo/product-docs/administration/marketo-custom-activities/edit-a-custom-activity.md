@@ -3,6 +3,7 @@ unique-page-id: 10100269
 description: Edit a Custom Activity - Marketo Docs - Product Documentation
 title: Edit a Custom Activity
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
+feature: Custom Activities
 ---
 # Edit a Custom Activity {#edit-a-custom-activity}
 
@@ -24,7 +25,7 @@ Need to make changes to a custom activity you've already created? Here's how.
 
    ![](assets/edit-a-custom-activity-4.png)
 
-   **[!UICONTROL Edit Activity Type]** appears. In this example we're fixing a typo.
+   Edit Activity Type appears. In this example, we're fixing a typo.
 
    ![](assets/edit-a-custom-activity-5.png)
 

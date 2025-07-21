@@ -3,6 +3,7 @@ unique-page-id: 2360315
 description: Create a Person Partition - Marketo Docs - Product Documentation
 title: Create a Person Partition
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
+feature: Partitions
 ---
 # Create a Person Partition {#create-a-person-partition}
 
@@ -16,24 +17,22 @@ Create a new person partition following these steps.
 >
 >Understand first with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
->[!CAUTION]
->
->Person Partitions can be complex. Please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) for help setting them up.
+1. Go to the **[!UICONTROL Admin]** area. 
 
-1. Under **[!UICONTROL Admin]**, select **[!UICONTROL Workspaces & Partitions]**.
+   ![](assets/create-a-person-partition-1.png)
 
-![](assets/image2014-9-17-11-3a32-3a12.png)
+1. Click **[!UICONTROL Workspaces & Partitions]**.
 
-1. Go to the **[!UICONTROL Lead Partitions]** tab and click **[!UICONTROL New Person Partition]**.  
+   ![](assets/create-a-person-partition-2.png)
 
-   ![](assets/two-2.png)
+1. Go to the **[!UICONTROL Person Partitions]** tab and click **[!UICONTROL New Person Partition]**.  
+
+   ![](assets/create-a-person-partition-3.png)
 
 1. Name your partition, choose the **[!UICONTROL Workspaces]** where it will appear, and click **[!UICONTROL Create]**.
 
-   ![](assets/three-2.png)
+   ![](assets/create-a-person-partition-4.png)
 
-   After creating the partition, you should see the update.
+After creating the partition, you should see the update.
 
-   ![](assets/four-2.png)
-
-   There you have it! You now know how to create a Person Partition.
+   ![](assets/create-a-person-partition-5.png)

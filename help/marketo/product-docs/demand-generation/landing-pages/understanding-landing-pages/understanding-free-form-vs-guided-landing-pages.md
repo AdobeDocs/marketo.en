@@ -3,6 +3,7 @@ unique-page-id: 7515207
 description: Understanding Free-form vs Guided Landing Pages - Marketo Docs - Product Documentation
 title: Understanding Free-form vs Guided Landing Pages
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
+feature: Landing Pages
 ---
 # Understanding Free-form vs Guided Landing Pages {#understanding-free-form-vs-guided-landing-pages}
 

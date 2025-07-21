@@ -36,8 +36,6 @@ It's okay to change your mind.
 
    ![](assets/image2015-4-20-18-3a52-3a30.png)
 
-   Et Volia! The folder has a new name.
-
 ## Delete a Folder {#delete-a-folder}
 
 >[!NOTE]
@@ -48,8 +46,6 @@ It's okay to change your mind.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 
-   Adios folder!
-
 ## Archive a Folder {#archive-a-folder}
 
 In Marketo you have the ability to convert existing folders into Archive folders. Archive folders exist in [!UICONTROL Marketing Activities], [!UICONTROL Database], and [!UICONTROL Design Studio].
@@ -58,14 +54,14 @@ In Marketo you have the ability to convert existing folders into Archive folders
 
 When you archive a folder:
 
-* The folder and assets are no longer visible in search results. If you search for a Program or Event that’s inside an archived folder, the results return a collapsed view of the archived folder
+* The folder and assets are no longer visible in search results. If you search for a Program or Event that's inside an archived folder, the results return a collapsed view of the archived folder
 * The assets in the folder no longer appear in auto suggest
-* Archived templates are not available when creating an email or landing page in [!UICONTROL Design Studio]
-* Archived pages can’t be used in landing page test groups
+* Archived templates are not available when creating an email or landing page in Design Studio
+* Archived pages can't be used in landing page test groups
 
 Functionality that will **not** change when archiving:
 
 * Global search still finds results in archived folders
-* An asset that’s in use will continue to work even after it’s archived
+* An asset that's in use will continue to work even after it's archived
 * You can use a filter to select archived assets for use in reports
 * Archived assets are not deactivated. They must also be deactivated if you want them to stop running

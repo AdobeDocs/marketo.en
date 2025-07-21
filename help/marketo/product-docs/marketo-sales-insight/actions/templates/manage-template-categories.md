@@ -4,6 +4,7 @@ title: Manage Template Categories
 hide: yes
 hidefromtoc: yes
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
+feature: Sales Insight Actions
 ---
 # Manage Template Categories {#manage-template-categories}
 
@@ -51,4 +52,4 @@ exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 
 >[!NOTE]
 >
->Categories cannot be deleted if they still have templates in them. Move or delete all templates before deleting a category.
+>Categories cannot be deleted if they contain templates. Move or delete all templates before deleting a category.

@@ -2,6 +2,7 @@
 description: Reconfigure [!DNL Dynamics] Authentication Method - Marketo Docs - Product Documentation
 title: Reconfigure [!DNL Dynamics] Authentication Method
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
+feature: Microsoft Dynamics
 ---
 # Reconfigure Dynamics Authentication Method {#reconfigure-dynamics-authentication-method}
 
@@ -11,8 +12,8 @@ Follow the steps below to update your [!DNL Dynamics] Authentication Method.
 >
 >Set up the application in [!DNL Microsoft Dynamics] and active directory (Azure AD/ADFS) using the desired authentication method from either of the following articles:
 >
->* [Step 2 of 3: Set up Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
->* [Step 2 of 4: Set up the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
+>* [Step 2 of 3: Set up Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
+>* [Step 2 of 4: Set up the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
 
 1. In Marketo click **[!UICONTROL Admin]**.
 
@@ -41,7 +42,7 @@ Follow the steps below to update your [!DNL Dynamics] Authentication Method.
    >[!NOTE]
    >
    >* The specific fields will vary by the chosen authentication method and the form will be automatically updated depending on previous authentication method.
-   >* If you’ve synced before, the data in the above form may be pre-populated. Please re-enter all credentials to ensure the correct values.
+   >* If you've synced before, the data in the above form may be pre-populated. Please re-enter all credentials to ensure the correct values.
 
 1. If everything is fine, the Validate Sync will generate all green checkmarks ![](assets/green-check.png). Review the message and click **[!UICONTROL Switch]** to update the Authentication Method.
 

@@ -3,12 +3,13 @@ unique-page-id: 10912237
 description: Email Template Picker Overview - Marketo Docs - Product Documentation
 title: Email Template Picker Overview
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
+feature: Email Editor
 ---
 # Email Template Picker Overview {#email-template-picker-overview}
 
 When you [create an email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), you have several free templates to choose from. You can also create your own template and save it for future use.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-1.png)
 
 **[!UICONTROL Name]** will be the name of the email you create based off the template, not the template itself. **[!UICONTROL Description]** also applies to the email, and is optional.
 
@@ -20,7 +21,7 @@ If your email is critical and you want it to circumvent Communication Limits, [m
 
 **[!UICONTROL Starter Templates]** includes a collection of ready-to-go responsive email templates. You may use them as-is, or customize them to your liking.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-4.png)
 
 **[!UICONTROL My Templates]** consists of all the templates you've created. You may also have folders.
 

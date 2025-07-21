@@ -3,6 +3,7 @@ unique-page-id: 2951167
 description: View Email Program Results - Marketo Docs - Product Documentation
 title: View Email Program Results
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
+feature: Email Programs
 ---
 # View Email Program Results {#view-email-program-results}
 

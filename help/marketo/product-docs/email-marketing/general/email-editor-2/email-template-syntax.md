@@ -3,6 +3,7 @@ unique-page-id: 11371040
 description: Email Template Syntax - Marketo Docs - Product Documentation
 title: Email Template Syntax
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
+feature: Email Editor
 ---
 # Email Template Syntax {#email-template-syntax}
 
@@ -50,7 +51,7 @@ The content within the HTML element (if provided) with class="mktEditable" will 
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ### Option 2 - mktoText {#option-mktotext}
 
@@ -68,7 +69,7 @@ The content within the HTML element (if provided) with class="mktoText" will be 
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ## Images {#images}
 
@@ -99,7 +100,7 @@ Default value (optional)
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### Option 2 - Use an \<img\> {#option-use-an-img}
 
@@ -117,11 +118,11 @@ Required attributes
 * **mktoLockImgStyle:** Used to lock the `<img>` element's style property (default is false).
 
 Example:
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
+`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
 ## Snippets {#snippets}
 
-If you define a region as a Snippet, end users will be able to choose which approved [Snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) they'd like to insert in this region. Although Rich Text elements can be converted into Snippets from within the email editor, when you define a region specifically as a Snippet it cannot be converted to Rich Text. You can specify a Snippet region using a `<div>` with class=”mktoSnippet”
+If you define a region as a Snippet, end users will be able to choose which approved [Snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)they'd like to insert in this region. Although Rich Text elements can be converted into Snippets from within the email editor, when you define a region specifically as a Snippet it cannot be converted to Rich Text. You can specify a Snippet region using a `<div>` with class="mktoSnippet"
 
 Required attributes
 
@@ -134,11 +135,11 @@ Default value (optional)
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div></pre>`
+`<div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div>`
 
 ## Video {#video}
 
-If you define a region as a Video, end users will be able to insert either a YouTube or [!DNL Vimeo] URL that will be displayed as a thumbnail image (with 'play' button) inside of the email. You can specify a Video region using a `<div>` with class=”mktoVideo"
+If you define a region as a Video, end users will be able to insert either a YouTube or Vimeo URL that will be displayed as a thumbnail image (with 'play' button) inside of the email. You can specify a Video region using a `<div>` with class="mktoVideo"
 
 Required attributes  
 
@@ -151,15 +152,15 @@ Optional attributes
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div></pre>`
+`<div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div>`
 
 ## Variables {#variables}
 
-Variables are like tokens. You first define them within the `<head>` section of your email template using `<meta>` tags, then use them as many times as you want throughout your template. Because they’re defined in the template, the end user will be able to modify their values according to their rules. Note that you can define a variable as local or global in scope. If you use a variable within a "Module" (see below), and an end user duplicates that module, local variables will have independent values, while global variables will apply to both modules.
+Variables are like tokens. You first define them within the `<head>` section of your email template using `<meta>` tags, then use them as many times as you want throughout your template. Because they're defined in the template, the end user will be able to modify their values according to their rules. Note that you can define a variable as local or global in scope. If you use a variable within a "Module" (see below), and an end user duplicates that module, local variables will have independent values, while global variables will apply to both modules.
 
 ## String {#string}
 
-If you specify a variable as a String, the end user will be able to enter text within a text box in the email editor. You specify a String variable using `<meta>` with class=“mktoString”
+If you specify a variable as a String, the end user will be able to enter text within a text box in the email editor. You specify a String variable using `<meta>` with class="mktoString"
 
 Required attributes
 
@@ -174,15 +175,15 @@ Optional attributes
 
 Example Declaration:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me"></pre>`
+`<meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me">`
 
 Example Usage:
 
-`<pre data-theme="Confluence">${textHeader}</pre>`
+`${textHeader}`
 
 ## List {#list}
 
-If you specify a variable as a List, the end user will be able to pick from a set of values you define in the email editor. You specify a List variable using `<meta>` with class=“mktoList”
+If you specify a variable as a List, the end user will be able to pick from a set of values you define in the email editor. You specify a List variable using `<meta>` with class="mktoList"
 
 Required attributes
 
@@ -197,15 +198,15 @@ Optional attributes
 
 Example Declaration:
 
-`<pre data-theme="Confluence"><meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman"></pre>`
+`<meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman">`
 
 Example Usage:
 
-`<pre data-theme="Confluence">${textFontFamily}</pre>`
+`${textFontFamily}`
 
 ## Number {#number}
 
-If you specify a variable as a Number, the end user will be able to enter a number in the email editor. You specify a Number variable using `<meta>` with class=”mktoNumber”
+If you specify a variable as a Number, the end user will be able to enter a number in the email editor. You specify a Number variable using `<meta>` with class="mktoNumber"
 
 Required attributes
 
@@ -223,15 +224,15 @@ Optional attributes
 
 Example Declaration:
 
-`<pre data-theme="Confluence"><meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> </pre>`
+`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> `
 
 Example Usage:
 
-`<pre data-theme="Confluence">${textFontSize}</pre>`
+`${textFontSize}`
 
 ## Color {#color}
 
-If you specify a variable as a Color, the end user will be able to enter a hexadecimal color value or choose a color from the color picker within the email editor. You specify a Color variable using `<meta>` with class=“mktoColor”
+If you specify a variable as a Color, the end user will be able to enter a hexadecimal color value or choose a color from the color picker within the email editor. You specify a Color variable using `<meta>` with class="mktoColor"
 
 Required attributes
 
@@ -245,15 +246,15 @@ Optional attributes
 
 Example Declaration:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF"></pre>`
+`<meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF">`
 
 Example Usage:
 
-`<pre data-theme="Confluence">${textColor}</pre>`
+`${textColor}`
 
 ## Boolean {#boolean}
 
-If you specify a variable as a Boolean, the end user will be able to toggle the option on/off within the email editor. You specify a Boolean variable using `<meta>` with class=“mktoBoolean”
+If you specify a variable as a Boolean, the end user will be able to toggle the option on/off within the email editor. You specify a Boolean variable using `<meta>` with class="mktoBoolean"
 
 Required attributes
 
@@ -271,15 +272,15 @@ Optional attributes
 
 Example Declaration:
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES"></pre>`
+`<meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES">`
 
 Example Usage:
 
-`<pre data-theme="Confluence">${showFooter}</pre>`
+`${showFooter}`
 
 ## HTML Block {#html-block}
 
-If you specify a variable as an HTML Block, the end user will be able to input verbatim HTML from within the email editor. You specify an HTML Block variable using `<meta>` with class=”mktoHTML”
+If you specify a variable as an HTML Block, the end user will be able to input verbatim HTML from within the email editor. You specify an HTML Block variable using `<meta>` with class="mktoHTML"
 
 Required attributes  
 
@@ -293,11 +294,11 @@ Optional attributes
 
 Example Declaration:
 
-`<pre data-theme="Confluence"><meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel"></pre>`
+`<meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel">`
 
 Example Usage:
 
-`<pre data-theme="Confluence">${trackingPixel}</pre>`
+`${trackingPixel}`
 
 ## Image Variable {#image-variable}
 
@@ -315,11 +316,11 @@ Optional attributes
 
 Example Declaration:
 
-`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg"></pre>`
+`<meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg">`
 
 Example Usage:
 
-`<pre data-theme="Confluence">${heroBackgroundImage}</pre>`
+`${heroBackgroundImage}`
 
 ## Modules {#modules}
 
@@ -331,7 +332,7 @@ Modules are templatized sections defined at the template level that will show up
 
 **For containers of type `<table>`, `<tbody>`, `<thead>`, or `<tfoot>`:**
 
-Specified using `<tr>` with class=”mktoModule”
+Specified using `<tr>` with class="mktoModule"
 
 **For containers of type `<td>`:**
 
@@ -355,7 +356,7 @@ Optional attributes
 
 A container holds Modules and defines where they can be placed. When end users are re-ordering and inserting modules into their email, the container controls where they may go.
 
-**Specified using either `<table>`, `<tbody>`, `<thead>`, `<tfoot>` or `<td>` with class=”mktoContainer”**
+**Specified using either `<table>`, `<tbody>`, `<thead>`, `<tfoot>` or `<td>` with class="mktoContainer"**
 
 Required attributes  
 

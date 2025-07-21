@@ -3,24 +3,19 @@ unique-page-id: 1147027
 description: Sync Person to SFDC - Marketo Docs - Product Documentation
 title: Sync Person to SFDC
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
+feature: Smart Campaigns, Salesforce Integration
 ---
 # Sync Person to SFDC {#sync-person-to-sfdc}
+
+This flow step will insert Marketo-created people as leads into your Salesforce CRM.
 
 >[!NOTE]
 >
 >Only available when integrated with [!DNL Salesforce].
 
-## Overview {#overview}
+1. By default, this flow step will assign to lead owners based on the Salesforce auto-assignment rules.
 
-This flow step will insert Marketo-created people as leads into your [!DNL Salesforce] CRM.
-
-![](assets/sync-person-to-sfdc.png)
-
-## Usage {#usage}
-
-1. By default, this flow step will assign to lead owners based on the [!DNL Salesforce] auto-assignment rules.
-
-   ![](assets/sync-person-to-sfdc.png)
+   ![](assets/sync-person-to-sfdc-1.png)
 
    >[!TIP]
    >

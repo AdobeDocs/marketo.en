@@ -3,6 +3,7 @@ unique-page-id: 2360303
 description: Customize Stars and Flames - Marketo Docs - Product Documentation
 title: Customize Stars and Flames
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
+feature: Marketo Sales Insights
 ---
 # Customize Stars and Flames {#customize-stars-and-flames}
 
@@ -10,7 +11,7 @@ exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 >[!NOTE]
 >

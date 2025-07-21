@@ -2,6 +2,7 @@
 description: Step 1 of 4 - Install the Marketo Solution with Resource Owner Password Control Connection - Marketo Docs - Product Documentation
 title: Step 1 of 4 - Install the Marketo Solution with Resource Owner Password Control Connection
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
+feature: Microsoft Dynamics
 ---
 # Step 1 of 4: Install the Marketo Solution with Resource Owner Password Control Connection {#step-1-of-4-install-the-marketo-solution-ropc}
 
@@ -72,7 +73,7 @@ Before you can sync [!DNL Microsoft Dynamics] 365 and Marketo, you need to first
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 
-1. Marketo Lead Management will now show up in the list of solutions.
+1. "Marketo Lead Management" will now show up in the list of solutions.
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
@@ -80,8 +81,8 @@ Before you can sync [!DNL Microsoft Dynamics] 365 and Marketo, you need to first
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
-   High five! The installation is finished.
+   Nice work! The installation is finished.
 
    >[!MORELIKETHIS]
    >
-   >[Step 2 of 4: Set up the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
+   >[Step 2 of 4: Set up the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}

@@ -3,6 +3,7 @@ unique-page-id: 1147136
 description: Editing Entries in the Program Schedule View - Marketo Docs - Product Documentation
 title: Editing Entries in the Program Schedule View
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
+feature: Programs
 ---
 # Editing Entries in the Program Schedule View {#editing-entries-in-the-program-schedule-view}
 
@@ -14,7 +15,7 @@ You can make edits to the different elements of your program in the schedule vie
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Type in a new name and press **Enter/Return** on your keyboard to confirm the change.
+1. Type in a new name and press **[!UICONTROL Enter/Return]** on your keyboard to confirm the change.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -46,4 +47,4 @@ You rock! Now the date of your entry has been moved to a new date.
 
 >[!NOTE]
 >
-> Smart campaign and email program entries that have already run cannot be moved to the past.
+> Smart Campaign and email program entries that have already run cannot be moved to the past.

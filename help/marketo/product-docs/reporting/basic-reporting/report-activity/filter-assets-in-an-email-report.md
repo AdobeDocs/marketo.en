@@ -3,12 +3,17 @@ unique-page-id: 2360225
 description: Filter Assets in an Email Report - Marketo Docs - Product Documentation
 title: Filter Assets in an Email Report
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
+feature: Reporting
 ---
 # Filter Assets in an Email Report {#filter-assets-in-an-email-report}
 
 Focus your [Email Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) or [Email Link Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) report on emails in your programs ('local assets'), on those in Design Studio ('global assets'), or on those that have been archived.
 
-1. Go to **[!UICONTROL Analytics]** (or **[!UICONTROL Marketing Activities]**) area.
+>[!NOTE]
+>
+>Filtering assets in reports is not supported in Satellite Mode (the 'open in a new window' icon on the right of the asset detail page).
+
+1. Go to **Analytics** (or **Marketing Activities**) area.
 
    ![](assets/image2014-9-16-15-3a53-3a26.png)
 

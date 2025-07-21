@@ -3,6 +3,7 @@ unique-page-id: 3571805
 description: Step 1 of 3 -Install the Marketo Solution (2011 On-Premises) - Marketo Docs - Product Documentation
 title: Step 1 of 3 -Install the Marketo Solution (2011 On-Premises)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
+feature: Microsoft Dynamics
 ---
 # Step 1 of 3: Install the Marketo Solution (2011 On-Premises) {#step-of-install-the-marketo-solution-on-premises}
 
@@ -14,9 +15,9 @@ Before you can sync [!DNL Microsoft Dynamics] On-Premises and Marketo, you need 
 
 >[!PREREQUISITES]
 >
->You must have [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 or 3.0 (ADFS) configured. **Note**: The IFD document downloads automatically when you click the link.
+>You must have [Internet Facing Deployment](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 or 3.0 (ADFS) configured. **Note**: The IFD document downloads automatically when you click the link.
 >
->[Download the Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) before you start.
+>[Download the Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} before you start.
 
 >[!NOTE]
 >
@@ -79,8 +80,6 @@ Before you can sync [!DNL Microsoft Dynamics] On-Premises and Marketo, you need 
 1. Select [!UICONTROL Marketo Lead Management] and click **[!UICONTROL Publish All Customizations]**.
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
-
-Wasn't too bad right? Come on, I'll keep walking you through the rest.
 
 >[!CAUTION]
 >

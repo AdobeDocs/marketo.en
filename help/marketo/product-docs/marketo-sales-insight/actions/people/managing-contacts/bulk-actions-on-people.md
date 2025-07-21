@@ -2,6 +2,7 @@
 description: Bulk Actions on People - Marketo Docs - Product Documentation
 title: Bulk Actions on People
 exl-id: fcd89688-6905-4714-9254-42873eca8428
+feature: Sales Insight Actions
 ---
 # Bulk Actions on People {#bulk-actions-on-people}
 
@@ -38,9 +39,3 @@ In compliance with [GDPR](https://eugdpr.org/), use authorization to indicate ho
 Perform a bulk unsubscribe on contacts who no longer wish to receive correspondence from you.
 
 ![](assets/bulk-actions-on-people-5.png)
-
-## Delete {#delete}
-
-Delete contacts in bulk. Full steps can be found [here](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md).
-
-![](assets/bulk-actions-on-people-6.png)

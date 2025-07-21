@@ -3,6 +3,7 @@ unique-page-id: 11378713
 description: Trigger Off Custom Object Changes - Marketo Docs - Product Documentation
 title: Trigger Off Custom Object Changes
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
+feature: Custom Objects
 ---
 # Trigger Off Custom Object Changes {#trigger-off-custom-object-changes}
 
@@ -10,41 +11,40 @@ exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 >
 >This feature is available only:
 >
->* For customers on the [!DNL Orion] infrastructure
 >* For use only with Marketo custom objects, not custom objects synced through the native [!DNL Salesforce] or [!DNL Microsoft Dynamics] integration
 >* As a trigger, not a filter
 >
 >Please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to have Custom Object Change Triggers enabled.
 
-In a smart campaign's smart list, you can trigger a flow action when a custom object is added to a person or company. You can also create a smart list that uses a *change* in a custom object as a trigger. For example, use it to send an email when a course name is updated.
+In a smart campaign's smart list, you can trigger a flow action when a custom object is added to a person or company. You can also create a smart list that uses a _change_ in a custom object as a trigger. For example, use it to send an email when a course name is updated.
 
 >[!NOTE]
 >
 >An activity log entry is not created when a custom object record is changed.
 
-1. In Marketo, go to **[!UICONTROL Marketing Activities].**
+1. In Marketo Engage, go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/image2016-7-25-15-3a49-3a52.png)
+   ![](assets/trigger-off-custom-object-changes-1.png)
 
 1. Create or open an existing Smart Campaign, and select the Smart List.
 
-   ![](assets/image2016-7-25-16-3a9-3a19.png)
+   ![](assets/trigger-off-custom-object-changes-2.png)
 
 1. Search for the trigger you need and drag it onto the canvas.
 
-   ![](assets/image2016-7-25-16-3a16-3a43.png)
+   ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Select the **[!UICONTROL Trigger Attribute]**.
+1. Select the [!UICONTROL trigger attribute].
 
-   ![](assets/image2016-7-25-16-3a21-3a42.png)
+   ![](assets/trigger-off-custom-object-changes-4.png)
 
 1. Optionally, set a constraint.
 
-   ![](assets/image2016-9-6-14-3a25-3a22.png)
+   ![](assets/trigger-off-custom-object-changes-5.png)
 
 1. And there you are. The change is automatically saved.
 
-   ![](assets/image2016-9-6-14-3a25-3a54.png)
+   ![](assets/trigger-off-custom-object-changes-6.png)
 
    >[!NOTE]
    >

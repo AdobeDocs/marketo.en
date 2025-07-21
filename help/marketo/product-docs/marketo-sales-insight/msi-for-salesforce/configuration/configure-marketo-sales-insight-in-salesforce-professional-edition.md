@@ -1,12 +1,13 @@
 ---
 unique-page-id: 3571743
-description: Configure Marketo Sales Insight in Salesforce Professional Edition - Marketo Docs - Product Documentation
+description: Learn how to configure Marketo Sales Insight in Salesforce Professional Edition.
 title: Configure Marketo Sales Insight in Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
+feature: Marketo Sales Insights
 ---
 # Configure [!DNL Marketo Sales Insight] in [!DNL Salesforce] Professional Edition {#configure-marketo-sales-insight-in-salesforce-professional-edition}
 
-Here are the steps you need to take to configure [!DNL Marketo Sales Insight] in [!DNL Salesforce] Professional Edition. Let's get started.
+Configure Marketo Sales Insight in Salesforce Professional Edition by completing the following steps.
 
 >[!PREREQUISITES]
 >
@@ -16,12 +17,13 @@ Here are the steps you need to take to configure [!DNL Marketo Sales Insight] in
 
 >[!NOTE]
 >
->**Admin Permissions Required**
+>**Admin permissions are required.**
 
-## Configure [!DNL Sales Insight] in Marketo {#configure-sales-insight-in-marketo}
+## Configure Sales Insight in Marketo Engage {#configure-sales-insight-in-marketo}
 
-1. Open a new browser window to get the [!DNL Marketo Sales Insight] credentials from your Marketo account.
-1. Go to the [!UICONTROL Admin] area and select **[!UICONTROL Sales Insight]**.
+1. To get the Marketo Sales Insight credentials from your Marketo account, open a new browser window.
+
+1. Go to the **[!UICONTROL Admin]** area and select **[!UICONTROL Sales Insight]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
 
@@ -29,29 +31,29 @@ Here are the steps you need to take to configure [!DNL Marketo Sales Insight] in
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-2-1.png)
 
-1. Enter an API Secret Key of your choosing and click **[!UICONTROL Save]**. Do NOT use an ampersand (&) in your API Secret Key.
+1. Enter an API Secret Key of your choosing and click **[!UICONTROL Save]**. Do NOT use an ampersand (`&`) in your API secret key.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-3-1.png)
 
    >[!NOTE]
    >
-   >Your API Secret Key is like a password for your organization and should be secure.
+   >Your API secret key is like a password for your organization and should be secure.
 
-1. Click **[!UICONTROL View]** in the [!UICONTROL Rest API Configuration] panel to populate the credentials.
+1. To populate the credentials, click **[!UICONTROL View]** in the _[!UICONTROL Rest API Configuration]_ panel.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 
-1. You will see a confirmation pop-up. Click **[!UICONTROL OK]**.
+1. When you see a confirmation dialog, click **[!UICONTROL OK]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5-1.png)
 
 ## Configure Sales Insight in [!DNL Salesforce] {#configure-sales-insight-in-salesforce}
 
-1. In [!DNL Salesforce], click **[!UICONTROL Setup]**.
+1. From Salesforce, click **[!UICONTROL Setup]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-6-1.png)
 
-1. Search for “[!UICONTROL remote site]" and select **[!UICONTROL Remote Site Settings]**.
+1. Search for "remote site" and select **[!UICONTROL Remote Site Settings]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-7-1.png)
 
@@ -59,7 +61,7 @@ Here are the steps you need to take to configure [!DNL Marketo Sales Insight] in
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8-1.png)
 
-1. Enter the [!UICONTROL Remote Site Name] (it can be something like “MarketoSoapAPI”). Enter [!UICONTROL Remote Site URL], which is your Marketo Host URL from the Soap API Configuration panel in Marketo. Click **[!UICONTROL Save]**. You have now created remote site settings for Soap API.
+1. Enter the Remote Site Name (it can be something similar to `MarketoSoapAPI`). Enter Remote Site URL, which is your Marketo Host URL from the Soap API Configuration panel in Marketo Engage. Click **[!UICONTROL Save]**. You have now created remote site settings for Soap API.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9-1.png)
 
@@ -67,61 +69,29 @@ Here are the steps you need to take to configure [!DNL Marketo Sales Insight] in
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10-1.png)
 
-1. Enter the [!UICONTROL Remote Site Name] (it can be something like “MarketoRestAPI”). Enter [!UICONTROL Remote Site URL], which is your API URL from [!UICONTROL Rest API Configuration] panel in Marketo. Click **[!UICONTROL Save]**. You have now created remote site settings for Rest API.
+1. Enter the Remote Site Name (it can be something like "MarketoRestAPI"). Enter Remote Site URL, which is your API URL from Rest API Configuration panel in Marketo. Click **[!UICONTROL Save]**. You have now created remote site settings for Rest API.
+   
+## Grant Sales Insight users profile access to standard Salesforce objects {#grant-sales-insight-users-profile-access}
 
-## Set up [!DNL Marketo Sales Insight] {#set-up-marketo-sales-insight}
+Due to Salesforce security enhancements, AppExchange packages can no longer grant permission to standard objects, and access must be granted to the relevant Salesforce objects from the Salesforce user's profile. Grant the required permissions by following these steps. 
 
-1. Log in to your Marketo instance and click **[!UICONTROL Admin]**.
+1. Click **[!UICONTROL Setup]**.
 
-   ![](assets/login-admin-1.png)
+1. Search "Profiles" in Quick find.
 
-1. Click **[!UICONTROL Sales Insight]**.
+1. Click **[!UICONTROL Edit]** next to the profile that your Salesforce users are using.
 
-   ![](assets/image2015-5-22-15-3a12-3a33-1.png)
+1. Under the Standard Object Permission section, enable Read access for the following objects: Lead, Contact, Account, and Opportunity.
 
-1. Click **[!UICONTROL Edit API Configuration]**.
+1. Click **[!UICONTROL Save]**.
 
-   ![](assets/image2015-5-22-15-3a15-3a0-1.png)
-
-1. Enter an **[!UICONTROL API Secret Key]** and click **[!UICONTROL Save]**.
-
-   >[!CAUTION]
-   >
-   >Don't use an ampersand (&) in your API Secret Key.
-
-   ![](assets/image2015-5-27-16-3a36-3a56-1.png)
-
-   >[!TIP]
-   >
-   >Keep this window open. You will need this information later in [!DNL Salesforce].
-
-1. Go back to [!DNL Salesforce], click **[!UICONTROL Setup]**.
-
-   ![](assets/image2015-5-22-14-3a40-3a39-1.png)
-
-1. Search for "[!UICONTROL remote site]" and click **[!UICONTROL Remote Site Setting]** under **[!UICONTROL Security Controls]**.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. Click **[!UICONTROL New Remote Site]**.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. Enter **[!UICONTROL Remote Site Name]** and **[!UICONTROL Remote Site URL]**, then click **[!UICONTROL Save]**.
-
-   ![](assets/remote-site-1.png)
-
-   >[!NOTE]
-   >
-   >You choose your **[!UICONTROL Remote Site Name]** (MarketoAPI is used here). The **[!UICONTROL Remote Site URL]** can be found in the Marketo Host field of your Edit API Configuration dialog box from Step 4.
-
-## Customize Page Layouts {#customize-page-layouts}
+## Customize page layouts {#customize-page-layouts}
 
 1. Click **[!UICONTROL Setup]**.
 
    ![](assets/image2015-5-22-14-3a40-3a39-1.png)
 
-1. Search for "[!UICONTROL page layout]" and select the **[!UICONTROL Page Layout]** under **[!UICONTROL Leads]**.
+1. Search for "page layout" and select the **[!UICONTROL Page Layout]** under **[!UICONTROL Leads]**.
 
    ![](assets/image2015-5-28-14-3a58-3a39-1.png)
 
@@ -139,13 +109,13 @@ Here are the steps you need to take to configure [!DNL Marketo Sales Insight] in
 
    >[!TIP]
    >
-   >The name of this box will change based on the object type. For example, if you are modifying the page layout for Contacts, it will say Contact.
+   >The name of this box changes based on the object type. For example, if you are modifying the page layout for Contacts, it displays Contact.
 
-1. Double-click on the **[!UICONTROL Lead]** block that you just added.
+1. Double-click the **[!UICONTROL Lead]** block that you just added.
 
    ![](assets/image2014-9-24-17-3a34-3a0.png)
 
-1. Edit height to **450** pixels and click **[!UICONTROL OK]**.
+1. Edit height to 450 pixels and click **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-24-17-3a34-3a26.png)
 
@@ -155,56 +125,39 @@ Here are the steps you need to take to configure [!DNL Marketo Sales Insight] in
 
    >[!TIP]
    >
-   >We recommend a height of 410 pixels for the Accounts and Opportunities objects.
+   >The recommended height for the Accounts and Opportunities objects is 410 pixels.
 
-1. Click on **[!UICONTROL Fields]** on the left. Then search and drag the **[!UICONTROL Engagement]** label into the **[!UICONTROL Marketo Sales Insight]** layout.
+1. Click **[!UICONTROL Fields]** on the left. Then search and drag the **[!UICONTROL Engagement]** label into the **[!UICONTROL Marketo Sales Insight]** layout.
 
    ![](assets/image2015-5-22-16-3a32-3a46-1.png)
 
-1. Repeat the above step for these fields as well.
+1. Repeat the preceding step for the following fields:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1">Engagement</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Relative Score Value]</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Urgency Value]</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Last Interesting Moment Date]</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Last Interesting Moment Desc]</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Last Interesting Moment Source]</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Last Interesting Moment Type]</p></td> 
-  </tr> 
- </tbody> 
-</table>
+   * [!UICONTROL Engagement]
+   * [!UICONTROL Relative Score Value]
+   * [!UICONTROL Urgency Value]
+   * [!UICONTROL Last Interesting Moment Date]
+   * [!UICONTROL Last Interesting Moment Desc]
+   * [!UICONTROL Last Interesting Moment Source]
+   * [!UICONTROL Last Interesting Moment Type]
 
 1. Click **[!UICONTROL Save]** when finished.
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Repeat this process to add Visualforce page sections and Sales Insight fields for **[!UICONTROL Contact]**, **[!UICONTROL Account]** and **[!UICONTROL Opportunity]**.
-1. Repeat steps 5-7 to add Visualforce page sections for Contact, Account, and Opportunity. Then, repeat steps 8-10 to add Sales Insight fields for **[!UICONTROL Contact]**. Be sure to save after any changes.
+1. To add Visualforce page sections for **[!UICONTROL Contact]**, **[!UICONTROL Account]**, and **[!UICONTROL Opportunity]**, repeat steps 5-7.  
 
-## Map Custom Person Fields {#map-custom-person-fields}
+1. Repeat steps 8-10 to add Sales Insight fields for **[!UICONTROL Contact]**. Be sure to save after any changes.
 
-Marketo person fields need to be mapped to [!DNL Salesforce] contact fields to ensure that the conversion works properly. Here's how.
+## Map custom person fields {#map-custom-person-fields}
+
+Marketo person fields must be mapped to Salesforce contact fields to ensure that the conversion works properly. Follow these steps to map them.
 
 1. Click **[!UICONTROL Setup]**.
 
    ![](assets/image2015-5-22-14-3a40-3a39-1.png)
 
-1. Search for "[!UICONTROL fields]" in the search bar and click **[!UICONTROL Fields]** under **[!UICONTROL Leads]**.
+1. Search for "fields" in the search bar and click **[!UICONTROL Fields]** under **[!UICONTROL Leads]**.
 
    ![](assets/image2015-6-1-9-3a54-3a50-1.png)
 
@@ -212,7 +165,7 @@ Marketo person fields need to be mapped to [!DNL Salesforce] contact fields to e
 
    ![](assets/image2015-6-1-9-3a58-3a48-1.png)
 
-1. Click on the dropdown on the right for **[!UICONTROL Engagement]**.
+1. Click the dropdown on the right for **[!UICONTROL Engagement]**.
 
    ![](assets/image2015-6-1-10-3a9-3a53-1.png)
 
@@ -220,68 +173,43 @@ Marketo person fields need to be mapped to [!DNL Salesforce] contact fields to e
 
    ![](assets/image2015-6-1-10-3a12-3a11-1.png)
 
-1. Repeat and map these fields as well.
+1. Repeat and map these fields also.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th colspan="1" rowspan="1">Marketo Person Custom Field</th> 
-   <th colspan="1" rowspan="1">[!DNL Salesforce] Contact Custom Field</th> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Engagement]</p></td> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Contact.Engagement]</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Relative Score Value]</p></td> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Contact.Relative Score Value]</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Urgency Value]</p></td> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Contact.Urgency Value]</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Last Interesting Moment Date]</p></td> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Contact.Last Interesting Moment Date]</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Last Interesting Moment Desc]</p></td> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Contact.Last Interesting Moment Desc]</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Last Interesting Moment Source]</p></td> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Contact.Last Interesting Moment Source]</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Last Interesting Moment Type]</p></td> 
-   <td colspan="1" rowspan="1"><p>[!UICONTROL Contact.Last Interesting Moment Type]</p></td> 
-  </tr> 
- </tbody> 
-</table>
+   |Marketo Person Custom Field|Salesforce Contact Custom Field|
+   |--- |--- |
+   |`Engagement`|`Contact.Engagement`|
+   |`Relative Score Value`|`Contact.Relative Score Value`|
+   |`Urgency Value`|`Contact.Urgency Value`|
+   |`Last Interesting Moment Date`|`Contact.Last Interesting Moment Date`|
+   |`Last Interesting Moment Desc`|`Contact.Last Interesting Moment Desc`|
+   |`Last Interesting Moment Source`|`Contact.Last Interesting Moment Source`|
+   |`Last Interesting Moment Type`|`Contact.Last Interesting Moment Type`|
 
-1. Click **[!UICONTROL Save]** when you’re done.
+   {style="table-layout:auto"}
+
+1. When you are done, click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
-## [!DNL Marketo Sales Insight] Configuration Tab {#marketo-sales-insight-configuration-tab}
+## Marketo Sales Insight configuration tab {#marketo-sales-insight-configuration-tab}
 
-1. In [!DNL Salesforce], click the **+** at the end of the tab bar and click **[!UICONTROL Marketo Sales Insight Config]**.
+1. From Salesforce, click the **+** at the end of the tab bar and click **[!UICONTROL Marketo Sales Insight Config]**.
 
-1. Copy the credentials from the Soap API panel in [Marketo’s Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Soap API section of the [!DNL Salesforce] [!UICONTROL Sales Insight Configuration] page.
+1. Copy the credentials from the Soap API panel in [Marketo's Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Soap API section of the Salesforce Sales Insight Configuration page.
 
-1. Copy the credentials from the Rest API panel in [Marketo’s Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Rest API section of the [!DNL Salesforce] [!UICONTROL Sales Insight Configuration] page.
+1. Copy the credentials from the **[!UICONTROL Rest API]** panel in [Marketo's Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Rest API section of the Salesforce Sales Insight Configuration page.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
-And that’s it! You should be able to see the [!DNL Marketo Sales Insight] fields for Leads, Contacts, Accounts and Opportunities.
+You should be able to see the Marketo Sales Insight fields for Leads, Contacts, Accounts, and Opportunities.
 
 >[!NOTE]
 >
->If the diagnostics test failed, you might need to [add more fields to your page layout](https://nation.marketo.com/docs/DOC-1115){target="_blank"}.
+>If the diagnostics test failed, [adding more fields to your page layout](https://nation.marketo.com/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} might fix the issue.
 
 >[!NOTE]
 >
->For accounts, [!DNL Sales Insight] will include all emails, but only the most recent interesting moments, web activity, and score changes.
+>For accounts, Sales Insight includes all emails, but only the most recent interesting moments, web activity, and score changes.
 
 >[!MORELIKETHIS]
 >

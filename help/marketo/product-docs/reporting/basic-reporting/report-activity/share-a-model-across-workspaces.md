@@ -3,6 +3,7 @@ unique-page-id: 2360205
 description: Share a Model Across Workspaces - Marketo Docs - Product Documentation
 title: Share a Model Across Workspaces
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
+feature: Reporting
 ---
 # Share a Model Across Workspaces {#share-a-model-across-workspaces}
 

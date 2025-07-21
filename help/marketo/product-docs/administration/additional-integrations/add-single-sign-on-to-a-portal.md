@@ -3,6 +3,7 @@ unique-page-id: 2360356
 description: Add Single Sign-On to a Portal - Marketo Docs - Product Documentation
 title: Add Single Sign-On to a Portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
+feature: Administration
 ---
 # Add Single Sign-On to a Portal {#add-single-sign-on-to-a-portal}
 
@@ -16,9 +17,13 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 >
 >**Admin Permissions Required**
 
+>[!IMPORTANT]
+>
+>This does not apply to subscriptions onboarded to Adobe Identity. For subscriptions onboarded to Adobe Identity, Single Sign On is set up at the Adobe Org level in Adobe Admin Console. Adobe Admin Console only supports SP-initiated at this time. [Learn more here](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+
 >[!NOTE]
 >
->Are you a [!DNL Microsoft Azure] user? Check out their [integration tutorial](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
+>Are you a [!DNL Microsoft Azure] user? Check out their [integration tutorial](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. FYI, there is a typo in Step 5c of their tutorial. Please set the Relay State to `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`.
 
 ## How to Send the Request {#how-to-send-the-request}
 
@@ -29,7 +34,7 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 
 >[!NOTE]
 >
->Marketo only supports Identity Provider-initiated (also known as IdP-initiated), in which the user first launches the Idp login page, authenticates, then navigates to My Marketo.
+>Marketo only supports Identity Provider-initiated (also known as IdP-initiated), in which the user first launches the IdP login page, authenticates, then navigates to My Marketo. If your Marketo subscription has been moved to admin console, Adobe Admin Console only supports Service Provider-initiated (also known as SP-initiated) at this time. There may be changes made in your SSO experience. 
 
 ## Additional Notes {#additional-notes}
 

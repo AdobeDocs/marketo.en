@@ -3,6 +3,7 @@ unique-page-id: 11379928
 description: Change Details in Audit Trail - Marketo Docs - Product Documentation
 title: Change Details in Audit Trail
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
+feature: Audit Trail
 ---
 # Change Details in Audit Trail {#change-details-in-audit-trail}
 
@@ -130,7 +131,7 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
   </tr> 
   <tr> 
    <td>Edit</td> 
-   <td>Edit module <code>"<module name>" <attribute></code> to "value"</td> 
+   <td>Edit module <code>"&lt;module name&gt;" &lt;attribute&gt;</code> to "value"</td> 
   </tr> 
   <tr> 
    <td>Delete</td> 

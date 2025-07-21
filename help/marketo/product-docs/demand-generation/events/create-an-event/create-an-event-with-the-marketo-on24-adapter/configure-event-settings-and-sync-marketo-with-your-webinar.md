@@ -3,6 +3,7 @@ unique-page-id: 10096673
 description: Configure Event Settings and Sync Marketo with Your Webinar - Marketo Docs - Product Documentation
 title: Configure Event Settings and Sync Marketo with Your Webinar
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
+feature: Events
 ---
 # Configure Event Settings and Sync Marketo with Your Webinar {#configure-event-settings-and-sync-marketo-with-your-webinar}
 

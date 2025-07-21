@@ -3,6 +3,7 @@ unique-page-id: 2949202
 description: SEO - Get Suggested Keywords - Marketo Docs - Product Documentation
 title: SEO - Get Suggested Keywords
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
+feature: SEO
 ---
 # SEO - Get Suggested Keywords {#seo-get-suggested-keywords}
 
@@ -62,11 +63,9 @@ Marketo SEO can suggest which keywords you should be tracking. We can give sugge
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
-1. Great! Your keyword has been added.
+Great! Your keyword has been added.
 
    ![](assets/image2014-9-18-11-3a8-3a25.png)
-
-   OK, you are rockin' this thing. Carry on!
 
    >[!MORELIKETHIS]
    >

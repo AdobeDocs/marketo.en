@@ -3,6 +3,7 @@ unique-page-id: 2953348
 description: Create Entries Directly in the Marketing Calendar - Marketo Docs - Product Documentation
 title: Create Entries Directly in the Marketing Calendar
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
+feature: Marketing Calendar
 ---
 # Create Entries Directly in the Marketing Calendar {#create-entries-directly-in-the-marketing-calendar}
 
@@ -13,9 +14,7 @@ Marketo allows you to create entries directly in your Marketing Calendar by usin
 * Email Programs
 * Smart Campaigns
 
-Here's how.
-
-1. Go to the **[!UICONTROL Calendar]**.
+1. Click the **[!UICONTROL Calendar]** tile.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -41,4 +40,4 @@ Here's how.
 
 >[!MORELIKETHIS]
 >
->[Edit Entries Directly In the Marketing Calendar](edit-entries-directly-in-the-marketing-calendar.md)
+>[Edit Entries Directly In the Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}

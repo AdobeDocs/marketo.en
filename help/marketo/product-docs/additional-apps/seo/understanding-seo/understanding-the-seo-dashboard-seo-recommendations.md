@@ -3,6 +3,7 @@ unique-page-id: 2949180
 description: Understanding the SEO Dashboard -SEO Recommendations - Marketo Docs - Product Documentation
 title: Understanding the SEO Dashboard -SEO Recommendations
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
+feature: SEO
 ---
 # Understanding the SEO Dashboard: SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
 
@@ -18,7 +19,7 @@ This will show you five high-impact ways to start optimizing your site right awa
 
 >[!TIP]
 >
->You can click on [!UICONTROL Top Page Optimization Issues] to see a full list.
+>You can click [!UICONTROL Top Page Optimization Issues] to see a full list.
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
@@ -31,8 +32,6 @@ Having reputable sites link to your content can increase your page ranking. Here
 >You can click on [!UICONTROL Top Link Optimization] to see a full list.
 
 ![](assets/image2014-9-17-21-3a41-3a17.png)
-
-Right on! Dive deeper here.
 
 >[!MORELIKETHIS]
 >

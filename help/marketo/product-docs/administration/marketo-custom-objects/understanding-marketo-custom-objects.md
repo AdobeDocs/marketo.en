@@ -3,6 +3,7 @@ unique-page-id: 10093188
 description: Understanding Marketo Custom Objects - Marketo Docs - Product Documentation
 title: Understanding Marketo Custom Objects
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
+feature: Custom Objects
 ---
 # Understanding Marketo Custom Objects {#understanding-marketo-custom-objects}
 
@@ -10,7 +11,7 @@ Use custom objects to track metrics specific to your business.
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 Use custom objects as filters and triggers in your smart campaigns. For example:
 
@@ -79,6 +80,10 @@ After you've created the custom object structure, when you upload the specific c
 1. Now you can view a list of all custom objects of that type that are associated to that person.
 
    ![](assets/understanding-marketo-custom-objects-8.png)
+
+   >[!NOTE]
+   >
+   >In a person record, the Custom Object tab can display a maximum of 100 records, sorted by ID in descending order.
 
 ## Using Custom Objects with Companies {#using-custom-objects-with-companies}
 

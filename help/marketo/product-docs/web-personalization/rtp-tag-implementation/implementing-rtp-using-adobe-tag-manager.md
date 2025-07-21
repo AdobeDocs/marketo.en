@@ -3,6 +3,7 @@ unique-page-id: 4720218
 description: Implementing RTP using Adobe Tag Manager - Marketo Docs - Product Documentation
 title: Implementing RTP using Adobe Tag Manager
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
+feature: Web Personalization
 ---
 # Implementing RTP using Adobe Tag Manager {#implementing-rtp-using-adobe-tag-manager}
 

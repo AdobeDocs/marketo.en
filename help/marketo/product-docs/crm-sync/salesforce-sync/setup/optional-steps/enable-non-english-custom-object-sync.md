@@ -3,6 +3,7 @@ unique-page-id: 4719302
 description: Enable Non-English Custom Object Sync - Marketo Docs - Product Documentation
 title: Enable Non-English Custom Object Sync
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
+feature: Salesforce Integration
 ---
 # Enable Non-English Custom Object Sync {#enable-non-english-custom-object-sync}
 
@@ -38,7 +39,7 @@ If your Marketo sync user is set to a language other than English you may run in
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Back in Marketo, under **[!UICONTROL Admin] > [!UICONTROL Salesforce] > [!UICONTROL Objects]** click **[!UICONTROL Refresh Schema]**.
+1. Back in Marketo, under **[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objects]**, click **[!UICONTROL Refresh Schema]**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
@@ -46,7 +47,7 @@ If your Marketo sync user is set to a language other than English you may run in
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
-1. Notice your custom object is now enabled and synching.
+1. Notice your custom object is now enabled and syncing.
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 

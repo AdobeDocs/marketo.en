@@ -3,6 +3,7 @@ unique-page-id: 2360364
 description: Step 2 of 3 -Create a Salesforce User for Marketo (Enterprise/Unlimited) - Marketo Docs - Product Documentation
 title: Step 2 of 3 -Create a Salesforce User for Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
+feature: Salesforce Integration
 ---
 # Step 2 of 3: Create a [!DNL Salesforce] User for Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
@@ -117,20 +118,20 @@ In this article, you will set up user permissions in [!DNL Salesforce] profile, 
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1" rowspan="1"><p>Object</p></th> 
-   <th colspan="1" rowspan="1"><p>Fields</p></th> 
+   <th>Object</th> 
+   <th>Fields</th> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Account</p></td> 
-   <td colspan="1" rowspan="1"><p>Type field</p></td> 
+   <td>Account</td> 
+   <td>Type field</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Event</p></td> 
-   <td colspan="1" rowspan="1"><p>All fields</p></td> 
+   <td>Event</td> 
+   <td>All fields</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Task</p></td> 
-   <td colspan="1" rowspan="1"><p>All fields</p></td> 
+   <td>Task</td> 
+   <td>All fields</td> 
   </tr> 
  </tbody> 
 </table>
@@ -151,7 +152,7 @@ In this article, you will set up user permissions in [!DNL Salesforce] profile, 
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
-Step 2 of 2 is completed.
+Step 2 of 3 is completed.
 
 >[!NOTE]
 >

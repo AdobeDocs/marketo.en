@@ -3,6 +3,7 @@ unique-page-id: 37355534
 description: Release Notes - Jan 2020 - Marketo Docs - Product Documentation
 title: Release Notes - Jan 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
+feature: Release Information
 ---
 # Release Notes: Jan 2020 {#release-notes-jan}
 
@@ -33,7 +34,7 @@ The following features will be released on **January 17, 2020**.
 
 ![(star)](assets/yellow-star.png)
 
-* **[New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/yellow-star.png)**: Use Account Profiling to discover net-new target accounts for your ABM strategy based on your AI-powered ideal customer profile model. View, select, and import recommended new accounts, along with their AI-based fit and intent data indicators, that do not already exist inside your Marketo Engage lead and account database for ABM targeting. Immediately available for qualifying Account Profiling customers.
+* [New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/yellow-star.png): Use Account Profiling to discover net-new target accounts for your ABM strategy based on your AI-powered ideal customer profile model. View, select, and import recommended new accounts, along with their AI-based fit and intent data indicators, that do not already exist inside your Marketo Engage lead and account database for ABM targeting. Immediately available for qualifying Account Profiling customers.
 
 <br>&nbsp;
 

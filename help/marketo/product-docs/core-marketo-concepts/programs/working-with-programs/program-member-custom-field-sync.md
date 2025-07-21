@@ -2,6 +2,7 @@
 description: Program Member Custom Field Sync - Marketo Docs - Product Documentation
 title: Program Member Custom Field Sync
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
+feature: Programs
 ---
 # Program Member Custom Field Sync {#program-member-custom-field-sync}
 
@@ -20,7 +21,7 @@ exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 
    ![](assets/program-member-custom-field-sync-1.png)
  
-1. Click **[!UICONTROL Salesforce]**, then click **[!UICONTROL Edit]** next to [!UICONTROL Program Member Custom Field Sync].
+1. Click **[!DNL Salesforce]**, then click **[!UICONTROL Edit]** next to Program Member Custom Field Sync.
 
    ![](assets/program-member-custom-field-sync-2.png)
  
@@ -62,7 +63,7 @@ If you ever want to free up a field in order to replace it, or just make a gener
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Click **[!UICONTROL Salesforce]**, then click **[!UICONTROL Edit]** next to [!UICONTROL Program Member Custom Field Sync].
+1. Click **[!DNL Salesforce]**, then click **[!UICONTROL Edit]** next to Program Member Custom Field Sync.
 
    ![](assets/program-member-custom-field-sync-8.png)
 

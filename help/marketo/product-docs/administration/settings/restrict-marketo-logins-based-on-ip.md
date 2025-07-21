@@ -3,6 +3,7 @@ unique-page-id: 2360297
 description: Restrict Marketo Logins Based on IP - Marketo Docs - Product Documentation
 title: Restrict Marketo Logins Based on IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
+feature: Administration
 ---
 # Restrict Marketo Logins Based on IP {#restrict-marketo-logins-based-on-ip}
 
@@ -12,17 +13,21 @@ You can restrict or enable users from accessing Marketo based on their IP addres
 >
 >**Admin Permissions Required**
 
->[!NOTE]
+>[!IMPORTANT]
 >
->The information in this article only applies to direct log-ins at login.marketo.com. It is not possible to enforce IP restrictions on single sign-on (SSO) log-ins at this time.
+>The information in this article is for users who log in directly at login.marketo.com and does not apply to those who authenticate with Adobe ID. It is not possible to enforce IP restrictions on single sign-on (SSO) logins at this time.
 
-1. Under **[!UICONTROL Admin]**, click **[!UICONTROL Login Settings]**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2014-9-16-12-3a57-3a56.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-1.png)
+
+1. Click **[!UICONTROL Login Settings]**.
+
+   ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
 1. Click **[!UICONTROL Edit IP Restrictions]**.
 
-   ![](assets/image2014-9-16-12-3a58-3a13.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
 1. Choose whether you want to **Allow** or **Block** specific addresses, enter the address(es), then click **[!UICONTROL Save]**.
 
@@ -38,6 +43,6 @@ You can restrict or enable users from accessing Marketo based on their IP addres
    >
    >You can add multiple restrictions, but they can only be ALL allowed or ALL blocked. You cannot mix and match allowed and blocked.
 
-   ![](assets/image2014-9-16-13-3a9-3a40.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-4.png)
 
    Nicely done, your marketing data is now safer than it ever was!

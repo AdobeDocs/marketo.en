@@ -3,12 +3,17 @@ unique-page-id: 2360227
 description: Filter Assets in a Campaign Email Reports - Marketo Docs - Product Documentation
 title: Filter Assets in a Campaign Email Reports
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
+feature: Reporting
 ---
 # Filter Assets in a Campaign Email Reports {#filter-assets-in-a-campaign-email-reports}
 
 Focus your [Campaign Email Performance](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) report on specific [smart campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) in your programs ('local assets') or on those that have been archived.
 
-1. Go to **[!UICONTROL Analytics]** (or **[!UICONTROL Marketing Activities]**) area.
+>[!NOTE]
+>
+>Filtering assets in reports is not supported in Satellite Mode (the 'open in a new window' icon on the right of the asset detail page).
+
+1. Go to **Analytics** (or **Marketing Activities**) area.
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 

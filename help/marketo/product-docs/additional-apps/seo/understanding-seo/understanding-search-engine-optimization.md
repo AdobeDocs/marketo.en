@@ -3,6 +3,7 @@ unique-page-id: 2949176
 description: Understanding Search Engine Optimization - Marketo Docs - Product Documentation
 title: Understanding Search Engine Optimization
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
+feature: SEO
 ---
 # Understanding Search Engine Optimization {#understanding-search-engine-optimization}
 

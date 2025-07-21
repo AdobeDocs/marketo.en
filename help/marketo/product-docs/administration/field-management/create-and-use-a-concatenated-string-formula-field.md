@@ -3,10 +3,11 @@ unique-page-id: 2360337
 description: Create and Use a Concatenated String (Formula) Field - Marketo Docs - Product Documentation
 title: Create and Use a Concatenated String (Formula) Field
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
+feature: Field Management
 ---
 # Create and Use a Concatenated String (Formula) Field {#create-and-use-a-concatenated-string-formula-field}
 
-You can combine values from multiple fields or build a conditional value using a Marketo Formula field.
+You can combine values from multiple fields or build a conditional value using a Marketo Engage formula field.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -46,6 +47,6 @@ You can combine values from multiple fields or build a conditional value using a
 
 >[!NOTE]
 >
->Formula fields can be used in landing pages, emails and smart list columns (they are not exported). Emails with formula fields can **not** be sent using a batch campaign. Please use an [email script token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in this scenario.
+>Formula fields can be used in Landing Pages, emails and Smart List columns. Emails with formula fields can _not_ be sent using a batch campaign. Please use an [email script token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in this scenario.
 
 Good work! Now you have a smart field that knows what salutation to include based on gender. Have fun with this and get creative.

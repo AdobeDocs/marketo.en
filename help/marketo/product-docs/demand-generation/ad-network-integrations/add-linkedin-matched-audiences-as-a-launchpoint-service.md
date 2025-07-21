@@ -3,8 +3,13 @@ unique-page-id: 7504163
 description: "Add [!DNL LinkedIn] Matched Audiences as a [!DNL LaunchPoint] Service - Marketo Docs - Product Documentation"
 title: "Add [!DNL LinkedIn] Matched Audiences as a [!DNL LaunchPoint] Service"
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
+feature: Integrations
 ---
 # Add [!DNL LinkedIn] Matched Audiences as a [!DNL LaunchPoint] Service {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+
+>[!IMPORTANT]
+>
+>LinkedIn is upgrading their Marketing APIs used by Marketo Engage LinkedIn integrations. These changes will require re-authentication of all LinkedIn LaunchPoint services in your **Admin** > **LaunchPoint** menu between June 7 and December 15, 2024, to avoid service interruption. For more information, please see the [Migration FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >

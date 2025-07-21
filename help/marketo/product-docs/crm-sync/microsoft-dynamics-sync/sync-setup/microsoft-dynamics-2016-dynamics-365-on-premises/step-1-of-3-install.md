@@ -2,6 +2,7 @@
 description: Install Marketo for [!DNL Microsoft Dynamics] 2016/Dynamics 365 On-Premises 1 of 3 - Marketo Docs - Product Documentation
 title: Install Marketo for [!DNL Microsoft Dynamics] 2016/Dynamics 365 On-Premises Step 1 of 3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
+feature: Microsoft Dynamics
 ---
 # Step 1 of 3: Configure Sync User for Marketo (2016 On-Prem /Dynamics 365 On-Premises) {#step-of-configure-sync-user-for-marketo-on-premises-2016}
 
@@ -15,7 +16,7 @@ Before you can sync [!DNL Microsoft Dynamics] 2016 On-Prem/Dynamics 365 with Mar
 >
 >If you're using [!DNL Microsoft Dynamics] On-Premise, you must have [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) configured. Note: The IFD document downloads automatically when you click the link.
 >
->[Download the Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) before you start.
+>[Download the Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} before you start.
 
 >[!NOTE]
 >

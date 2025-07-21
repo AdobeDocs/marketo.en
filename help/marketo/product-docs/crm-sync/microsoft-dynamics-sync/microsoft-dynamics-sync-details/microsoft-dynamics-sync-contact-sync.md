@@ -3,6 +3,7 @@ unique-page-id: 3571833
 description: Microsoft Dynamics Sync -Contact Sync - Marketo Docs - Product Documentation
 title: Microsoft Dynamics Sync -Contact Sync
 exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
+feature: Microsoft Dynamics
 ---
 # [!DNL Microsoft Dynamics] Sync: Contact Sync {#microsoft-dynamics-sync-contact-sync}
 
@@ -18,7 +19,7 @@ Although this is rare, Marketo will win for people and [!DNL Dynamics] will win 
 
 ## Can I create a contact using Marketo? {#can-i-create-a-contact-using-marketo}
 
-Yes. [Here's how](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md).
+Yes. [Here's how](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md){target="_blank"}.
 
 >[!NOTE]
 >

@@ -3,6 +3,7 @@ unique-page-id: 10092925
 description: Preview and Test a Web Campaign - Marketo Docs - Product Documentation
 title: Preview and Test a Web Campaign
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
+feature: Web Personalization
 ---
 # Preview and Test a Web Campaign {#preview-and-test-a-web-campaign}
 

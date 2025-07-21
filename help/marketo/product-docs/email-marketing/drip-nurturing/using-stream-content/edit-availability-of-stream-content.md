@@ -3,6 +3,7 @@ unique-page-id: 2359910
 description: Edit Availability of Stream Content - Marketo Docs - Product Documentation
 title: Edit Availability of Stream Content
 exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
+feature: Engagement Programs
 ---
 # Edit Availability of Stream Content {#edit-availability-of-stream-content}
 

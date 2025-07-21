@@ -3,6 +3,9 @@ unique-page-id: 2359722
 description: Add a Video to a Free-form Landing Page - Marketo Docs - Product Documentation
 title: Add a Video to a Free-form Landing Page
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
+hide: yes
+hidefromtoc: yes
+feature: Landing Pages
 ---
 # Add a Video to a Free-form Landing Page {#add-a-video-to-a-free-form-landing-page}
 
@@ -10,7 +13,7 @@ Put videos with social sharing options on your landing pages.
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 1. Navigate to your free-form landing page and click **[!UICONTROL Edit Draft]**.
 
@@ -36,8 +39,8 @@ Put videos with social sharing options on your landing pages.
 >
 >To save time, you can use the **[!UICONTROL Clone From]** option to copy all settings from an existing video share.
 
-Congratulations! You have added a video share to your free-form landing page. Approve the landing page and your video share is live. You can also [publish the landing page to Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) or [put the video share on your web site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Congratulations! You have added a video share to your free-form landing page. Approve the landing page and your video share is live. You can also [publish the landing page to Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) or _put the video share on your web site_.
 
 >[!MORELIKETHIS]
 >
->You're done, but you can change the settings of your video share if necessary. Start with  [customizing the share flow](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (when and where the share prompt opens).
+>You're done, but you can change the settings of your video share if necessary. Start with _customizing the share flow_ (when and where the share prompt opens).

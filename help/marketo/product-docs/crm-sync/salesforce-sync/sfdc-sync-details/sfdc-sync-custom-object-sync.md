@@ -3,6 +3,7 @@ unique-page-id: 2953471
 description: SFDC Sync - Custom Object Sync - Marketo Docs - Product Documentation
 title: SFDC Sync - Custom Object Sync
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
+feature: Salesforce Integration
 ---
 # SFDC Sync: Custom Object Sync {#sfdc-sync-custom-object-sync}
 
@@ -74,10 +75,12 @@ Custom Objects created in your [!DNL Salesforce] instance can be part of Marketo
 
    >[!NOTE]
    >
-   >Marketo only supports custom entities that are linked to standard entities one or two levels deep.
+   >* Marketo only supports custom entities that are linked to standard entities one or two levels deep.
+   >
+   >* The custom object tree may show the same object more than once, because of its direct connections with one of the main objects (e.g., leads, contacts, or accounts or indirect connections through an intermediary objects). In such cases, choose the object that is nearest to the main object and choose only one. Choosing the same object multiple times may hamper the sync of that custom object.
 
 ### What's Next: {#whats-next}
 
-   [Add/Remove Custom Object Field as Smart List/Trigger Constraints](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+   [Add/Remove Custom Object Field as Smart List/Trigger Constraints](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
 Excellent! You can now use data from this custom object in smart campaigns and smart lists.

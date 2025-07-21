@@ -1,9 +1,10 @@
 ---
-description: Overview - Marketo Docs - Product Documentation
-title: Overview
+description: Marketo Engage Modern UX Overview - Marketo Docs - Product Documentation
+title: Marketo Engage Modern UX Overview
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
+feature: Modern UX
 ---
-# Overview {#overview}
+# Marketo Engage Modern UX Overview {#overview}
 
 Welcome to the Adobe Marketo Engage Modern UX (user experience), an updated interface that provides enhanced usability along with a new look and feel across the Marketo Engage platform.
 
@@ -15,21 +16,13 @@ Welcome to the Adobe Marketo Engage Modern UX (user experience), an updated inte
 >* *.marketodesigner.com
 >* *.mktoweb.com
 
-## Take the Tour {#take-the-tour}
-
-At first log in, a pop-up will appear, ready to give you the rundown of the new experience. Heads up, if you choose to skip it, it will **not** be available later.
-
-![](assets/overview-1.png)
-
-The tour walks you through everything you need to know!
-
 ## What's New {#whats-new}
 
 There's a lot of new functionality in the Modern UX, all of which is designed to significantly improve your marketing experience.
 
 **Icons**
 
-The new interface features improved and expanded iconography. Learn about them here: [Icon Glossary](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
+The new interface features improved and expanded iconography.
 
 ![](assets/overview-2.png)
 

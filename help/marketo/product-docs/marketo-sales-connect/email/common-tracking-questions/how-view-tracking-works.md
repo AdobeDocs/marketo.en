@@ -3,6 +3,7 @@ unique-page-id: 14352536
 description: How View Tracking Works - Marketo Docs - Product Documentation
 title: How View Tracking Works
 exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
+feature: Marketo Sales Connect
 ---
 # How View Tracking Works {#how-view-tracking-works}
 

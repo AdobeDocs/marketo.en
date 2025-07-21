@@ -3,6 +3,7 @@ unique-page-id: 14352405
 description: Setting UP SSO Through SAML 2.0 in [!DNL Sales Connect] - Marketo Docs - Product Documentation
 title: Setting UP SSO Through SAML 2.0 in [!DNL Sales Connect]
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
+feature: Marketo Sales Connect
 ---
 # Setting UP SSO Through SAML 2.0 in [!DNL Sales Connect] {#setting-up-sso-through-saml-in-sales-connect}
 
@@ -10,7 +11,7 @@ We support SSO through the SAML 2.0 specification. However, we don't have direct
 
 >[!NOTE]
 >
->This is only applicable to **Marketo Sales Connect** customers. If you don't have [!DNL Sales Connect] but want to learn more, please contact your Customer Success Manager.
+>This is only applicable to **Marketo Sales Connect** users. If you don't have Sales Connect but want to learn more, please contact the Adobe Account Team (your Account Manager).
 
 ## Requirements {#requirements}
 

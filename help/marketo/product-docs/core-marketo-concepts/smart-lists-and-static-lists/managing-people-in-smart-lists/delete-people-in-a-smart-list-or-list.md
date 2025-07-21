@@ -3,10 +3,11 @@ unique-page-id: 1146897
 description: Delete People in a Smart List or List - Marketo Docs - Product Documentation
 title: Delete People in a Smart List or List
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
+feature: Smart Lists
 ---
 # Delete People in a Smart List or List {#delete-people-in-a-smart-list-or-list}
 
-You can quickly and easily delete some/all people that are in a list or a smart list.
+You can quickly and easily delete some/all people that are in a list or a Smart List.
 
 >[!PREREQUISITES]
 >
@@ -16,7 +17,7 @@ You can quickly and easily delete some/all people that are in a list or a smart 
 
    ![](assets/ma-1.png)
 
-1. Select the list/smart list that contains all people you want to delete and go to the **[!UICONTROL People]** tab.
+1. Select the list/Smart List that contains all people you want to delete and go to the **[!UICONTROL People]** tab.
 
    ![](assets/two-1.png)
 
@@ -60,4 +61,4 @@ You can quickly and easily delete some/all people that are in a list or a smart 
    >
    >To view the results of the mass deletion, click **[!UICONTROL View Results]** in the Single Flow Action pop-up box in the upper-right corner of the screen. Deletion times can vary greatly, depending on multiple factors.
 
-   This is a great feature, just be really careful when using it!
+   This is a great feature, just be careful when using it!

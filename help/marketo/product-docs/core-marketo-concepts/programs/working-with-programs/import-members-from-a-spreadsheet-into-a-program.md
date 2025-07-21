@@ -3,6 +3,7 @@ unique-page-id: 1147120
 description: Import Members from a Spreadsheet into a Program - Marketo Docs - Product Documentation
 title: Import Members from a Spreadsheet into a Program
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
+feature: Programs
 ---
 # Import Members from a Spreadsheet into a Program {#import-members-from-a-spreadsheet-into-a-program}
 
@@ -16,7 +17,7 @@ You can import a list of people who automatically become members of a program. H
 
    >[!CAUTION]
    >
-   >When importing a date into a date field, use this format: 9/29/13 (Month/Day/Year).
+   >When importing a date into a date field, use this format: 9/29/24 (Month/Day/Year).
 
 ## Import Your CSV into Marketo {#import-your-csv-into-marketo}
 
@@ -32,13 +33,13 @@ You can import a list of people who automatically become members of a program. H
 
    ![](assets/importlist1.png)
 
-1. Map the data values from the list to their corresponding **[!UICONTROL Marketo Fields]** and click **[!UICONTROL Next]**.
+1. Map the data values from the list to their corresponding Marketo Fields and click **[!UICONTROL Next]**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >If there are any fields you don't want to import, select **[!UICONTROL IGNORE]** in the [!UICONTROL Marketo Field] drop-down menu.
+   >If there are any fields you don't want to import, select **[!UICONTROL IGNORE]** in the Marketo Field drop-down menu.
 
 1. Select the **[!UICONTROL Member Status]** for your list.
 
@@ -58,4 +59,4 @@ You can import a list of people who automatically become members of a program. H
 
 >[!MORELIKETHIS]
 >
->[Manage and View Members](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
+>[Manage and View Members](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}

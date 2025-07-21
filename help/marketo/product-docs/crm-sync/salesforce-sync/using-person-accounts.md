@@ -3,10 +3,11 @@ unique-page-id: 4719316
 description: Using Person Accounts - Marketo Docs - Product Documentation
 title: Using Person Accounts
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
+feature: Salesforce Integration
 ---
 # Using Person Accounts {#using-person-accounts}
 
-Person accounts can be set up in [!DNL Salesforce] to fit the need of your organization. Here's how Marketo treats person accounts.
+Person accounts can be set up in Salesforce to fit the need of your organization. Here's how Marketo Engage treats person accounts.
 
 >[!NOTE]
 >
@@ -26,7 +27,7 @@ A person account is synced to Marketo as a company and as a person.
 
 ## How do I differentiate business accounts and person accounts? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Use the **[!UICONTROL Is Person Account]** filter in your smart list to separate person accounts from standard business accounts.
+Use the "Is Person Account" filter in your Smart List to separate person accounts from standard business accounts.
 
 ## Where is my person accounts information displayed in Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 

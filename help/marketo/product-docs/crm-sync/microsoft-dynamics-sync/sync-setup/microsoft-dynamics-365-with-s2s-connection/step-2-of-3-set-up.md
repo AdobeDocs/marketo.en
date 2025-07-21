@@ -3,22 +3,23 @@ unique-page-id: 3571827
 description: Step 2 of 3 - Set up the Marketo Solution with Server to Server Connection - Marketo Docs - Product Documentation
 title: Step 2 of 3 - Set up the Marketo Solution with Server to Server Connection
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
+feature: Microsoft Dynamics
 ---
 # Step 2 of 3: Set up Marketo Solution with Server to Server Connection {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 
 >[!PREREQUISITES]
 >
->[Step 1 of 3: Install the Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>[Step 1 of 3: Install the Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
 
 ## Create Client Application in [!DNL Azure AD] {#create-client-application-in-azure-ad}
 
-1. Navigate to [this Microsoft article](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration).
+1. Navigate to [this Microsoft article](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration){target="_blank"}.
 
 1. Follow all the steps. For Step 3, enter a relevant application name (e.g., "[!DNL Marketo Integration]"). Under the Supported Account Types, select **Account in this Organizational Directory Only**.
 
 1. Write down the Application ID (ClientId) and Tenant ID. You'll need to  enter it in Marketo later.
 
-1. Grant Admin consent by following the steps [in this article](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md).
+1. Grant Admin consent by following the steps [in this article](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
 1. Generate a Client Secret in the Admin Center by clicking **[!UICONTROL Certificates & secrets]**.
 
@@ -40,7 +41,7 @@ exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 
 ## Create Application User in Microsoft {#create-application-user-in-microsoft}
 
-1. Follow steps from the following link to [set up an application user in  Microsoft](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation).
+1. Follow steps from the following link to [set up an application user in  Microsoft](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation){target="_blank"}.
 
    >[!IMPORTANT]
    >
@@ -51,7 +52,7 @@ exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 
 Federated [!DNL Azure AD] to [!DNL ADFS Onprem] needs the creation of a Home Realm Discovery policy for the specific application. With this policy, [!DNL Azure AD] will redirect the authentication request to the federation service. Password hash synchronization has to be enabled in [!DNL AD Connect] for this. For more information, please see [[!DNL OAuth] with [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) and [Set an hrd policy for an application](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-Additional references [can be found here](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.).
+Additional references [can be found here](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"}.
 
 ## Configure Marketo Solution {#configure-marketo-solution}
 
@@ -63,7 +64,7 @@ Almost there! All we have left is to inform Marketo Solution about the new user 
 
    >[!NOTE]
    >
-   >If you don't see **Marketo Config** in the Settings menu, refresh the page. If that doesn't work, try to [publish the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md) again or log out and back in.
+   >If you don't see "Marketo Config" in the Settings menu, refresh the page. If that doesn't work, try to [publish the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} again or log out and back in.
 
 1. Click **[!UICONTROL Default]**.
 

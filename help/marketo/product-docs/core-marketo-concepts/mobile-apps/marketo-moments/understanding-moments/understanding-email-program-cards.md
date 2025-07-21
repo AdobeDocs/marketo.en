@@ -3,10 +3,15 @@ unique-page-id: 8781911
 description: Understanding Email Program Cards - Marketo Docs - Product Documentation
 title: Understanding Email Program Cards
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
+feature: Mobile Marketing
 ---
 # Understanding Email Program Cards {#understanding-email-program-cards}
 
-Use Marketo Moments to view your Email Programs from your phone or iPad.  
+Use Marketo Moments to view your Email Programs from your phone or iPad.
+
+>[!IMPORTANT]
+>
+>On October 2, 2023, Adobe removed the Marketo Moments App from all App Stores. If you already have the app installed on your tablet/mobile device, you can continue using it for the time being. Once your Marketo Engage instance is migrated to Adobe Identity for authentication of Marketo, you will no longer be able to access the app. [Learn more](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Email Program Cards {#email-program-cards}
 
@@ -101,10 +106,6 @@ Right click on an email card to preview it.
    This way, you know your email's perfect before you pull the trigger!
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
-
-   Excellent!
-
-And that's the scoop on viewing your email campaigns. Now, you're a pro!
 
 >[!MORELIKETHIS]
 >

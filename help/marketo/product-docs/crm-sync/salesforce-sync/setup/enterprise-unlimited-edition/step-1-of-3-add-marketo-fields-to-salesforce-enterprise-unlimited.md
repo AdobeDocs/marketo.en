@@ -3,6 +3,7 @@ unique-page-id: 2360362
 description: Step 1 of 3 -Add Marketo Fields to Salesforce (Enterprise/Unlimited) - Marketo Docs - Product Documentation
 title: Step 1 of 3 -Add Marketo Fields to Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
+feature: Salesforce Integration
 ---
 # Step 1 of 3: Add Marketo Fields to [!DNL Salesforce] (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
@@ -36,7 +37,7 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Choose the appropriate field type (for Score — number; Acquisition Program — text; Acquisition Date — Date/Time).
+1. Choose the appropriate field type (for Score - number; Acquisition Program - text; Acquisition Date - Date/Time).
 
    ![](assets/choose-field-type-2-hand.png)
 
@@ -44,7 +45,7 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. Enter the Field Label, Length, and Field Name for the field, as shown in the table below.
+1. Enter the [!UICONTROL Field Label], [!UICONTROL Length], and [!UICONTROL Field Name] for the field, as shown in the table below.
 
 <table> 
  <thead> 

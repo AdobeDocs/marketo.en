@@ -3,6 +3,7 @@ unique-page-id: 2360247
 description: Change the Default From Email and From Label - Marketo Docs - Product Documentation
 title: Change the Default From Email and From Label
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
+feature: Email Setup
 ---
 # Change the Default From Email and From Label {#change-the-default-from-email-and-from-label}
 

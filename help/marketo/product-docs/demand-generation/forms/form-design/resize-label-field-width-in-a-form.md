@@ -3,6 +3,7 @@ unique-page-id: 2359604
 description: Resize Label/Field Width in a Form - Marketo Docs - Product Documentation
 title: Resize Label/Field Width in a Form
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
+feature: Forms
 ---
 # Resize Label/Field Width in a Form {#resize-label-field-width-in-a-form}
 

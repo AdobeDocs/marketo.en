@@ -3,15 +3,19 @@ unique-page-id: 8781845
 description: Understanding Marketo Moments - Marketo Docs - Product Documentation
 title: Understanding Marketo Moments
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
+feature: Mobile Marketing
 ---
 # Understanding Marketo Moments {#understanding-marketo-moments}
 
 The power of Marketo is now in your hands, literally! Preview and reschedule emails right from your phone or iPad.
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
+>On October 2, 2023, Adobe removed the Marketo Moments App from all App Stores. If you already have the app installed on your tablet/mobile device, you can continue using it for the time being. Once your Marketo Engage instance is migrated to Adobe Identity for authentication of Marketo, you will no longer be able to access the app. [Learn more](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
+>[!NOTE]
 >
->Access Mobile Apps permission is required. Contact your Marketo Admin to [update your role](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>_Access Mobile Apps_ permission is required. Contact your Marketo Admin to [update your role](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Streams {#streams}
 
@@ -34,15 +38,15 @@ OK, now that we've got that out of the way, let's take a peek at Marketo Moments
 
 Marketo Moments gives you three different cards to follow the progress of your email:
 
-**On-Deck** - This email is about to go out. It's your last chance to preview it, send a sample or, even cancel it if you have to.
+**[!UICONTROL On-Deck]** - This email is about to go out. It's your last chance to preview it, send a sample or, even cancel it if you have to.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**Heart-beat** - Hey - this email is being delivered now! And here are stats, too. Go ahead and share it.
+**[!UICONTROL Heart-beat]** - Hey - this email is being delivered now! And here are stats, too. Go ahead and share it.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Results** - Here's how the email did. After the email finishes running, the Results card displays the engagement score and other stats.
+**[!UICONTROL Results]** - Here's how the email did. After the email finishes running, the Results card displays the engagement score and other stats.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
@@ -128,12 +132,12 @@ Every step of the way, you can confirm or cancel an action. If you change your m
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-## Supported Versions  {#supported-versions}
+## Supported Versions {#supported-versions}
 
 Marketo Moments supports these operating system versions:
 
-* Apple iOS 8.0 and higher.
-* Android version 4.1 and higher (basically Jellybean and up).
+* [!DNL Apple] iOS 8.0 and higher.
+* [!DNL Android] version 4.1 and higher (basically Jellybean and up).
 
 Ready to learn more?
 

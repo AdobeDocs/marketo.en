@@ -3,6 +3,7 @@ unique-page-id: 37356578
 description: Composing Bulk Emails with Select and Send - Marketo Docs - Product Documentation
 title: Composing Bulk Emails with Select and Send
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
+feature: Marketo Sales Connect
 ---
 # Composing Bulk Emails with Select and Send {#composing-bulk-emails-with-select-and-send}
 

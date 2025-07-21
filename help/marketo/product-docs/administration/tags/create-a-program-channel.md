@@ -3,6 +3,7 @@ unique-page-id: 2950682
 description: Create a Program Channel - Marketo Docs - Product Documentation
 title: Create a Program Channel
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
+feature: Tags
 ---
 # Create a Program Channel {#create-a-program-channel}
 
@@ -16,21 +17,25 @@ A program is one specific marketing initiative. The channel is intended to be th
 >
 >Learn more about [programs](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), the most important element in Marketo.
 
-1. Under the **[!UICONTROL Admin]** section, click **[!UICONTROL Tags]**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2014-9-24-12-3a57-3a27.png)
+   ![](assets/create-a-program-channel-1.png)
+
+1. Click **[!UICONTROL Tags]**.
+
+   ![](assets/create-a-program-channel-2.png)
 
    >[!NOTE]
    >
    >Why tags? A channel is a way of describing a program, just like other tags. The channel just has special extra features.
 
-1. Click the **+** sign next to **[!UICONTROL Channel]** to expand and see existing channels.
+1. Click the **+** sign next to [!UICONTROL Channel] to expand and see existing channels.
 
-   ![](assets/image2014-9-24-12-3a58-3a33.png)
+   ![](assets/create-a-program-channel-3.png)
 
 1. Under **[!UICONTROL New]**, click **[!UICONTROL New Channel]**.
 
-   ![](assets/image2014-9-24-12-3a58-3a53.png)
+   ![](assets/create-a-program-channel-4.png)
 
    >[!NOTE]
    >
@@ -52,7 +57,7 @@ A program is one specific marketing initiative. The channel is intended to be th
 
 1. Let's go with the Party channel example. Name your new **[!UICONTROL Channel]** and select the program type it will apply to.
 
-   ![](assets/image2014-9-24-13-3a0-3a17.png)
+   ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
@@ -62,12 +67,13 @@ A program is one specific marketing initiative. The channel is intended to be th
    >
    >When using "[!UICONTROL Event with Webinar]," system mappings will be locked (as required by webinar integrations) and cannot be edited.
 
-   Enter the first two program Status names, then click **[!UICONTROL Add Step]**.
-   ![](assets/image2014-9-24-15-3a37-3a0.png)
+1. Enter the first two program Status names, then click **[!UICONTROL Add Step]**.
+
+   ![](assets/create-a-program-channel-6.png)
 
 1. Enter another program **[!UICONTROL Status]** and **[!UICONTROL Step]** number, then click **[!UICONTROL Add Step]**.
 
-   ![](assets/image2014-9-24-15-3a37-3a30.png)
+   ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
@@ -75,7 +81,7 @@ A program is one specific marketing initiative. The channel is intended to be th
 
 1. Enter the last program **[!UICONTROL Status]** and **[!UICONTROL Step]** number.
 
-   ![](assets/image2014-9-24-15-3a39-3a15.png)
+   ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
@@ -83,11 +89,11 @@ A program is one specific marketing initiative. The channel is intended to be th
 
 1. Pick the **[!UICONTROL Mobile Check-in Status]** for **[!UICONTROL Registered]**.
 
-   ![](assets/image2014-9-24-15-3a39-3a43.png)
+   ![](assets/create-a-program-channel-9.png)
 
 1. Pick the **[!UICONTROL Mobile Check-in Status]** for **[!UICONTROL Attended]**.
 
-   ![](assets/image2014-9-24-15-3a40-3a21.png)
+   ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
@@ -103,6 +109,6 @@ A program is one specific marketing initiative. The channel is intended to be th
 
 1. Select the **[!UICONTROL Success]** program status, then click **[!UICONTROL Create]**.
 
-   ![](assets/image2014-9-24-15-3a42-3a54.png)
+   ![](assets/create-a-program-channel-11.png)
 
    Nicely done! When you make a new program of that type, this new channel will be one of the choices.

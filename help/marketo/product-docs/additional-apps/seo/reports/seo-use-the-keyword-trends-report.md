@@ -3,6 +3,7 @@ unique-page-id: 2949273
 description: SEO - Use the Keyword Trends Report - Marketo Docs - Product Documentation
 title: SEO - Use the Keyword Trends Report
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
+feature: SEO
 ---
 # SEO - Use the Keyword Trends Report {#seo-use-the-keyword-trends-report}
 
@@ -29,7 +30,7 @@ In this report, you can see how you are ranked on keywords over time.
    | [!UICONTROL Keywords]  |The number of keywords you are tracking. |
    | [!UICONTROL Ranking URLs]  |The number of URLs on your site ranking in the range you've set.  |
    | [!UICONTROL Avg. rank]  |The average rank of keywords in the range you've set.  |
-   | [!UICONTROL Avg. searches]  |The average number of searches on those keywords that occurred during the range you set (in the last 30 days, on Google US search |
+   | [!UICONTROL Avg. searches]  |The average number of searches on those keywords that occurred during the range you set (in the last 30 days), on Google US search |
 
 ## Filtering Data {#filtering-data}
 

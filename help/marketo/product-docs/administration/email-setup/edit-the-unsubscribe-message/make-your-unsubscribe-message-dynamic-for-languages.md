@@ -3,6 +3,7 @@ unique-page-id: 6848782
 description: Make Your Unsubscribe Message Dynamic for Languages - Marketo Docs - Product Documentation
 title: Make Your Unsubscribe Message Dynamic for Languages
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
+feature: Email Setup
 ---
 # Make Your Unsubscribe Message Dynamic for Languages {#make-your-unsubscribe-message-dynamic-for-languages}
 
@@ -30,7 +31,7 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
-1. Name the segmentation **Preferred Language**. Click **[!UICONTROL Add Segment]**. Type in a language.
+1. Name the segmentation **[!UICONTROL Preferred Language]**. Click **[!UICONTROL Add Segment]**. Type in a language.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 

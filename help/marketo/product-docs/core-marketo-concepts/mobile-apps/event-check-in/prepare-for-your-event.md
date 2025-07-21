@@ -3,14 +3,19 @@ unique-page-id: 10099360
 description: Prepare for Your Event - Marketo Docs - Product Documentation
 title: Prepare for Your Event
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
+feature: Mobile Marketing
 ---
 # Prepare for Your Event {#prepare-for-your-event}
 
 There are several things you have to do to get ready for the event.
 
+>[!IMPORTANT]
+>
+>On October 2, 2023, Adobe removed the Marketo Events App from all App Stores. If you already have the app installed on your tablet/mobile device, you can continue using it for the time being. Once your Marketo Engage instance is migrated to Adobe Identity for authentication of Marketo, you will no longer be able to access the app. [Learn more](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 ## Create a New Marketo Role {#create-a-new-marketo-role}
 
-Marketo has a special user role for the event check-in app. [Create a new Marketo role](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) for iPad or Android users, with permission to access the mobile application.
+Marketo has a special user role for the event check-in app. [Create a new Marketo role](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) for [!DNL iPad] or [!DNL Android] users, with permission to access the mobile application.
 
 ## Invite New Tablet Users to the Event {#invite-new-tablet-users-to-the-event}
 
@@ -38,7 +43,7 @@ It's a snap to set your event dates.
 
 ## Add People to Your Event {#add-people-to-your-event}
 
-Now that you know the *when*, it's time to add the *who*.
+Now that you know the _when_, it's time to add the *who*.
 
 1. If you already have a list of people, in My Marketo, click the **[!UICONTROL Database]** tile.
 
@@ -48,7 +53,7 @@ Now that you know the *when*, it's time to add the *who*.
 
    ![](assets/four.png)
 
-1. Select the people for your event from the list. Use **Ctrl** (or **Command** on a Mac) to click on multiple people, or **[!UICONTROL Select All]** to mark all of them.
+1. Select the people for your event from the list. Use **[!UICONTROL Ctrl]** (or **[!UICONTROL Command]** on a Mac) to click on multiple people, or **[!UICONTROL Select All]** to mark all of them.
 
    ![](assets/five.png)
 
@@ -60,7 +65,7 @@ Now that you know the *when*, it's time to add the *who*.
 
    ![](assets/seven.png)
 
-1. Click the **[!UICONTROL New Status]** drop-down and select **[!UICONTROL Roadshow > Registered]**. Click **[!UICONTROL Run Now]**.
+1. Click the **[!UICONTROL New Status]** drop-down and select **[!UICONTROL Roadshow] > [!UICONTROL Registered]**. Click **[!UICONTROL Run Now]**.
 
    ![](assets/eight.png)
 

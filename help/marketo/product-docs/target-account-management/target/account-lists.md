@@ -3,6 +3,7 @@ unique-page-id: 11378814
 description: "[!UICONTROL Account Lists] - Marketo Docs - Product Documentation"
 title: "[!UICONTROL Account Lists]"
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
+feature: Target Account Management
 ---
 # [!UICONTROL Account Lists] {#account-lists}
 

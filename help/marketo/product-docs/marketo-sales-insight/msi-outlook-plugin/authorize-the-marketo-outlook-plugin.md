@@ -3,6 +3,7 @@ unique-page-id: 11377640
 description: Authorize the Marketo [!DNL Outlook] Plugin - Marketo Docs - Product Documentation
 title: Authorize the Marketo [!DNL Outlook] Plugin
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
+feature: Marketo Sales Insights
 ---
 # Authorize the Marketo [!DNL Outlook] Plugin {#authorize-the-marketo-outlook-plugin}
 
@@ -12,7 +13,11 @@ To use the Marketo MSI plugin in [!DNL Outlook], you need to authorize it.
 >
 >The plugin must already be installed and you must be authorized as a plugin user by your Marketo Admin.
 
-1. Click either of the **[!UICONTROL Marketo Message]** buttons.
+>[!IMPORTANT]
+>
+>Microsoft has released a [new version of Outlook for Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+
+1. Click either of the Marketo Message buttons.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 

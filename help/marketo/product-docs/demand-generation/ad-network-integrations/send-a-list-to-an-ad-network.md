@@ -2,6 +2,7 @@
 description: Send a List to an Ad Network - Marketo Docs - Product Documentation
 title: Send a List to an Ad Network
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
+feature: Integrations
 ---
 # Send a List to an Ad Network {#send-a-list-to-an-ad-network}
 

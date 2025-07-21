@@ -3,6 +3,7 @@ unique-page-id: 4719308
 description: Add an Existing Salesforce Field to the Marketo Sync - Marketo Docs - Product Documentation
 title: Add an Existing Salesforce Field to the Marketo Sync
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
+feature: Salesforce Integration
 ---
 # Add an Existing [!DNL Salesforce] Field to the Marketo Sync {#add-an-existing-salesforce-field-to-the-marketo-sync}
 
@@ -10,13 +11,13 @@ exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 >
 >**Admin Permissions Required**
 
-Usually, new custom fields in [!DNL Salesforce] sync over to Marketo automatically. If not, the fields may not be visible to the Marketo Sync user. Here's how you can fix this.
+Usually, new custom fields in Salesforce sync over to Marketo Engage automatically. If not, the fields may not be visible to the Marketo Sync user. Here's how you can fix this.
 
 1. Click your name and then select **[!UICONTROL Setup]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-1.png)
 
-1. Enter **profile** in the left search bar and click **[!UICONTROL Profiles]** under **[!UICONTROL Manage Users]**.
+1. Enter "profile" in the left search bar and click **[!UICONTROL Profiles]** under **[!UICONTROL Manage Users]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 
@@ -36,7 +37,7 @@ Usually, new custom fields in [!DNL Salesforce] sync over to Marketo automatical
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-6.png)
 
-   Sweet! On the next sync cycle, Marketo will see the field and start the magic.
+   On the next sync cycle, Marketo will see the field and start the magic.
 
    >[!NOTE]
    >

@@ -3,6 +3,7 @@ unique-page-id: 2951048
 description: Release Notes -February 2014 - Marketo Docs - Product Documentation
 title: Release Notes -February 2014
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
+feature: Release Information
 ---
 # Release Notes: February 2014 {#release-notes-february}
 
@@ -54,6 +55,6 @@ The following filter and trigger names have been updated:
 
 ## Forms 2.0 Enhancements {#forms-enhancements}
 
-We’ve given Forms 2.0 several “quality of life” updates with this release. In addition to enabling progressive profiling on embedded forms, we’ve made workflow and UX changes that will make it easier to use the more advanced functionality in the editor, [including the visibility rules](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), advanced thank you pages, and hidden fields.
+We've given Forms 2.0 several "quality of life" updates with this release. In addition to enabling progressive profiling on embedded forms, we've made workflow and UX changes that will make it easier to use the more advanced functionality in the editor, [including the visibility rules](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), advanced thank you pages, and hidden fields.
 
 ![](assets/image2014-9-22-10-3a51-3a54.png)

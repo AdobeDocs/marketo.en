@@ -3,6 +3,7 @@ unique-page-id: 2359455
 description: Schedule Your Email Program - Marketo Docs - Product Documentation
 title: Schedule Your Email Program
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
+feature: Email Programs
 ---
 # Schedule Your Email Program {#schedule-your-email-program}
 

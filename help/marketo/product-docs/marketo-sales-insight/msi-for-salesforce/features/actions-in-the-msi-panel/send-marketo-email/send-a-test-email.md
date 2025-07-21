@@ -2,6 +2,7 @@
 description: Send a Test Email - Marketo Docs - Product Documentation
 title: Send a Test Email
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
+feature: Marketo Sales Insights
 ---
 # Send a Test Email {#send-a-test-email}
 

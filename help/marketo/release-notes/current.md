@@ -2,10 +2,13 @@
 description: Current Release Notes - Marketo Docs - Product Documentation
 title: Current Release Notes
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
+feature: Release Information
 ---
-# Release Notes: January 2023 {#release-notes-jan-23}
+# Release Notes: July 2025 {#release-notes-july-25}
 
-Below you'll find all the features included in the January '23 release. Check your Adobe Marketo Engage edition for feature availability.
+Below you'll find all the features included in the July '25 release. Check your Adobe Marketo Engage edition for feature availability.
+
+The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -13,177 +16,142 @@ Below you'll find all the features included in the January '23 release. Check yo
 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
-The following features fall under the standard release cycle and will start to be released on **January 20, 2023**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check below each feature for its status.
+The following features fall under the standard release cycle and will start to be released on **July 11, 2025**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
-### Marketo Engage Modern UX {#modern-ux}
-
-</br>
-
-* **Updated Screens in Modern UX**: In Modern UX (formerly known as Next-generation Experience), we're delivering additional, refreshed screens that offer updated design and usability enhancements accessible via toggle switch:
-
-  * Snippet List View
-  * Landing Page Template List
-
-  <table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
+<table style="table-layout:auto"> 
+ <tbody>
+ <tr> 
+   <th style="width:65%">Feature</th> 
+   <th style="width:10%">Status</th>
+   <th style="width:25%">Documentation</th>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Enhanced Used by Component for Email Template Details and Snippet Details**: New Used By UI tab provides additional information about each of the Used By assets, such as when it was last modified and by whom. You can easily perform analysis through the search, sort, and filtering capabilities. This new UI component will be incorporated starting with the Email Template and Snippet assets.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
+   <td><strong>Email Designer - Custom CSS Support</strong>: When designing emails, you can now add your own custom CSS directly within the Email Designer.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
-  </tr>
-  </tbody>
-</table>
-
-### Marketing Impact Analytics {#marketing-impact-analytics}
-
-</br>
-
-* **Redesigned Modals for Report Assets**: New design for report configuration modals in the Modern UX offering an updated look and feel as well as improved accessibility.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
-  </tr>
-  </tbody>
-</table>
-
-### Marketo Measure {#marketo-measure}
-
-</br>
-
-* **Marketo Measure Ultimate**: Enables complete B2B attribution for enterprises with multiple CRM and/or Marketo Engage instances and diverse source data needs. It also provides a B2B attribution solution for Adobe RT-CDP via shared AEP data.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
+   <td><strong>Email Designer - Support of Moving Assets and Program Deletion</strong>: Quickly relocate an email asset across programs. You can now also delete programs that contain new designer email assets.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
-  </tr>
-  </tbody>
-</table>
-
-### API Enhancements {#api-enhancements}
-
-</br>
-
-* **Enhanced Web Services Tab by Adding Bulk Export API Information**: You are now able to view the daily capacity allocation for your subscriptions and view the amount of daily capacity allocation that has been used in the past 7 days.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
   </tr>
   <tr> 
-   <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Bulk Export API Information</a></td>
-  </tr>
-  </tbody>
-</table>
-
-## Agile Release Features
-
-The following features follow an Agile format and are released on various dates before or after the standard release date. Please check below each feature for its status.
-
-### Dynamic Chat {#dynamic-chat}
-
-</br>
-
-* **Define Picklist in Info Capture Card for Dynamic Chat**: To help ensure data cleanliness, you can define picklists for information capture cards so visitors can select only from a predefined list of options.  
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
+   <td><strong>Email Designer - Firefox Support</strong>: The Email Designer is now fully supported in Mozilla Firefox. For the best experience, always keep your browser up to date.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
   </tr>
   <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - Simulate Content from the Properties Page</strong>: Simulate content for email assets from <i>Email Properties</i> without having to go back into the editing screen.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+   <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - Role-based Access Control for Assets</strong>: The May release saw Role-based Access Control (RBAC) implemented for Edit, Approve, and Delete permissions. Read permissions are now available with this release.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - Edit Email Properties for Published Emails</strong>: Make edits in <i>Email Properties</i> even after the email is published.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - Select Branding Domain and Domain IP Configuration</strong>: You can now select a "Branding domain" and "Domain IP configuration" for every email asset.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - GenStudio Integration</strong>: Integrate GenStudio for performance marketing from within emails to enhance marketing efficiency and to maintain brand consistency.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>REST API Error Code Notification Updates</strong>: Two additional classes of REST API error in in-app notifications have been added: 606 - Max Rate Limit Exceeded and 607 - Daily Quota Reached.</td> 
    <td>Shipped</td>
    <td>n/a</td>
   </tr>
-  </tbody>
-</table>
-
-* **Personalization in Meeting Confirmation for Dynamic Chat**: Agents can personalize meeting booking email confirmations using Marketo Engage person and company fields to better engage with visitors (ex: greet visitors by their first name in the automated meeting booking notification email).
-
-<table> 
   <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
   </tr>
   <tr> 
-   <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Calendar</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Search in Stream Designer**: Easily search for content in the Stream Designer to quickly find content across all the cards/nodes in a stream (ex: search "SEO" and it will highlight all nodes that contain that string).
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
-  </tr>
-  <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Chatbot Date/Time Picker for Dynamic Chat**: Web visitors can use the calendar picker to choose a date and time rather than entering the date manually.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
-  </tr>
-  <tr> 
+   <td><strong>Display Program Member Standard Fields in Field Management</strong>: Both standard and custom program member fields in <i>Field Management</i> are now visible.</td> 
    <td>Shipped</td>
    <td>n/a</td>
   </tr>
-  </tbody>
-</table>
-
-* **Scheduled Meeting Email Notifications for Dynamic Chat**: When a meeting is booked on an agent's calendar, the agent will receive an email notification about the booking, including detailed information about the visitor's Dynamic Chat engagement.
-
-<table> 
   <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
   </tr>
   <tr> 
+   <td><strong>REST API Names in Field Management</strong>: This update allows admins to see REST API field names without having to export the list.</td> 
    <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">Meetings</a></td>
+   <td>n/a</td>
   </tr>
-  </tbody>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Munchkin Cookies and ECIDs are Viewable</strong>: You can now see a list of Munchkin cookie and ECID (Experience Cloud Identity) numbers in the _Info_ tab of a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">Person Details Page</a>, reducing the dependence on API calls to obtain that information.</td>
+   <td>Shipped</td>
+   <td>n/a</td>
+  </tr>
+ </tbody> 
 </table>
+<br/>
 
 ## Announcements {#announcements}
 
-* **Marketo REST API change**: With the October 2022 release, we introduced a minor change to the Marketo REST API response message. Please see this [Marketo Nation post](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} for details.
+* **Marketo Engage Identity End of Life**: In August 2025, Adobe will begin phasing out support for Marketo Engage Identity (logging in via `login.marketo.com`). To prevent interrupted access to Marketo Engage, you must transition to [Adobe Identity](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} no later than September 30, 2025.
 
-* **_Product Release Webinar_**: [October 2022 and January 2023 Marketo Engage Release Webinar](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+  * _IP Restrictions Deprecation_: Support for [Restricting Marketo Logins Based on IP](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} will end on July 30, 2025. The feature will remain operational until the transition to Adobe Identity is complete. A new location-based access control feature for Adobe Identity in the Adobe Admin Console is targeted for the August 2025 release.
+
+  * _Single Sign-On (SSO) Deprecation_: Support for [Marketo Identity SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} will end on July 30, 2025. The feature will remain operational until the transition to Adobe Identity is complete. Single Sign-On for Adobe Identity in the Adobe Admin Console must be configured separately. For setup steps, see [Set up identity and Single Sign-On](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+
+* **Rest API 'access_token' Parameter Deprecation**: The `access_token` query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after October 31, 2025. All new and existing integrations should authenticate REST API calls using the 'Authorization' header, [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+
+* **SOAP API Deprecation**: Support for the Marketo SOAP API will end on October 31, 2025. Services which use SOAP API capabilities should be migrated to the [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

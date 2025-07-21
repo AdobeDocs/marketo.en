@@ -3,6 +3,7 @@ unique-page-id: 7504739
 description: Install Marketo for Microsoft Dynamics 2015 On-Premises Step 2 of 3 - Marketo Docs - Product Documentation
 title: Install Marketo for Microsoft Dynamics 2015 On-Premises Step 2 of 3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
+feature: Microsoft Dynamics
 ---
 # Step 2 of 3 Set up Marketo for [!DNL Dynamics] (2015 On-Prem){#step-of-set-up-for-marketo-on-premises-2015}
 
@@ -22,7 +23,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
 >[!IMPORTANT]
 >
->The language setting of the Sync User [should be set to English](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
+>The language setting of the Sync User [should be set to English](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Under **[!UICONTROL Settings]**, click **[!UICONTROL Security]**.
 
@@ -32,7 +33,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
    ![](assets/assign2.png)
 
-1. You will see a list of users here. Select the dedicated Marketo Sync user or contact your [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx)(ADFS) administrator to create a dedicated user for Marketo.
+1. You will see a list of users here. Select the dedicated Marketo Sync user or contact your [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} (ADFS) administrator to create a dedicated user for Marketo.
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
@@ -50,11 +51,11 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
    >[!TIP]
    >
-   >If you don't see the role, go back to [step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md) and import the solution.
+   >If you don't see the role, go back to [step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"} and import the solution.
 
    >[!NOTE]
    >
-   >Any updates made in your CRM by the Sync User will **not** be synced back to Marketo.
+   >Any updates made in your CRM by the Sync User will _not_ be synced back to Marketo.
 
 ## Configure Marketo Solution {#configure-marketo-solution}
 
@@ -66,7 +67,7 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 
    >[!NOTE]
    >
-   >If Marketo Config is missing, try refreshing the page. If the issue persists, [publish the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md) or try logging out and back in.
+   >If Marketo Config is missing, try refreshing the page. If the issue persists, [publish the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"} or try logging out and back in.
 
 1. Click **[!UICONTROL Default]**.
 

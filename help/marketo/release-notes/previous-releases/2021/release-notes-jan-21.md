@@ -2,6 +2,7 @@
 description: Release Notes - Jan 2021 - Marketo Docs - Product Documentation
 title: Release Notes - Jan 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
+feature: Release Information
 ---
 # Release Notes: Jan 2021 {#release-notes-jan-21}
 

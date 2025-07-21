@@ -3,10 +3,11 @@ unique-page-id: 11377488
 description: Install the Marketo Add-in for [!DNL Outlook] with an Enterprise Key - Marketo Docs - Product Documentation
 title: Install the Marketo Add-in for [!DNL Outlook] with an Enterprise Key
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
+feature: Marketo Sales Insights
 ---
 # Install the Marketo Add-in for [!DNL Outlook] with an Enterprise Key {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-Many times, sales reps don't have administrative privileges on their laptops, and their IT teams are responsible for installing all software remotely. The Marketo Add-in for [!DNL Outlook] can be installed this way using your Enterprise Key, which can be found in the [!UICONTROL Sales Insight] section of [!UICONTROL Admin].
+Many times, sales reps don't have administrative privileges on their laptops, and their IT teams are responsible for installing all software remotely. The Marketo Add-in for Outlook can be installed this way using your Enterprise Key, which can be found in the Sales Insight section of Admin. If you don't see the View Enterprise Key button, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to enable it.
 
 >[!PREREQUISITES]
 >
@@ -14,7 +15,11 @@ Many times, sales reps don't have administrative privileges on their laptops, an
 
 >[!NOTE]
 >
->If you don't see the [!UICONTROL View Enterprise Key] button, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to enable it.
+>Sales Insight Actions capabilities, including Send Sales Email, Add to Sales Campaign, and Tasks, are not available in the Sales Insight email plugins for Gmail and Outlook. At this time, users only have the ability to send a trackable email with or without a Marketo email template from their email client when using the Sales Insight email plugins.
+
+>[!IMPORTANT]
+>
+>Microsoft has released a [new version of Outlook for Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. In My Marketo, click **[!UICONTROL Admin]** and then **[!UICONTROL Sales Insight]**.
 

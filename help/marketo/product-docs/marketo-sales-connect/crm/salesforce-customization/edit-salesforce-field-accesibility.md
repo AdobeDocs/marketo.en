@@ -3,6 +3,7 @@ unique-page-id: 14352472
 description: Edit Salesforce Field Accesibility - Marketo Docs - Product Documentation
 title: Edit Salesforce Field Accesibility
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
+feature: Marketo Sales Connect
 ---
 # Edit Salesforce Field Accesibility {#edit-salesforce-field-accesibility}
 

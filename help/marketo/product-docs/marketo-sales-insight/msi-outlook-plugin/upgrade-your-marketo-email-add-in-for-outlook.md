@@ -3,6 +3,7 @@ unique-page-id: 2949279
 description: "Upgrade your Marketo Email Add-In for [!DNL Outlook] - Marketo Docs - Product Documentation"
 title: "Upgrade your Marketo Email Add-In for [!DNL Outlook]"
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
+feature: Marketo Sales Insights
 ---
 # Upgrade your Marketo Email Add-In for [!DNL Outlook] {#upgrade-your-marketo-email-add-in-for-outlook}
 
@@ -110,7 +111,7 @@ Download the installer appropriate for your version of Microsoft [!DNL Outlook].
  </tbody> 
 </table>
 
-&#42;[!DNL Office] 365 version: [!DNL Windows] client only (on [!DNL Windows] 10, [!DNL Enterprise] or [!DNL Pro]).
+&#42;Office 365 version: Windows client only (on Windows 10, Windows 11, Enterprise, or Pro).
 
 ## Upgrade {#upgrade}
 

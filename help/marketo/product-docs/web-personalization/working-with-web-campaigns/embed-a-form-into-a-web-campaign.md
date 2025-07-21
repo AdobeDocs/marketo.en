@@ -3,6 +3,7 @@ unique-page-id: 10095554
 description: Embed a Form into a Web Campaign - Marketo Docs - Product Documentation
 title: Embed a Form into a Web Campaign
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
+feature: Web Personalization
 ---
 # Embed a Form into a Web Campaign {#embed-a-form-into-a-web-campaign}
 
@@ -78,4 +79,4 @@ To add CSS code to the script:
 >
 >* [Edit the CSS of a Form Theme](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Show Thank You Message Without a Follow-Up Landing Page](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

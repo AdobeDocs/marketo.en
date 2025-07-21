@@ -3,6 +3,7 @@ unique-page-id: 2949266
 description: SEO - Add/Remove Page Issue From a List - Marketo Docs - Product Documentation
 title: SEO - Add/Remove Page Issue From a List
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
+feature: SEO
 ---
 # SEO - Add/Remove Page Issue From a List {#seo-add-remove-page-issue-from-a-list}
 
@@ -14,7 +15,7 @@ You can organize your page issues into lists. You can also remove page issues fr
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. On the Pages tab, click **[!UICONTROL Issues]**.
+1. On the **[!UICONTROL Pages]** tab, click **[!UICONTROL Issues]**.
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 

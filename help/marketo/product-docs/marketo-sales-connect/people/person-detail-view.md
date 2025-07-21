@@ -3,6 +3,7 @@ unique-page-id: 13796475
 description: Person Detail View - Marketo Docs - Product Documentation
 title: Person Detail View
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
+feature: Marketo Sales Connect
 ---
 # Person Detail View {#person-detail-view}
 

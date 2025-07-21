@@ -3,6 +3,7 @@ unique-page-id: 2953461
 description: SFDC Sync - Field Sync - Marketo Docs - Product Documentation
 title: SFDC Sync - Field Sync
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
+feature: Salesforce Integration
 ---
 # SFDC Sync: Field Sync {#sfdc-sync-field-sync}
 
@@ -50,8 +51,8 @@ Lookup fields in SFDC sync the ID but not the referenced name.
 
 ## What about SFDC Formula Fields? {#what-about-sfdc-formula-fields}
 
-Formula fields are synced, however, updates to the references in the formula are not synced until there is an update to a [System Mod Stamp](https://help.salesforce.com/apex/HTViewSolution?id=000193203&language=en_US).
+Formula fields are synced, however, updates to the references in the formula are not synced until there is an update to a [System Mod Stamp](https://help.salesforce.com/apex/HTViewSolution?id=000193203&language=en_US){target="_blank"}.
 
 ## What happens when I delete a field from [!DNL Salesforce] that was previously syncing with Marketo? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 
-If you delete a field in SFDC it doesn’t automatically delete the field in Marketo, it just stops syncing.
+If you delete a field in SFDC it doesn't automatically delete the field in Marketo, it just stops syncing.

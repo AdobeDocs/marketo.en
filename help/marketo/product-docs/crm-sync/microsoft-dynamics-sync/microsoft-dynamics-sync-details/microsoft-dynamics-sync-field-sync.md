@@ -3,6 +3,7 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync -Field Sync - Marketo Docs - Product Documentation
 title: Microsoft Dynamics Sync -Field Sync
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
+feature: Microsoft Dynamics
 ---
 # [!DNL Microsoft Dynamics] Sync: Field Sync {#microsoft-dynamics-sync-field-sync}
 
@@ -28,7 +29,7 @@ Yes, you can [sync the field](/help/marketo/product-docs/crm-sync/microsoft-dyna
 
 ## What fields will sync to Marketo? {#what-fields-will-sync-to-marketo}
 
-You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) during setup.
+You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} during setup.
 
 ## What if I need to add a custom field after Marketo and [!DNL Dynamics] are synced? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 

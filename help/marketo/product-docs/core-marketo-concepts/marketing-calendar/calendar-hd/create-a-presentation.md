@@ -3,6 +3,7 @@ unique-page-id: 7503971
 description: Create a Presentation - Marketo Docs - Product Documentation
 title: Create a Presentation
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
+feature: Marketing Calendar
 ---
 # Create a Presentation {#create-a-presentation}
 
@@ -11,7 +12,7 @@ Create a presentation to project your team's calendar views and goals on an HDTV
 >[!AVAILABILITY]
 >
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 1. Go to the **[!UICONTROL Calendar]**.
 

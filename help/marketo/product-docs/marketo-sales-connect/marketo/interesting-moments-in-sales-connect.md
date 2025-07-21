@@ -3,6 +3,7 @@ unique-page-id: 30082174
 description: Interesting Moments in Sales Connect - Marketo Docs - Product Documentation
 title: Interesting Moments in Sales Connect
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
+feature: Marketo Sales Connect
 ---
 # Interesting Moments in [!DNL Sales Connect] {#interesting-moments-in-sales-connect}
 
@@ -11,6 +12,12 @@ Interesting moments are the key to communicating with your sales team through [!
 >[!AVAILABILITY]
 >
 >These are available to [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) and [!DNL Marketo Sales Connect] customers only.
+
+>[!PREREQUISITES]
+>
+>* You must have a [connection to the Salesforce CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
+>* You must be the lead or contact owner in Salesforce
+>* You must have access to [grant access to the Marketo Engage connection](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}
 
 ## What is an interesting moment? {#what-is-an-interesting-moment}
 

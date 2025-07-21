@@ -3,6 +3,7 @@ unique-page-id: 7516460
 description: Prepare Sales Insight for Multi-Lingual Support in Salesforce - Marketo Docs - Product Documentation
 title: Prepare Sales Insight for Multi-Lingual Support in Salesforce
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
+feature: Marketo Sales Insights
 ---
 # Prepare Sales Insight for Multi-Lingual Support in Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 

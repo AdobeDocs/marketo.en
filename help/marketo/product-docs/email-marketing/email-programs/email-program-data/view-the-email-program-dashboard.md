@@ -3,10 +3,15 @@ unique-page-id: 2359469
 description: View the Email Program Dashboard - Marketo Docs - Product Documentation
 title: View the Email Program Dashboard
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
+feature: Email Programs
 ---
 # View the Email Program Dashboard {#view-the-email-program-dashboard}
 
 Check out how your email program (with or without an A/B test) is performing with this dashboard.
+
+>[!CAUTION]
+>
+>For accurate reporting, avoid _reusing_ an email from an email program, either by referencing it in a Smart Campaign or by moving the asset from the launched email program to a new one. Doing so will aggregate all of the data in every reporting dashboard attached to that email. If you need to reuse an email, please [clone it](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} instead, as that copies the email but creates a new one with a new email ID.
 
 ## Select your Email Program {#select-your-email-program}
 

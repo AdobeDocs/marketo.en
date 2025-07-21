@@ -3,6 +3,7 @@ unique-page-id: 11378468
 description: Filtering in Audit Trail - Marketo Docs - Product Documentation
 title: Filtering in Audit Trail
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
+feature: Audit Trail
 ---
 # Filtering in Audit Trail {#filtering-in-audit-trail}
 
@@ -32,7 +33,7 @@ Filter by time frame, asset type, users, action taken, and more.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Click the **[!UICONTROL Actions]** drop-down and select **[!UICONTROL Edit]**.
+1. Click the **A[!UICONTROL ]ctions** drop-down and select **[!UICONTROL Edit]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 

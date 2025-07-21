@@ -3,6 +3,7 @@ unique-page-id: 14352508
 description: Create Custom Dynamic Fields - Marketo Docs - Product Documentation
 title: Create Custom Dynamic Fields
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
+feature: Marketo Sales Connect
 ---
 # Create Custom Dynamic Fields {#create-custom-dynamic-fields}
 

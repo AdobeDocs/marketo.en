@@ -3,6 +3,7 @@ unique-page-id: 2949243
 description: SEO - Add/Remove Columns From Your Keywords View - Marketo Docs - Product Documentation
 title: SEO - Add/Remove Columns From Your Keywords View
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
+feature: SEO
 ---
 # SEO - Add/Remove Columns From Your Keywords View {#seo-add-remove-columns-from-your-keywords-view}
 

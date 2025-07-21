@@ -3,6 +3,7 @@ unique-page-id: 2950660
 description: Create Custom Tags - Marketo Docs - Product Documentation
 title: Create Custom Tags
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
+feature: Tags
 ---
 # Create Custom Tags {#create-custom-tags}
 
@@ -28,7 +29,7 @@ To create a new tag type:
 
    ![](assets/create-custom-tags-2.png)
 
-1. Click **[!UICONTROL New]** and select **[!UICONTROL New Tag Type].**
+1. Click **[!UICONTROL New]** and select **[!UICONTROL New Tag Type]**.
 
    ![](assets/create-custom-tags-3.png)
 
@@ -51,7 +52,7 @@ To create a new tag type:
    >[!NOTE]
    >
    >* Select "[!UICONTROL Required]" if you want this tag added any time a new program is created.
-   >* Removing a program type from the ‘[!UICONTROL Applies to]’ list will delete the tag and its values from all existing programs of that type. If you want to preserve existing tag values and make this tag optional moving forward for _all_ program types listed, leave the "Required" checkbox unselected.
+   >* Removing a program type from the '[!UICONTROL Applies to]' list will delete the tag and its values from all existing programs of that type. If you want to preserve existing tag values and make this tag optional moving forward for _all_ program types listed, leave the "Required" checkbox unselected.
 
    >[!TIP]
    >

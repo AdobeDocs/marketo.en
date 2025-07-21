@@ -3,6 +3,7 @@ unique-page-id: 10093688
 description: Add Marketo Custom Object Fields - Marketo Docs - Product Documentation
 title: Add Marketo Custom Object Fields
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
+feature: Custom Objects
 ---
 # Add Marketo Custom Object Fields {#add-marketo-custom-object-fields}
 
@@ -22,7 +23,7 @@ Fields define the specific information used by a custom object. Link fields have
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. In the **[!UICONTROL Fields]** tab, click **[!UICONTROL New Field]**.
+1. Click the **[!UICONTROL Fields]** tab, then **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 
@@ -30,7 +31,7 @@ Fields define the specific information used by a custom object. Link fields have
    >
    >The three fields shown above are created automatically by Marketo when you create a custom object. Marketo manages these fields automatically and you can't edit or delete them.
 
-1. Enter a **[!UICONTROL Display Name]** and **[!UICONTROL Description]**.
+1. Enter a [!UICONTROL Display Name] and (optional) [!UICONTROL Description].
 
    ![](assets/add-marketo-custom-object-fields-5.png)
 
@@ -38,11 +39,11 @@ Fields define the specific information used by a custom object. Link fields have
    >
    >The [!UICONTROL API Name] can be edited only until it's approved.
 
-1. Now, choose an appropriate **[!UICONTROL Data Type]** from the list.
+1. Now, choose an appropriate [!UICONTROL Data Type] from the list.
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
-1. Pull the Dedupe slider over if you want to use the new field as a unique identifier. Click **[!UICONTROL Save]** to finish.
+1. Pull the [!UICONTROL Dedupe] slider over if you want to use the new field as a unique identifier. Click **[!UICONTROL Save]** to finish.
 
    ![](assets/add-marketo-custom-object-fields-7.png)
 

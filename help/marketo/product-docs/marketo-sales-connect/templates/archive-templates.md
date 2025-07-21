@@ -3,6 +3,7 @@ unique-page-id: 14352640
 description: Archive Templates - Marketo Docs - Product Documentation
 title: Archive Templates
 exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
+feature: Marketo Sales Connect
 ---
 # Archive Templates {#archive-templates}
 

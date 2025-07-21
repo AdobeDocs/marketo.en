@@ -3,6 +3,7 @@ unique-page-id: 3571830
 description: Step 3 of 3 - Connect the Marketo Solution with Server to Server Connection - Marketo Docs - Product Documentation
 title: Step 3 of 3 - Connect the Marketo Solution with Server to Server Connection
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
+feature: Microsoft Dynamics
 ---
 # Step 3 of 3: Connect the Marketo Solution with Server to Server Connection {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
@@ -10,8 +11,8 @@ This is the last step of the sync. We're almost there!
 
 >[!PREREQUISITES]
 >
->* [Step 1 of 3: Install the Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
->* [Step 2 of 3: Set up the Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+>* [Step 1 of 3: Install the Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
+>* [Step 2 of 3: Set up the Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -23,7 +24,7 @@ This is the last step of the sync. We're almost there!
 
 >[!NOTE]
 >
->Before you enter new credentials, you can [validate them here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
+>Before you enter new credentials, you can [validate them here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
 
 ## Enter [!DNL Dynamics] Sync User information {#enter-dynamics-sync-user-information}
 
@@ -45,7 +46,7 @@ This is the last step of the sync. We're almost there!
 
    >[!CAUTION]
    >
-   >Please make sure your org URL is correct as we are unable to revert the subsequent schema changes after submission. If an incorrect Org URL is used, you’ll have to obtain a new Marketo subscription. If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >Please make sure your org URL is correct as we are unable to revert the subsequent schema changes after submission. If an incorrect Org URL is used, you'll have to obtain a new Marketo subscription. If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
 1. Enter the [!DNL Dynamics] Sync User information and click **[!UICONTROL Save]** when done.
 
@@ -53,7 +54,7 @@ This is the last step of the sync. We're almost there!
 
    >[!NOTE]
    >
-   >The username in Marketo must match the [email address](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) of the Application User in the CRM. The format can be `user@domain.com` or DOMAIN\user.
+   >The username in Marketo must match the [email address](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} of the Application User in the CRM. The format can be `user@domain.com` or DOMAIN\user.
 
 ## Select Fields to Sync {#select-fields-to-sync}
 
@@ -99,8 +100,6 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. The first sync may take a few hours. Once it's done, you'll receive an email notification.
+1. Depending on the number of records, the initial sync can take anywhere from a few hours to a few days. You will receive an email notification upon completion.
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
-
-Excellent work!

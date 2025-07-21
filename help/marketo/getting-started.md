@@ -2,7 +2,10 @@
 unique-page-id: 1147226
 description: Getting Started - Marketo Docs - Product Documentation
 title: Getting Started
+hide: yes
+hidefromtoc: yes
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
+feature: Getting Started
 ---
 # Getting Started {#getting-started}
 
@@ -16,7 +19,7 @@ What is Marketo Engage, you ask? Great question!
 
 With a little help from your IT team, you can get it done in no time.
 
-[Start Setup](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
+[Start Setup](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## Get Some Quick Wins {#get-some-quick-wins}
 
@@ -35,7 +38,7 @@ Complete these missions to learn the core features of Marketo Engage.
   </td>
   <td>
       <a href="getting-started/quick-wins/send-an-email.md">
-       <img alt="Import" src="getting-started/assets/getting-started-2.png" />
+       <img alt="Import" src="getting-started/assets/getting-started.png" />
        </a>
     <div><a href="getting-started/quick-wins/send-an-email.md">2. Send an Email</a>
     </div>

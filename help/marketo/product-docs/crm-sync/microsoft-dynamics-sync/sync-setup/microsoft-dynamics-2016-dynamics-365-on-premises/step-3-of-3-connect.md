@@ -2,6 +2,7 @@
 description: Install Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premises Step 3 of 3 - Marketo Docs - Product Documentation
 title: Install Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premises Step 3 of 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
+feature: Microsoft Dynamics
 ---
 # Step 3 of 3: Connect Marketo [!DNL Dynamics] (2016 On Prem/[!DNL Dynamics] 365 On-Premises) {#step-of-connect-marketo-dynamics-on-premises-2016}
 
@@ -20,11 +21,11 @@ exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 
    ![](assets/login-admin.png)
 
-1. Click **CRM**.
+1. Click **[!UICONTROL CRM]**.
 
    ![](assets/image2015-3-16-9-47-34.png)
 
-1. Select **Microsoft**.
+1. Select **[!DNL Microsoft]**.
 
    ![](assets/image2015-3-16-9-50-6.png)
 
@@ -34,7 +35,7 @@ exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 
    >[!CAUTION]
    >
-   >Please make sure your credentials are correct as we are unable to revert the subsequent schema changes after submission. If incorrect credentials are saved, you’ll have to obtain a new Marketo subscription.
+   >Please make sure your credentials are correct as we are unable to revert the subsequent schema changes after submission. If incorrect credentials are saved, you'll have to obtain a new Marketo subscription.
 
 1. Enter the **Username**, **Password** a [!DNL Microsoft Dynamics] **URL**, and a **Client Id/Secret**. Click **Save** when done.
 
@@ -44,7 +45,7 @@ exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
    >
    >* If your Marketo was provisioned prior to October 2020, Client ID and Secret are optional fields. Otherwise, they're mandatory. Obtaining this information will depend on what version of MSD you're using.
    >* The Username in Marketo must match the User Name for the sync user in CRM. The format can be `user@domain.com` or DOMAIN\user.
-   >* If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >* If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
    >[!TIP]
    >
@@ -94,8 +95,6 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. The first sync may take a few hours. After it's done, you'll receive an email notification.
+1. Depending on the number of records, the initial sync can take anywhere from a few hours to a few days. You will receive an email notification upon completion.
 
    ![](assets/image2015-3-16-9-59-51.png)
-
-Excellent work!

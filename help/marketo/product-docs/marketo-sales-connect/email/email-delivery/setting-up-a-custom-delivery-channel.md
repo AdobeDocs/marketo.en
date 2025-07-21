@@ -3,6 +3,7 @@ unique-page-id: 14746470
 description: Setting up a Custom Delivery Channel - Marketo Docs - Product Documentation
 title: Setting up a Custom Delivery Channel
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
+feature: Marketo Sales Connect
 ---
 # Setting up a Custom Delivery Channel {#setting-up-a-custom-delivery-channel}
 

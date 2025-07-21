@@ -3,6 +3,7 @@ unique-page-id: 42762244
 description: Setting up Stars and Flames for Lead/Contact Records - Marketo Docs - Product Documentation
 title: Setting up Stars and Flames for Lead/Contact Records
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
+feature: Marketo Sales Insights
 ---
 # Setting up Stars and Flames for Lead/Contact Records {#setting-up-stars-and-flames-for-lead-contact-records}
 

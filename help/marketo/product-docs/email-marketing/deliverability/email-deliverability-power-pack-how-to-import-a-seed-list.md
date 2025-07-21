@@ -1,16 +1,17 @@
 ---
 unique-page-id: 10099077
-description: Email Deliverability Power Pack -How to Import a Seed List - Marketo Docs - Product Documentation
-title: Email Deliverability Power Pack -How to Import a Seed List
+description: Learn how to import a seed list into your Marketo Engage instance.
+title: Email Deliverability Power Pack - How to Import a Seed List
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
+feature: Deliverability
 ---
 # Email Deliverability Power Pack: How to Import a Seed List {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-A Seed List is a list of email accounts at multiple mailbox providers, including Google Apps, [!DNL Hotmail], [!DNL Yahoo!], etc., that are used to approximate the rate of inbox versus spam folder deliverability. Here’s how to get that list into your Marketo instance.
+A Seed List is a list of email accounts at multiple mailbox providers, including Google Apps, Hotmail, Yahoo!, etc., that are used to approximate the rate of inbox versus spam folder deliverability. Below are the steps to get that list into your Marketo Engage instance.
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->Not all customers have purchased this functionality. Contact your Sales Rep for details.
+>This article is for those with an active Everest subscription at this time. If you use Inbox Tracker by Bird (formerly MessageBird), your tutorials [can be found here](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## Import a Seed List {#import-a-seed-list}
 
@@ -34,7 +35,7 @@ A Seed List is a list of email accounts at multiple mailbox providers, including
    >
    >Use the Seed List Optimizer (at the top of the page) if you want [!DNL Everest] to optimize your list for you.
 
-1. After export, the list will appear as a .txt file in your browser’s downloads folder. Retrieve it, and [import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) it into your Marketo instance as a static list.
+1. After export, the list will appear as a .txt file in your browser's downloads folder. Retrieve it, and [import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) it into your Marketo instance as a static list.
 
    ![](assets/email-deliverability-power-pack-5.png)
 
@@ -50,4 +51,4 @@ A Seed List is a list of email accounts at multiple mailbox providers, including
 
    Your Seed List can change as often as every month. It's important to log in to the Email Deliverabilty Power Pack regularly and check the status of your Seed List. When new addresses are added or an update is required on your end, you will be alerted via the Notification Icon on the lower left hand side of the application.
 
-After your static list in Marketo is created, you can begin sending to it to test your email’s inbox placement.
+After your static list in Marketo is created, you can begin sending to it to test your email's inbox placement.

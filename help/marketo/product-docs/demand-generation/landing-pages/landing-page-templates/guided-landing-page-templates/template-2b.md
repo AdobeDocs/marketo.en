@@ -3,6 +3,7 @@ unique-page-id: 7516470
 description: Template 2B - Marketo Docs - Product Documentation
 title: Template 2B
 exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 2B {#template-2b}
 

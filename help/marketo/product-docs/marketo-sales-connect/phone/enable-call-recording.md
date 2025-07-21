@@ -3,6 +3,7 @@ unique-page-id: 45416564
 description: Enable Call Recording - Marketo Docs - Product Documentation
 title: Enable Call Recording
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
+feature: Marketo Sales Connect
 ---
 # Enable Call Recording {#enable-call-recording}
 

@@ -3,6 +3,7 @@ unique-page-id: 7512457
 description: Send a Mobile Push Notification - Marketo Docs - Product Documentation
 title: Send a Mobile Push Notification
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
+feature: Mobile Marketing
 ---
 # Send a Mobile Push Notification {#send-a-mobile-push-notification}
 

@@ -3,6 +3,7 @@ unique-page-id: 2949162
 description: Enable/Disable Report Subscriptions - Marketo Docs - Product Documentation
 title: Enable/Disable Report Subscriptions
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
+feature: Web Personalization
 ---
 # Enable/Disable Report Subscriptions {#enable-disable-report-subscriptions}
 

@@ -3,6 +3,7 @@ unique-page-id: 2949186
 description: SEO - Using the Page Detail Drill Down - Marketo Docs - Product Documentation
 title: SEO - Using the Page Detail Drill Down
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
+feature: SEO
 ---
 # SEO - Using the Page Detail Drill Down {#seo-using-the-page-detail-drill-down}
 
@@ -52,8 +53,6 @@ You can see a lot of information about your pages using the page detail drill do
    The [!UICONTROL Page Optimization Results] will tell you the exact steps you need to take in order to increase your optimization score/perform better on search for this page.
 
    ![](assets/image2014-9-17-21-3a56-3a41.png)
-
-   Pretty sweet, right? Learn more about Pages over here.
 
 >[!MORELIKETHIS]
 >

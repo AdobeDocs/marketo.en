@@ -3,6 +3,7 @@ unique-page-id: 7504047
 description: Create a Revenue Explorer Report - Marketo Docs - Product Documentation
 title: Create a Revenue Explorer Report
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Create a [!UICONTROL Revenue Explorer] Report {#create-a-revenue-explorer-report}
 
@@ -10,7 +11,11 @@ The [!UICONTROL Revenue Explorer] report allows you to track the ROI on your mar
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
+
+>[!IMPORTANT]
+>
+>The Trash folder in Revenue Cycle Explorer has been temporarily hidden due to a technical issue. We are currently working on a fix, and your files are safe. Please contact [Adobe Support](https://nation.marketo.com/t5/support/ct-p/Support) if there are any files you need restored.
 
 1. Go to the **[!UICONTROL Revenue Explorer]** area.
 

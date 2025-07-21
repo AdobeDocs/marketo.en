@@ -3,6 +3,7 @@ unique-page-id: 2949270
 description: SEO - Use the Competitor KW Trends Report - Marketo Docs - Product Documentation
 title: SEO - Use the Competitor KW Trends Report
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
+feature: SEO
 ---
 # SEO - Use the Competitor KW Trends Report {#seo-use-the-competitor-kw-trends-report}
 
@@ -41,7 +42,7 @@ This graph can show you what percentage of your keywords are ranked in a specifi
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## Exporting Data  {#exporting-data}
+## Exporting Data {#exporting-data}
 
    >[!TIP]
    >
@@ -50,5 +51,3 @@ This graph can show you what percentage of your keywords are ranked in a specifi
 1. Click **[!UICONTROL Export CSV]** or **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a9-3a49.png)
-
-   A+ work!

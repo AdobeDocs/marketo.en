@@ -3,6 +3,7 @@ unique-page-id: 42762514
 description: Insights Dashboard Feature Overview - Marketo Docs - Product Documentation
 title: Insights Dashboard Feature Overview
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
+feature: Marketo Sales Insights
 ---
 # Insights Dashboard Feature Overview {#insights-dashboard-feature-overview}
 

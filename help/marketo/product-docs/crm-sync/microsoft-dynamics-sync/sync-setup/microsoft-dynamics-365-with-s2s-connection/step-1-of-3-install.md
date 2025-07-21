@@ -2,6 +2,7 @@
 description: Step 1 of 3 - Install the Marketo Solution with Server to Server Connection - Marketo Docs - Product Documentation
 title: Step 1 of 3 - Install the Marketo Solution with Server to Server Connection
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
+feature: Microsoft Dynamics
 ---
 # Step 1 of 3: Install the Marketo Solution with Server to Server Connection {#step-1-of-3-install-the-marketo-solution-s2s}
 
@@ -9,7 +10,7 @@ Before you can sync [!DNL Microsoft Dynamics 365] and Marketo, you need to first
 
 >[!CAUTION]
 >
->* Do not enable custom entity sync before the initial sync is completed. You will be notified via email once the initial sync is completed.
+>Do not enable custom entity sync before the initial sync is completed. You will be notified via email once the initial sync is completed.
 
 >[!NOTE]
 >
@@ -17,7 +18,7 @@ Before you can sync [!DNL Microsoft Dynamics 365] and Marketo, you need to first
 
 >[!PREREQUISITES]
 >
->[Download the Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Download the Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}
 
 1. Log in to **[[!DNL Microsoft Office 365]](https://login.microsoftonline.com/)**.
 
@@ -59,7 +60,7 @@ Before you can sync [!DNL Microsoft Dynamics 365] and Marketo, you need to first
    >
    >You will need to enable pop-ups on your browser to complete the installation process.
 
-1. Now wait for the import to finish. Get up and do some stretches.
+1. Now wait for the import to finish.
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
@@ -83,4 +84,4 @@ Before you can sync [!DNL Microsoft Dynamics 365] and Marketo, you need to first
 
    >[!MORELIKETHIS]
    >
-   >[Step 2 of 3: Set up the Marketo Solution with S2S Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+   >[Step 2 of 3: Set up the Marketo Solution with S2S Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}

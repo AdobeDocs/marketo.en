@@ -3,6 +3,7 @@ unique-page-id: 10094188
 description: Approve a Custom Object - Marketo Docs - Product Documentation
 title: Approve a Custom Object
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
+feature: Custom Objects
 ---
 # Approve a Custom Object {#approve-a-custom-object}
 
@@ -28,7 +29,7 @@ You've created a brand new custom object. Here's how to approve it.
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. The State changes to **[!UICONTROL Approved]**.
+1. The state changes to [!UICONTROL Approved].
 
    ![](assets/approve-a-custom-object-5.png)
 
@@ -48,7 +49,7 @@ That's it! Now, you can select your custom object in the constraints of your fil
 
 After you edit an approved custom object, you must approve the draft to return the custom object to an Approved state.
 
-1. When you edit an already approved custom object, it receives an **[!UICONTROL Approved with Draft]** State.
+1. When you edit an already approved custom object, it receives an [!UICONTROL Approved with Draft] state.
 
    ![](assets/approve-a-custom-object-6.png)
 
@@ -56,6 +57,6 @@ After you edit an approved custom object, you must approve the draft to return t
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. A **[!UICONTROL Preview]** displays the items that were changed in the draft. Click **[!UICONTROL Approve]**.
+1. A preview displays the items that were changed in the draft. Click **[!UICONTROL Approve]**.
 
    ![](assets/approve-a-custom-object-8.png)

@@ -2,7 +2,10 @@
 unique-page-id: 10098238
 description: LinkedIn Social Form Fill FAQs - Marketo Docs - Product Documentation
 title: LinkedIn Social Form Fill FAQs
+hide: yes
+hidefromtoc: yes
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
+feature: Forms
 ---
 # [!DNL LinkedIn] Social Form Fill FAQs {#linkedin-social-form-fill-faqs}
 
@@ -38,7 +41,7 @@ Yes. [!DNL Facebook] and [!DNL Twitter] Social Form Fill have not changed.
 
 No, this data was already stored on the person record in Marketo and was not impacted by this change.
 
-## Where can I find more information about [!DNL LinkedIn]’s API policy? {#where-can-i-find-more-information-about-linkedin-s-api-policy}
+## Where can I find more information about LinkedIn's API policy? {#where-can-i-find-more-information-about-linkedin-s-api-policy}
 
 Follow this link to learn more about the changes [!DNL LinkedIn] made to their API policy: [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
 

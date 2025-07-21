@@ -3,6 +3,7 @@ unique-page-id: 2949228
 description: SEO - Get Inbound Link Suggestions - Marketo Docs - Product Documentation
 title: SEO - Get Inbound Link Suggestions
 exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
+feature: SEO
 ---
 # SEO - Get Inbound Link Suggestions {#seo-get-inbound-link-suggestions}
 
@@ -28,7 +29,7 @@ Marketo can suggest which inbound links are valuable to your [off-page optimizat
    >
    >Did you know you can  [add your link to a new or existing list](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)? Check it out!
 
-1. Awesome! These added links will now be tracked.
+Awesome! These added links will now be tracked.
 
    >[!NOTE]
    >

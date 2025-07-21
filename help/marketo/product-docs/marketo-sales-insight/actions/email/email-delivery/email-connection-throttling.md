@@ -2,6 +2,7 @@
 description: Email Connection Throttling - Marketo Docs - Product Documentation
 title: Email Connection Throttling
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
+feature: Sales Insight Actions
 ---
 # Email Connection Throttling {#email-connection-throttling}
 
@@ -9,11 +10,7 @@ Integrating your [!DNL Sales Connect] account to send through [!DNL Exchange] or
 
 ## Email Connection Throttling (Beta) {#email-connection-throttling-beta}
 
->[!AVAILABILITY]
->
->This feature is currently in Beta release. To join this Beta, please contact your Customer Success Manager.
-
-Email Connection Throttling allows [!DNL Sales Connect] administrators to configure the send rate of emails when using Gmail or [!DNL Exchange] as your delivery channel, so that the rate at which emails are being handed over to the delivery channel provider do not exceed the enforced limits.
+Email Connection Throttling allows Sales Connect administrators to configure the send rate of emails when using Gmail or Exchange as your delivery channel, so that the rate at which emails are being handed over to the delivery channel provider do not exceed the enforced limits.
 
 When limits are consistently exceeded this can sometimes be seen as suspicious behavior from the delivery channel provider, causing emails to fail and sometimes even an account to be disabled.
 

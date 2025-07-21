@@ -3,6 +3,7 @@ unique-page-id: 2360276
 description: Hide/Unhide a Program Channel - Marketo Docs - Product Documentation
 title: Hide/Unhide a Program Channel
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
+feature: Tags
 ---
 # Hide/Unhide a Program Channel {#hide-unhide-a-program-channel}
 
@@ -14,17 +15,21 @@ You can [delete a program channel](/help/marketo/product-docs/administration/tag
 
 ## Hide a Program Channel {#hide-a-program-channel}
 
-1. Under **[!UICONTROL Admin]**, click on **[!UICONTROL Tags]**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2014-9-24-15-3a45-3a7.png)
+   ![](assets/hide-unhide-a-program-channel-1.png)
+
+1. Click **[!UICONTROL Tags]**.
+
+   ![](assets/hide-unhide-a-program-channel-2.png)
 
 1. Click on the **[!UICONTROL Channel]** drop-down and select the **[!UICONTROL Channel]** to hide.
 
-   ![](assets/image2014-9-24-15-3a45-3a41.png)
+   ![](assets/hide-unhide-a-program-channel-3.png)
 
 1. Under **[!UICONTROL Tag Actions]**, click on **[!UICONTROL Hide]**.
 
-   ![](assets/image2014-9-24-15-3a46-3a22.png)
+   ![](assets/hide-unhide-a-program-channel-4.png)
 
 Easy come, easy go!
 
@@ -32,4 +37,4 @@ Easy come, easy go!
 
 1. Unhide a Program Channel by checking the **[!UICONTROL Show Hidden]** checkbox.
 
-   ![](assets/image2014-9-24-15-3a47-3a24.png)
+   ![](assets/hide-unhide-a-program-channel-5.png)

@@ -3,6 +3,7 @@ unique-page-id: 3571807
 description: Step 2 of 3 -Set up Marketo Sync User in [!DNL Dynamics] (2011 On-Premises) - Marketo Docs - Product Documentation
 title: Step 2 of 3 -Set up Marketo Sync User in [!DNL Dynamics] (2011 On-Premises)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
+feature: Microsoft Dynamics
 ---
 # Step 2 of 3: Set up Marketo Sync User in [!DNL Dynamics] (2011 On-Premises) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
 
@@ -10,7 +11,7 @@ Great job completing the previous steps, let's keep moving through this.
 
 >[!PREREQUISITES]
 >
->[Step 1 of 3: Install the Marketo Solution (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+>[Step 1 of 3: Install the Marketo Solution (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"}
 
 ## Assign Sync User Role {#assign-sync-user-role}
 
@@ -22,7 +23,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
 >[!IMPORTANT]
 >
->The language setting of the Sync User [should be set to English](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
+>The language setting of the Sync User [should be set to English](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. In the bottom left menu, select **[!UICONTROL Settings]**.
 
@@ -46,11 +47,11 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
    >[!TIP]
    >
-   >If you don't see the role, go back to [step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) and import the solution.
+   >If you don't see the role, go back to [step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"} and import the solution.
 
    >[!NOTE]
    >
-   >Any updates made in your CRM by the Sync User will **not** be synced back to Marketo.
+   >Any updates made in your CRM by the Sync User will _not_ be synced back to Marketo.
 
 ## Configure Marketo Solution {#configure-marketo-solution}
 

@@ -3,6 +3,7 @@ unique-page-id: 2359553
 description: Add an Email Champion/Challenger - Marketo Docs - Product Documentation
 title: Add an Email Champion/Challenger
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
+feature: Email Editor
 ---
 # Add an Email Champion/Challenger {#add-an-email-champion-challenger}
 

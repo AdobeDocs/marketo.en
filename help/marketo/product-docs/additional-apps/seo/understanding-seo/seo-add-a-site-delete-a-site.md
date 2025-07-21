@@ -3,6 +3,7 @@ unique-page-id: 2949194
 description: SEO - Add a Site/Delete a Site - Marketo Docs - Product Documentation
 title: SEO - Add a Site/Delete a Site
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
+feature: SEO
 ---
 # SEO - Add a Site/Delete a Site {#seo-add-a-site-delete-a-site}
 
@@ -10,7 +11,7 @@ In order for Marketo to pull data (inbound links and recommendations) relevant t
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 ## [!UICONTROL Add a Site] {#add-a-site}
 

@@ -2,6 +2,7 @@
 description: Install Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premises Step 2 of 3 - Marketo Docs - Product Documentation
 title: Install Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premises Step 2 of 3
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
+feature: Microsoft Dynamics
 ---
 # Step 2 of 3 Set up Marketo for [!DNL Dynamics] (2016 On-Prem/[!DNL Dynamics] 365 On-Premises){#step-of-set-up-for-marketo-on-premises-2016}
 
@@ -47,7 +48,7 @@ Great job completing the previous steps. Let's keep moving through this.
 
    >[!NOTE]
    >
-   >This name must be a dedicated sync user and not an existing CRM user’s account. It does not need to be an actual email address.
+   >This name must be a dedicated sync user and not an existing CRM user's account. It does not need to be an actual email address.
 
 1. Enter the email to receive the new user credentials and click Send email and close.
 
@@ -67,7 +68,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
 >[!IMPORTANT]
 >
->The language setting of the Sync User [should be set to English](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
+>The language setting of the Sync User [should be set to English](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Under **[!UICONTROL Settings]**, click **[!UICONTROL Security]**.
 
@@ -77,7 +78,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
    ![](assets/assign2.png)
 
-1. You will see a list of users here. Select the dedicated Marketo Sync user or contact your [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx)(ADFS) administrator to create a dedicated user for Marketo.
+1. You will see a list of users here. Select the dedicated Marketo Sync user or contact your [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} (ADFS) administrator to create a dedicated user for Marketo.
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
@@ -85,7 +86,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
    ![](assets/assign4.png)
 
-   Check Marketo Sync User and click OK.
+1. Check Marketo Sync User and click **[!UICONTROL OK]**.
 
    ![](assets/assign5.png)
 
@@ -95,7 +96,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
    >[!NOTE]
    >
-   >Any updates made in your CRM by the Sync User will **not** be synced back to Marketo.
+   >Any updates made in your CRM by the Sync User will _not_ be synced back to Marketo.
 
 ## Configure Marketo Solution {#configure-marketo-solution}
 
@@ -107,7 +108,7 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 
    >[!NOTE]
    >
-   >If Marketo Config is missing, try refreshing the page. If the issue persists, [publish the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md) or try logging out and back in.
+   >If Marketo Config is missing, try refreshing the page. If the issue persists, [publish the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"} or try logging out and back in.
 
 1. Click **[!UICONTROL Default]**.
 

@@ -3,6 +3,7 @@ unique-page-id: 2359426
 description: Update Person Data - Marketo Docs - Product Documentation
 title: Update Person Data
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
+feature: Getting Started
 ---
 # Update Person Data {#update-person-data}
 
@@ -42,6 +43,12 @@ Let's imagine that at your recent tradeshow, a person gave you some additional c
 1. Type in the new info you received and then close the tab.
 
 ![](assets/update-person-data-4.png)
+
+>[!CAUTION]
+>
+>* Make sure email addresses contain ASCII characters only.
+>
+>* Marketo does **not** support email addresses that contain emojis.
 
 >[!NOTE]
 >

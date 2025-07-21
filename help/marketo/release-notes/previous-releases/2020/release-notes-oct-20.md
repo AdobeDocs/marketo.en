@@ -3,6 +3,7 @@ unique-page-id: 45416698
 description: Release Notes - Oct '20 - Marketo Docs - Product Documentation
 title: Release Notes - Oct '20
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
+feature: Release Information
 ---
 # Release Notes: Oct '20 {#release-notes-oct}
 
@@ -22,7 +23,7 @@ The following features are included in the October '20 release. Check your Marke
 
 ## Email Marketing {#email-marketing}
 
-* **Batch Email Boost ![(star)](assets/yellow-star.png)**: Send more emails with an increased throughput of up to 5 million batch emails per hour. Expansive email deliverability options eliminates the need to wait between email batches - send all emails on time and on your schedule.
+* **Batch Email Boost** ![(star)](assets/yellow-star.png): Send more emails with an increased throughput of up to 5 million batch emails per hour. Expansive email deliverability options eliminates the need to wait between email batches - send all emails on time and on your schedule.
 
 ## Website Marketing {#website-marketing}
 
@@ -50,7 +51,7 @@ The following features are included in the October '20 release. Check your Marke
 
 * **Field Management**: Find API field names easily with the new metadata entry feature on the field record – no need to export all fields into spreadsheets to find out the field name. Build integrations with apps from LaunchPoint, connect databases, or use our open APIs in any way that fits your organization.
 
-* **New Metadata Export Options**: Export custom object metadata for selected custom objects into a spreadsheet for easy sharing. In addition, any or all subscription objects’ metadata can be exported, such as lead, company, standard and custom activities, tags, and channels. Data can be extracted by admins and quickly shared with engineering teams for analysis and design purposes.
+* **New Metadata Export Options**: Export custom object metadata for selected custom objects into a spreadsheet for easy sharing. In addition, any or all subscription objects' metadata can be exported, such as lead, company, standard and custom activities, tags, and channels. Data can be extracted by admins and quickly shared with engineering teams for analysis and design purposes.
 
 * **Opportunity Custom Field**: Gain more insight into opportunity records with opportunity custom fields display in Marketo Engage. View opportunity custom fields data from [!DNL Salesforce] CRM, [!DNL Microsoft Dynamics 365] CRM, Sales native integrations, or via other API integrations. Having full visibility into opportunity details and pipeline enables you to orchestrate engagement in coordination with Sales, increase conversions, and help close deals faster.
 
@@ -72,7 +73,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 * **Field Management**: A restriction to synchronous changes to custom field type in Marketo Engage is introduced to increase our infrastructure security. When making changes to multiple field types, the first field changes must be completed before moving to the next field. This new process ensures a more stable environment and minimizes change type operation failure risks.
 
-* **Increased Asset API URI Size Limit**: The uniform resource identifier (URI) size limit is being increased from 8KB to 65KB in advance of the removal of “_method” parameter. The size limit increase allows customers who use long query strings to pass data more easily. The removal of the “_method” parameter is a part of an upcoming security upgrade.
+* **Increased Asset API URI Size Limit**: The uniform resource identifier (URI) size limit is being increased from 8KB to 65KB in advance of the removal of "_method" parameter. The size limit increase allows customers who use long query strings to pass data more easily. The removal of the "_method" parameter is a part of an upcoming security upgrade.
 
 ## Product Release Webinar {#product-release-webinar}
 

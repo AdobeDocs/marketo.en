@@ -3,6 +3,7 @@ unique-page-id: 4720275
 description: Create a Custom Audience in Facebook - Marketo Docs - Product Documentation
 title: Create a Custom Audience in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
+feature: Integrations
 ---
 # Create a Custom Audience in [!DNL Facebook] {#create-a-custom-audience-in-facebook}
 
@@ -58,10 +59,6 @@ exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
    >[!NOTE]
    >
    >All lists that you push over to [!DNL Facebook] become static. Smart lists in Marketo will not auto-update the audience list in [!DNL Facebook] to reflect any changes made after the transfer.
-
-   >[!TIP]
-   >
-   >See the [[!DNL Facebook] learning path for Marketo customers](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. It covers everything you need to know, from creating a [!DNL Facebook] page to targeting your [!DNL Facebook] ads using Marketo's ad network integrations.
 
    >[!MORELIKETHIS]
    >

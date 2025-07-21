@@ -4,10 +4,11 @@ title: Custom Object Sync
 hide: yes
 hidefromtoc: yes
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
+feature: Veeva CRM
 ---
 # Custom Object Sync {#custom-object-sync}
 
-Custom Objects created in your [!DNL Veeva] CRM instance can be part of Marketo Engage, too. Here’s how to set it up.
+Custom Objects created in your [!DNL Veeva] CRM instance can be part of Marketo Engage, too. Here's how to set it up.
 
 >[!NOTE]
 >

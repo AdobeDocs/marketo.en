@@ -3,12 +3,14 @@ unique-page-id: 10100397
 description: Understanding In-App Messages - Marketo Docs - Product Documentation
 title: Understanding In-App Messages
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
+feature: Mobile Marketing
 ---
 # Understanding In-App Messages {#understanding-in-app-messages}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->In-App messaging is an add-on application. Confirm with your Marketo account manager to be sure it's activated.
+>
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 Use in-app messages to engage directly with your customers while they're using your app. When they open or take a custom action, you can present a promotional offer. One click takes them to a landing page, external website, or deep link, where they can learn more and make a purchase. Or, that click can simply dismiss the message.  You can also use in-app messages as reminders to your customers to, for example, complete their profile, or to inform them about new app features.
 

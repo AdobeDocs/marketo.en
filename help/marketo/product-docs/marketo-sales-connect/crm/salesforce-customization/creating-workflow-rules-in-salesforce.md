@@ -3,6 +3,7 @@ unique-page-id: 14745823
 description: Creating Workflow Rules in Salesforce - Marketo Docs - Product Documentation
 title: Creating Workflow Rules in Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
+feature: Marketo Sales Connect
 ---
 # Creating Workflow Rules in Salesforce {#creating-workflow-rules-in-salesforce}
 

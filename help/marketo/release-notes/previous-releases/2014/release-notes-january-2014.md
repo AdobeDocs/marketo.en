@@ -3,6 +3,7 @@ unique-page-id: 2951050
 description: Release Notes -January 2014 - Marketo Docs - Product Documentation
 title: Release Notes -January 2014
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
+feature: Release Information
 ---
 # Release Notes: January 2014 {#release-notes-january}
 

@@ -2,6 +2,7 @@
 description: How Does Location Tracking Work - Marketo Docs - Product Documentation
 title: How Does Location Tracking Work
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
+feature: Sales Insight Actions
 ---
 # How Does Location Tracking Work? {#how-does-location-tracking-work}
 

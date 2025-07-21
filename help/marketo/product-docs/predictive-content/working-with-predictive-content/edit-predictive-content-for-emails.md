@@ -3,6 +3,7 @@ unique-page-id: 11385938
 description: Edit Predictive Content for Emails - Marketo Docs - Product Documentation
 title: Edit Predictive Content for Emails
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
+feature: Predictive Content
 ---
 # Edit Predictive Content for Emails {#edit-predictive-content-for-emails}
 

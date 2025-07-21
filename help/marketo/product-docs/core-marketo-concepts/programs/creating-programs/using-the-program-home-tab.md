@@ -3,6 +3,7 @@ unique-page-id: 1147126
 description: Using the Program Home Tab - Marketo Docs - Product Documentation
 title: Using the Program Home Tab
 exl-id: 04c36190-d853-4900-b566-973d08316e37
+feature: Programs
 ---
 # Using the Program Home Tab {#using-the-program-home-tab}
 
@@ -32,25 +33,25 @@ The program home tab gives you a high-level view of what's going on in your prog
 
 ## Used By View {#used-by-view}
 
-1. In [!UICONTROL Marketing Activities], select a program.
+1. In **[!UICONTROL Marketing Activities]**, select a program.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Click the **View** drop-down. Select **[!UICONTROL Used By]**.
+1. Click the **[!UICONTROL View]** drop-down. Select **[!UICONTROL Used By]**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
-   This view shows you what smart campaigns are in use.
+   This view shows you what Smart Campaigns are in use.
 
    ![](assets/image2014-9-18-17-3a6-3a4.png)
 
 ## Membership View {#membership-view}
 
-1. In Marketing Activities, select a program.
+1. In **[!UICONTROL Marketing Activities]**, select a program.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Click the **View** drop-down. Select **[!UICONTROL Membership]**.
+1. Click the **[!UICONTROL View]** drop-down. Select **[!UICONTROL Membership]**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -64,4 +65,4 @@ The program home tab gives you a high-level view of what's going on in your prog
 
    >[!MORELIKETHIS]
    >
-   >[Understanding Program Membership](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+   >[Understanding Program Membership](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

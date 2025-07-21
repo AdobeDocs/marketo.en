@@ -3,10 +3,11 @@ unique-page-id: 2953572
 description: Understanding Email Programs - Marketo Docs - Product Documentation
 title: Understanding Email Programs
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
+feature: Email Programs
 ---
 # Understanding Email Programs {#understanding-email-programs}
 
-Say hello to your new Marketo friend, the email program. Send out emails, create A/B tests, and track your results all in one place.
+Send out emails, create A/B tests, and track your results all in one place.
 
 ## Control Panel {#control-panel}
 
@@ -29,15 +30,19 @@ Learn about the following A/B tests:
 
 ## Dashboards {#dashboards}
 
->[!TIP]
+>[!CAUTION]
 >
->Some prefer using email programs over sending an email via a smart campaign because of the program's detailed reporting dashboard.
+>For accurate reporting, avoid _reusing_ an email from an email program, either by referencing it in a Smart Campaign or by moving the asset from the launched email program to a new one. Doing so will aggregate all of the data in every reporting dashboard attached to that email. If you need to reuse an email, please [clone it](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} instead, as that copies the email but creates a new one with a new email ID.
 
 Enjoy the fruits of your labor. Dashboards show you email program and A/B test performance at a glance.
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
+
+>[!TIP]
+>
+>Some prefer using email programs over sending an email via a Smart Campaign because of the program's detailed reporting dashboard.
 
 ## Nesting {#nesting}
 

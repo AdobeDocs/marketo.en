@@ -3,6 +3,7 @@ unique-page-id: 1147068
 description: Filter Smart Campaign Results - Marketo Docs - Product Documentation
 title: Filter Smart Campaign Results
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
+feature: Smart Campaigns
 ---
 # Filter Smart Campaign Results {#filter-smart-campaign-results}
 
@@ -10,13 +11,13 @@ exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 >
 >[View Smart Campaign Results](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
-Filter smart campaign results to see specific activities that matter to you.
+Filter Smart Campaign results to see specific activities that matter to you.
 
 ## Filter by Saved Filters {#filter-by-saved-filters}
 
-1. In your smart campaign **[!UICONTROL Results]** tab, click on **[!UICONTROL Filter]** and select a saved filter.
+1. In your Smart Campaign **[!UICONTROL Results]** tab, click **[!UICONTROL Filter]** and select a saved filter.
 
-   ![](assets/resultsfilter-hands.png)
+   ![](assets/filter-smart-campaign-results-1.png)
 
    >[!NOTE]
    >
@@ -24,24 +25,22 @@ Filter smart campaign results to see specific activities that matter to you.
 
 ## Create a Custom Filter {#create-a-custom-filter}
 
-1. Click on **[!UICONTROL Filter]** and then **[!UICONTROL Custom]**.
+1. Click **[!UICONTROL Filter]**, then **[!UICONTROL Custom]**.
 
-   ![](assets/filterscustom-hands.png)
+   ![](assets/filter-smart-campaign-results-2.png)
 
-1. Select activity types that you want to see and then click on **[!UICONTROL Save As]** .
+1. Select activity types that you want to see and click **[!UICONTROL Save As]**.
 
-   ![](assets/activityfiltersettings-hands.png)
+   ![](assets/filter-smart-campaign-results-3.png)
 
    >[!TIP]
    >
-   >Click on **[!UICONTROL Apply]** to directly apply a custom filter to your results without saving it.
+   >Click **[!UICONTROL Apply]** to directly apply a custom filter to your results without saving it.
 
-1. Enter a filter name and click on **[!UICONTROL Save]**.
+1. Enter a filter name and click **[!UICONTROL Save]**.
 
-   ![](assets/saveasfilter-hands.png)
+   ![](assets/filter-smart-campaign-results-4.png)
 
-1. The custom filter will be applied to your results and is now available in the drop-down (you may have to refresh the page to see it in the drop-down.)
+1. The custom filter will be applied to your results and is now available in the drop-down (you may have to refresh the page to see it in the drop-down).
 
-   ![](assets/customfilter-hands.png)
-
-   Isn't that cool? Your custom filter is now available for use in all activity logs.
+   ![](assets/filter-smart-campaign-results-5.png)

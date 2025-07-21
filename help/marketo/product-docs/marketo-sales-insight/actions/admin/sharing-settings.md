@@ -2,12 +2,13 @@
 description: Sharing Settings - Marketo Docs - Product Documentation
 title: Sharing Settings
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
+feature: Sales Insight Actions
 ---
 # Sharing Settings {#sharing-settings}
 
 Better manage your templates by restricting what users can share and with which categories.
 
-When your [!DNL Sales Connect] account is first created, Sharing Settings is enabled. This gives your account admins the opportunity to create and organize your template categories before opening the floodgates and allowing users to share content into your team categories.
+When your Sales Insight Actions account is first created, Sharing Settings is enabled. This gives your account admins the opportunity to create and organize your template categories before opening the floodgates and allowing users to share content into your team categories.
 
 When Sharing Settings is enabled, only admins will be able to share into categories unless sharing privileges are provided to a team or everyone. With Sharing Settings disabled, there are no restrictions and all users can share into any template categories.
 
@@ -39,7 +40,7 @@ When Sharing Settings is enabled, only admins will be able to share into categor
 
    >[!NOTE]
    >
-   >If you don’t see any teams, you’ll need to go to Team Management and create a team of users.
+   >If you don't see any teams, you'll need to go to Team Management and create a team of users.
 
 1. Click **[!UICONTROL Add Teams for Access]** to save.
 

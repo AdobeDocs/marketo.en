@@ -3,6 +3,7 @@ unique-page-id: 11377392
 description: Edit Your Default Branding Domain - Marketo Docs - Product Documentation
 title: Edit Your Default Branding Domain
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
+feature: Email Setup
 ---
 # Edit Your Default Branding Domain {#edit-your-default-branding-domain}
 
@@ -10,7 +11,7 @@ Editing your default branding domain is the first step in working with branding 
 
 >[!PREREQUISITES]
 >
->Make sure you've [set up a CNAME in your DNS](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md) before you add your branding domains in Marketo.
+>Make sure you've [set up a CNAME in your DNS](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} before you add your branding domains in Marketo.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -20,7 +21,7 @@ Editing your default branding domain is the first step in working with branding 
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. In the [!UICONTROL Branding Domains] table, select the generic domain and click **[!UICONTROL Edit]** to change it to your company's branded domain.
+1. In the [!UICONTROL Branding Domains] table, select the generic domain and click Edit to change it to your company's branded domain.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -32,4 +33,8 @@ Editing your default branding domain is the first step in working with branding 
 
    ![](assets/edit-your-default-branding-domain-4.png)
 
-Now, you can [add any additional branding domains](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) you need.
+Now, you can [add any additional branding domains](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md){target="_blank"} you need.
+
+>[!NOTE]
+>
+>If you need to update or remove an existing SSL, please reach out to [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.

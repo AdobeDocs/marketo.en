@@ -3,6 +3,7 @@ unique-page-id: 2359416
 description: Email Auto-Response - Marketo Docs - Product Documentation
 title: Email Auto-Response
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
+feature: Getting Started
 ---
 # Email Auto-Response {#email-auto-response}
 
@@ -71,7 +72,7 @@ exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 
    ![](assets/email-auto-response-12.png)
 
-1. Select **My Form** in the drop-down. Then click the **[!UICONTROL Flow]** tab.
+1. Select **[!UICONTROL My Form]** in the drop-down. Then click the **[!UICONTROL Flow]** tab.
 
    ![](assets/email-auto-response-13.png)
 
@@ -121,9 +122,7 @@ exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 
 ## Mission Complete {#mission-complete}
 
-Within just a few minutes you should see the auto response email in your inbox. Great job!
-
-<br>&nbsp;
+Within just a few minutes you should see the auto response email in your inbox.
 
 [◄ Mission 3: Simple Scoring](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 

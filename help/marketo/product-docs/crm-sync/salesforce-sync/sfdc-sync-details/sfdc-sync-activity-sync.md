@@ -3,6 +3,7 @@ unique-page-id: 2953473
 description: SFDC Sync - Activity Sync - Marketo Docs - Product Documentation
 title: SFDC Sync - Activity Sync
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
+feature: Salesforce Integration
 ---
 # SFDC Sync: Activity Sync {#sfdc-sync-activity-sync}
 
@@ -18,7 +19,7 @@ The sync is one way, from [!DNL Salesforce] to Marketo. But you can create a tas
 
 ## Can I create a task using Marketo? {#can-i-create-a-task-using-marketo}
 
-Yes, you can use the [Create Task flow action](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
+Yes, you can use the [Create Task flow action](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}.
 
 ## What are the triggers/filters related to activity? {#what-are-the-triggers-filters-related-to-activity}
 
@@ -34,4 +35,4 @@ Filters
 
 >[!TIP]
 >
->Not sure about that "Not Activity" wording? The "not" refers to an Inactivity Filter. Learn more about them here: [Use Inactivity Filters in a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>Not sure about that "Not Activity" wording? The "not" refers to an Inactivity Filter. Learn more about them here: [Use Inactivity Filters in a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

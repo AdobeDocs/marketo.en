@@ -2,6 +2,7 @@
 description: Sales Activity Glossary - Marketo Docs - Product Documentation
 title: Sales Activity Glossary
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
+feature: Marketo Sales Connect
 ---
 # Sales Activity Glossary {#sales-activity-glossary}
 
@@ -188,6 +189,22 @@ The activities below will be logged to Marketo from [!DNL Sales Connect].
  </tr>
  <tr>
   <td>[!UICONTROL Sales Campaign ID]</td>
+ </tr>
+ <tr>
+  <th rowspan="5">Sales Email Bounce</th>
+  <td>Details</td>
+ </tr>
+ <tr>
+  <td>Email</td>
+ </tr>
+ <tr>
+  <td>Sent By</td>
+ </tr>
+ <tr>
+  <td>Marketo Sales Person ID</td>
+ </tr>
+ <tr>
+  <td>Template ID</td>
  </tr>
 </table>
 

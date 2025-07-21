@@ -3,6 +3,7 @@ unique-page-id: 1147144
 description: Creating a New Email Program in the Schedule View - Marketo Docs - Product Documentation
 title: Creating a New Email Program in the Schedule View
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
+feature: Programs
 ---
 # Creating a New Email Program in the Schedule View {#creating-a-new-email-program-in-the-schedule-view}
 
@@ -28,8 +29,8 @@ You can build an email program from within the program schedule view. Here's how
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Set up your email program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) and click **[!UICONTROL Approve Program]**.
+1. [Set up your email program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} and click **[!UICONTROL Approve Program]**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Besides the detailed dashboard, an advantage to using an [email program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) instead of a smart campaign is the ability to easily implement an [A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). Enjoy!
+   Besides the detailed dashboard, an advantage to using an [email program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"} instead of a smart campaign is the ability to easily implement an [A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}. Enjoy!

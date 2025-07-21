@@ -3,10 +3,15 @@ unique-page-id: 8781988
 description: Understanding Analytics Cards - Marketo Docs - Product Documentation
 title: Understanding Analytics Cards
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
+feature: Mobile Marketing
 ---
 # Understanding Analytics Cards {#understanding-analytics-cards}
 
 At the beginning of each month, Marketo Moments provides three different report cards: [!UICONTROL Acquired Leads], [!UICONTROL New Leads], and [!UICONTROL Unsubscribes]. Each one shows you monthly performance and the trend over a six-month period.
+
+>[!IMPORTANT]
+>
+>On October 2, 2023, Adobe removed the Marketo Moments App from all App Stores. If you already have the app installed on your tablet/mobile device, you can continue using it for the time being. Once your Marketo Engage instance is migrated to Adobe Identity for authentication of Marketo, you will no longer be able to access the app. [Learn more](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Analytics Cards {#analytics-cards}
 
@@ -49,8 +54,6 @@ The **[!UICONTROL New Leads]** card shows you a trending month-over-month report
 The **[!UICONTROL Unsubscribes]** card shows you a month-over-month trending report of your unsubscribe rate over the last six months.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
-
-Now you know.
 
 >[!MORELIKETHIS]
 >

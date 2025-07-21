@@ -3,6 +3,7 @@ unique-page-id: 2953467
 description: SFDC Sync - Opportunity Sync - Marketo Docs - Product Documentation
 title: SFDC Sync - Opportunity Sync
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
+feature: Salesforce Integration
 ---
 # SFDC Sync: Opportunity Sync {#sfdc-sync-opportunity-sync}
 
@@ -24,7 +25,7 @@ No, Marketo supports only one currency. The opportunity amount will be synced fr
 
 ## How does Marketo associate opportunities and contacts? {#how-does-marketo-associate-opportunities-and-contacts}
 
-Marketo associates Opportunities and contacts using [Opportunity Contact Roles](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm). Opportunities without any Contact Roles assigned will sync to Marketo, but won't belong to anyone. For example, the person won't qualify the Has Opportunity filter.
+Marketo associates Opportunities and contacts using [Opportunity Contact Roles](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm){target="_blank"}. Opportunities without any Contact Roles assigned will sync to Marketo, but won't belong to anyone. For example, the person won't qualify the Has Opportunity filter.
 
 ## How can I see all the opportunities of a person? {#how-can-i-see-all-the-opportunities-of-a-person}
 

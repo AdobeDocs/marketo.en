@@ -3,6 +3,7 @@ unique-page-id: 14352619
 description: Using Tasks in Campaigns - Marketo Docs - Product Documentation
 title: Using Tasks in Campaigns
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
+feature: Marketo Sales Connect
 ---
 # Using Tasks in Campaigns {#using-tasks-in-campaigns}
 

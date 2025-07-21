@@ -3,6 +3,7 @@ unique-page-id: 10100275
 description: Add/Edit/Delete Marketo Custom Activity Fields - Marketo Docs - Product Documentation
 title: Add/Edit/Delete Marketo Custom Activity Fields
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
+feature: Custom Activities
 ---
 # Add/Edit/Delete Marketo Custom Activity Fields {#add-edit-delete-marketo-custom-activity-fields}
 
@@ -10,15 +11,15 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
 
 ## Add a Custom Activity Field {#add-a-custom-activity-field}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
-1. Click **Marketo Custom Activities**.
+1. Click **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-2.png)
 
-1. Click **Fields**.
+1. Click **[!UICONTROL Fields]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-3.png)
 
@@ -30,7 +31,7 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. Choose the field's **[!UICONTROL Data Type]**.
+1. Choose the field's [!UICONTROL data type].
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
@@ -38,7 +39,7 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
    >
    >Not sure what to select? We've got you covered! All of the available data types are defined in [this article](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-1. Name the field. The **[!UICONTROL Api Name]** auto-populates. When you're done, click **Save**.
+1. Name the field. The Api Name auto-populates. When you're done, click **[!UICONTROL Save]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
@@ -46,15 +47,15 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
 
 ## Edit a Custom Activity Field {#edit-a-custom-activity-field}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
-1. Click **Marketo Custom Activities**.
+1. Click **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-9.png)
 
-1. Click **Fields**.
+1. Click **[!UICONTROL Fields]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-10.png)
 
@@ -70,7 +71,7 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. Enter the new **[!UICONTROL Name]** and **[!UICONTROL Api Name]**, then click **[!UICONTROL Save]**.
+1. Enter the new Name and Api Name, then click **[!UICONTROL Save]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
@@ -80,7 +81,7 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
 
    >[!CAUTION]
    >
-   >You can only edit the [!UICONTROL Api Name] or change the field to Primary if the custom activity has never been published. If the activity has already been published, you can only edit the field's name and optional description.
+   >You can only edit the Api Name or change the field to Primary if the custom activity has never been published.
 
    >[!NOTE]
    >
@@ -90,15 +91,15 @@ Your field is now edited!
 
 ## Delete a Custom Activity Field {#delete-a-custom-activity-field}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 
-1. Click **Marketo Custom Activities**.
+1. Click **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-16.png)
 
-1. Click **Fields**.
+1. Click **[!UICONTROL Fields]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-17.png)
 

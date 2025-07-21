@@ -3,10 +3,11 @@ unique-page-id: 4719283
 description: Understanding the Salesforce Sync - Marketo Docs - Product Documentation
 title: Understanding the Salesforce Sync
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
+feature: Salesforce Integration
 ---
 # Understanding the [!DNL Salesforce] Sync {#understanding-the-salesforce-sync}
 
-Marketo and [!DNL Salesforce] go together like peas and carrots. We keep your sales and marketing data in sync.
+Marketo Engage and Salesforce go together like peas and carrots. We keep your sales and marketing data in sync.
 
 ## How Sync Works {#how-sync-works}
 
@@ -22,17 +23,17 @@ The sync between [!DNL Salesforce] and Marketo is bidirectional only for leads, 
 
 ## What is Synced between Marketo and [!DNL Salesforce]? {#what-is-synced-between-marketo-and-salesforce}
 
-* [Leads](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
-* [Contacts](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
-* [Accounts](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
-* [Users](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-* [Opportunities](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-* [[!DNL Salesforce] campaigns](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
-* [Custom objects](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-* [Activity](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
+* [Leads](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md){target="_blank"}
+* [Contacts](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}
+* [Accounts](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"}
+* [Users](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md){target="_blank"}
+* [Opportunities](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md){target="_blank"}
+* [Salesforce campaigns](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+* [Custom objects](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md){target="_blank"}
+* [Activity](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md){target="_blank"}
 
 >[!NOTE]
 >
->The [credentials you enter in Marketo for [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) are used to sync data over. Only data those credentials have access to will be included.
+>The [credentials you enter in Marketo for Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} are used to sync data over. Only data those credentials have access to will be included.
 
 Marketo's sync with [!DNL Salesforce] is the most powerful of its kind in the world. It feels like magic; a change is made and the other system is soon up-to-date.

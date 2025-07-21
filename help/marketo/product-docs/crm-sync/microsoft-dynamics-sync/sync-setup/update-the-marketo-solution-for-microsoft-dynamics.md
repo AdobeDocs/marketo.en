@@ -3,6 +3,7 @@ unique-page-id: 6849029
 description: Update the Marketo Solution for [!DNL Microsoft Dynamics] - Marketo Docs - Product Documentation
 title: "Update the Marketo Solution for [!DNL Microsoft Dynamics]"
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
+feature: Microsoft Dynamics
 ---
 # Update the Marketo Solution for [!DNL Microsoft Dynamics] {#update-the-marketo-solution-for-microsoft-dynamics}
 
@@ -38,7 +39,7 @@ When a new [!DNL Microsoft Dynamics] solutions is released, you can download the
 
 1. Import the latest version of the solution over the existing version of your [!DNL Dynamics] CRM (ex: if your [!DNL Dynamics] CRM has version 1.4 and the latest version is 1.5, you would import _over_ version 1.4).
 
-1. You will see the following pop-up. Select **Update** and **Maintain customizations**, then click **[!UICONTROL Import]**.
+1. You will see the following pop-up. Select **[!UICONTROL Update]** and **[!UICONTROL Maintain customizations]**, then click **[!UICONTROL Import]**.
 
    ![](assets/update-the-marketo-solution-for-microsoft-dynamics-5.png)
 

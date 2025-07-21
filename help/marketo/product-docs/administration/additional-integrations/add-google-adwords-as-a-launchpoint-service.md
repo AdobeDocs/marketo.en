@@ -3,16 +3,17 @@ unique-page-id: 6095008
 description: "Add [!DNL Google AdWords] as a [!DNL LaunchPoint] Service - Marketo Docs - Product Documentation"
 title: "Add [!DNL Google AdWords] as a [!DNL LaunchPoint] Service"
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
+feature: Administration, Integrations
 ---
 # Add [!DNL Google AdWords] as a [!DNL LaunchPoint] Service {#add-google-adwords-as-a-launchpoint-service}
 
 Link your [!DNL Google AdWords] account to Marketo to automatically upload offline conversion data from Marketo to [!DNL Google AdWords]. Then, from the [!DNL AdWords] UI, you will be able to easily see which clicks resulted in qualified leads, opportunities, and new customers (or whatever revenue stages you want to track) after you [add custom columns](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. This information does not appear in the Marketo UI.
 
-Learn more about [Google’s offline conversion import feature](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
+Learn more about [Google's offline conversion import feature](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 >[!NOTE]
 >
@@ -22,7 +23,7 @@ Learn more about [Google’s offline conversion import feature](https://support.
 >
 >You can also integrate a [[!DNL Google AdWords] as a [!DNL Launchpoint] service with a manager account](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
-1. Go to the **[!UICONTROL Admin]** section.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-1.png)
 

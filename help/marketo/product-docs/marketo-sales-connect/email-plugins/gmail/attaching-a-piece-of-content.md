@@ -3,6 +3,7 @@ unique-page-id: 14352442
 description: Attaching a Piece of Content - Marketo Docs - Product Documentation
 title: Attaching a Piece of Content
 exl-id: eb47b53e-5b6c-4473-93e0-43f6a6f3eb28
+feature: Marketo Sales Connect
 ---
 # Attaching a Piece of Content {#attaching-a-piece-of-content}
 

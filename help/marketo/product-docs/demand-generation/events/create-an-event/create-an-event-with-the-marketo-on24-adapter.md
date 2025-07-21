@@ -3,6 +3,7 @@ unique-page-id: 10096656
 description: Create an Event with the Marketo ON24 Adapter - Marketo Docs - Product Documentation
 title: Create an Event with the Marketo ON24 Adapter
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
+feature: Events
 ---
 # Create an Event with the Marketo ON24 Adapter {#create-an-event-with-the-marketo-on-adapter}
 
@@ -15,7 +16,7 @@ You should be familiar with the building blocks and the recommended sequence for
 
 >[!NOTE]
 >
->Please refer to the [Marketo API documentation](https://developers.marketo.com/documentation/rest/){target="_blank"} for more information on Marketo APIs.
+>Please refer to the [Marketo API documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} for more information on Marketo APIs.
 
 ## Prerequisites {#prerequisites}
 

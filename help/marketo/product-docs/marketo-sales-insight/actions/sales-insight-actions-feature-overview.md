@@ -2,24 +2,23 @@
 description: Sales Insight Actions Feature Overview - Marketo Docs - Product Documentation
 title: Sales Insight Actions Feature Overview
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
+feature: Sales Insight Actions
 ---
 # Sales Insight Actions Feature Overview {#msi-actions-feature-overview}
 
 Accelerate prospecting efforts with marketing-powered intelligence and engagement tools together in a single workflow using Sales Insight Actions.
 
->[!AVAILABILITY]
->
->This feature is currently in a phased rollout. Please reach out to your Customer Success Manager or email `sales-insights(at)adobe(dot)com` to request access.
-
 >[!NOTE]
 >
->For a video overview of Sales Insight Actions, [click here](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
+>Marketo Sales Insight Actions is a web-based application that integrates exclusively with the Salesforce CRM via the [Marketo Sales Insight package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. It is sometimes referred to as "Marketo Sales," or simply "Actions."
+
+For a video overview of Sales Insight Actions, [click here](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
    ![](assets/sales-insight-actions-feature-overview-1.png)
 
 ## Lead Layout and Contact Layout {#lead-layout-and-contact-layout}
 
-The following actions are available from the “[!UICONTROL Choose Actions]” drop down in the top nav:
+The following actions are available from the "Choose Actions" drop down in the top nav:
 
 * Send Sales Email
   * Sales emails have view, click and reply tracking (when delivery channel is set up)

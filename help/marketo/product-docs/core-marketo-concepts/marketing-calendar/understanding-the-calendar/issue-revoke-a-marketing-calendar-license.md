@@ -3,6 +3,7 @@ unique-page-id: 1147255
 description: Issue/Revoke a Marketing Calendar License - Marketo Docs - Product Documentation
 title: Issue/Revoke a Marketing Calendar License
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
+feature: Marketing Calendar
 ---
 # Issue/Revoke a Marketing Calendar License {#issue-revoke-a-marketing-calendar-license}
 
@@ -10,7 +11,7 @@ exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 >
 >**Admin Permissions Required**
 
-To make use of your [Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) seats, you need to issue licenses to users who need access. Here's how.
+To make use of your [Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} seats, you need to issue licenses to users who need access. Here's how.
 
 1. Go to the **[!UICONTROL Admin]** section.
 
@@ -39,5 +40,3 @@ To make use of your [Marketing Calendar](/help/marketo/product-docs/core-marketo
    Nicely done! See the green checkmark under '[!UICONTROL Calendar]?'
 
    ![](assets/5.png)
-
-Awesome - You're ready to get to schedulin'!

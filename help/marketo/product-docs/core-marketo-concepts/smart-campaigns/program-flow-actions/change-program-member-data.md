@@ -2,6 +2,7 @@
 description: Change Program Member Data - Marketo Docs - Product Documentation
 title: Change Program Member Data
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
+feature: Smart Campaigns
 ---
 # Change Program Member Data {#change-program-member-data}
 
@@ -35,5 +36,5 @@ Now just run the Smart Campaign, and you're done!
 
 >[!MORELIKETHIS]
 >
->* [Use Tokens in Flow Steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
->* [Append Data to a Field](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
+>* [Use Tokens in Flow Steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
+>* [Append Data to a Field](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}

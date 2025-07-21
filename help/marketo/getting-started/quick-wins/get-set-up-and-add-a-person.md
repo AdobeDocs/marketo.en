@@ -3,14 +3,15 @@ unique-page-id: 2359351
 description: Get Set up and Add a Person - Marketo Docs - Product Documentation
 title: Get Set up and Add a Person
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
+feature: Getting Started
 ---
 # Get Set up and Add a Person {#get-set-up-and-add-a-person}
 
 There are a few things to do before you begin the missions.
 
-## Step 1: Log In to Marketo {#step-log-in-to-marketo}
+## Step 1: Log in to Marketo Engage {#step-log-in-to-marketo}
 
-1. [Log in to Marketo](https://app.marketo.com){target="_blank"} using the credentials you received by email.
+1. [Log in to Marketo Engage](https://app.marketo.com){target="_blank"} using the credentials you received by email.
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
@@ -52,7 +53,9 @@ There are a few things to do before you begin the missions.
 
    >[!CAUTION]
    >
-   >Marketo does **not** support email addresses that contain emojis.
+   >* Make sure email addresses contain ASCII characters only.
+   >
+   >* Marketo does **not** support email addresses that contain emojis.
 
 1. To view your people, open your [!UICONTROL System Smart Lists] in the left menu, then click **[!UICONTROL All People]**.
 

@@ -1,6 +1,7 @@
 ---
 description: Actions Data Sync FAQ - Marketo Docs - Product Documentation
 title: Actions Data Sync FAQ
+feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
 ---
 # Actions Data Sync FAQ {#actions-data-sync-faq}
@@ -115,3 +116,4 @@ The diagram above shows what information is logged to [!DNL Salesforce]. Activit
 >* [[!DNL Salesforce] Sync Settings](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Reminder Task Sync with [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [Initiate Data Sync](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
+

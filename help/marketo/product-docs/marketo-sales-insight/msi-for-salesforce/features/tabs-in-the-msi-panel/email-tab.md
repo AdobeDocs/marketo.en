@@ -2,6 +2,7 @@
 description: Email Tab - Marketo Docs - Product Documentation
 title: Email Tab
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
+feature: Marketo Sales Insights
 ---
 # Email Tab {#email-tab}
 

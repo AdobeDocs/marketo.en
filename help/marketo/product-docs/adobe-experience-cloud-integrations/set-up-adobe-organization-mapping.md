@@ -3,24 +3,26 @@ unique-page-id: 42762511
 description: Set up Adobe Organization Mapping - Marketo Docs - Product Documentation
 title: Set up Adobe Organization Mapping
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
+feature: Integrations
 ---
 # Set up Adobe Organization Mapping {#set-up-adobe-organization-mapping}
 
-In order to sync with Adobe applications, such as Audience Manager, the B2B CDP Marketo connector, [!DNL Dynamic Chat], etc., you must first enter your Adobe IMS Org credentials in Marketo.
+In order to sync with Adobe applications, such as Audience Manager, the B2B CDP Marketo connector, [!DNL Dynamic Chat], etc., you must first enter your Adobe IMS Org credentials in Marketo Engage.
 
 >[!NOTE]
 >
->A HIPAA-ready deployment of a Marketo instance cannot use this integration.
+>* A HIPAA-ready deployment of a Marketo instance cannot use this integration.
+>* For the integration to work, Marketo and your other Adobe applications must be in the same org.
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->For customers onboarded to the Adobe Business Platform and Identity Management System, the Org ID associated with the subscription will already be populated and is a read-only field.
+>For those onboarded to the Adobe Business Platform and Identity Management System, the Org ID associated with the subscription will already be populated and is a read-only field. As such, the steps in this article would not apply.
 
 1. In Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-1.png)
 
-1. Under **[!UICONTROL Integration]**, click **[!UICONTROL Adobe Organization Mapping]**.
+1. Under Integration, click **[!UICONTROL Adobe Organization Mapping]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-2.png)
 
@@ -28,7 +30,7 @@ In order to sync with Adobe applications, such as Audience Manager, the B2B CDP 
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Enter your Adobe IMS Org ID (learn how to find that [here](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)) and click **[!UICONTROL OK]**.
+1. Enter your Adobe IMS Org ID (learn how to find that [here](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) and click **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 

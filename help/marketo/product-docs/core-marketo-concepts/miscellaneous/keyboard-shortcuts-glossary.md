@@ -8,21 +8,20 @@ exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
 
 Are you a keyboard shortcuts person? We've got you covered!
 
-## Area Navigation: {#area-navigation}
+## Area Navigation {#area-navigation}
 
 | Keyboard Shortcut |Area |
 |---|---|
-| Alt/Opt + A |[!UICONTROL Analytics] |
-| Alt/Opt + C |[!UICONTROL Calendar] |
-| Alt/Opt + D |[!UICONTROL Design Studio] |
-| Alt/Opt + F |[!UICONTROL Global Search] |
-| Alt/Opt + L |[!UICONTROL Database] |
-| Alt/Opt + M |[!UICONTROL Marketing Activities] |
-| Opt + N |[!UICONTROL Admin] |
-| Opt + O |[!UICONTROL My Marketo] |
-| Alt/Opt + S |Drop-down Superball menu |
+| Alt/Opt + A |Analytics |
+| Alt/Opt + C |Calendar |
+| Alt/Opt + D |Design Studio |
+| Alt/Opt + F |Global Search |
+| Alt/Opt + L |Database |
+| Alt/Opt + M |Marketing Activities |
+| Opt + N |Admin |
+| Opt + O |My Marketo |
 
-## Calendar/Schedule View Navigation:  {#calendar-schedule-view-navigation}
+## Calendar/Schedule View Navigation  {#calendar-schedule-view-navigation}
 
 | Keyboard Shortcut |Action |
 |---|---|
@@ -30,7 +29,7 @@ Are you a keyboard shortcuts person? We've got you covered!
 | Alt/Opt + Down Arrow |Move forward in time |
 | Alt/Opt + T |Go to 'Today' |
 
-## Miscellaneous: {#miscellaneous}
+## Miscellaneous {#miscellaneous}
 
 | Keyboard Shortcut |Action |
 |---|---|

@@ -1,11 +1,14 @@
 ---
 description: Icon Glossary - Marketo Docs - Product Documentation
 title: Icon Glossary
+hide: yes
+hidefromtoc: yes
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
+feature: Modern UX
 ---
 # Icon Glossary {#new-icon-glossary}
 
-Below are the icons for the new Adobe Marketo Engage interface. If you need to reference the Marketo Classic icons, they can be [found here](/help/marketo/getting-started/classic-icon-glossary.md).
+Below are the icons for the new Adobe Marketo Engage interface. If you need to reference the Marketo Classic icons, they can be [found here](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## General Icons {#general-icons}
 
@@ -90,6 +93,11 @@ Below are the icons for the new Adobe Marketo Engage interface. If you need to r
    <td><img src="assets/classic-archive-folder.png"></td> 
    <td><img src="assets/folder-archive.png"></td> 
    <td>Folder - archived</td> 
+  </tr>
+  <tr>
+   <td><img src="assets/classic-shared-folder.png"></td> 
+   <td><img src="assets/folder-shared.png"></td> 
+   <td>Folder - shared</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td> 

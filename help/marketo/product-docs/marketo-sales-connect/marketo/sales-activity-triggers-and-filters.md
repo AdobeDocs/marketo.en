@@ -2,6 +2,7 @@
 description: Sales Activity Triggers and Filters - Marketo Docs - Product Documentation
 title: Sales Activity Triggers and Filters
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
+feature: Marketo Sales Connect
 ---
 # Sales Activity Triggers and Filters {#sales-activity-triggers-and-filters}
 

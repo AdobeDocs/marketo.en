@@ -1,6 +1,8 @@
 ---
 description: Release Notes - October 2022 - Marketo Docs - Product Documentation
 title: Release Notes - October 2022
+exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
+feature: Release Information
 ---
 # Release Notes: October 2022 {#release-notes-oct-22}
 
@@ -108,7 +110,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td>Shipped</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">Bulk Lead Import</a></td>
+   <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">Bulk Lead Import</a></td>
   </tr>
   </tbody>
 </table>
@@ -146,7 +148,7 @@ The following features follow an Agile format and are released on various dates 
   </tr>
   <tr> 
    <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#stream-designer-icons">Stream Designer Icons</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Stream Designer Icons</a></td>
   </tr>
   </tbody>
 </table>
@@ -160,7 +162,7 @@ The following features follow an Agile format and are released on various dates 
   </tr>
   <tr> 
    <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Calendar</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Calendar</a></td>
   </tr>
   </tbody>
 </table>

@@ -2,6 +2,7 @@
 description: Step 4 of 4 - Connect the Marketo Solution with Resource Owner Password Control Connection - Marketo Docs - Product Documentation
 title: Step 4 of 4 - Connect the Marketo Solution with Resource Owner Password Control Connection
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
+feature: Microsoft Dynamics
 ---
 # Step 4 of 4: Connect the Marketo Solution with Resource Owner Password Control Connection {#step-4-of-4-connect-the-marketo-solution-ropc}
 
@@ -41,11 +42,11 @@ This is the last step of the sync. You're almost there!
 
    >[!CAUTION]
    >
-   >Please make sure your org URL is correct as we are unable to revert the subsequent schema changes after submission. If an incorrect Org URL is used, you’ll have to obtain a new Marketo subscription. If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >Please make sure your org URL is correct as we are unable to revert the subsequent schema changes after submission. If an incorrect Org URL is used, you'll have to obtain a new Marketo subscription. If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
    >[!NOTE]
    >
-   >Before you enter new credentials, you can [validate them here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
+   >Before you enter new credentials, you can [validate them here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
 
 1. Enter the **[!UICONTROL Username]**, **[!UICONTROL Password]**, [!DNL Microsoft Dynamics] **[!UICONTROL URL]**, **[!UICONTROL Client ID]**, and **[!UICONTROL Client Secret]**. Click **[!UICONTROL Save]** when done.
 
@@ -99,11 +100,9 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. The first sync may take a few hours. Once it's done, you'll receive an email notification.
+1. Depending on the number of records, the initial sync can take anywhere from a few hours to a few days. You will receive an email notification upon completion.
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
-
-Excellent work!
 
 >[!MORELIKETHIS]
 >

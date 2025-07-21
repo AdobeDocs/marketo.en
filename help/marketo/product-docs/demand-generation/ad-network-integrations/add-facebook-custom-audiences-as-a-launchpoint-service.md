@@ -3,6 +3,7 @@ unique-page-id: 4720257
 description: "Add [!DNL Facebook] Custom Audiences as a [!DNL LaunchPoint] Service - Marketo Docs - Product Documentation"
 title: "Add [!DNL Facebook] Custom Audiences as a [!DNL LaunchPoint] Service"
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
+feature: Integrations
 ---
 # Add [!DNL Facebook] Custom Audiences as a [!DNL LaunchPoint] Service {#add-facebook-custom-audiences-as-a-launchpoint-service}
 

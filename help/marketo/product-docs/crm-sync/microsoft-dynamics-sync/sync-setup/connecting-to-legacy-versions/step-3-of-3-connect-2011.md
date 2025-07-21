@@ -3,6 +3,7 @@ unique-page-id: 3571809
 description: Step 3 of 3 -Connect [!DNL Microsoft Dynamics] with Marketo (2011 On-Premises) - Marketo Docs - Product Documentation
 title: Step 3 of 3 -Connect [!DNL Microsoft Dynamics] with Marketo (2011 On-Premises)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
+feature: Microsoft Dynamics
 ---
 # Step 3 of 3: Connect [!DNL Microsoft Dynamics] with Marketo (2011 On-Premises) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
@@ -37,7 +38,7 @@ Alright! We installed the solution and configured the sync user. Next, we need t
 
    >[!CAUTION]
    >
-   >Please make sure your credentials are correct as we are unable to revert the subsequent schema changes after submission. If incorrect credentials are saved, you’ll have to obtain a new Marketo subscription.
+   >Please make sure your credentials are correct as we are unable to revert the subsequent schema changes after submission. If incorrect credentials are saved, you'll have to obtain a new Marketo subscription.
 
 1. Enter the **[!UICONTROL Username]**, **[!UICONTROL Password]** and CRM **[!UICONTROL URL]** then click **[!UICONTROL Save]**.
 
@@ -94,8 +95,6 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. The first sync may take a few hours. After it's done, you'll receive an email notification.
+1. Depending on the number of records, the initial sync can take anywhere from a few hours to a few days. You will receive an email notification upon completion.
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
-
-   Excellent work!

@@ -3,6 +3,7 @@ unique-page-id: 2359414
 description: Simple Scoring - Marketo Docs - Product Documentation
 title: Simple Scoring
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
+feature: Getting Started
 ---
 # Simple Scoring {#simple-scoring}
 

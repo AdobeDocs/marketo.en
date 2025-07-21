@@ -3,6 +3,7 @@ unique-page-id: 30081321
 description: Group Types - Marketo Docs - Product Documentation
 title: Group Types
 exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
+feature: Marketo Sales Connect
 ---
 # Group Types {#group-types}
 

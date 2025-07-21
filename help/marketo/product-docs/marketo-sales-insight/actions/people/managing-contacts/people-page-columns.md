@@ -4,6 +4,7 @@ title: People Page Columns
 hide: yes
 hidefromtoc: yes
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
+feature: Sales Insight Actions
 ---
 # People Page Columns {#people-page-columns}
 

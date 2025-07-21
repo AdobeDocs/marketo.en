@@ -3,6 +3,7 @@ unique-page-id: 10094114
 description: Release Notes - Fall 2015 - Marketo Docs - Product Documentation
 title: Release Notes - Fall 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
+feature: Release Information
 ---
 # Release Notes: Fall 2015 {#release-notes-fall}
 

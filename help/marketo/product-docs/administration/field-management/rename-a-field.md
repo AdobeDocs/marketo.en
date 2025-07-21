@@ -3,6 +3,7 @@ unique-page-id: 2360293
 description: Rename a Field - Marketo Docs - Product Documentation
 title: Rename a Field
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
+feature: Field Management
 ---
 # Rename a Field {#rename-a-field}
 
@@ -14,7 +15,7 @@ exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 >
 >**Admin Permissions Required**
 
-1. Go to **[!UICONTROL Admin]** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/rename-a-field-1.png)
 

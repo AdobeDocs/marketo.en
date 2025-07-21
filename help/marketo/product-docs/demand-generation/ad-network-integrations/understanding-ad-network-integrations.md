@@ -3,6 +3,7 @@ unique-page-id: 11382858
 description: Understanding Ad Network Integrations - Marketo Docs - Product Documentation
 title: Understanding Ad Network Integrations
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
+feature: Integrations
 ---
 # Understanding Ad Network Integrations {#understanding-ad-network-integrations}
 
@@ -29,7 +30,7 @@ Capabilities include:
 
     * For example, a person searches, sees and clicks an ad, then fills out a form online. After that, he receives a demo offline and becomes a CRM opportunity. That's where the advertiser targets him
 
-* Retargeting of website visitors, using [Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md), to drive them back to your website
+* Retargeting of website visitors, using [Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}, to drive them back to your website
 
     * Personalize by segment or vertical
 

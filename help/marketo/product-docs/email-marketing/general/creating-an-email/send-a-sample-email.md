@@ -3,6 +3,7 @@ unique-page-id: 1147352
 description: Send a Sample Email - Marketo Docs - Product Documentation
 title: Send a Sample Email
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
+feature: Email Editor
 ---
 # Send a Sample Email {#send-a-sample-email}
 
@@ -19,7 +20,7 @@ It's quick and easy to send samples of an email. To send a dynamic content email
 
    >[!NOTE]
    >
-   >My Tokens resolves to the value appropriate to the email’s program.
+   >My Tokens resolves to the value appropriate to the email's program.
 
 1. Enter one or multiple email addresses for delivery. For multiple email addresses, use commas to separate them. Click **[!UICONTROL Send]** when done.
 
@@ -49,7 +50,7 @@ It's quick and easy to send samples of an email. To send a dynamic content email
 
    >[!NOTE]
    >
-   >The trigger field is only applicable for those utilizing [email scripting](https://developers.marketo.com/documentation/velocity-script/).
+   >The trigger field is only applicable for those utilizing [email scripting](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Send a Sample Email Based on a Segment {#send-a-sample-email-based-on-a-segment}
 

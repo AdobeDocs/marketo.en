@@ -3,6 +3,7 @@ unique-page-id: 11378814
 description: Account Smart Lists - Marketo Docs - Product Documentation
 title: Account Smart Lists
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
+feature: Target Account Management
 ---
 # Account Smart Lists {#account-smart-lists}
 
@@ -50,11 +51,15 @@ Your [!UICONTROL Account Smart List] has been created! See below for steps on de
 
    ![](assets/account-smart-lists-8.png)
 
-1. Choose your Matched Person Filter(s). In this example we're choosing _[!UICONTROL State] is [!UICONTROL California]_.
+   >[!NOTE]
+   >
+   >ICP indicator data that was used in your [Account Profiling Ranking and Tuning](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) will appear as custom Account Attributes for use in your Account Smart List. This custom attribute data is based on when the Account Profile Model was created/updated.
+
+1. Choose your Matched Person Filter(s). In this example we're choosing _State is California_.
 
    ![](assets/account-smart-lists-9.png)
 
-**Optional Step**: Here's where containers come in. If you choose an additional Matched Person Filter, you can drop it below the first one, or _in_ it, creating a container. In this example we're creating a container by adding _[!UICONTROL Job Title] is [!UICONTROL CFO]_.
+**OPTIONAL STEP**: Here's where containers come in. If you choose an additional Matched Person Filter, you can drop it below the first one, or _in_ it, creating a container. In this example we're creating a container by adding _Job Title is CFO_.
 
    ![](assets/account-smart-lists-10.png)
 

@@ -1,20 +1,22 @@
 ---
 description: Bulk Export API Information - Marketo Docs - Product Documentation
 title: Bulk Export API Information
+exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
+feature: Administration
 ---
 # Bulk Export API Information {#bulk-export-api-information}
 
-Learn how to check how much [Bulk Extract API](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} capacity has been taken up by your Marketo Engage instance over the last seven days.
+Learn how to check how much [Bulk Extract API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} capacity has been taken up by your Marketo Engage instance over the last seven days.
 
 >[!NOTE]
 >
 >If you need additional capacity, please contact your Account Representative.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/bulk-export-api-information-1.png)
 
-1. Click **Web Services**.
+1. Click **[!UICONTROL Web Services]**.
 
    ![](assets/bulk-export-api-information-2.png)
 
@@ -26,4 +28,4 @@ Learn how to check how much [Bulk Extract API](https://developers.marketo.com/re
 
 >[!NOTE]
 >
->The alloction for your Marketo Engage instance resets daily at 12:00 a.m. CST.
+>The allocation for your Marketo Engage instance resets daily at 12:00 a.m. CST.

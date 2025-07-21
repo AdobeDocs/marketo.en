@@ -3,6 +3,7 @@ unique-page-id: 10095347
 description: Secure the Subscription Admin Setting - Marketo Docs - Product Documentation
 title: Secure the Subscription Admin Setting
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
+feature: Reporting
 ---
 # Secure the Subscription Admin Setting {#secure-the-subscription-admin-setting}
 

@@ -3,6 +3,7 @@ unique-page-id: 2949222
 description: SEO - Export Issues to CSV - Marketo Docs - Product Documentation
 title: SEO - Export Issues to CSV
 exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
+feature: SEO
 ---
 # SEO - Export Issues to CSV {#seo-export-issues-to-csv}
 
@@ -24,4 +25,4 @@ You can export your [page issue](/help/marketo/product-docs/additional-apps/seo/
 
    ![](assets/image2014-9-18-13-3a16-3a39.png)
 
-1. Perfect! You've now downloaded all the issues with this page to a CSV file. Pretty cool, huh?
+Perfect! You've now downloaded all the issues with this page to a CSV file.

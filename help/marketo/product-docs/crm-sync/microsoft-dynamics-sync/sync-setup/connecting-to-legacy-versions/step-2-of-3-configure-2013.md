@@ -3,6 +3,7 @@ unique-page-id: 3571816
 description: Step 2 of 3 -Configure Sync User for Marketo (2013 On-Premises) - Marketo Docs - Product Documentation
 title: Step 2 of 3 -Configure Sync User for Marketo (2013 On-Premises)
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
+feature: Microsoft Dynamics
 ---
 # Step 2 of 3: Configure Sync User for Marketo (2013 On-Premises) {#step-of-configure-sync-user-for-marketo-on-premises}
 
@@ -22,7 +23,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
 >[!IMPORTANT]
 >
->The language setting of the Sync User [should be set to English](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
+>The language setting of the Sync User [should be set to English](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Under **[!UICONTROL Settings]**, click **[!UICONTROL Administration]**.
 
@@ -32,7 +33,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 
-1. You will see a list of users here. Select your dedicated Marketo Sync user or contact your [Active Directory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [administrator to create a new user that's dedicated to Marketo.](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
+1. You will see a list of users here. Select your dedicated Marketo Sync user or contact your [Active Directory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} administrator to create a new user that's [dedicated to Marketo](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx){target="_blank"}.
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
@@ -46,11 +47,11 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
    >[!TIP]
    >
-   >If you don't see the role, go back to [step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) and import the solution.
+   >If you don't see the role, go back to [step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md){target="_blank"} and import the solution.
 
    >[!NOTE]
    >
-   >Any updates made in your CRM by the Sync User will **not** be synced back to Marketo.
+   >Any updates made in your CRM by the Sync User will _not_ be synced back to Marketo.
 
 ## Configure Marketo Solution {#configure-marketo-solution}
 

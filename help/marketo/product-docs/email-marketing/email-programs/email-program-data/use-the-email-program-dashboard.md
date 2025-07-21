@@ -3,14 +3,19 @@ unique-page-id: 2359476
 description: Use the Email Program Dashboard - Marketo Docs - Product Documentation
 title: Use the Email Program Dashboard
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
+feature: Email Programs
 ---
 # Use the Email Program Dashboard {#use-the-email-program-dashboard}
 
 Check out how your email programs are performing with this dashboard view.
 
+>[!CAUTION]
+>
+>For accurate reporting, avoid _reusing_ an email from an email program, either by referencing it in a Smart Campaign or by moving the asset from the launched email program to a new one. Doing so will aggregate all of the data in every reporting dashboard attached to that email. If you need to reuse an email, please [clone it](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} instead, as that copies the email but creates a new one with a new email ID.
+
 >[!NOTE]
 >
->If your program has an A/B test, check out the [Email Program Dashboard - A/B Test View](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>If your program has an A/B test, check out the [Email Program Dashboard - A/B Test View](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -40,7 +45,7 @@ This chart shows you the number of emails opened/clicked during specific time pe
 
 ## Summary - Engagement {#summary-engagement}
 
-This shows you the overall [engagement score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+This shows you the overall [engagement score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -70,4 +75,4 @@ To see the most up-to-date data, simply click the refresh icon on the dashboard.
 
 >[!MORELIKETHIS]
 >
->[Use the Email Program Dashboard - A/B Test View](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>[Use the Email Program Dashboard - A/B Test View](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}

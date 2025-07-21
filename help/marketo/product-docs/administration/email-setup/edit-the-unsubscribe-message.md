@@ -3,6 +3,7 @@ unique-page-id: 2360251
 description: Edit the Unsubscribe Message - Marketo Docs - Product Documentation
 title: Edit the Unsubscribe Message
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
+feature: Email Setup
 ---
 # Edit the Unsubscribe Message {#edit-the-unsubscribe-message}
 
@@ -44,10 +45,8 @@ When you send marketing emails (non-[operational](/help/marketo/product-docs/ema
 If you ever need to revert to default system unsubscribe, copy/paste the following:
 
 [!UICONTROL Unsubscribe HTML]:
-`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>`
-
-[!UICONTROL Unsubscribe Text]:
-`<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
+`<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>` [!UICONTROL Unsubscribe Text]:
+`%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 >[!MORELIKETHIS]
 >

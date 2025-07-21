@@ -3,12 +3,13 @@ unique-page-id: 2953358
 description: Delete Entries Directly In the Marketing Calendar - Marketo Docs - Product Documentation
 title: Delete Entries Directly In the Marketing Calendar
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
+feature: Marketing Calendar
 ---
 # Delete Entries Directly In the Marketing Calendar {#delete-entries-directly-in-the-marketing-calendar}
 
-In addition to [creating](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) and [editing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) entries, you can delete them directly in the Marketing Calendar. Here's how.
+In addition to [creating](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} and [editing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} entries, you can delete them directly in the Marketing Calendar. Here's how.
 
-1. Go to the **[!UICONTROL Calendar]**.
+1. Click the **MU** tile.
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
@@ -20,8 +21,8 @@ In addition to [creating](/help/marketo/product-docs/core-marketo-concepts/marke
 
    ![](assets/image2014-10-20-13-3a20-3a42.png)
 
-Depending on the entry, you may have to confirm the deletion. But that's it! Easy peasy.
+Depending on the entry, you may have to confirm the deletion. But that's it!
 
 >[!MORELIKETHIS]
 >
->[Confirm Entries Directly In the Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
+>[Confirm Entries Directly In the Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}

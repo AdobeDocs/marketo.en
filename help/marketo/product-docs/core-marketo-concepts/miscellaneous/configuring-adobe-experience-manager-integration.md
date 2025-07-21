@@ -5,6 +5,7 @@ title: Configuring Adobe Experience Manager Integration
 hide: yes
 hidefromtoc: yes
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
+feature: Integrations
 ---
 # Configuring Adobe Experience Manager Integration {#configuring-adobe-experience-manager-integration}
 
@@ -60,7 +61,7 @@ Configure Adobe Experience Manager (AEM) so you can access, select, and import A
 
    ![](assets/nine.png)
 
-1. Under [!UICONTROL Integration], select **Adobe Experience Manager**.
+1. Under Integration, select **[!UICONTROL Adobe Experience Manager]**.
 
    ![](assets/ten.png)
 

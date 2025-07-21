@@ -3,63 +3,88 @@ unique-page-id: 1147116
 description: Managing My Tokens - Marketo Docs - Product Documentation
 title: Managing My Tokens
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
+feature: Tokens
 ---
 # Managing My Tokens {#managing-my-tokens}
 
-Using tokens can simplify your efforts in Marketo. You can use [My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (custom tokens) in flow steps, webhooks, emails, and landing pages. Here's how to make them.
+Using tokens can simplify your efforts in Marketo Engage. You can use [My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (custom tokens) in flow steps, webhooks, emails, and Landing Pages. Here's how to make them.
 
 >[!TIP]
 >
->Learn more about what tokens are already available in [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+>Learn more about what tokens are already available in [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-## Create a My Token {#create-a-my-token}
+## Create a local or global My Token {#create-a-my-token}
 
-1. Go to **[!UICONTROL Marketing Activities]**.
+>[!BEGINTABS]
 
-   ![](assets/login-marketing-activities.png)
+>[!TAB Local My Tokens]
 
-1. Select a program or campaign folder. Click **[!UICONTROL My Tokens]**.
+1. In **[!UICONTROL Marketing Activities]**, select the desired program or campaign folder and click its **[!UICONTROL My Tokens]** tab.
 
-   ![](assets/image2014-9-18-12-3a4-3a27.png)
+   ![](assets/create-a-local-my-token-1.png)
 
-1. Select a **[!UICONTROL My Token]** type. Drag and drop it onto the canvas.
+1. Drag the desired My Token onto the canvas.
 
-   ![](assets/image2014-9-18-12-3a4-3a39.png)
+   ![](assets/create-a-local-my-token-2.png)
 
-1. Type in a unique name. Enter a relevant value for the token.
+1. Type a unique name and enter a relevant value.
 
-   ![](assets/image2014-9-18-12-3a4-3a53.png)
+   ![](assets/create-a-local-my-token-3.png)
 
 1. Click **[!UICONTROL Save]**.
 
-   ![](assets/image2014-9-18-12-3a5-3a5.png)
+   ![](assets/create-a-local-my-token-4.png)
 
-   Yay! You made a My Token.
+>[!TAB Global My Tokens]
 
-   ![](assets/image2014-9-18-12-3a5-3a15.png)
+>[!NOTE]
+>
+>Admin permissions required.
+
+1. Go to the **[!UICONTROL Admin]** area and select **[!UICONTROL My Tokens]**.
+
+   ![](assets/create-a-global-my-token-1.png)
+
+1. Drag the desired My Token onto the canvas.
+
+   ![](assets/create-a-global-my-token-2.png)
+
+1. Type a unique name and enter a relevant value.
+
+   ![](assets/create-a-global-my-token-3.png)
+
+1. Click **[!UICONTROL Save]**.
+
+   ![](assets/create-a-global-my-token-4.png)
+
+>[!ENDTABS]
 
 ## Edit a My Token {#edit-a-my-token}
 
-1. Double-click the **My Token** and make your changes. Click **[!UICONTROL Save]**.
+1. Select the token you wish to edit and click **[!UICONTROL Edit Token]**.
 
-   ![](assets/image2014-9-18-12-3a5-3a45.png)
+   ![](assets/edit-a-my-token-1.png)
+
+1. Make your desired edits. Click **[!UICONTROL Save]** when done.
+
+   ![](assets/edit-a-my-token-2.png)
 
 ## Delete a My Token {#delete-a-my-token}
 
 >[!CAUTION]
 >
->When you delete a My Token, make sure you aren't referencing it in any asset. A blank space will display in any place it's referenced if deleted.
+>When you delete a My Token, make sure it isn't currently referenced in any asset. A blank space will display in any place it's referenced if deleted.
 
-1. Right-click the **My Token**. Select **[!UICONTROL Delete Token]**.
+1. Select the token you wish to delete and click **[!UICONTROL Delete Token]**.
 
-   ![](assets/image2014-9-18-12-3a7-3a24.png)
+   ![](assets/delete-a-my-token-1.png)
 
 1. Click **[!UICONTROL Delete]**.
 
-   ![](assets/image2014-9-18-12-3a7-3a31.png)
+   ![](assets/delete-a-my-token-2.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
-   >* [Understanding My Tokens in a Program](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
-   >* [Using URLs in My Tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+   >* [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+   >* [Understanding My Tokens in a Program](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}
+   >* [Using URLs in My Tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md){target="_blank"}

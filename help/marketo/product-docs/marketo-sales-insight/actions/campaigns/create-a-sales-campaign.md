@@ -2,6 +2,7 @@
 description: Create a Sales Campaign - Marketo Docs - Product Documentation
 title: Create a Sales Campaign
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
+feature: Sales Insight Actions
 ---
 # Create a Sales Campaign {#create-a-sales-campaign}
 
@@ -59,6 +60,5 @@ Now it's time to start adding people!
 
 >[!MORELIKETHIS]
 >
->* [Sales Campaign Send Options for Email Steps](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target="_blank"}
 >* [Sales Campaign Step Types and Reminder Tasks](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
 >* [Sales Campaign Settings](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

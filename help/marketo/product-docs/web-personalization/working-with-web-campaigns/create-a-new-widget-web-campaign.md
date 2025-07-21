@@ -3,6 +3,7 @@ unique-page-id: 4719402
 description: Create a New Widget Web Campaign - Marketo Docs - Product Documentation
 title: Create a New Widget Web Campaign
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
+feature: Web Personalization
 ---
 # Create a New Widget Web Campaign {#create-a-new-widget-web-campaign}
 
