@@ -2,7 +2,7 @@
 solution: Marketo Engage
 product: marketo
 title: Spam Assassin
-description: TEXT GOES HERE
+description: Learn how to use SpamAssassin to test your email content and see the likelihood of it being marked as spam.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: yes

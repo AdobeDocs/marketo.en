@@ -26,9 +26,9 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr> 
-   <td><strong>Email Designer - Custom CSS Support</strong>: When designing emails, you can now add your own custom CSS directly within the Email Designer.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td><strong>Email Designer - Custom CSS</strong>: When designing emails, you can now add your own custom CSS directly within the Email Designer.</td> 
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">Add custom CSS to your email content</a></td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
