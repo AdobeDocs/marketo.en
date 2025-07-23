@@ -5,18 +5,18 @@ title: Install Marketo for Microsoft Dynamics 2015 On-Premises Step 3 of 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
 ---
-# Step 3 of 3: Connect Marketo Dynamics (2015 On-Prem) {#step-of-connect-marketo-dynamics-on-premises-2015}
+# Step 3 of 3: Connect Marketo [!DNL Dynamics] (2015 On-Prem) {#step-of-connect-marketo-dynamics-on-premises-2015}
 
 >[!PREREQUISITES]
 >
->* [Install Marketo for Microsoft Dynamics 2015 On-Premises Step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"}
->* [Install Marketo for Microsoft Dynamics 2015 On-Premises Step 2 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md){target="_blank"}
+>* [Install Marketo for [!DNL Microsoft Dynamics] 2015 On-Premises Step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
+>* [Install Marketo for [!DNL Microsoft Dynamics] 2015 On-Premises Step 2 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
 
 >[!NOTE]
 >
 >**Admin Permissions Required**
 
-## Enter Dynamics Sync User information {#enter-dynamics-sync-user-information}
+## Enter [!DNL Dynamics] Sync User information {#enter-dynamics-sync-user-information}
 
 1. Log in to Marketo and click **[!UICONTROL Admin]**.
 
@@ -30,7 +30,7 @@ feature: Microsoft Dynamics
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. Click **[!UICONTROL Edit]** in **[!UICONTROL Enter Credentials]**.
+1. Click **[!UICONTROL Edit]** in **[!UICONTROL Step 1: Enter Credentials]**.
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -38,7 +38,7 @@ feature: Microsoft Dynamics
    >
    >Please make sure your credentials are correct as we are unable to revert the subsequent schema changes after submission. If incorrect credentials are saved, you'll have to obtain a new Marketo subscription.
 
-1. Enter the **[!UICONTROL Username]**, **[!UICONTROL Password]** a Microsoft Dynamics **[!UICONTROL URL]**, and a **Client Id/Secret**. Click **[!UICONTROL Save]** when done.
+1. Enter the **[!UICONTROL Username]**, **[!UICONTROL Password]** a [!DNL Microsoft Dynamics] **URL**, and a **[!UICONTROL Client Id]/[!UICONTROL Client Secret]**. Click **[!UICONTROL Save]** when done.
 
    ![](assets/step-3-of-3-5.png)
 
@@ -54,7 +54,7 @@ feature: Microsoft Dynamics
 
 ## Select Fields to Sync {#select-fields-to-sync}
 
-1. Click **[!UICONTROL Edit]** in **[!UICONTROL Select Fields to Sync]**.
+1. Click **[!UICONTROL Edit]** in **[!UICONTROL Step 2: Select Fields to Sync]**.
 
    ![](assets/image2015-3-16-9-51-28.png)
 
@@ -64,17 +64,17 @@ feature: Microsoft Dynamics
 
 >[!NOTE]
 >
->Marketo stores a reference to the fields to sync. If you delete a field in Dynamics, we recommended doing so with the [sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
+>Marketo stores a reference to the fields to sync. If you delete a field in [!DNL Dynamics], we recommended doing so with the [sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Then refresh the schema in Marketo by editing and saving the [[!UICONTROL Select Fields to Sync]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Sync Fields for a Custom Filter {#sync-fields-for-a-custom-filter}
 
 If you've created a custom filter, be sure to go in and select the new fields to be synced with Marketo.
 
-1. Go to Admin and select **[!UICONTROL Microsoft Dynamics]**.
+1. Go to [!UICONTROL Admin] and select **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Click **[!UICONTROL Edit]** on Field Sync Details.
+1. Click **[!UICONTROL Edit]** on [!UICONTROL Field Sync Details].
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -84,13 +84,13 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
 ## Enable Sync {#enable-sync}
 
-1. Click **[!UICONTROL Edit]** in **[!UICONTROL Enable Sync]**.
+1. Click **[!UICONTROL Edit]** in **[!UICONTROL Step 3: Enable Sync]**.
 
    ![](assets/image2015-3-16-9-52-2.png)
 
    >[!CAUTION]
    >
-   >Marketo will not automatically de-dupe against a Microsoft Dynamics sync, or when you manually enter people.
+   >Marketo will not automatically de-dupe against a [!DNL Microsoft Dynamics] sync, or when you manually enter people.
 
 1. Read everything in the pop-up, enter your email, and click **[!UICONTROL Start Sync]**.
 

@@ -15,4 +15,4 @@ feature: Marketo Sales Connect
 
 1. Enter the URL you wish it to be linked to (i.e. "https://www.mywebsite.com").
 
-1. Click **OK**.
+1. Click **[!UICONTROL OK]**.

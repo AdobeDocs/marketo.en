@@ -22,7 +22,7 @@ It is important to understand how **order** sets the priority for evaluation of 
 
    ![](assets/segmentation-order-priority-1.png)
 
-1. Select your **Segmentation**. In **Segmentation Actions**, click **Edit Segments**.
+1. Select your **Segmentation**. In **[!UICONTROL Segmentation Actions]**, click **[!UICONTROL Edit Segments]**.
 
    ![](assets/segmentation-order-priority-2.png)
 

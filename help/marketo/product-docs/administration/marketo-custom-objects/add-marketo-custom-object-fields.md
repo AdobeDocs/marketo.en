@@ -37,7 +37,7 @@ Fields define the specific information used by a custom object. Link fields have
 
    >[!NOTE]
    >
-   >The API name can be edited only until it's approved.
+   >The [!UICONTROL API Name] can be edited only until it's approved.
 
 1. Now, choose an appropriate [!UICONTROL Data Type] from the list.
 

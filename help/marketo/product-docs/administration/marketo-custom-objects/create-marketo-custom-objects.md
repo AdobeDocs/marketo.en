@@ -49,7 +49,7 @@ This example shows a Car custom object, for use in a one-to-many structure. Late
 
    ![](assets/create-marketo-custom-objects-5.png)
 
-1. The custom object information displays the content you entered. Notice that it's in a Draft state.
+1. The custom object information displays the content you entered. Notice that it's in a **[!UICONTROL Draft]** state.
 
    ![](assets/create-marketo-custom-objects-6.png)
 
@@ -91,7 +91,7 @@ This example shows a course custom object, which you'll use for creating a many-
 
    ![](assets/create-marketo-custom-objects-11.png)
 
-1. The custom object information displays the content you entered. Notice that it's in a Draft state.
+1. The custom object information displays the content you entered. Notice that it's in a **[!UICONTROL Draft]** state.
 
    ![](assets/create-marketo-custom-objects-12.png)
 
@@ -133,7 +133,7 @@ Use an intermediary object to connect a custom object to people or companies. In
 
    ![](assets/create-marketo-custom-objects-17.png)
 
-1. The custom object information displays the content you entered. Notice that it's in a Draft state.
+1. The custom object information displays the content you entered. Notice that it's in a **[!UICONTROL Draft]** state.
 
    The next step is for you to [add link fields](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) to connect your intermediary object to a person/company and a custom object.
 

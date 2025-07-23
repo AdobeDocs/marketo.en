@@ -26,7 +26,7 @@ You can choose to display known people or anonymous people, but not both kinds o
 
    >[!NOTE]
    >
-   >It can take up to 24 hours for data to reflect in a Web Page Activity Report.
+   >It can take up to 24 hours for data to reflect in a [!UICONTROL Web Page Activity] Report.
 
    >[!TIP]
    >

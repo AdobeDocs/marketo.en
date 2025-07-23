@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980661
-description: Add Google Customer Match as a LaunchPoint Service - Marketo Docs - Product Documentation
-title: Add Google Customer Match as a LaunchPoint Service
+description: "Add Google Customer Match as a [!DNL LaunchPoint] Service - Marketo Docs - Product Documentation"
+title: "Add Google Customer Match as a [!DNL LaunchPoint] Service"
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
 ---
-# Add Google Customer Match as a LaunchPoint Service {#add-google-customer-match-as-a-launchpoint-service}
+# Add Google Customer Match as a [!DNL LaunchPoint] Service {#add-google-customer-match-as-a-launchpoint-service}
 
-With this integration, you can send a Marketo Engage audience to Google to be targeted using Google AdWords, as well as re-target audiences across YouTube, Search, and Gmail.
+With this integration, you can send a Marketo audience to Google to be targeted using [!DNL Google AdWords], as well as re-target audiences across YouTube, Search, and [!DNL Gmail].
 
 >[!NOTE]
 >
@@ -29,15 +29,15 @@ With this integration, you can send a Marketo Engage audience to Google to be ta
 
    ![](assets/chooseservice.png)
 
-1. To connect a Google AdWords account, click **[!UICONTROL Authorize]**.
+1. To connect a [!DNL Google AdWords] account, click **[!UICONTROL Authorize]**.
 
    ![](assets/authorizeaccount-1.png)
 
-1. Google opens in a new tab. From here, log in to your Google AdWords account.
+1. Google opens in a new tab. From here, log in to your [!DNL Google AdWords] account.
 
    >[!CAUTION]
    >
-   >In order for Marketo to send audiences across multiple AdWords Accounts, the Google user you authorize in the following steps needs to have access to _all_ of these accounts.
+   >In order for Marketo to send audiences across multiple [!DNL AdWords] Accounts, the Google user you authorize in the following steps needs to have access to _all_ of these accounts.
 
    ![](assets/chooseaccount.png)
 
@@ -45,11 +45,11 @@ With this integration, you can send a Marketo Engage audience to Google to be ta
 
    ![](assets/reviewpermissions.png)
 
-1. Your Google AdWords account is now connected to Marketo. Click **[!UICONTROL Create]**.
+1. Your [!DNL Google AdWords] account is now connected to Marketo. Click **[!UICONTROL Create]**.
 
    ![](assets/authorizesuccess.png)
 
-   Awesome! You'll now see Google Matched Audiences listed as a LaunchPoint service in the Installed Services tab.
+   Awesome! You'll now see Google Matched Audiences listed as a [!DNL LaunchPoint] service in the Installed Services tab.
 
 >[!NOTE]
 >

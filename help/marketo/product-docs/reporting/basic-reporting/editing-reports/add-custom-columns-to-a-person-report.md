@@ -9,15 +9,15 @@ feature: Reporting
 
 You can further filter the metrics in your person reports by using your [smart lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) as custom columns.
 
-1. Go to the **Marketing Activities** (or **Analytics**) area.
+1. Go to the **[!UICONTROL Marketing Activities]** (or **[!UICONTROL Analytics]**) area.
 
    ![](assets/ma-1.png)
 
-1. Select your report and click the **Setup** tab.
+1. Select your report and click the **[!UICONTROL Setup]** tab.
 
    ![](assets/two-1.png)
 
-1. Drag over **Custom Columns**.
+1. Drag over **[!UICONTROL Custom Columns]**.
 
    ![](assets/three-1.png)
 
@@ -25,7 +25,7 @@ You can further filter the metrics in your person reports by using your [smart l
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-1. You've done it! Click the **Report** tab to see your report with the new columns.
+1. You've done it! Click the **[!UICONTROL Report]** tab to see your report with the new columns.
 
    ![](assets/five-1.png)
 

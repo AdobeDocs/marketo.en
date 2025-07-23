@@ -17,7 +17,7 @@ Blocked people in the Marketo Engage database are marked blocklisted, unsubscrib
    >
    >People who have reached their communication limits may also be blocked from receiving mails. Learn how to [edit communication limits](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} in the Admin section.
 
-   The Blocked People tab shows people who might not receive mailings.
+   The **[!UICONTROL Blocked Leads]** tab shows people who might not receive mailings.
 
    ![](assets/view-blocked-people-in-a-smart-campaign-2.png)
 

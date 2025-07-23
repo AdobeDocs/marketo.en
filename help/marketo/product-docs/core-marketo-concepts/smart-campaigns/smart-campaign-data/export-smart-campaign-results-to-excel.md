@@ -1,11 +1,11 @@
 ---
 unique-page-id: 1147070
-description: Export Smart Campaign Results to Excel - Marketo Docs - Product Documentation
-title: Export Smart Campaign Results to Excel
+description: "Export Smart Campaign Results to [!DNL Excel] - Marketo Docs - Product Documentation"
+title: "Export Smart Campaign Results to [!DNL Excel]"
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
 feature: Smart Campaigns
 ---
-# Export Smart Campaign Results to Excel {#export-smart-campaign-results-to-excel}
+# Export Smart Campaign Results to [!DNL Excel] {#export-smart-campaign-results-to-excel}
 
 Export your Smart Campaign results to Excel for use outside of Marketo Engage.
 
@@ -17,4 +17,4 @@ Export your Smart Campaign results to Excel for use outside of Marketo Engage.
 
    >[!NOTE]
    >
-   >The export is limited to 20,000 rows. The Excel file is saved in your browser's default downloads folder.
+   >The export is limited to 20,000 rows. The [!DNL Excel] file is saved in your browser's default downloads folder.

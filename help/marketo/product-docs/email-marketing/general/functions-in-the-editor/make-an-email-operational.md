@@ -13,7 +13,7 @@ Operational emails ignore Unsubscribed and Marketing Suspended statuses. They ar
 >
 >Operational emails do not count towards communication limits. For example, if someone can only receive one email per week and you've already sent them a marketing email, you can still send them an operational email if necessary.
 
-1. Find your email, select it and click **Edit Draft**.
+1. Find your email, select it and click **[!UICONTROL Edit Draft]**.
 
 ![](assets/one-1.png)
 
@@ -21,11 +21,11 @@ Operational emails ignore Unsubscribed and Marketing Suspended statuses. They ar
 >
 >You should only use Operational emails for critical emails and auto-responders. They are not meant for marketing emails.
 
-1. Once the editor opens, click **Email Settings**.
+1. Once the editor opens, click **[!UICONTROL Email Settings]**.
 
    ![](assets/two-1.png)
 
-1. Check **Operational Email** and click **Save**.
+1. Check **[!UICONTROL Operational Email]** and click **[!UICONTROL Save]**.
 
    ![](assets/three.png)
 

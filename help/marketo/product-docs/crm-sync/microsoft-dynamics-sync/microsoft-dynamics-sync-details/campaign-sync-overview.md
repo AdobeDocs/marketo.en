@@ -6,11 +6,11 @@ feature: Microsoft Dynamics
 ---
 # Campaign Sync Overview {#campaign-sync-overview}
 
-As part of Campaign Sync, users can set up automation to operate on membership of a Dynamics campaign. Leads qualified to specific behaviors or demographics can be made part of Microsoft campaigns.
+As part of Campaign Sync, users can set up automation to operate on membership of a [!DNL Dynamics] campaign. Leads qualified to specific behaviors or demographics can be made part of Microsoft campaigns.
 
 >[!PREREQUISITES]
 >
->Update to the latest version of the Dynamics plug-in for Marketo Engage.
+>Update to the latest version of the [!DNL Dynamics] plug-in for Marketo.
 
 The following flow actions are available:
 
@@ -30,9 +30,9 @@ The triggers will execute based on actions from the Marketo Flow Action "[!UICON
 
 >[!NOTE]
 >
->Make sure the Campaign Sync is functional and the campaign is not inactive in Microsoft Dynamics.
+>Make sure the Campaign Sync is functional and the campaign is not inactive in Microsoft [!DNL Dynamics].
 
 >[!MORELIKETHIS]
 >
->* [Enable Campaign Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
->* [Add or Remove People from your Dynamics Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}
+>* [Enable Campaign Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
+>* [Add or Remove People from your [!DNL Dynamics] Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)

@@ -9,7 +9,7 @@ feature: Smart Campaigns
 
 [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) is great, but how do you _remove_ the value completely? Good question!
 
-1. In the flow step, choose the field you would like to clear and type in **NULL** (all caps) as the **New Value**.
+1. In the flow step, choose the field you would like to clear and type in **[!UICONTROL NULL]** (all caps) as the **[!UICONTROL New Value]**.
 
    ![](assets/clear-field-values-1.png)
 

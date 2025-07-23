@@ -5,9 +5,9 @@ title: Web Personalization Glossary
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
 ---
-# Web Personalization Glossary {#web-personalization-glossary}
+# [!DNL Web Personalization] Glossary {#web-personalization-glossary}
 
-Some insights into the world and language of Marketo Web Personalization.
+Some insights into the world and language of [!DNL Marketo Web Personalization].
 
 | Term |Definition |
 |---|---|
@@ -23,7 +23,7 @@ Some insights into the world and language of Marketo Web Personalization.
 
 ## Wildcard Examples {#wildcard-examples}
 
-Here are three ways you can use a wildcard in Web Personalization.
+Here are three ways you can use a wildcard in [!DNL Web Personalization].
 
 Match all visitors on page URLs that end with pricing (for example, `www.marketo.com/pricing`
 

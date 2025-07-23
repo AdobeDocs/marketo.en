@@ -23,13 +23,13 @@ Program Member custom fields allow you to collect program-specific data for each
 
    ![](assets/three.png)
 
-1. Click the Object drop-down and select the desired object.
+1. Click the **[!UICONTROL Object]** drop-down and select the desired object.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Person and Program Member custom fields cannot share the same name.
+   >[!UICONTROL Person] and [!UICONTROL Program Member] custom fields cannot share the same name.
 
 1. Fill out the remaining fields and click **[!UICONTROL Create]**.
 
@@ -37,7 +37,7 @@ Program Member custom fields allow you to collect program-specific data for each
 
    >[!NOTE]
    >
-   >Types supported for Program Member custom fields are: boolean, date, datetime, float, integer, string, URL. [Learn more about field types](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+   >Types supported for [!UICONTROL Program Member] custom fields are: boolean, date, datetime, float, integer, string, URL. [Learn more about field types](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
 ## Object Descriptions {#object-descriptions}
 

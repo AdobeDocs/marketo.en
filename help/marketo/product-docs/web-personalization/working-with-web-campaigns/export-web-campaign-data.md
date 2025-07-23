@@ -9,7 +9,7 @@ feature: Web Personalization
 
 Follow these simple steps to export your web campaign data.
 
-1. Go to **Web Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/one-2.png)
 

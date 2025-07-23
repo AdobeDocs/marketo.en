@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2949711
-description: Install the Marketo Email Add-in for Outlook with a Registration Code - Marketo Docs - Product Documentation
-title: Install the Marketo Email Add-in for Outlook with a Registration Code
+description: Install the Marketo Email Add-in for [!DNL Outlook] with a Registration Code - Marketo Docs - Product Documentation
+title: Install the Marketo Email Add-in for [!DNL Outlook] with a Registration Code
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
 ---
-# Install the Marketo Email Add-in for Outlook with a Registration Code {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Install the Marketo Email Add-in for [!DNL Outlook] with a Registration Code {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 If users can access the admin settings on their laptops, you can send a registration code to them directly.
 
@@ -33,7 +33,7 @@ If you haven't received an invite email, ask your Marketo administrator to invit
 
    >[!NOTE]
    >
-   >At this time, the links below are only working in Microsoft Edge, or by right-clicking in Chrome. Sorry for any inconvenience.
+   >At this time, the links below are only working in [!DNL Microsoft Edge], or by right-clicking in [!DNL Chrome]. Sorry for any inconvenience.
 
 <table><thead>
   <tr>
@@ -94,7 +94,7 @@ If you haven't received an invite email, ask your Marketo administrator to invit
   </tr>
 </tbody></table>
 
-   *Office 365 version: Windows client only (on Windows 10, Enterprise or Pro).
+   *[!DNL Office] 365 version: [!DNL Windows] client only (on [!DNL Windows] 10, [!DNL Enterprise] or [!DNL Pro]).
 
    >[!IMPORTANT]
    >
@@ -106,7 +106,7 @@ If you haven't received an invite email, ask your Marketo administrator to invit
 
    ![](assets/image2016-7-22-10-3a45-3a10.png)
 
-1. Close Microsoft Outlook.
+1. Close [!DNL Microsoft Outlook].
 
    ![](assets/ent-key-close-outlook-hand.png)
 
@@ -120,11 +120,11 @@ If you haven't received an invite email, ask your Marketo administrator to invit
    >
    >If you get a security warning, don't worry! Just click **Run**.
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Fill in **First Name**, **Last Name**, **Email Address**, then copy and paste the **Registration code** from the email into the form and click **Next**.
+1. Fill in **[!UICONTROL First Name]**, **[!UICONTROL Last Name]**, **[!UICONTROL Email Address]**, then copy and paste the **[!UICONTROL Registration code]** from the email into the form and click **[!UICONTROL Next]**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -132,23 +132,23 @@ If you haven't received an invite email, ask your Marketo administrator to invit
    >
    >If the install fails, check with your IT department to ensure that HTTPS traffic is not blocked. The installer requires HTTPS traffic to be open.
 
-1. Click **Next** to install in the default location.
+1. Click **[!UICONTROL Next]** to install in the default location.
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >If you get a security prompt about an unknown publisher, click **Yes**.
+   >If you get a security prompt about an unknown publisher, click **[!UICONTROL Yes]**.
 
-1. The installation is now complete, click **Close**.
+1. The installation is now complete, click **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. Now open Microsoft Outlook and see the Marketo buttons.
+1. Now open [!DNL Microsoft Outlook] and see the Marketo buttons.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 

@@ -5,7 +5,7 @@ title: Step 3 of 3 -Connect Marketo and Salesforce (Professional)
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
 ---
-# Step 3 of 3: Connect Marketo and Salesforce (Professional) {#step-of-connect-marketo-and-salesforce-professional}
+# Step 3 of 3: Connect Marketo and [!DNL Salesforce] (Professional) {#step-of-connect-marketo-and-salesforce-professional}
 
 In this article, you'll configure Marketo Engage to sync with your configured Salesforce instance.
 
@@ -60,7 +60,7 @@ In this article, you'll configure Marketo Engage to sync with your configured Sa
    >
    >If you want to look over the [mappings and customize them](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md){target="_blank"}, this is your only chance to do so! Once you click Start Salesforce Sync, it's done.
 
-## Start Salesforce Sync {#start-salesforce-sync}
+## Start [!DNL Salesforce] Sync {#start-salesforce-sync}
 
 1. Click **[!UICONTROL Start Salesforce Sync]** to begin the persistent Marketo-Salesforce sync.
 
@@ -68,7 +68,7 @@ In this article, you'll configure Marketo Engage to sync with your configured Sa
 
    >[!CAUTION]
    >
-   >Marketo will not automatically de-dupe against a Salesforce sync, or when you manually enter leads.
+   >Marketo will not automatically de-dupe against a [!DNL Salesforce] sync, or when you manually enter leads.
 
 1. Click **[!UICONTROL Start Sync]**.
 
@@ -80,7 +80,7 @@ In this article, you'll configure Marketo Engage to sync with your configured Sa
 
 ## Verify Sync {#verify-sync}
 
-Marketo provides status messages for the Salesforce sync in the Admin area. You can verify the sync is working correctly by following these steps.
+Marketo provides status messages for the [!DNL Salesforce] sync in the Admin area. You can verify the sync is working correctly by following these steps.
 
 1. In Marketo, click **[!UICONTROL Admin]**, then **Salesforce**.
 

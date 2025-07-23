@@ -19,7 +19,7 @@ Marketo Engage automatically de-duplicates when new people enter the system. How
 
 >[!NOTE]
 >
->Marketo will not automatically de-dupe against a Salesforce or Microsoft Dynamics sync, or when you manually enter people.
+>Marketo will not automatically de-dupe against a [!DNL Salesforce] or [!DNL Microsoft Dynamics] sync, or when you manually enter people.
 
 ## Find Duplicates {#find-duplicates}
 
@@ -29,7 +29,7 @@ Marketo Engage automatically de-duplicates when new people enter the system. How
 
    >[!CAUTION]
    >
-   >Merging people in Marketo may not work if you use a Salesforce Person Account. Please merge the records in Salesforce if possible.
+   >Merging people in Marketo may not work if you use a [!DNL Salesforce] Person Account. Please merge the records in [!DNL Salesforce] if possible.
 
 1. Select the **[!UICONTROL Possible Duplicates]** System Smart List and click on the **[!UICONTROL People]** tab.
 
@@ -69,10 +69,10 @@ Marketo Engage automatically de-duplicates when new people enter the system. How
 
 If you have Salesforce integration, there are a few notes about the effect of merging Leads in Salesforce.
 
-* When merging only Leads or only Contacts, they merge per normal Salesforce rules.
-* When merging Leads and Contacts together, all Leads are converted to Contacts prior to merging per normal Salesforce rules.
+* When merging only Leads or only Contacts, they merge per normal [!DNL Salesforce] rules.
+* When merging Leads and Contacts together, all Leads are converted to Contacts prior to merging per normal [!DNL Salesforce] rules.
 
-For specifics of Salesforce behavior when merging Leads or Contacts, please check the following Salesforce documents:
+For specifics of Salesforce behavior when merging Leads or Contacts, please check the following [!DNL Salesforce] documents:
 
 * [Merging Duplicate Leads](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
 * [Merging Duplicate Contacts](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}

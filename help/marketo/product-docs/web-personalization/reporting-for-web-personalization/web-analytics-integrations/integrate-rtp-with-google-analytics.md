@@ -60,11 +60,11 @@ Measure your RTP campaigns and correlate them with your overall site average. Le
 
 1. Add the email rtp.ga2@gmail.com as a Read & Analyze user to your GA account. For more details, see [here](https://support.google.com/analytics/answer/2884495?hl=en).
 
-1. In your RTP account. Go to **Account Settings**.
+1. In your RTP account. Go to **[!UICONTROL Account Settings]**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Under **Account Settings**, **Domain** and **Analytics**.
+1. Under **[!UICONTROL Account Settings]**, **[!UICONTROL Domain]** and **[!UICONTROL Analytics]**.
 
 1. Click on **Google Analytics**.
 
@@ -74,11 +74,11 @@ Measure your RTP campaigns and correlate them with your overall site average. Le
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
 >[!NOTE]
 >
->In order to send segment data to GA, under the [Edit Segment page](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) in the RTP platform, select the checkbox **Send Event to Google Analytics on Segment Match**.
+>In order to send segment data to GA, under the [[!UICONTROL Edit Segment] page](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) in the RTP platform, select the checkbox **[!UICONTROL Send Event to Google Analytics on Segment Match]**.
 
 ## Setting up Google Analytics Reports with RTP Data {#setting-up-google-analytics-reports-with-rtp-data}
 
@@ -86,4 +86,4 @@ In Google Analytics you can use dashboards, GA segmentation, and reporting to vi
 
 * [Dashboards](https://support.google.com/analytics/answer/1068216?hl=en) provide an overview of the website performance.
 * A GA Segment is intended to filter visitors in the GA interface and view the traffic per segment. See how to build a segment [here](https://support.google.com/analytics/answer/3124493?hl=en).
-* Creating [customized reports](https://support.google.com/analytics/answer/1033013?hl=en) to view and/or setup scheduled emails. See under Customization > New Custom Report.
+* Creating [customized reports](https://support.google.com/analytics/answer/1033013?hl=en) to view and/or setup scheduled emails. See under **[!UICONTROL Customization]** > **[!UICONTROL New Custom Report]**.

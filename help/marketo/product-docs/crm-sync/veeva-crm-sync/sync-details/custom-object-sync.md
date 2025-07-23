@@ -8,7 +8,7 @@ feature: Veeva CRM
 ---
 # Custom Object Sync {#custom-object-sync}
 
-Custom Objects created in your Veeva CRM instance can be part of Marketo Engage, too. Here's how to set it up.
+Custom Objects created in your [!DNL Veeva] CRM instance can be part of Marketo Engage, too. Here's how to set it up.
 
 >[!NOTE]
 >
@@ -16,7 +16,7 @@ Custom Objects created in your Veeva CRM instance can be part of Marketo Engage,
 
 >[!PREREQUISITES]
 >
->To use a custom object, it must be associated to a contact or account object in Veeva CRM.
+>To use a custom object, it must be associated to a contact or account object in [!DNL Veeva] CRM.
 
 ## Enable Custom Object {#enable-custom-object}
 
@@ -34,7 +34,7 @@ Custom Objects created in your Veeva CRM instance can be part of Marketo Engage,
 
    >[!NOTE]
    >
-   >The initial sync of the Veeva custom object schema may take a few minutes.
+   >The initial sync of the [!DNL Veeva] custom object schema may take a few minutes.
 
 1. Drag the custom object you wish to sync into the canvas.
 
@@ -60,7 +60,7 @@ Custom Objects created in your Veeva CRM instance can be part of Marketo Engage,
 
    ![](assets/custom-object-sync-8.png)
 
-1. To view all of your Veeva custom objects, click **[!UICONTROL Admin]** and **[!UICONTROL Veeva Objects Sync]**.
+1. To view all of your [!DNL Veeva] custom objects, click **[!UICONTROL Admin]** and  **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/custom-object-sync-9.png)
 

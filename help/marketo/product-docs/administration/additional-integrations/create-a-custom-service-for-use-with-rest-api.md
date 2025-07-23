@@ -29,7 +29,7 @@ If you want to integrate with Marketo via the ReST API, you'll want to create a 
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
-1. Click **LaunchPoint**.
+1. Click **[!UICONTROL LaunchPoint]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 

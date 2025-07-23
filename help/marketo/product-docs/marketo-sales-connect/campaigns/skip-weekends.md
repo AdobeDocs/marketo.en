@@ -9,7 +9,7 @@ feature: Marketo Sales Connect
 
 When automating a campaign, you probably don't want your emails to go out on a Saturday or Sunday. If not, you have the ability to skip weekends.
 
-1. In Sales Connect, click the **Campaigns** tab.
+1. In [!DNL Sales Connect], click the **[!UICONTROL  Campaigns]** tab.
 
    ![](assets/one-2.png)
 
@@ -17,11 +17,11 @@ When automating a campaign, you probably don't want your emails to go out on a S
 
    ![](assets/two-2.png)
 
-1. Click **Settings**.
+1. Click **[!UICONTROL Settings]**.
 
    ![](assets/three-2.png)
 
-1. Select the **Skip Weekends** checkbox.
+1. Select the **[!UICONTROL Skip weekends]** checkbox.
 
    ![](assets/four-2.png)
 

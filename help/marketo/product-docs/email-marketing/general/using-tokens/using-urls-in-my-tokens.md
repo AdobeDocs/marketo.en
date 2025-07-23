@@ -7,17 +7,17 @@ feature: Tokens
 ---
 # Using URLs in My Tokens {#using-urls-in-my-tokens}
 
-Follow the steps below to use My Tokens to insert URLs into your emails.
+Follow the steps below to use [!UICONTROL My Tokens] to insert URLs into your emails.
 
-1. Select your program and click **My Tokens**.
+1. Select your program and click **[!UICONTROL My Tokens]**.
 
    ![](assets/one-4.png)
 
-1. Select the **Text** My Token, drag and drop it onto the canvas.
+1. Select the **[!UICONTROL Text]** My Token, drag and drop it onto the canvas.
 
    ![](assets/two-4.png)
 
-1. Give the token a unique name, enter a URL (without the https://) and click **Save**.
+1. Give the token a unique name, enter a URL (without the https://) and click **[!UICONTROL Save]**.
 
    ![](assets/three-4.png)
 
@@ -33,7 +33,7 @@ Follow the steps below to use My Tokens to insert URLs into your emails.
 
    ![](assets/four-3.png)
 
-1. Click **Edit Draft**.
+1. Click **[!UICONTROL Edit Draft]**.
 
    ![](assets/five-3.png)
 
@@ -49,7 +49,7 @@ Follow the steps below to use My Tokens to insert URLs into your emails.
    >
    >You of course also have the option of entering `http://` if your site doesn't use https.
 
-1. Locate your My Token, select it, and click **Insert**.
+1. Locate your My Token, select it, and click **[!UICONTROL Insert]**.
 
    ![](assets/eight.png)
 
@@ -57,15 +57,15 @@ Follow the steps below to use My Tokens to insert URLs into your emails.
 
    ![](assets/nine.png)
 
-1. Highlight the text you want the link to display and click the Insert/Edit Link icon.
+1. Highlight the text you want the link to display and click the [!UICONTROL Insert/Edit Link] icon.
 
    ![](assets/ten.png)
 
-1. Press Ctrl/Cmd+V to paste the content into the **URL** box and click **Insert**.
+1. Press Ctrl/Cmd+V to paste the content into the **[!UICONTROL URL]** box and click **[!UICONTROL Insert]**.
 
    ![](assets/eleven.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/twelve.png)
 

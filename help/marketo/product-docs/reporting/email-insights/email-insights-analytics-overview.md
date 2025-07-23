@@ -7,7 +7,7 @@ feature: Reporting
 ---
 # Email Insights Analytics Overview {#email-insights-analytics-overview}
 
-In Analytics, explore aggregate data for email delivery and engagement. Use the chart on the left to explore data, the insights on the right for a more guided experience.
+In [!UICONTROL Analytics], explore aggregate data for email delivery and engagement. Use the chart on the left to explore data, the insights on the right for a more guided experience.
 
 ![](assets/emailanalytics-1.jpg)
 
@@ -49,7 +49,7 @@ On the right side of the page, guided metrics help you discover relevant drivers
 
 >[!NOTE]
 >
->See that Refresh on the upper right? When you see it, you'll need to manually click it to refresh the Insights module. We only show it when you have made a change to filters that would invalidate the current values.
+>See that [!UICONTROL Refresh] on the upper right? When you see it, you'll need to manually click it to refresh the Insights module. We only show it when you have made a change to filters that would invalidate the current values.
 
 You can also specify what you see (left to right): All, Audience, Content, and Platform.  
 

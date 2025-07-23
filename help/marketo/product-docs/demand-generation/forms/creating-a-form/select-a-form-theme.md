@@ -9,19 +9,19 @@ feature: Forms
 
 We made a bunch of nice themes for your forms. Which do you like best?
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/editform.png)
 
-1. Go to **Form Settings**.
+1. Go to **[!UICONTROL Form Settings]**.
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Toggle back and forth to choose the **Form Theme** of your liking.
+1. Toggle back and forth to choose the **[!UICONTROL Form Theme]** of your liking.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -39,7 +39,7 @@ We made a bunch of nice themes for your forms. Which do you like best?
    >
    >You can also [edit the CSS of your form theme](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
-1. Click **Next** to configure other form options, or click **Finish** if you only wanted to change the Form Theme.
+1. Click **[!UICONTROL Next]** to configure other form options, or click **[!UICONTROL Finish]** if you only wanted to change the Form Theme.
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 

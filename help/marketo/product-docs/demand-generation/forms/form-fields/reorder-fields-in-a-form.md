@@ -9,11 +9,11 @@ feature: Forms
 
 It's easy to re-order fields on a Marketo form. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/editform.png)
 

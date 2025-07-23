@@ -5,23 +5,23 @@ title: Step 1 of 3 -Add Marketo Fields to Salesforce  (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
 ---
-# Step 1 of 3: Add Marketo Fields to Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
+# Step 1 of 3: Add Marketo Fields to [!DNL Salesforce] (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
 >
 >Your Salesforce instance must have access to Salesforce API's to sync data between Marketo Engage and Salesforce.
 
-Marketo uses a set of fields to capture certain kinds of marketing related information. If you would like this data in Salesforce, please follow the instructions below.
+Marketo uses a set of fields to capture certain kinds of marketing related information. If you would like this data in [!DNL Salesforce], please follow the instructions below.
 
-1. Create three custom fields in Salesforce on the lead and contact objects: Score, Acquisition Program, and Acquisition Date. 
-1. Map these custom fields between leads and contacts so that on conversion in Salesforce, the values carry over.
+1. Create three custom fields in [!DNL Salesforce] on the lead and contact objects: Score, Acquisition Program, and Acquisition Date. 
+1. Map these custom fields between leads and contacts so that on conversion in [!DNL Salesforce], the values carry over.
 1. You can create other additional fields, if necessary (see the table below).
 
-All of these custom fields are optional and are not required to sync Marketo and Salesforce. As a best practice, we recommend that you do create fields for Score, Acquisition Program, and Acquisition Date.
+All of these custom fields are optional and are not required to sync Marketo and [!DNL Salesforce]. As a best practice, we recommend that you do create fields for Score, Acquisition Program, and Acquisition Date.
 
-## Add Marketo Fields to Salesforce {#add-marketo-fields-to-salesforce}
+## Add Marketo Fields to [!DNL Salesforce] {#add-marketo-fields-to-salesforce}
 
-Add three custom fields on the lead and contact objects in Salesforce listed above. If you want to add more, see the table of available fields at the end of this section.
+Add three custom fields on the lead and contact objects in [!DNL Salesforce] listed above. If you want to add more, see the table of available fields at the end of this section.
 
 Perform the following steps for each of the three custom fields to add them. Start with **[!UICONTROL Score]**.
 
@@ -45,7 +45,7 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. Enter the Field Label, Length, and Field Name for the field, as shown in the table below.
+1. Enter the [!UICONTROL Field Label], [!UICONTROL Length], and [!UICONTROL Field Name] for the field, as shown in the table below.
 
 <table> 
  <thead> 
@@ -92,7 +92,7 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
    >[!NOTE]
    >
-   >Salesforce appends __c to Field Names when it uses them to create API Names.
+   >[!DNL Salesforce] appends __c to Field Names when it uses them to create API Names.
 
    ![](assets/image2016-5-26-14-3a55-3a33.png)
 
@@ -219,11 +219,11 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
 >[!NOTE]
 >
->Values in the fields automatically assigned by Marketo will not immediately be available in Salesforce when the new field has been created. Marketo will sync the data to Salesforce upon the next update to the record on either system (i.e., an update to any of the fields in sync between Marketo and Salesforce).
+>Values in the fields automatically assigned by Marketo will not immediately be available in [!DNL Salesforce] when the new field has been created. Marketo will sync the data to [!DNL Salesforce] upon the next update to the record on either system (i.e., an update to any of the fields in sync between Marketo and [!DNL Salesforce]).
 
 ## Map Custom Fields for Conversions  {#map-custom-fields-for-conversions}
 
-A custom field on the lead object in Salesforce should be mapped to a contact field on the contact object so that data is carried over when a conversion occurs.
+A custom field on the lead object in [!DNL Salesforce] should be mapped to a contact field on the contact object so that data is carried over when a conversion occurs.
 
 1. In the top right corner, click **[!UICONTROL Setup]**.
 
@@ -246,7 +246,6 @@ A custom field on the lead object in Salesforce should be mapped to a contact fi
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Repeat the above steps for any other fields you've created.
-
 1. Click **[!UICONTROL Save]** when you're done.
 
 Easy enough, right?

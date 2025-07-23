@@ -1,57 +1,57 @@
 ---
 unique-page-id: 14745793
-description: Sales Connect Customizations for CRM - Marketo Docs - Product Documentation
-title: Sales Connect Customizations for CRM
+description: "[!DNL Sales Connect] Customizations for CRM - Marketo Docs - Product Documentation"
+title: "[!DNL Sales Connect] Customizations for CRM"
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
 ---
-# Sales Connect Customizations for CRM {#sales-connect-customizations-for-crm}
+# [!DNL Sales Connect] Customizations for CRM {#sales-connect-customizations-for-crm}
 
 The fields and buttons below are created by the Metadata API in Salesforce CRM. Once the fields are created, admins must configure the page layouts in their CRM to expose them. Instructions [can be found here](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf).
 
-## How to Install Customizations in Salesforce {#how-to-install-customizations-in-salesforce}
+## How to Install Customizations in [!DNL Salesforce] {#how-to-install-customizations-in-salesforce}
 
-1. In Sales Connect, click the gear icon and select **Settings**.
+1. In [!DNL Sales Connect], click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
-1. Under Admin Settings, select **Salesforce**.
+1. Under [!UICONTROL Admin Settings], select **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 
-1. Click **Marketo Sales Connect Customizations**.
+1. Click **[!UICONTROL Marketo Sales Engage Customizations]**.
 
    ![](assets/three.png)
 
-1. Click **Connect to Salesforce**.
+1. Click **[!UICONTROL Connect to Salesforce]**.
 
    ![](assets/four.png)
 
-1. Log-in to Salesforce.
+1. Log-in to [!DNL Salesforce].
 
    ![](assets/five.png)
 
-## Update Salesforce Customization {#update-salesforce-customization}
+## Update [!DNL Salesforce] Customization {#update-salesforce-customization}
 
-Updates to the Salesforce Customization package will include enhancements and bug fixes. To check if updates are available or to perform an update, follow the steps below.  
+Updates to the [!DNL Salesforce] Customization package will include enhancements and bug fixes. To check if updates are available or to perform an update, follow the steps below.  
 
 >[!NOTE]
 >
 >**Admin permissions required.**
 
-1. In the [web application](https://www.toutapp.com), click the gear icon and select **Settings**.
+1. In the [web application](https://www.toutapp.com), click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. Under Admin Settings, click **Salesforce**.
+1. Under [!UICONTROL Admin Settings], click **[!UICONTROL Salesforce]**.
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. The Sales Connect Customization card will show if updates are available. Click **Update Customizations**.
+1. The [!DNL Sales Connect] Customization card will show if updates are available. Click **[!UICONTROL Update Customizations]**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. Click **Upgrade**.
+1. Click **[!UICONTROL Upgrade]**.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 

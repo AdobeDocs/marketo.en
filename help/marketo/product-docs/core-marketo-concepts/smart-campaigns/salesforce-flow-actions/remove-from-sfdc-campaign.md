@@ -13,7 +13,7 @@ Just like how you can [Add to SFDC Campaign](/help/marketo/product-docs/core-mar
 
 >[!NOTE]
 >
->Only available when integrated with Salesforce.
+>Only available when integrated with [!DNL Salesforce].
 
 1. Once you drag in the flow step, find and select the Salesforce campaign you want to remove the person or lead from.
 
@@ -23,4 +23,4 @@ Just like how you can [Add to SFDC Campaign](/help/marketo/product-docs/core-mar
    >
    >If the person or lead is not a member of the campaign you selected, they will be skipped.
 
-That's it! When people or leads flow through, they will be removed from the Salesforce campaign you chose.
+That's it! When people or leads flow through, they will be removed from the [!DNL Salesforce] campaign you chose.

@@ -7,9 +7,9 @@ feature: Marketo Sales Connect
 ---
 # Delete a Template Category {#delete-a-template-category}
 
-1. Click the menu icon next to a category and then click **Delete**.
+1. Click the menu icon next to a category and then click **[!UICONTROL Delete]**.
 
-1. Click **Delete** to confirm.
+1. Click **[!UICONTROL Delete]** to confirm.
 
 >[!NOTE]
 >

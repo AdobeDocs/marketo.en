@@ -11,11 +11,11 @@ feature: Landing Pages
 >
 >[Add Images and Files to Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
-1. Select your free-form landing page and click **Edit** **Draft**.
+1. Select your free-form landing page and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. In the editor, drag over the **Image** element.
+1. In the editor, drag over the **[!UICONTROL Image]** element.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -23,7 +23,7 @@ feature: Landing Pages
 
    ![](assets/image2014-9-16-14-3a35-3a59.png)
 
-1. Click **Insert**.
+1. Click **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 

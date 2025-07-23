@@ -7,17 +7,17 @@ feature: Marketo Sales Insights
 ---
 # Log Inbound Mail From Your Leads in Marketo {#log-inbound-mail-from-your-leads-in-marketo}
 
-You can log replies from your leads right in Outlook with the Marketo Email Add-In.
+You can log replies from your leads right in [!DNL Outlook] with the Marketo Email Add-In.
 
-## From the Main Outlook Application {#from-the-main-outlook-application}
+## From the Main [!DNL Outlook] Application {#from-the-main-outlook-application}
 
-1. Select the email you want to log and click Log with Marketo.
+1. Select the email you want to log and click **[!UICONTROL Log with Marketo]**.
 
 ![](assets/image2014-9-23-17-3a12-3a44.png)
 
 >[!TIP]
 >
->You can also right-click on a message and click **Log With Marketo**.
+>You can also right-click on a message and click **[!UICONTROL Log With Marketo]**.
 
 You should see a confirmation.
 
@@ -25,7 +25,7 @@ You should see a confirmation.
 
 ## From the Email Itself {#from-the-email-itself}
 
-If you have opened the email, you can simply click on the Log with Marketo button from there.
+If you have opened the email, you can simply click on the **[!UICONTROL Log with Marketo]** button from there.
 
 ![](assets/image2014-9-23-17-3a14-3a14.png)
 
@@ -37,5 +37,5 @@ Log your lead's replies to add them to their history in Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Send and Track an Email with the Marketo Email Add-in for Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Send and Track from Outlook Using a Marketo Template](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Send and Track an Email with the Marketo Email Add-in for [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Send and Track from [!DNL Outlook] Using a Marketo Template](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

@@ -27,7 +27,7 @@ At the bottom of the Members section, use the search field to search for program
 
 ## Export the Members Grid {#export-the-members-grid}
 
-You can export your member list by clicking the Excel icon next to the search field.
+You can export your member list by clicking the [!DNL Excel] icon next to the search field.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 

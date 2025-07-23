@@ -58,7 +58,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    >[!NOTE]
    >
-   >If you choose "Match Existing Marketo People Only" you'll only need to map the Email and/or ECID, so you can skip Steps 13-16.
+   >If you choose "[!UICONTROL Match Existing Marketo People Only]" you'll only need to map the Email and/or ECID, so you can skip Steps 13-16.
 
 1. This section is optional. Click **[!UICONTROL Create]** to skip.
 
@@ -74,7 +74,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    >[!NOTE]
    >
-   >If you choose multiple segments, you'll have to map each segment to a specified static list in the Segment Schedule tab.
+   >If you choose multiple segments, you'll have to map each segment to a specified static list in the [!UICONTROL Segment Schedule] tab.
 
    >[!IMPORTANT]
    >

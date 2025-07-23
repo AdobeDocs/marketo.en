@@ -1,17 +1,17 @@
 ---
 unique-page-id: 9437903
-description: Create a Custom Dynamics Sync Filter - Marketo Docs - Product Documentation
-title: Create a Custom Dynamics Sync Filter
+description: Create a Custom [!DNL Dynamics] Sync Filter - Marketo Docs - Product Documentation
+title: Create a Custom [!DNL Dynamics] Sync Filter
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
 ---
-# Create a Custom Dynamics Sync Filter {#create-a-custom-dynamics-sync-filter}
+# Create a Custom [!DNL Dynamics] Sync Filter {#create-a-custom-dynamics-sync-filter}
 
 Don't want to sync everything in your Dynamics CRM into Marketo Engage? Don't worry! Marketo allows you to set up a sync filter and sync only part of your records.
 
 ## Overview {#overview}
 
-To set up a Dynamics sync filter:
+To set up a [!DNL Dynamics] sync filter:
 
 1. Create a custom Two Options (boolean) field named new_synctomkto in your Dynamics CRM for any object (lead, contact, account, opportunity and other custom entities).
 1. Assign this field a Yes/No value.
@@ -37,7 +37,7 @@ Marketo looks for this field during the automatic background sync and determines
 
 >[!PREREQUISITES]
 >
->Install the latest version of the Marketo Plug-in (3.0.0.1 or later). Go to Marketo > Admin > Microsoft Dynamics > Download Marketo Solution.
+>Install the latest version of the Marketo Plug-in (3.0.0.1 or later). Go to Marketo > [!UICONTROL Admin] > [!DNL Microsoft Dynamics] > [!UICONTROL Download Marketo Solution].
 
 ## Create SyncToMkto Field {#create-synctomkto-field}
 
@@ -45,19 +45,19 @@ Marketo looks for this field during the automatic background sync and determines
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
-1. Click **Customize the System**.
+1. Click **[!UICONTROL Customize the System]**.
 
    ![](assets/image2015-8-10-21-3a42-3a15.png)
 
-1. Click ![](assets/image2015-8-10-21-3a44-3a23.png) next to **Entities**.
+1. Click ![](assets/image2015-8-10-21-3a44-3a23.png) next to **[!UICONTROL Entities]**.
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. Click ![](assets/image2015-8-10-21-3a44-3a23.png) next to **Lead** and select **Fields**. Then click **New**.
+1. Click ![](assets/image2015-8-10-21-3a44-3a23.png) next to **[!UICONTROL Lead]** and select **[!UICONTROL Fields]**. Then click **[!UICONTROL New]**.
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
-1. Enter **SyncToMkto** in the **Display Name** field and select **Two options** as the **Data Type**. Then click **Save and Close**.
+1. Enter **SyncToMkto** in the **[!UICONTROL Display Name]** field and select **[!UICONTROL Two Options]** as the **[!UICONTROL Data Type]**. Then click **[!UICONTROL Save and Close]**.
 
    ![](assets/image2015-9-8-10-3a25-3a33.png)
 
@@ -89,37 +89,37 @@ Even if you've already done your initial sync, go in and select the fields to be
 
 Great, Now you've enabled the sync filter for Marketo.
 
-## Create a Dynamics Workflow to Assign Sync Filter Values Automatically {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
+## Create a [!DNL Dynamics] Workflow to Assign Sync Filter Values Automatically {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
 
-You can always manually assign a value to the SyncToMkto fields for your records. But why not take advantage of the power of a Dynamics Workflow and auto-assign a value to the SyncToMkto field when a record is created or updated?
+You can always manually assign a value to the SyncToMkto fields for your records. But why not take advantage of the power of a [!DNL Dynamics] Workflow and auto-assign a value to the SyncToMkto field when a record is created or updated?
 
 >[!NOTE]
 >
 >You can't do this on the database level. It must be done in the CRM manually or using a workflow.
 >
->A Dynamics workflow works only on new records created going forward, not on historical data. Use a batch update to move over existing records.
+>A [!DNL Dynamics] workflow works only on new records created going forward, not on historical data. Use a batch update to move over existing records.
 
 1. Go to your Dynamics CRM. Click **Settings**, then **Processes**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
-1. Click **New**.
+1. Click **[!UICONTROL New]**.
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. Enter a name for the workflow, and select **Workflow** as the category and **Lead** as the Entity. Then click **OK**.
+1. Enter a name for the workflow, and select **[!UICONTROL Workflow]** as the [!UICONTROL Category] and **[!UICONTROL Lead]** as the [!UICONTROL Entity]. Then click **OK**.
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
-1. Create rules to assign a true or false value to the **SyncToMkto** field based on your organization's preference. Click **Save and Close**.
+1. Create rules to assign a true or false value to the **SyncToMkto** field based on your organization's preference. Click **[!UICONTROL Save and Close]**.
 
    ![](assets/setsynctomkto-fix.png)
 
    >[!NOTE]
    >
-   >Define a Default Action after you click **Add Step** to add a Check Condition. This sets the records that you don't want to sync to **No**. Otherwise, they will sync.
+   >Define a Default Action after you click **[!UICONTROL Add Step]** to add a Check Condition. This sets the records that you don't want to sync to **No**. Otherwise, they will sync.
 
-1. Select the workflow and click **Activate**.
+1. Select the workflow and click **[!UICONTROL Activate]**.
 
    ![](assets/image2015-8-11-8-3a57-3a29.png)
 
@@ -133,7 +133,7 @@ Here are some implementation details we thought you should know:
 
 * Start a Sync Operation
 
-   When the **SyncToMkto** value changes from **No** to **Yes**, Dynamics notifies Marketo immediately to start syncing this record. If the record already exists, Marketo updates it. Otherwise, Marketo creates the record.
+   When the **SyncToMkto** value changes from **No** to **Yes**, [!DNL Dynamics] notifies Marketo immediately to start syncing this record. If the record already exists, Marketo updates it. Otherwise, Marketo creates the record.
 
    >[!TIP]
    >

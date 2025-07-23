@@ -63,7 +63,7 @@ Ask your IT staff to setup the following CNAME: (Replace the word [CNAME] and [M
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Enter your CNAME in **Domain name for Landing Pages**, enter your **Fallback page**, enter your **Homepage** and click **Save**.
+1. Enter your CNAME in **[!UICONTROL Domain name for Landing Pages]**, enter your **[!UICONTROL Fallback page]**, enter your **[!UICONTROL Homepage]** and click **[!UICONTROL Save]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

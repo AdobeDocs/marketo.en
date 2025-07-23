@@ -19,7 +19,7 @@ Lists and Smart Lists can be shared and referenced across workspaces for easy re
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. Right-click a campaign folder. Select **New Folder**.
+1. Right-click a campaign folder. Select **[!UICONTROL New Folder]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 

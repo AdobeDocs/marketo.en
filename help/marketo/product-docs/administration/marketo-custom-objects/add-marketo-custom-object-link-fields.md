@@ -60,7 +60,7 @@ Here's how to create a link field in a custom object for a one-to-many structure
 
    >[!NOTE]
    >
-   >Only string field types are supported in the link field.
+   >Only string field types are supported in the [!UICONTROL Link Field].
 
 1. Click **[!UICONTROL Save]**.
 

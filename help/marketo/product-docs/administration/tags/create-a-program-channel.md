@@ -55,7 +55,7 @@ A program is one specific marketing initiative. The channel is intended to be th
    >
    >Check out the Progressions of existing channels to get an idea of how to use them.
 
-1. Let's go with the Party channel example. Name your new **Channel** and select the program type it will apply to.
+1. Let's go with the Party channel example. Name your new **[!UICONTROL Channel]** and select the program type it will apply to.
 
    ![](assets/create-a-program-channel-5.png)
 
@@ -105,7 +105,7 @@ A program is one specific marketing initiative. The channel is intended to be th
 
    >[!TIP]
    >
-   >If a new person is created in the mobile check-in app, it will be set to Registered in the event program. If a person is checked into the event on the app, it will be set to Attended in the event program.
+   >If a new person is created in the mobile check-in app, it will be set to [!UICONTROL Registered] in the event program. If a person is checked into the event on the app, it will be set to [!UICONTROL Attended] in the event program.
 
 1. Select the **[!UICONTROL Success]** program status, then click **[!UICONTROL Create]**.
 

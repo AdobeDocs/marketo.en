@@ -53,6 +53,6 @@ Marketo Engage has a special user role for the event check-in app. Here's how to
 
    >[!TIP]
    >
-   >For existing users, you may either create a new role or add the Access Mobile Application permission to the current role.
+   >For existing users, you may either create a new role or add the [!UICONTROL Access Mobile Application] permission to the current role.
 
 The user will receive an email telling them they have access to the check-in app.

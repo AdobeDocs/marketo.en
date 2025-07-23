@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 ---
 # Email Connection Throttling {#email-connection-throttling}
 
-Integrating your Sales Connect account to send through Exchange or Gmail email providers offers a streamlined setup and optimizes email deliverability for 1:1 sales communication. However, to keep systems healthy and accounts safe, Gmail and Exchange enforce email send limits. These limits are open to be increased or decreased at the providers' discretion.
+Integrating your [!DNL Sales Connect] account to send through [!DNL Exchange] or Gmail email providers offers a streamlined setup and optimizes email deliverability for 1:1 sales communication. However, to keep systems healthy and accounts safe, Gmail and [!DNL Exchange] enforce email send limits. These limits are open to be increased or decreased at the providers' discretion.
 
 ## Email Connection Throttling (Beta) {#email-connection-throttling-beta}
 
@@ -16,22 +16,22 @@ When limits are consistently exceeded this can sometimes be seen as suspicious b
 
 **Notes/Highlights**
 
-* Automatically enabled once a user connects to Gmail or Exchange
+* Automatically enabled once a user connects to Gmail or [!DNL Exchange]
 * Can be customized if you want to increase or decrease settings from recommendation to meet your needs
-* Only throttles emails sent through Gmail or Exchange, does not throttle for custom delivery channel
+* Only throttles emails sent through Gmail or [!DNL Exchange], does not throttle for custom delivery channel
 * The Email Connection throttling queues up each individual users emails separately as each user has their own connection with their email provider
 
 **Configuring your Email Connection Throttling Settings**
 
-1. Click the gear icon and select **Settings**.
+1. Click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Under Admin Settings, click **General**.
+1. Under [!UICONTROL Admin Settings], click **[!UICONTROL General]**.
 
    ![](assets/email-connection-throttling-2.png)
 
-1. In the Email Connection Throttling card on the right, click the **Enable Email Throttling** slider.
+1. In the Email Connection Throttling card on the right, click the **[!UICONTROL Enable Email Throttling]** slider.
 
    ![](assets/email-connection-throttling-3.png)
 
@@ -43,15 +43,15 @@ When limits are consistently exceeded this can sometimes be seen as suspicious b
 
    ![](assets/email-connection-throttling-5.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/email-connection-throttling-6.png)
 
-With the changes saved, all users will have their emails sent in batches to their connected Gmail or Exchange account for delivery.
+With the changes saved, all users will have their emails sent in batches to their connected Gmail or [!DNL Exchange] account for delivery.
 
 ## Email Provider Limits {#email-provider-limits}
 
-**Outlook 365**
+**[!DNL Outlook 365]**
 
 Business/Enterprise
 
@@ -69,7 +69,7 @@ More information [can be found here](https://docs.microsoft.com/en-us/office365/
 
 More information [can be found here](https://support.google.com/a/answer/166852?hl=en).
 
-**Microsoft Exchange Server (2010, 2013)**
+**[!DNL Microsoft Exchange Server (2010, 2013)]**
 
 Limits are set by the organization's IT department as the server is hosted by the organization. Contact the network or system admin as applicable for additional information.
 

@@ -16,7 +16,7 @@ When running a _referral offer_ or a _sweepstakes_, you can give credit to the r
 * **Smart List Trigger**
 * Custom JavaScript Event
 
-If you chose to use the **Smart List Trigger** option to specify a goal, you will need to use the **Give Credit to Referrer** flow step.
+If you chose to use the **Smart List Trigger** option to specify a goal, you will need to use the **[!UICONTROL Give Credit to Referrer]** flow step.
 
    ![](assets/give-credit-to-referrer-1.png)
 

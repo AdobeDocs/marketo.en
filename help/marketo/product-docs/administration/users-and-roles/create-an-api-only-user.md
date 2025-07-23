@@ -39,7 +39,7 @@ If you want to integrate with Marketo via the [REST API](https://experienceleagu
 
    >[!TIP]
    >
-   >Add an optional reason or an access expiration date. Access expiration dates are handy for short-term employees.
+   >Add an optional [!UICONTROL Reason] or an [!UICONTROL Access Expiration] date. Access expiration dates are handy for short-term employees.
 
 1. Select the **[!UICONTROL API Only]** role and check the **[!UICONTROL API Only]** checkbox. Click **[!UICONTROL Next]**.
 

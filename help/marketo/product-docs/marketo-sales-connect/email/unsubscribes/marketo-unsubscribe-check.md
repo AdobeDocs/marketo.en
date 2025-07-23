@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 ---
 # Marketo Unsubscribe Check {#marketo-unsubscribe-check}
 
-The Marketo Unsubscribe Check uses your team's connection to Marketo to prevent emails from going to people who are unsubscribed in Marketo's Lead Management system. When a sales user sends an email with Sales Connect, an API call will be made to Marketo to check if the email ID is unsubscribed. If it is, we will block the email from being sent.
+The [!UICONTROL Marketo Unsubscribe Check] uses your team's connection to Marketo to prevent emails from going to people who are unsubscribed in Marketo's Lead Management system. When a sales user sends an email with [!DNL Sales Connect], an API call will be made to Marketo to check if the email ID is unsubscribed. If it is, we will block the email from being sent.
 
 >[!NOTE]
 >
@@ -15,19 +15,19 @@ The Marketo Unsubscribe Check uses your team's connection to Marketo to prevent 
 
 ## Turning it On {#turning-it-on}
 
-1. In the web application, click the gear icon and select **Settings**.
+1. In the web application, click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/one-2.png)
 
-1. Under Admin Settings, click **Unsubscribes**.
+1. Under [!UICONTROL Admin Settings], click **[!UICONTROL Unsubscribes]**.
 
    ![](assets/two-3.png)
 
-1. Click **Integrations**.
+1. Click **[!UICONTROL Integrations]**.
 
    ![](assets/three-3.png)
 
-1. In the Marketo Unsubscribe Check section, click the slider to activate the check.
+1. In the [!UICONTROL Marketo Unsubscribe Check] section, click the slider to activate the check.
 
    ![](assets/four-2.png)
 

@@ -17,15 +17,15 @@ This feature is available on all Marketo email assets, regardless of how the ema
 
 ## Set Up Email CC {#set-up-email-cc}
 
-1. In My Marketo, click **Admin**.
+1. In My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. In the tree, select **Email**.
+1. In the tree, select **[!UICONTROL Email]**.
 
    ![](assets/two.png)
 
-1. Click **Edit Email CC Settings**.
+1. Click **[!UICONTROL Edit Email CC Settings]**.
 
    ![](assets/three.png)
 
@@ -35,11 +35,11 @@ This feature is available on all Marketo email assets, regardless of how the ema
 
 ## Using Email CC {#using-email-cc}
 
-1. Select your email and click **Edit Draft**.
+1. Select your email and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/five.png)
 
-1. Click **Email Settings**.
+1. Click **[!UICONTROL Email Settings]**.
 
    ![](assets/six.png)
 

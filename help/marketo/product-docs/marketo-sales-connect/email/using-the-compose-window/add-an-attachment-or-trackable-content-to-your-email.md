@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 ---
 # Add an Attachment or Trackable Content to Your Email {#add-an-attachment-or-trackable-content-to-your-email}
 
-When sending an email through Sales Connect, you have the option of adding a file as an attachment, or making a file a downloadable (and trackable) link.
+When sending an email through [!DNL Sales Connect], you have the option of adding a file as an attachment, or making a file a downloadable (and trackable) link.
 
 >[!NOTE]
 >
@@ -15,11 +15,11 @@ When sending an email through Sales Connect, you have the option of adding a fil
 
 ## Add an Attachment {#add-an-attachment}
 
-1. Create your email draft (there are multiple ways to do this, in this example we're choosing **Compose** in the header).
+1. Create your email draft (there are multiple ways to do this, in this example we're choosing **[!UICONTROL Compose]** in the header).
 
    ![](assets/one-4.png)
 
-1. Populate the To field and enter a Subject.
+1. Populate the [!UICONTROL To] field and enter a [!UICONTROL Subject].
 
    ![](assets/attach-two.png)
 
@@ -27,7 +27,7 @@ When sending an email through Sales Connect, you have the option of adding a fil
 
    ![](assets/attach-three.png)
 
-1. Select the file you want to attach and click **Insert**.
+1. Select the file you want to attach and click **[!UICONTROL Insert]**.
 
    ![](assets/attach-four.png)
 
@@ -41,11 +41,11 @@ The attachment appears at the bottom of your email.
 
 ## Add Trackable Content {#add-trackable-content}
 
-1. Create your email draft (there are multiple ways to do this, in this example we're choosing the Compose window).
+1. Create your email draft (there are multiple ways to do this, in this example we're choosing the [!UICONTROL Compose] window).
 
    ![](assets/one-4.png)
 
-1. Populate the To field and enter a Subject.
+1. Populate the [!UICONTROL To] field and enter a [!UICONTROL Subject].
 
    ![](assets/two-4.png)
 
@@ -53,7 +53,7 @@ The attachment appears at the bottom of your email.
 
    ![](assets/three-4.png)
 
-1. Select the content you want added, click the **Content is Tracked** slider, and click **Insert**.
+1. Select the content you want added, click the **[!UICONTROL Content is tracked]** slider, and click **[!UICONTROL Insert]**.
 
    ![](assets/four-4.png)
 

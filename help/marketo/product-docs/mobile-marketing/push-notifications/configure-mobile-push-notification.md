@@ -7,11 +7,11 @@ feature: Mobile Marketing
 ---
 # Configure Mobile Push Notification {#configure-mobile-push-notification}
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/configure-mobile-push-notification-1.png)
 
-1. Select your push asset and click **Edit Draft**.
+1. Select your push asset and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/configure-mobile-push-notification-2.png)
 
@@ -23,7 +23,7 @@ feature: Mobile Marketing
    >
    >If your Push message applies to only one platform (e.g., iOS), you can exclude the other platform by manually sliding its selector to **Disabled**.
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
    ![](assets/configure-mobile-push-notification-4.png)
 
@@ -37,13 +37,13 @@ feature: Mobile Marketing
 
    >[!NOTE]
    >
-   >There are three types of Tap Actions:
+   >There are three types of [!UICONTROL Tap Actions]:
    >
    >**Launch App** - **This App** opens the home page of your app when the notification is tapped. **Custom** uses a deep link to open other areas of your app or any other app to which you have the link (see [Deep Link URIs](#deep-link-uris) below for details).
    >
-   >**Landing Page** - takes you to a specified Marketo landing page.
+   >**[!UICONTROL Landing Page]** - takes you to a specified Marketo landing page.
    >
-   >**External URL** - takes you to a non-Marketo landing page.
+   >**[!UICONTROL External URL]** - takes you to a non-Marketo landing page.
 
 1. To insert a deep link for a custom tap action, select **Custom** and enter the [deep link URI](#deep-link-uris) in the field.
 
@@ -57,11 +57,11 @@ feature: Mobile Marketing
 
    ![](assets/configure-mobile-push-notification-7.png)
 
-1. Preview the other platform and click **Finish**.
+1. Preview the other platform and click **[!UICONTROL Finish]**.
 
    ![](assets/configure-mobile-push-notification-8.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/configure-mobile-push-notification-9.png)
 

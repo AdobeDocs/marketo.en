@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2949283
-description: Send and Track from Outlook Using a Marketo Template - Marketo Docs - Product Documentation
-title: Send and Track from Outlook Using a Marketo Template
+description: Send and Track from [!DNL Outlook] Using a Marketo Template - Marketo Docs - Product Documentation
+title: Send and Track from [!DNL Outlook] Using a Marketo Template
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
 ---
-# Send and Track from Outlook Using a Marketo Template {#send-and-track-from-outlook-using-a-marketo-template}
+# Send and Track from [!DNL Outlook] Using a Marketo Template {#send-and-track-from-outlook-using-a-marketo-template}
 
 If your marketing team has made templates available to you, here's how you can use them to save time when composing your emails.
 
@@ -17,11 +17,11 @@ If your marketing team has made templates available to you, here's how you can u
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. Select the template you want, preview it, and click **OK**.
+1. Select the template you want, preview it, and click **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. Make all your edits, then click **Send and Track**.
+1. Make all your edits, then click **[!UICONTROL Send and Track]**.
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
@@ -29,7 +29,7 @@ If your marketing team has made templates available to you, here's how you can u
    >
    >Tokens are not supported with the add-in. Remove any that might be in the template.
 
-1. Check out the preview, make sure it looks good, then click **Send**.
+1. Check out the preview, make sure it looks good, then click **[!UICONTROL Send]**.
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 

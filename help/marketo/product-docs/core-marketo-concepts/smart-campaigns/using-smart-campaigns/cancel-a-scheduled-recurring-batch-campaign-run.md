@@ -13,7 +13,7 @@ If you have a recurring Batch Campaign that you don't want any more, you can can
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Click **Schedule Recurrence**.
+1. Click **[!UICONTROL Schedule Recurrence]**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 

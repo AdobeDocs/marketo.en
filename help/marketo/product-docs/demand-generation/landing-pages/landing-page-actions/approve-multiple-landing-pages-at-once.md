@@ -7,11 +7,11 @@ feature: Landing Pages
 ---
 # Approve Multiple Landing Pages at Once {#approve-multiple-landing-pages-at-once}
 
-1. Go to **Design Studio**.
+1. Go to **[!UICONTROL Design Studio]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
-1. Click **Landing Pages**.
+1. Click **[!UICONTROL Landing Pages]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-2.png)
 

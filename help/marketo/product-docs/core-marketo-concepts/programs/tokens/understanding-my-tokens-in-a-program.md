@@ -67,7 +67,7 @@ Examples:
 
 >[!CAUTION]
 >
->My Tokens will not resolve when sending an email from Sales Insight on either Microsoft Dynamics or Salesforce; only standard tokens will populate (Lead, Company, etc.). Default values for tokens _will_ work, however.
+>My Tokens will not resolve when sending an email from Sales Insight on either [!DNL Microsoft Dynamics] or [!DNL Salesforce]; only standard tokens will populate (Lead, Company, etc.). Default values for tokens _will_ work, however.
 
 ## Nesting Tokens {#nesting-tokens}
 

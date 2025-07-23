@@ -9,15 +9,15 @@ feature: Engagement Programs
 
 Engagement programs can hold more than one stream. Here's how to add a new one.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Select your engagement program and click the **Streams** tab.
+1. Select your engagement program and click the **[!UICONTROL Streams]** tab.
 
    ![](assets/streamstablifecycle.jpg)
 
-1. Click **Add Stream**.
+1. Click **[!UICONTROL Add Stream]**.
 
    ![](assets/image2014-9-15-16-3a56-3a23.png)
 

@@ -14,7 +14,7 @@ Let's get started by creating a user account.
 
 ## Create a new user {#create-a-new-user}
 
-1. Log in to Dynamics. Click the Settings icon and select **[!UICONTROL Advanced Settings]**.
+1. Log-in to [!DNL Dynamics]. Click the [!UICONTROL Settings] icon and select **[!UICONTROL Advanced Settings]**.
 
    ![](assets/one.png)
 
@@ -64,13 +64,13 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
 >[!NOTE]
 >
->This applies to Marketo version 4.0.0.14 and later. For earlier versions, all users must have the sync user role. To upgrade Marketo, see [Upgrade Marketo Solution for Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
+>This applies to Marketo version 4.0.0.14 and later. For earlier versions, all users must have the sync user role. To upgrade Marketo, see [Upgrade Marketo Solution for [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
 >The language setting of the Sync User [should be set to English](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
-1. Go back to the **[!UICONTROL Enabled Users]** tab and refresh the users list.
+1. Go back to the [!UICONTROL Enabled Users] tab and refresh the users list.
 
    ![](assets/ten.png)
 
@@ -94,13 +94,13 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
 Almost there! All we have left is to inform Marketo Solution about the new user created.
 
-1. Go back to the Advanced Settings section and click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to Settings, and select **[!UICONTROL Marketo Config]**.
+1. Go back to the [!UICONTROL Advanced Settings] section and click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to [!UICONTROL Settings], and select **[!UICONTROL Marketo Config]**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >If you don't see **[!UICONTROL Marketo Config]** in the Settings menu, refresh the page. If that doesn't work, try to [publish the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"} again or log out and back in.
+   >If you don't see **[!UICONTROL Marketo Config]** in the [!UICONTROL Settings] menu, refresh the page. If that doesn't work, try to [publish the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) again or log out and back in.
 
 1. Click **[!UICONTROL Default]**.
 
@@ -118,7 +118,7 @@ Almost there! All we have left is to inform Marketo Solution about the new user 
 
    ![](assets/seventeen.png)
 
-1. Click the ![](assets/image2015-5-13-15-3a49-3a19-1.png) icon next to Settings, and select **[!UICONTROL Solutions]**.
+1. Click the ![](assets/image2015-5-13-15-3a49-3a19-1.png) icon next to [!UICONTROL Settings], and select **[!UICONTROL Solutions]**.
 
    ![](assets/eighteen.png)
 

@@ -25,7 +25,7 @@ A Smart List displays a default set of columns. Did you know you could edit thos
 
 >[!TIP]
 >
->To quickly search, use the **Find** box.
+>To quickly search, use the **[!UICONTROL Find]** box.
 
 ## Switch Views {#switch-views}
 

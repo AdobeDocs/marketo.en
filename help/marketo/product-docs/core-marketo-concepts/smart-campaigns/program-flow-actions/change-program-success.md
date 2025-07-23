@@ -25,7 +25,7 @@ If you ever have a group of people that are marked with Program Success incorrec
 
    >[!NOTE]
    >
-   >Setting Success Date to anything automatically sets Success to true. Setting Success to true automatically sets the Success Date to the current date.
+   >Setting [!UICONTROL Success Date] to anything automatically sets Success to true. Setting [!UICONTROL Success] to true automatically sets the Success Date to the current date.
 
 1. Set the **[!UICONTROL New Value]** to **[!UICONTROL True]** or **[!UICONTROL False]**.
 

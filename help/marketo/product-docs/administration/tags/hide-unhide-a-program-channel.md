@@ -35,6 +35,6 @@ Easy come, easy go!
 
 ## Unhide a Program Channel {#unhide-a-program-channel}
 
-1. Unhide a Program Channel by checking the Show Hidden checkbox.
+1. Unhide a Program Channel by checking the **[!UICONTROL Show Hidden]** checkbox.
 
    ![](assets/hide-unhide-a-program-channel-5.png)

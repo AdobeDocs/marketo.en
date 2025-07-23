@@ -9,19 +9,19 @@ feature: Reporting, Revenue Cycle Analytics
 
 Change your mind? Not a problem. Renaming a stage in the revenue cycle modeler is easy.
 
-1. Go to the **Analytics** area.
+1. Go to the **[!UICONTROL Analytics]** area.
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
-1. Select a revenue cycle modeler to update. Click **Edit Draft**.
+1. Select a revenue cycle modeler to update. Click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-4-27-17-3a36-3a33.png)
 
-1. Select the stage you want to update and enter a new **Name**.
+1. Select the stage you want to update and enter a new **[!UICONTROL Name]**.
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
-1. Click **Close**.
+1. Click **[!UICONTROL Close]**.
 
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 

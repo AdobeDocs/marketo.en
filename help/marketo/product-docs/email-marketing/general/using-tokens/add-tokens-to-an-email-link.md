@@ -9,7 +9,7 @@ feature: Tokens
 
 To insert extra and person-specific parameters into your links, you can use tokens. Here's how.
 
-1. Select your email and click the **Edit Draft** tab.
+1. Select your email and click the **[!UICONTROL Edit Draft]** tab.
 
    ![](assets/one.png)
 
@@ -17,15 +17,15 @@ To insert extra and person-specific parameters into your links, you can use toke
 
    ![](assets/two.png)
 
-1. Locate or write the text for the link. Highlight it, and click the **Insert/Edit Link** icon.
+1. Locate or write the text for the link. Highlight it, and click the **[!UICONTROL Insert/Edit Link]** icon.
 
    ![](assets/three.png)
 
-1. Type the desired token(s) in **URL** and click **Insert**.
+1. Type the desired token(s) in **[!UICONTROL URL]** and click **[!UICONTROL Insert]**.
 
    ![](assets/four.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/five.png)
 

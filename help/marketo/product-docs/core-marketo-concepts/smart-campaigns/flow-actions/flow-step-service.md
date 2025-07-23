@@ -6,7 +6,7 @@ feature: Smart Campaigns
 ---
 # Flow Step Service {#flow-step-service}
 
-Self-service Flow Steps is a framework and set of features for authoring, publishing, and integrating web services into Adobe Marketo Engage Smart Campaigns. This guide is intended for Marketo Engage end users who want to install and use services which have already been created and published. For information on authoring and publishing your own service, please refer to the [GitHub repository for the Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+Self-service Flow Steps is a framework and set of features for authoring, publishing, and integrating web services into Adobe Marketo Engage Smart Campaigns. This guide is intended for Marketo Engage end users who want to install and use services which have already been created and published. For information on authoring and publishing your own service, please refer to the [[!DNL GitHub] repository for the Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Onboarding and Managing Services {#onboarding-and-managing-services}
 
@@ -14,7 +14,7 @@ Installing a custom flow step requires Admin permissions in Marketo. Apart from 
 
 ## Installation URL {#installation-url}
 
-To begin installation, you'll need to first obtain the URL of the OpenAPI document that defines your service. Your service provider should be able to provide this to you and will usually have a URL ending in `/openapi.json`. Complete URLs will look something like `https://www.example.com/OpenAPI.json`. Once you have this URL, go to the Service Providers menu in your Admin Section.
+To begin installation, you'll need to first obtain the URL of the OpenAPI document that defines your service. Your service provider should be able to provide this to you and will usually have a URL ending in `/openapi.json`. Complete URLs will look something like `https://www.example.com/OpenAPI.json`. Once you have this URL, go to the [!UICONTROL Service Providers] menu in your [!UICONTROL Admin] Section.
 
 Click **[!UICONTROL Next]** to go to the Enter Service Credentials section.
 
@@ -84,7 +84,7 @@ Installed flow steps can be used in largely the same way as standard flow steps.
 
 ## Refreshing Picklists {#refreshing-picklists}
 
-Marketo will refresh picklist choices for services every night, but there are times when you will need new choices available, such as campaign creation. You can refresh these easily from any instance of your flow step using the refresh button, or by going to the Admin > Service Providers menu and clicking Refresh Picklist once you have selected your service.
+Marketo will refresh picklist choices for services every night, but there are times when you will need new choices available, such as campaign creation. You can refresh these easily from any instance of your flow step using the refresh button, or by going to the [!UICONTROL Admin] > [!UICONTROL Service Providers] menu and clicking [!UICONTROL Refresh Picklist] once you have selected your service.
 
 ## Checking Incoming Fields {#checking-incoming-fields}
 

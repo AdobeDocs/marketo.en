@@ -9,11 +9,11 @@ feature: Reporting
 
 Create a duplicate of your report to customize it further without changing the original.
 
-1. Go to **Marketing Activities** (or **Analytics**) area.
+1. Go to **[!UICONTROL Marketing Activities]** (or **[!UICONTROL Analytics]**) area.
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Select your report. Select **Report Actions** > **Clone a Report**.
+1. Select your report. Select **[!UICONTROL Report Actions]** > **[!UICONTROL Clone a Report]**.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 

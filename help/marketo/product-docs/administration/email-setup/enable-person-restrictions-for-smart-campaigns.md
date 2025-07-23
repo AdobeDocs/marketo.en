@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360243
-description: Enable Person Restrictions for Smart Campaigns - Marketo Docs - Product Documentation
-title: Enable Person Restrictions for Smart Campaigns
+description: "Enable Person Restrictions for Smart Campaigns - Marketo Docs - Product Documentation"
+title: "Enable Person Restrictions for Smart Campaigns"
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 feature: Email Setup
 ---

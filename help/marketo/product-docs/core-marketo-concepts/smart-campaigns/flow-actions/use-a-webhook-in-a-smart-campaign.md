@@ -23,7 +23,7 @@ To use a [webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/
 
    ![](assets/use-a-webhook-in-a-smart-campaign-1.png)
 
-1. Select the Webhook.
+1. Select the **[!UICONTROL Webhook]**.
 
    ![](assets/use-a-webhook-in-a-smart-campaign-2.png)
 

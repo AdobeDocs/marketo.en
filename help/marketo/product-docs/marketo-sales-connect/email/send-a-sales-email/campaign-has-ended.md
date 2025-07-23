@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 ---
 # Campaign Has Ended {#campaign-has-ended}
 
-If you see an email in your Failed Delivery folder saying "campaign has ended," it means this particular email was a scheduled email in your campaign.
+If you see an email in your [!UICONTROL Failed Delivery] folder saying "campaign has ended," it means this particular email was a scheduled email in your campaign.
 
 ## Possible Reasons it Failed {#possible-reasons-it-failed}
 
@@ -15,4 +15,4 @@ If you see an email in your Failed Delivery folder saying "campaign has ended," 
 * A contact replied and ended the campaign
 * The campaign was ended manually
 
-We're looking to remove these emails from your Failed Delivery folder to cut down on clutter.
+We're looking to remove these emails from your [!UICONTROL Failed Delivery] folder to cut down on clutter.

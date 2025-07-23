@@ -18,7 +18,7 @@ feature: Email Programs
 
 Once you've [created an email program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) and defined your audience, you will want to decide what email you're sending. You can [create an email for an email program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) from scratch or pick one that already exists. Here's how to pick one that already exists.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -26,7 +26,7 @@ Once you've [created an email program](/help/marketo/product-docs/email-marketin
 
    ![](assets/selectemailprogram.jpg)
 
-1. Under the **Email** tile, select the one you want to send.
+1. Under the **[!UICONTROL Email]** tile, select the one you want to send.
 
    ![](assets/image2014-9-12-11-3a28-3a10.png)
 

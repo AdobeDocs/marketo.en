@@ -1,11 +1,11 @@
 ---
 unique-page-id: 11377488
-description: Install the Marketo Add-in for Outlook with an Enterprise Key - Marketo Docs - Product Documentation
-title: Install the Marketo Add-in for Outlook with an Enterprise Key
+description: Install the Marketo Add-in for [!DNL Outlook] with an Enterprise Key - Marketo Docs - Product Documentation
+title: Install the Marketo Add-in for [!DNL Outlook] with an Enterprise Key
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
 ---
-# Install the Marketo Add-in for Outlook with an Enterprise Key {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
+# Install the Marketo Add-in for [!DNL Outlook] with an Enterprise Key {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
 Many times, sales reps don't have administrative privileges on their laptops, and their IT teams are responsible for installing all software remotely. The Marketo Add-in for Outlook can be installed this way using your Enterprise Key, which can be found in the Sales Insight section of Admin. If you don't see the View Enterprise Key button, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to enable it.
 
@@ -21,19 +21,19 @@ Many times, sales reps don't have administrative privileges on their laptops, an
 >
 >Microsoft has released a [new version of Outlook for Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
-1. In My Marketo, click **Admin** and then **Sales Insight**.
+1. In My Marketo, click **[!UICONTROL Admin]** and then **[!UICONTROL Sales Insight]**.
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
-1. Click the **Email Add-In** tab.
+1. Click the **[!UICONTROL Email Add-In]** tab.
 
    ![](assets/image2016-7-25-14-3a23-3a57.png)
 
-1. Click **View Enterprise Key**.
+1. Click **[!UICONTROL View Enterprise Key]**.
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. Copy the Outlook Enterprise License Key and paste it into an email, along with [this link](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md), and send it to your IT department for remote installation.
+1. Copy the [!DNL Outlook Enterprise] License Key and paste it into an email, along with [this link](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md), and send it to your IT department for remote installation.
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 

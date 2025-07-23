@@ -13,11 +13,11 @@ feature: Snippets
 
 Snippets are blocks of dynamic content that change based on segmentation rules.
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-3.png)
 
-1. Click on your snippet and then **Preview Snippet**.
+1. Click on your snippet and then **[!UICONTROL Preview Snippet]**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 

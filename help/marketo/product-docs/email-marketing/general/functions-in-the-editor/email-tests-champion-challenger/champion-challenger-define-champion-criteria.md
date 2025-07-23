@@ -15,7 +15,7 @@ Once you've set up your test type, you need to define the champion criteria. Her
 
 ## Standard Champion Criteria {#standard-champion-criteria}
 
-1. Pick one of the available **Champion Criteria**.
+1. Pick one of the available **[!UICONTROL Champion Criteria]**.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -27,7 +27,7 @@ Once you've set up your test type, you need to define the champion criteria. Her
 
 ## Custom Champion Criteria {#custom-champion-criteria}
 
-1. If you want to get fancy, you can go custom by selecting **Custom Conversion** and clicking **Edit**.
+1. If you want to get fancy, you can go custom by selecting **[!UICONTROL Custom Conversion Ratio]** and clicking **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -43,9 +43,9 @@ Once you've set up your test type, you need to define the champion criteria. Her
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo only allows triggers for people who have been sent the email from this email program. No need to add a "Was Sent Email" filter.
+   Marketo only allows triggers for people who have been sent the email from this email program. No need to add a "[!UICONTROL Was Sent Email]" filter.
 
-1. Click **Close**.
+1. Click **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 

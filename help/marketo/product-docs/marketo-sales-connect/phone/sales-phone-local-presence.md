@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 ---
 # Sales Phone Local Presence {#sales-phone-local-presence}
 
-When you want to look like you are calling from someone's same area code, simply check the **Local Presence** box before making the call.
+When you want to look like you are calling from someone's same area code, simply check the **[!UICONTROL Local Presence]** box before making the call.
 
 ## Local Presence FAQ {#local-presence-faq}
 

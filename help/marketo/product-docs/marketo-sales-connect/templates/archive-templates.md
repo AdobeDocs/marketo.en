@@ -7,9 +7,9 @@ feature: Marketo Sales Connect
 ---
 # Archive Templates {#archive-templates}
 
-Archive content to clean up your Sales Content account without losing any template data.
+Archive content to clean up your [!DNL Sales Content] account without losing any template data.
 
-Check the box next to a template and click **Archive**.
+Check the box next to a template and click **[!UICONTROL Archive]**.
 
 >[!NOTE]
 >

@@ -23,9 +23,9 @@ For future Smart Campaigns that are scheduled but have not yet run, the Marketo 
 
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
-1. The details card gives you access to information on the Smart List filters, Flow, and Email Summary.
+1. The details card gives you access to information on the [!UICONTROL Smart List] filters, [!UICONTROL Flow], and [!UICONTROL Email Summary].
 
-1. Tap **Smart List**.
+1. Tap **[!UICONTROL Smart List]**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -33,7 +33,7 @@ For future Smart Campaigns that are scheduled but have not yet run, the Marketo 
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Tap **Flow**.
+1. Tap **[!UICONTROL Flow]**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -41,7 +41,7 @@ For future Smart Campaigns that are scheduled but have not yet run, the Marketo 
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Click **Email Summary**.
+1. Click **[!UICONTROL Email Summary]**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -65,7 +65,7 @@ It's a good idea to get a look at an email before it goes out. Or, send a sample
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tap [Send Sample](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) or [Preview Email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (click these links for details).
+1. Tap [[!UICONTROL Send Sample]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) or [[!UICONTROL Preview Email]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (click these links for details).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -77,11 +77,11 @@ Cards for unconfirmed Smart Campaigns are gray until you confirm them. Then, the
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Tap **Confirm**.
+1. Tap **[!UICONTROL Confirm]**.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Tap **Confirm** to finish the job, or **Never Mind** if you have second thoughts.
+1. Tap **[!UICONTROL Confirm]** to finish the job, or **[!UICONTROL Never Mind]** if you have second thoughts.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -97,7 +97,7 @@ You can cancel a confirmed, scheduled Smart Campaign run.
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Tap **Cancel Run**.
+1. Tap **[!UICONTROL Cancel Run]**.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
@@ -113,11 +113,11 @@ You can reschedule a confirmed Smart Campaign that hasn't run yet.
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Tap **Reschedule**.
+1. Tap **[!UICONTROL Reschedule]**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Select a date on the calendar and tap **Reschedule**.
+1. Select a date on the calendar and tap **[!UICONTROL Reschedule]**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -135,7 +135,7 @@ As with other Marketo Moments cards, you can tap the three dots on any Smart Cam
 
 >[!NOTE]
 >
->You can also tap the **Share** icon on a Smart Campaign card to share, and the **Done** and **Favorite** icons on the details card.
+>You can also tap the **[!UICONTROL Share]** icon on a Smart Campaign card to share, and the **[!UICONTROL Done]** and **[!UICONTROL Favorite]** icons on the details card.
 
 ## Quickly Delete a Smart Campaign Card {#quickly-delete-a-smart-campaign-card}
 

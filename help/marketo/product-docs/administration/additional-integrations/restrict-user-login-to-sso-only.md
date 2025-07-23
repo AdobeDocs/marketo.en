@@ -21,7 +21,7 @@ If you're [using SSO](/help/marketo/product-docs/administration/additional-integ
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
-1. Click **[!UICONTROL Login Setting]s**.
+1. Click **[!UICONTROL Login Settings]**.
 
    ![](assets/restrict-user-login-to-sso-only-2.png)
 

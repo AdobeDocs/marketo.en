@@ -9,7 +9,7 @@ feature: Mobile Marketing
 
 Send your message now or schedule it for later.
 
-1. To schedule an in-app message, select **Set future date** and choose a start date from the drop-down calendar.
+1. To schedule an in-app message, select **[!UICONTROL Set future date]** and choose a start date from the drop-down calendar.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -21,7 +21,7 @@ Send your message now or schedule it for later.
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. Or, to run the program right now, select **Run Immediately**. The Start Date fields disappear.
+1. Or, to run the program right now, select **[!UICONTROL Run Immediately]**. The Start Date fields disappear.
 
    ![](assets/schedule-your-in-app-message-4.png)
 

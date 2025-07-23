@@ -37,6 +37,6 @@ To make use of your [Marketing Calendar](/help/marketo/product-docs/core-marketo
 
    ![](assets/4.png)
 
-   Nicely done! See the green checkmark under 'Calendar?'
+   Nicely done! See the green checkmark under '[!UICONTROL Calendar]?'
 
    ![](assets/5.png)

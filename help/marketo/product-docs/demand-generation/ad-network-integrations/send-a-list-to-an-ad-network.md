@@ -6,15 +6,15 @@ feature: Integrations
 ---
 # Send a List to an Ad Network {#send-a-list-to-an-ad-network}
 
-Learn how to send a static list to LinkedIn, Facebook, or Google.
+Learn how to send a Static List to [!DNL LinkedIn], [!DNL Facebook], or Google.
 
 ## How to Send a List {#how-to-send-a-list}
 
-1. In Marketo Engage, select your list, click the **[!UICONTROL List Actions]** drop-down, and select **[!UICONTROL Send to Ad Network]**.
+1. In Marketo, select your list, click the **[!UICONTROL List Actions]** drop-down, and select **[!UICONTROL Send to Ad Network]**.
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. Choose between LinkedIn, Facebook, or Google (the other options are not available at this time). In this example, we're choosing **[!UICONTROL LinkedIn]**. Click **[!UICONTROL Next]**.
+1. Choose between [!DNL LinkedIn], [!DNL Facebook], or Google (the other options are not available at this time). In this example, we're choosing **[!DNL LinkedIn]**. Click **[!UICONTROL Next]**.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
@@ -26,13 +26,13 @@ Learn how to send a static list to LinkedIn, Facebook, or Google.
    >
    >If you ever need to check, you can see the destination audience that a list is being synced to via the Status tab.
 
-1. Choose your desired Push Type and click **[!UICONTROL Update]**.
+1. Choose your desired [!UICONTROL Push Type] and click **[!UICONTROL Update]**.
 
    ![](assets/send-a-list-to-an-ad-network-4.png)
 
    >[!NOTE]
    >
-   >If you select "Enable continuous audience sync," Marketo keeps the list up-to-date in the chosen Ad Network as the list changes in your Marketo instance. We both add _and_ remove people from the audience if they're added to/removed from the static list.
+   >If you select "[!UICONTROL Enable continuous audience sync]," Marketo keeps the list up-to-date in the chosen Ad Network as the list changes in your Marketo instance. We both add **and** remove people from the audience if they’re added to/removed from the static list.
 
 1. And that's it! Click **[!UICONTROL OK]** to exit.
 

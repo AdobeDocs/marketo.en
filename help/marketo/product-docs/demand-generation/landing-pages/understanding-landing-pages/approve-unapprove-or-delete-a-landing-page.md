@@ -11,7 +11,7 @@ Landing pages are in draft mode until you approve them. Approval makes pages ava
 
 ## Approve a Landing Page {#approve-a-landing-page}
 
-1. Select a landing page, go to **Landing Page Actions** and click **Approve**.
+1. Select a landing page, go to **[!UICONTROL Landing Page Actions]** and click **[!UICONTROL Approve]**.
 
    >[!TIP]
    >
@@ -19,7 +19,7 @@ Landing pages are in draft mode until you approve them. Approval makes pages ava
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. You can also right click your landing page and click **Approve**.
+1. You can also right click your landing page and click **[!UICONTROL Approve]**.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -29,11 +29,11 @@ Landing pages are in draft mode until you approve them. Approval makes pages ava
 
 ## Unapprove a Landing Page {#unapprove-a-landing-page}
 
-1. Select a landing page, go to **Landing Page Actions** and click **Unapprove**.
+1. Select a landing page, go to **[!UICONTROL Landing Page Actions]** and click **[!UICONTROL Unapprove]**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. You can also right-click your landing page and click **Unapprove**.
+1. You can also right-click your landing page and click **[!UICONTROL Unapprove]**.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
@@ -43,7 +43,7 @@ Landing pages are in draft mode until you approve them. Approval makes pages ava
 
 ## Delete a Landing Page {#delete-a-landing-page}
 
-1. Select a landing page, go to **Landing Page Actions** and click **Delete**.
+1. Select a landing page, go to **[!UICONTROL Landing Page Actions]** and click **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -51,7 +51,7 @@ Landing pages are in draft mode until you approve them. Approval makes pages ava
    >
    >You cannot delete an approved landing page. Unapprove it first.
 
-1. You can also right click your landing page and click **Delete**.
+1. You can also right click your landing page and click **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
@@ -59,7 +59,7 @@ Landing pages are in draft mode until you approve them. Approval makes pages ava
 
 Want to delete more than one landing page at a time? Here's how.
 
-1. In Design Studio, click **Landing Pages**.
+1. In [!UICONTROL Design Studio], click **[!UICONTROL Landing Pages]**.
 
    ![](assets/one.png)
 
@@ -71,11 +71,11 @@ Want to delete more than one landing page at a time? Here's how.
    >
    >You can also utilize ctrl+click to delete multiple landing pages that are not sequential.
 
-1. Click the **Landing Page Actions** drop-down and select **Delete**.
+1. Click the **[!UICONTROL Landing Page Actions]** drop-down and select **[!UICONTROL Delete]**.
 
    ![](assets/three.png)
 
-1. Click **Delete**.
+1. Click **[!UICONTROL Delete]**.
 
    ![](assets/four.png)
 

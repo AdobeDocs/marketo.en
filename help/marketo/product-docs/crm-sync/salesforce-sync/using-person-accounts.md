@@ -11,11 +11,11 @@ Person accounts can be set up in Salesforce to fit the need of your organization
 
 >[!NOTE]
 >
->The default Salesforce accounts are business accounts. Your Salesforce Admin needs to set up person accounts separately.
+>The default [!DNL Salesforce] accounts are business accounts. Your [!DNL Salesforce] Admin needs to set up person accounts separately.
 
 ## What is a person account? {#what-is-a-person-account}
 
-A person account is very similar to the account object in Salesforce. However, a person account has access to both account fields and contact fields.
+A person account is very similar to the account object in [!DNL Salesforce]. However, a person account has access to both account fields and contact fields.
 
 ## What happens when a person account is synced to Marketo? {#what-happens-when-a-person-account-is-synced-to-marketo}
 
@@ -43,4 +43,4 @@ Marketo depends on the opportunity contact role to determine which person to ass
 
 ## Which email field should I use for person accounts? {#which-email-field-should-i-use-for-person-accounts}
 
-There are two email fields for a person account. Use the **Email Address** field in your forms (not the **Person Email Address**) to ensure Marketo's de-duplication and other email processing work properly.
+There are two email fields for a person account. Use the **[!UICONTROL Email Address]** field in your forms (not the **[!UICONTROL Person Email Address]**) to ensure Marketo's de-duplication and other email processing work properly.

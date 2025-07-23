@@ -33,7 +33,7 @@ Configure Adobe Experience Manager (AEM) so you can access, select, and import A
 
    ![](assets/2a.png)
 
-1. In your browser, search (ctrl+f on Windows, cmd+f on Mac) for "Adobe Granite Cross-Origin Resource Sharing Policy."
+1. In your browser, search (ctrl+f on Windows, cmd+f on Mac) for "[!UICONTROL Adobe Granite Cross-Origin Resource Sharing Policy]."
 
    ![](assets/three.png)
 

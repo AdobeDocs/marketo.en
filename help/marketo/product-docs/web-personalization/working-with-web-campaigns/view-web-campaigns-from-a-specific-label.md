@@ -11,7 +11,7 @@ Looking to view and filter your campaigns according to a specific label?
 
 ## Filter by existing labels {#filter-by-existing-labels}
 
-1. Go to **Web Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -25,6 +25,6 @@ Looking to view and filter your campaigns according to a specific label?
 
 >[!MORELIKETHIS]
 >
->* [Label Your Web Campaigns](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [Label Your [!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
 >* [View Segments from a Specific Label](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
 >* [Label your Segments](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

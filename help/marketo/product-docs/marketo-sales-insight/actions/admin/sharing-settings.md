@@ -14,15 +14,15 @@ When Sharing Settings is enabled, only admins will be able to share into categor
 
 ## Configure Your Sharing Settings {#configure-your-sharing-settings}
 
-1. In the [web application](https://toutapp.com/login), click the gear icon and select **Settings**.
+1. In the [web application](https://toutapp.com/login), click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/sharing-settings-1.png)
 
-1. Under Admin Settings, select **Sharing Access**.
+1. Under [!UICONTROL Admin Settings], select **[!UICONTROL Sharing Access]**.
 
    ![](assets/sharing-settings-2.png)
 
-1. Make sure **Sharing Settings** is enabled. This means by default, only Admins will be able to share templates in your template categories.
+1. Make sure **[!UICONTROL Sharing Settings]** is enabled. This means by default, only Admins will be able to share templates in your template categories.
 
    ![](assets/sharing-settings-3.png)
 
@@ -30,7 +30,7 @@ When Sharing Settings is enabled, only admins will be able to share into categor
 
    ![](assets/sharing-settings-4.png)
 
-1. Click **Add Teams for Access**.
+1. Click **[!UICONTROL Add Teams for Access]**.
 
    ![](assets/sharing-settings-5.png)
 
@@ -42,7 +42,7 @@ When Sharing Settings is enabled, only admins will be able to share into categor
    >
    >If you don't see any teams, you'll need to go to Team Management and create a team of users.
 
-1. Click **Add Teams for Access** to save.
+1. Click **[!UICONTROL Add Teams for Access]** to save.
 
    ![](assets/sharing-settings-7.png)
 

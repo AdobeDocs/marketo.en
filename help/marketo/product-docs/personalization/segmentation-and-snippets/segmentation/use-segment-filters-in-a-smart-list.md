@@ -5,11 +5,11 @@ title: Use Segment Filters in a Smart List
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 feature: Segmentation
 ---
-# Use Segment Filters in a Smart List {#use-segment-filters-in-a-smart-list}
+# Use Segment Filters in a [!UICONTROL Smart List] {#use-segment-filters-in-a-smart-list}
 
 >[!PREREQUISITES]
 >
->* [Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Create a [!UICONTROL Smart List]](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [Create a Segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 Optimize your Smart Lists performance by using Segment filters.

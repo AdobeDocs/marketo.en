@@ -48,7 +48,7 @@ It's okay to change your mind.
 
 ## Archive a Folder {#archive-a-folder}
 
-In Marketo you have the ability to convert existing folders into Archive folders. Archive folders exist in Marketing Activities, Database, and Design Studio.
+In Marketo you have the ability to convert existing folders into Archive folders. Archive folders exist in [!UICONTROL Marketing Activities], [!UICONTROL Database], and [!UICONTROL Design Studio].
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 

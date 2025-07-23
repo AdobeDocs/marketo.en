@@ -5,7 +5,7 @@ title: Step 2 of 3 -Create a Salesforce User for Marketo (Professional)
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
 ---
-# Step 2 of 3: Create a Salesforce User for Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
+# Step 2 of 3: Create a [!DNL Salesforce] User for Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
 >
@@ -15,11 +15,11 @@ feature: Salesforce Integration
 >
 >[Step 1 of 3: Add Marketo Fields to Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
 
-In this article, you will customize field permissions with a Salesforce Page Layout and create a Marketo-Salesforce sync user.
+In this article, you will customize field permissions with a [!DNL Salesforce] Page Layout and create a Marketo-[!DNL Salesforce] sync user.
 
 ## Set Page Layouts {#set-page-layouts}
 
-Salesforce Professional sets field level accessibility with Page Layouts, as opposed to Salesforce Enterprise/Unlimited's Profiles. Following these steps will allow the Marketo sync user to update the custom fields.
+[!DNL Salesforce] Professional sets field level accessibility with Page Layouts, as opposed to [!DNL Salesforce] Enterprise/Unlimited's Profiles. Following these steps will allow the Marketo sync user to update the custom fields.
 
 1. Type "[!UICONTROL page layouts]" in the Nav search bar without pressing **[!UICONTROL Enter]**, and click **[!UICONTROL Page Layout]** under **[!UICONTROL Leads]**.
 
@@ -43,22 +43,22 @@ Salesforce Professional sets field level accessibility with Page Layouts, as opp
 
 1. Repeat the above step for the following fields:
 
-    * Acquisition Program
-    * Acquisition Program Id
-    * Email Opt Out
-    * Inferred City
-    * Inferred Company
-    * Inferred Country
-    * Inferred Metropolitan Area
-    * Inferred Phone Area Code
-    * Inferred Postal Code
-    * Inferred State Region
-    * Lead Score
-    * Original Referrer
-    * Original Search Engine
-    * Original Search Phrase
-    * Original Source Info
-    * Original Source Type
+    * [!UICONTROL Acquisition Program]
+    * [!UICONTROL Acquisition Program Id]
+    * [!UICONTROL Email Opt Out]
+    * [!UICONTROL Inferred City]
+    * [!UICONTROL Inferred Company]
+    * [!UICONTROL Inferred Country]
+    * [!UICONTROL Inferred Metropolitan Area]
+    * [!UICONTROL Inferred Phone Area Code]
+    * [!UICONTROL Inferred Postal Code]
+    * [!UICONTROL Inferred State Region]
+    * [!UICONTROL Lead Score]
+    * [!UICONTROL Original Referrer]
+    * [!UICONTROL Original Search Engine]
+    * [!UICONTROL Original Search Phrase]
+    * [!UICONTROL Original Source Info]
+    * [!UICONTROL Original Source Type]
 
    >[!NOTE]
    >
@@ -86,7 +86,7 @@ Salesforce Professional sets field level accessibility with Page Layouts, as opp
 
 ## Create Sync User {#create-sync-user}
 
-Marketo requires credentials to access Salesforce. This is best done with a dedicated user created with the steps below.
+Marketo requires credentials to access [!DNL Salesforce]. This is best done with a dedicated user created with the steps below.
 
 >[!NOTE]
 >
@@ -108,7 +108,7 @@ Marketo requires credentials to access Salesforce. This is best done with a dedi
    >
    >Make sure the email address you enter is valid. You will need to log in as the sync user to reset the password.
 
-Excellent! Now you have an account that Marketo can use to connect to Salesforce. Let's do it.
+Excellent! Now you have an account that Marketo can use to connect to [!DNL Salesforce]. Let's do it.
 
 >[!MORELIKETHIS]
 >

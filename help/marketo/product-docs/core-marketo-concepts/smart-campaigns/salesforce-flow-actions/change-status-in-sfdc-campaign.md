@@ -11,7 +11,7 @@ This flow step allows you to change the Salesforce campaign member status of lea
 
 >[!NOTE]
 >
->Only available when integrated with Salesforce.
+>Only available when integrated with [!DNL Salesforce].
 
 If a lead does not exist in Salesforce or is not a member of the campaign yet, it will automatically be synced and added to the Salesforce campaign with the appropriate status.
 

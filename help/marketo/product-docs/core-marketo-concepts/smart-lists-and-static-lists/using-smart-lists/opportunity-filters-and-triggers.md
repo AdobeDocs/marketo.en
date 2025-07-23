@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Opportunity Filters and Triggers {#opportunity-filters-and-triggers}
 
-Opportunity filters and triggers let you track opportunity events from Salesforce. They're a little different compared to other filters and triggers.
+Opportunity filters and triggers let you track opportunity events from [!DNL Salesforce]. They're a little different compared to other filters and triggers.
 
 ## Opportunity Filters {#opportunity-filters}
 

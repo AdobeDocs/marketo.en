@@ -5,9 +5,9 @@ title: Workspaces in Web Personalization
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
 ---
-# Workspaces in Web Personalization {#workspaces-in-web-personalization}
+# Workspaces in [!UICONTROL Web Personalization] {#workspaces-in-web-personalization}
 
-Web Personalization supports multiple workspaces for web campaigns and web segments.
+[!UICONTROL Web Personalization] supports multiple workspaces for web campaigns and web segments.
 
 ## Switch Workspaces {#switch-workspaces}
 
@@ -17,11 +17,11 @@ To switch between workspaces in web personalization, click the globe icon in the
 
 ## Change a Segment's Workspace {#change-a-segments-workspace}
 
-1. Go to the **Segments** page, select a segment, and click the edit icon.
+1. Go to the **[!UICONTROL Segments]** page, select a segment, and click the edit icon.
 
    ![](assets/ss4.png)
 
-1. Select a different workspace from the **Workspace** drop-down.
+1. Select a different workspace from the **[!UICONTROL Workspace]** drop-down.
 
    ![](assets/ss6.png)
 

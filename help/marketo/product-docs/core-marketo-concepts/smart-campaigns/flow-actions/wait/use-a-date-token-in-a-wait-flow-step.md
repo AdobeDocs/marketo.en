@@ -25,7 +25,7 @@ You can use the Wait flow step to pause a person's journey through a Smart Campa
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
-1. Choose a Date token to specify when the Wait step should end:
+1. Choose a [!UICONTROL Date token] to specify when the Wait step should end:
 
     * `{{my._____}}`
     * `{{lead.______}}`

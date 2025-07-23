@@ -13,7 +13,7 @@ You can add custom scripts, CSS, or other HTML to landing pages.
 >
 >Marketo Engage Support is not set up to assist with troubleshooting custom HTML. For HTML assistance, please consult a web developer.
 
-1. Select your landing page and click **Edit Draft**.
+1. Select your landing page and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
@@ -21,7 +21,7 @@ You can add custom scripts, CSS, or other HTML to landing pages.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. Enter your custom HTML code and click **Save**.
+1. Enter your custom HTML code and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 

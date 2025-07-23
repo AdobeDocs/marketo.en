@@ -5,17 +5,17 @@ title: Step 2 of 3 -Create a Salesforce User for Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
 ---
-# Step 2 of 3: Create a Salesforce User for Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Step 2 of 3: Create a [!DNL Salesforce] User for Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
->These steps must be completed by a Salesforce administrator
+>These steps must be completed by a [!DNL Salesforce] administrator
 
 >[!PREREQUISITES]
 >
->[Step 1 of 3: Add Marketo Fields to Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>[Step 1 of 3: Add Marketo Fields to [!DNL Salesforce] (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
-In this article, you will set up user permissions in Salesforce profile, and create a Marketo-Salesforce integration account.
+In this article, you will set up user permissions in [!DNL Salesforce] profile, and create a Marketo-[!DNL Salesforce] integration account.
 
 ## Create a Profile {#create-a-profile}
 
@@ -31,7 +31,7 @@ In this article, you will set up user permissions in Salesforce profile, and cre
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Select **[!UICONTROL Standard User]**, name the profile "Marketo-Salesforce Sync" and click **[!UICONTROL Save]**.
+1. Select **[!UICONTROL Standard User]**, name the profile “Marketo-Salesforce Sync” and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
@@ -43,10 +43,10 @@ In this article, you will set up user permissions in Salesforce profile, and cre
 
 1. Under the **[!UICONTROL Administrative Permissions]** section, make sure the following boxes are checked:
 
-    * API Enabled
-    * Edit HTML Templates
-    * Manage Public Documents
-    * Manage Public Templates
+    * [!UICONTROL API Enabled]
+    * [!UICONTROL Edit HTML Templates]
+    * [!UICONTROL Manage Public Documents]
+    * [!UICONTROL Manage Public Templates]
 
    ![](assets/image2014-12-9-9-3a19-3a38.png)
 
@@ -54,25 +54,25 @@ In this article, you will set up user permissions in Salesforce profile, and cre
    >
    >Be sure to check the **[!UICONTROL Password Never Expires]** box.
 
-1. Under the General User Permissions section, make sure the following boxes are checked:
+1. Under the [!UICONTROL General User Permissions] section, make sure the following boxes are checked:
 
-    * Convert Leads
-    * Edit Events
-    * Edit Tasks
+    * [!UICONTROL Convert Leads]
+    * [!UICONTROL Edit Events]
+    * [!UICONTROL Edit Tasks]
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Under the Standard Object Permissions section, make sure that Read, Create, Edit, and Delete permissions are checked for:
+1. Under the [!UICONTROL Standard Object Permissions] section, make sure that [!UICONTROL Read, Create, Edit, and Delete] permissions are checked for:
 
-    * Accounts
-    * Campaigns
-    * Contacts
-    * Leads
-    * Opportunities
+    * [!UICONTROL Accounts]
+    * [!UICONTROL Campaigns]
+    * [!UICONTROL Contacts]
+    * [!UICONTROL Leads]
+    * [!UICONTROL Opportunities]
 
    >[!NOTE]
    >
-   >Grant permissions to the Campaigns, if you plan to use Campaign Sync.
+   >Grant permissions to the [!UICONTROL Campaigns], if you plan to use Campaign Sync.
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
@@ -90,10 +90,10 @@ In this article, you will set up user permissions in Salesforce profile, and cre
 
 1. In the profile detail page, go to **[!UICONTROL Field-Level Security]** section. Click **[!UICONTROL View]** to edit the accessibility for the objects:
 
-    * Lead
-    * Contact
-    * Account
-    * Opportunity
+    * [!UICONTROL Lead]
+    * [!UICONTROL Contact]
+    * [!UICONTROL Account]
+    * [!UICONTROL Opportunity]
 
    >[!TIP]
    >
@@ -105,7 +105,7 @@ In this article, you will set up user permissions in Salesforce profile, and cre
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Locate the unneeded fields, make sure that **[!UICONTROL Read Access]** and **[!UICONTROL Edit Access]** are unchecked. Click **[!UICONTROL Save]** when done.
+1. Locate the unneeded fields, make sure that **[!UICONTROL Read Access]** and **[!UICONTROL Edit Access]** are unchecked. Click **[!UICONTROL Save]** when you’re done.
 
    >[!NOTE]
    >
@@ -113,7 +113,7 @@ In this article, you will set up user permissions in Salesforce profile, and cre
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. After you finish disabling all unneeded fields, you must check **[!UICONTROL Read Access and Edit Access]** for the following object fields. Click **[!UICONTROL Save]** when done.
+1. After you finish disabling all unneeded fields, you must check **[!UICONTROL Read Access and Edit Access]** for the following object fields. Click **[!UICONTROL Save]** when you’re done.
 
 <table> 
  <tbody> 
@@ -142,13 +142,13 @@ In this article, you will set up user permissions in Salesforce profile, and cre
 
 >[!TIP]
 >
->Create a dedicated Salesforce account (e.g., `marketo@yourcompany.com`) to distinguish the changes made by Marketo versus other Salesforce users.
+>Create a dedicated [!DNL Salesforce] account (e.g., marketo@yourcompany.com) to distinguish the changes made by Marketo versus other [!DNL Salesforce] users.
 
-1. Type "Manage users" into the Nav search bar, then click on **[!UICONTROL Users]**. Click **[!UICONTROL New User]**.
+1. Type "Manage users" into the Nav search bar, then click on **[!UICONTROL Users]**. Click on **[!UICONTROL New User]**.
 
    ![](assets/sfdc-new-users.png)
 
-1. Fill out the required fields. Then, select the **[!UICONTROL User License: Salesforce]** and the Profile that you previously created. Click **[!UICONTROL Save]** when you're done.
+1. Fill out the required fields. Then, select the **[!UICONTROL User License: Salesforce]** and the Profile that you previously created. Click **[!UICONTROL Save]** when you’re done.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
@@ -156,4 +156,4 @@ Step 2 of 3 is completed.
 
 >[!NOTE]
 >
->[Step 3 of 3: Connect Marketo and Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}
+>[Step 3 of 3: Connect Marketo and [!DNL Salesforce] (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
