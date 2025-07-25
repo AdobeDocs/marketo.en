@@ -48,8 +48,6 @@ In order to access the new email designer, your Marketo Engage subscription must
 
 * [Customizable fragments](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: Learn how to customize fragments by making some of their fields editable.
 
-* [Personalization Tokens](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}: Learn about the new format for personalization tokens in the new email designer.
-
 * [Work with AEM assets](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Learn how to easily access your AEM digital assets for use in Marketo Engage.
 
 * [Edit Images with Adobe Express](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: Learn how to edit images in the Adobe Marketo Engage Email Editor using Adobe Express.
