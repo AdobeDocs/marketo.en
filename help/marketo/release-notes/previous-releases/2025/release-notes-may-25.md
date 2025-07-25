@@ -26,16 +26,6 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr> 
-   <td><strong>Email Content Personalization</strong>: Marketo Engage now follows the same camel case syntax as the other AEP application tokens so a consistent experience is provided across Adobe DX products. All standard tokens as well as Marketo Engage specific tokens such as Member, Program, and My Tokens are made available in the new Email Designer.</td> 
-   <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md">Personalization Tokens</a></td>
-  </tr>
-  <tr> 
-   <td>&nbsp;</td> 
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr> 
    <td><strong>Role-based Access Control for Email Designer Assets</strong>: A new enhancement to the role-based access control (RBAC) system provides more granular permissions and improved user management for assets powered by the new Email Designer.</td> 
    <td>Shipped</td>
    <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">Granular permissions to New Email Designer (blog post)</a></td>
