@@ -7,76 +7,64 @@ feature: Landing Pages
 ---
 # Approve, Unapprove, or Delete a Landing Page {#approve-unapprove-or-delete-a-landing-page}
 
-Landing pages are in draft mode until you approve them. Approval makes pages available in the rest of the system. When you edit an approved landing page, Marketo saves the draft, but continues to use the approved version until you approve the draft.
+Landing Pages are in draft mode until you approve them. Approval makes pages available in the rest of the system. When you edit an approved Landing Page, Marketo Engage saves the draft, but continues to use the approved version until you approve the draft.
 
 ## Approve a Landing Page {#approve-a-landing-page}
 
-1. Select a landing page, go to **[!UICONTROL Landing Page Actions]** and click **[!UICONTROL Approve]**.
+1. Select the desired Landing Page and click and click **[!UICONTROL Approve draft]**.
+
+   ![](assets/approve-unapprove-or-delete-a-landing-page-1.png)
 
    >[!TIP]
    >
-   >You can [approve multiple pages at once](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) to make your life easier.
+   >You have the ability to [approve multiple pages at once](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) if desired.
 
-   ![](assets/image2014-9-16-15-3a28-3a22.png)
+You can also right-click your Landing Page in the left nav and select **[!UICONTROL Approve]**.
 
-1. You can also right click your landing page and click **[!UICONTROL Approve]**.
-
-   ![](assets/image2014-9-16-15-3a30-3a4.png)
+   ![](assets/approve-unapprove-or-delete-a-landing-page-2.png)
 
    >[!NOTE]
    >
-   >Once approved, your landing page icon will have a green checkmark on it.
+   >An approved Landing Page has a green checkmark added to it.
 
 ## Unapprove a Landing Page {#unapprove-a-landing-page}
 
-1. Select a landing page, go to **[!UICONTROL Landing Page Actions]** and click **[!UICONTROL Unapprove]**.
+1. Select the desired Landing Page and click **[!UICONTROL Unapprove]**.
 
-   ![](assets/image2014-9-16-15-3a31-3a8.png)
+   ![](assets/approve-unapprove-or-delete-a-landing-page-3.png)
 
-1. You can also right-click your landing page and click **[!UICONTROL Unapprove]**.
+You can also right-click your Landing Page in the left nav and select **[!UICONTROL Unapprove]**.
 
-   ![](assets/image2014-9-16-15-3a31-3a34.png)
+   ![](assets/approve-unapprove-or-delete-a-landing-page-4.png)
 
 >[!NOTE]
 >
->Your unapproved landing page is no longer published on the web and will generate no additional activity. Visitors to unapproved landing pages and their Facebook Tabs will see the [Fallback Page](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
+>Your unapproved Landing Page is no longer published on the web and will generate no additional activity. Visitors to unapproved Landing Pages and their Facebook Tabs will see the [Fallback Page](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Delete a Landing Page {#delete-a-landing-page}
 
-1. Select a landing page, go to **[!UICONTROL Landing Page Actions]** and click **[!UICONTROL Delete]**.
+1. Select the desired Landing Page. Click the **[!UICONTROL Landing Page Actions]** drop-down and select **[!UICONTROL Delete]**.
 
-   ![](assets/image2014-9-16-15-3a49-3a59.png)
+   ![](assets/approve-unapprove-or-delete-a-landing-page-5.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >You cannot delete an approved landing page. Unapprove it first.
+   >You cannot delete an approved Landing Page. You must unapprove it first.
 
-1. You can also right click your landing page and click **[!UICONTROL Delete]**.
+You can also right-click your Landing Page in the left nav and select **[!UICONTROL Delete]**.
 
-   ![](assets/image2014-9-16-15-3a50-3a40.png)
+   ![](assets/approve-unapprove-or-delete-a-landing-page-6.png)
 
 ## Delete Multiple Landing Pages {#delete-multiple-landing-pages}
 
-Want to delete more than one landing page at a time? Here's how.
+1. On the main [!UICONTROL Design Studio] screen, click **[!UICONTROL Landing Pages]**.
 
-1. In [!UICONTROL Design Studio], click **[!UICONTROL Landing Pages]**.
+   ![](assets/approve-unapprove-or-delete-a-landing-page-7.png)
 
-   ![](assets/one.png)
+1. Select the desired Landing Pages. Click the **[!UICONTROL Landing Page Actions]** drop-down and select **[!UICONTROL Delete]**.
 
-1. Click on the first landing page you want deleted, then shift+click the last one.
+   ![](assets/approve-unapprove-or-delete-a-landing-page-8.png)
 
-   ![](assets/two.png)
+1. Click **[!UICONTROL Delete]** to confirm.
 
-   >[!TIP]
-   >
-   >You can also utilize ctrl+click to delete multiple landing pages that are not sequential.
-
-1. Click the **[!UICONTROL Landing Page Actions]** drop-down and select **[!UICONTROL Delete]**.
-
-   ![](assets/three.png)
-
-1. Click **[!UICONTROL Delete]**.
-
-   ![](assets/four.png)
-
-Awesome! Now you know how to approve, unapprove and delete landing pages.
+   ![](assets/approve-unapprove-or-delete-a-landing-page-9.png)
