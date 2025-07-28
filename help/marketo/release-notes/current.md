@@ -37,8 +37,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td><strong>Email Designer - Support of Moving Assets and Program Deletion</strong>: Quickly relocate an email asset across programs. You can now also delete programs that contain new designer email assets.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
@@ -47,8 +47,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td><strong>Email Designer - Firefox Support</strong>: The Email Designer is now fully supported in Mozilla Firefox. For the best experience, always keep your browser up to date.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
@@ -57,8 +57,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td><strong>Email Designer - Simulate Content from the Properties Page</strong>: Simulate content for email assets from <i>Email Properties</i> without having to go back into the editing screen.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
@@ -67,8 +67,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td><strong>Email Designer - Role-based Access Control for Assets</strong>: The May release saw Role-based Access Control (RBAC) implemented for Edit, Approve, and Delete permissions. Read permissions are now available with this release.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
@@ -77,8 +77,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td><strong>Email Designer - Edit Email Properties for Published Emails</strong>: Make edits in <i>Email Properties</i> even after the email is published.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
@@ -87,8 +87,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td><strong>Email Designer - Select Branding Domain and Domain IP Configuration</strong>: You can now select a "Branding domain" and "Domain IP configuration" for every email asset.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 

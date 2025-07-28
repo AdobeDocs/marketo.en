@@ -108,4 +108,4 @@ If you log in to Marketo Engage via the [Adobe Experience Cloud](https://experie
 
 **Which browsers can I use with the new Email Designer?**
 
-It is recommended to use Google Chrome, Apple Safari, or Microsoft Edge. Full support for Mozilla Firefox will be available soon.
+It is recommended to use Google Chrome, Apple Safari, Microsoft Edge, or Mozilla Firefox at this time.

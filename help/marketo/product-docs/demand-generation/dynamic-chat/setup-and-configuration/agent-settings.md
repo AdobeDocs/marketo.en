@@ -84,7 +84,9 @@ If you're logged in to the app, you'll receive an in-app notification of an inco
 
 >[!IMPORTANT]
 >
->The [availability toggle](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} in the Agent Inbox **will override** what you enter in the Live Chat Availability tab. So if you're scheduled as available from 1p-5p but need to take a quick break at 3p, you don't need to alter your agent settings. Availability toggle status will remain until you manually change it, or until the next block of time in your availability is reached.
+>* The [availability toggle](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} in the Agent Inbox **will override** what is entered in the _Live chat availability_ tab. So if the agent is scheduled as available from 1p-5p but needs to take a quick break at 3p, they don't need to alter their agent settings. Availability toggle status will remain until it's manually changeed, until the next block of time in the agent's availability is reached, or until midnight of the agent's specified time zone (see the next bullet for more info).
+>
+>* When the agent uses the availability toggle to change their status to "available," their status automatically resets (switches to not available) at midnight of the time zone specified in their availabilty schedule. If no time zone is specified, it defaults to UTC (Coordinated Universal Time).
 
 >[!TIP]
 >
