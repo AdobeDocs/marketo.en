@@ -69,7 +69,7 @@ More information [can be found here](https://docs.microsoft.com/en-us/office365/
 
 More information [can be found here](https://support.google.com/a/answer/166852?hl=en).
 
-### [!DNL Microsoft Exchange Server (2010, 2013)] {#microsoft}
+### [!DNL Microsoft Exchange Server (2010, 2013)] {#microsoft-exchange}
 
 Limits are set by the organization's IT department as the server is hosted by the organization. Contact the network or system admin as applicable for additional information.
 
