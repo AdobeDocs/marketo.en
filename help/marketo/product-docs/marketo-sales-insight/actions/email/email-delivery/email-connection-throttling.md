@@ -14,14 +14,14 @@ Email Connection Throttling allows Sales Connect administrators to configure the
 
 When limits are consistently exceeded this can sometimes be seen as suspicious behavior from the delivery channel provider, causing emails to fail and sometimes even an account to be disabled.
 
-**Notes/Highlights**
+## Things to Note {#things-to-note}
 
-* Automatically enabled once a user connects to Gmail or [!DNL Exchange]
+* Automatically enabled when a user connects to Gmail or [!DNL Exchange]
 * Can be customized if you want to increase or decrease settings from recommendation to meet your needs
 * Only throttles emails sent through Gmail or [!DNL Exchange], does not throttle for custom delivery channel
 * The Email Connection throttling queues up each individual users emails separately as each user has their own connection with their email provider
 
-**Configuring your Email Connection Throttling Settings**
+## Configuring your Email Connection Throttling Settings {#configuring}
 
 1. Click the gear icon and select **[!UICONTROL Settings]**.
 
@@ -51,7 +51,7 @@ With the changes saved, all users will have their emails sent in batches to thei
 
 ## Email Provider Limits {#email-provider-limits}
 
-**[!DNL Outlook 365]**
+### [!DNL Outlook 365] {#outlook}
 
 Business/Enterprise
 
@@ -61,7 +61,7 @@ Business/Enterprise
 
 More information [can be found here](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
-**Gmail**
+### Gmail {#gmail}
 
 * 2000 per day (500 for trial and flagged accounts)
 * 2 emails per second (API Limit)
@@ -69,7 +69,7 @@ More information [can be found here](https://docs.microsoft.com/en-us/office365/
 
 More information [can be found here](https://support.google.com/a/answer/166852?hl=en).
 
-**[!DNL Microsoft Exchange Server (2010, 2013)]**
+### [!DNL Microsoft Exchange Server (2010, 2013)] {#microsoft}
 
 Limits are set by the organization's IT department as the server is hosted by the organization. Contact the network or system admin as applicable for additional information.
 
