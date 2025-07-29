@@ -8,7 +8,7 @@ feature: Sales Insight Actions
 
 Integrating your [!DNL Sales Connect] account to send through [!DNL Exchange] or Gmail email providers offers a streamlined setup and optimizes email deliverability for 1:1 sales communication. However, to keep systems healthy and accounts safe, Gmail and [!DNL Exchange] enforce email send limits. These limits are open to be increased or decreased at the providers' discretion.
 
-## Email Connection Throttling (Beta) {#email-connection-throttling-beta}
+## Overview {#overview}
 
 Email Connection Throttling allows Sales Connect administrators to configure the send rate of emails when using Gmail or Exchange as your delivery channel, so that the rate at which emails are being handed over to the delivery channel provider do not exceed the enforced limits.
 
