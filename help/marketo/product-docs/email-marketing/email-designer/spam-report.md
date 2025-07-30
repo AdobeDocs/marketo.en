@@ -13,7 +13,7 @@ Using SpamAssassin in Marketo Engage, you can test your email content and see th
 
 SpamAssassin analyzes your content and assigns a score based on various criteria. The lower the score, the better. It's important to maintain a low score as sending emails with a high score can negatively impact your overall deliverability.
 
-## Access the Spam report {#access-the-spam-report}
+## Access the spam report {#access-the-spam-report}
 
 1. In your email, click **Simulate Content**. 
 
@@ -35,7 +35,7 @@ SpamAssassin analyzes your content and assigns a score based on various criteria
 
    >[!IMPORTANT]
    >
-   >If the overall score is higher than 5, your email may be blocked or marked as spam upon delivery.
+   >If the overall score is higher than 5, your email may be blocked by the recipient, or marked as spam upon delivery.
 
 1. If you consider the score to be too high, edit your content in the Email Designer basd on the report's findings and then re-run the **Spam report**.
 
@@ -47,4 +47,4 @@ When the score is to your liking, it's ready to be sent.
 
 >[!NOTE]
 >
->Spam score is derived via SpamAssassin, and rules are not owned by Adobe. More details about these rules can be found in the [SpamAssassin documentation](https://spamassassin.apache.org/#_blank){target="_blank"}. A full list of errors [can be seen here](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}.
+>Spam score is derived via SpamAssassin, and **rules are not owned by Adobe**. More details about these rules can be found in the [SpamAssassin documentation](https://spamassassin.apache.org/#_blank){target="_blank"}. A full list of errors [can be seen here](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}.
