@@ -37,7 +37,7 @@ SpamAssassin analyzes your content and assigns a score based on various criteria
    >
    >If the overall score is higher than 5, your email may be blocked by the recipient, or marked as spam upon delivery.
 
-1. If you consider the score to be too high, edit your content in the Email Designer basd on the report's findings and then re-run the **Spam report**.
+1. If you consider the score to be too high, edit your content in the Email Designer based on the report's findings and then re-run the **Spam report**.
 
    ![](assets/email-spam-report-4.png){width="800" zoomable="yes"}
 
