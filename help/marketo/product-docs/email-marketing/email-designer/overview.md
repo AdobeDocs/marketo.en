@@ -10,7 +10,7 @@ exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
 
 Welcome to the new Adobe Marketo Engage Email Designer.
 
-The email designer is the latest innovation in Marketo Engage intended to provide a revamped email and email template creation experience to improve productivity and efficiency by providing a visual drag-and-drop editor along with standard out-of-the-box templates. Easily create customized email templates without having to spend money on vendors.
+The Email Designer is the latest innovation in Marketo Engage intended to provide a revamped email and email template creation experience to improve productivity and efficiency by providing a visual drag-and-drop editor along with standard out-of-the-box templates. Easily create customized email templates without having to spend money on vendors.
 
 >[!NOTE]
 >
@@ -18,9 +18,9 @@ The email designer is the latest innovation in Marketo Engage intended to provid
 
 ## How to access {#how-to-access}
 
-+++Learn how to access the email designer
++++Learn how to access the Email Designer
 
-In order to access the new email designer, your Marketo Engage subscription must be migrated to the [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). If yours hasn't been yet and you'd like to request it be expedited, please contact the Adobe Account Team (your account manager), or [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+In order to access the new Email Designer, your Marketo Engage subscription must be migrated to the [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). If yours hasn't been yet and you'd like to request it be expedited, please contact the Adobe Account Team (your account manager), or [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Add users {#add-users}
 
@@ -58,13 +58,15 @@ In order to access the new email designer, your Marketo Engage subscription must
 
 * [Test Email Rendering with Litmus](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: Leverage your Litmus account in Marketo Engage to instantly see how your email renders in popular email clients.
 
+* [Spam Detection with SpamAssassin](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"}: Using SpamAssassin in Marketo Engage, you can test your email content and see the likelihood of ISPs/Mailbox providers marking it as spam.
+
 * [Feature comparison](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Compare the availability of features in the previous email editor (Email Editor 2.0) and the new Email Designer.
 
 ## FAQ {#faq}
 
 **Will the old email editor continue to function? If so, for how long?**
 
-Yes, the old (classic) email editor will co-exist with the new email designer. Emails created in the classic editor will remain. There is no date as to when the classic editor will be deprecated at this time, but it will continue to function throughout 2025.
+Yes, the old (classic) email editor will co-exist with the new Email Designer. Emails created in the classic editor will remain. There is no date as to when the classic editor will be deprecated at this time, but it will continue to function throughout 2025.
 
 **Which programs can I use the New Email Designer emails in?**
 
@@ -76,11 +78,11 @@ Email templates from the classic editor cannot be referenced in the new designer
 
 **Can I easily move new designer assets to a different program?**
 
-Not at this time. But, that functionality is coming soon.
+Yes!
 
-**Can assets be edited via API in the new email designer?**
+**Can assets be edited via API in the new Email Designer?**
 
-Assets being edited via API is not supported in the new email designer at this time.
+Assets being edited via API is not supported in the new Email Designer at this time.
 
 **Is there a way to enforce branding (fonts, logos, and colors)?**
 
@@ -94,7 +96,7 @@ Yes, absolutely, more customizable with our WYSIWYG(what-you-see-is-what-you-get
 
 It is WYSIWYG; HTML knowledge is not necessary. You can easily create templates in the designer, reducing the need for external web developers. However, you still have the option to update CSS and edit individual sections via HTML. We are also working on a way to easily migrate templates from the classic editor to the new designer.
 
-**Does the new email designer support AMP language?**
+**Does the new Email Designer support AMP language?**
 
 It does not have support for AMP at this time.
 
