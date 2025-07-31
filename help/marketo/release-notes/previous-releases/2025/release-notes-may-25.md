@@ -47,8 +47,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td><strong>Trigger Tokens for Any Attribute</strong>: Expanded list of trigger tokens to support using data from any activity attribute in Smart Campaign fields.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
  </tbody> 
 </table>
