@@ -81,6 +81,10 @@ You can make global variables and then override them at lower levels in the tree
 
 Moving programs and folders affects tokens too. Always check to make sure that references aren't broken during the move.
 
+>[!IMPORTANT]
+>
+>Nested tokens are not supported in [Batch Campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
+
 >[!NOTE]
 >
 >If the email you send from an engagement program is a child email of a default program (not local to your engagement program), any My Tokens used in the email are resolved from the default program in which the child email resides.
