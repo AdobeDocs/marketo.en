@@ -50,7 +50,7 @@ In one place, view all your questions, their approval status, and the task name/
 
 ## Bulk Edit and Upload Questions/Responses {#bulk-edit-and-upload-questions-responses}
 
-Instructions on how to make bulk edits in the downloaded Excel file are below. They can also be seen in the file's Task details tab.
+Instructions on how to make bulk edits in the [downloaded Excel file](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"} are below. They can also be seen in the file's Task details tab.
 
 <table>
 <thead>
