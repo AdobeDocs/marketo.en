@@ -33,9 +33,9 @@ Learn how to perform bulk actions, like adding leads to a campaign, send a bulk 
 
 1. An MSC email will pop up. It includes the following features:
 
-   a. “[!UICONTROL To]” field shows “All receipts” - this corresponds to the list of leads you have chosen in the Lead List View  
-   b. This list is visible on the left panel called “Bulk compose” - you can add/remove recipients here  
-   c. You can choose a template or create your own email  
+   a. “[!UICONTROL To]” field shows “All receipts” - this corresponds to the list of leads you have chosen in the Lead List View
+   b. This list is visible on the left panel called “Bulk compose” - you can add/remove recipients here
+   c. You can choose a template or create your own email
    d. You can send the email right away or schedule to send it at a later time
 
    ![](assets/three-5.png)

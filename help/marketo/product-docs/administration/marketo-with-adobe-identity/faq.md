@@ -40,7 +40,7 @@ Yes. The integration with Adobe IMS supports Universal ID users and SSO. SSO is 
 
 * Adobe Product Admin is a new role in the Marketo platform.
 * Adobe Product Admin role is granted to users added as a Product Admin in Adobe Admin Console
-* Adobe Product Admin is a read-only role and can't be edited or deleted from Marketo Engage.  
+* Adobe Product Admin is a read-only role and can't be edited or deleted from Marketo Engage.
 * Adobe Product Admin has the same rights and privileges as a standard Marketo Admin.
 * Marketo Engage Admin's role is still an Admin and is granted to a user in Marketo Engage.
 * Only users with the Marketo default Admin role are assigned as a Marketo Product Admin in the Admin Console.
@@ -114,18 +114,18 @@ The supported product cards are: Marketo Engage, Marketo Measure, Marketo Dynami
 **What if my user login doesn't match my email when I get migrated to an Adobe Identity?**
 
 Current Marketo Engage users with logins different from their email address will no longer log in with that credential once migrated to an Adobe Identity. Adobe Identities always authenticate with a user's email address. You can update an Adobe identity email address at [account.adobe.com](https://account.adobe.com){target="_blank"}.
- 
+
 **What happens after the Adobe Identity migration if my subscription uses IP restriction settings?**
 
-When subscriptions are onboarded to Adobe Identity, IP restriction settings do not get migrated to the Adobe Admin Console. Marketo's IP restriction settings include allowing only access from specific IP addresses, and blocking specific IP addresses from access. At this time, Adobe Identity Management System does not support IP restriction features.  
+When subscriptions are onboarded to Adobe Identity, IP restriction settings do not get migrated to the Adobe Admin Console. Marketo's IP restriction settings include allowing only access from specific IP addresses, and blocking specific IP addresses from access. At this time, Adobe Identity Management System does not support IP restriction features.
 
-Coming in mid-2025, Adobe Identity Management System will release a feature allowing only specific IP addresses, supporting a transition for Marketo users currently utilizing this feature. Those who currently use this feature will not undergo user migration until the feature is released. Once the feature is delivered, users will be notified of their migration being scheduled. More information about the feature will be provided when available. 
+Coming in mid-2025, Adobe Identity Management System will release a feature allowing only specific IP addresses, supporting a transition for Marketo users currently utilizing this feature. Those who currently use this feature will not undergo user migration until the feature is released. Once the feature is delivered, users will be notified of their migration being scheduled. More information about the feature will be provided when available.
 
-Users who currently use the IP restriction, blocking specific addresses from access, will no longer be able to use this feature after being migrated to Adobe Identity, as it is not supported by Adobe Identity Management System. 
+Users who currently use the IP restriction, blocking specific addresses from access, will no longer be able to use this feature after being migrated to Adobe Identity, as it is not supported by Adobe Identity Management System.
 
 **What happens after Adobe Identity migration if I have users with a role that has the option to 'Bypass Single Sign On'?**
 
-Adobe Admin Console comes with a default Business ID directory. Users outside of the domains claimed in Federated ID directories in an Adobe Org will be assigned to this directory with an Adobe ID identity type. These users will be able to access Marketo Engage without going through Single Sign On (SSO) and the license ownership remains with the company, not the individuals. 
+Adobe Admin Console comes with a default Business ID directory. Users outside of the domains claimed in Federated ID directories in an Adobe Org will be assigned to this directory with an Adobe ID identity type. These users will be able to access Marketo Engage without going through Single Sign On (SSO) and the license ownership remains with the company, not the individuals.
 
 **I have more than one subscription, but not all have Single Sign On enabled. What happens after Adobe Identity migration?**
 
@@ -136,7 +136,7 @@ When subscriptions are onboarded to Adobe Identity, Single Sign On (SSO) is set 
 No, there are no impacts to these configurations.
 
 **How can I prevent sessions from timing out?**
- 
+
 In [Advanced Settings](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, you can customize the desired maximum session life (System Admin permissions required). It's recommended to establish this setting after product migration, but before user migration.
 
 **I now have to navigate into Experience Cloud to access Marketo Engage. Is there a way to streamline this flow?**

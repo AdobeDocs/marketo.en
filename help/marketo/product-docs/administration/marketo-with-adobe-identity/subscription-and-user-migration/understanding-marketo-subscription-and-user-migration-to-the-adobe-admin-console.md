@@ -10,13 +10,13 @@ Adobe is enhancing how you manage your Adobe Marketo Engage subscriptions and us
 
 >[!TIP]
 >
->Learn how you can use the Adobe Admin Console to manage your Adobe entitlements across your entire organization with the [Enterprise and Teams Admin Guide](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}. 
+>Learn how you can use the Adobe Admin Console to manage your Adobe entitlements across your entire organization with the [Enterprise and Teams Admin Guide](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}.
 
 ## What is Changing? {#what-is-changing}
 
 As part of the migration, your subscription and user management will move from within the Marketo application to the Adobe Admin Console.
 
-* **System Admins will manage subscriptions on Adobe Admin Console**. See all your Adobe products in one console.  
+* **System Admins will manage subscriptions on Adobe Admin Console**. See all your Adobe products in one console.
 
 * **Product Admins will manage users and their access on Adobe Admin Console**. Add and remove users for all your Adobe subscriptions. The Adobe Admin Console does not support user-based access expiration. Users who have Marketo Engage access that's scheduled to expire post-migration will still be migrated and granted non-expiring access. After migration, they must be manually removed on (or before) the desired expiration date.
 
@@ -48,7 +48,7 @@ System Admins may need to complete some required steps before user migration sta
 
 * If you already manage other Adobe products in your Adobe Admin Console, Adobe may seek your consent to automatically migrate users to your existing console. Click the "Get Started" button in the email to navigate to the consent page.
 
-There is no change to user management at this time. Although Marketo products appear in the Admin Console, Marketo Admins will continue to manage users in the Marketo Admin area, and users will continue to log in with their Marketo Identity until their user migration is complete. During this time, Marketo products cannot be administered in Admin Console until user migration begins. This includes the Dynamic Chat instance associated with the subscription. 
+There is no change to user management at this time. Although Marketo products appear in the Admin Console, Marketo Admins will continue to manage users in the Marketo Admin area, and users will continue to log in with their Marketo Identity until their user migration is complete. During this time, Marketo products cannot be administered in Admin Console until user migration begins. This includes the Dynamic Chat instance associated with the subscription.
 
 >[!NOTE]
 >
@@ -115,6 +115,6 @@ For additional support regarding your subscription or user migration, email `mar
 >[!MORELIKETHIS]
 >
 >* [Migrating to Adobe Identity Overview](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
->* [User Sign-in with Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} 
+>* [User Sign-in with Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
 >* [Migrating to Adobe Identity Management Tutorial](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}

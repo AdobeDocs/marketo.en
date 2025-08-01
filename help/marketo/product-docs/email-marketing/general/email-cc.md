@@ -53,7 +53,7 @@ This feature is available on all Marketo email assets, regardless of how the ema
    >
    >If an invalid email address is in a CC field, it will be skipped.
 
-   For quick identification, the Email Summary view shows you if/which Email CC fields were selected.  
+   For quick identification, the Email Summary view shows you if/which Email CC fields were selected.
 
    ![](assets/eight.png)
 

@@ -21,7 +21,7 @@ Here's how to edit the person partition / workspace assignments:
 >
 >Workspaces and Person Partitions can be complex. Please contact  [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} for help in setting them up.
 
-1. Go to the **[!UICONTROL Admin]** area. 
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 

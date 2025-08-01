@@ -8,7 +8,7 @@ feature: Reporting
 # Email Insights Overview {#email-insights-overview}
 
 **[!UICONTROL Email Insights]** provides powerful insights from historical data for Email Marketers. It consists of two separate but associated sections: [!UICONTROL Analytics] and [!UICONTROL Sends].
-  
+
 To access **[!UICONTROL Email Insights]**, simply click its tile in My Marketo (or the Analytics home screen).
 
 ![](assets/icon.png)

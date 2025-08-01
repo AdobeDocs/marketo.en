@@ -75,7 +75,7 @@ You can also upload a brand asset to use content inside the asset as a reference
 
    ![](assets/use-the-ai-assistant-5.png)
 
-To choose a variation, select its checkbox and click **Select**. You can also tweak it by clicking **Refine**. Additionaly, you can provide feedback by clicking the thumbs up or thumbs down icon so the Gen-AI technology learns your preferences. 
+To choose a variation, select its checkbox and click **Select**. You can also tweak it by clicking **Refine**. Additionaly, you can provide feedback by clicking the thumbs up or thumbs down icon so the Gen-AI technology learns your preferences.
 
 After making your selection, the Subject Line is populated in your Email Details.
 
@@ -115,7 +115,7 @@ Enter the relevant prompt and choose the text settings, brand assets, and any im
 
 If you would like to generate images using Firefly, select the Image Settings and select the toggle for **Generate Images using AI**.
 
-   ![](assets/use-the-ai-assistant-13.png) 
+   ![](assets/use-the-ai-assistant-13.png)
 
 Select the desired _Content Type_, _Color and Tone_, _Lighting_, and _Composition_ to create Gen-AI images for your email. Click **Generate** when done.
 

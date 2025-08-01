@@ -37,21 +37,21 @@ Specify a time delay (in total seconds) for web campaigns to react on your websi
 
    ![](assets/s2.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL Below fold]</strong></td> 
-   <td>Displays campaign when visitor scrolls below the fold. Campaign disappears when visitor scrolls back above the fold.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Percent]</strong></td> 
-   <td>Displays campaign when visitor scrolls to predetermined percentage of the page.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Pixel]</strong></td> 
-   <td><p>Displays campaign when visitor scrolls to predesignated top pixel on the page.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL Below fold]</strong></td>
+   <td>Displays campaign when visitor scrolls below the fold. Campaign disappears when visitor scrolls back above the fold.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Percent]</strong></td>
+   <td>Displays campaign when visitor scrolls to predetermined percentage of the page.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Pixel]</strong></td>
+   <td><p>Displays campaign when visitor scrolls to predesignated top pixel on the page.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Exit Intent {#exit-intent}

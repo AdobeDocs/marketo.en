@@ -48,112 +48,112 @@ There are a ton of new tree features available.
 
 **Marketo Classic vs. the New Marketo**
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <th>Feature</th> 
-   <th>Classic</th> 
-   <th>Next-gen</th> 
+   <th>Feature</th>
+   <th>Classic</th>
+   <th>Next-gen</th>
   </tr>
   <tr>
-   <td>Apply multiple filters at the same time</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Apply multiple filters at the same time</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Combined draft and approval tree node</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Combined draft and approval tree node</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Create local assets in program folders</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Create local assets in program folders</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Double-click to expand/collapse tree nodes</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>Double-click to expand/collapse tree nodes</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Drag-and-drop from tree to engagement stream</td> 
-   <td><strong>X</strong></td> 
-   <td></td> 
+   <td>Drag-and-drop from tree to engagement stream</td>
+   <td><strong>X</strong></td>
+   <td></td>
   </tr>
   <tr>
-   <td>Drag-and-drop inside the tree</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Drag-and-drop inside the tree</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Filter by asset type and states</td> 
-   <td><i>partial</i></td> 
-   <td><strong>X</strong></td>  
+   <td>Filter by asset type and states</td>
+   <td><i>partial</i></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Highlight background to show hierarchy in focus state</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Highlight background to show hierarchy in focus state</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Highlighting keywords during search</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Highlighting keywords during search</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Horizontal scroll</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>Horizontal scroll</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Hover state of tree nodes</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Hover state of tree nodes</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Quick collapse entire tree</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Quick collapse entire tree</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Quickly collapse to root node</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Quickly collapse to root node</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Real-time update</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Real-time update</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Resizeable tree</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Resizeable tree</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Search in archived folders</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Search in archived folders</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Search string saved when entering global search from tree search</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Search string saved when entering global search from tree search</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Show all workspaces in a single tree</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Show all workspaces in a single tree</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>State badge and tooltips</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>State badge and tooltips</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>'Word starts with' search logic</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>'Word starts with' search logic</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
  </tbody>
 </table>
@@ -164,24 +164,24 @@ Take a look at the new Global Nav.
 
 ![](assets/overview-7.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>No more superball drop-down</td> 
+   <td>1</td>
+   <td>No more superball drop-down</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>All previous superball items listed out</td> 
+   <td>2</td>
+   <td>All previous superball items listed out</td>
   </tr>
   <tr>
   <tr>
-   <td>3</td> 
-   <td>If you have multiple subscriptions, click on your sub name to easily switch to another one</td> 
+   <td>3</td>
+   <td>If you have multiple subscriptions, click on your sub name to easily switch to another one</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>Global search - you can now search your entire instance from here</td> 
+   <td>4</td>
+   <td>Global search - you can now search your entire instance from here</td>
   </tr>
  </tbody>
 </table>

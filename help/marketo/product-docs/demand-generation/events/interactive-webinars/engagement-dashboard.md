@@ -14,7 +14,7 @@ The dashboard tracks various metrics, including poll responses, chat activity, a
 
 View engagement for the following types of sessions in an interactive webinar.
 
-* **Live session**: A real-time online session where participants can actively engage with one another. 
+* **Live session**: A real-time online session where participants can actively engage with one another.
 * **On-demand session**: The recording of the live event is made available as an event of its own. New invitees can register and watch the recording. After registration, they'll receive an event joining link, which takes them to the recording of the event after it ends. Participants registered for the live event can also view the recording using the same joining link.
 
 ## View the Dashboard {#view-the-dashboard}
@@ -38,7 +38,7 @@ View engagement for the following types of sessions in an interactive webinar.
 ## Dashboard Details {#dashboard-details}
 
 You can view the following details in the engagement dashboard.
- 
+
 <table><tbody>
   <tr>
     <td><b>Event summary</td>
@@ -70,7 +70,7 @@ You can view the following details in the engagement dashboard.
 ### Event summary {#event-summary}
 
 This interface provides a consolidated view of the event's performance for live and on-demand sessions. From the left panel, select Event summary to view the overall metrics.
- 
+
    ![](assets/engagement-dashboard-4.png)
 
 <table><tbody>
@@ -100,11 +100,11 @@ Provides an overview of the live session's performance of an event. The overview
 From the left panel, select **[!UICONTROL Engagement]** to view the live session's performance. **[!UICONTROL Click Engagement summary (PDF)]** to download the performance summary of the live session. The overview provides data in different sections.
 
    ![](assets/engagement-dashboard-5.png)
- 
+
 **Key metrics**
 
 View the number of registrations, attendees, and engagement in the live session.
- 
+
    ![](assets/engagement-dashboard-6.png)
 
 <table><tbody>
@@ -135,7 +135,7 @@ View the number of registrations, attendees, and engagement in the live session.
 **Engagement over time**
 
 Learn about average engagement over time during the live session from the engagement graphs. Hosts can monitor how engagement levels fluctuate, allowing them to identify critical moments of high or low interaction. See how much of the average engagement score was gained by the engaged participants in different layouts.
- 
+
    ![](assets/engagement-dashboard-7.png)
 
 By hovering over the graph, view the following information:
@@ -151,8 +151,8 @@ By hovering over the graph, view the following information:
 
 **Attendee interactions**
 
-You can view the attendees' interactions from different pods. It provides information such as Answered polls, Asked questions, Interact with chat, Clicked at least one link, and Downloaded at least one file. 
- 
+You can view the attendees' interactions from different pods. It provides information such as Answered polls, Asked questions, Interact with chat, Clicked at least one link, and Downloaded at least one file.
+
    ![](assets/engagement-dashboard-8.png)
 
 Select **[!UICONTROL Go to interactions]** to view responses from polls, metrics of QnA, and attendees' reactions during the session. View how attendees are engaged across pods from Interactions and download interaction reports from the section below.
@@ -162,18 +162,18 @@ Select **[!UICONTROL Go to interactions]** to view responses from polls, metrics
 View how attendees interact and engage in the session from Interactions. Track responses to polls, QnA metrics, reactions from attendees, and dropped links and files from respective pods. Hosts can also download interaction reports of these pods for better analysis. By analyzing these interactions, you can identify trends and adjust their strategies to encourage a more interactive and engaging environment.
 
 From the left panel, select **[!UICONTROL Interactions]** to view how attendees are engaged across pods.
- 
+
    ![](assets/engagement-dashboard-9.png)
 
 Select the **[!UICONTROL Polls]** tab from the menu bar to view questions and responses added to the poll. This tab shows the following information:
 
 * Select **[!UICONTROL Poll report (CSV)]** to download the report for interactions in the poll pod.
 * Poll question and its type.
-* Number of responses and the period during which the poll pod was open and engaged. 
+* Number of responses and the period during which the poll pod was open and engaged.
 * Select **View all `<number>` responses** to view them in a dialog window.
 
 Select the **[!UICONTROL Other interactions]** tab from the menu bar to view engagement in other pods and download their reports.
- 
+
    ![](assets/engagement-dashboard-10.png)
 
 Select **[!UICONTROL Download interaction reports]** from the drop-down to download reports of different pods. Download the QnA report, Links & files report, and Reactions report from here for better tracking.
@@ -183,7 +183,7 @@ The engagement information across pods is available in different sections.
 **QnA metrics**
 
 View the following attributes of the Q&A pod.
- 
+
    ![](assets/engagement-dashboard-11.png)
 
 * Total questions asked.
@@ -194,8 +194,8 @@ View the following attributes of the Q&A pod.
 
 **Reactions**
 
-View attendees' reactions from here, such as agreeing, disagreeing, applauding, and laughing during the session. 
- 
+View attendees' reactions from here, such as agreeing, disagreeing, applauding, and laughing during the session.
+
    ![](assets/engagement-dashboard-12.png)
 
 From the reactions graph, view the following details:
@@ -208,8 +208,8 @@ From the reactions graph, view the following details:
 
 **Weblinks pod**
 
-View links added to the weblinks pod during the session and the number of clicks on the shared link. Weblinks pod allows you to add links from sources outside the webinar to generate engagement. 
- 
+View links added to the weblinks pod during the session and the number of clicks on the shared link. Weblinks pod allows you to add links from sources outside the webinar to generate engagement.
+
    ![](assets/engagement-dashboard-13.png)
 
 From the graph, view the following details:
@@ -222,7 +222,7 @@ From the graph, view the following details:
 **Files pod**
 
 View the files added to the files pod during the session and the number of unique downloads. Files pod allows you to add files and provide resources to generate engagement.
- 
+
    ![](assets/engagement-dashboard-14.png)
 
 From the graph, view the following details:
@@ -234,7 +234,7 @@ From the graph, view the following details:
 ### On-demand activity {#on-demand-activity}
 
 From the left panel, select **[!UICONTROL On-demand activity]** to view the summary of recordings. You can also download a report for on-demand activity.
- 
+
    ![](assets/engagement-dashboard-15.png)
 
 In on-demand activity, view the following metrics:
@@ -249,7 +249,7 @@ In on-demand activity, view the following metrics:
 ### Participant activity {#participant-activity}
 
 From the left panel, select **[!UICONTROL Participant activity]** to view consolidated information about each attendee's engagement level. View how this engagement is classified in levels from Participant engagement level. Click **[!UICONTROL User activity report (CSV)]** to download the report for better tracking.
- 
+
    ![](assets/engagement-dashboard-16.png)
 
 View the following details from the table:
@@ -268,7 +268,7 @@ Download reports for different activities and pods from a centralized hub as a h
 1. From the left panel, select **[!UICONTROL Download reports]**.
 
 1. Select **[!UICONTROL Download all (.zip)]** to download reports for all activities and pods all at once.
- 
+
    ![](assets/engagement-dashboard-17.png)
 
 >[!NOTE]

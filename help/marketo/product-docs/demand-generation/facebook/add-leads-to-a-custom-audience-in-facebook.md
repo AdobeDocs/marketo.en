@@ -33,7 +33,7 @@ Already have a custom audience in [!DNL Facebook] and want to add more leads to 
 
    >[!NOTE]
    >
-   >**[!UICONTROL Add leads to audience]**: only [!DNL Facebook] audiences with a custom sub-type will be available.  
+   >**[!UICONTROL Add leads to audience]**: only [!DNL Facebook] audiences with a custom sub-type will be available.
    >**[!UICONTROL Remove leads from audience]**: removes the leads in your static or smart list from a [!DNL Facebook] audience.
 
 1. When done, the status will update.

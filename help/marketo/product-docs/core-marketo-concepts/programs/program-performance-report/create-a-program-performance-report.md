@@ -21,29 +21,29 @@ See great stats on your programs with this report.
 
 Columns in a Program Performance report include:
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Column</th> 
-   <th>Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Channel</td> 
-   <td>The channel type of the program.</td> 
-  </tr> 
-  <tr> 
-   <td>New Names</td> 
-   <td>New people acquired by the program.</td> 
-  </tr> 
-  <tr> 
-   <td>Success</td> 
-   <td>Number of members who achieved success as defined in the program statuses. </td> 
-  </tr> 
-  <tr> 
-   <td>Total Cost</td> 
-   <td><p>Sum of all period costs within the program.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>Column</th>
+   <th>Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Channel</td>
+   <td>The channel type of the program.</td>
+  </tr>
+  <tr>
+   <td>New Names</td>
+   <td>New people acquired by the program.</td>
+  </tr>
+  <tr>
+   <td>Success</td>
+   <td>Number of members who achieved success as defined in the program statuses. </td>
+  </tr>
+  <tr>
+   <td>Total Cost</td>
+   <td><p>Sum of all period costs within the program.</p></td>
+  </tr>
+ </tbody>
 </table>

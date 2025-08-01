@@ -14,7 +14,7 @@ feature: Getting Started
 >* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Import a List of People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
-Let's imagine that at your recent tradeshow, a person gave you some additional contact info. Here's how to update person data.  
+Let's imagine that at your recent tradeshow, a person gave you some additional contact info. Here's how to update person data.
 
 ## Find the Person You Need to Update {#find-the-person-you-need-to-update}
 

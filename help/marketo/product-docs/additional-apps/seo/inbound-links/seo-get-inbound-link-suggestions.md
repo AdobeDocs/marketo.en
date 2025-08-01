@@ -13,7 +13,7 @@ Marketo can suggest which inbound links are valuable to your [off-page optimizat
 
    ![](assets/image2014-9-18-13-3a20-3a44.png)
 
-1. Click **[!UICONTROL Get Suggestions]**.  
+1. Click **[!UICONTROL Get Suggestions]**.
 
    ![](assets/image2014-9-18-13-3a21-3a8.png)
 

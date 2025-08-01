@@ -23,17 +23,17 @@ To see an Account List's dashboard, simply click on its name...
 
 ![](assets/two-new-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">Pipeline</span></strong></td> 
-   <td colspan="1">See the pipeline over time. To determine pipeline over time by week, we take the pipeline on the last day.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Revenue</span></strong></td> 
-   <td><p>See revenue over time. To determine revenue over time by week, we take the sum of all the revenue won in that week.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">Pipeline</span></strong></td>
+   <td colspan="1">See the pipeline over time. To determine pipeline over time by week, we take the pipeline on the last day.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Revenue</span></strong></td>
+   <td><p>See revenue over time. To determine revenue over time by week, we take the sum of all the revenue won in that week.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Named Accounts Tab {#named-accounts-tab}

@@ -10,7 +10,7 @@ feature: Sales Insight Actions
 >
 >To learn how to enable Task Sync check out [Sync Sales Insight Actions Tasks/Reminders to Salesforce Tasks](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
 
-Once task sync settings are enabled users will see their reminder tasks bidirectionally synced with [!DNL Salesforce]. This means users can manage tasks from either [!DNL Salesforce] or [!DNL Sales Insight Actions] and feel confident that systems will stay aligned.  
+Once task sync settings are enabled users will see their reminder tasks bidirectionally synced with [!DNL Salesforce]. This means users can manage tasks from either [!DNL Salesforce] or [!DNL Sales Insight Actions] and feel confident that systems will stay aligned.
 
 ## Reminder Task Field Sync {#reminder-task-field-sync}
 

@@ -178,8 +178,8 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
    ![](assets/setup-steps-13.png)
 
-   Copy the [!UICONTROL Tracking Link] from your email settings.  
-  
+   Copy the [!UICONTROL Tracking Link] from your email settings.
+
    The [!UICONTROL Tracking Link] is in the form: `mkto-[a-z][4 digits].com`.
 
    ![](assets/setup-steps-14.png)
@@ -220,7 +220,7 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
    `3)` Allowlist Marketo.
 
-    * If we use IP addresses in our Email Allowlist, add the IPs listed below:  
+    * If we use IP addresses in our Email Allowlist, add the IPs listed below:
       199.15.212.0/22
 
       192.28.144.0/20
@@ -252,7 +252,7 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
    IN  TXT **[From Domain]**:  v=spf1 mx ip4:**[Corporate IP(s)]**
    <br/>include: mktomail.com ~all
-  
+
    If we already have an existing SPF record in our DNS entry, simply add the following to it:
 
    include:mktomail.com
@@ -266,7 +266,7 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
    **`[DKIMDomain2]`**: Host Record is **`[HostRecord2]`** and the TXT Value is **`[TXTValue2]`**.
 
    `[`Copy the **HostRecord** and **TXTValue** for each **DKIMDomain** you've setup after following the [instructions here](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Don't forget to verify each domain in **Admin > Email > DKIM** after your IT staff has completed this step.`]`
-  
+
    `5)` We need to ensure there is a valid MX record for our FROM domains **[FromDomain1]**, **[FromDomain2]**, etc. Can you confirm? If not, please configure to map to our corporate domain MX record. This will ensure we can process replies/autoresponders to our Marketo mailings.
 
    Let me know when you have completed these steps, so that I can complete the setup process with Marketo.

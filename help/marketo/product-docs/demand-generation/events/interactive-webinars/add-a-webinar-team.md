@@ -58,7 +58,7 @@ The presenter is an external role that participates in delivering the webinar ex
 
    >[!NOTE]
    >
-   >The presenter's information will be made available to Adobe Connect during webinar delivery so the appropriate details can be auto-populated without the user having to enter them during the entry for webinar delivery. 
+   >The presenter's information will be made available to Adobe Connect during webinar delivery so the appropriate details can be auto-populated without the user having to enter them during the entry for webinar delivery.
 
 1. Your new presenter will appear in the Webinar team section.
 

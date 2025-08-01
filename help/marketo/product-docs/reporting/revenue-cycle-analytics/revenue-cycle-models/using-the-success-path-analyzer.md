@@ -23,7 +23,7 @@ Use a Success Path Analyzer to explore the specific details that reflect both fl
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
-    * Click **[!UICONTROL Out Flow]** to graph how many people exited the stage. 
+    * Click **[!UICONTROL Out Flow]** to graph how many people exited the stage.
     * Click **[!UICONTROL Conv %]** to graph the conversion rate from this to the next stage.
     * Click **[!UICONTROL Avg Time]** to see how long people spent in this stage before moving to the next stage.
 

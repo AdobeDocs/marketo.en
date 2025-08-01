@@ -91,7 +91,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
    ![](assets/alert-the-sales-rep-17.png)
 
-1. Type your email address in the **[!UICONTROL To Other Emails]** field.  
+1. Type your email address in the **[!UICONTROL To Other Emails]** field.
 
    ![](assets/alert-the-sales-rep-18.png)
 
@@ -109,7 +109,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
 ## Step 3: Test It Out! {#step-test-it-out}
 
-1. Select your landing page and click **[!UICONTROL View Approved Page]**.  
+1. Select your landing page and click **[!UICONTROL View Approved Page]**.
 
    ![](assets/alert-the-sales-21.png)
 

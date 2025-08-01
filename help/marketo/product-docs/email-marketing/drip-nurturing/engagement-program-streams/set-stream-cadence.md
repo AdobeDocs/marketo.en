@@ -63,7 +63,7 @@ You can send engagement content at any interval you want. For example: once a we
    >
    >In this example, an email will go out on Thursday. We then skip a week, and send again on Tuesday, Wednesday, and Thursday of the following week. And then we loop again.
 
-That's it! Keep reading if you want to setup a monthly cadence. 
+That's it! Keep reading if you want to setup a monthly cadence.
 
 ## Monthly {#monthly}
 

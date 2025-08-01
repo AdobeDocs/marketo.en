@@ -15,24 +15,24 @@ The Smart Campaign has 3 main areas: The [Smart List](/help/marketo/product-docs
 
 The Smart List is how you define _who_ you want to target with your Smart Campaign. It has filters and triggers.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Type</th> 
-   <th>Example</th> 
-   <th>Explanation</th> 
-  </tr> 
-  <tr> 
-   <td>Filter</td> 
-   <td>Clicked Link</td> 
-   <td><p>Collect all of the people in a batch that qualify at the present time.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Trigger</td> 
-   <td colspan="1">Clicks Link</td> 
-   <td colspan="1">The moment someone does something, fire the flow immediately.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Type</th>
+   <th>Example</th>
+   <th>Explanation</th>
+  </tr>
+  <tr>
+   <td>Filter</td>
+   <td>Clicked Link</td>
+   <td><p>Collect all of the people in a batch that qualify at the present time.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1">Trigger</td>
+   <td colspan="1">Clicks Link</td>
+   <td colspan="1">The moment someone does something, fire the flow immediately.</td>
+  </tr>
+ </tbody>
 </table>
 
 You can combine filters in various ways as well as use them in conjunction with triggers. This is a powerful tool--experiment with it.

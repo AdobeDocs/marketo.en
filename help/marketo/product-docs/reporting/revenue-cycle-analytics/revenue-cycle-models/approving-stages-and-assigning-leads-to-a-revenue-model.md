@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 ---
 # Approving Stages and Assigning Leads to a Revenue Model {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
-Get your **Revenue Model** up and running by adding existing leads, creating assignment rules for any new leads.  
+Get your **Revenue Model** up and running by adding existing leads, creating assignment rules for any new leads.
 
 ## Approving Stages {#approving-stages}
 

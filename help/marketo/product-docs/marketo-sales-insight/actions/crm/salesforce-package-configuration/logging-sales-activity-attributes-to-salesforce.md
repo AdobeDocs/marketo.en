@@ -5,11 +5,11 @@ exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
 ---
 # Logging Sales Activity Attributes to [!DNL Salesforce] {#logging-sales-activity-attributes-to-salesforce}
 
-Salesforce admin can manually add custom activity fields to [!DNL Salesforce].  
+Salesforce admin can manually add custom activity fields to [!DNL Salesforce].
 
 1. In your [!DNL Salesforce] account, click **[!UICONTROL Setup]**.
 
-1. Search for “Activity Custom Fields” in the quick search field and click on it.  
+1. Search for “Activity Custom Fields” in the quick search field and click on it.
 
 1. Click **[!UICONTROL New]**.
 

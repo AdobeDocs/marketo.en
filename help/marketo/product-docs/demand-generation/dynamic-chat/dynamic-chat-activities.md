@@ -21,7 +21,7 @@ exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
   </tr>
   <tr>
     <td style="width:25%"><b>Engaged with a Conversation Flow/Dialogue</b></td>
-    <td>An engagement occurs the first time a web visitor clicks on a prompt in a Dialogue or Conversational Flow (clicking a multiple choice option, submitting information, booking a meeting, opening a document, etc). If a visitor opens a Dialogue or Conversational Flow, but does not click on a prompt, an engagement is <b>not</b> logged. 
+    <td>An engagement occurs the first time a web visitor clicks on a prompt in a Dialogue or Conversational Flow (clicking a multiple choice option, submitting information, booking a meeting, opening a document, etc). If a visitor opens a Dialogue or Conversational Flow, but does not click on a prompt, an engagement is <b>not</b> logged.
     <br>One engagement event per visitor, per session.</td>
   </tr>
    <tr>

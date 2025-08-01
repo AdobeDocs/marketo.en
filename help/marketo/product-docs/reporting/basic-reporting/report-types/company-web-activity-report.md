@@ -29,41 +29,41 @@ Create a [Web Page Activity report](/help/marketo/product-docs/reporting/basic-r
    >
    >To find the companies who visit your site the most, [sort your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) on the _[!UICONTROL Page Views]_ column and choose **[!UICONTROL Sort Descending]**.
 
-   [Columns that you can select](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for a Company Web Activity report include:  
+   [Columns that you can select](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for a Company Web Activity report include:
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Column(s)</th> 
-   <th>Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Company</td> 
-   <td>The visitors' company.<br> <strong>Names in bold</strong> are confirmed to be the company name by at least one person.</td> 
-  </tr> 
-  <tr> 
-   <td>Inferred Company or ISP</td> 
-   <td>The company, as inferred from the visitors' IP address. <br> <strong>Names in bold</strong> indicate this is the company, not the ISP. </td> 
-  </tr> 
-  <tr> 
-   <td>Page Views</td> 
-   <td>Number of pages loaded by the visitors.</td> 
-  </tr> 
-  <tr> 
-   <td>People</td> 
-   <td>Number of people from this company who visited your site.</td> 
-  </tr> 
-  <tr> 
-   <td>Country, State/Region, &amp; City</td> 
-   <td>Geographic location of the company.</td> 
-  </tr> 
-  <tr> 
-   <td>First/Last Visit (Time zone)</td> 
-   <td>Date and time of the first/last visit by anyone from this company.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>Column(s)</th>
+   <th>Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Company</td>
+   <td>The visitors' company.<br> <strong>Names in bold</strong> are confirmed to be the company name by at least one person.</td>
+  </tr>
+  <tr>
+   <td>Inferred Company or ISP</td>
+   <td>The company, as inferred from the visitors' IP address. <br> <strong>Names in bold</strong> indicate this is the company, not the ISP. </td>
+  </tr>
+  <tr>
+   <td>Page Views</td>
+   <td>Number of pages loaded by the visitors.</td>
+  </tr>
+  <tr>
+   <td>People</td>
+   <td>Number of people from this company who visited your site.</td>
+  </tr>
+  <tr>
+   <td>Country, State/Region, &amp; City</td>
+   <td>Geographic location of the company.</td>
+  </tr>
+  <tr>
+   <td>First/Last Visit (Time zone)</td>
+   <td>Date and time of the first/last visit by anyone from this company.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

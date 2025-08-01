@@ -56,11 +56,11 @@ For HTML components, only specific elements can become editable fields. Expand t
 
 +++Editable elements in HTML components:
 
-The elements below can become editable fields in an HTML component: 
+The elements below can become editable fields in an HTML component:
 
-* A portion of text 
-* A full URL for link or image (doesn't work with portion of a URL) 
-* Entire CSS property (doesn't work with partial property) 
+* A portion of text
+* A full URL for link or image (doesn't work with portion of a URL)
+* Entire CSS property (doesn't work with partial property)
 
 For example, in the code below, each element highlighted in red can become a property:
 

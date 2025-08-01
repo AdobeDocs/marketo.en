@@ -12,123 +12,123 @@ For further strategy assistance or help customizing a program, please contact th
 
 ## Channel Summary {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Channel</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Channel</th>
    <th>Membership Status</th>
    <th>Analytics Behavior</th>
    <th>Program Type</th>
-  </tr> 
-  <tr> 
-   <td>Web Request</td> 
+  </tr>
+  <tr>
+   <td>Web Request</td>
    <td>01 - Engaged - Success</td>
    <td>Inclusive</td>
    <td>Default</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Program Contains the Following Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type</th>
    <th>Template Name</th>
    <th>Asset Name</th>
   </tr>
-  <tr> 
-   <td>Form</td> 
+  <tr>
+   <td>Form</td>
    <td>&nbsp</td>
    <td>FM-WebRequestForm</td>
   </tr>
-  <tr> 
-   <td>Email</td> 
+  <tr>
+   <td>Email</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Quick Start Email Template</a></td>
    <td>Alert-WebRequest</td>
   </tr>
-  <tr> 
-   <td>Landing Page</td> 
+  <tr>
+   <td>Landing Page</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Quick Start LP Template</a></td>
    <td>01 - LP - Request</td>
   </tr>
-  <tr> 
-   <td>Landing Page</td> 
+  <tr>
+   <td>Landing Page</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Quick Start LP Template</a></td>
    <td>02 - LP - ThankYou</td>
   </tr>
-  <tr> 
-   <td>Local Report</td> 
+  <tr>
+   <td>Local Report</td>
    <td>&nbsp</td>
    <td>Landing Page Performance</td>
   </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
+   <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>New Person from Web Request</td>
   </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
+   <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>New Person from Webinar</td>
   </tr>
-  <tr> 
-   <td>Folder</td> 
+  <tr>
+   <td>Folder</td>
    <td>&nbsp</td>
-   <td>Assets - Houses all creative assets 
+   <td>Assets - Houses all creative assets
 <br/>(subfolders for Alerts & Landing Pages)</td>
   </tr>
-  <tr> 
-   <td>Folder</td> 
+  <tr>
+   <td>Folder</td>
    <td>&nbsp</td>
    <td>Campaigns - Houses all Smart Campaigns</td>
   </tr>
-  <tr> 
-   <td>Folder</td> 
+  <tr>
+   <td>Folder</td>
    <td>&nbsp</td>
    <td>Reports</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/wr-yyyy-mm-web-request-program-1.png)
 
 ## My Tokens Included {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Token Type</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Token Type</th>
    <th>Token Name</th>
    <th>Value</th>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.Request-Type}}</code></td>
    <td>Contact Us</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.ALERT-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.ALERT-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.ALERT-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Text</td> 
+  <tr>
+   <td>Text</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>My.ThankYouPageURL?without the http://</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Conflict Rules {#conflict-rules}
@@ -152,7 +152,7 @@ For further strategy assistance or help customizing a program, please contact th
 ## Best Practices {#best-practices}
 
 * After import of the webinar program, move the form from a local asset to a global asset located in the Design Studio.
-   * Decreasing the number of forms and utilizing more global assets from the Design Studio allows more scalability in your program design and administrative governance. It also provides flexibility for regular compliance updates for fields, opt-in language, etc. 
+   * Decreasing the number of forms and utilizing more global assets from the Design Studio allows more scalability in your program design and administrative governance. It also provides flexibility for regular compliance updates for fields, opt-in language, etc.
 
 * Consider updating the templates in your imported program to utilize currently branded templates, or update the newly imported template to reflect your brand by adding in a snippet or your appropriate logo/footer information.
 

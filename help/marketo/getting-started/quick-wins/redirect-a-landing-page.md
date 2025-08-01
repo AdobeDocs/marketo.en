@@ -52,7 +52,7 @@ feature: Getting Started
 
 ## Mission Complete {#mission-complete}
 
-Congratulations! You've successfully redirected a landing page.  
+Congratulations! You've successfully redirected a landing page.
 
 <br>&nbsp;
 

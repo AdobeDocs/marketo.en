@@ -23,8 +23,8 @@ See how your [Smart Campaigns](/help/marketo/product-docs/core-marketo-concepts/
 
    >[!TIP]
    >
-   >To find the campaigns that processed the most people, for example, [sort your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} on _Total People Processed_ and choose **Sort Descending**. 
-   
+   >To find the campaigns that processed the most people, for example, [sort your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} on _Total People Processed_ and choose **Sort Descending**.
+
 **[Columns you can select](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for a Campaign Activity report include**:
 
 <table><thead>

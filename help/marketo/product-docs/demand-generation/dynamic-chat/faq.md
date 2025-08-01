@@ -60,7 +60,7 @@ Dialogues are designed to be shown to a visitor only once. So as soon as a visit
 
 This most likely indicates that you haven't been added as a Dynamic Chat user in the Adobe Admin Console. Please contact either a system administrator for your Adobe org or a product administrator for Dynamic Chat to request access to Dynamic Chat.
 
-**How do I access the transcript for an engaged conversation?** 
+**How do I access the transcript for an engaged conversation?**
 
 Dynamic Chat transcripts can be accessed for any known lead that has engaged with a Dynamic Chat Dialogue via the "Engaged with Dialogue" activity in Marketo Engage, and whose Conversation Status is either "Completed" or "Dropped."
 
@@ -68,7 +68,7 @@ Dynamic Chat transcripts can be accessed for any known lead that has engaged wit
 
 There is currently no systematic way to restart a conversation or go back to a previous point, but this is on the Dynamic Chat roadmap.
 
-**Does Dynamic Chat integrate with Salesforce?** 
+**Does Dynamic Chat integrate with Salesforce?**
 
 Dynamic Chat integrates with Salesforce via the Marketo Engage Salesforce integration.
 

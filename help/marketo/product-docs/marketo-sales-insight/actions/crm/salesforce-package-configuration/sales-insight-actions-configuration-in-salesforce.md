@@ -28,7 +28,7 @@ exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
 1. Click **[!UICONTROL New Remote Site]** again.
- 
+
    ![](assets/msi-actions-configuration-in-salesforce-4a.png)
 
 1. Enter the Remote Site Name (it can be something like "MarketoSalesInsight2"). Enter Remote Site URL `https://mkto-sales-connect.adobe.io` and click **[!UICONTROL Save]**.

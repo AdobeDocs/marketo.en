@@ -30,7 +30,7 @@ Text email links can be tracked in Marketo. Let's see how it works.
 
    >[!CAUTION]
    >
-   >If an email was sent over 365 days ago **and** no one has clicked on any of its links in the last 180 days, Marketo Engage prunes the route to the URL from our database, which will cause the link to break. If you need the link to be permanent, do not use tracking. 
+   >If an email was sent over 365 days ago **and** no one has clicked on any of its links in the last 180 days, Marketo Engage prunes the route to the URL from our database, which will cause the link to break. If you need the link to be permanent, do not use tracking.
 
 1. Close out of the editor, and don't forget to approve the draft.
 

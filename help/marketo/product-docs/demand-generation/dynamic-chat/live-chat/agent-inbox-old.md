@@ -13,7 +13,7 @@ Agents will field live chats within the Agent Inbox. In addition to the active c
 
 ## Availability Toggle {#availability-toggle}
 
-On the upper-right side of the Agent Inbox screen, you have the option to set your status as available or unavailable. 
+On the upper-right side of the Agent Inbox screen, you have the option to set your status as available or unavailable.
 
    ![](assets/agent-inbox-2.png)
 
@@ -59,7 +59,7 @@ Below the visitor information is activity history. View activity types and dates
 
 >[!NOTE]
 >
->Information is displayed for the past 90 days only. 
+>Information is displayed for the past 90 days only.
 
 ## Calendar Sharing {#calendar-sharing}
 
@@ -76,4 +76,4 @@ At the bottom of the live chat window is an icon that allows you to share your o
 1. The chat visitor will be able to book a meeting.
 
    ![](assets/agent-inbox-10.png)
-   
+

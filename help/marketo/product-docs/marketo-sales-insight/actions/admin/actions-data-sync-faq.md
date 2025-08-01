@@ -8,7 +8,7 @@ exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
 
 The data unification field sync for [!DNL Sales Insight Actions] enables the system to pull person information from your Marketo Engage database into your [!DNL Sales Insight Actions] database.
 
-This provides up-to-date people data in the [!DNL Sales Insight Actions] web app and allows the system to collect unique IDs for corresponding person records in Marketo and lead/contact/account/opportunity records in [!DNL Salesforce], so records can be properly referenced for logging data.  
+This provides up-to-date people data in the [!DNL Sales Insight Actions] web app and allows the system to collect unique IDs for corresponding person records in Marketo and lead/contact/account/opportunity records in [!DNL Salesforce], so records can be properly referenced for logging data.
 
 This sync can be enabled from the [!DNL Sales Insight Actions] Config tab in the Admin section of Marketo Engage. For more information check out [Initiate Data Sync](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
 
@@ -40,7 +40,7 @@ The activity data such as email, call, interesting moment and web, is all source
 
    ![](assets/actions-data-sync-faq-4.png)
 
-To ensure all activity data can be sourced from Marketo Engage, [!DNL Sales Insight Actions] syncs all activity data to Marketo Engage.  
+To ensure all activity data can be sourced from Marketo Engage, [!DNL Sales Insight Actions] syncs all activity data to Marketo Engage.
 
 ## What fields related to people records sync from Marketo Engage to [!DNL Sales Insight Actions]? {#what-fields-sync}
 
@@ -116,4 +116,3 @@ The diagram above shows what information is logged to [!DNL Salesforce]. Activit
 >* [[!DNL Salesforce] Sync Settings](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Reminder Task Sync with [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [Initiate Data Sync](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
-

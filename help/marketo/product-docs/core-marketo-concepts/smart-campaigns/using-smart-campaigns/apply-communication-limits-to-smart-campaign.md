@@ -11,7 +11,7 @@ feature: Smart Campaigns
 >
 >[Enable Communication Limits](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
 
-It's not a good idea to email someone multiple times a day, or too many times in a week, right? Luckily, Marketo Engage has communication limits to help. 
+It's not a good idea to email someone multiple times a day, or too many times in a week, right? Luckily, Marketo Engage has communication limits to help.
 
 >[!NOTE]
 >

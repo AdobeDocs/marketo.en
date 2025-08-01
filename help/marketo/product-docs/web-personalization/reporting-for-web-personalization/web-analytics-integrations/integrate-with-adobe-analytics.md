@@ -58,7 +58,7 @@ Complete the following steps to set up these variables in AA:
 
 1. Go to **[!UICONTROL Admin Tools]** in your AA account.
 1. Select the **[!UICONTROL Report Suite]** to be used with the integration.
-1. Under **[!UICONTROL Edit Settings]**, go to **[!UICONTROL Conversion]** and select **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.  
+1. Under **[!UICONTROL Edit Settings]**, go to **[!UICONTROL Conversion]** and select **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.
    Select the [Conversion Variable](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) number (we recommend):
 
     1. Evar # 20 for Industry Custom Conversions
@@ -214,7 +214,7 @@ Your reportlets will be displayed in the dashboard.
 
    ![](assets/sitecatalyst1-1.png)
 
-1. Search for Impressions to view Segment and Campaign names representing the number of impressions for the campaign.  
+1. Search for Impressions to view Segment and Campaign names representing the number of impressions for the campaign.
    ![](assets/sitecatalyst1.png)
 
 1. Search for Conversion to view Segment and Campaign names representing the number of clicks for the campaign.

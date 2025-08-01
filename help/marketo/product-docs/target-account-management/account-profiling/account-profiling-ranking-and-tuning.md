@@ -21,37 +21,37 @@ The results show you all of your known accounts broken down by grade. A is the h
 
 While optional, we recommend selecting the Automatically promote checkbox, as it will save you a ton of time. However, if you'd like to go through each account and [add them manually](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), simply leave the box unchecked.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Rank</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Rank</span></strong></td>
+   <td>
     <div>
-      Account rank based on the Ideal Customer Profile. A is the best fit, D is the least fit. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Propensity</span></strong></td> 
-   <td> 
+      Account rank based on the Ideal Customer Profile. A is the best fit, D is the least fit.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Propensity</span></strong></td>
+   <td>
     <div>
-      Estimated increase in conversion rate compared to a non-ICP based selection of accounts. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Accounts (%)</span></strong></td> 
-   <td> 
+      Estimated increase in conversion rate compared to a non-ICP based selection of accounts.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Accounts (%)</span></strong></td>
+   <td>
     <div>
-      Percentage of accounts in model input that have this rank. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">% of Model Basis</span></strong></td> 
-   <td> 
+      Percentage of accounts in model input that have this rank.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">% of Model Basis</span></strong></td>
+   <td>
     <div>
-      Percentage of accounts in model basis that have this rank. 
-    </div></td> 
-  </tr> 
- </tbody> 
+      Percentage of accounts in model basis that have this rank.
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Model Tuning {#model-tuning}
@@ -66,86 +66,86 @@ There are several tabs to choose from, allowing for in-depth customization.
 
 **Indicator Categories**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Compliance</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Compliance</span></strong></td>
+   <td>
     <div>
-      Certifications, compliance-related positions/hiring. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Operations</span></strong></td> 
-   <td> 
+      Certifications, compliance-related positions/hiring.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Operations</span></strong></td>
+   <td>
     <div>
-      Operations-related positions/hiring. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">HR</span></strong></td> 
-   <td> 
+      Operations-related positions/hiring.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">HR</span></strong></td>
+   <td>
     <div>
       HR or Payroll software, HR-related positions/hiring.
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Engineering</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Engineering</span></strong></td>
+   <td>
     <div>
-      Technologies, frameworks, engineering-related positions/hiring. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Sales</span></strong></td> 
-   <td> 
+      Technologies, frameworks, engineering-related positions/hiring.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Sales</span></strong></td>
+   <td>
     <div>
-      Solutions and software for sales, sales-related positions/hiring. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Intent</span></strong></td> 
-   <td> 
+      Solutions and software for sales, sales-related positions/hiring.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Intent</span></strong></td>
+   <td>
     <div>
-      Intent indicators. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">IT</span></strong></td> 
-   <td> 
+      Intent indicators.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">IT</span></strong></td>
+   <td>
     <div>
       Hardware and software solutions, technologies, IT-related positions/hiring.
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Finance</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Finance</span></strong></td>
+   <td>
     <div>
-      Finance software, finance-related positions/hiring. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Marketing</span></strong></td> 
-   <td> 
+      Finance software, finance-related positions/hiring.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Marketing</span></strong></td>
+   <td>
     <div>
-      Marketing technologies and software, marketing-related positions/hiring. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Business</span></strong></td> 
-   <td> 
+      Marketing technologies and software, marketing-related positions/hiring.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Business</span></strong></td>
+   <td>
     <div>
-      Forbes or Inc listings or business partnerships. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Customer Experience & Relations</span></strong></td> 
-   <td> 
+      Forbes or Inc listings or business partnerships.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Customer Experience & Relations</span></strong></td>
+   <td>
     <div>
       Customer success and customer relations positions/hiring.
-    </div></td> 
-  </tr> 
- </tbody> 
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 Hover over the tool tips for a description of each column.

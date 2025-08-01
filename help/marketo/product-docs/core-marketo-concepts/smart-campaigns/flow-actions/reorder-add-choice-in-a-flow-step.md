@@ -22,7 +22,7 @@ Since only the first matching choice applies to a person, order matters. If you 
    >When reordering, you can **[!UICONTROL Move Up]**, **[!UICONTROL Move Down]**, or **[!UICONTROL Move To]**.
 
    Nice job! Now you know how to move a choice up/down by single increments.
-   
+
    ![](assets/reorder-add-choice-in-a-flow-step-3.png)
 
 **OPTIONAL STEP**: If you have many choices and need to move one multiple levels up or down, you can use this alternate method to save some time. Click on the choice you want to move, then under **[!UICONTROL Move To]**, drag the slider to the position you want to move the choice to.

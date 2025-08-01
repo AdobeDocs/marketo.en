@@ -11,7 +11,7 @@ Here's how IT can uninstall the Marketo [!DNL Outlook] Plugin remotely.
 
 Run the following command line as the as as ‘System’ or an Administrative user account with the /x switch to uninstall.
 
-`<pre>msiexec.exe /x [File Name] /qn </pre>`  
+`<pre>msiexec.exe /x [File Name] /qn </pre>`
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Run the following command line as the as as ‘System’ or an Administrative us
 
 For troubleshooting you can enable logging to create an output log file.
 
-`<pre>msiexec.exe /x [File Name] /qn /L*v MarketoAddinUninstall.log</pre>`  
+`<pre>msiexec.exe /x [File Name] /qn /L*v MarketoAddinUninstall.log</pre>`
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ For troubleshooting you can enable logging to create an output log file.
 
 To specify a location of the log files, you can specify the file path in the command line.
 
-`<pre>msiexec.exe /x [File Name] /qn /L*v [File Path]MarketoAddinUninstall.log</pre>`  
+`<pre>msiexec.exe /x [File Name] /qn /L*v [File Path]MarketoAddinUninstall.log</pre>`
 
 >[!NOTE]
 >

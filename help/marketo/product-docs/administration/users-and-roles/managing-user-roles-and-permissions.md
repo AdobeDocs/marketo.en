@@ -55,7 +55,7 @@ You can assign roles to a user when you [create users for the first time](/help/
 
 ## Create a New Role {#create-a-new-role}
 
-Sometimes, your organization has employees in very specific roles that require a custom combination of permissions.  
+Sometimes, your organization has employees in very specific roles that require a custom combination of permissions.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -107,7 +107,7 @@ If you need to change the permissions that are associated with an existing role,
 
 ## Delete a Role {#delete-a-role}
 
-If a role becomes unnecessary, you can delete it.  
+If a role becomes unnecessary, you can delete it.
 
 1. Go to the **[!UICONTROL Admin]** area.
 

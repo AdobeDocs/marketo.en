@@ -10,41 +10,41 @@ Sending emails in bulk is a great way to accelerate your prospect engagement. [!
 
 **Group Email vs. Select and Send**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Send Type</th> 
-   <th>Max Number of Emails</th> 
-   <th>Initiated Send By</th> 
-   <th>Bulk Edit Emails</th> 
-   <th>Edit Each Email Uniquely</th> 
-   <th>Template &amp; Dynamic Field Support</th> 
-  </tr> 
-  <tr> 
-   <td>Group Email</td> 
-   <td>1,000</td> 
-   <td>Select a group and click the “[!UICONTROL Group Actions]” button, or type the group name into the To field.</td> 
-   <td>Yes</td> 
-   <td>No</td> 
-   <td>Yes</td> 
-  </tr> 
-  <tr> 
-   <td>Select and Send</td> 
-   <td>200</td> 
-   <td>Select people in the grid and click the “[!UICONTROL Email Selected]” button in the actions bar, or type recipients into the bulk email sidebar.</td> 
-   <td>Yes</td> 
-   <td>Yes</td> 
-   <td>Yes</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>Send Type</th>
+   <th>Max Number of Emails</th>
+   <th>Initiated Send By</th>
+   <th>Bulk Edit Emails</th>
+   <th>Edit Each Email Uniquely</th>
+   <th>Template &amp; Dynamic Field Support</th>
+  </tr>
+  <tr>
+   <td>Group Email</td>
+   <td>1,000</td>
+   <td>Select a group and click the “[!UICONTROL Group Actions]” button, or type the group name into the To field.</td>
+   <td>Yes</td>
+   <td>No</td>
+   <td>Yes</td>
+  </tr>
+  <tr>
+   <td>Select and Send</td>
+   <td>200</td>
+   <td>Select people in the grid and click the “[!UICONTROL Email Selected]” button in the actions bar, or type recipients into the bulk email sidebar.</td>
+   <td>Yes</td>
+   <td>Yes</td>
+   <td>Yes</td>
+  </tr>
+ </tbody>
 </table>
 
 **Using Group Email**

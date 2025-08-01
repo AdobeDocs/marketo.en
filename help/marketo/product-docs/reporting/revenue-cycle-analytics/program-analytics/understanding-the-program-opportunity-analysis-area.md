@@ -53,45 +53,45 @@ Success-related measures give credit to all the programs that contribute to a le
 
 As with acquisition, the value of contributing toward the sales made to a lead changes over time, and is zero until some purchase is made by the lead.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Attribution Measure - Opportunity-Related (FT or MT)*</th> 
-   <th>Description</th> 
-  </tr> 
-  <tr> 
-   <td>Cost of Opportunity</td> 
-   <td>The portion of the cost of the program that influenced the opportunity. The cost may be split if there were multiple leads involved.</td> 
-  </tr> 
-  <tr> 
-   <td>Opportunities Created</td> 
-   <td>The portion of credit the program received for influencing the creation of the opportunity. It may be a fraction if there were multiple leads involved.</td> 
-  </tr> 
-  <tr> 
-   <td>Opportunities Won</td> 
-   <td>The portion of credit the program received for influencing the won opportunity. It may be a fraction if there were multiple leads involved.</td> 
-  </tr> 
-  <tr> 
-   <td>Pipeline Created</td> 
-   <td>The portion of credit (in monetary value) the program received for influencing the creation of the opportunity. It may be a fraction if there were multiple leads involved.</td> 
-  </tr> 
-  <tr> 
-   <td>Pipeline Created - Still Open</td> 
-   <td>The portion of credit (in monetary value) the program received for influencing creation of the currently open opportunity. It may be a fraction if there were multiple leads involved.</td> 
-  </tr> 
-  <tr> 
-   <td>Revenue Expected</td> 
-   <td>The portion of credit (in monetary value) the program received for influencing the creation of the opportunity. Expected Revenue is the opportunity probability multiplied by the opportunity value. It may be a fraction if there were multiple leads involved.</td> 
-  </tr> 
-  <tr> 
-   <td>Revenue To Investment</td> 
-   <td>This is the ratio of the portion of credit (in monetary value) the program received for influencing won opportunities and the cost of the program.</td> 
-  </tr> 
-  <tr> 
-   <td>Revenue Won</td> 
-   <td>The portion of credit (in monetary value) the program received for influencing won opportunity. It may be a fraction if there were multiple leads involved.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Attribution Measure - Opportunity-Related (FT or MT)*</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td>Cost of Opportunity</td>
+   <td>The portion of the cost of the program that influenced the opportunity. The cost may be split if there were multiple leads involved.</td>
+  </tr>
+  <tr>
+   <td>Opportunities Created</td>
+   <td>The portion of credit the program received for influencing the creation of the opportunity. It may be a fraction if there were multiple leads involved.</td>
+  </tr>
+  <tr>
+   <td>Opportunities Won</td>
+   <td>The portion of credit the program received for influencing the won opportunity. It may be a fraction if there were multiple leads involved.</td>
+  </tr>
+  <tr>
+   <td>Pipeline Created</td>
+   <td>The portion of credit (in monetary value) the program received for influencing the creation of the opportunity. It may be a fraction if there were multiple leads involved.</td>
+  </tr>
+  <tr>
+   <td>Pipeline Created - Still Open</td>
+   <td>The portion of credit (in monetary value) the program received for influencing creation of the currently open opportunity. It may be a fraction if there were multiple leads involved.</td>
+  </tr>
+  <tr>
+   <td>Revenue Expected</td>
+   <td>The portion of credit (in monetary value) the program received for influencing the creation of the opportunity. Expected Revenue is the opportunity probability multiplied by the opportunity value. It may be a fraction if there were multiple leads involved.</td>
+  </tr>
+  <tr>
+   <td>Revenue To Investment</td>
+   <td>This is the ratio of the portion of credit (in monetary value) the program received for influencing won opportunities and the cost of the program.</td>
+  </tr>
+  <tr>
+   <td>Revenue Won</td>
+   <td>The portion of credit (in monetary value) the program received for influencing won opportunity. It may be a fraction if there were multiple leads involved.</td>
+  </tr>
+ </tbody>
 </table>
 
 _&#42; (FT) = First-Touch Attribution, used for measures of lead acquisition; (MT) = Multi-Touch Attribution, used for measures of lead success_
@@ -118,66 +118,66 @@ Marketo gives credit appropriately without double-counting Opportunities across 
 
 The other measures available reflect the overall performance of the Program.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Attribution Measure - Program-Related</th> 
-   <th>Description</th> 
-  </tr> 
-  <tr> 
-   <td># of Opportunities Associated with Program</td> 
-   <td><p>The number of total Opportunities that had given any sort of attribution credit to a program. Opportunities can be influenced by one or more leads and by one or more Programs.</p></td> 
-  </tr> 
-  <tr> 
-   <td>Avg # of Successes per Closed Opportunity</td> 
-   <td>The average number of Program successes before the Opportunity was closed. <br></td> 
-  </tr> 
-  <tr> 
-   <td>Avg # of Successes per Opportunity Created</td> 
-   <td>The average number of Programs successes before the Opportunity was created.</td> 
-  </tr> 
-  <tr> 
-   <td>New Names</td> 
-   <td>The total number of new names, that is, new leads, acquired by the Program.</td> 
-  </tr> 
-  <tr> 
-   <td>Program Cost</td> 
-   <td>Total cost of the Program.</td> 
-  </tr> 
-  <tr> 
-   <td>Success (Total)</td> 
-   <td>The total number of Program members who achieved success.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Attribution Measure - Program-Related</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td># of Opportunities Associated with Program</td>
+   <td><p>The number of total Opportunities that had given any sort of attribution credit to a program. Opportunities can be influenced by one or more leads and by one or more Programs.</p></td>
+  </tr>
+  <tr>
+   <td>Avg # of Successes per Closed Opportunity</td>
+   <td>The average number of Program successes before the Opportunity was closed. <br></td>
+  </tr>
+  <tr>
+   <td>Avg # of Successes per Opportunity Created</td>
+   <td>The average number of Programs successes before the Opportunity was created.</td>
+  </tr>
+  <tr>
+   <td>New Names</td>
+   <td>The total number of new names, that is, new leads, acquired by the Program.</td>
+  </tr>
+  <tr>
+   <td>Program Cost</td>
+   <td>Total cost of the Program.</td>
+  </tr>
+  <tr>
+   <td>Success (Total)</td>
+   <td>The total number of Program members who achieved success.</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Program Opportunity Analysis Dimensions (Yellow Dots) {#program-opportunity-analysis-dimensions-yellow-dots}
 
 Whereas measures (blue dots) are calculated, and require some thought and explanation to use, dimensions (yellow dots) are descriptive. Here are the available dimensions.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Category</th> 
-   <th>Display Label</th> 
-  </tr> 
-  <tr> 
-   <td>Opportunity Attributes</td> 
-   <td>Opportunity Closed<br>Opportunity Name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity Type</td> 
-  </tr> 
-  <tr> 
-   <td>Opportunity Timeframe</td> 
-   <td>Opportunity Closed Year/Quarter/Month<br>Opportunity Created Year/Quarter/Month</td> 
-  </tr> 
-  <tr> 
-   <td>Program Attributes</td> 
-   <td>Program Channel<br>Program Name</td> 
-  </tr> 
-  <tr> 
-   <td>Program Cost Timeframe</td> 
-   <td>Cost Year/Quarter/Month</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Category</th>
+   <th>Display Label</th>
+  </tr>
+  <tr>
+   <td>Opportunity Attributes</td>
+   <td>Opportunity Closed<br>Opportunity Name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity Type</td>
+  </tr>
+  <tr>
+   <td>Opportunity Timeframe</td>
+   <td>Opportunity Closed Year/Quarter/Month<br>Opportunity Created Year/Quarter/Month</td>
+  </tr>
+  <tr>
+   <td>Program Attributes</td>
+   <td>Program Channel<br>Program Name</td>
+  </tr>
+  <tr>
+   <td>Program Cost Timeframe</td>
+   <td>Cost Year/Quarter/Month</td>
+  </tr>
+ </tbody>
 </table>
 
 *&#42;All of the Opportunities that gave any type of attribution credit to a Program. Opportunities can be influenced by one or more leads and by one or more Programs.*

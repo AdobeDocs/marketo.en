@@ -45,7 +45,7 @@ Customize your [!UICONTROL LinkedIn Lead Gen] forms to collect custom lead attri
 
 We released two features as part of our new Slack integration:
 
-* System notifications: Get Slack notifications regarding important events in your Marketo instance, like alerts about current campaign statuses and any issues that require immediate attention. 
+* System notifications: Get Slack notifications regarding important events in your Marketo instance, like alerts about current campaign statuses and any issues that require immediate attention.
 * Interesting moments: When a Marketo Insight has been triggered by a known individual from a sales account, lead owners can be notified via Slack. Notifications include lead information as well as details about the sales account.
 
 ## ABM Enhancements {#abm-enhancements}

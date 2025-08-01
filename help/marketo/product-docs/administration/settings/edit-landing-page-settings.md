@@ -13,7 +13,7 @@ You can edit your domain name and fallback page, enable or disable form prefill,
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area. 
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/edit-landing-page-settings-1.png)
 

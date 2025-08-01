@@ -25,7 +25,7 @@ You can change the order of the columns in a report.
 
    ![](assets/image2014-9-16-10-3a50-3a37.png)
 
-   You can repeat these steps until the columns appear in the order that works best for you.  
+   You can repeat these steps until the columns appear in the order that works best for you.
 
    >[!MORELIKETHIS]
    >

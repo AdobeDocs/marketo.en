@@ -49,7 +49,7 @@ You can also [download the checklists](/help/marketo/getting-started/inheriting-
 * [Marketing Activities](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
 * [Document your inherited instance setup](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
- 
+
 ## Ways to Get Help {#ways-to-get-help}
 
 Need more help? Connect with us or fellow Marketo Engage users via the links below.

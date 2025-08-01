@@ -4,7 +4,7 @@ title: GenAI features
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
 ---
-# GenAI features {#gen-ai-features} 
+# GenAI features {#gen-ai-features}
 
 Automatically generate chapters and summaries for your recorded webinars, making them more accessible and easier to navigate for your audience.
 

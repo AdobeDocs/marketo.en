@@ -68,9 +68,9 @@ Adding people to your Blocklist prevents them from receiving your correspondence
    ![](assets/add-person-to-blocklist-13.png)
 
 1. Click **[!UICONTROL Run]** again.
-   
+
    ![](assets/add-person-to-blocklist-14.png)
-   
+
 These people will no longer receive emails.
 
    >[!TIP]

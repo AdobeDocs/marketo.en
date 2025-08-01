@@ -19,7 +19,7 @@ Free-form landing pages can be created as local assets of a program or in the [!
 
    ![](assets/login-marketing-activities.png)
 
-1. Click on your program.  
+1. Click on your program.
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 

@@ -51,7 +51,7 @@ Each of these mentioned in the example is a folder. Notice how they are all uniq
 >
 >The "Archive" folder is a special kind of folder that is designed to remove items from select lists as well as reporting. This will help your system run quicker. Learn [more about folders](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
-You can certainly add more folders as you see fit. Just keep in mind that future generations of marketers in your company will live with your decisions about how to name/organize things.  
+You can certainly add more folders as you see fit. Just keep in mind that future generations of marketers in your company will live with your decisions about how to name/organize things.
 
 ## Naming Schemes {#naming-schemes}
 
@@ -111,7 +111,7 @@ One of the coolest features in Marketo is the ability to clone programs. This me
 >
 >Notice the Event Templates in the example at the top. Put your different types of events in there for easy cloning.
 
-Some people even abstract most of the text in the emails and landing pages into tokens. This allows you to clone and then edit the tokens. Finally, go to the program schedule view and adjust the dates and you are finished. Voila!  
+Some people even abstract most of the text in the emails and landing pages into tokens. This allows you to clone and then edit the tokens. Finally, go to the program schedule view and adjust the dates and you are finished. Voila!
 
 ## Summary {#summary}
 

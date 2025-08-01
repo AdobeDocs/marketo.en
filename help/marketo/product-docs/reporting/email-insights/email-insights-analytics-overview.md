@@ -51,7 +51,7 @@ On the right side of the page, guided metrics help you discover relevant drivers
 >
 >See that [!UICONTROL Refresh] on the upper right? When you see it, you'll need to manually click it to refresh the Insights module. We only show it when you have made a change to filters that would invalidate the current values.
 
-You can also specify what you see (left to right): All, Audience, Content, and Platform.  
+You can also specify what you see (left to right): All, Audience, Content, and Platform.
 
 ![](assets/guided-bar.png)
 

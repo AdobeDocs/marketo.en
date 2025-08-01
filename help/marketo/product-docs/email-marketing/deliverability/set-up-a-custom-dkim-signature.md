@@ -35,12 +35,12 @@ You can personalize the DKIM signature to reflect the domain(s) of your choice. 
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   <table> 
+   <table>
    <tr>
    <td width="20%"><b>Selector</b></td>
    <td>A unique string/identifier that's used to locate the public key portion of the DKIM record. It can be an arbitrary string, or a a unique identifier to separate out and identify the purpose of that DKIM key/record.</td>
    </tr>
-   <tr> 
+   <tr>
    <td width="20%"><b>Key Size</b></td>
    <td>The level of security you want your DKIM signature to be encrypted with.</td>
    </tr>
@@ -48,7 +48,7 @@ You can personalize the DKIM signature to reflect the domain(s) of your choice. 
    </table>
 
    <p>
-   
+
    >[!TIP]
    >
    >* We recommend a Key Size of 2048.

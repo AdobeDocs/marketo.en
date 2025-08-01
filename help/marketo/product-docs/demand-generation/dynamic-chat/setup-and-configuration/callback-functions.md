@@ -13,9 +13,9 @@ You can use Dynamic Chat widget callback functions to send conversation events t
 This event indicates the Dynamic Chat widget is ready for use and is fired when all scripts related to Dynamic Chat are loaded in the webpage.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    // code here will execute when chatbot scripts are loaded in a webpage 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    // code here will execute when chatbot scripts are loaded in a webpage
+});
 ```
 
 ## Conversation Events {#conversation-events}
@@ -24,15 +24,15 @@ These events are related to a conversation that is targeted on a specific page f
 
 ### Conversation Triggered
 
-A conversation (e.g., a Dialogue) that is targeted for a website visitor is resolved and the chatbot is shown to them. 
+A conversation (e.g., a Dialogue) that is targeted for a website visitor is resolved and the chatbot is shown to them.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
- // code here will execute when the chatbot is loaded for a visitor 
-    }); 
-});  
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => {
+ // code here will execute when the chatbot is loaded for a visitor
+    });
+});
 ```
 
 ### Conversation Engaged {#conversation-engaged}
@@ -40,12 +40,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 Visitor engaged (e.g., provided their first response) with the chatbot.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_ENGAGED, (event) => { 
- // code here will execute when a visitor engages with the chatbot 
-     }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_ENGAGED, (event) => {
+ // code here will execute when a visitor engages with the chatbot
+     });
+});
 ```
 
 ### Conversation Completed {#conversation-completed}
@@ -53,12 +53,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 The visitor has reached the end of the conversation.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_COMPLETED, (event) => { 
- // code here will execute when a conversation is completed 
-     }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_COMPLETED, (event) => {
+ // code here will execute when a conversation is completed
+     });
+});
 ```
 
 ### Conversation Closed
@@ -66,17 +66,17 @@ window.addEventListener('adobedx.conversations.ready', () => {
 The visitor has closed the conversation before reaching the end.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_CLOSED, (event) => { 
- // code here will execute when a conversation is closed 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_CLOSED, (event) => {
+ // code here will execute when a conversation is closed
+    });
+});
 ```
 
 The `event` parameter is an object with metadata related to the conversation. You can access this metadata by accessing `event.data`.
 
-Here are some key metadata values you can access: 
+Here are some key metadata values you can access:
 
 <table>
 <thead>
@@ -113,17 +113,17 @@ Here are some key metadata values you can access:
 
 These events are triggered when a visitor engaging in a conversation provides their contact information (e.g., phone number or email address). Below are the events that fall under this category.
 
-### Phone Number {#phone-number} 
+### Phone Number {#phone-number}
 
 This event is triggered when a visitor provides their phone number during the conversation.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_INPUT_PHONE, (event) => { 
- // code here will execute when a visitor provides their phone number 
-    }); 
-});  
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_INPUT_PHONE, (event) => {
+ // code here will execute when a visitor provides their phone number
+    });
+});
 ```
 
 ### Email ID {#email-id}
@@ -131,12 +131,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 This event is triggered when a visitor provides their email address during the conversation.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_INPUT_EMAIL, (event) => { 
- // code here will execute when a visitor provides their email address 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_INPUT_EMAIL, (event) => {
+ // code here will execute when a visitor provides their email address
+    });
+});
 ```
 
 The `event` parameter is an object with metadata related to the conversation. You can access this metadata by accessing `event.data`.
@@ -185,12 +185,12 @@ Below are the events that fall under this category.
 This event is triggered when a visitor books a meeting on an agent's calendar.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_MEETING_BOOKED, (event) => { 
- // code here will execute when a meeting is booked 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_MEETING_BOOKED, (event) => {
+ // code here will execute when a meeting is booked
+    });
+});
 ```
 
 The `event` parameter is an object with metadata related to the conversation. You can access this metadata by accessing `event.data`.
@@ -246,17 +246,17 @@ These events are triggered when a visitor connects with a live agent during thei
 
 Below are the events that fall under this category.
 
-### Live Chat Requested {#live-chat-requested} 
+### Live Chat Requested {#live-chat-requested}
 
 This event is triggered when a visitor selects the option to chat with a live agent and an available agent is being resolved.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUESTED, (event) => { 
- // code here will execute when a visitor requests a live chat 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUESTED, (event) => {
+ // code here will execute when a visitor requests a live chat
+    });
+});
 ```
 
 ### Live Chat Initiated {#live-chat-initiated}
@@ -264,12 +264,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 This event is triggered when a visitor selects the option to chat with a live agent and an agent accepts the chat.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_INITIATED, (event) => { 
- // code here will execute after a live agent accepts the chat 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_INITIATED, (event) => {
+ // code here will execute after a live agent accepts the chat
+    });
+});
 ```
 
 ### Live Chat Ended {#live-chat-ended}
@@ -277,30 +277,30 @@ window.addEventListener('adobedx.conversations.ready', () => {
 This event is triggered when a conversation between a visitor and the live agent ends.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_ENDED, (event) => { 
- // code here will execute when a live chat is ended 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_ENDED, (event) => {
+ // code here will execute when a live chat is ended
+    });
+});
 ```
 
 ### Live Chat Timeout {#live-chat-timeout}
 
-This event is triggered when a live chat conversation times out because the visitor stops responding, or they dropped. 
+This event is triggered when a live chat conversation times out because the visitor stops responding, or they dropped.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUEST_TIMEOUT, (event) => { 
- // code here will execute when a visitor abandons a live chat 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUEST_TIMEOUT, (event) => {
+ // code here will execute when a visitor abandons a live chat
+    });
+});
 ```
 
 The `event` parameter is an object with metadata related to the conversation. You can access this metadata by accessing `event.data`.
 
-Here are some key metadata values you can access: 
+Here are some key metadata values you can access:
 
 <table>
 <thead>
@@ -344,15 +344,15 @@ Here are some key metadata values you can access:
 If you wanted to send any of these events to an analytics platform like Adobe Analytics or Google Analytics, you would need to add their respective tracking call inside these Dynamic Chat events. It would look something like the example below.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
- // Enter Adobe Analytics or Google Analytics function here 
-    ga('send', 'event', { 
-      eventCategory: Dynamic Chat Conversations', 
-      eventAction: 'Conversation Triggered', 
-      eventLabel: event.data.payload.id, 
-    }); 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => {
+ // Enter Adobe Analytics or Google Analytics function here
+    ga('send', 'event', {
+      eventCategory: Dynamic Chat Conversations',
+      eventAction: 'Conversation Triggered',
+      eventLabel: event.data.payload.id,
+    });
+    });
+});
 ```

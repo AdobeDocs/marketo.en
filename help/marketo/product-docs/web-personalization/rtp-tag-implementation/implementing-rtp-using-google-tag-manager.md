@@ -17,12 +17,12 @@ To implement your RTP tag please follow the installation instructions below.
 
 1. Go to **[!UICONTROL Account Settings]**.
 
-   a. If you've already received your JavaScript tag from Support, continue to Step 6.  
-  
+   a. If you've already received your JavaScript tag from Support, continue to Step 6.
+
    ![](assets/image2014-11-30-15-3a19-3a21.png)
 
-1. Under [!UICONTROL Domain], locate the relevant domain and click **[!UICONTROL Generate Tag]**.  
-  
+1. Under [!UICONTROL Domain], locate the relevant domain and click **[!UICONTROL Generate Tag]**.
+
    ![](assets/image2014-11-30-15-3a20-3a17.png)
 
 1. Copy the RTP JavaScript tag and paste it to the new **Custom HTML Tag** you created (Step 1).

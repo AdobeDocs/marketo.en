@@ -31,7 +31,7 @@ To assign permissions for brands, follow these steps:
 
 1. Click **Edit** to modify the permissions.
 
-1. Add the **AI Assistant** resource, then select **Manage brand kit** or **[!UICONTROL Enable Ai assistant]** from the drop-down menu. 
+1. Add the **AI Assistant** resource, then select **Manage brand kit** or **[!UICONTROL Enable Ai assistant]** from the drop-down menu.
 
     Note that **[!UICONTROL Enable Ai assistant]** permission only provides read-only access to the **[!UICONTROL Brands]** menu.
 
@@ -75,7 +75,7 @@ To create and manage your brand guideline, you can either enter the details your
 
 1. Once configured, click **[!UICONTROL Save]**, then **[!UICONTROL Publish]** to make your brand guideline available in AI Assistant.
 
-1. To make modifications to your published brand, click **[!UICONTROL Edit brand]**. 
+1. To make modifications to your published brand, click **[!UICONTROL Edit brand]**.
 
     >[!NOTE]
     >
@@ -83,7 +83,7 @@ To create and manage your brand guideline, you can either enter the details your
 
    SCREENSHOT
 
-1. From your **[!UICONTROL Brands]** dashboard, open the advanced menu by clicking the BLANK icon to: 
+1. From your **[!UICONTROL Brands]** dashboard, open the advanced menu by clicking the BLANK icon to:
 
     * View brand
     * Edit
@@ -249,7 +249,7 @@ To personalize your **[!UICONTROL Writing Style]**:
 
 1. Select one of your guideline or exclusion to update or delete.
 
-1. Click the "Edit" to edit your example or the "Delete" icon to delete it. 
+1. Click the "Edit" to edit your example or the "Delete" icon to delete it.
 
    SCREENSHOT
 
@@ -298,7 +298,7 @@ The **[!UICONTROL Visual Content]** section defines the standards for imagery an
 
 To personalize your **[!UICONTROL Visual content]**:
 
-1. From the **[!UICONTROL Visual content]** tab, click BLANK to add a guideline, exclusion or example. 
+1. From the **[!UICONTROL Visual content]** tab, click BLANK to add a guideline, exclusion or example.
 
 1. Enter your guideline, exclusion or example and click **[!UICONTROL Add]**.
 
@@ -310,7 +310,7 @@ To personalize your **[!UICONTROL Visual content]**:
 
 1. Select one of your guideline or exclusion to update or delete.
 
-1. Select one your guideline or exclusion to update it. Click the "Delete" icon to delete it. 
+1. Select one your guideline or exclusion to update it. Click the "Delete" icon to delete it.
 
    SCREENSHOT
 

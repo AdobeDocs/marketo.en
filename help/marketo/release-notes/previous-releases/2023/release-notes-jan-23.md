@@ -25,12 +25,12 @@ The following features fall under the standard release cycle and will start to b
   * Snippet List View
   * Landing Page Template List
 
-  <table> 
-  <tr> 
+  <table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Toggle Switch</a></td>
   </tr>
@@ -39,12 +39,12 @@ The following features fall under the standard release cycle and will start to b
 
 * **Enhanced Used by Component for Email Template Details and Snippet Details**: New Used By UI tab provides additional information about each of the Used By assets, such as when it was last modified and by whom. You can easily perform analysis through the search, sort, and filtering capabilities. This new UI component will be incorporated starting with the Email Template and Snippet assets.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Shipped</td>
    <td>n/a</td>
   </tr>
@@ -57,12 +57,12 @@ The following features fall under the standard release cycle and will start to b
 
 * **Redesigned Modals for Report Assets**: New design for report configuration modals in the Modern UX offering an updated look and feel as well as improved accessibility.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Shipped</td>
    <td>n/a</td>
   </tr>
@@ -75,12 +75,12 @@ The following features fall under the standard release cycle and will start to b
 
 * **Marketo Measure Ultimate**: Enables complete B2B attribution for enterprises with multiple CRM and/or Marketo Engage instances and diverse source data needs. It also provides a B2B attribution solution for Adobe RT-CDP via shared AEP data.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Shipped</td>
    <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
@@ -93,12 +93,12 @@ The following features fall under the standard release cycle and will start to b
 
 * **Enhanced Web Services Tab by Adding Bulk Export API Information**: You are now able to view the daily capacity allocation for your subscriptions and view the amount of daily capacity allocation that has been used in the past 7 days.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Bulk Export API Information</a></td>
   </tr>
@@ -113,14 +113,14 @@ The following features follow an Agile format and are released on various dates 
 
 </br>
 
-* **Define Picklist in Info Capture Card for Dynamic Chat**: To help ensure data cleanliness, you can define picklists for information capture cards so visitors can select only from a predefined list of options.  
+* **Define Picklist in Info Capture Card for Dynamic Chat**: To help ensure data cleanliness, you can define picklists for information capture cards so visitors can select only from a predefined list of options.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Shipped</td>
    <td>n/a</td>
   </tr>
@@ -129,12 +129,12 @@ The following features follow an Agile format and are released on various dates 
 
 * **Personalization in Meeting Confirmation for Dynamic Chat**: Agents can personalize meeting booking email confirmations using Marketo Engage person and company fields to better engage with visitors (ex: greet visitors by their first name in the automated meeting booking notification email).
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Calendar</a></td>
   </tr>
@@ -143,12 +143,12 @@ The following features follow an Agile format and are released on various dates 
 
 * **Search in Stream Designer**: Easily search for content in the Stream Designer to quickly find content across all the cards/nodes in a stream (ex: search "SEO" and it will highlight all nodes that contain that string).
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Shipped</td>
    <td>n/a</td>
   </tr>
@@ -157,12 +157,12 @@ The following features follow an Agile format and are released on various dates 
 
 * **Chatbot Date/Time Picker for Dynamic Chat**: Web visitors can use the calendar picker to choose a date and time rather than entering the date manually.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Shipped</td>
    <td>n/a</td>
   </tr>
@@ -171,12 +171,12 @@ The following features follow an Agile format and are released on various dates 
 
 * **Scheduled Meeting Email Notifications for Dynamic Chat**: When a meeting is booked on an agent's calendar, the agent will receive an email notification about the booking, including detailed information about the visitor's Dynamic Chat engagement.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">Meetings</a></td>
   </tr>

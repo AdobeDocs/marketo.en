@@ -35,21 +35,21 @@ Variables are token-like attributes that can be customized from the guided landi
 
 There are three types of variables: string variables, color variables, and Boolean variables.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td>String</td> 
-   <td><p>Editable text</p><p>Example: Titles, dates, button labels</p></td> 
-  </tr> 
-  <tr> 
-   <td>Color</td> 
-   <td><p>Editable hex code for color</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Example: Background color, font color, border color</p></td> 
-  </tr> 
-  <tr> 
-   <td>Boolean</td> 
-   <td><p>A lever that controls on/off states for objects or formats on the landing page</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Examples: Show Footer (Yes/No), Column Count (1/2), Embed Google Analytics (True/False)</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td>String</td>
+   <td><p>Editable text</p><p>Example: Titles, dates, button labels</p></td>
+  </tr>
+  <tr>
+   <td>Color</td>
+   <td><p>Editable hex code for color</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Example: Background color, font color, border color</p></td>
+  </tr>
+  <tr>
+   <td>Boolean</td>
+   <td><p>A lever that controls on/off states for objects or formats on the landing page</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Examples: Show Footer (Yes/No), Column Count (1/2), Embed Google Analytics (True/False)</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

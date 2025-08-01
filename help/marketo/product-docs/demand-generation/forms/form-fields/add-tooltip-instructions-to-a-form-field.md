@@ -7,7 +7,7 @@ feature: Forms
 ---
 # Add Tooltip Instructions to a Form Field {#add-tooltip-instructions-to-a-form-field}
 
-[Hints](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) and instructions help people fill out forms. Here's how to add tooltip instructions.  
+[Hints](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) and instructions help people fill out forms. Here's how to add tooltip instructions.
 
 >[!NOTE]
 >

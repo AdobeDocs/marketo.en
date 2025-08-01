@@ -32,46 +32,46 @@ You can choose to display known people or anonymous people, but not both kinds o
    >
    >To find out who visits your site the most, [sort your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} on the _Page Views_ column and choose Sort Descending.
 
-   [Marketo adds anonymous](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} website visitors to your database and you can choose to show them in this report. It provides a wealth of information even though they are anonymous.  
+   [Marketo adds anonymous](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} website visitors to your database and you can choose to show them in this report. It provides a wealth of information even though they are anonymous.
    [Columns that you can select](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} for a Web Page Activity report include:
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Column(s)</th> 
-   <th>Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Person</td> 
+<table>
+ <thead>
+  <tr>
+   <th>Column(s)</th>
+   <th>Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Person</td>
    <td>The visitor's name, title, and company.<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">Click</a></strong> to view pages visited.</td>
-  </tr> 
-  <tr> 
-   <td>First/Last Visit (Time zone)</td> 
-   <td>Date and time of the first/last visit by anyone from this company.</td> 
-  </tr> 
-  <tr> 
-   <td>Page Views</td> 
+  </tr>
+  <tr>
+   <td>First/Last Visit (Time zone)</td>
+   <td>Date and time of the first/last visit by anyone from this company.</td>
+  </tr>
+  <tr>
+   <td>Page Views</td>
    <td>Number of pages loaded by this visitor.</td>
-  </tr> 
-  <tr> 
-   <td>HTTP Referer</td> 
-   <td>URL of the page that contains the link the visitor followed to your page.</td> 
-  </tr> 
-  <tr> 
-   <td>Entry Page</td> 
-   <td>First page the person visited </td> 
-  </tr> 
-  <tr> 
-   <td>Inferred Company or ISP</td> 
-   <td>The company, as inferred from the visitors' IP address. <strong>Names in bold</strong> indicate this is the company, not the ISP. </td> 
-  </tr> 
-  <tr> 
-   <td>Inferred Country, State/Region, &amp; City</td> 
-   <td>Geographic location of the visitor, as inferred from their IP address.</td> 
-  </tr> 
- </tbody> 
+  </tr>
+  <tr>
+   <td>HTTP Referer</td>
+   <td>URL of the page that contains the link the visitor followed to your page.</td>
+  </tr>
+  <tr>
+   <td>Entry Page</td>
+   <td>First page the person visited </td>
+  </tr>
+  <tr>
+   <td>Inferred Company or ISP</td>
+   <td>The company, as inferred from the visitors' IP address. <strong>Names in bold</strong> indicate this is the company, not the ISP. </td>
+  </tr>
+  <tr>
+   <td>Inferred Country, State/Region, &amp; City</td>
+   <td>Geographic location of the visitor, as inferred from their IP address.</td>
+  </tr>
+ </tbody>
 </table>
 
    >[!TIP]

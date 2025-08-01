@@ -16,81 +16,81 @@ The standard Release Notes page for Marketo Engage [can be found here](/help/mar
 
 ### Routing Logic Revamp {#routing-logic-revamp}
 
-We've revamped the live chat routing logic in Dynamic Chat to ensure more intelligent and predictable engagement behavior across all routing types (Account, Custom, Team, and Round Robin). The new logic simplifies routing flows and improves fallback handling when agents are unavailable. 
- 
+We've revamped the live chat routing logic in Dynamic Chat to ensure more intelligent and predictable engagement behavior across all routing types (Account, Custom, Team, and Round Robin). The new logic simplifies routing flows and improves fallback handling when agents are unavailable.
+
 #### Key Improvements in Routing Behavior
 
 * **Up to two engagement attempts per session**
 
-  * The system will try to connect with up to two agents (at most), but strictly within the primary routing rule. 
+  * The system will try to connect with up to two agents (at most), but strictly within the primary routing rule.
 
-  * If an agent is available but doesn't respond (e.g., declines or misses the chat), the system will attempt to connect to a different agent from the same pool. 
+  * If an agent is available but doesn't respond (e.g., declines or misses the chat), the system will attempt to connect to a different agent from the same pool.
 
-  * Fallback logic (like Round Robin) is only activated if no eligible agents are found during the initial resolution, not to retry after a failed engagement. 
+  * Fallback logic (like Round Robin) is only activated if no eligible agents are found during the initial resolution, not to retry after a failed engagement.
 
 * **Routing Rule-Specific Behavior**
 
 _**Account Routing**_
 
-If a visitor's email domain maps to a known account, the mapped agent is always prioritized. 
+If a visitor's email domain maps to a known account, the mapped agent is always prioritized.
 
-If the agent is available, the chat is routed to them directly. 
+If the agent is available, the chat is routed to them directly.
 
-If the agent is unavailable, the system: 
+If the agent is unavailable, the system:
 
-  * Does not attempt another agent, even if Round Robin is enabled as fallback. 
+  * Does not attempt another agent, even if Round Robin is enabled as fallback.
 
-  * Instead, it: 
+  * Instead, it:
 
-    * Shows the mapped agent's meeting calendar (if enabled), 
-    -or- 
-    * Falls back to a default message (worst case). 
+    * Shows the mapped agent's meeting calendar (if enabled),
+    -or-
+    * Falls back to a default message (worst case).
 
-The card-level routing rule (e.g. Team, Custom) is only considered if Account Routing is not eligible (no matching domain or agent). 
+The card-level routing rule (e.g. Team, Custom) is only considered if Account Routing is not eligible (no matching domain or agent).
 
 _**Custom/Team Routing**_
 
-These rules may return multiple eligible agents. 
+These rules may return multiple eligible agents.
 
-If the first available agent doesn't engage, the system will try one more agent from the same list. 
+If the first available agent doesn't engage, the system will try one more agent from the same list.
 
-Round Robin fallback is not triggered just because one agent doesn't respond. 
+Round Robin fallback is not triggered just because one agent doesn't respond.
 
-If neither agent engages: 
+If neither agent engages:
 
-  * The system shows the first tried agent's calendar (if enabled), 
+  * The system shows the first tried agent's calendar (if enabled),
   -or-
-  * Displays the default fallback message. 
+  * Displays the default fallback message.
 
 _**Round Robin Routing**_
 
-When used as a primary routing rule, the system: 
+When used as a primary routing rule, the system:
 
-  * Attempts to engage the first available agent from the round robin pool. 
+  * Attempts to engage the first available agent from the round robin pool.
 
-  * If the first agent doesn't respond, it retries with the next best eligible agent. 
+  * If the first agent doesn't respond, it retries with the next best eligible agent.
 
-If Round Robin is used as a fallback, it activates only if no agents are resolved from the primary rule. 
+If Round Robin is used as a fallback, it activates only if no agents are resolved from the primary rule.
 
 _**Visitor Experience Flow**_
 
-The system checks if Account Routing is applicable. 
+The system checks if Account Routing is applicable.
 
-  * If yes and agent is available, it connects immediately. 
+  * If yes and agent is available, it connects immediately.
 
-  * If the agent is not eligible or unavailable, it proceeds to card-level routing rule. 
+  * If the agent is not eligible or unavailable, it proceeds to card-level routing rule.
 
-Card-level routing rule (Custom, Team, Round Robin) is evaluated. 
+Card-level routing rule (Custom, Team, Round Robin) is evaluated.
 
-  * Eligible agents are checked for availability (permissions, status). 
+  * Eligible agents are checked for availability (permissions, status).
 
-  * System engages one agent, and if needed, tries a second agent from same rule. 
+  * System engages one agent, and if needed, tries a second agent from same rule.
 
-  * If no engagement succeeds, fallback logic is applied: 
+  * If no engagement succeeds, fallback logic is applied:
 
-    * Calendar fallback (if enabled), 
+    * Calendar fallback (if enabled),
     -or-
-    * Default message. 
+    * Default message.
 
 Round Robin fallback is only considered when no eligible agents are found from the primary routing rule, not when individual agents fail to respond.
 

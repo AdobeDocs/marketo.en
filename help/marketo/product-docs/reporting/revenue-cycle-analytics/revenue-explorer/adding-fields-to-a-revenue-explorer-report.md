@@ -9,21 +9,21 @@ feature: Reporting, Revenue Cycle Analytics
 
 Customize revenue explorer reports by dragging and dropping dimension and metric fields into the canvas.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Field Type</th> 
-   <th>Description</th> 
-  </tr> 
-  <tr> 
-   <td>Yellow Field or Dimension</td> 
-   <td><p>Yellow fields are the dimensions (rows and columns) of your report.</p><p>For example, you can set up a report which shows your lead status or creation date in columns.</p></td> 
-  </tr> 
-  <tr> 
-   <td>Blue Field or Measure</td> 
-   <td><p>Blue fields are metrics that are analyzed in your data.</p><p>For example, this could be the average lead score for your leads, or the number of days a lead had an opportunity.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Field Type</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td>Yellow Field or Dimension</td>
+   <td><p>Yellow fields are the dimensions (rows and columns) of your report.</p><p>For example, you can set up a report which shows your lead status or creation date in columns.</p></td>
+  </tr>
+  <tr>
+   <td>Blue Field or Measure</td>
+   <td><p>Blue fields are metrics that are analyzed in your data.</p><p>For example, this could be the average lead score for your leads, or the number of days a lead had an opportunity.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Find the yellow field(s) you want to use and drag it into Rows.

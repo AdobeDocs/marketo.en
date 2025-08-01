@@ -6,7 +6,7 @@ feature: Marketo Sales Connect
 ---
 # Create and Assign Reminder Tasks {#create-and-assign-reminder-tasks}
 
-Reminder tasks are a great way to stay on top of your customer and prospect engagement. To create a task, follow these steps.  
+Reminder tasks are a great way to stay on top of your customer and prospect engagement. To create a task, follow these steps.
 
 1. Click **[!UICONTROL Command Center]**.
 

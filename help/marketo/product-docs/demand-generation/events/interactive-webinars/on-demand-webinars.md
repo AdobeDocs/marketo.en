@@ -20,7 +20,7 @@ Marketo Engage provides the watch statistics for On-Demand Webinars on the Dashb
   * Days the On-Demand recording is available for viewing&mdash;Helps marketers perform actions, such as executing email campaigns close to the end of the recording availability duration of 30 days.
   * Overall visitor count for On-Demand webinars to date&mdash;The count of all the No-Show registrants that have watched the on-demand recording to date.
   * Average watch duration in minutes for all visitors&mdash;Gives marketers a sense of how much of the recording is viewed and what Smart Campaigns can be used to target leads above a certain watch duration.
-  
+
 ![](assets/on-demand-webinars-1.png)
 
 >[!NOTE]

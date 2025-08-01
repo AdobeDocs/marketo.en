@@ -9,7 +9,7 @@ feature: Administration
 
 Stuff happens. Sometimes you need to download the activity log to troubleshoot issues.
 
-1. Go to the **[!UICONTROL Admin]** area. 
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/download-googleadwords-activity-log-1.png)
 

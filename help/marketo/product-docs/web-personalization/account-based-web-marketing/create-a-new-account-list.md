@@ -35,7 +35,7 @@ Create and upload a list of organization and domain names to target these key ac
    >
    >* Saved as a CSV format
    >* Does not exceed 10MB
-   >* Only 4 columns with the header Column A: Name, Column B: Domain, Column C: Country, Column D: US State.  
+   >* Only 4 columns with the header Column A: Name, Column B: Domain, Column C: Country, Column D: US State.
    >* File uploaded can take up to 2 business days before approval.
    >* You will receive an approval email notification or check state of file in Named Accounts page.
    >* The total number of records/rows accumulated for all your lists uploaded starts at 10K, with the largest package totalling 100K.

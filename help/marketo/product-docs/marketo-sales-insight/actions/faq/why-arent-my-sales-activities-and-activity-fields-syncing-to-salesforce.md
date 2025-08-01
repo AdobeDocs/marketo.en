@@ -7,7 +7,7 @@ exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
 
 **I'm not seeing email or call activities synced to Salesforce.**
 
-* Make sure you're connected to Salesforce. Each user will need to have a connection to log their email and calls to Salesforce. 
+* Make sure you're connected to Salesforce. Each user will need to have a connection to log their email and calls to Salesforce.
 * Make sure you have configured [Salesforce Sync Settings](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}.
 * Emails will do a record lookup based on Salesforce ID as the primary lookup and email address as the secondary. You can confirm that a person record has a Salesforce ID and email address linked to them in the [Actions web app](https://toutapp.com/next#command_center){target="_blank"}.
 * Calls will do a record lookup based on Salesforce ID only. If no Salesforce ID exists on the person record in Actions, the call will not log. You can confirm that a person record has a Salesforce ID linked to them in the [Actions web app](https://toutapp.com/next#command_center){target="_blank"}.

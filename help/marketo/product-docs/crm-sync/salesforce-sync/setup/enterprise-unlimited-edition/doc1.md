@@ -13,7 +13,7 @@ feature: Salesforce Integration
 
 Marketo uses a set of fields to capture certain kinds of marketing related information. If you would like this data in Salesforce, please follow the instructions below.
 
-1. Create three custom fields in Salesforce on the lead and contact objects: Score, Acquisition Program, and Acquisition Date. 
+1. Create three custom fields in Salesforce on the lead and contact objects: Score, Acquisition Program, and Acquisition Date.
 1. Map these custom fields between leads and contacts so that on conversion in Salesforce, the values carry over.
 1. You can create other additional fields, if necessary (see the table below).
 

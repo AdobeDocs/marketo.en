@@ -17,59 +17,59 @@ The email section of the [!UICONTROL Command Center] is where you can manage all
 
 The email section gives you a birds eye view into all of your emails and simplifies their organization with primary tabs and sub-tabs that act as folders where your emails are automatically stored based on their status.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td title="Background colour : Grey"><p title=""><strong><span>Primary</span> </strong></p></td> 
-   <td title="Background colour : Grey"><p title=""><strong><span>Secondary</span> </strong></p></td> 
-   <td title="Background colour : Grey"><p title=""><strong><span>Description</span> </strong></p></td> 
-  </tr> 
-  <tr> 
-   <td title="Background colour : Blue"><strong title="">Sent</strong></td> 
-   <td title="Background colour : Blue">[!UICONTROL Delivered]</td> 
-   <td title="Background colour : Blue">Emails that have been delivered to the recipient.</td> 
-  </tr> 
-  <tr> 
-   <td title="Background colour : Blue"><br></td> 
-   <td title="Background colour : Blue">[!UICONTROL Archived]</td> 
-   <td title="Background colour : Blue">Emails that have been archived by the user in order to disable the tracking on the emails.</td> 
-  </tr> 
-  <tr> 
-   <td title="Background colour : Grey"><strong title="">Pending</strong></td> 
-   <td title="Background colour : Grey">[!UICONTROL Scheduled]</td> 
-   <td title="Background colour : Grey">Emails that are currently scheduled to go out. Once an email is sent it will be moved to the delivered folder.</td> 
-  </tr> 
-  <tr> 
-   <td title="Background colour : Grey"><br></td> 
-   <td title="Background colour : Grey">[!UICONTROL Draft]</td> 
-   <td title="Background colour : Grey"><p>Emails that have been saved as a draft.<br><strong>Note:</strong> Only single emails can be saved as drafts. Bulk emails (Select and Send Emails and Group Emails) will not be saved as drafts.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="Background colour : Grey"><br></td> 
-   <td title="Background colour : Grey">[!UICONTROL In Progress]</td> 
-   <td title="Background colour : Grey">This is an in-between state that emails go into when they are in the sending motion. Emails should only be In-Progress for a few moments.</td> 
-  </tr> 
-  <tr> 
-   <td title="Background colour : Blue"><strong title="">Undelivered</strong></td> 
-   <td title="Background colour : Blue">[!UICONTROL Failed]</td> 
-   <td title="Background colour : Blue">Emails that have failed to deliver.</td> 
-  </tr> 
-  <tr> 
-   <td title="Background colour : Blue"><br></td> 
-   <td title="Background colour : Blue">[!UICONTROL Bounced]</td> 
-   <td title="Background colour : Blue"><p>Emails that have been rejected from the recipients email server. <br><strong>Note:</strong> This is only detected if you are a legacy ToutApp user and have access to MSC Servers as a delivery channel.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="Background colour : Blue"><br></td> 
-   <td title="Background colour : Blue">[!UICONTROL Spam]</td> 
-   <td title="Background colour : Blue"><p>Emails that have been manually been marked as spam by the recipient.<br><strong>Note:</strong> This is only detected if you are a legacy ToutApp user and have access to MSC Servers as a delivery channel.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td title="Background colour : Grey"><p title=""><strong><span>Primary</span> </strong></p></td>
+   <td title="Background colour : Grey"><p title=""><strong><span>Secondary</span> </strong></p></td>
+   <td title="Background colour : Grey"><p title=""><strong><span>Description</span> </strong></p></td>
+  </tr>
+  <tr>
+   <td title="Background colour : Blue"><strong title="">Sent</strong></td>
+   <td title="Background colour : Blue">[!UICONTROL Delivered]</td>
+   <td title="Background colour : Blue">Emails that have been delivered to the recipient.</td>
+  </tr>
+  <tr>
+   <td title="Background colour : Blue"><br></td>
+   <td title="Background colour : Blue">[!UICONTROL Archived]</td>
+   <td title="Background colour : Blue">Emails that have been archived by the user in order to disable the tracking on the emails.</td>
+  </tr>
+  <tr>
+   <td title="Background colour : Grey"><strong title="">Pending</strong></td>
+   <td title="Background colour : Grey">[!UICONTROL Scheduled]</td>
+   <td title="Background colour : Grey">Emails that are currently scheduled to go out. Once an email is sent it will be moved to the delivered folder.</td>
+  </tr>
+  <tr>
+   <td title="Background colour : Grey"><br></td>
+   <td title="Background colour : Grey">[!UICONTROL Draft]</td>
+   <td title="Background colour : Grey"><p>Emails that have been saved as a draft.<br><strong>Note:</strong> Only single emails can be saved as drafts. Bulk emails (Select and Send Emails and Group Emails) will not be saved as drafts.</p></td>
+  </tr>
+  <tr>
+   <td title="Background colour : Grey"><br></td>
+   <td title="Background colour : Grey">[!UICONTROL In Progress]</td>
+   <td title="Background colour : Grey">This is an in-between state that emails go into when they are in the sending motion. Emails should only be In-Progress for a few moments.</td>
+  </tr>
+  <tr>
+   <td title="Background colour : Blue"><strong title="">Undelivered</strong></td>
+   <td title="Background colour : Blue">[!UICONTROL Failed]</td>
+   <td title="Background colour : Blue">Emails that have failed to deliver.</td>
+  </tr>
+  <tr>
+   <td title="Background colour : Blue"><br></td>
+   <td title="Background colour : Blue">[!UICONTROL Bounced]</td>
+   <td title="Background colour : Blue"><p>Emails that have been rejected from the recipients email server. <br><strong>Note:</strong> This is only detected if you are a legacy ToutApp user and have access to MSC Servers as a delivery channel.</p></td>
+  </tr>
+  <tr>
+   <td title="Background colour : Blue"><br></td>
+   <td title="Background colour : Blue">[!UICONTROL Spam]</td>
+   <td title="Background colour : Blue"><p>Emails that have been manually been marked as spam by the recipient.<br><strong>Note:</strong> This is only detected if you are a legacy ToutApp user and have access to MSC Servers as a delivery channel.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Manage Tasks {#manage-tasks}

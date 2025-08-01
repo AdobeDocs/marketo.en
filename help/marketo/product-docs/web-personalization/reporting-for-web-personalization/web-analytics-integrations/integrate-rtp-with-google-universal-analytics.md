@@ -45,34 +45,34 @@ This post explains how to set up and integrate the [!DNL Marketo Real-Time Perso
 
 1. Add the following **[!UICONTROL Custom Dimensions]:**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>Custom Dimension Name</strong></p></td> 
-   <td><p><strong>Scope</strong></p></td> 
-   <td><p><strong>Active</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Organization</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Industry</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Category</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Group</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>Custom Dimension Name</strong></p></td>
+   <td><p><strong>Scope</strong></p></td>
+   <td><p><strong>Active</strong></p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Organization</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Industry</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Category</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Group</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+ </tbody>
 </table>
 
    >[!NOTE]

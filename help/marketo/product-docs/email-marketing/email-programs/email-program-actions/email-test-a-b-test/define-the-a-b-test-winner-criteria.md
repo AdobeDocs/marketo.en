@@ -78,7 +78,7 @@ When [adding an A/B test](/help/marketo/product-docs/email-marketing/email-progr
    >
    >If you are doing a **Date/Time** A/B test, you can only choose **[!UICONTROL Manual]**.
 
-   Once the A/B test is over, Marketo can automatically send the winning email at the scheduled time, or you can review the results and decide which email goes out when.  
+   Once the A/B test is over, Marketo can automatically send the winning email at the scheduled time, or you can review the results and decide which email goes out when.
 
 1. Automatic is awesome and is the default option. Just click **[!UICONTROL Next]**.
 

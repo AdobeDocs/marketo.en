@@ -17,19 +17,19 @@ In the complex world of B2B buying processes, it's rare that a single individual
 
 ## Common Examples {#common-examples}
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td><strong>Account Engagement Score</strong></td> 
+   <td><strong>Account Engagement Score</strong></td>
    <td>Depth of engagement based on behavioral activities tracked across various channels (e.g. email, web, ad) from people in specific target accounts.</td>
   </tr>
   <tr>
    <td><strong>Account Product Interest Score</strong></td>
-   <td>People from target accounts showing interest in the content from a specific product (e.g. downloading a white paper).</td> 
+   <td>People from target accounts showing interest in the content from a specific product (e.g. downloading a white paper).</td>
   </tr>
   <tr>
    <td><strong>Account Web Engagement Score</strong></td>
-   <td>People from target accounts visiting web channel. Same score can be created to measure channel engagement from email, ad, or other channels.</td> 
+   <td>People from target accounts visiting web channel. Same score can be created to measure channel engagement from email, ad, or other channels.</td>
   </tr>
  </tbody>
 </table>
@@ -40,9 +40,9 @@ In the complex world of B2B buying processes, it's rare that a single individual
 >
 >To calculate account scores, you first need to create lead scores. Marketo TAM automatically aggregates lead scores to account scores. As an example, we'll take two of the above examples (_Account Product Interest Score_ and _Account Web Engagement Score_).
 >
->First, create lead score fields that capture relevant details from each lead of a target account.  
->Then assign those lead scores to their respective account scores:  
->Account Product Interest Score = SUM (Lead Product Interest Score)  
+>First, create lead score fields that capture relevant details from each lead of a target account.
+>Then assign those lead scores to their respective account scores:
+>Account Product Interest Score = SUM (Lead Product Interest Score)
 >Account Web Engagement Score = SUM (Lead Web Engagement Score)
 
 >[!NOTE]

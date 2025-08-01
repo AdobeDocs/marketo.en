@@ -50,7 +50,7 @@ If you have a dedicated profile for your [!DNL Sales Insight] users, you can ski
 
 1. Go to the Setup page, then click **[!UICONTROL App Setup]** > **[!UICONTROL Customize]** > **[!UICONTROL Leads]** > **[!UICONTROL Page Layouts]**. Then click the **[!UICONTROL New]** button.
 
-1. Clone your layout of choice and give the layout an appropriate name (ex: Sales Insight Layout).  
+1. Clone your layout of choice and give the layout an appropriate name (ex: Sales Insight Layout).
 
 1. Click **[!UICONTROL Save]** when done.
 

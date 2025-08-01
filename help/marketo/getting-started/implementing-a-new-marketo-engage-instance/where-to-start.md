@@ -38,11 +38,11 @@ Download the Marketo Engage Instance [New Implementation Admin Checklists](/help
 
 ## Connect with Your Peers {#connect-with-your-peers}
 
-Visit the [Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"} (also known as the Marketing Nation) to learn more about your Marketo Engage Instance from Marketo Engage employees as well as fellow users. 
+Visit the [Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"} (also known as the Marketing Nation) to learn more about your Marketo Engage Instance from Marketo Engage employees as well as fellow users.
 
-Get started in the Community: 
+Get started in the Community:
 
 1. Click **Continue with Adobe ID** and select your primary subscription on the login page.
 1. Upon signing in, complete your community profile.
 1. After you submit the information, you will land on the community homepage and be good to go!
- 
+

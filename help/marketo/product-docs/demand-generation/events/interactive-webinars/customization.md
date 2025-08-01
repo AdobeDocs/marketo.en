@@ -62,7 +62,7 @@ You can customize the appearance of the session room by changing the logo, click
 To customize the appearance of a room, select the Room interface tab from the menu bar.
 
 1. From the right panel, customize the following preferences:
- 
+
    ![](assets/interactive-webinars-customization-9.png)
 
    **Custom logo**: Select Upload logo and browse the image from your device. The image size must not exceed 50 x 31 pixels and can be in different file formats: .svg, .gif, .jpg, and .png. You can change or delete your logo.
@@ -90,7 +90,7 @@ Change the background image to change the look and feel of the entry, exit, and 
 To customize the appearance of a room, select the Intermediate screens tab from the menu bar.
 
 1. From the right panel, customize the Background image by selecting **Upload image** and browse an image for a logo. The image size must not exceed 1920 x 1080 pixels and can be in different file formats: .svg, .gif, .jpg, and .png. You can change or delete the logo if desired.
- 
+
    ![](assets/interactive-webinars-customization-11.png)
 
    >[!NOTE]

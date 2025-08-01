@@ -35,7 +35,7 @@ Remember to [download the checklists](/help/marketo/getting-started/implementing
   </tr>
   <tr>
     <td>Archive</td>
-    <td><li>Determine a policy on when to <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder" target="_blank">archive programs and assets</a>. 
+    <td><li>Determine a policy on when to <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder" target="_blank">archive programs and assets</a>.
     <p><img src="assets/note-icon.png" alt="note icon"> NOTE: After an item is archived, it's removed from select lists as well as reporting.</li></td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@ Remember to [download the checklists](/help/marketo/getting-started/implementing
 
 >[!NOTE]
 >
->To store marketing assets like programs, Landing Pages, and emails in separate areas, please reference the [Admin section checklist](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) to learn how to set up Workspaces. 
+>To store marketing assets like programs, Landing Pages, and emails in separate areas, please reference the [Admin section checklist](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) to learn how to set up Workspaces.
 
 <table>
 <thead>
@@ -118,7 +118,7 @@ Remember to [download the checklists](/help/marketo/getting-started/implementing
   </tr>
   <tr>
     <td>Person Source</td>
-    <td><li>Create a centralized program that assigns values to lead/person source in System Managed fields.</li>  
+    <td><li>Create a centralized program that assigns values to lead/person source in System Managed fields.</li>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management" target="_blank">Import an Operational Data Management program</a> from the Marketo Program Library to start.</li></td>
   </tr>
   <tr>

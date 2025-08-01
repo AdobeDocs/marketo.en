@@ -17,7 +17,7 @@ To implement your RTP tag please follow the installation instructions below:
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
-1. Under [!UICONTROL Domain], locate the relevant domain and click **[!UICONTROL Generate Tag]**.  
+1. Under [!UICONTROL Domain], locate the relevant domain and click **[!UICONTROL Generate Tag]**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 

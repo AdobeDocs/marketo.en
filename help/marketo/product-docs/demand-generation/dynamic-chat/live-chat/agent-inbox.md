@@ -12,7 +12,7 @@ Agents will field live chats within the Agent Inbox. In addition to the active c
 
 ## Availability Toggle {#availability-toggle}
 
-On the upper-right side of the Agent Inbox screen, you have the option to set your status as available or unavailable. 
+On the upper-right side of the Agent Inbox screen, you have the option to set your status as available or unavailable.
 
    ![](assets/agent-inbox-2.png)
 
@@ -70,7 +70,7 @@ Shortcuts, powered by the generative AI [Response library](/help/marketo/product
 
    ![](assets/agent-inbox-9.png)
 
-**Search** is for help finding pages related to specific text. 
+**Search** is for help finding pages related to specific text.
 
 1. Type or choose `/search` in the text box.
 
@@ -92,7 +92,7 @@ Below the visitor information is activity history. View activity types and dates
 
 >[!NOTE]
 >
->Information is displayed for the past 90 days only. 
+>Information is displayed for the past 90 days only.
 
 ## Calendar Sharing {#calendar-sharing}
 

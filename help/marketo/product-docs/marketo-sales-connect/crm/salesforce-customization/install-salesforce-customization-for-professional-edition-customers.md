@@ -40,8 +40,8 @@ Customers with [!DNL Salesforce] Professional Edition will have to follow these 
 1. To confirm successful installation, log-in to your [!DNL Salesforce] account.
 1. Click **[!UICONTROL Setup]**, search for "Installed Packages" in the search bar, and click **[!UICONTROL Installed Packages]**.
 
-   You will see Marketo Sales Connect Customizations there.  
-  
+   You will see Marketo Sales Connect Customizations there.
+
    In order to configure [!DNL Sales Connect] in your [!DNL Salesforce] instance, please follow the steps starting from "CONFIGURING THE SALES ENGAGE SALESFORCE PACKAGE" section on page 7 of the Installation Guide.
 
    >[!NOTE]
@@ -50,6 +50,6 @@ Customers with [!DNL Salesforce] Professional Edition will have to follow these 
 
 ## Guides {#guides}
 
-   [Installation Guide for Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)  
-  
+   [Installation Guide for Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+
    [Installation Guide for Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

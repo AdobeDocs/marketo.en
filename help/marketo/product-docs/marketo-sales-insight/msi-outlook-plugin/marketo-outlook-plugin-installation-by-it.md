@@ -15,7 +15,7 @@ Sometimes corporate policies require that their IT Team installs all software on
 
 Run the following command line as the as ‘System’ or an Administrative user account with the /i switch to install.
 
-`<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`  
+`<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Run the following command line as the as ‘System’ or an Administrative user 
 
 For troubleshooting, you can enable logging to create an output log file.
 
-`<pre>msiexec.exe /i [File Name] /qn /L*v MarketoAddin.log REG=[Enterprise Key]</pre>`  
+`<pre>msiexec.exe /i [File Name] /qn /L*v MarketoAddin.log REG=[Enterprise Key]</pre>`
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ For troubleshooting, you can enable logging to create an output log file.
 
 To specify a location of the log files, you can specify the file path in the command line.
 
-`<pre>msiexec.exe /i [File Name] /qn /L*v [File Path]MarketoAddin.log REG=[Enterprise Key]</pre>`  
+`<pre>msiexec.exe /i [File Name] /qn /L*v [File Path]MarketoAddin.log REG=[Enterprise Key]</pre>`
 
 >[!NOTE]
 >

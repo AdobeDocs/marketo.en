@@ -21,11 +21,11 @@ The following features will start to be released on **May 6, 2022**, with a phas
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
-**Chatbot Events for [!DNL Dynamic Chat]**: Leverage more detailed behavior data for web visitors such as time on page, time on site, and page scroll percentage to define when a chat dialogue should be shown.  
+**Chatbot Events for [!DNL Dynamic Chat]**: Leverage more detailed behavior data for web visitors such as time on page, time on site, and page scroll percentage to define when a chat dialogue should be shown.
 
 **PDF Embed for [!DNL Dynamic Chat]**: Increase engagement and share meaningful content by embedding PDFs into chat dialogues and measure content performance through engagement activity tracking.
 
-**Extended Language Support for [!DNL Dynamic Chat]**: The [!DNL Dynamic Chat] user interface will now also be available in French, German, Japanese, Portuguese, and Spanish. Chat dialogues can also be configured in these languages.  
+**Extended Language Support for [!DNL Dynamic Chat]**: The [!DNL Dynamic Chat] user interface will now also be available in French, German, Japanese, Portuguese, and Spanish. Chat dialogues can also be configured in these languages.
 
 **Exclude URLs for [!DNL Dynamic Chat]**: Control which of your webpages [!DNL Dynamic Chat] appears on with the ability to exclude specific URLs from targeting criteria.
 
@@ -51,7 +51,7 @@ We’re delivering Email Template Details View within [!UICONTROL Design Studio]
 * **Support for “Hidden” Datatypes in Forms**: Provides the ability to manage hidden form fields via API.
 * **Support Multiple Comparison Values for isNot Form via Rules**: Manage visibility of form fields based on whether the value of another field is not one of the values in a given list.
 * **Allow setting of Display and Submitted Values in Select Lists Separately**: Set the display value and submitted value in a field separately. For example, show the name of a hotel, but submit an Internal ID to the backend.
-* **Allow Setting of Disable Open Tracking on Create or Update Email**: Create an email with open tracking disabled.  
+* **Allow Setting of Disable Open Tracking on Create or Update Email**: Create an email with open tracking disabled.
 
 ## Announcements {#announcements}
 

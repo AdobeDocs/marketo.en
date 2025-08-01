@@ -77,7 +77,7 @@ Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited editions by c
 
 ## Grant Sales Insight users profile access to standard Salesforce objects {#grant-sales-insight-users-profile-access}
 
-Due to Salesforce security enhancements, AppExchange packages can no longer grant permission to standard objects, and access must be granted to the relevant Salesforce objects from the Salesforce user's profile. To grant the required permissions, follow these steps. 
+Due to Salesforce security enhancements, AppExchange packages can no longer grant permission to standard objects, and access must be granted to the relevant Salesforce objects from the Salesforce user's profile. To grant the required permissions, follow these steps.
 
 1. Click **[!UICONTROL Setup]**.
 
@@ -100,7 +100,7 @@ Due to Salesforce security enhancements, AppExchange packages can no longer gran
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
 1. Click **[!UICONTROL Visualforce Pages]** on the left. Drag **[!UICONTROL Section]** to the layout underneath the _[!UICONTROL Custom Links]_ section.
-  
+
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
 1. Enter "Marketo Sales Insight" as the **[!UICONTROL Section Name]**, select **[!UICONTROL 1-Column]**, and click **[!UICONTROL OK]**.
@@ -116,7 +116,7 @@ Due to Salesforce security enhancements, AppExchange packages can no longer gran
    >The name of this box changes based on the object type. For example, if you are modifying the page layout for Contacts, it displays Contact.
 
 1. Double-click the **[!UICONTROL Lead]** block that you just added.
-  
+
    ![](assets/image2014-9-24-17-3a34-3a0.png)
 
 1. Edit height to **450** pixels and click **[!UICONTROL OK]**.
@@ -142,17 +142,17 @@ Due to Salesforce security enhancements, AppExchange packages can no longer gran
    * Last Interesting Moment Desc
    * Last Interesting Moment Source
    * Last Interesting Moment Type
-   * Last Activity by Sales 
-   * Last Engagement by Sales 
-   * MSI Contact Id 
+   * Last Activity by Sales
+   * Last Engagement by Sales
+   * MSI Contact Id
    * Relative Score
    * Relative Score Value
    * Urgency
-   * Urgency Value 
+   * Urgency Value
    * View in Marketo
 
 1. Click **[!UICONTROL Save]** when finished.
-  
+
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
 1. Repeat steps 5-7 to add Visualforce page sections and Sales Insight fields for **[!UICONTROL Contact]**, **[!UICONTROL Account]**, and **[!UICONTROL Opportunity]**.

@@ -11,7 +11,7 @@ Your Interactive Webinar is ready to go. Learn everything you need to know about
 1. Select your event and click **Enter your webinar**.
 
    ![](assets/deliver-an-interactive-webinar-1.png)
- 
+
    >[!NOTE]
    >
    >It's recommended to do this at least 15 minutes prior to the scheduled start time.
@@ -29,7 +29,7 @@ Your Interactive Webinar is ready to go. Learn everything you need to know about
    >[!NOTE]
    >
    >Participants can enter the room up to 15 minutes before the scheduled start and will see the active layout. We recommend designing a 'Lobby' layout for them.
- 
+
    >[!TIP]
    >
    >Enable Broadcast Controls to enter a virtual green room. This allows the hosts and presenters to speak privately and see each other without that audio and video being broadcast to participants in the room. It's ideal before and after the session, where you can test your audio and video, or debrief after the webinar.

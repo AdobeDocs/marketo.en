@@ -129,7 +129,7 @@ To check that your [!DNL Munchkin] code is working after you've added it:
 
    ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
 
-1. Click the **[!UICONTROL Report]** tab. 
+1. Click the **[!UICONTROL Report]** tab.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-16.png)
 

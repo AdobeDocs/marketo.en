@@ -25,11 +25,11 @@ Change it, enhance it and most importantly enjoy it!
 	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-	
-	
-	
-	
-	
+
+
+
+
+
 	<link rel="shortcut icon" href="themes/silverstripe-theme-marketo-simple/images/favicon.ico" />
 <link rel="stylesheet" type="text/css" href="/themes/silverstripe-theme-marketo-simple/css/reset.css?m=1574796861" />
 <link rel="stylesheet" type="text/css" href="/themes/silverstripe-theme-marketo-simple/css/typography.css?m=1574796861" />
@@ -43,15 +43,15 @@ Change it, enhance it and most importantly enjoy it!
 		<div class="unit size4of4 lastUnit">
 			<a href="https://documents.marketo.com/" class="brand" rel="home">
 				<h1>Marketo Documents</h1>
-				
+
 			</a>
-			
+
 			<nav class="primary">
 	<span class="nav-open-button">²</span>
 	<ul>
-		
+
 			<li class="link"><a href="https://www.marketo.com" title="Home">Home</a></li>
-		
+
 	</ul>
 </nav>
 
@@ -62,7 +62,7 @@ Change it, enhance it and most importantly enjoy it!
 <div class="main" role="main">
 	<div class="inner typography line">
 		<aside class="sidebar unit size1of4">
-	
+
 </aside>
 
 <div class="content-container unit size3of4 lastUnit">
@@ -101,8 +101,8 @@ Change it, enhance it and most importantly enjoy it!
 <p class="Paragraph SCXW110443578 BCX0"><span class="TextRun SCXW110443578 BCX0" data-contrast="none">You may designate an authorized agent to exercise some of your rights; however, in order to help protect the security of your </span><span class="TextRun SCXW110443578 BCX0" data-contrast="none">P</span><span class="TextRun SCXW110443578 BCX0" data-contrast="none">ersonal </span><span class="TextRun SCXW110443578 BCX0" data-contrast="none">D</span><span class="TextRun SCXW110443578 BCX0" data-contrast="none">ata</span><span class="TextRun SCXW110443578 BCX0" data-contrast="none">, the authorized agent must follow the same authentication procedures that are required if you exercise your rights without using an agent. </span><span class="TextRun SCXW110443578 BCX0" data-contrast="none"><span class="SpellingError SCXW110443578 BCX0">Marketo</span></span><span class="TextRun SCXW110443578 BCX0" data-contrast="none"> will verify requests made through authorized agents to help ensure the safety of your account and to comply with our policies and procedures.  </span><span class="EOP SCXW110443578 BCX0" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:150,&quot;335559740&quot;:240}"> </span></p>
 </div><h3>11. Can Children Use Marketo's Sites? </h3><p>The Sites are not intended for minors under the age of 18. Marketo does not knowingly or specifically collect information about minors under the age of 18 and believes that children of any age should get their parents’ or legal guardians’ consent before providing any Personal Data. If you believe that we have mistakenly or unintentionally collected such information, please notify us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0474766d7265677d6b62626d676176446965766f61706b2a676b69">[email&#160;protected]</a> so that we can delete the information from our servers. </p><h3>12. Third Party Sites </h3><p>The Sites permit you to link to other websites on the Internet through direct links or through applications such as “share” or “like” buttons, and other websites likewise may contain links to the Sites. The information practices or content of such other websites is governed by the privacy statements of those websites and not by this Privacy Notice. We encourage you to review the privacy policies found on such other websites, services, and applications to understand how your information is collected and used by them. </p><p>Similarly, please note that we are not responsible for the collection, use and disclosure policies and practices (including the data security practices) of other organizations, such as Apple,  Facebook, Google, LinkedIn, Microsoft, RIM, Twitter or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider, or device manufacturer, including any Personal Data you disclose to other organizations through or in connection with the Apps or the Social Media Pages. </p><h3>13. Sensitive Information</h3><p>We ask that you not send us or disclose any sensitive Personal Data (e.g., social security numbers, information related to racial or ethnic origin, sexual orientation, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background, or trade union membership) on or through the Sites or via other means. </p><h3>14. Changes to this Privacy Notice</h3><p>Marketo may amend this Privacy Notice from time to time. The “Effective Date” legend at the top of this page indicates when this Privacy Notice was last revised. Any changes to this Privacy Notice will become effective when we post the revised Privacy Notice on the Sites.</p><h3>15. International Transfer of Data </h3><p>Your Personal Data may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Sites or disclosing information to us you consent to the transfer of information to countries outside of your country of residence, including the United States, Australia, Germany, Ireland, Israel, Japan, and the UK, which could have different data protection rules than those of your country or the country in which you were located when you initially provided the information. Where required, we put in place a solution to ensure that Personal Data transferred outside of the EEA is subject to adequate protection, namely the European Commission Standard Contractual Clauses. </p><h5>EU-U.S. and Swiss-US Privacy Shield</h5><p>When transferring any Personal Data from the EEA and Switzerland to the U.S., we adhere to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce. Marketo has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. </p><p>Marketo U.S. affiliates ToutApp, Inc. and Bizible are Covered Entitiesunder Marketo’s Privacy Shield certification and comply with the Privacy Shield Principles.</p><p>For the purposes of enforcing compliance with the Privacy Shield, we are subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission. </p><p>If we have received your Personal Data in the U.S. and subsequently transfer it to a third party agent or service provider for processing, and such third party agent or service provider processes your Personal Data in a manner inconsistent with the Privacy Shield Principles, we remain responsible under the Privacy Shield unless we can prove we are not responsible for the event giving rise to the damage.</p><p>An individual has the possibility, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. Please refer to Privacy Shield Annex I for additional information: <a href="https://www.privacyshield.gov/article?id=ANNEX-I-introduction">https://www.privacyshield.gov/article?id=ANNEX-I-introduction</a> </p><p>If there is any conflict between the terms in this Privacy Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view Marketo’s certification, please visit <a href="https://www.privacyshield.gov/">https://www.privacyshield.gov/</a> or see our Privacy Shield Notice at <a href="https://legal.marketo.com/privacyshield">https://legal.marketo.com/privacyshield</a>. </p><h3>16. Questions, Concerns or Complaints </h3><p>Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and handle your information as a data Controller, please contact our Data Protection Officer (DPO) by email at <a href="/cdn-cgi/l/email-protection#6515170c1304061c0a03030c060017250804170e00110a4b060a08"><span class="__cf_email__" data-cfemail="bdcdcfd4cbdcdec4d2dbdbd4ded8cffdd0dccfd6d8c9d293ded2d0">[email&#160;protected]</span></a>, or by mail at: 601 Townsend St, San Francisco, CA 94103 ATTN: Privacy, Legal. Or, you may contact Marketo’s Representative to the European Union, Marketo EMEA Ltd, by email at <a href="/cdn-cgi/l/email-protection#92e2e0fbe4f3f1ebfdf4f4fbf1f7e0d2fff3e0f9f7e6fdbcf1fdff"><span class="__cf_email__" data-cfemail="c6b6b4afb0a7a5bfa9a0a0afa5a3b486aba7b4ada3b2a9e8a5a9ab">[email&#160;protected]</span></a> or by mail at: Level 2, Red Oak North, South County Business Park, Leopardstown, Dublin 18 Ireland.</p><p>Because email communications are not always secure, please do not include credit card information or other sensitive information in your emails to us. </p><p>Marketo will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.</p><p>In compliance with the Privacy Shield Principles, Marketo commits to resolve complaints about our collection or use of your Personal Data.  EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Marketo’s Data Protection Officer as indicated above.</p><p>Marketo has further committed to refer unresolved Privacy Shield complaints to the Association of National Advertisers (ANA) Association’s Privacy Shield Dispute Resolution Mechanism, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit  <span style="text-decoration: underline;">https://thedma.org/resources/consumer-resources/privacyshield-consumers/</span>  for more information or to file a complaint. These dispute resolution services are provided at no cost to you.</p><p>If your dispute remains unsatisfactorily resolved once both Marketo and ANA have investigated and responded to your complaint, you have the right to seek binding arbitration as a last resort.</p><p>If you have a complaint that involves a matter of national security, please contact the Ombudsperson at the U.S. Department of State.</p><p>You may have the right to complain to a data protection authority about our collection and use of your Personal Data.  For more information, please contact your local data protection authority. (Contact details for data protection authorities in the EEA, Switzerland and certain non-European countries (including the US and Canada) are available <a href="https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm">here</a>.) </p></div>
 	</article>
-		
-		
+
+
 </div>
 
 	</div>
@@ -115,9 +115,9 @@ Change it, enhance it and most importantly enjoy it!
 				<span class="arrow">&rarr;</span> <nav class="primary">
 	<span class="nav-open-button">²</span>
 	<ul>
-		
+
 			<li class="link"><a href="https://www.marketo.com" title="Home">Home</a></li>
-		
+
 	</ul>
 </nav>
 </div>

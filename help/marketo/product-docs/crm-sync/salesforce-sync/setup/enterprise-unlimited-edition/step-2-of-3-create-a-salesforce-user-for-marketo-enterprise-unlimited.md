@@ -115,25 +115,25 @@ In this article, you will set up user permissions in [!DNL Salesforce] profile, 
 
 1. After you finish disabling all unneeded fields, you must check **[!UICONTROL Read Access and Edit Access]** for the following object fields. Click **[!UICONTROL Save]** when you’re done.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Object</th> 
-   <th>Fields</th> 
-  </tr> 
-  <tr> 
-   <td>Account</td> 
-   <td>Type field</td> 
-  </tr> 
-  <tr> 
-   <td>Event</td> 
-   <td>All fields</td> 
-  </tr> 
-  <tr> 
-   <td>Task</td> 
-   <td>All fields</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Object</th>
+   <th>Fields</th>
+  </tr>
+  <tr>
+   <td>Account</td>
+   <td>Type field</td>
+  </tr>
+  <tr>
+   <td>Event</td>
+   <td>All fields</td>
+  </tr>
+  <tr>
+   <td>Task</td>
+   <td>All fields</td>
+  </tr>
+ </tbody>
 </table>
 
    ![](assets/sfdc-check-the-boxes.png)

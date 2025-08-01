@@ -33,7 +33,7 @@ The fields and buttons below are created by the Metadata API in Salesforce CRM. 
 
 ## Update [!DNL Salesforce] Customization {#update-salesforce-customization}
 
-Updates to the [!DNL Salesforce] Customization package will include enhancements and bug fixes. To check if updates are available or to perform an update, follow the steps below.  
+Updates to the [!DNL Salesforce] Customization package will include enhancements and bug fixes. To check if updates are available or to perform an update, follow the steps below.
 
 >[!NOTE]
 >

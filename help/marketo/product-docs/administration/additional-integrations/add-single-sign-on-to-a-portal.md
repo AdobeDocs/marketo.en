@@ -34,7 +34,7 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 
 >[!NOTE]
 >
->Marketo only supports Identity Provider-initiated (also known as IdP-initiated), in which the user first launches the IdP login page, authenticates, then navigates to My Marketo. If your Marketo subscription has been moved to admin console, Adobe Admin Console only supports Service Provider-initiated (also known as SP-initiated) at this time. There may be changes made in your SSO experience. 
+>Marketo only supports Identity Provider-initiated (also known as IdP-initiated), in which the user first launches the IdP login page, authenticates, then navigates to My Marketo. If your Marketo subscription has been moved to admin console, Adobe Admin Console only supports Service Provider-initiated (also known as SP-initiated) at this time. There may be changes made in your SSO experience.
 
 ## Additional Notes {#additional-notes}
 
@@ -53,7 +53,7 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 
 SSO is disabled by default. Follow these steps to enable SAML and configure it.
 
-1. Go to the **[!UICONTROL Admin]** area. 
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 

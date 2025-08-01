@@ -32,13 +32,13 @@ SCREENSHOT
 
 1. You must add a [service credential certificate](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) to configure the repository. Click the **+ Add certificate** button.
 
-SCREENSHOT         
+SCREENSHOT
 
 1. Drag and drop your certificate (JSON file only), or select it from your computer. Click **Add** when done.
 
 SCREENSHOT
 
-1. The configured repository is displayed below along with status and expiration. Click the ellipsis button (**...**) to view the certificate. Otherwise, you're done. 
+1. The configured repository is displayed below along with status and expiration. Click the ellipsis button (**...**) to view the certificate. Otherwise, you're done.
 
 SCREENSHOT
 

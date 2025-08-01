@@ -35,19 +35,19 @@ The root block element setting defines which tags wrap your content. By default,
 
    If you have `<div class=“mktEditable”></div>` in an Email Template, you will see the following HTML Source behavior when you open the section and type “Text Goes Here” in the editor:
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>&lt;p&gt;</th> 
-   <th>&lt;div&gt;</th> 
-   <th>None</th> 
-  </tr> 
-  <tr> 
-   <td><p>&lt;div class=“mktEditable”&gt;<br>&lt;p&gt;Text Goes Here&lt;/p&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class=“mktEditable”&gt;<br>&lt;div&gt;Text Goes Here&lt;/div&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class=“mktEditable”&gt;<br>Text Goes Here<br>&lt;/div&gt;</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>&lt;p&gt;</th>
+   <th>&lt;div&gt;</th>
+   <th>None</th>
+  </tr>
+  <tr>
+   <td><p>&lt;div class=“mktEditable”&gt;<br>&lt;p&gt;Text Goes Here&lt;/p&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class=“mktEditable”&gt;<br>&lt;div&gt;Text Goes Here&lt;/div&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class=“mktEditable”&gt;<br>Text Goes Here<br>&lt;/div&gt;</p></td>
+  </tr>
+ </tbody>
 </table>
 
    >[!TIP]

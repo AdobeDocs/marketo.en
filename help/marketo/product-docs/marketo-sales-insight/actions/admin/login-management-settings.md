@@ -44,7 +44,7 @@ Upon clicking the **[!UICONTROL Getting Started]** button in the invitation emai
 
 ### What authentication methods are my users allowed to authenticate with when “[!UICONTROL Salesforce Only]” is selected? {#what-authentication-methods}
 
-When navigating to our login screen, users will first input their email address. Then they'll click the Salesforce One Click [!UICONTROL Login] button, where they can authenticate using the Salesforce account they're logged in to.  
+When navigating to our login screen, users will first input their email address. Then they'll click the Salesforce One Click [!UICONTROL Login] button, where they can authenticate using the Salesforce account they're logged in to.
 
 >[!NOTE]
 >

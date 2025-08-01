@@ -23,11 +23,11 @@ The modeler all measures the amount of leads in the bucket at any given time. Th
 >
 >For those who are more financially minded, you can think of the stages as accounts with money flowing in and out with balance at the end of each day.
 
-Models are generally for customers who are comfortable with smart campaigns and programs and want to take their analytics to the next level.  
+Models are generally for customers who are comfortable with smart campaigns and programs and want to take their analytics to the next level.
 
 ## Starting with a New Model {#starting-with-a-new-model}
 
-By default, a new model starts you off with six revenue stages. This model is actually fine all by itself, but it can be deeply customized. 
+By default, a new model starts you off with six revenue stages. This model is actually fine all by itself, but it can be deeply customized.
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 

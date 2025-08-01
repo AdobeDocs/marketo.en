@@ -53,10 +53,10 @@ You schedule your event and choose your preferred settings in [Webex](https://ww
 * **Automatic recording**: Check this to have your webinar recorded automatically.
 * **Practice session**: Check this to have a practice session started when the webinar begins.
 * **Breakout sessions**: Breakout sessions allow you to preassign panelists and attendees before the webinar starts, or allow them to join during the webinar.
-* **Webinar series**: Adding to a webinar series lets people see your webinar whether it's public or not. 
+* **Webinar series**: Adding to a webinar series lets people see your webinar whether it's public or not.
 * **Registration**: Requires attendees to register and receive host approval before attending.
 * **Email reminder**: Choose an email reminder ranging from 15 minutes before the webinar starts up to two days.
-* **Webinar options**: Determine which features are available to participants in the webinar. 
+* **Webinar options**: Determine which features are available to participants in the webinar.
 * **Participant privileges**: Participant privileges determine the actions available to webinar participants.
 
 >[!NOTE]

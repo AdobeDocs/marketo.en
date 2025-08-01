@@ -67,7 +67,7 @@ There are a few things to do before you begin the missions.
 
 ## Set Up Complete {#set-up-complete}
 
-You're ready to begin your first mission!  
+You're ready to begin your first mission!
 
 <br>&nbsp;
 

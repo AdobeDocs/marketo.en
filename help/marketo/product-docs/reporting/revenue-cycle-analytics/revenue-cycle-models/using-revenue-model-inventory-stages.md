@@ -11,7 +11,7 @@ All known leads and accounts initially reside in the Inventory Stage. This prosp
 
 >[!TIP]
 >
->It's a great idea to create a practice model in a graphics or presentation program and confirm it with your colleagues first. 
+>It's a great idea to create a practice model in a graphics or presentation program and confirm it with your colleagues first.
 
 ## Add An Inventory Stage {#add-an-inventory-stage}
 

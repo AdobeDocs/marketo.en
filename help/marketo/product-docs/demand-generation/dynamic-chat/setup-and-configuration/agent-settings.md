@@ -57,17 +57,17 @@ Set your time zone and time/day of week availabilty to receive meeting bookings.
 
    ![](assets/agent-settings-4.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>Meeting duration</b></td>
    <td>Determines the length of time visitors will see in your available meeting slots.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Buffer time between meetings</b></td>
    <td>Amount of time you set as a buffer for after the meeting. If you set it for 30 minutes, no one will be able to book a meeting with you until 30 minutes after the scheduled end of a meeting on your calendar.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 >[!TIP]

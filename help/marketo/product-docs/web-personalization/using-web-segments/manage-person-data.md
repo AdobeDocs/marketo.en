@@ -19,8 +19,8 @@ Leverage Person Data for [!DNL Web Personalization] by selecting person fields t
 
 ## Adding a New Person field {#adding-a-new-person-field}
 
-1. Select **Field to add** from the drop-down to add a person data field to the list.  
-  
+1. Select **Field to add** from the drop-down to add a person data field to the list.
+
    ![](assets/add-a-person-field-hand.jpg)
 
    >[!NOTE]
@@ -29,8 +29,8 @@ Leverage Person Data for [!DNL Web Personalization] by selecting person fields t
 
 ## Deleting a Person Field {#deleting-a-person-field}
 
-1. Click the delete icon ( ![--](assets/image2015-3-24-13-3a45-3a56.png)) to remove a field from the list. Click **[!UICONTROL Yes]** to confirm you want to delete the field.  
-  
+1. Click the delete icon ( ![--](assets/image2015-3-24-13-3a45-3a56.png)) to remove a field from the list. Click **[!UICONTROL Yes]** to confirm you want to delete the field.
+
    ![](assets/web-engagement-settings-delete.jpg)
 
    >[!NOTE]
@@ -43,54 +43,54 @@ Leverage Person Data for [!DNL Web Personalization] by selecting person fields t
    >* Maximum length of string types are 255 characters
    >* Hidden fields will be removed automatically
 
-<table> 
- <tbody> 
-  <tr> 
-   <th><p>REST API Name</p></th> 
-   <th><p>SOAP API Name</p></th> 
-   <th><p>Friendly Name</p></th> 
-  </tr> 
-  <tr> 
-   <td><p>department</p></td> 
-   <td><p>Department</p></td> 
-   <td><p>Department</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>title</p></td> 
-   <td><p>Title</p></td> 
-   <td><p>Job Title</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>rating</p></td> 
-   <td><p>Rating</p></td> 
-   <td><p>Rating</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadScore</p></td> 
-   <td><p>LeadScore</p></td> 
-   <td><p>Score</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadStatus</p></td> 
-   <td><p>LeadStatus</p></td> 
-   <td><p>Status</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>priority</p></td> 
-   <td><p>Priority</p></td> 
-   <td><p>Priority</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadRole</p></td> 
-   <td><p>LeadRole</p></td> 
-   <td><p>Role</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>unsubscribed</p></td> 
-   <td><p>Unsubscribed</p></td> 
-   <td><p>Unsubscribed</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th><p>REST API Name</p></th>
+   <th><p>SOAP API Name</p></th>
+   <th><p>Friendly Name</p></th>
+  </tr>
+  <tr>
+   <td><p>department</p></td>
+   <td><p>Department</p></td>
+   <td><p>Department</p></td>
+  </tr>
+  <tr>
+   <td><p>title</p></td>
+   <td><p>Title</p></td>
+   <td><p>Job Title</p></td>
+  </tr>
+  <tr>
+   <td><p>rating</p></td>
+   <td><p>Rating</p></td>
+   <td><p>Rating</p></td>
+  </tr>
+  <tr>
+   <td><p>leadScore</p></td>
+   <td><p>LeadScore</p></td>
+   <td><p>Score</p></td>
+  </tr>
+  <tr>
+   <td><p>leadStatus</p></td>
+   <td><p>LeadStatus</p></td>
+   <td><p>Status</p></td>
+  </tr>
+  <tr>
+   <td><p>priority</p></td>
+   <td><p>Priority</p></td>
+   <td><p>Priority</p></td>
+  </tr>
+  <tr>
+   <td><p>leadRole</p></td>
+   <td><p>LeadRole</p></td>
+   <td><p>Role</p></td>
+  </tr>
+  <tr>
+   <td><p>unsubscribed</p></td>
+   <td><p>Unsubscribed</p></td>
+   <td><p>Unsubscribed</p></td>
+  </tr>
+ </tbody>
 </table>
 
 The following lead fields are provided out of the box for new [!DNL Web Personalization] accounts:

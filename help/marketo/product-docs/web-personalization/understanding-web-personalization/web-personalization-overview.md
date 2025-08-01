@@ -60,13 +60,13 @@ The Organizations tab displays all the details (name, location, activity and tim
 
 The right-hand panel of the Organizations page offers the following features and insights:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>Spreadsheet icon</strong>: Situated at the top right of the panel, the icon downloads the Organizations table in CSV format for offline use</p><p><strong>[!UICONTROL Set Email Alert]</strong>: Sends the logged in user an email every time the selected organization visits the website</p><p><strong>[!UICONTROL Leads]</strong>: Opens the leads table for the selected organization</p><p><strong>[!UICONTROL Share]</strong>: Opens a pop-up window to email and share the details of the organization that visited the webpage</p><p><strong>Location Icon</strong>: Displays the country and city of the selected organization</p><p><strong>Links</strong>: Jigsaw, Whois, Linkedin, Google, Twitter opens a new window with additional information from the respective webpage offering additional insight into the selected organization</p><p><strong>[!UICONTROL Search]</strong>: Displays the keyword used if the visitor arrived via a search engine</p><p><strong>[!UICONTROL Referrers]</strong>: Shows the URL link of the page that referred the traffic to your site</p><p><strong>[!UICONTROL Visitors]</strong>: Displays the number of visits, the number of pages viewed by the selected organization and their email address (if they completed a submit form) and the time and date of the last visit</p><p><strong>[!UICONTROL Clickstream]</strong>: Displays a table of the user activity and URL path on the site and how long they visited each page</p></td> 
-   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>Spreadsheet icon</strong>: Situated at the top right of the panel, the icon downloads the Organizations table in CSV format for offline use</p><p><strong>[!UICONTROL Set Email Alert]</strong>: Sends the logged in user an email every time the selected organization visits the website</p><p><strong>[!UICONTROL Leads]</strong>: Opens the leads table for the selected organization</p><p><strong>[!UICONTROL Share]</strong>: Opens a pop-up window to email and share the details of the organization that visited the webpage</p><p><strong>Location Icon</strong>: Displays the country and city of the selected organization</p><p><strong>Links</strong>: Jigsaw, Whois, Linkedin, Google, Twitter opens a new window with additional information from the respective webpage offering additional insight into the selected organization</p><p><strong>[!UICONTROL Search]</strong>: Displays the keyword used if the visitor arrived via a search engine</p><p><strong>[!UICONTROL Referrers]</strong>: Shows the URL link of the page that referred the traffic to your site</p><p><strong>[!UICONTROL Visitors]</strong>: Displays the number of visits, the number of pages viewed by the selected organization and their email address (if they completed a submit form) and the time and date of the last visit</p><p><strong>[!UICONTROL Clickstream]</strong>: Displays a table of the user activity and URL path on the site and how long they visited each page</p></td>
+   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td>
+  </tr>
+ </tbody>
 </table>
 
 **Share Organizations**
@@ -87,35 +87,35 @@ The Visitors page displays all the details and online behavior of each visitor t
 
 The right-hand panel of the [!UICONTROL Visitors] page provides the following insights:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Name</th> 
-   <th colspan="1" rowspan="1">Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Spreadsheet icon</strong></td> 
-   <td colspan="1" rowspan="1">Situated at the top right of the panel, the icon downloads the Visitors table in CSV format for offline use</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Organization Name</strong></p></td> 
-   <td colspan="1" rowspan="1"> </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Set Campaign</strong></td> 
-   <td colspan="1" rowspan="1">Allows you to set up a Campaign CTA associated with the selected visitor</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Location</strong></td> 
-   <td colspan="1">Displays the visitor's country, state and city</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td> 
-   <td colspan="1" rowspan="1">Displays a table of the visitor's activity and URL path on the site and how long they visited each page</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Name</th>
+   <th colspan="1" rowspan="1">Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Spreadsheet icon</strong></td>
+   <td colspan="1" rowspan="1">Situated at the top right of the panel, the icon downloads the Visitors table in CSV format for offline use</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Organization Name</strong></p></td>
+   <td colspan="1" rowspan="1"> </td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Set Campaign</strong></td>
+   <td colspan="1" rowspan="1">Allows you to set up a Campaign CTA associated with the selected visitor</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Location</strong></td>
+   <td colspan="1">Displays the visitor's country, state and city</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td>
+   <td colspan="1" rowspan="1">Displays a table of the visitor's activity and URL path on the site and how long they visited each page</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Real-Time {#real-time}
@@ -128,37 +128,37 @@ The Real-Time page displays visitors on your website in real-time, measuring the
 
 The Real-time page is split into 6 informative tables of onsite visitor details:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Name</th> 
-   <th colspan="1" rowspan="1">Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td> 
-   <td colspan="1" rowspan="1"> Represents the number of visitors currently on your website</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Clicks per minute]</strong></p></td> 
-   <td colspan="1" rowspan="1"> A live line graph showing the number of clicks on your site per minute</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organizations]</strong></td> 
-   <td colspan="1" rowspan="1">A short version of the Organizations table</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL Real-Time Segment]</strong></td> 
-   <td colspan="1">The number of visitors currently onsite that match designated segments</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL Currently Browsing]</strong></td> 
-   <td colspan="1">The URL of the pages currently being viewed by onsite visitors</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Referrals]</strong></td> 
-   <td colspan="1" rowspan="1">The referral URL that brought the visitor to your site</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Name</th>
+   <th colspan="1" rowspan="1">Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td>
+   <td colspan="1" rowspan="1"> Represents the number of visitors currently on your website</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Clicks per minute]</strong></p></td>
+   <td colspan="1" rowspan="1"> A live line graph showing the number of clicks on your site per minute</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organizations]</strong></td>
+   <td colspan="1" rowspan="1">A short version of the Organizations table</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL Real-Time Segment]</strong></td>
+   <td colspan="1">The number of visitors currently onsite that match designated segments</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL Currently Browsing]</strong></td>
+   <td colspan="1">The URL of the pages currently being viewed by onsite visitors</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Referrals]</strong></td>
+   <td colspan="1" rowspan="1">The referral URL that brought the visitor to your site</td>
+  </tr>
+ </tbody>
 </table>

@@ -29,67 +29,67 @@ If you don't use Marketo Sales Insight, Marketo Engage can create Salesforce Act
    >
    >Once enabled, Marketo will push three months' worth of activity history. Depending on the amount of data, _this could take several days to complete_. Updates that occur during the initial Activities push may be delayed until after the initial Activities sync is complete.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <thead> 
-  <tr> 
-   <th>Activity Type</th> 
-   <th>Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Filled out form]</td> 
-   <td>Filled out any Marketo form</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Added to list]</td> 
-   <td><p>Flow step: Was added to a static list</p></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email sent]</td> 
-   <td>Flow step: Was sent an email</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email delivered]</td> 
-   <td>Received an email (not bounced)</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email opened]</td> 
-   <td>Opened an email (without blocking images)</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Clicked link in email]</td> 
-   <td>Clicked a link in an email sent by Marketo</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Removed from list]</td> 
-   <td>Flow step: Was removed from a static list</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Remove from flow]</td> 
-   <td>Flow step: Remove from flow</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Sales email sent]</td> 
-   <td>Was sent an email through Marketo Sales Insight</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Sales email opened]</td> 
-   <td>Opened an email sent through Marketo Sales Insight</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Click link in sales email]</td> 
-   <td>Clicked a link in an email sent through Marketo Sales Insight</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Sales email received]</td> 
-   <td>An email was received and logged by the Sales rep in the MSI Outlook Plugin</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <thead>
+  <tr>
+   <th>Activity Type</th>
+   <th>Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Filled out form]</td>
+   <td>Filled out any Marketo form</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Added to list]</td>
+   <td><p>Flow step: Was added to a static list</p></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email sent]</td>
+   <td>Flow step: Was sent an email</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email delivered]</td>
+   <td>Received an email (not bounced)</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email opened]</td>
+   <td>Opened an email (without blocking images)</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Clicked link in email]</td>
+   <td>Clicked a link in an email sent by Marketo</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Removed from list]</td>
+   <td>Flow step: Was removed from a static list</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Remove from flow]</td>
+   <td>Flow step: Remove from flow</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Sales email sent]</td>
+   <td>Was sent an email through Marketo Sales Insight</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Sales email opened]</td>
+   <td>Opened an email sent through Marketo Sales Insight</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Click link in sales email]</td>
+   <td>Clicked a link in an email sent through Marketo Sales Insight</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Sales email received]</td>
+   <td>An email was received and logged by the Sales rep in the MSI Outlook Plugin</td>
+  </tr>
+ </tbody>
 </table>
 
    >[!NOTE]

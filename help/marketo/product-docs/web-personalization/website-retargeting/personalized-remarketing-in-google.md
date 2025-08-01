@@ -38,7 +38,7 @@ Personalized Remarketing lets you re-engage with your users using RTP data and t
 >
 >* Custom Variables: Organization, Industry
 >* Event Category: Segment, Insightera-CTA, RTP-Remarketing
->* Event Label: Segment Name, Campaign Name, Segmented Audience Name  
+>* Event Label: Segment Name, Campaign Name, Segmented Audience Name
 >
 >In Google Universal Analytics:
 >
@@ -53,9 +53,9 @@ Personalized Remarketing lets you re-engage with your users using RTP data and t
 1. Enter **[!UICONTROL Name of Segmented Audience]** (as it appears in RTP).
 1. Click **[!UICONTROL Apply]**.
 
-![](assets/image2015-2-10-14-3a51-3a43.png)   
+![](assets/image2015-2-10-14-3a51-3a43.png)
 
-**Example of Audience from RTP Industry Data** 
+**Example of Audience from RTP Industry Data**
 
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 

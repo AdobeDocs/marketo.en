@@ -26,7 +26,7 @@ In one place, view all your questions, their approval status, and the task name/
 
    ![](assets/response-library-4.png)
 
-1. Click refresh and your new question appears at the top with the status of "[!UICONTROL Processing]." 
+1. Click refresh and your new question appears at the top with the status of "[!UICONTROL Processing]."
 
    ![](assets/response-library-5.png)
 

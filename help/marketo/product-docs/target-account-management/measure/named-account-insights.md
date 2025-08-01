@@ -27,21 +27,21 @@ The dashboard aggregates key insights at an account level from all the people wi
 
 ![](assets/three-new.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Account Score</span></strong></td> 
-   <td><p>See week-to-week engagement based on all the account scores you created in <span class="uicontrol">Admin</span>. You can compare these account scores side-by-side. To determine weekly engagement, we take the max engagement from any day of the week.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Pipeline</span></strong></td> 
-   <td>See the pipeline over time. To determine pipeline over time by week, we take the pipeline on the last day.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Revenue</span></strong></td> 
-   <td>See revenue over time. To determine revenue over time by week, we take the sum of all the revenue won in that week.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Account Score</span></strong></td>
+   <td><p>See week-to-week engagement based on all the account scores you created in <span class="uicontrol">Admin</span>. You can compare these account scores side-by-side. To determine weekly engagement, we take the max engagement from any day of the week.</p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Pipeline</span></strong></td>
+   <td>See the pipeline over time. To determine pipeline over time by week, we take the pipeline on the last day.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Revenue</span></strong></td>
+   <td>See revenue over time. To determine revenue over time by week, we take the sum of all the revenue won in that week.</td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Interesting Moments]**

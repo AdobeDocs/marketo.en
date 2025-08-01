@@ -59,40 +59,40 @@ Already have a CSV full of potential target accounts? Import them directly into 
 
 Scenarios when you dedupe [!UICONTROL by Account Name]:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>Importing record with existing <span class="uicontrol">Named Account</span> name</strong></td> 
-   <td><p>We will update the existing record</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>Importing record with new <span class="uicontrol">Named Account</span> name</strong></td> 
-   <td>We will create a new record</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>Importing record with existing <span class="uicontrol">Named Account</span> name</strong></td>
+   <td><p>We will update the existing record</p></td>
+  </tr>
+  <tr>
+   <td><strong>Importing record with new <span class="uicontrol">Named Account</span> name</strong></td>
+   <td>We will create a new record</td>
+  </tr>
+ </tbody>
 </table>
 
    Scenarios when you dedupe [!UICONTROL by Domain Name]:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>Importing record with a new account name & new domain name</strong></td> 
-   <td>We will create a new <span class="uicontrol">Named Account</span> with the info provided</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Importing record with an existing account name & existing domain name</strong></td> 
-   <td>We will update the existing <span class="uicontrol">Named Account</span></td> 
-  </tr> 
-   <tr> 
-   <td><strong>Importing record with a new account name & existing domain name</strong></td> 
-   <td>We will append the new account name to the existing <span class="uicontrol">Named Account</span> that matches the domain name and update other info (i.e. Industry, State, etc)</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Importing record with existing <span class="uicontrol">Named Account</span> name & new domain name</strong></td> 
-   <td>We will append the new domain name to the existing <span class="uicontrol">Named Account</span> that matches the account name and update other info (i.e. Industry, State, etc)</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>Importing record with a new account name & new domain name</strong></td>
+   <td>We will create a new <span class="uicontrol">Named Account</span> with the info provided</td>
+  </tr>
+  <tr>
+   <td><strong>Importing record with an existing account name & existing domain name</strong></td>
+   <td>We will update the existing <span class="uicontrol">Named Account</span></td>
+  </tr>
+   <tr>
+   <td><strong>Importing record with a new account name & existing domain name</strong></td>
+   <td>We will append the new account name to the existing <span class="uicontrol">Named Account</span> that matches the domain name and update other info (i.e. Industry, State, etc)</td>
+  </tr>
+  <tr>
+   <td><strong>Importing record with existing <span class="uicontrol">Named Account</span> name & new domain name</strong></td>
+   <td>We will append the new domain name to the existing <span class="uicontrol">Named Account</span> that matches the account name and update other info (i.e. Industry, State, etc)</td>
+  </tr>
+ </tbody>
 </table>
 
    >[!NOTE]

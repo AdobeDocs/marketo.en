@@ -39,7 +39,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 ![(star)](assets/yellow-star.png)
 
-* **Enhanced visibility into Lead, Contact, Account & Opportunity Activities for Salesforce CRM Users**: Engagement with prospects during long sales cycles is more informed due to an increased number of engagement records in [!DNL Sales Insight]. Interesting moments, web activity, email, and score tabs show up to 400 activities across Lead, Contact, Account, and Opportunity objects.  
+* **Enhanced visibility into Lead, Contact, Account & Opportunity Activities for Salesforce CRM Users**: Engagement with prospects during long sales cycles is more informed due to an increased number of engagement records in [!DNL Sales Insight]. Interesting moments, web activity, email, and score tabs show up to 400 activities across Lead, Contact, Account, and Opportunity objects.
 
 ## [!DNL Sales Connect] {#sales-connect}
 
@@ -51,14 +51,14 @@ The following features are on a non-quarterly cycle and will be released through
 >
 >Email throttling is available in Beta now. [Learn more](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
-* **Enhanced Sales Activity Insights**: Capture and activate personalized engagement based on your sales team’s prior activities. New attributes such as Sales Call Recording Link, Sales Campaign Name, and Sales Email Subject can be used in Marketo Engage smart lists.  These activities can be exported and reported through the Marketo Engage REST API or Bulk Export and are available on filters and triggers as additional constraints for smart lists.  
+* **Enhanced Sales Activity Insights**: Capture and activate personalized engagement based on your sales team’s prior activities. New attributes such as Sales Call Recording Link, Sales Campaign Name, and Sales Email Subject can be used in Marketo Engage smart lists.  These activities can be exported and reported through the Marketo Engage REST API or Bulk Export and are available on filters and triggers as additional constraints for smart lists.
 
 ## [!DNL Bizible] {#bizible}
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible] [!DNL LinkedIn] Lead Gen Forms Integration**: Marketers can now perform revenue attribution on conversions that occur when [!DNL LinkedIn] captures form fills through their Lead Gen Forms ad units. These insights can then be used to optimize form performance and paid media investments. [!DNL LinkedIn] Lead Gen Forms are one of [!DNL LinkedIn]’s fastest-growing paid media offerings and this new capability is included with our existing [!DNL LinkedIn] Ads integration with [!DNL Bizible].  
-  
+* **[!DNL Bizible] [!DNL LinkedIn] Lead Gen Forms Integration**: Marketers can now perform revenue attribution on conversions that occur when [!DNL LinkedIn] captures form fills through their Lead Gen Forms ad units. These insights can then be used to optimize form performance and paid media investments. [!DNL LinkedIn] Lead Gen Forms are one of [!DNL LinkedIn]’s fastest-growing paid media offerings and this new capability is included with our existing [!DNL LinkedIn] Ads integration with [!DNL Bizible]. 
+ 
 * **Improved Velocity Dashboard**: We have added a new velocity metric and dashboard filter for deeper insights. This dashboard is used by marketers to understand stage-by-stage lead and opportunity velocity and the efficiency of different forms of marketing and sales engagement.
 
 * **New Cohort Waterfall Journey Dashboard**: This will enable marketers to view the progression of a selected cohort through a classic “demand waterfall” set of stages, providing a quick understanding of conversion rates and implied stage conversion causality on a stage-by-stage basis.

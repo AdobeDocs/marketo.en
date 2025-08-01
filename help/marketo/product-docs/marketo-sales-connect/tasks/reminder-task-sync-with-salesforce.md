@@ -8,9 +8,9 @@ feature: Marketo Sales Connect
 
 >[!NOTE]
 >
->To learn how to enable Task Sync check out [Sync [!DNL Sales Connect] Tasks/Reminders to [!DNL Salesforce] Tasks](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).  
+>To learn how to enable Task Sync check out [Sync [!DNL Sales Connect] Tasks/Reminders to [!DNL Salesforce] Tasks](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
 
-Once task sync settings are enabled users will see their reminder tasks bidirectionally synced with [!DNL Salesforce]. This means users can manage tasks from either [!DNL Salesforce] or [!DNL Sales Connect] and feel confident that systems will stay aligned.  
+Once task sync settings are enabled users will see their reminder tasks bidirectionally synced with [!DNL Salesforce]. This means users can manage tasks from either [!DNL Salesforce] or [!DNL Sales Connect] and feel confident that systems will stay aligned.
 
 ## Reminder Task Field Sync {#reminder-task-field-sync}
 

@@ -5,7 +5,7 @@ exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
 ---
 # Using Bulk Add to Sales Campaign in Salesforce {#using-bulk-add-to-sales-campaign-in-salesforce}
 
-Learn how to bulk add to Sales Campaign in Salesforce to help scale your outbound communication using Sales Actions. 
+Learn how to bulk add to Sales Campaign in Salesforce to help scale your outbound communication using Sales Actions.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Learn how to bulk add to Sales Campaign in Salesforce to help scale your outboun
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-1.png)
 
-1. In the **View** drop-down, select the desired view of Leads/Contacts you want to email. 
+1. In the **View** drop-down, select the desired view of Leads/Contacts you want to email.
 
    >[!TIP]
    >
@@ -30,7 +30,7 @@ Learn how to bulk add to Sales Campaign in Salesforce to help scale your outboun
 1. Choose the desired leads or contacts list and click the **Add to Sales Campaign** button.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-2.png)
- 
+
 1. You will be navigated to the Actions Sales Campaign modal, with the recipients you've selected added.
 
 1. Make any edits needed to remove people or groups, then click **Next**.
@@ -42,7 +42,7 @@ Learn how to bulk add to Sales Campaign in Salesforce to help scale your outboun
 1. Select the Sales Campaign you want to add the selected people to and click **Next**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-4.png)
- 
+
 1. You may see different options depending on what the first step in your campaign is. If your first step is an email, you'll have the option to edit the email for each recipient as seen below. Once this is done, click **Next**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-5.png)
@@ -50,11 +50,11 @@ Learn how to bulk add to Sales Campaign in Salesforce to help scale your outboun
 1. Again, if your first step is an email and you configured it to allow you to select when the campaign launches, you'll have the option to **Start Now** or **Schedule a New Start Time**. Once this has been completed, click **Start**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-6.png)
- 
+
 After clicking Start, you'll see a confirmation screen letting you know how many people have been added.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-7.png)
- 
+
 ## Bulk Add to Sales Campaign in Salesforce Classic {#bulk-add-to-sales-campaign-in-salesforce-classic}
 
 1. In Salesforce, click the **Leads/Contacts** tab.
@@ -70,7 +70,7 @@ After clicking Start, you'll see a confirmation screen letting you know how many
 1. Choose the desired lead or contact list and click the **Add to Sales Campaign** button.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
- 
+
 1. You will be navigated to the Actions Sales Campaign modal with the people you selected added.
 
 1. Make any edits needed to remove people or groups, then click **Next**.
@@ -90,7 +90,7 @@ After clicking Start, you'll see a confirmation screen letting you know how many
 1. Again, if your first step is an email and you configured it to allow you to select when the campaign launches, you'll have the option to **Start Now** or **Schedule a New Start Time**. Once this has been completed, click **Start**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
- 
+
 After clicking Start, you'll see a confirmation screen letting you know how many people have been added.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-14.png)

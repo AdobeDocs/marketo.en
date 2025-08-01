@@ -107,7 +107,7 @@ Cloning an RTP campaign makes it quicker and more efficient to create more perso
 
 We are making several improvements to the rich text editor. After we released the updated editor in July, we received great feedback and were able to work these changes into this upgrade. There’s much more to come over the next several months. Here’s a list of what’s new in Q4:
 
-* VML is now supported within your HTML code:  
+* VML is now supported within your HTML code:
 
 ```
 <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
@@ -115,7 +115,7 @@ We are making several improvements to the rich text editor. After we released th
 </v:background>
 ```
 
-* Anything can now be inserted in a valid HTML comment (certain syntaxes like seen below were previously stripped):  
+* Anything can now be inserted in a valid HTML comment (certain syntaxes like seen below were previously stripped):
 
 `<!--[if gte mso 9]> <![endif]-->`
 
@@ -124,15 +124,15 @@ We are making several improvements to the rich text editor. After we released th
 * Maximize/minimize button added to the HTML source editor
 * Pre-existing table properties are now identified and displayed in the Table Properties dialog
 * Both rows of buttons are now shown by default.
-* The editor will now accept any element (even deprecated or non-standard elements):  
+* The editor will now accept any element (even deprecated or non-standard elements):
 
 `<myCustomElement>Hello World!</myCustomElement>`
 
-* The editor will now accept any attribute (even deprecated or non-standard attributes):  
+* The editor will now accept any attribute (even deprecated or non-standard attributes):
 
 ```
 <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-<td background="someImage.png"> 
+<td background="someImage.png">
 ```
 
 ## [!DNL Microsoft Dynamics] - Validate Sync {#microsoft-dynamics-validate-sync}

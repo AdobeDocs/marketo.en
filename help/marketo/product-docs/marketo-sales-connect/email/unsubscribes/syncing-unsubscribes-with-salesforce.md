@@ -48,8 +48,8 @@ Users can decide whether they want to sync their unsubscribes with the standard 
 
 ## Installing the Opt Out field in the Page Layout {#installing-the-opt-out-field-in-the-page-layout}
 
-**Email Opt Out** 
-  
+**Email Opt Out**
+
 Email Opt Out is a standard field in [!DNL Salesforce] that's available to install from [!DNL Salesforce]. You need to be a [!DNL Salesforce] Admin to install it.
 
 1. Go to [Salesforce.com](https://salesforce.com) and sign in.

@@ -54,7 +54,7 @@ In this example we're sending all meetings from the inferred states of CA, OR, a
 
 ## Account Routing {#account-routing}
 
-Identify and upload your target account and respective sales owners and route visitors coming from those accounts directly to the respective account owner.  
+Identify and upload your target account and respective sales owners and route visitors coming from those accounts directly to the respective account owner.
 
    ![](assets/routing-9.png)
 

@@ -19,7 +19,7 @@ Marketo is great at picking out just the right people for a program or smart cam
 >
 >Learn [how to create segmentations](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Once you have these personas set up (_and_ you use workspaces), you will want to share them across your workspaces. Here are some good things to know:  
+Once you have these personas set up (_and_ you use workspaces), you will want to share them across your workspaces. Here are some good things to know:
 
 ## Rules & Tips {#rules-tips}
 

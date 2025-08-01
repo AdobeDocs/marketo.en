@@ -60,7 +60,7 @@ Interacted with Document: Logged in Marketo and populated in [!DNL Sales Insight
 * Document
 * Status
 
-Chat activities are available in Insights Dashboard. 
+Chat activities are available in Insights Dashboard.
 
    ![](assets/dynamic-chat-integration-3.png)
 
@@ -68,7 +68,7 @@ A Chat tab is available in Lead and Contact panels. It includes [!UICONTROL Acti
 
    ![](assets/dynamic-chat-integration-4.png)
 
-You can learn more about an activity type by clicking on it.  
+You can learn more about an activity type by clicking on it.
 
    ![](assets/dynamic-chat-integration-5.png)
 
@@ -82,7 +82,7 @@ The Chat tab is also included in your Global Marketo tab. It includes three acti
 * [!UICONTROL Account]
 * [!UICONTROL Activity type] ([!UICONTROL Engaged Dialogue], [!UICONTROL Scheduled Appointment], [!UICONTROL Reached Goal])
 * [!UICONTROL Dialogue Name]
-* [!UICONTROL Date] 
+* [!UICONTROL Date]
 
 Again, you can learn more about an activity type by clicking on it.
 
@@ -96,5 +96,4 @@ Again, you can learn more about an activity type by clicking on it.
 >* Chat tab in the Lead, Contact, Account and Opportunity panels
 >* Chat tab in the Global Marketo tab
 >
->It is not possible to disable only one of these features. 
-
+>It is not possible to disable only one of these features.

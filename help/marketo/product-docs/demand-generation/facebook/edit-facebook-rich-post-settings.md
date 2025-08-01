@@ -31,7 +31,7 @@ You can specify the types of page information to use in the [!DNL Facebook] rich
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-    * Add Dynamic Content: Your social app can use your landing page's `<TITLE>`, `<CAPTION>`, and `<DESCRIPTION>` tags to populate your rich post.  
+    * Add Dynamic Content: Your social app can use your landing page's `<TITLE>`, `<CAPTION>`, and `<DESCRIPTION>` tags to populate your rich post.
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 

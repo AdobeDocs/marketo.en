@@ -39,15 +39,15 @@ Connecting to Outlook means you'll receive reply tracking, access to the Outlook
 
    ![](assets/connect-to-outlook-6.png)
 
-      <table> 
+      <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>Also known as Exchange Online</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>Also known as Exchange Online</td>
      </tr>
      <tr>
-      <td><strong>Exchange On-premise</strong></td> 
-      <td>Includes Exchange 2013 and 2016</td> 
+      <td><strong>Exchange On-premise</strong></td>
+      <td>Includes Exchange 2013 and 2016</td>
      </tr>
     </tbody>
    </table>
@@ -102,15 +102,15 @@ Connecting to Exchange On-Premise means you'll receive reply tracking, access to
 
    ![](assets/connect-to-outlook-15.png)
 
-      <table> 
+      <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>Also known as Exchange Online</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>Also known as Exchange Online</td>
      </tr>
      <tr>
-      <td><strong>Exchange On-premise</strong></td> 
-      <td>Includes Exchange 2013 and 2016</td> 
+      <td><strong>Exchange On-premise</strong></td>
+      <td>Includes Exchange 2013 and 2016</td>
      </tr>
     </tbody>
    </table>

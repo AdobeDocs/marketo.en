@@ -53,7 +53,7 @@ Once you have added an A/B test to an email program and defined the winner crite
    >
    >Scheduling an A/B test also configures the final send date or the report send date.
 
-   Assuming you already defined your audience and picked an email, the only step left is to approve the program.  
+   Assuming you already defined your audience and picked an email, the only step left is to approve the program.
 
    >[!MORELIKETHIS]
    >

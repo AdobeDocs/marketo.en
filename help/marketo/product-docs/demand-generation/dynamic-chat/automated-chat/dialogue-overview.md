@@ -13,7 +13,7 @@ Dialogues are individual chat conversations. In each Dialogue, you decide where 
 The [Audience Criteria](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} section of a Dialogue is where you'll define where and to whom your chat conversation will be shown
 
    ![](assets/dialogue-overview-1.png)
-   
+
 ## Stream Designer {#stream-designer}
 
 The [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} section of a Dialogue is where you'll design the conversation that you want to have with your website visitors.

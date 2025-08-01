@@ -6,13 +6,13 @@ exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
 ---
 # Adobe IMS User Migration Troubleshooting Guide {#adobe-ims-user-migration-troubleshooting-guide}
 
-During the IMS user migration process, an Adobe user is created for each Marketo Engage user being migrated (unless it already exists with the same email address). Sometimes, it doesn't get created, which can be attributed to the user's record in the Active Directory or issues with the email address. 
+During the IMS user migration process, an Adobe user is created for each Marketo Engage user being migrated (unless it already exists with the same email address). Sometimes, it doesn't get created, which can be attributed to the user's record in the Active Directory or issues with the email address.
 
 This article, for users who perform self migrations, lists each error message you may see in the status field of the self-migration console.
 
 >[!NOTE]
 >
->The directory/domain-related errors can be triggered by another org/Admin Console where a directory trust is set up, or the domain has been claimed.  
+>The directory/domain-related errors can be triggered by another org/Admin Console where a directory trust is set up, or the domain has been claimed.
 
 ## Error Messages {#error-messages}
 
@@ -58,7 +58,7 @@ _If the user does **not** need to be migrated_ - Marketo Engage admin to skip th
 
 _If the user needs to be migrated_ (and the domain enforcement is enabled in the migrating org) - The email address must be updated in Marketo Engage to comply with the Domain Enforcement (DE) policy. Alternatively, the System Admin can either [move the domain](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} to another Domain Enforcement (DE) disabled directory, or [create a new directory](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} that isn't under DE policy. Marketo Engage admin to then rerun the user migration for this user from the Migration Console.
 
-_If the user needs to be migrated_ (and the domain enforcement is enabled in another org) - a system administrator of the org where the domain has been claimed needs to add the user's email address to the exception list. Marketo Engage admin to then rerun the user migration for this user from the Migration Console. 
+_If the user needs to be migrated_ (and the domain enforcement is enabled in another org) - a system administrator of the org where the domain has been claimed needs to add the user's email address to the exception list. Marketo Engage admin to then rerun the user migration for this user from the Migration Console.
 
 _If the user does **not** need to be migrated_ - Marketo Engage admin to skip the user in the Migration Console. The "Migration Complete" button appears when all users are accounted for by migrating or skipping. Click the button to conclude the user migration process.
 
@@ -69,7 +69,7 @@ _If the user does **not** need to be migrated_ - Marketo Engage admin to skip th
 **Resolutions**:
 
 1. Remove the individual user from the Adobe org. Please note: the user will lose access to all products and will need to be re-entitled again later.
-1. Re-run the user migration so a federated user account gets created for this user. 
+1. Re-run the user migration so a federated user account gets created for this user.
 1. Add the user back to the products they previously had access to.
 
 ### User Creation Failed {#user-creation-failed}
@@ -84,7 +84,7 @@ _If the user does **not** need to be migrated_ - Marketo Engage admin to skip th
 
 [See below](#failed)
 
-### User Data Migration Failed {#user-data-migration-failed} 
+### User Data Migration Failed {#user-data-migration-failed}
 
 [See below](#failed)
 

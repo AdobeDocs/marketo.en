@@ -7,7 +7,7 @@ feature: Predictive Content
 ---
 # The Predictive Content Summary {#the-predictive-content-summary}
 
-The Predictive Content Summary displays the information you need about about your predictive content at a glance, with tables, graphs, and current numbers.  
+The Predictive Content Summary displays the information you need about about your predictive content at a glance, with tables, graphs, and current numbers.
 
 ## Top Bar {#top-bar}
 

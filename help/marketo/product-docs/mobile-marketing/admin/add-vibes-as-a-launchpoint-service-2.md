@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # Add Vibes as a LaunchPoint Service {#add-vibes-as-a-launchpoint-service}
 
-You can send SMS messages to the people opted in to your Vibes SMS campaigns, leveraging SMS activity to trigger and filter campaigns navitvely in your Marketo Engage instance. First, you need to add Vibes as a LaunchPoint service. 
+You can send SMS messages to the people opted in to your Vibes SMS campaigns, leveraging SMS activity to trigger and filter campaigns navitvely in your Marketo Engage instance. First, you need to add Vibes as a LaunchPoint service.
 
 >[!NOTE]
 >

@@ -22,7 +22,7 @@ By default, all of your existing emails and email templates will be marked as v1
 
 If your subscription has v1.0 emails before the move to [!DNL Email Editor 2.0], you will experience the following behavior based on the asset's current state:
 
-**Approved** - Clicking "Edit Draft" will create a v2.0 draft of the approved email. If you then approve the v2.0 draft, the approved state of the email becomes v2.0 and there is no way to revert back to v1.0.  
+**Approved** - Clicking "Edit Draft" will create a v2.0 draft of the approved email. If you then approve the v2.0 draft, the approved state of the email becomes v2.0 and there is no way to revert back to v1.0.
 **Draft** - Clicking "Edit Draft" will automatically mark that draft as v2.0. At this point, it will not be possible to discard and revert to v1.0 because there is no approved version of the asset.
 **Approved with Draft** - Clicking "Edit Draft" will then automatically mark that draft as v2.0. Because of this, there is also no way to revert the draft back to v1.0.
 
@@ -34,14 +34,14 @@ If your subscription has v1.0 email templates before the move to [!DNL Email Edi
 
 If you approve an email template that was previously v1.0 (in any of the above states), you will see the following behavior:
 
-For existing v1.0 emails that were using the (previously v1.0) template:  
-**Approved v1.0 email** - A v2.0 draft will be created for this email, still using the newly approved v2.0 template. It will also receive any template changes.  
-**Draft v1.0 email** - The draft will remain v1.0 until you click "Edit Draft." After that, it will be automatically marked as v2.0 and receive any template changes.  
+For existing v1.0 emails that were using the (previously v1.0) template:
+**Approved v1.0 email** - A v2.0 draft will be created for this email, still using the newly approved v2.0 template. It will also receive any template changes.
+**Draft v1.0 email** - The draft will remain v1.0 until you click "Edit Draft." After that, it will be automatically marked as v2.0 and receive any template changes.
 **Approved with Draft v1.0 email** - The draft will remain v1.0 until you click "Edit Draft." After that, it will be automatically marked as v2.0 and receive any template changes.
 
-For existing v2.0 emails that were using the (previously v1.0) template:  
-**Approved v2.0 email** - A v2.0 draft will be created for this email, still "using" the newly approved template, and will receive any template changes.  
-**Draft v2.0 email** - The draft will remain as is (v2.0) and receive any template changes.  
+For existing v2.0 emails that were using the (previously v1.0) template:
+**Approved v2.0 email** - A v2.0 draft will be created for this email, still "using" the newly approved template, and will receive any template changes.
+**Draft v2.0 email** - The draft will remain as is (v2.0) and receive any template changes.
 **Approved with Draft v2.0 email** - The draft will remain as is (v2.0) and receive any template changes.
 
 >[!CAUTION]

@@ -45,33 +45,33 @@ The [!UICONTROL Pipeline] dashboard shows channel performance by first-touch and
 
 ![](assets/five-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">New Opportunities</span></strong></p></td> 
-   <td><p>The portion of credit the program received for influencing the creation of new opportunities. It may be a fraction if there were multiple leads involved.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Pipeline Created</span></strong></p></td> 
-   <td><p>The portion of credit (in monetary value) the program received for influencing the creation of opportunities. It may be a fraction of the total if there were multiple leads involved.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Pipeline Open</span></strong></p></td> 
-   <td><p>The portion of credit (in monetary value) the program received for influencing the creation of opportunities that are still open. It may be a fraction of the total if there were multiple leads involved.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Expected Revenue</span></strong></p></td> 
-   <td><p>The portion of credit (in monetary value) the program received for influencing the creation of opportunities. Expected Revenue is the Opportunity probability multiplied by the opportunity value. It may be a fraction if there were multiple leads involved.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Cost Per Opportunity Created</span></strong></p></td> 
-   <td><p>The portion of the cost of the program that influenced new opportunities divided by the total number of new opportunities created.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Pipeline Created to Cost Ratio</span></strong></p></td> 
-   <td><p>The portion of credit a program received for influencing the creation of new opportunities divided by the portion of the cost of the program that influenced the creation of opportunity.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">New Opportunities</span></strong></p></td>
+   <td><p>The portion of credit the program received for influencing the creation of new opportunities. It may be a fraction if there were multiple leads involved.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Pipeline Created</span></strong></p></td>
+   <td><p>The portion of credit (in monetary value) the program received for influencing the creation of opportunities. It may be a fraction of the total if there were multiple leads involved.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Pipeline Open</span></strong></p></td>
+   <td><p>The portion of credit (in monetary value) the program received for influencing the creation of opportunities that are still open. It may be a fraction of the total if there were multiple leads involved.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Expected Revenue</span></strong></p></td>
+   <td><p>The portion of credit (in monetary value) the program received for influencing the creation of opportunities. Expected Revenue is the Opportunity probability multiplied by the opportunity value. It may be a fraction if there were multiple leads involved.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Cost Per Opportunity Created</span></strong></p></td>
+   <td><p>The portion of the cost of the program that influenced new opportunities divided by the total number of new opportunities created.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Pipeline Created to Cost Ratio</span></strong></p></td>
+   <td><p>The portion of credit a program received for influencing the creation of new opportunities divided by the portion of the cost of the program that influenced the creation of opportunity.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## [!UICONTROL Revenue] {#revenue}
@@ -80,23 +80,23 @@ The [!UICONTROL Revenue] dashboard shows channel performance by first-touch and 
 
 ![](assets/six-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Opportunities Won</span></strong></p></td> 
-   <td><p>The portion of credit a program received for influencing a won opportunity.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Revenue Won</span></strong></p></td> 
-   <td><p>The portion of credit (in monetary value) received for influencing a won opportunity.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Cost Per Opportunity Won</span></strong></p></td> 
-   <td><p>The portion of the cost of the program that influenced new opportunities divided by the total number of new opportunities created.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Revenue Won to Cost Ratio</span></strong></p></td> 
-   <td><p>The portion of credit (in monetary value) received for influencing a won opportunity divided by the portion of the cost of the program that influenced new opportunities.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">Opportunities Won</span></strong></p></td>
+   <td><p>The portion of credit a program received for influencing a won opportunity.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Revenue Won</span></strong></p></td>
+   <td><p>The portion of credit (in monetary value) received for influencing a won opportunity.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Cost Per Opportunity Won</span></strong></p></td>
+   <td><p>The portion of the cost of the program that influenced new opportunities divided by the total number of new opportunities created.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Revenue Won to Cost Ratio</span></strong></p></td>
+   <td><p>The portion of credit (in monetary value) received for influencing a won opportunity divided by the portion of the cost of the program that influenced new opportunities.</p></td>
+  </tr>
+ </tbody>
 </table>

@@ -127,7 +127,7 @@ The features are accessible on the left side of the image page.
 
 #### Remove background {#remove-background}
 
-1. Click **Remove Background**. 
+1. Click **Remove Background**.
 
 1. Adobe Express displays the image with no background. If it meets your needs, click **Apply**.
 

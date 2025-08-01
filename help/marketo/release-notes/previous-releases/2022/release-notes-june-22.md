@@ -41,7 +41,7 @@ The following features will start to be released on **June 24, 2022**, with a ph
 
 * **Self-service Flow Steps**: Expand connectivity between Marketo Engage and the rest of your stack with the ability to author customized flow steps for use in Smart Campaigns. Both Marketo Engage users and partners can leverage this functionality to allow for the usage of external web services in Trigger, Batch, and Executable Campaigns in contrast to Webhooks, which can only be used in Trigger Campaigns.
 
-* **Munchkin Protocol Agnostic Link Tracking**: Extend support for tracking of `tel` and `mailto` links with Munchkin to track expanded set of web behaviors.  
+* **Munchkin Protocol Agnostic Link Tracking**: Extend support for tracking of `tel` and `mailto` links with Munchkin to track expanded set of web behaviors.
 
 * **Additional HTTP methods for webhooks**: Specify PUT, PATCH, and DELETE as request types to interact with web services.
 

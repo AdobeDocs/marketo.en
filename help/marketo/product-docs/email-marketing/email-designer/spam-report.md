@@ -15,13 +15,13 @@ SpamAssassin analyzes your content and assigns a score based on various criteria
 
 ## Access the spam report {#access-the-spam-report}
 
-1. In your email, click **Simulate Content**. 
+1. In your email, click **Simulate Content**.
 
    ![](assets/email-spam-report-1.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
-   >If you haven't already added a test profile, you'll have to do that right after Step 1.  
+   >If you haven't already added a test profile, you'll have to do that right after Step 1.
 
 1. Click the **Spam report** button.
 

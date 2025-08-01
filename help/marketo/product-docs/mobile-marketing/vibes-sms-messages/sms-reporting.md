@@ -20,7 +20,7 @@ The SMS Message Dashboard provides useful analytics on your messages.
 
 ## Dashboard Overview {#dashboard-overview}
 
-### SMS Progression {#sms-progression} 
+### SMS Progression {#sms-progression}
 
 Displays total sent and total delivered. The amounts are at the right, and if you hover over a bar, the percentage is displayed.
 

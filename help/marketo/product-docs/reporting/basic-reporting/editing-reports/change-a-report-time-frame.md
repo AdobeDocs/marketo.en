@@ -37,7 +37,7 @@ Change the time period covered by your report, to focus on a specific time of ac
    >
    >To set specific dates, select **[!UICONTROL Custom]** from the drop-down menu and enter the dates in the **[!UICONTROL From]** and **[!UICONTROL To]** calendar fields.
 
-   Click the **[!UICONTROL Report]** tab to see your report for the selected time frame.  
+   Click the **[!UICONTROL Report]** tab to see your report for the selected time frame.
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]

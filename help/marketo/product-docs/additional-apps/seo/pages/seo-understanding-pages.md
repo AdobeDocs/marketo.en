@@ -25,7 +25,7 @@ The Page [!UICONTROL Optimization Score] is an overall ranking of how well your 
 
 The **[!UICONTROL Pages] tab** shows you how well individual pages on your site are optimized for search.
 
-![](assets/image2014-9-17-21-3a52-3a41.png) 
+![](assets/image2014-9-17-21-3a52-3a41.png)
 
 | Column Name |Description |
 |---|---|

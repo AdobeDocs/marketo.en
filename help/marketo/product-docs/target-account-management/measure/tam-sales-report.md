@@ -24,35 +24,35 @@ The report shares:
 
 ## Sales Report Key {#sales-report-key}
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Account Score</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Account Score</span></strong></td>
+   <td>
     <div>
-      Weekly trend by account score (selected in setup), followed by current account score 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Sales Pipeline</span></strong></td> 
-   <td> 
+      Weekly trend by account score (selected in setup), followed by current account score
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Sales Pipeline</span></strong></td>
+   <td>
     <div>
-      Weekly trend by pipeline, followed by total current pipeline and number of open opportunities 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Page Views</span></strong></td> 
-   <td> 
+      Weekly trend by pipeline, followed by total current pipeline and number of open opportunities
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Page Views</span></strong></td>
+   <td>
     <div>
-      Weekly trend of page views, followed by total page views and number of unique visitors 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Interesting Moments</span></strong></td> 
-   <td> 
+      Weekly trend of page views, followed by total page views and number of unique visitors
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Interesting Moments</span></strong></td>
+   <td>
     <div>
-      Total number of interesting moments that occurred during the week 
-    </div></td> 
-  </tr> 
- </tbody> 
+      Total number of interesting moments that occurred during the week
+    </div></td>
+  </tr>
+ </tbody>
 </table>

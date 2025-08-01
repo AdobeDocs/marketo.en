@@ -23,45 +23,45 @@ When viewing it in [!DNL Salesforce], each item has:
 
 ![](assets/using-the-lead-feed-2.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><p>Item</p></td> 
-   <td><p>Description</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>A. Lead/Contact</p></td> 
-   <td><p>Person who had this interesting moment</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>B. Event Type</p></td> 
-   <td><p>Category for this moment -- web, email, or milestone</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>C. Account Name</p></td> 
-   <td><p>Company name</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>D. Time</p></td> 
-   <td><p>When this interesting moment occurred</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>E. Event Description</p></td> 
-   <td><p>Reason for this interesting moment</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>F. Subscribe</p></td> 
-   <td><p>Receive email notification for events like this</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>G. Star</p></td> 
-   <td><p>This person is a Best Bet (high priority)</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><p>Item</p></td>
+   <td><p>Description</p></td>
+  </tr>
+  <tr>
+   <td><p>A. Lead/Contact</p></td>
+   <td><p>Person who had this interesting moment</p></td>
+  </tr>
+  <tr>
+   <td><p>B. Event Type</p></td>
+   <td><p>Category for this moment -- web, email, or milestone</p></td>
+  </tr>
+  <tr>
+   <td><p>C. Account Name</p></td>
+   <td><p>Company name</p></td>
+  </tr>
+  <tr>
+   <td><p>D. Time</p></td>
+   <td><p>When this interesting moment occurred</p></td>
+  </tr>
+  <tr>
+   <td><p>E. Event Description</p></td>
+   <td><p>Reason for this interesting moment</p></td>
+  </tr>
+  <tr>
+   <td><p>F. Subscribe</p></td>
+   <td><p>Receive email notification for events like this</p></td>
+  </tr>
+  <tr>
+   <td><p>G. Star</p></td>
+   <td><p>This person is a Best Bet (high priority)</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Getting RSS Updates {#getting-rss-updates}

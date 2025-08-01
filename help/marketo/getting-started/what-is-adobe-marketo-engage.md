@@ -41,7 +41,7 @@ You do not. It's easy to get started in Marketo Engage, and it will evolve with 
 
 ## Do I need to do any setup? {#do-i-need-to-do-any-setup}
 
-Yes, there are a handful of steps you must (or we strongly recommend you) do, and [they can be found here](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.  
+Yes, there are a handful of steps you must (or we strongly recommend you) do, and [they can be found here](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
 
 ## Do I have to wait until setup is finished to learn? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
@@ -49,7 +49,7 @@ Nope! We made a bunch of easy tutorials. [Get started here](/help/marketo/gettin
 
 ## Is there a list of things that covers limits, like how many total emails I can send in a week? {#list-of-limits}
 
-There is. Static limits (and other parameters) are outlined [in this article](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}. 
+There is. Static limits (and other parameters) are outlined [in this article](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## How long does Marketo hold on to my data? {#data-retention-policy}
 

@@ -44,7 +44,7 @@ The following actions are available from the "Choose Actions" drop down in the t
 * Add Task
   * Create Email, Call, InMail, and Custom tasks for your leads
   * Automate task creation with Sales Campaigns
-  * Sync tasks with [!DNL Salesforce]  
+  * Sync tasks with [!DNL Salesforce]
   * Log tasks in [!DNL Salesforce] Activity History section
 
 You can access Live Feed by clicking on the ((0)) icon in the top nav. It includes the ability to see live updates on sales activities along with screen docking capability.
@@ -148,7 +148,7 @@ The following in-line actions are available for individual leads/contacts in the
 
 * Email, Call, InMail, and Custom tasks created and completed will be available for task management in this tab. Includes ability to Add Task
 * Automate task creation with Sales Campaigns
-* Sync tasks with [!DNL Salesforce]  
+* Sync tasks with [!DNL Salesforce]
 * Log tasks in [!DNL Salesforce] Activity History section
 
    ![](assets/sales-insight-actions-feature-overview-6.png)
@@ -163,12 +163,12 @@ The following in-line actions are available for individual leads/contacts in the
 Sales activities that are captured in Marketo:
 
 * Send Sales Email - User sent a sales email to a lead
-* Open Sales Email - Lead opened a sales email sent  
+* Open Sales Email - Lead opened a sales email sent
 * Click Sales Email - Lead clicked on a link in a sales email
-* Replied Sales Email - Lead replied to a sales email  
+* Replied Sales Email - Lead replied to a sales email
 * Receive Sales Call - Lead received a call from a salesperson using the Sales Call.
-* Add to Sales Campaign - Lead was added to a sales campaign created  
-* Removed from Sales Campaign - Lead was removed from a sales campaign created  
+* Add to Sales Campaign - Lead was added to a sales campaign created
+* Removed from Sales Campaign - Lead was removed from a sales campaign created
 
 Filters and Triggers include:
 

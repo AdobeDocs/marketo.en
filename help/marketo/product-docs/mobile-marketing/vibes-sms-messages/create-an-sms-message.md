@@ -78,7 +78,7 @@ Here's how to create an SMS message.
 
    >[!CAUTION]
    >
-   >It is recommended to _not_ use URL shorteners (e.g., Bitly), as the carriers may flag your message as spam. 
+   >It is recommended to _not_ use URL shorteners (e.g., Bitly), as the carriers may flag your message as spam.
 
 1. The link displays in the message.
 
@@ -86,6 +86,6 @@ Here's how to create an SMS message.
 
    >[!NOTE]
    >
-   >Marketo displays a link preview of the branded tracking domain. If you clear the mkt_tok link checkbox, the link is changed. 
+   >Marketo displays a link preview of the branded tracking domain. If you clear the mkt_tok link checkbox, the link is changed.
 
 If you insert more than 160 characters, the editor breaks your SMS into sections. There is an overall limit of 900 characters per message. If you exceed that, the message will be truncated upon delivery.
