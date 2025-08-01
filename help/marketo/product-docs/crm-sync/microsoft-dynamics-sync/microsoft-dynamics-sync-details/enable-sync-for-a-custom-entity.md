@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Enable Sync for a Custom Entity {#enable-sync-for-a-custom-entity}
 
-If you need custom entity data from [!DNL Dynamics] to be available in Marketo, here's how to enable the sync for it.
+If you need custom entity data from [!DNL Dynamics] to be available in Marketo Engage, here's how to enable the sync for it.
 
 >[!PREREQUISITES]
 >
