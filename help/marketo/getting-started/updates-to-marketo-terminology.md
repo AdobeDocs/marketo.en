@@ -17,52 +17,52 @@ So, what's changed?
 
 The biggest change is the renaming of Lead/Leads to Person/People.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Old</strong></td> 
-   <td><strong>New</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img width="295" src="assets/leads.png" data-linked-resource-id="11387678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <img width="295" src="assets/people.png" data-linked-resource-id="11387679" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Old</strong></td>
+   <td><strong>New</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img width="295" src="assets/leads.png" data-linked-resource-id="11387678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <img width="295" src="assets/people.png" data-linked-resource-id="11387679" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 In some cases, the word "Lead" is simply removed.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Old</strong></td> 
-   <td><strong>New</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img src="assets/lead-database.png" data-linked-resource-id="11387676" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <p><img src="assets/database.png" data-linked-resource-id="11387677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"></p> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Old</strong></td>
+   <td><strong>New</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img src="assets/lead-database.png" data-linked-resource-id="11387676" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <p><img src="assets/database.png" data-linked-resource-id="11387677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"></p>
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 Lead and Person **are the same thing**.
@@ -79,27 +79,27 @@ Tokens with the word lead in them **are not changing**. We apologize for any con
 
 Fields that contained the term Lead have either been substituted with Person, or the word Lead has been dropped. One notable exception however is the field "Lead Owner." It is now known as "Sales Owner."
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Old</strong></td> 
-   <td><strong>New</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img src="assets/lead-owner.png" data-linked-resource-id="11387757" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <img src="assets/sales-owner.png" data-linked-resource-id="11387758" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Old</strong></td>
+   <td><strong>New</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img src="assets/lead-owner.png" data-linked-resource-id="11387757" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <img src="assets/sales-owner.png" data-linked-resource-id="11387758" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -108,27 +108,27 @@ Fields that contained the term Lead have either been substituted with Person, or
 
 ## Real-Time Personalization (RTP) is Now Web Personalization {#real-time-personalization-rtp-is-now-web-personalization}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Old</strong></td> 
-   <td><strong>New</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img src="assets/rtp.png" data-linked-resource-id="11387692" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <img src="assets/web.png" data-linked-resource-id="11387693" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Old</strong></td>
+   <td><strong>New</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img src="assets/rtp.png" data-linked-resource-id="11387692" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <img src="assets/web.png" data-linked-resource-id="11387693" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 In addition to the name change, it now consists of four separate apps:

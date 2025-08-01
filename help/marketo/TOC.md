@@ -252,7 +252,7 @@ feature-set: Marketo Engage
     + [Set up Adobe Organization Mapping](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
     + [Sync an Audience From Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
     + [Importing Assets with Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-    + [Adobe Experience Cloud Interface Overview](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md) 
+    + [Adobe Experience Cloud Interface Overview](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
   + Core Marketo Concepts {#core-marketo-concepts}
     + Smart Campaigns {#smart-campaigns}
       + [Understanding Smart Campaigns](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -281,7 +281,7 @@ feature-set: Marketo Engage
         + [Schedule a Batch Smart Campaign to Run Later](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
         + [Schedule a Recurring Batch Campaign](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
         + [Setting Up a Trigger Smart Campaign for Sales Using "Campaign is Requested"](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
-        + [Using Standard Smart List Rule Logic](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)  
+        + [Using Standard Smart List Rule Logic](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
       + Flow Actions {#flow-actions}
         + [Add a Flow Step to a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
         + [Reorder the Flow Steps in a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md)
@@ -971,7 +971,7 @@ feature-set: Marketo Engage
       + Social Functions {#social-functions}
         + [Set up LinkedIn Lead Gen Forms](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
         + [Use a Marketo List or Smart List as a LinkedIn Audience Segment](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-        + [Use LinkedIn Lead Gen Form Filters and Triggers in a Smart Campaign](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)   
+        + [Use LinkedIn Lead Gen Form Filters and Triggers in a Smart Campaign](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
   + Email Marketing {#email-marketing}
     + Deliverability {#deliverability}
       + [Durable Unsubscribe](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
@@ -1483,7 +1483,7 @@ feature-set: Marketo Engage
       + Send a Sales Email {#send-a-sales-email}
         + [Email Tracking Overview](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + Tasks {#tasks}
-        + [Reminder Task Sync with Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)  
+        + [Reminder Task Sync with Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
       + Templates {#templates}
         + [Add Hyperlinked Text](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
         + [Dynamic Fields](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)

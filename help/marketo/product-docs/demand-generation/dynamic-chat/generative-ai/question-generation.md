@@ -54,7 +54,7 @@ See all of your tasks and their pertinent details, such as when they were genera
 
    ![](assets/question-generation-7.png)
 
-1. In the Excel file, **[!DNL Task details]** shows just that, various details about the task, including instructions on how to add/edit questions and/or responses. 
+1. In the Excel file, **[!DNL Task details]** shows just that, various details about the task, including instructions on how to add/edit questions and/or responses.
 
    ![](assets/question-generation-8.png)
 
@@ -62,7 +62,7 @@ See all of your tasks and their pertinent details, such as when they were genera
    >
    >If you do decide to bulk add/edit questions and/or responses, [learn how to reupload them here](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
-1. The **[!DNL Q&Rs]** tab provides additonal details, including the generated questions and responses. 
+1. The **[!DNL Q&Rs]** tab provides additonal details, including the generated questions and responses.
 
    ![](assets/question-generation-9.png)
 

@@ -7,7 +7,7 @@ feature: Programs
 ---
 # Sync an SFDC Campaign with a Program {#sync-an-sfdc-campaign-with-a-program}
 
-Marketo Engage allows you to sync your programs with [!DNL Salesforce] campaigns to maintain the same list of people in both systems, including their statuses. Let's get started!  
+Marketo Engage allows you to sync your programs with [!DNL Salesforce] campaigns to maintain the same list of people in both systems, including their statuses. Let's get started!
 
 >[!PREREQUISITES]
 >

@@ -64,7 +64,7 @@ To help with that, we've compiled a list of best practices that can aid in plann
 
 * Enable the recording reminder in the Room Preferences if you intend to record the session. The reminder will show up 5 minutes into the meeting if the recording has not been started.
 
-* Enable the Host and Presenter area and set it up with relevant pods. This area is only visible to hosts and presenters and can be used to collaborate backstage. Some pods to include here would be: 
+* Enable the Host and Presenter area and set it up with relevant pods. This area is only visible to hosts and presenters and can be used to collaborate backstage. Some pods to include here would be:
   * Engagement Dashboard to monitor participant engagement in real time. [Click here](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} to watch a short video on how to use the Engagement dashboard.
   * Chat Pod to allow private conversations between presentation team members.
   * Note Pod to post reminder messages, questions for the presenter, or standard question responses that you can copy and paste for rapid answers to common queries.
@@ -95,9 +95,9 @@ To help with that, we've compiled a list of best practices that can aid in plann
 
 * Have programs that you're screen-sharing open to the appropriate window and ready to demonstrate. Avoid launching and logging in to programs while screen-sharing.
 
-* Participants can enter the room 15 min prior to the scheduled start. Switch to the lobby layout 15 min before the scheduled start for participants who arrive early. 
+* Participants can enter the room 15 min prior to the scheduled start. Switch to the lobby layout 15 min before the scheduled start for participants who arrive early.
 
-* Use the Host and Presenter Area as a backstage area to coordinate privately. [Click here](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} to watch a short video on the Host and Presenter area. 
+* Use the Host and Presenter Area as a backstage area to coordinate privately. [Click here](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} to watch a short video on the Host and Presenter area.
 
 * Use the Prepare Mode to make any last-minute changes privately. [Click here](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} to watch a short video on Prepare Mode.
 

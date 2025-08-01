@@ -10,33 +10,33 @@ Learn how to manage your groups in [!DNL Sales Insight Actions].
 
 ## Group Types {#group-types}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Group</th> 
-   <th>Description</th> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL All People]</td> 
-   <td>All contacts from all users that are visible to you.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Dynamic Groups]</td> 
-   <td>My Contacts: All of the contacts you own.<br>Unsubscribes: Contacts who have opted-out from receiving correspondence.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL My Groups]</td> 
-   <td>Groups you've created. They can contain your contacts, or contacts that have been shared with you.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Team Groups]</td> 
-   <td>Groups that have been shared with and/or by you. They can contain contacts your teammates own, or contacts you've shared with them.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>Group</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td>[!UICONTROL All People]</td>
+   <td>All contacts from all users that are visible to you.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Dynamic Groups]</td>
+   <td>My Contacts: All of the contacts you own.<br>Unsubscribes: Contacts who have opted-out from receiving correspondence.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL My Groups]</td>
+   <td>Groups you've created. They can contain your contacts, or contacts that have been shared with you.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Team Groups]</td>
+   <td>Groups that have been shared with and/or by you. They can contain contacts your teammates own, or contacts you've shared with them.</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Create a Group {#create-a-group}

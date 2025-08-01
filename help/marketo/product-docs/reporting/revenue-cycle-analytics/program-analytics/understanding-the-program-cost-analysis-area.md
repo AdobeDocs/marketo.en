@@ -45,25 +45,25 @@ How much did I spend per program per month?
 
 ## Membership {#membership}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Measure</th> 
-   <th>Description</th> 
-  </tr> 
-  <tr> 
-   <td>% New Names</td> 
-   <td>Percentage of leads who were acquired by a program</td> 
-  </tr> 
-  <tr> 
-   <td>Members</td> 
-   <td>Total leads in a program</td> 
-  </tr> 
-  <tr> 
-   <td>New Names</td> 
-   <td>Total new names acquired by a program</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Measure</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td>% New Names</td>
+   <td>Percentage of leads who were acquired by a program</td>
+  </tr>
+  <tr>
+   <td>Members</td>
+   <td>Total leads in a program</td>
+  </tr>
+  <tr>
+   <td>New Names</td>
+   <td>Total new names acquired by a program</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Program Attributes {#program-attributes}

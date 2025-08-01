@@ -51,7 +51,7 @@ The app works the same on both [!DNL iPad] and [!DNL Android], except for minor 
    >
    >The process is the same on [!DNL iPad] and [!DNL Android], but the screens differ, and items may be in different locations. This article features the [!DNL iPad] interface. Compare the [!DNL Android] screen in this section for reference.
 
-   **[!DNL iPad]** 
+   **[!DNL iPad]**
 
    ![](assets/image2016-4-15-11-3a55-3a11.png)
 

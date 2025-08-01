@@ -34,9 +34,9 @@ The following features will start to be released on **March 11, 2022**, with a p
 
 ## Experience Automation {#experience-automation}
 
-* **Self-Service Flow Steps (Beta)**: Expand connectivity between Marketo Engage and the rest of your stack with the ability to author customized flow steps for use in Smart Campaigns. Both Marketo users and partners can leverage this functionality to allow for the usage of external web services in batch and executable campaigns in contrast to webhooks, which can only be used in trigger campaigns.  
+* **Self-Service Flow Steps (Beta)**: Expand connectivity between Marketo Engage and the rest of your stack with the ability to author customized flow steps for use in Smart Campaigns. Both Marketo users and partners can leverage this functionality to allow for the usage of external web services in batch and executable campaigns in contrast to webhooks, which can only be used in trigger campaigns.
 
-* **Asset Expiration**: Maintain control of your time-sensitive assets and campaigns with the ability to schedule their automatic deactivation at a specified date and time in the Classic user experience.  
+* **Asset Expiration**: Maintain control of your time-sensitive assets and campaigns with the ability to schedule their automatic deactivation at a specified date and time in the Classic user experience.
 
 * **Smart Campaign Priority Override**: Ensure that high-priority trigger Smart Campaigns execute as soon as possible with the ability to override the standard campaign priority ranking. Lower-priority trigger Smart Campaigns can also be lowered in priority to free up processing resources for other high-priority tasks.
 

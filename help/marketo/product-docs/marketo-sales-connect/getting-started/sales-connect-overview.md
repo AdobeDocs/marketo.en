@@ -31,45 +31,45 @@ See how your prospects are engaging with your sales efforts.
 
 ![](assets/2018-05-11-at-3.30-pm.jpg)
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Activity Type</th> 
-   <th>Description</th> 
-  </tr> 
-  <tr> 
-   <td><p>Send Sales Email</p></td> 
-   <td><p>User sent a sales email from Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>Open Sales Email</p></td> 
-   <td><p>Lead opened a sales email sent from Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>Click Sales Email</p></td> 
-   <td><p>Lead clicked on a link in a sales email sent from Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Receive Sales Email</p></td> 
-   <td colspan="1"><p>Lead received an email sent from Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Receive Sales Call</p></td> 
-   <td colspan="1"><p>Lead received a call from a salesperson using the <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Sales Phone</a>.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Add to Sales Campaign</p></td> 
-   <td colspan="1"><p>Lead was added to a sales campaign created in Sales Connect (in the Campaigns page).</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Removed From Sales Campaign</p></td> 
-   <td colspan="1"><p>Lead was removed from a sales campaign.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Interesting moment</p></td> 
-   <td colspan="1"><p>Lead had an interesting moment generated in Marketo.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Activity Type</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td><p>Send Sales Email</p></td>
+   <td><p>User sent a sales email from Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td><p>Open Sales Email</p></td>
+   <td><p>Lead opened a sales email sent from Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td><p>Click Sales Email</p></td>
+   <td><p>Lead clicked on a link in a sales email sent from Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Receive Sales Email</p></td>
+   <td colspan="1"><p>Lead received an email sent from Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Receive Sales Call</p></td>
+   <td colspan="1"><p>Lead received a call from a salesperson using the <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Sales Phone</a>.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Add to Sales Campaign</p></td>
+   <td colspan="1"><p>Lead was added to a sales campaign created in Sales Connect (in the Campaigns page).</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Removed From Sales Campaign</p></td>
+   <td colspan="1"><p>Lead was removed from a sales campaign.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Interesting moment</p></td>
+   <td colspan="1"><p>Lead had an interesting moment generated in Marketo.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Share Marketing Campaigns {#share-marketing-campaigns}

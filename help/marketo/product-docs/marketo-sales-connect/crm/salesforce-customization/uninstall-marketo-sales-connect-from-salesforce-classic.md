@@ -29,7 +29,7 @@ Here's how to uninstall the Marketo Sales Connect package from your Salesforce a
    >
    >If none of the fields are grayed out, it means you haven't added them to your page layout. You can skip this section.
 
-1. Scroll to the section that has your [!DNL Sales Connect] Custom Fields.  
+1. Scroll to the section that has your [!DNL Sales Connect] Custom Fields.
 
    ![](assets/uninstall-salesforce-classic-customization-package-5.png)
 
@@ -63,7 +63,7 @@ Here's how to uninstall the Marketo Sales Connect package from your Salesforce a
 
    ![](assets/uninstall-salesforce-classic-customization-package-10.png)
 
-1. Select the [!DNL Sales Connect] Fields from the [!UICONTROL Selected Fields] area and Click the [!UICONTROL Remove] arrow. Click **[!UICONTROL OK]** when done.  
+1. Select the [!DNL Sales Connect] Fields from the [!UICONTROL Selected Fields] area and Click the [!UICONTROL Remove] arrow. Click **[!UICONTROL OK]** when done.
 
    ![](assets/uninstall-salesforce-classic-customization-package-11.png)
 
@@ -79,11 +79,11 @@ Here's how to uninstall the Marketo Sales Connect package from your Salesforce a
 
    ![](assets/uninstall-salesforce-classic-customization-package-12.png)
 
-1. Next to Leads List View, click **[!UICONTROL Edit]**.  
+1. Next to Leads List View, click **[!UICONTROL Edit]**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-13.png)
 
-1. Select **[!UICONTROL Add to MSC Campaign (Classic)]**, **[!UICONTROL Email with MSC (Classic)]**, and **[!UICONTROL Push to MSC (Classic)]**, and click the [!UICONTROL Remove] arrow. Then click **[!UICONTROL Save]**.  
+1. Select **[!UICONTROL Add to MSC Campaign (Classic)]**, **[!UICONTROL Email with MSC (Classic)]**, and **[!UICONTROL Push to MSC (Classic)]**, and click the [!UICONTROL Remove] arrow. Then click **[!UICONTROL Save]**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-14.png)
 
@@ -143,9 +143,9 @@ Once you've removed all the objects from your Salesforce Account, follow the ste
 
 1. In the Quick Find box, enter "Apex Classes."
 
-1. Click **Delete** next to all "MarketoSalesConnectionCustomization" or "MarketoSalesEngageCustomization" entries on your list.  
+1. Click **Delete** next to all "MarketoSalesConnectionCustomization" or "MarketoSalesEngageCustomization" entries on your list.
 
-You're all set!  
+You're all set!
 
 Here's a list of all the objects that need to be removed from your Salesforce instance:
 
@@ -249,9 +249,9 @@ Here's a list of all the objects that need to be removed from your Salesforce in
   <td>MSC - Last Marketing Engagement</td>
   <td>Last incoming engagement from Marketing</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lead 
+  <p>Account
+  <p>Contact
+  <p>Lead
   <p>Opportunity</td>
   <td>Data and Time</td>
  </tr>
@@ -259,9 +259,9 @@ Here's a list of all the objects that need to be removed from your Salesforce in
   <td>MSC - Last Marketing Engagement Date</td>
   <td>Time stamp of engagement from Marketing</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lead 
+  <p>Account
+  <p>Contact
+  <p>Lead
   <p>Opportunity</td>
   <td>Data and Time</td>
  </tr>
@@ -269,9 +269,9 @@ Here's a list of all the objects that need to be removed from your Salesforce in
   <td>MSC - Last Marketing Engagement Desc</td>
   <td>Description of the engagement</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lead 
+  <p>Account
+  <p>Contact
+  <p>Lead
   <p>Opportunity</td>
   <td>Text</td>
  </tr>
@@ -279,9 +279,9 @@ Here's a list of all the objects that need to be removed from your Salesforce in
   <td>MSC - Last Marketing Engagement Source</td>
   <td>Source of Marketing engagement</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lead 
+  <p>Account
+  <p>Contact
+  <p>Lead
   <p>Opportunity</td>
   <td>Text</td>
  </tr>
@@ -289,9 +289,9 @@ Here's a list of all the objects that need to be removed from your Salesforce in
   <td>MSC - Last Marketing Engagement Type</td>
   <td>Type of Engagement (ex: Web activity)</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lead 
+  <p>Account
+  <p>Contact
+  <p>Lead
   <p>Opportunity</td>
   <td>Text</td>
  </tr>
@@ -299,9 +299,9 @@ Here's a list of all the objects that need to be removed from your Salesforce in
   <td>MSC - Last Activity by Sales</td>
   <td>Last outgoing activity performed by the sales team</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lead 
+  <p>Account
+  <p>Contact
+  <p>Lead
   <p>Opportunity</td>
   <td>Data and Time</td>
  </tr>
@@ -309,9 +309,9 @@ Here's a list of all the objects that need to be removed from your Salesforce in
   <td>MSC - Last Replied</td>
   <td>Last email reply to Sales email</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lead 
+  <p>Account
+  <p>Contact
+  <p>Lead
   <p>Opportunity</td>
   <td>Data and Time</td>
  </tr>
@@ -319,9 +319,9 @@ Here's a list of all the objects that need to be removed from your Salesforce in
   <td>MSC - Current Sales Campaign</td>
   <td>Logs name of the MSC campaign the contact/lead is on</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lead 
+  <p>Account
+  <p>Contact
+  <p>Lead
   <p>Opportunity</td>
   <td>Text</td>
  </tr>
@@ -329,9 +329,9 @@ Here's a list of all the objects that need to be removed from your Salesforce in
   <td>MSC - Last Sales Engagement</td>
   <td>Last incoming engagement from Sales</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lead 
+  <p>Account
+  <p>Contact
+  <p>Lead
   <p>Opportunity</td>
   <td>Data and Time</td>
  </tr>
@@ -339,9 +339,9 @@ Here's a list of all the objects that need to be removed from your Salesforce in
   <td>MSC - Opt Out</td>
   <td>Opt out field</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lead 
+  <p>Account
+  <p>Contact
+  <p>Lead
   <p>Opportunity</td>
   <td>Checkbox</td>
  </tr>
@@ -357,9 +357,9 @@ Here's a list of all the objects that need to be removed from your Salesforce in
   <td>[!UICONTROL Send MSC Email]</td>
   <td>Send sales emails from [!DNL Salesforce]</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lead 
+  <p>Account
+  <p>Contact
+  <p>Lead
   <p>Opportunity</td>
  </tr>
  <tr>

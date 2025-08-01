@@ -44,7 +44,7 @@ We'd be nice and let [!DNL Veeva] CRM win. It’s rare that this sort of collisi
 
 **Are Lead or Contact type of records synced with [!DNL Veeva] CRM?**
 
-[!DNL Veeva] CRM only really deals with Person Account objects and also has Business Accounts. The traditional CRM types of Lead, Contacts, and Opportunities are not really in use in traditional [!DNL Veeva] CRM systems. These may be created in [!DNL Veeva] CRM, but they are not officially supported using this connector.  
+[!DNL Veeva] CRM only really deals with Person Account objects and also has Business Accounts. The traditional CRM types of Lead, Contacts, and Opportunities are not really in use in traditional [!DNL Veeva] CRM systems. These may be created in [!DNL Veeva] CRM, but they are not officially supported using this connector.
 
 **Can I convert a person into a contact in Marketo?**
 

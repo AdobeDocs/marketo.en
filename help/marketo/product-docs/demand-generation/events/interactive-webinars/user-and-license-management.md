@@ -60,32 +60,32 @@ Interactive Webinars offers specific licenses to create events powered by Adobe 
 
    ![](assets/user-and-license-management-11.png)
 
-<table> 
+<table>
   <tr>
    <td width="20%"><b>Start Date</b></td>
    <td width="80%">Date the license begins.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Expiry Date</b></td>
    <td width="80%">Date the license expires.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Type</b></td>
    <td width="80%">The type of license purchased. There are three types available: Shared Events License, Shared Rooms License, Additional Storage License.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Event Capacity</b></td>
    <td width="80%">The maximum number of participants that can be accommodated in an event.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Total Events</b></td>
    <td width="80%">The total number of events that have been provisioned with this license.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Events Consumed</b></td>
    <td width="80%">The total number of completed events.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Storage Capacity</b></td>
    <td width="80%">Amount of storage available for storing recordings, collaterals, hero images, documentation, and other assets.</td>
   </tr>

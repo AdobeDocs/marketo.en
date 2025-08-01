@@ -49,9 +49,9 @@ Utilize custom tasks when the above options are not applicable. For example, you
 ## Using Reminder Tasks in Sales Campaigns {#using-reminder-tasks-in-sales-campaigns}
 
 Tasks are a powerful tool when sending a Sales Campaign to a contact, especially if your sales process is multi-channel/touch.
-  
+
 Task to send an Email and Task to Call a contact are the most common uses for Tasks in Sales Campaigns.
-  
+
 You can also make a "Task to Inmail" a contact on LinkedIn if that's part of your workflow. You can also make a custom task to remind you to invite them to a happy hour, ask about their charity event, or check-in after game 5, etc.
 
 >[!NOTE]

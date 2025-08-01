@@ -24,7 +24,7 @@ To implement your [!UICONTROL RTP tag] please follow the installation instructio
 1. Log in to your [!DNL WordPress] account as Admin User
 
    a. Under **[!UICONTROL Appearance]**, go to **[!UICONTROL Custom JavaScript]**.
-   b. Paste the RTP Javascript tag right after the existing code.  
+   b. Paste the RTP Javascript tag right after the existing code.
 
       ![](assets/image2014-12-3-17-3a51-3a46.png)
 

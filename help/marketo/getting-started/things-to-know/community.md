@@ -76,9 +76,9 @@ SCREENSHOT
 
 >[!NOTE]
 >
->This is only applicable to those who have multiple Marketo Engage subscriptions and inadvertantly created multiple profiles upon logging in to the Marketing Nation Community. 
+>This is only applicable to those who have multiple Marketo Engage subscriptions and inadvertantly created multiple profiles upon logging in to the Marketing Nation Community.
 
-Follow the steps below to merge history across multiple community profiles. It's recommended you overwrite the Community profile that has less Community activity on it, as overwritten profile data cannot be retrieved. 
+Follow the steps below to merge history across multiple community profiles. It's recommended you overwrite the Community profile that has less Community activity on it, as overwritten profile data cannot be retrieved.
 
 Send an email to `ccare@marketo.com` to request the data from your different community profiles be merged into the profile associated with your primary production subscription. When the profiles merge, you will lose the historical activity of the overwritten profile of your choice.
 

@@ -18,7 +18,7 @@ Marketo [!UICONTROL Target Account Management] brings sales and marketing teams 
 Why use Marketo [!UICONTROL Target Account Management]?
 
 Marketo unifies TAM and lead management in one solution, making it easy for marketers to execute personalized campaigns for both accounts and leads in one motion. You also benefit from reaching key decision makers and deal influencers.
-  
+
 Marketo TAM consists of three components:
 
 **1) Target**

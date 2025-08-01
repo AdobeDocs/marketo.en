@@ -9,14 +9,14 @@ exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
 Some of the starter programs in the Marketo Engage Reference Library contain a simple, easy to use, and customizable email template that allows for the quick creation of emails across a number of marketing use cases.
 
 The Marketo Engage email editor comes equipped with features that help you change the layout and edit the content of your emails.
- 
-* **Modules**: Draggable/droppable content blocks that are coded into the template. They can be reorganized and duplicated. 
- 
-* **Text Elements**: You can use the editor to update copy, change font styles, or add links. 
 
-* **Image Elements**: Similar to text elements, images can be swapped out, linked to, and resized. 
+* **Modules**: Draggable/droppable content blocks that are coded into the template. They can be reorganized and duplicated.
 
-* **Variables**: When a module is selected, variables appear on the right side of the editor. These can be used to adjust attributes of the module that aren't easily editable via image or text elements. 
+* **Text Elements**: You can use the editor to update copy, change font styles, or add links.
+
+* **Image Elements**: Similar to text elements, images can be swapped out, linked to, and resized.
+
+* **Variables**: When a module is selected, variables appear on the right side of the editor. These can be used to adjust attributes of the module that aren't easily editable via image or text elements.
 
 For further strategy assistance or help customizing a program, please contact the Adobe Account Team or visit the [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
 
@@ -31,7 +31,7 @@ For further strategy assistance or help customizing a program, please contact th
   * Background color of module
   * Alignment of logo
 * ![](assets/quick-start-email-template-1.png)
- 
+
 ### Image Module {#image-module}
 
 * Includes an image element to update the image
@@ -55,7 +55,7 @@ For further strategy assistance or help customizing a program, please contact th
 
 ### Subheadline Module {#subheadline-module}
 
-* Includes a text element to update the subheadline 
+* Includes a text element to update the subheadline
 * Includes variables to control:
   * Top padding of module
   * Bottom padding of module
@@ -64,7 +64,7 @@ For further strategy assistance or help customizing a program, please contact th
   * Font color of subheadline (this can also be edited in the rich text editor)
   * Alignment of the subheadline text (this can also be edited in the rich text editor)
 * ![](assets/quick-start-email-template-4.png)
- 
+
 ### Free Text Module {#free-text-module}
 
 * Includes a text element to update the text
@@ -76,7 +76,7 @@ For further strategy assistance or help customizing a program, please contact th
   * Font color of text (this can also be edited in the rich text editor)
   * Alignment of the text (this can also be edited in the rich text editor)
 * ![](assets/quick-start-email-template-5.png)
- 
+
 ### CTA Module {#cta-module}
 
 * Includes variables to control:

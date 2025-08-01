@@ -7,8 +7,8 @@ feature: Marketo Sales Connect
 ---
 # Edit a Template Category {#edit-a-template-category}
 
-We cannot delete an entire category or move templates in bulk to a new category at this time.  
-  
-What you can do is, edit each template within the Category to either an existing Category name or a brand new name. This will move all of your existing templates into a different folder. Once the folder is empty, it will disappear.  
-  
+We cannot delete an entire category or move templates in bulk to a new category at this time.
+
+What you can do is, edit each template within the Category to either an existing Category name or a brand new name. This will move all of your existing templates into a different folder. Once the folder is empty, it will disappear.
+
 We are working on adding the ability to do this en masse.

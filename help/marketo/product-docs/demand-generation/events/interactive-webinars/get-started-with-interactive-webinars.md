@@ -4,7 +4,7 @@ title: Get Started with Interactive Webinars
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
 ---
-# Get Started with Interactive Webinars {#get-started-with-interactive-webinars} 
+# Get Started with Interactive Webinars {#get-started-with-interactive-webinars}
 
 So, you've read the [Interactive Webinars Overview](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} and are ready to dive in. Follow the steps below to get started.
 
@@ -24,9 +24,9 @@ So, you've read the [Interactive Webinars Overview](/help/marketo/product-docs/d
 
 **Step Six**: [Deliver Your Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} &mdash; Everything you need to know about presenting your webinar.
 
-That's it! 
+That's it!
 
-## Additional documentation {#additional-documentation} 
+## Additional documentation {#additional-documentation}
 
 After your webinar is over, see how it performed using the helpful dashboard in the event's Overview screen. You can see detailed engagement of your audience in the [Engagement Dashboard](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Take advantage of the webinar engagement to target the audience in a personalized fashion using Smart Filters and Triggers in [Event Workflows](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}. And learn how to track your On-Demand performance through [On-Demand Webinars](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
 

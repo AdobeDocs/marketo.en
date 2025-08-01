@@ -23,9 +23,9 @@ With this integration, a technical marketer who uses Marketo Engage to develop a
 
 ## Export an HTML template from Marketo Engage to GenStudio {#export-an-html-template}
 
-Easily export a template including your brand's guidelines to GenStudio for Performance Marketing. 
+Easily export a template including your brand's guidelines to GenStudio for Performance Marketing.
 
-1. In Marketo Engage, access the content of your email. 
+1. In Marketo Engage, access the content of your email.
 
 1. In the Email Designer, click the **More** button and select **Export HTML**.
 

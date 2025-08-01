@@ -11,7 +11,7 @@ feature: Smart Campaigns
 >
 >Removing flow steps, _especially wait steps_ from active Smart Campaigns, can have unexpected results. Read this article carefully.
 
-First let's cover the basics. Here's how to remove an unwanted flow step from a Smart Campaign. 
+First let's cover the basics. Here's how to remove an unwanted flow step from a Smart Campaign.
 
 1. In the Smart Campaign **[!UICONTROL Flow]**, click the **X** icon to delete any flow step.
 
@@ -36,7 +36,7 @@ First let's cover the basics. Here's how to remove an unwanted flow step from a 
     1. **Already ran WITHOUT wait steps**.No people will be affected because the campaign is dormant after running.
     1. **Is running right now**. Changes can cause unexpected behavior depending on the timing and details of the delete. We strongly recommend NOT editing a batch campaign that's actively running. For emergency cases, learn how to [abort a running Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}.
 
-    1. **Already ran WITH wait steps.** Several details on this one.  
+    1. **Already ran WITH wait steps.** Several details on this one.
        When a person enters a wait step, the person jots down the duration and which NUMBER STEP to return to. See example below.
 
    **Trigger Smart Campaigns**
@@ -49,8 +49,8 @@ First let's cover the basics. Here's how to remove an unwanted flow step from a 
    >**Example**
    >
    >1. A Smart Campaign has 3 steps.
-   >    * STEP 1. Send Email #1  
-   >    * STEP 2. Wait 1 week  
+   >    * STEP 1. Send Email #1
+   >    * STEP 2. Wait 1 week
    >    * STEP 3. Send Email #2
    >
    >1. People who hit **Step 2** will wait 1 week before moving on to **Step 3**.

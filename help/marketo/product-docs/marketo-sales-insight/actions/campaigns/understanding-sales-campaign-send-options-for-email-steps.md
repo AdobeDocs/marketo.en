@@ -9,7 +9,7 @@ exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
 When you are creating a Sales Campaign, you have several options on how your email steps get created in [!DNL Sales Insight Actions]. And, depending on where your email falls in your Sales Campaign, your options also differ.
 
 ## First Step Send Options {#first-step-send-options}
-  
+
 If it's your first step and the first day in your Sales Campaign, you will have the following options:
 
 ![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
@@ -71,4 +71,4 @@ For any subsequent days/steps in your Sales Campaign, you will have the followin
 >[Create a Sales Campaign](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
 >[Sales Campaign Step Types and Reminder Tasks](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
 >[Sales Campaign Settings](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
- 
+

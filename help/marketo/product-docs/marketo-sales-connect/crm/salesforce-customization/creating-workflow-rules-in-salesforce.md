@@ -19,29 +19,29 @@ The workaround includes creating new workflow rules to copy values from new MSE 
 
 Below are the recommended names of the workflow rules and description of each. These apply to the [!UICONTROL Contact] and [!UICONTROL Lead] object:
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>Update Interesting Moment Desc Field</td> 
-   <td><p>Copy from: Last Marketo Engagement Desc<br>Copy to: Last Interesting Moment Desc</p></td> 
-  </tr> 
-  <tr> 
-   <td>Update Interesting Moment Type field</td> 
-   <td><p>Copy from: Last Marketo Engagement Type<br>Copy to: Last Interesting Moment Type</p></td> 
-  </tr> 
-  <tr> 
-   <td>Update Interesting Moment Source field</td> 
-   <td><p>Copy from: Last Marketo Engagement Source<br>Copy to: Last Interesting Moment Source</p></td> 
-  </tr> 
-  <tr> 
-   <td>Update Interesting Moment Date field</td> 
-   <td><p>Copy from: Last Marketo Engagement Date<br>Copy to: Last Interesting Moment Date</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>Update Interesting Moment Desc Field</td>
+   <td><p>Copy from: Last Marketo Engagement Desc<br>Copy to: Last Interesting Moment Desc</p></td>
+  </tr>
+  <tr>
+   <td>Update Interesting Moment Type field</td>
+   <td><p>Copy from: Last Marketo Engagement Type<br>Copy to: Last Interesting Moment Type</p></td>
+  </tr>
+  <tr>
+   <td>Update Interesting Moment Source field</td>
+   <td><p>Copy from: Last Marketo Engagement Source<br>Copy to: Last Interesting Moment Source</p></td>
+  </tr>
+  <tr>
+   <td>Update Interesting Moment Date field</td>
+   <td><p>Copy from: Last Marketo Engagement Date<br>Copy to: Last Interesting Moment Date</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Instructions {#instructions}

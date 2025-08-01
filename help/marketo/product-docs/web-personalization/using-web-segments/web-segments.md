@@ -17,35 +17,35 @@ In [!DNL Web Personalizatio] , a visitor can match more than one segment. For ex
 
 **GRAPH:**  The Segments page displays a bar chart graph of the selected segments according to the number of visitors from the segment (y axis) and the segment name (x axis).
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Name</th> 
-   <th colspan="1" rowspan="1">Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Name</strong></td> 
-   <td colspan="1" rowspan="1">The title of the segment</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Matches</strong></p></td> 
-   <td colspan="1" rowspan="1">The number of visitors meeting the customized, defined criteria of the segment</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Set Campaign</strong></td> 
-   <td colspan="1" rowspan="1">Allows you to set up a Campaign CTA associated with the selected search term</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Visitors</strong></td> 
-   <td colspan="1">A preview of the visitors table associated with the selected search term</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td> 
-   <td colspan="1" rowspan="1">Displays a table of the visitor's activity and URL path on the site and how long they visited each page </td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Name</th>
+   <th colspan="1" rowspan="1">Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Name</strong></td>
+   <td colspan="1" rowspan="1">The title of the segment</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Matches</strong></p></td>
+   <td colspan="1" rowspan="1">The number of visitors meeting the customized, defined criteria of the segment</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Set Campaign</strong></td>
+   <td colspan="1" rowspan="1">Allows you to set up a Campaign CTA associated with the selected search term</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Visitors</strong></td>
+   <td colspan="1">A preview of the visitors table associated with the selected search term</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td>
+   <td colspan="1" rowspan="1">Displays a table of the visitor's activity and URL path on the site and how long they visited each page </td>
+  </tr>
+ </tbody>
 </table>
 
 See [how to create and view segment labels](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
@@ -216,7 +216,7 @@ Define your segment according to a prospect's status: known or anonymous.
 * Known - Select this option from the drop-down box for known visitors. A visitor is known when they submit a form on your website and appear in the [!DNL Web Personalization] [!UICONTROL People] page.
 * Anonymous - Select this option from the drop-down box for anonymous visitors.
 
-![](assets/image2015-5-27-17-3a23-3a2.png) 
+![](assets/image2015-5-27-17-3a23-3a2.png)
 
 ### Behavioral {#behavioral}
 
@@ -265,7 +265,7 @@ Drag and drop the [!UICONTROL Mobile OS] into the Segment editor
 
 * **[!UICONTROL Device]**  - From the drop-down list, select from one or more devices (Apple, Samsung, LG, HTC, Nexus, Blackberry etc...). The selected devices appear below.
 
-**Browser** 
+**Browser**
 
 Target visitor that use specific browser types and/or versions.
 
@@ -315,6 +315,6 @@ Great! Now that you understand the Segments section, let's learn about campaigns
 >[!MORELIKETHIS]
 >
 >* [Create a Basic Web Segment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
->* [Create a New Dialog Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) 
->* [Create a New In Zone Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md) 
+>* [Create a New Dialog Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Create a New In Zone Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Create a New Widget Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

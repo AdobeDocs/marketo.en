@@ -19,7 +19,7 @@ Workspaces can be for any reason (such as business unit or geography separation)
 
 1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/allow-user-access-to-a-workspace-1.png) 
+   ![](assets/allow-user-access-to-a-workspace-1.png)
 
 1. Click **[!UICONTROL Users & Roles]**.
 
@@ -40,4 +40,3 @@ Workspaces can be for any reason (such as business unit or geography separation)
 After saving the changes, you should see the update.
 
    ![](assets/allow-user-access-to-a-workspace-5.png)
-

@@ -14,7 +14,7 @@ Adobe offers a robust demand marketing solution, starting with native audience s
 
 ## Adobe Experience Cloud Integrations {#adobe-experience-cloud-integrations}
 
-**Marketo Integration with Adobe Audience Manager** 
+**Marketo Integration with Adobe Audience Manager**
 
 * [Sync an Audience From Adobe Experience Cloud](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}
 
@@ -22,7 +22,7 @@ Adobe offers a robust demand marketing solution, starting with native audience s
 
 Allows you to sync static lists of known people from Marketo Engage to multiple AEC applications, which  enhances existing programs, unlocks new use cases, and orchestrates multi-channel campaigns. This integration includes: Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager and Adobe Advertising Cloud.
 
-**Marketo Integration with Adobe Experience Manager** 
+**Marketo Integration with Adobe Experience Manager**
 
 * [Importing Assets with Adobe Experience Manager](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md){target="_blank"}
 

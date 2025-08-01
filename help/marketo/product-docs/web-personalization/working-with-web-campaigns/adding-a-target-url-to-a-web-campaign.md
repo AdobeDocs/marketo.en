@@ -23,23 +23,23 @@ A Target URL is located under the Set Campaign page and defines the specific URL
 
    ![](assets/set-web-campaign-hands.jpg)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Name</th> 
-   <th colspan="1" rowspan="1">Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Any Page]</strong></td> 
-   <td colspan="1" rowspan="1"><p>Allow campaign to appear on any pages.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Include URL parameter when matching]</strong></p></td> 
-   <td colspan="1" rowspan="1">Add URL parameter to match and show campaign on URLs including this parameter. Eg. campaign=cpc</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Name</th>
+   <th colspan="1" rowspan="1">Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Any Page]</strong></td>
+   <td colspan="1" rowspan="1"><p>Allow campaign to appear on any pages.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Include URL parameter when matching]</strong></p></td>
+   <td colspan="1" rowspan="1">Add URL parameter to match and show campaign on URLs including this parameter. Eg. campaign=cpc</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Adding Multiple URLs to Target URL {#adding-multiple-urls-to-target-url}

@@ -18,39 +18,39 @@ The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/
 
 The following features fall under the standard release cycle and will start to be released on **May 23, 2025**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
-<table style="table-layout:auto"> 
+<table style="table-layout:auto">
  <tbody>
- <tr> 
-   <th style="width:65%">Feature</th> 
+ <tr>
+   <th style="width:65%">Feature</th>
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentation</th>
   </tr>
-  <tr> 
-   <td><strong>Role-based Access Control for Email Designer Assets</strong>: A new enhancement to the role-based access control (RBAC) system provides more granular permissions and improved user management for assets powered by the new Email Designer.</td> 
+  <tr>
+   <td><strong>Role-based Access Control for Email Designer Assets</strong>: A new enhancement to the role-based access control (RBAC) system provides more granular permissions and improved user management for assets powered by the new Email Designer.</td>
    <td>Shipped</td>
    <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">Granular permissions to New Email Designer (blog post)</a></td>
   </tr>
-  <tr> 
-   <td>&nbsp;</td> 
+  <tr>
+   <td>&nbsp;</td>
    <td>&nbsp;</td>
    <td>&nbsp;</td>
   </tr>
-  <tr> 
-   <td><strong>Cloning Emails Created in the Email Designer</strong>: You now have the ability to clone an existing email created using the new Email Designer.</td> 
+  <tr>
+   <td><strong>Cloning Emails Created in the Email Designer</strong>: You now have the ability to clone an existing email created using the new Email Designer.</td>
    <td>Shipped</td>
    <td>n/a</td>
   </tr>
-  <tr> 
-   <td>&nbsp;</td> 
+  <tr>
+   <td>&nbsp;</td>
    <td>&nbsp;</td>
    <td>&nbsp;</td>
   </tr>
-  <tr> 
-   <td><strong>Trigger Tokens for Any Attribute</strong>: Expanded list of trigger tokens to support using data from any activity attribute in Smart Campaign fields.</td> 
+  <tr>
+   <td><strong>Trigger Tokens for Any Attribute</strong>: Expanded list of trigger tokens to support using data from any activity attribute in Smart Campaign fields.</td>
    <td>Shipped</td>
    <td>n/a</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 

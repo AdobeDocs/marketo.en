@@ -25,99 +25,99 @@ A web campaign is a customized reaction associated with a specific segment. The 
 
    ![](assets/new-3.png)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Name</th> 
-   <th colspan="1" rowspan="1">Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong>Display On</strong></td> 
-   <td colspan="1">Allows you to <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">customize when and how</a> your web campaign displays.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Dialog Style</strong></td> 
-   <td colspan="1" rowspan="1"> 
-    <ul> 
-     <li>Modern Trim - A stylish and distinctive dialog with semi-transparent black trim and rounded corners</li> 
-     <li>Modern Trim II - A stylish and distinctive dialog with a light shadow trim and rounded corners and close button</li> 
-     <li>Transparent - A fully transparent dialog box, ideal for transparent (png) images for your call to actions. </li> 
-     <li>Basic - A simple style dialog, with thicker title header space fulfilling your basic dialog box needs.</li> 
-    </ul></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Animate In/Out</strong></td> 
-   <td colspan="1">Set on dialog entry and/or exit. Select effect (drop, blind, slide, fade, no effect), duration (in seconds), and direction (up, down, left, right).</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Position</strong></p></td> 
-   <td colspan="1" rowspan="1">Select one of the 9 options for the dialog box's position on the page. For example, selecting the middle box displays the dialog box in the middle of the screen.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>By Coordinates</strong></p><p><br></p></td> 
-   <td colspan="1" rowspan="1">For additional positioning options of the dialog box, select the checkbox ‘Position Coordinates’ and enter the exact screen coordinates (Horizontal, Vertical) where you would like the dialog to appear.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Button Fill</strong></td> 
-   <td colspan="1">Customize the modal's close button using color, style, and position. You can also use your own button by linking to it in the Image URL box.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Sticky</strong></td> 
-   <td colspan="1">By selecting the sticky checkbox the dialog box remains in position, without any time limit, until closed by the user and will appear on all pages throughout the visitor's session.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Modal</strong></td> 
-   <td colspan="1">Provides more focus on the dialog box and launches it with a darkened background behind the dialog window, increasing the user awareness of the dialog box.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Modal Color</strong></td> 
-   <td colspan="1">Customize the modal's color as well as opacity.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Timeout </strong></td> 
-   <td colspan="1">The number of seconds the dialog box is activated before fading out.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Header color</strong></td> 
-   <td colspan="1">Set the header bar of the dialog to your preferred color. The color can be chosen from a color chart or entered as a Hex color code. </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Content background color </strong></td> 
-   <td colspan="1">Set the background color of the dialog box to your preferred color. The color can be chosen from a color chart or entered as a Hex color code. </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Dialog title</strong></td> 
-   <td colspan="1">Add a title to the header title bar of the dialog box.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Width and height</strong></td> 
-   <td colspan="1">Select the pixel sizing of the dialog box.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Width Auto</strong></td> 
-   <td colspan="1">Selecting this check box allows the dialog box to auto fit to the content width.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Resizable </strong></td> 
-   <td colspan="1">Selecting the resizable checkbox allows the dialog box to be resized by the user.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Rich Text Editor</strong></td> 
-   <td colspan="1"><p>The rich text editor allows for text formatting, linking and image insertion. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Read more here</a>.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Preview on site</strong></td> 
-   <td colspan="1">Preview campaigns before they are launched.<br> 
-    <ul> 
-     <li>URL - Enter an example URL where the campaign would run to see a preview example of how the campaign would look live.</li> 
-     <li>Device - Preview how your campaign will appear by device: Desktop, Mobile Portrait, Mobile Landscape, Tablet Portrait, Portrait Landscape.<br></li> 
-     <li>Preview - Click <strong>Preview </strong>to open a new window of the example URL to see how the campaign reacts. </li> 
-     <li>Share - Use the Share button to send an email to a colleague with a link to see the proxy campaign.</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Name</th>
+   <th colspan="1" rowspan="1">Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong>Display On</strong></td>
+   <td colspan="1">Allows you to <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">customize when and how</a> your web campaign displays.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Dialog Style</strong></td>
+   <td colspan="1" rowspan="1">
+    <ul>
+     <li>Modern Trim - A stylish and distinctive dialog with semi-transparent black trim and rounded corners</li>
+     <li>Modern Trim II - A stylish and distinctive dialog with a light shadow trim and rounded corners and close button</li>
+     <li>Transparent - A fully transparent dialog box, ideal for transparent (png) images for your call to actions. </li>
+     <li>Basic - A simple style dialog, with thicker title header space fulfilling your basic dialog box needs.</li>
+    </ul></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Animate In/Out</strong></td>
+   <td colspan="1">Set on dialog entry and/or exit. Select effect (drop, blind, slide, fade, no effect), duration (in seconds), and direction (up, down, left, right).</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Position</strong></p></td>
+   <td colspan="1" rowspan="1">Select one of the 9 options for the dialog box's position on the page. For example, selecting the middle box displays the dialog box in the middle of the screen.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>By Coordinates</strong></p><p><br></p></td>
+   <td colspan="1" rowspan="1">For additional positioning options of the dialog box, select the checkbox ‘Position Coordinates’ and enter the exact screen coordinates (Horizontal, Vertical) where you would like the dialog to appear.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Button Fill</strong></td>
+   <td colspan="1">Customize the modal's close button using color, style, and position. You can also use your own button by linking to it in the Image URL box.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Sticky</strong></td>
+   <td colspan="1">By selecting the sticky checkbox the dialog box remains in position, without any time limit, until closed by the user and will appear on all pages throughout the visitor's session.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Modal</strong></td>
+   <td colspan="1">Provides more focus on the dialog box and launches it with a darkened background behind the dialog window, increasing the user awareness of the dialog box.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Modal Color</strong></td>
+   <td colspan="1">Customize the modal's color as well as opacity.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Timeout </strong></td>
+   <td colspan="1">The number of seconds the dialog box is activated before fading out.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Header color</strong></td>
+   <td colspan="1">Set the header bar of the dialog to your preferred color. The color can be chosen from a color chart or entered as a Hex color code. </td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Content background color </strong></td>
+   <td colspan="1">Set the background color of the dialog box to your preferred color. The color can be chosen from a color chart or entered as a Hex color code. </td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Dialog title</strong></td>
+   <td colspan="1">Add a title to the header title bar of the dialog box.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Width and height</strong></td>
+   <td colspan="1">Select the pixel sizing of the dialog box.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Width Auto</strong></td>
+   <td colspan="1">Selecting this check box allows the dialog box to auto fit to the content width.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Resizable </strong></td>
+   <td colspan="1">Selecting the resizable checkbox allows the dialog box to be resized by the user.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Rich Text Editor</strong></td>
+   <td colspan="1"><p>The rich text editor allows for text formatting, linking and image insertion. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Read more here</a>.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Preview on site</strong></td>
+   <td colspan="1">Preview campaigns before they are launched.<br>
+    <ul>
+     <li>URL - Enter an example URL where the campaign would run to see a preview example of how the campaign would look live.</li>
+     <li>Device - Preview how your campaign will appear by device: Desktop, Mobile Portrait, Mobile Landscape, Tablet Portrait, Portrait Landscape.<br></li>
+     <li>Preview - Click <strong>Preview </strong>to open a new window of the example URL to see how the campaign reacts. </li>
+     <li>Share - Use the Share button to send an email to a colleague with a link to see the proxy campaign.</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
    >[!TIP]

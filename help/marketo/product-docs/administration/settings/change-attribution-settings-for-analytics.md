@@ -11,7 +11,7 @@ You can change the way Marketo ties contacts to opportunities for first- and mul
 
 These settings will impact [!UICONTROL Revenue Explorer] reports under the [Program Opportunity Analysis](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Opportunity Analysis](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md), and Lead Analysis areas. This will also affect the [!UICONTROL Program Analyzer] report.
 
-1. Go to the **[!UICONTROL Admin]** area. 
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/change-attribution-settings-for-analytics-1.png)
 

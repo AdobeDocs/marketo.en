@@ -14,7 +14,7 @@ This document will take you through the initial steps for setting up your new [!
 
 ## Accessing your new Marketo Sales Connect Account {#accessing-your-new-marketo-sales-connect-account}
 
-If you have purchased Marketo Sales Connect, access to your instance will be provisioned from Marketo's admin section. [Click here](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md){target="_blank"} to see instructions on how a Marketo admin can provision access to your new instance.  
+If you have purchased Marketo Sales Connect, access to your instance will be provisioned from Marketo's admin section. [Click here](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md){target="_blank"} to see instructions on how a Marketo admin can provision access to your new instance.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-1.png)
 
@@ -40,11 +40,11 @@ Connecting to Marketo will enable your sellers to harness the power of marketing
 * Push [Interesting Moments](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md){target="_blank"} to the Live Feed
 * Logging sales activities to Marketo
 
-To learn more about how to connect to Marketo and grant sales users access to the connection, [click here](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}.  
+To learn more about how to connect to Marketo and grant sales users access to the connection, [click here](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}.
 
 ## Installing [!DNL Salesforce] Customization Package {#installing-salesforce-customization-package}
 
-Part of ensuring sales is enabled for success means having the right capabilities in their primary workspace. The Sales Connect customization package allows engagement capabilities and key sales activity attributes to be accessible from Salesforce.  
+Part of ensuring sales is enabled for success means having the right capabilities in their primary workspace. The Sales Connect customization package allows engagement capabilities and key sales activity attributes to be accessible from Salesforce.
 
 To learn more about installing the Sales Connect Customization [click here](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md){target="_blank"}.
 

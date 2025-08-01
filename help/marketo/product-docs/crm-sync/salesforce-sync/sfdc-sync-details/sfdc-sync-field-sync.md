@@ -27,7 +27,7 @@ We have a field in Marketo called SFDC isDeleted. If the value is true, then the
 >
 >If you want a field in both systems, create it in SFDC first and it will automatically sync down to Marketo.
 
-If you add a new field in SFDC and the sync user has permission to see it, it will automatically get added to Marketo.  
+If you add a new field in SFDC and the sync user has permission to see it, it will automatically get added to Marketo.
 
 ## What if I change a field label in SFDC? {#what-if-i-change-a-field-label-in-sfdc}
 

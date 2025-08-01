@@ -11,13 +11,13 @@ Deleting images or files is quick and easy.
 
 >[!CAUTION]
 >
->Once deleted, images/files are completely removed from Marketo Engage and cannot be recovered. 
+>Once deleted, images/files are completely removed from Marketo Engage and cannot be recovered.
 
 1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/delete-an-uploaded-image-or-file-1.png)
 
-1. Select **[!UICONTROL Images and Files]** 
+1. Select **[!UICONTROL Images and Files]**
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 

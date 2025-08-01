@@ -63,13 +63,13 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 
 * **Reimagined My Marketo**: Customize your experience by adding widgets that provide critical information, notifications, and links to your most frequently visited areas.
 
-* **Design Studio List Views & Detail Pages**: Enjoy an increased level of organization and accuracy with filterable and searchable list views of emails, landing pages, and forms. Asset Detail Pages provide key information around each asset, including which programs the asset is used by, the number of snippets being used, and more.  
+* **Design Studio List Views & Detail Pages**: Enjoy an increased level of organization and accuracy with filterable and searchable list views of emails, landing pages, and forms. Asset Detail Pages provide key information around each asset, including which programs the asset is used by, the number of snippets being used, and more.
 
 * **Global Search**: Marketo now offers a faster and more robust global search function across the platform. Search queries now run across all accessible workspaces and can search assets (both active and archived), labels, campaigns, and programs. Search results are provided via an overlay and each result includes its file location trail to specify where the asset lives.
 
 * **Improved User Interface**: New icons, modals, and buttons, along with a new color palette to reflect our brand refresh and make [!DNL Marketo Sky] even more stunning and functional.
 
-* **Email Program Usability Enhancements**: We continue to move towards parity in Email Program functionality between our classic Marketo Lead Management platform and the new [!DNL Marketo Sky] experience. 
+* **Email Program Usability Enhancements**: We continue to move towards parity in Email Program functionality between our classic Marketo Lead Management platform and the new [!DNL Marketo Sky] experience.
 * **Event-With-Webinar Programs**: Event-With-Webinar programs are now available in [!DNL Marketo Sky] (note: only GoToWebinar will be supported in this release, with further integrations established over time).
 
 ## Account-Based Marketing {#account-based-marketing}
@@ -84,7 +84,7 @@ Personalize your ABM campaigns for specific personas within named accounts. The 
 
 * **Custom Calculated Fields**: Use any [!DNL Bizible] attribute to build custom fields that can be used for dashboard reporting and segmentation.
 
-* **SOC II Type II Certification**: New security and privacy certification builds on Type I accreditation from earlier this year. 
+* **SOC II Type II Certification**: New security and privacy certification builds on Type I accreditation from earlier this year.
 
 ## [!DNL Web Personalization] {#web-personalization}
 

@@ -24,13 +24,13 @@ There are other SMS triggers available. The SMS triggers appear only if Vibes se
 SEND A SMS MESSAGE:
 
 * Marketing Activities > choose New Smart Campaign
-  * Smart List > Choose Vibes List filter & correct logic > Vibes list: Choose list from drop-down (mobile database list that syncs from Vibes platform)  
-    * Can refine segmentation & utilize SMS and email filters & triggers within one campaign 
-    * Vibes Filters: Subscribed to Vibes List vs. Member of Vibes List - logic is consistent with email 
-       * Subscribed to Vibes List - participants who have ever subscribed to that Vibes list even if they are now unsubscribed.  - mostly utilized for cross channel marketing efforts 
-          * Note: a SMS message will not send to anyone unsubscribed if they are not in the Vibes Mobile Database list  
-       * Member of Vibes List - active, confirmed subscriber 
-       * Added to List - Vibes lists will not populate with this filter; this is for Marketo lists  
+  * Smart List > Choose Vibes List filter & correct logic > Vibes list: Choose list from drop-down (mobile database list that syncs from Vibes platform)
+    * Can refine segmentation & utilize SMS and email filters & triggers within one campaign
+    * Vibes Filters: Subscribed to Vibes List vs. Member of Vibes List - logic is consistent with email
+       * Subscribed to Vibes List - participants who have ever subscribed to that Vibes list even if they are now unsubscribed.  - mostly utilized for cross channel marketing efforts
+          * Note: a SMS message will not send to anyone unsubscribed if they are not in the Vibes Mobile Database list
+       * Member of Vibes List - active, confirmed subscriber
+       * Added to List - Vibes lists will not populate with this filter; this is for Marketo lists
 
 ![](assets/new-sms-search2.png)
 

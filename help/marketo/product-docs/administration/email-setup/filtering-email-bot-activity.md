@@ -41,7 +41,7 @@ Against email link click and email open activity, new attributes will be populat
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. If you enable **[!UICONTROL Match with Proximity Pattern]**, choose whether to [!UICONTROL log bot activity] _or_ [!UICONTROL filter bot activity]. You can also set the amount of seconds for **Duration Between Activities** (default is 0, max is 3). 
+1. If you enable **[!UICONTROL Match with Proximity Pattern]**, choose whether to [!UICONTROL log bot activity] _or_ [!UICONTROL filter bot activity]. You can also set the amount of seconds for **Duration Between Activities** (default is 0, max is 3).
 
    ![](assets/filtering-email-bot-activity-5.png)
 
@@ -114,7 +114,7 @@ We've compiled a list of IP addresses that are responsible for generating millio
 * 162.129.251.14
 * 162.129.251.42
 * 208.52.157.204
- 
+
 >[!NOTE]
 >
 >We meticulously analyze and scrutinize every IP address before adding it to this list, ensuring only the most critical and harmful IPs are blocked.

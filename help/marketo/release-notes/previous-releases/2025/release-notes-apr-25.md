@@ -18,19 +18,19 @@ The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/
 
 The following features fall under the standard release cycle and will start to be released on **April 25, 2025**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">Feature</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">Feature</th>
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentation</th>
   </tr>
-  <tr> 
-   <td><strong>Secure Socket Layer (SSL) Self Service</strong>: SSL encryption allows you to make Landing Pages for a Marketo Engage instance secure. Enabling this feature used to require assistance from the Adobe Support team. Marketo users can now enable it on their own, saving valuable time.</td> 
+  <tr>
+   <td><strong>Secure Socket Layer (SSL) Self Service</strong>: SSL encryption allows you to make Landing Pages for a Marketo Engage instance secure. Enabling this feature used to require assistance from the Adobe Support team. Marketo users can now enable it on their own, saving valuable time.</td>
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md">Add SSL to your Landing Pages</a></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 

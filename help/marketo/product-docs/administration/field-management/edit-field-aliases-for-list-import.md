@@ -37,6 +37,6 @@ When you import a list with unknown headers, you can create field aliases to mak
 >
 >Click **[!UICONTROL Add Another]** and enter more aliases if you need them.
 
-Look at that! Now if you import a spreadsheet with a column named "DOB," Marketo will automatically recognize it as "Date of Birth" and import the data into the correct field.  
+Look at that! Now if you import a spreadsheet with a column named "DOB," Marketo will automatically recognize it as "Date of Birth" and import the data into the correct field.
 
 ![](assets/edit-field-aliases-for-list-import-6.png)

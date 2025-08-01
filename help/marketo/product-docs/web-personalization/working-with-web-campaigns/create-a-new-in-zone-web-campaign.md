@@ -31,45 +31,45 @@ A web campaign is a customized reaction associated with a specific segment and c
    >
    >Then, you want to find the "id" associated with this section of the website, which is highlighted because you are inspecting that element. For example, if once you right-click in Chrome the highlighted text says `<div id="featured-slider">` then "featured-slider" is what you should type in the "zone id" section. Typically "div id" is used, but any ID can be used as well, such as h1 id, p id, etc.
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Name</th> 
-   <th colspan="1" rowspan="1">Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong> Zone id </strong></td> 
-   <td colspan="1" rowspan="1"><p>Enter the name of the id found in the HTML code of your website element the campaign replaces.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> Sticky </strong></p></td> 
-   <td colspan="1" rowspan="1">The Sticky checkbox is selected by default for the In Zone campaign and keeps the In Zone campaign in its Zone id position throughout the visitor's session on the website. It is recommended to always have an In Zone set to Sticky.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> Fading</strong> </p></td> 
-   <td colspan="1" rowspan="1">Selecting the Use Effect checkbox and Fading provides a fading effect to the Zone id area on the website. If the In Zone is a graphical banner, then the page first loads and then the campaign activates with a fading effect.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Sliding</strong></td> 
-   <td colspan="1">Selecting the Use Effect checkbox and the Sliding option provides a sliding in effect to the Zone id area on the website. If the In Zone is a graphical banner, then the page first loads and then the campaign activates with a sliding effect from left to right.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> Rich Text Editor  </strong></td> 
-   <td colspan="1">The rich text editor allows for text formatting, linking and image insertion. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Read more here</a> .</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> Preview on site   </strong></td> 
-   <td colspan="1">Preview campaigns before they are launched. <br> 
-    <ul> 
-     <li> URL  - Enter an example URL where the campaign would run to see a preview example of how the campaign would look live.</li> 
-     <li>Device - Preview how your campaign will appear by device: Desktop, Mobile Portrait, Mobile Landscape, Tablet Portrait, Portrait Landscape.</li> 
-     <li> Preview - Click <strong>Preview</strong> to open a new window of the example URL to see how the campaign reacts.</li> 
-     <li> Share - Use the Share button to send an email to a colleague with a link to see the proxy campaign.</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Name</th>
+   <th colspan="1" rowspan="1">Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong> Zone id </strong></td>
+   <td colspan="1" rowspan="1"><p>Enter the name of the id found in the HTML code of your website element the campaign replaces.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> Sticky </strong></p></td>
+   <td colspan="1" rowspan="1">The Sticky checkbox is selected by default for the In Zone campaign and keeps the In Zone campaign in its Zone id position throughout the visitor's session on the website. It is recommended to always have an In Zone set to Sticky.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> Fading</strong> </p></td>
+   <td colspan="1" rowspan="1">Selecting the Use Effect checkbox and Fading provides a fading effect to the Zone id area on the website. If the In Zone is a graphical banner, then the page first loads and then the campaign activates with a fading effect.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Sliding</strong></td>
+   <td colspan="1">Selecting the Use Effect checkbox and the Sliding option provides a sliding in effect to the Zone id area on the website. If the In Zone is a graphical banner, then the page first loads and then the campaign activates with a sliding effect from left to right.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> Rich Text Editor  </strong></td>
+   <td colspan="1">The rich text editor allows for text formatting, linking and image insertion. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Read more here</a> .</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> Preview on site   </strong></td>
+   <td colspan="1">Preview campaigns before they are launched. <br>
+    <ul>
+     <li> URL  - Enter an example URL where the campaign would run to see a preview example of how the campaign would look live.</li>
+     <li>Device - Preview how your campaign will appear by device: Desktop, Mobile Portrait, Mobile Landscape, Tablet Portrait, Portrait Landscape.</li>
+     <li> Preview - Click <strong>Preview</strong> to open a new window of the example URL to see how the campaign reacts.</li>
+     <li> Share - Use the Share button to send an email to a colleague with a link to see the proxy campaign.</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

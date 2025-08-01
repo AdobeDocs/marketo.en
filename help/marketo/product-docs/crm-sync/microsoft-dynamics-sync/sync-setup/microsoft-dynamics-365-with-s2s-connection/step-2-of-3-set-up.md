@@ -46,7 +46,7 @@ feature: Microsoft Dynamics
    >[!IMPORTANT]
    >
    >* While giving permissions to the Application User, be sure to assign it to "Marketo Sync User Role."
-   >* Note the email address of the Application User from the [view details option](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) on Power Platform. This email address will be used as the username when setting up the connection to MS [!DNL Dynamics] within Marketo.  
+   >* Note the email address of the Application User from the [view details option](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) on Power Platform. This email address will be used as the username when setting up the connection to MS [!DNL Dynamics] within Marketo.
 
 ## [!DNL Azure AD] Federated with [!DNL AD FS On-prem] {#azure-ad-federated-with-ad-fs-on-prem}
 

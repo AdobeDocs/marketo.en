@@ -6,11 +6,11 @@ feature: Marketo Sales Insights
 ---
 # Add [!DNL Sales Insight] Permission Set {#add-sales-insight-permission-set}
 
-Use the following steps to add access to [!DNL Sales Insight] features in [!DNL Salesforce]. Applicable to [!DNL Salesforce] Classic and Lightening 
+Use the following steps to add access to [!DNL Sales Insight] features in [!DNL Salesforce]. Applicable to [!DNL Salesforce] Classic and Lightening
 
 >[!PREREQUISITES]
 >
->[Update your [!DNL Sales Insight] [!DNL Salesforce] package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} to version 1.8000 or higher to use this feature.  
+>[Update your [!DNL Sales Insight] [!DNL Salesforce] package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} to version 1.8000 or higher to use this feature.
 
 >[!IMPORTANT]
 >
@@ -18,57 +18,57 @@ Use the following steps to add access to [!DNL Sales Insight] features in [!DNL 
 
 ## Overview {#overview}
 
-“Marketo App” permission is a part of the [!DNL Sales Insight] [!DNL Salesforce] package. It includes access to the below mentioned objects, apex classes, and visualforce pages. These are required to access all [!DNL Sales Insight] features.  
+“Marketo App” permission is a part of the [!DNL Sales Insight] [!DNL Salesforce] package. It includes access to the below mentioned objects, apex classes, and visualforce pages. These are required to access all [!DNL Sales Insight] features.
 
 **Object Settings**
 
-<table> 
- <tbody> 
- <tr> 
-   <td>BestBetsCache</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>Best Bets View Details</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>Best Bets Views</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>EmailActivityCache</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>GetMethodArgus</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>GroupedWebActivityCache</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>InterestingMomentsCache</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>Marketo [!DNL Sales Insight] Config</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>ScoringCache</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>Values</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>WebActivityCache</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+ <tr>
+   <td>BestBetsCache</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>Best Bets View Details</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>Best Bets Views</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>EmailActivityCache</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>GetMethodArgus</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>GroupedWebActivityCache</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>InterestingMomentsCache</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>Marketo [!DNL Sales Insight] Config</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>ScoringCache</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>Values</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>WebActivityCache</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+ </tbody>
 </table>
 
 * Apex Class Access: 159 Apex Classes that begin with “mkto_si”

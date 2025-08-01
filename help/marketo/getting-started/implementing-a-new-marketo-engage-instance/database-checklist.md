@@ -6,7 +6,7 @@ exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
 ---
 # New Instance Best Practices: Database Checklist {#new-instance-best-practices-database-checklist}
 
-The Database section is where you'll find the key attributes of the people in your instance. Learn more about the necessary steps to navigate through different lists and segmentations in your Database, as well as managing people records. 
+The Database section is where you'll find the key attributes of the people in your instance. Learn more about the necessary steps to navigate through different lists and segmentations in your Database, as well as managing people records.
 
 Remember to [download the checklists](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) and track your progress.
 
@@ -22,7 +22,7 @@ Remember to [download the checklists](/help/marketo/getting-started/implementing
 <tbody>
   <tr>
     <td>All People</td>
-    <td><li>Determine implementing a 1:1 sync with your CRM or applying filters to limit who moves from system to system and when.</li> 
+    <td><li>Determine implementing a 1:1 sync with your CRM or applying filters to limit who moves from system to system and when.</li>
     <li>Review the total number of people and marketable people in your <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html" target="_blank">Marketo Engage database</a>.</li></td>
   </tr>
   <tr>
@@ -40,8 +40,8 @@ Remember to [download the checklists](/help/marketo/getting-started/implementing
   </tr>
   <tr>
     <td>Possible Duplicates</td>
-    <td><li>Review People in the Possible Duplicates list.</li> 
-    <li>Define your duplicate management strategy to determine if you want to <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">merge people manually</a>.</li>  
+    <td><li>Review People in the Possible Duplicates list.</li>
+    <li>Define your duplicate management strategy to determine if you want to <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">merge people manually</a>.</li>
     <li>If you have a CRM integration, define a process and account for <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">the effect of merging leads in your CRM</a>.</li></td>
   </tr>
   <tr>

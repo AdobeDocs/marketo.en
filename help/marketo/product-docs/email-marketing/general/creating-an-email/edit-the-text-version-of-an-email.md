@@ -35,4 +35,4 @@ When you create an email, you may want its text version to be worded differently
 
 >[!CAUTION]
 >
->Selecting **Copy from HTML**, or reselecting **Automatically copy from HTML** in emails that contain dynamic content will set the Reviewed flag to _true_ for all segments (producing the green check mark that indicates it's been reviewed) in both the HTML and Text versions of the email. If you perform either action above, be sure to double-check your content before sending. 
+>Selecting **Copy from HTML**, or reselecting **Automatically copy from HTML** in emails that contain dynamic content will set the Reviewed flag to _true_ for all segments (producing the green check mark that indicates it's been reviewed) in both the HTML and Text versions of the email. If you perform either action above, be sure to double-check your content before sending.

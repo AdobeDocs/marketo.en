@@ -6,7 +6,7 @@ exl-id: ddbb9bc7-d06a-4a2e-a560-9d308630ae3f
 ---
 # New Instance Best Practices: Analytics Checklist {#new-instance-best-practices-analytics-checklist}
 
-The Analytics section offers global reports that analyze the performance of your marketing efforts. Learn about the necessary steps to navigate them.  
+The Analytics section offers global reports that analyze the performance of your marketing efforts. Learn about the necessary steps to navigate them.
 
 Remember to [download the checklists](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) and track your progress.
 
@@ -25,7 +25,7 @@ Remember to [download the checklists](/help/marketo/getting-started/implementing
     <td>Organization: Naming, folders, and archiving</td>
     <td><li>Use a report naming convention to differentiate reports in the Global Reports tab.
     <ul><li>An example of good naming convention practice is [Report Type] [Global vs. BU-Specific Tag] [Report Description] such as [Email Performance]-[Global]-[180 Days Email Engagement].</li></ul><br>
-    <li>Identify reports that should be shared with different user groups within your organization (e.g., sales team, marketing leadership) and organize the reports by folder inside the Group Reports folder in Analytics for Global Reports.</li> 
+    <li>Identify reports that should be shared with different user groups within your organization (e.g., sales team, marketing leadership) and organize the reports by folder inside the Group Reports folder in Analytics for Global Reports.</li>
     <li>Archiving should be limited to the Global Reports folder, as these are always-on reports.   <ul><li>Limit archiving to organizational changes such as reducing or adding relevant business units if you are reporting based on a business unit structure.</li></ul>
     </td>
   </tr>
@@ -73,7 +73,7 @@ Remember to [download the checklists](/help/marketo/getting-started/implementing
 
 ## Global Reports {#global-reports}
 
-Identify reports that should be shared with different user groups within your organization (e.g., sales team, marketing leadership). Create proper folder structure for each team/user group/business unit to organize the cloned reports within Group Reports. Consider setting up global reports, such as: 
+Identify reports that should be shared with different user groups within your organization (e.g., sales team, marketing leadership). Create proper folder structure for each team/user group/business unit to organize the cloned reports within Group Reports. Consider setting up global reports, such as:
 
 <table>
 <thead>
@@ -128,7 +128,7 @@ Identify reports that should be shared with different user groups within your or
 
 ## Local Reports {#local-reports}
 
-Some Marketo Engage reports are best deployed as local assets within specific programs in Marketing Activities, as their typical use is in a more limited set of programs and assets. Consider setting up basic reports, such as:  
+Some Marketo Engage reports are best deployed as local assets within specific programs in Marketing Activities, as their typical use is in a more limited set of programs and assets. Consider setting up basic reports, such as:
 
 <table>
 <thead>

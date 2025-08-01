@@ -52,4 +52,3 @@ Learn how to change the language of your form.
 Your form will now reflect the language you selected.
 
    ![](assets/change-the-language-of-a-form-8.png)
-

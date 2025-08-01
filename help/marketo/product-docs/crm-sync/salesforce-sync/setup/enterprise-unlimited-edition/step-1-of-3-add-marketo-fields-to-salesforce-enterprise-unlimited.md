@@ -13,7 +13,7 @@ feature: Salesforce Integration
 
 Marketo uses a set of fields to capture certain kinds of marketing related information. If you would like this data in [!DNL Salesforce], please follow the instructions below.
 
-1. Create three custom fields in [!DNL Salesforce] on the lead and contact objects: Score, Acquisition Program, and Acquisition Date. 
+1. Create three custom fields in [!DNL Salesforce] on the lead and contact objects: Score, Acquisition Program, and Acquisition Date.
 1. Map these custom fields between leads and contacts so that on conversion in [!DNL Salesforce], the values carry over.
 1. You can create other additional fields, if necessary (see the table below).
 
@@ -47,47 +47,47 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
 1. Enter the [!UICONTROL Field Label], [!UICONTROL Length], and [!UICONTROL Field Name] for the field, as shown in the table below.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Field Label 
-    </div></th> 
-   <th> 
+      Field Label
+    </div></th>
+   <th>
     <div>
-      Field Name 
-    </div></th> 
-   <th> 
+      Field Name
+    </div></th>
+   <th>
     <div>
-      Data Type 
-    </div></th> 
-   <th> 
+      Data Type
+    </div></th>
+   <th>
     <div>
-      Field Attributes 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Score</td> 
-   <td>mkto71_Lead_Score</td> 
-   <td>Number</td> 
-   <td>Length 10<br>Decimal Places 0 </td> 
-  </tr> 
-  <tr> 
-   <td>Acquisition Date</td> 
-   <td>mkto71_Acquisition_Date</td> 
-   <td>Date/Time</td> 
-   <td> </td> 
-  </tr> 
-  <tr> 
-   <td>Acquisition Program</td> 
-   <td>mkto71_Acquisition_Program</td> 
-   <td>Text</td> 
-   <td>Length 255</td> 
-  </tr> 
- </tbody> 
+      Field Attributes
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Score</td>
+   <td>mkto71_Lead_Score</td>
+   <td>Number</td>
+   <td>Length 10<br>Decimal Places 0 </td>
+  </tr>
+  <tr>
+   <td>Acquisition Date</td>
+   <td>mkto71_Acquisition_Date</td>
+   <td>Date/Time</td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td>Acquisition Program</td>
+   <td>mkto71_Acquisition_Program</td>
+   <td>Text</td>
+   <td>Length 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -127,107 +127,107 @@ Perform the following steps for each of the three custom fields to add them. Sta
 1. Perform steps 3 through 10 for the Score, Acquisition Date, and Acquisition Program fields on the contact object, just as you did for the lead object.
 1. Optionally, use the above procedure for any additional custom fields from this table.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Field Label 
-    </div></th> 
-   <th> 
+      Field Label
+    </div></th>
+   <th>
     <div>
-      Field Name 
-    </div></th> 
-   <th> 
+      Field Name
+    </div></th>
+   <th>
     <div>
-      Data Type 
-    </div></th> 
-   <th> 
+      Data Type
+    </div></th>
+   <th>
     <div>
-      Field Attributes 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Acquisition Program Id</td> 
-   <td>mkto71_Acquisition_Program_Id</td> 
-   <td>Number</td> 
-   <td>Length 18<br>Decimal Places 0 </td> 
-  </tr> 
-  <tr> 
-   <td>Original Referrer</td> 
-   <td>mkto71_Original_Referrer</td> 
-   <td>Text</td> 
-   <td>Length 255</td> 
-  </tr> 
-  <tr> 
-   <td>Original Search Engine</td> 
-   <td>mkto71_Original_Search_Engine</td> 
-   <td>Text</td> 
-   <td>Length 255</td> 
-  </tr> 
-  <tr> 
-   <td>Original Search Phrase</td> 
-   <td>mkto71_Original_Search_Phrase</td> 
-   <td>Text</td> 
-   <td>Length 255</td> 
-  </tr> 
-  <tr> 
-   <td>Original Source Info</td> 
-   <td>mkto71_Original_Source_Info</td> 
-   <td>Text</td> 
-   <td>Length 255</td> 
-  </tr> 
-  <tr> 
-   <td>Original Source Type</td> 
-   <td>mkto71_Original_Source_Type</td> 
-   <td>Text</td> 
-   <td>Length 255</td> 
-  </tr> 
-  <tr> 
-   <td>Inferred City</td> 
-   <td>mkto71_Inferred_City</td> 
-   <td>Text</td> 
-   <td>Length 255</td> 
-  </tr> 
-  <tr> 
-   <td>Inferred Company</td> 
-   <td>mkto71_Inferred_Company</td> 
-   <td>Text</td> 
-   <td>Length 255</td> 
-  </tr> 
-  <tr> 
-   <td>Inferred Country</td> 
-   <td>mkto71_Inferred_Country</td> 
-   <td>Text</td> 
-   <td>Length 255</td> 
-  </tr> 
-  <tr> 
-   <td>Inferred Metropolitan Area</td> 
-   <td>mkto71_Inferred_Metropolitan_Area</td> 
-   <td>Text</td> 
-   <td>Length 255</td> 
-  </tr> 
-  <tr> 
-   <td>Inferred Phone Area Code</td> 
-   <td>mkto71_Inferred_Phone_Area_Code</td> 
-   <td>Text</td> 
-   <td>Length 255</td> 
-  </tr> 
-  <tr> 
-   <td>Inferred Postal Code</td> 
-   <td>mkto71_Inferred_Postal_Code</td> 
-   <td>Text</td> 
-   <td>Length 255</td> 
-  </tr> 
-  <tr> 
-   <td>Inferred State Region</td> 
-   <td>mkto71_Inferred_State_Region</td> 
-   <td>Text</td> 
-   <td>Length 255</td> 
-  </tr> 
- </tbody> 
+      Field Attributes
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Acquisition Program Id</td>
+   <td>mkto71_Acquisition_Program_Id</td>
+   <td>Number</td>
+   <td>Length 18<br>Decimal Places 0 </td>
+  </tr>
+  <tr>
+   <td>Original Referrer</td>
+   <td>mkto71_Original_Referrer</td>
+   <td>Text</td>
+   <td>Length 255</td>
+  </tr>
+  <tr>
+   <td>Original Search Engine</td>
+   <td>mkto71_Original_Search_Engine</td>
+   <td>Text</td>
+   <td>Length 255</td>
+  </tr>
+  <tr>
+   <td>Original Search Phrase</td>
+   <td>mkto71_Original_Search_Phrase</td>
+   <td>Text</td>
+   <td>Length 255</td>
+  </tr>
+  <tr>
+   <td>Original Source Info</td>
+   <td>mkto71_Original_Source_Info</td>
+   <td>Text</td>
+   <td>Length 255</td>
+  </tr>
+  <tr>
+   <td>Original Source Type</td>
+   <td>mkto71_Original_Source_Type</td>
+   <td>Text</td>
+   <td>Length 255</td>
+  </tr>
+  <tr>
+   <td>Inferred City</td>
+   <td>mkto71_Inferred_City</td>
+   <td>Text</td>
+   <td>Length 255</td>
+  </tr>
+  <tr>
+   <td>Inferred Company</td>
+   <td>mkto71_Inferred_Company</td>
+   <td>Text</td>
+   <td>Length 255</td>
+  </tr>
+  <tr>
+   <td>Inferred Country</td>
+   <td>mkto71_Inferred_Country</td>
+   <td>Text</td>
+   <td>Length 255</td>
+  </tr>
+  <tr>
+   <td>Inferred Metropolitan Area</td>
+   <td>mkto71_Inferred_Metropolitan_Area</td>
+   <td>Text</td>
+   <td>Length 255</td>
+  </tr>
+  <tr>
+   <td>Inferred Phone Area Code</td>
+   <td>mkto71_Inferred_Phone_Area_Code</td>
+   <td>Text</td>
+   <td>Length 255</td>
+  </tr>
+  <tr>
+   <td>Inferred Postal Code</td>
+   <td>mkto71_Inferred_Postal_Code</td>
+   <td>Text</td>
+   <td>Length 255</td>
+  </tr>
+  <tr>
+   <td>Inferred State Region</td>
+   <td>mkto71_Inferred_State_Region</td>
+   <td>Text</td>
+   <td>Length 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -236,7 +236,7 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
 ## Map Custom Fields for Conversions {#map-custom-fields-for-conversions}
 
-A custom field on the lead object in [!DNL Salesforce] should be mapped to a contact field on the contact object so that data is carried over when a conversion occurs.  
+A custom field on the lead object in [!DNL Salesforce] should be mapped to a contact field on the contact object so that data is carried over when a conversion occurs.
 
 1. In the top right corner, click **[!UICONTROL Setup]**.
 

@@ -14,53 +14,53 @@ Permission to the objects mentioned below, apex classes, and visualforce pages i
 
 **Object Settings**
 
-<table> 
- <tbody> 
- <tr> 
-   <td>BestBetsCache</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Best Bets] View Details</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Best Bets] Views</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>EmailActivityCache</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>GetMethodArgus</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>GroupedWebActivityCache</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>InterestingMomentsCache</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Marketo Sales Insight] Config</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>ScoringCache</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>Values</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
-  <tr> 
-   <td>WebActivityCache</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+ <tr>
+   <td>BestBetsCache</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>[!DNL Best Bets] View Details</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>[!DNL Best Bets] Views</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>EmailActivityCache</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>GetMethodArgus</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>GroupedWebActivityCache</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>InterestingMomentsCache</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>[!DNL Marketo Sales Insight] Config</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>ScoringCache</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>Values</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+  <tr>
+   <td>WebActivityCache</td>
+   <td>Read, Create, Edit, Delete, View All, Modify All</td>
+  </tr>
+ </tbody>
 </table>
 
 * Apex Class Access: 159 Apex Classes that begin with “mkto_si”
@@ -105,7 +105,7 @@ Permission to the objects mentioned below, apex classes, and visualforce pages i
 
 1. Scroll down to the “[!UICONTROL Enabled Apex Class Access]” section. Click **[!UICONTROL Edit]**.
 
-1. From the “[!UICONTROL Enabled Apex Classes]” section, select all classes that begin with “mkto_si”. This should add up to 159 classes.  
+1. From the “[!UICONTROL Enabled Apex Classes]” section, select all classes that begin with “mkto_si”. This should add up to 159 classes.
 
 1. Click **[!UICONTROL Remove]**, then **[!UICONTROL Save]**.
 
@@ -113,7 +113,7 @@ Permission to the objects mentioned below, apex classes, and visualforce pages i
 
 1. Scroll down to “[!UICONTROL Enabled Visualforce Page Access]” section. Click **[!UICONTROL Edit]**.
 
-1. From the “[!UICONTROL Enabled Visualforce Pages]” section, select all pages that begin with “mkto_si”. This should add up to 64 pages.  
+1. From the “[!UICONTROL Enabled Visualforce Pages]” section, select all pages that begin with “mkto_si”. This should add up to 64 pages.
 
 1. Click **[!UICONTROL Remove]**, then **[!UICONTROL Save]**.
 
@@ -121,7 +121,7 @@ Permission to the objects mentioned below, apex classes, and visualforce pages i
 
 1. Scroll down to the “[!UICONTROL Enabled Custom Setting Definitions Access]” section. Click **[!UICONTROL Edit]**.
 
-1. Select "Marketo Sales Insight.mkto_si.Marketo Settings" and "Marketo Sales Insight.mkto_si.User Preferences."  
+1. Select "Marketo Sales Insight.mkto_si.Marketo Settings" and "Marketo Sales Insight.mkto_si.User Preferences."
 
 1. Click **[!UICONTROL Remove]**, then **[!UICONTROL Save]**.
 

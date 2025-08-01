@@ -6,7 +6,7 @@ exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
 ---
 # New Instance Best Practices: Design Studio Checklist {#new-instance-best-practices-design-studio-checklist}
 
-The Design Studio section is where the reusable 'global assets' should reside. Create the global assets that your organization plans to use in programs, use a consistent naming convention, and organize them in the subfolders for easy searches. 
+The Design Studio section is where the reusable 'global assets' should reside. Create the global assets that your organization plans to use in programs, use a consistent naming convention, and organize them in the subfolders for easy searches.
 
 Remember to [download the checklists](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) and track your progress.
 
@@ -117,8 +117,8 @@ Remember to [download the checklists](/help/marketo/getting-started/implementing
 <tbody>
   <tr>
     <td>Naming Conventions</td>
-    <td><li>Use consistent naming conventions for images and files.</li>  
-    <br>Examples:  
+    <td><li>Use consistent naming conventions for images and files.</li>
+    <br>Examples:
     <br><ul><li>File Naming Convention: Asset Type-Asset Name (Ex: White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board)</li>
     <p><li>Image Naming Convention: Image Type-Asset Type-Asset Name (Ex: Thumbnail-White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board)</li></td>
   </tr>

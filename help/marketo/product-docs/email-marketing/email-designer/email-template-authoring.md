@@ -79,7 +79,7 @@ You can import existing HTML content to design your email templates. The content
    >
    >Using a `<table>` tag as the first layer in an HTML file can cause style loss, including background and width settings in the top layer tag.
 
-You can now personalize your imported file as needed with the visual email editor. 
+You can now personalize your imported file as needed with the visual email editor.
 
 ### Choose a template {#choose-a-template}
 
@@ -346,7 +346,7 @@ There are two ways to delete an email template.
 
 >[!CAUTION]
 >
->Deleting an email template cannot be undone. 
+>Deleting an email template cannot be undone.
 
 * From the email template details on the right, click **More** and select **Delete**.
 

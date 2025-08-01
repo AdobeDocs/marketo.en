@@ -52,7 +52,7 @@ Marketo Engage customers that also use the Adobe Experience Platform (AEP) can m
 
 **[!DNL Sales Insight] for [!DNL Salesforce] CRM**
 
-* **New Type Column for [!UICONTROL Best Bets]**: Sellers will get quicker insights with a new column labeled “Type” to differentiate between leads and contacts on the [!UICONTROL Best Bets] page.  
+* **New Type Column for [!UICONTROL Best Bets]**: Sellers will get quicker insights with a new column labeled “Type” to differentiate between leads and contacts on the [!UICONTROL Best Bets] page.
 
 * **[!DNL Salesforce] Platform API Update**: In response to [!DNL Salesforce] retiring [!DNL Salesforce] Platform API versions 21.0 through 30.0, the [!DNL Sales Insight] package has been updated with the latest APIs.
 

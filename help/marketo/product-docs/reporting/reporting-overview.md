@@ -6,11 +6,11 @@ feature: Reporting
 ---
 # Reporting Overview {#reporting-overview}
 
-Marketo offers a variety of reporting modules for different needs. 
+Marketo offers a variety of reporting modules for different needs.
 
 ## Basic Reporting {#basic-reporting}
 
-You can set up [basic reports](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} within programs or in the Analytics area. Basic reports are comprised of different types of out-of-the-box reports with the flexibility to filter, sort, and adjust timespans. 
+You can set up [basic reports](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} within programs or in the Analytics area. Basic reports are comprised of different types of out-of-the-box reports with the flexibility to filter, sort, and adjust timespans.
 
 ## Email Insights {#email-insights}
 
@@ -44,13 +44,13 @@ Some Advanced BI Analytics Reporting benefits include:
 
 * Creating custom reports for trending slice and dice data
 
-* Visualization in graphical form, heat maps, and distribution curves 
+* Visualization in graphical form, heat maps, and distribution curves
 
 ## Advanced Journey Analytics {#advanced-journey-analytics}
 
 Revenue Cycle Models: model all the stages of your entire revenue funnel and how they transition between those stages, from when you first interact with a lead all the way until the lead is a won customer.
 
-Success Path Analyzer: Get a visual representation of velocity and flow through your Revenue Cycle Model. Success Path Analyzer requires you to create Revenue Cycle models.  
+Success Path Analyzer: Get a visual representation of velocity and flow through your Revenue Cycle Model. Success Path Analyzer requires you to create Revenue Cycle models.
 
 Program Analyzer: Quickly identify programs that are successful or not and focus your resources appropriately. Use the program analyzer to scrutinize and compare every cost and return in detail by program or by channel.
 

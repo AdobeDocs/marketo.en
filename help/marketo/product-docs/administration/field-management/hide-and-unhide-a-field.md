@@ -56,4 +56,3 @@ If you no longer have use for a field in Marketo Engage, you can hide it from th
    ![](assets/hide-and-unhide-a-field-8.png)
 
    Great work! Now you know how to unhide fields and make them visible again.
-

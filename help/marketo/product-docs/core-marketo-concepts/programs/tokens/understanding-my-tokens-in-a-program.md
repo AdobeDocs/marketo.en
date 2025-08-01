@@ -22,47 +22,47 @@ Examples:
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Token Type</th> 
-   <th>Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Calendar File <img alt="--" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Use this token to <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">add a calendar event file (.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> to your emails and landing pages.</td> 
-  </tr> 
-  <tr> 
-   <td><p>Date <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
-   <td>This token holds a date value. The date displays as year-month-day (e.g., 2016-05-23).</td> 
-  </tr> 
-  <tr> 
-   <td>Email Script <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Use this token to execute a Velocity script in your emails. Learn more <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Follow link" rel="nofollow">here</a>. </td> 
-  </tr> 
-  <tr> 
-   <td>Number<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
-   <td>Any integer. It can even be negative.</td> 
-  </tr> 
-  <tr> 
-   <td>Rich Text <img alt="--" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>This is HTML. Use it in emails and landing pages.</td> 
-  </tr> 
-  <tr> 
-   <td>Score <img alt="--" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Use this token in the <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">change score flow step</a>. </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">SFDC Campaign <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
-   <td colspan="1">Use this token to allow leads that become part of a Marketo Program to also be added to whatever SFDC Campaign is added.</td> 
-  </tr> 
-  <tr> 
-   <td>Text <img alt="--" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Just some text. Use it when HTML is overkill. The size limit for Text tokens is 524,288 characters (UTF-8), or 2 MB.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>Token Type</th>
+   <th>Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Calendar File <img alt="--" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>Use this token to <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">add a calendar event file (.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> to your emails and landing pages.</td>
+  </tr>
+  <tr>
+   <td><p>Date <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td>
+   <td>This token holds a date value. The date displays as year-month-day (e.g., 2016-05-23).</td>
+  </tr>
+  <tr>
+   <td>Email Script <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>Use this token to execute a Velocity script in your emails. Learn more <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Follow link" rel="nofollow">here</a>. </td>
+  </tr>
+  <tr>
+   <td>Number<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>
+   <td>Any integer. It can even be negative.</td>
+  </tr>
+  <tr>
+   <td>Rich Text <img alt="--" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>This is HTML. Use it in emails and landing pages.</td>
+  </tr>
+  <tr>
+   <td>Score <img alt="--" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>Use this token in the <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">change score flow step</a>. </td>
+  </tr>
+  <tr>
+   <td colspan="1">SFDC Campaign <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td>
+   <td colspan="1">Use this token to allow leads that become part of a Marketo Program to also be added to whatever SFDC Campaign is added.</td>
+  </tr>
+  <tr>
+   <td>Text <img alt="--" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>Just some text. Use it when HTML is overkill. The size limit for Text tokens is 524,288 characters (UTF-8), or 2 MB.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!CAUTION]

@@ -21,7 +21,7 @@ It's easy to add an email to a stream in an engagement program, and it works fin
 
 When using a nested program, the decision to send an email to a person is based on the program membership and program ID.
 
-* If you're not a member of a program, you will receive any emails that are part of the program once 
+* If you're not a member of a program, you will receive any emails that are part of the program once
 * If you're a member of the program, you won't receive the email
 * If you are no longer a member but received the email earlier through that program, you won't receive the email
 

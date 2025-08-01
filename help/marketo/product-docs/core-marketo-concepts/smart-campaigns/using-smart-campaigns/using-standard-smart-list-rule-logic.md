@@ -24,11 +24,11 @@ The above Smart List in words:
 ```box
 IF person fills out Great Form
 OR
-IF person visits Keith's Landing Page 
-AND 
-Industry is Energy 
-AND 
-Country is US 
+IF person visits Keith's Landing Page
+AND
+Industry is Energy
+AND
+Country is US
 THEN follow the campaign's flow step(s)
 ```
 

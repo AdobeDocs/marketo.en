@@ -10,48 +10,48 @@ This example program is for operational processes to track the acquisition of re
 
 ## Channel Summary {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Channel</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Channel</th>
    <th>Membership Status</th>
    <th>Analytics Behavior</th>
    <th>Program Type</th>
-  </tr> 
-  <tr> 
-   <td>Operational</td> 
+  </tr>
+  <tr>
+   <td>Operational</td>
    <td>01-Member</td>
    <td>Operational</td>
    <td>Default</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Program Contains the Following Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type</th>
    <th>Template Name</th>
    <th>Asset Name</th>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Set Acquisition - Batch</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Set Acquisition - Trigger</td>
   </tr>
-  <tr> 
-   <td>Folder</td> 
+  <tr>
+   <td>Folder</td>
    <td>&nbsp</td>
    <td>Campaigns (contains all Smart Campaigns)</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-acquisition-api-1.png)

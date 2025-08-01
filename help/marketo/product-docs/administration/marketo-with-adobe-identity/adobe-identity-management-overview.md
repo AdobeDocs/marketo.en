@@ -16,7 +16,7 @@ For subscriptions onboarded to Adobe identity, the Adobe Admin Console is used f
 
 * Find more information about the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html){target="_blank"}.
 * Find more information about [setting up your Adobe organization related to your Marketo subscription](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
- 
+
 >[!NOTE]
 >
 >If you want to implement Single Sign On and your subscription has been onboarded to Adobe Identity without SSO implemented in the Adobe Org, please submit a ticket to [Marketo Support](https://nation.marketo.com/){target="_blank"} and specify the topic as "Marketo on Admin Console, implementing SSO."

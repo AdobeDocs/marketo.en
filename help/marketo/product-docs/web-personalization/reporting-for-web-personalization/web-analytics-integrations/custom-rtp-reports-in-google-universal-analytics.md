@@ -58,41 +58,41 @@ This article explains how to setup RTP custom reports for Google Universal Analy
 
 1. In the **Dimension Drill downs** section set the relevant dimensions for each tab as below.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Tab Name 
-    </div></th> 
-   <th> 
+      Tab Name
+    </div></th>
+   <th>
     <div>
       Dimension Drill downs
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Industry</td> 
-   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Group</td> 
-   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Category</td> 
-   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>ABM</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Organizations</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Industry</td>
+   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Group</td>
+   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Category</td>
+   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>ABM</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Organizations</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Do not set any filters and set this report to be available for **[!UICONTROL All Web Site Data]** (or change if relevant to specific Analytics account).
@@ -131,86 +131,86 @@ This article explains how to setup RTP custom reports for Google Universal Analy
 
 1. In the **Dimension Drill downs** section set the relevant dimensions for each tab as below:
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Tab Name 
-    </div></th> 
-   <th> 
+      Tab Name
+    </div></th>
+   <th>
     <div>
-      Dimension Drill downs 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>All Engagement</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Engagement by ABM</td> 
-   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Engagement by Category</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Engagement by Group</td> 
-   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Engagement by Industry</td> 
-   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+      Dimension Drill downs
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>All Engagement</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Engagement by ABM</td>
+   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Engagement by Category</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Engagement by Group</td>
+   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Engagement by Industry</td>
+   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Set the following filters:
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Inc/Exc 
-    </div></th> 
-   <th> 
+      Inc/Exc
+    </div></th>
+   <th>
     <div>
-      Field 
-    </div></th> 
-   <th> 
+      Field
+    </div></th>
+   <th>
     <div>
-      Match type 
-    </div></th> 
-   <th> 
+      Match type
+    </div></th>
+   <th>
     <div>
-      Values 
-    </div></th> 
-   <th colspan="1"> 
+      Values
+    </div></th>
+   <th colspan="1">
     <div>
-      Comments 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td><p>Include</p></td> 
-   <td><p><span class="uicontrol">Event Category</span></p></td> 
-   <td>Regex</td> 
-   <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td> 
-   <td colspan="1">Will filter all other custom events that are not related to RTP</td> 
-  </tr> 
-  <tr> 
-   <td>Exclude</td> 
-   <td><span class="uicontrol">Event Label</span></td> 
-   <td>Regex</td> 
-   <td>#</td> 
-   <td colspan="1">Allows you to filter from your reports campaign using # in the campaign name</td> 
-  </tr> 
- </tbody> 
+      Comments
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><p>Include</p></td>
+   <td><p><span class="uicontrol">Event Category</span></p></td>
+   <td>Regex</td>
+   <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td>
+   <td colspan="1">Will filter all other custom events that are not related to RTP</td>
+  </tr>
+  <tr>
+   <td>Exclude</td>
+   <td><span class="uicontrol">Event Label</span></td>
+   <td>Regex</td>
+   <td>#</td>
+   <td colspan="1">Allows you to filter from your reports campaign using # in the campaign name</td>
+  </tr>
+ </tbody>
 </table>
 
 1. Set this report to be available for **[!UICONTROL All Web Site Data]** (or change if necessary).

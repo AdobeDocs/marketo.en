@@ -7,8 +7,8 @@ feature: Marketo Sales Connect
 ---
 # Understanding Send Options {#understanding-send-options}
 
-When you are creating a Campaign, you have several options on how your email steps get created in [!DNL Sales Connect]. And, depending on where your email falls in your Campaign, your options also differ.  
-  
+When you are creating a Campaign, you have several options on how your email steps get created in [!DNL Sales Connect]. And, depending on where your email falls in your Campaign, your options also differ.
+
 If it's your first step and the first day in your Campaign, you will have the following options:
 
 ![](assets/image2019-10-25-10-43-19.png)
@@ -57,4 +57,4 @@ For any subsequent days/steps in your Campaign, you will have the following opti
 **Thread this email to the previous email**
 
 * This send option will be a 'follow up' to your previous email and will append the previous email body to the bottom of this email.
- 
+

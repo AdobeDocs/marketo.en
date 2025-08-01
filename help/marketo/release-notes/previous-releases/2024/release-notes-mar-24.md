@@ -16,41 +16,41 @@ Below you'll find all the features included in the March '24 release. Check your
 
 The following features fall under the standard release cycle and will start to be released on **March 8, 2024**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">Feature</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">Feature</th>
    <th style="width:10%">Status</th>
    <th style="width:25%">Documention</th>
   </tr>
-  <tr> 
-   <td><strong>Advanced Conversational Flow Logic</strong>: Add additional fields for evaluation in a single choice for Conversational Flow follow-up.</td> 
+  <tr>
+   <td><strong>Advanced Conversational Flow Logic</strong>: Add additional fields for evaluation in a single choice for Conversational Flow follow-up.</td>
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Conversational Flow Settings for Marketo Engage Forms</a></td>
   </tr>
-   <tr> 
-   <td>&nbsp;</td> 
+   <tr>
+   <td>&nbsp;</td>
    <td>&nbsp;</td>
    <td>&nbsp;</td>
   </tr>
    </tr>
-    <tr> 
-   <td><strong>Reorder Conversational Flow Logic</strong>: In Marketo Engage Forms, you can now reorder the Conversational Flow choices, instead of having to delete and add back.</td> 
+    <tr>
+   <td><strong>Reorder Conversational Flow Logic</strong>: In Marketo Engage Forms, you can now reorder the Conversational Flow choices, instead of having to delete and add back.</td>
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Conversational Flow Settings for Marketo Engage Forms</a></td>
    </tr>
-  <tr> 
-   <td>&nbsp;</td> 
+  <tr>
+   <td>&nbsp;</td>
    <td>&nbsp;</td>
    <td>&nbsp;</td>
   </tr>
-    <tr> 
-   <td><strong>API Activity Metadata</strong>: 
-   Metadata such as User Agent, Platform, and Device are now included in web and email activities, helping to provide consistent insights into these activities via the Marketo REST API.</td> 
+    <tr>
+   <td><strong>API Activity Metadata</strong>:
+   Metadata such as User Agent, Platform, and Device are now included in web and email activities, helping to provide consistent insights into these activities via the Marketo REST API.</td>
    <td>Shipped</td>
    <td>n/a</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 

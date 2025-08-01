@@ -19,14 +19,14 @@ The following features fall under the standard release cycle and will start to b
 
 </br>
 
-* **Adobe Experience Cloud Interface**: Aligns Marketo Engage with Experience Cloud to create a consistent navigation experience across multiple Experience Cloud solutions in a single user session.  
+* **Adobe Experience Cloud Interface**: Aligns Marketo Engage with Experience Cloud to create a consistent navigation experience across multiple Experience Cloud solutions in a single user session.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud Interface Overview</a></td>
   </tr>
@@ -35,12 +35,12 @@ The following features fall under the standard release cycle and will start to b
 
 * **Marketo Engage Help Center**: The Help Center provides Marketo Engage users with a central location to find help resources from within the product. Additionally, the Help Center gives users the ability to activate in-product guides that explain how to leverage key features.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Shipped</td>
    <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Help Center</a></td>
   </tr>
@@ -61,12 +61,12 @@ Interactive Webinars augment the existing Events and Webinars experience by prov
 
 Interactive Webinars will be rolled out gradually. To request earlier access, please fill out [this form](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Rollout started</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Interactive Webinars Overview</a></td>
   </tr>

@@ -43,7 +43,7 @@ Make Marketo Engage Forms conversational by integrating them with Dynamic Chat C
    **OPTIONAL STEP**: You can click **[!UICONTROL Add Choice]** to target chat visitors that meet a specific criteria. You can add up to nine choices for a total of ten.
 
    ![](assets/conversational-flow-settings-7.png)
-   
+
    >[!NOTE]
    >
    >The visitor's browser must be cookie'd as a known person prior to form submission in order to qualify for member of Static/Smart List.

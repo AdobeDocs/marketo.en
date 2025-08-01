@@ -81,7 +81,7 @@ You might have noticed that the [person detail page](/help/marketo/product-docs/
 
 ## Possible Values for Original and Registration Source Type {#possible-values-for-original-and-registration-source-type}
 
-Below are some possible values and what they mean. 
+Below are some possible values and what they mean.
 
 <table><thead>
   <tr>

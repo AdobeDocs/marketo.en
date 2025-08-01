@@ -77,7 +77,7 @@ The Content tab lets you view the uploaded files, their type, size, last accesse
   </tr>
 </tbody>
 </table>
- 
+
    ![](assets/room-management-4.png)
 
 You can perform the following actions in the Content tab:
@@ -110,7 +110,7 @@ Recordings are invaluable resources, capturing the essence of live discussions, 
 
 Click the **[!UICONTROL Recordings]** tab to see a list of all the recordings you've uploaded.
 
-Under **[!UICONTROL My recordings]**, you can find all the recordings available in the room you created. You can also view their respective size, date and time, and duration of recordings. 
+Under **[!UICONTROL My recordings]**, you can find all the recordings available in the room you created. You can also view their respective size, date and time, and duration of recordings.
 
    ![](assets/room-management-6.png)
 

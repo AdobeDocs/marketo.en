@@ -5,7 +5,7 @@ exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
 ---
 # Using Bulk Send Sales Email in Salesforce {#using-bulk-send-sales-email-in-salesforce}
 
-Learn how to send bulk emails in Salesforce to help scale your outbound communication using Sales Actions. 
+Learn how to send bulk emails in Salesforce to help scale your outbound communication using Sales Actions.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Learn how to send bulk emails in Salesforce to help scale your outbound communic
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-1.png)
 
-1. In the View drop-down, select the desired view of Leads/Contacts you want to email. 
+1. In the View drop-down, select the desired view of Leads/Contacts you want to email.
 
    >[!TIP]
    >
@@ -30,7 +30,7 @@ Learn how to send bulk emails in Salesforce to help scale your outbound communic
 1. Choose the desired lead or contact list and click the **Send Sales Email** button.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-2.png)
- 
+
 1. You'll be navigated to the Actions compose window, with the people you selected added.
 
 1. Select the template you want to insert into the Actions compose window editor or write a custom email.
@@ -48,7 +48,7 @@ Learn how to send bulk emails in Salesforce to help scale your outbound communic
 1. Select **Send** to send the email immediately, or **Set Schedule** to set a date and time for the email to be sent.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-3.png)
- 
+
 ## Sending Bulk Email in Salesforce Classic {#sending-bulk-email-in-salesforce-classic}
 
 1. In Salesforce, click the **Leads/Contacts** tab.
@@ -64,7 +64,7 @@ Learn how to send bulk emails in Salesforce to help scale your outbound communic
 1. Choose the desired leads or contacts list and click the **Send Sales Email** button.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-5.png)
- 
+
 1. You'll be navigated to the Actions compose window with the recipients you selected in the compose window.
 
 1. Select the template you want to insert into the Actions compose window editor, or write a custom email.
@@ -74,7 +74,7 @@ Learn how to send bulk emails in Salesforce to help scale your outbound communic
    >[!TIP]
    >
    >Use [Pinned Categories](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} to provide easier access to your favorite email templates.
- 
+
    **OPTIONAL STEP**: Preview any Dynamic Fields personalization by clicking the **Preview Dynamic Fields** button.
 
    >[!TIP]

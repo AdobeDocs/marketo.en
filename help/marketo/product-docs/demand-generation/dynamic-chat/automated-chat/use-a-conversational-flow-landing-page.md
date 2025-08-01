@@ -29,7 +29,7 @@ SCREENSHOT
 
 >[!NOTE]
 >
->At this time, the Conversational Flow will not appear in the main preview window. 
+>At this time, the Conversational Flow will not appear in the main preview window.
 
 ## Free-form Landing Pages {#free-form-landing-pages}
 
@@ -41,4 +41,3 @@ NOTES FROM STEVE MEETING
 guided lp, new div id for template, choose conv flow
 
 freeform lp, bring over icon - caveat: add note--when you put cf on the editor, it doesn't show you a preview (no placeholder either) - "you won't see a preview" - on the sidebar they will see that the cf is on the page - guided lp lists it as an element - use "at this time" when explaining - feature goes live maybe week of 22nd
-

@@ -56,41 +56,41 @@ See your top people (ordered from highest to lowest) ranked by lead score. The l
 
 ## Icon Glossary {#icon-glossary}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td> 
-    <div> 
-     <p><img alt="--" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td><p>Someone viewed your email</p></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td><p>Someone clicked a link in your email</p></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td><p>Someone replied to your email</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"> 
-    <div> 
-     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td colspan="1">Any notification listed under Interesting Moments, including Email, Web, and Milestones</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>
+    <div>
+     <p><img alt="--" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td><p>Someone viewed your email</p></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td><p>Someone clicked a link in your email</p></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td><p>Someone replied to your email</p></td>
+  </tr>
+  <tr>
+   <td colspan="1">
+    <div>
+     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td colspan="1">Any notification listed under Interesting Moments, including Email, Web, and Milestones</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

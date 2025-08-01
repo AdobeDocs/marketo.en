@@ -28,15 +28,15 @@ Your marketing team should have sent you two requests for new CNAME records. The
 Add the landing page CNAME they sent you to your DNS record, so that `[YourLandingPageCNAME]` points to the unique Account String that is assigned to your Marketo Engage Landing Pages. Log in to your domain registrar's site and enter the landing page CNAME and Account String. Typically, this involves three fields:
 
 * Alias: Enter `[YourLandingPageCNAME]` (provided by marketing)
-* Type: CNAME  
+* Type: CNAME
 * Point to: Enter `[MunchkinID].mktoweb.com` (provided by marketing)
 
 `2` **Add CNAME for Email Tracking Links**
 
-Add the email CNAME marketing sent you, so that `[YourEmailCNAME]` points to [MktoTrackingLink], the default tracking link that Marketo Engage assigned, in the format:  
+Add the email CNAME marketing sent you, so that `[YourEmailCNAME]` points to [MktoTrackingLink], the default tracking link that Marketo Engage assigned, in the format:
 `[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
 
-For example:  
+For example:
 
 `pages.abc.com IN CNAME mkto-a0244.com`
 
@@ -86,10 +86,10 @@ Your marketing team should have also sent you DKIM (Domain Keys Identified Mail)
 
 1. To set up SPF, add the following line to our DNS entries:
 
-   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`  
+   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`
    include: mktomail.com ~all
-  
-   If we already have an existing SPF record in our DNS entry, simply add the following to it:  
+
+   If we already have an existing SPF record in our DNS entry, simply add the following to it:
    include: mktomail.com
 
    Replace CompanyDomain with the main domain of your website (ex: "`(company.com/)`") and CorpIP with the IP address of your corporate email server (ex. "255.255.255.255"). If you are going to be sending email from multiple domains through Marketo Engage, you should have your IT staff add this line for each domain (on one line).
@@ -186,9 +186,9 @@ DMARC records have multiple components called DMARC tags. Each tag has a value t
     <td>fo</td>
     <td>Optional</td>
     <td>Allows the domain owner to specify reporting options.</td>
-    <td>0: Generate report if everything fails 
-    <br>1: Generate report if anything fails 
-    <br>d: Generate report if DKIM fails 
+    <td>0: Generate report if everything fails
+    <br>1: Generate report if anything fails
+    <br>d: Generate report if DKIM fails
     <br>s: Generate report if SPF fails</td>
     <td>1 (recommended for DMARC reports)</td>
   </tr>
@@ -248,7 +248,7 @@ There are two types of alignment for DMARC&mdash;DKIM alignment and SPF alignmen
 >It's recommended to do DMARC alignment on DKIM vs SPF for Marketo Engage.
 
 * DKIM-aligned DMARC&mdash;To set up DKIM aligned DMARC you must:
-   
+
    * Set up DKIM for the FROM: Domain of your message. Use the instructions [in this article](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * Configure DMARC for the FROM:/DKIM Domain that was configured earlier
 

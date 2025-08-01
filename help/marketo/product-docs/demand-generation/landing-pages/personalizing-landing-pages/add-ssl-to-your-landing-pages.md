@@ -53,7 +53,7 @@ Follow the steps below to enable SSL for your default domain.
 
 >[!NOTE]
 >
->* The SSL Certificate column in the listing shows certificate status for all the domain alias created after this feature was released (April 25, 2025). If you had the SSL enabled for a domain through Marketo Support, the certificate will continue to exist, but won't show in the table. This table only reflects SSL certificates for domains added using the steps in this article. 
+>* The SSL Certificate column in the listing shows certificate status for all the domain alias created after this feature was released (April 25, 2025). If you had the SSL enabled for a domain through Marketo Support, the certificate will continue to exist, but won't show in the table. This table only reflects SSL certificates for domains added using the steps in this article.
 >
 >* It can take up to three minutes for the SSL to be in READY state. You must refresh the page for the changes to appear.
 

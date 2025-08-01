@@ -21,7 +21,7 @@ To see your email performance stats grouped by [smart campaign](/help/marketo/pr
    >
    >Click the name of an email to open it in the Email Previewer.
 
-   [Columns that you can select](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for a Campaign Email Performance report include:  
+   [Columns that you can select](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for a Campaign Email Performance report include:
 
    | Column |Description |
    |---|---|

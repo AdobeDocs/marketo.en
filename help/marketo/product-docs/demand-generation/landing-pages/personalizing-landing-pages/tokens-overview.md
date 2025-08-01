@@ -48,7 +48,7 @@ In this example, the email will say "Greetings, (first name)" or "Greetings, ear
 * `{{lead.Fax Number}}`
 * `{{lead.First Name}}`
 * `{{lead.Full Name}}`
-* `{{lead.Id}}` 
+* `{{lead.Id}}`
 * `{{lead.Inferred City}}`
 * `{{lead.Inferred Company}}`
 * `{{lead.Inferred Country}}`
@@ -129,16 +129,16 @@ In this example, the email will say "Greetings, (first name)" or "Greetings, ear
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
-* `{{trigger.Link}}` 
-* `{{trigger.Subject}}` 
-* `{{trigger.Category}}` 
+* `{{trigger.Link}}`
+* `{{trigger.Subject}}`
+* `{{trigger.Category}}`
 * `{{trigger.Details}}`
-* `{{trigger.Web Page}}` 
+* `{{trigger.Web Page}}`
 * `{{trigger.Client IP Address}}`
 * `{{trigger.Sent By}}`
 * `{{trigger.Received By}}`
 * `{{trigger.Referrer}}`
-* `{{trigger.Search Engine}}` 
+* `{{trigger.Search Engine}}`
 * `{{trigger.Search Query}}`
 
 >[!NOTE]

@@ -20,30 +20,30 @@ Web Personalization currently appends data to the following remarketing platform
 
 [!DNL Web Personalization] sends the following data through to the remarketing platforms to create audiences and run remarketing ad campaigns:
 
-<table> 
- <tbody> 
-  <tr> 
-   <th colspan="1">[!DNL Web Personalization] Data</th> 
-  </tr> 
-  <tr> 
-   <th><p>Industry</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Group (Enterprise, SMB)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Category (Fortune 500/1000, Global 2000)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>ABM List (Named Account Lists)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Segmented Audience (Based on Segments)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Web Campaigns Clicked</p></th> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th colspan="1">[!DNL Web Personalization] Data</th>
+  </tr>
+  <tr>
+   <th><p>Industry</p></th>
+  </tr>
+  <tr>
+   <th><p>Group (Enterprise, SMB)</p></th>
+  </tr>
+  <tr>
+   <th><p>Category (Fortune 500/1000, Global 2000)</p></th>
+  </tr>
+  <tr>
+   <th><p>ABM List (Named Account Lists)</p></th>
+  </tr>
+  <tr>
+   <th><p>Segmented Audience (Based on Segments)</p></th>
+  </tr>
+  <tr>
+   <th><p>Web Campaigns Clicked</p></th>
+  </tr>
+ </tbody>
 </table>
 
 ## Remarketing Configuration {#remarketing-configuration}

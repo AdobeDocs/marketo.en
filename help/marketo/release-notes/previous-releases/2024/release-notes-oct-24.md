@@ -18,69 +18,69 @@ The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/
 
 The following features fall under the standard release cycle and will start to be released on **October 4, 2024**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">Feature</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">Feature</th>
    <th style="width:10%">Status</th>
    <th style="width:25%">Documention</th>
   </tr>
-    <tr> 
-   <td><strong>Tokenization for Interactive Webinars</strong>: You're now able to use tokens to promote Interactive Webinars in emails and Landing Pages without having to manually add the webinar details.</td> 
+    <tr>
+   <td><strong>Tokenization for Interactive Webinars</strong>: You're now able to use tokens to promote Interactive Webinars in emails and Landing Pages without having to manually add the webinar details.</td>
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Promoting an Interactive Webinar</a></td>
   </tr>
-  <tr> 
-   <td>&nbsp;</td> 
+  <tr>
+   <td>&nbsp;</td>
    <td>&nbsp;</td>
    <td>&nbsp;</td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>Smart List "Set to Affect" Count</strong>: See how many people will be affected when editing the qualification rules of a Smart Campaign.</td> 
+   <tr>
+   <td><strong>Smart List "Set to Affect" Count</strong>: See how many people will be affected when editing the qualification rules of a Smart Campaign.</td>
    <td>Shipped</td>
    <td>n/a</td>
   </tr>
-  <tr> 
-   <td>&nbsp;</td> 
+  <tr>
+   <td>&nbsp;</td>
    <td>&nbsp;</td>
    <td>&nbsp;</td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>My Account button in navigation rail</strong>: For those who have migrated to Adobe Identity Management System, a new "My Account" button in the left navigation rail allows configuring your time zone and accessing subscription details.</td> 
+   <tr>
+   <td><strong>My Account button in navigation rail</strong>: For those who have migrated to Adobe Identity Management System, a new "My Account" button in the left navigation rail allows configuring your time zone and accessing subscription details.</td>
    <td>Shipped</td>
    <td>n/a</td>
   </tr>
-  <tr> 
-   <td>&nbsp;</td> 
+  <tr>
+   <td>&nbsp;</td>
    <td>&nbsp;</td>
    <td>&nbsp;</td>
   </tr>
-   <tr> 
+   <tr>
    <td><strong>Email Performance Report Enhancements</strong>: Multiple improvements have been made to email reporting metrics and activity tracking, offering additional insights and improving accuracy.
    <ul>
    <li>Filter deleted and merged people from email performance metrics</li>
    <li>Emails now classified as <i>aborted</i> after waiting three days for response activity</li>
    <li>Email opens count as unique open separately for each Smart Campaign</li>
-   </td> 
+   </td>
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Email Performance Report</a></td>
   </tr>
-  <tr> 
-   <td>&nbsp;</td> 
+  <tr>
+   <td>&nbsp;</td>
    <td>&nbsp;</td>
    <td>&nbsp;</td>
   </tr>
-   <tr> 
+   <tr>
    <td><strong>Salesforce Sync Backlog Metrics</strong>: Monitor sync throughput and backlog trends in order to plan and schedule CRM updates for an optimum sync experience.
-   </td> 
+   </td>
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce Sync Backlog Metrics</a></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
-<br/> 
+<br/>
 
 ## Announcements {#announcements}
 

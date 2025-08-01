@@ -36,7 +36,7 @@ To add content components to your email and adjust them to your needs, follow th
 
    SCREENSHOT
 
-1. From the advanced menu of your **[!UICONTROL Content component]**, you can easily delete or duplicate any content components as needed. 
+1. From the advanced menu of your **[!UICONTROL Content component]**, you can easily delete or duplicate any content components as needed.
 
    SCREENSHOT
 
@@ -91,10 +91,10 @@ Use the **[!UICONTROL Text]** component to insert text into your email, and adju
     * **[!UICONTROL Create list]**: add bullet or number list to your text.
     * **[!UICONTROL Set heading]**: add up to six heading levels to your text.
     * **Font size**: select the font size of your text in pixels.
-    * **[!UICONTROL Change font color]**: choose the color of your font.  
-    * **[!UICONTROL Insert link]**: add any type of link to your content. 
+    * **[!UICONTROL Change font color]**: choose the color of your font.
+    * **[!UICONTROL Insert link]**: add any type of link to your content.
     * **[!UICONTROL Edit image]**: add an image or an asset to your text component. `[Learn more about asset management](../integrations/assets.md)`
-    * **[!UICONTROL Change font color]**: choose the color of your font.  
+    * **[!UICONTROL Change font color]**: choose the color of your font.
     * **[!UICONTROL Add personalization]**: add personalization fields to customize the content from your profiles data. `[Learn more about content personalization](../personalization/personalize.md)`
     * **[!UICONTROL Show the source code]**: display the source code of your text. It cannot be modified.
     * **[!UICONTROL Enable conditional content]**: add conditional content to adapt the content of the component to the targeted profiles. `[Learn more about dynamic content](../personalization/get-started-dynamic-content.md)`
@@ -203,4 +203,3 @@ Learn how to add personalized offers into an email in `[this section](add-offers
 >[!IMPORTANT]
 >
 >If changes are made to an offer decision which is being used in a journey's message, you need to unpublish the journey and republish it.  This will ensure that the changes are incorporated into the journey's message and that the message is consistent with the latest updates.
-

@@ -28,4 +28,3 @@ Fallback pages are the last line of defense if your landing page is offline or n
 1. Enter a **[!UICONTROL Fallback page]** in the dialog box and click **[!UICONTROL Save]**.
 
    ![](assets/set-a-fallback-page-4.png)
-

@@ -10,7 +10,7 @@ exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
 ---
 # Email Designer/Email Editor Feature Comparison {#feature-comparison}
 
-Use the table below to compare the availability of features in our previous email editor (Email Editor 2.0) and our new Email Designer. 
+Use the table below to compare the availability of features in our previous email editor (Email Editor 2.0) and our new Email Designer.
 
 Please check this page (as well as the [current release notes](/help/marketo/release-notes/current.md){target="_blank"}) for updates.
 
@@ -299,4 +299,4 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Not Available</td>
   </tr>
 </tbody></table>
- 
+

@@ -41,15 +41,15 @@ Connecting to [!DNL Outlook] means you'll receive reply tracking, access to the 
 
    ![](assets/six-a.png)
 
-      <table> 
+      <table>
     <tbody>
      <tr>
-      <td><strong>[!DNL Outlook Online]</strong></td> 
-      <td>Also known as [!DNL Exchange Online]</td> 
+      <td><strong>[!DNL Outlook Online]</strong></td>
+      <td>Also known as [!DNL Exchange Online]</td>
      </tr>
      <tr>
-      <td><strong>[!DNL Exchange On-premise]</strong></td> 
-      <td>Includes [!DNL Exchange] 2013 and 2016</td> 
+      <td><strong>[!DNL Exchange On-premise]</strong></td>
+      <td>Includes [!DNL Exchange] 2013 and 2016</td>
      </tr>
     </tbody>
    </table>
@@ -104,15 +104,15 @@ Connecting to [!DNL Exchange On-Premise] means you'll receive reply tracking, ac
 
    ![](assets/six-b.png)
 
-      <table> 
+      <table>
     <tbody>
      <tr>
-      <td><strong>[!DNL Outlook Online]</strong></td> 
-      <td>Also known as [!DNL Exchange Online]</td> 
+      <td><strong>[!DNL Outlook Online]</strong></td>
+      <td>Also known as [!DNL Exchange Online]</td>
      </tr>
      <tr>
-      <td><strong>[!DNL Exchange On-premise]</strong></td> 
-      <td>Includes [!DNL Exchange] 2013 and 2016</td> 
+      <td><strong>[!DNL Exchange On-premise]</strong></td>
+      <td>Includes [!DNL Exchange] 2013 and 2016</td>
      </tr>
     </tbody>
    </table>

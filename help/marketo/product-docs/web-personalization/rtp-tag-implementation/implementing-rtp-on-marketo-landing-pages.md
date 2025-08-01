@@ -19,11 +19,11 @@ To implement your [!UICONTROL RTP tag] please follow the installation instructio
 
 1. In your RTP account, go to **[!UICONTROL Account Settings]**.
 
-   a. If you have already received your JavaScript tag from Support - continue to step 5.  
+   a. If you have already received your JavaScript tag from Support - continue to step 5.
 
    ![](assets/image2014-11-30-15-3a19-3a21-2.png)
 
-1. Under [!UICONTROL Domain], locate the relevant domain and click **[!UICONTROL Generate Tag]**.  
+1. Under [!UICONTROL Domain], locate the relevant domain and click **[!UICONTROL Generate Tag]**.
 
    ![](assets/image2015-4-26-18-3a27-3a35.png)
 
@@ -33,7 +33,7 @@ To implement your [!UICONTROL RTP tag] please follow the installation instructio
 
 1. Click **[!UICONTROL Save]** and **[!UICONTROL Close]** the window.
 
-1. Back in the **[!UICONTROL Design Studio]**, approve the landing page from **[!UICONTROL Template Actions]**, click **[!UICONTROL Approve]**.  
+1. Back in the **[!UICONTROL Design Studio]**, approve the landing page from **[!UICONTROL Template Actions]**, click **[!UICONTROL Approve]**.
 
    ![](assets/image2015-4-26-18-3a28-3a30.png)
 

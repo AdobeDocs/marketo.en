@@ -24,25 +24,25 @@ Follow the steps below to learn how to grant the mecessary consent/permissions.
    state value can be any ID (e.g.,12345)
    ```
 
-   <table> 
-    <colgroup> 
-     <col> 
-     <col> 
-    </colgroup> 
-    <tbody> 
-     <tr> 
-      <td><strong>client_id value</strong></td> 
-      <td>should be the client_id generated in App Registration process</td> 
-     </tr> 
-     <tr> 
-      <td><strong>redirect_uri value</strong></td> 
-      <td>should be same as value entered at the time of App registration > Redirect URIs</td> 
-     </tr> 
-     <tr> 
-      <td><strong>state value</strong></td> 
-      <td>can be any ID (e.g.,12345)</td> 
-     </tr> 
-    </tbody> 
+   <table>
+    <colgroup>
+     <col>
+     <col>
+    </colgroup>
+    <tbody>
+     <tr>
+      <td><strong>client_id value</strong></td>
+      <td>should be the client_id generated in App Registration process</td>
+     </tr>
+     <tr>
+      <td><strong>redirect_uri value</strong></td>
+      <td>should be same as value entered at the time of App registration > Redirect URIs</td>
+     </tr>
+     <tr>
+      <td><strong>state value</strong></td>
+      <td>can be any ID (e.g.,12345)</td>
+     </tr>
+    </tbody>
    </table>
 
    The final URL should look something like this: `https://login.microsoftonline.com/common/oauth2/authorize?client_id=xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&response_type=code&redirect_uri=https://www.marketo.com&response_mode=query&state=12345`

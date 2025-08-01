@@ -19,7 +19,7 @@ The Opportunity Influence Analyzer lets you see the whole story. It's even avail
 >
 >Analyzer data is updated nightly, not in real time.
 
-Use the controls on the right to add/remove people from the chart or switch to different accounts or opportunities.  
+Use the controls on the right to add/remove people from the chart or switch to different accounts or opportunities.
 
 ## Identifying Unique Accounts {#identifying-unique-accounts}
 

@@ -17,7 +17,7 @@ Sometimes you need to make changes in a Workspace. It's easy.
 >
 >Brush up on workspaces with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
-1. Go to the **[!UICONTROL Admin]** area. 
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/edit-a-workspace-1.png)
 

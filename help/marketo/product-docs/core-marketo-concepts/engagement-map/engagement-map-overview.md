@@ -57,7 +57,7 @@ The top nav includes the following features:
 
 * Export - This will download an image of the campaign visualization. The version downloaded will reflect any branches that you have expanded
 
-* View Campaign Members - This will open a new tab with Campaign Member details.  
+* View Campaign Members - This will open a new tab with Campaign Member details.
 
 >[!NOTE]
 >
@@ -83,7 +83,7 @@ No. Engagement Map will be available for all users in their instances. You will 
 
 **How is this different from other visual builders?**
 
-There are three key things that set Engagement Map apart: 
+There are three key things that set Engagement Map apart:
 
 * Flexibility: Easily manage and validate interconnected or deeply nested campaigns with visualization.
 

@@ -15,7 +15,7 @@ It's quick and easy to send samples of an email. To send a dynamic content email
 
 ## Send a Sample Email {#send-a-sample-email-1}
 
-1. Find and select your email. Click the **[!UICONTROL Email Actions]** drop-down and select **[!UICONTROL Send Sample]**.  
+1. Find and select your email. Click the **[!UICONTROL Email Actions]** drop-down and select **[!UICONTROL Send Sample]**.
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]

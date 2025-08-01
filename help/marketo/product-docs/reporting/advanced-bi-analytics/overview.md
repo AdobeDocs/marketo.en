@@ -60,7 +60,7 @@ When exporting a complete report, your export options are PDF and PPT. If you ne
 
 >[!TAB From the Reports page]
 
-1. On the Reports page, click the 'more' icon (...) of the desired report and select **Export**. 
+1. On the Reports page, click the 'more' icon (...) of the desired report and select **Export**.
 
    ![](assets/export-a-report-1a.png)
 
@@ -70,7 +70,7 @@ When exporting a complete report, your export options are PDF and PPT. If you ne
 
 >[!TAB Within the report]
 
-1. Within the report itself, click the 'more' icon (**...**) on the upper-right and select **Export**. 
+1. Within the report itself, click the 'more' icon (**...**) on the upper-right and select **Export**.
 
    ![](assets/export-a-report-1b.png)
 
@@ -84,15 +84,15 @@ When exporting a complete report, your export options are PDF and PPT. If you ne
 
 Learn how to export specifc sections of your report.
 
-1. Choose the desired report. 
+1. Choose the desired report.
 
    ![](assets/export-a-visualization-1.png){width="600" zoomable="yes"}
 
-1. Hover over the displayed visualization to reveal three icons. 
+1. Hover over the displayed visualization to reveal three icons.
 
    ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
 
-1. Click the 'more' icon (**...**) 
+1. Click the 'more' icon (**...**)
 
    ![](assets/export-a-visualization-3.png)
 
@@ -100,7 +100,7 @@ Learn how to export specifc sections of your report.
 
    ![](assets/export-a-visualization-4.png)
 
-1. Choose your desired data format. 
+1. Choose your desired data format.
 
    ![](assets/export-a-visualization-5.png)
 
@@ -239,7 +239,7 @@ The following standard reports are included as examples for your custom reports.
    >Replication of custom reports will be carried out in groups. Once your custom reports are replicated to the new experience, to ensure consistency between the two experiences, any changes made in the classic experience will also need to be manually applied to the corresponding reports in the new experience. An information note on the above will light up in the classic experience upon the replication of your customer reports.
 
    * Dashboards in the classic experience are not transferable and will require recreation in the new experience. They should be recreated as reports in the new experience and the filters in the new experience automatically pulls possible values rather than requiring you to manually enter all possible values individually in the classic experience.
-      
+
       >[!NOTE]
       >
       >The dashboard in the new experience is simply a collection of reports on a single page. The primary value of dashboard in the new experience is to allow you to present analytical insights across different reporting areas.
@@ -262,7 +262,7 @@ The following standard reports are included as examples for your custom reports.
 
 * There is a limitation of 1 million rows per query on any given visualization. If your query exceeds that, you will receieve the following error: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. To fix this, reduce your date range, and/or adjust the filters in your report to reduce the number of rows in your query result.
 
-## Learning the new experience {#learning-the-new-experience} 
+## Learning the new experience {#learning-the-new-experience}
 
 The new visualization experience is delivered via embedded Power BI service.
 

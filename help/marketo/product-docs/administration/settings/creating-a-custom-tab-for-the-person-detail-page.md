@@ -9,7 +9,7 @@ feature: Administration
 
 If you find yourself looking for a specific set of fields in the person detail over and over again, consider creating a custom layout to make things easier.
 
-1. Go to the **[!UICONTROL Admin]** area. 
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 

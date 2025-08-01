@@ -34,27 +34,27 @@ You're taken directly to the desired email.
 
    ![](assets/using-the-global-search-6.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>Name of the item/destination</td> 
+   <td>1</td>
+   <td>Name of the item/destination</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>Path (breadcrumbs) to the respective item/destination</td> 
+   <td>2</td>
+   <td>Path (breadcrumbs) to the respective item/destination</td>
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Date and time the item/destination was last modified</td> 
+   <td>3</td>
+   <td>Date and time the item/destination was last modified</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>Date and time the item/destination was created</td> 
+   <td>4</td>
+   <td>Date and time the item/destination was created</td>
   </tr>
   <tr>
-   <td>5</td> 
-   <td>Implement focused filters to narrow search results</td> 
+   <td>5</td>
+   <td>Implement focused filters to narrow search results</td>
   </tr>
  </tbody>
 </table>

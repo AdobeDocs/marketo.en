@@ -58,7 +58,7 @@ Allow your sales teams to select call outcomes when making calls so your team ca
 
 ## Choose a Call Outcome {#choose-a-call-outcome}
 
-Once call outcomes have been enabled. Users can select one while making a call.  
+Once call outcomes have been enabled. Users can select one while making a call.
 
 1. Click the call button to launch the dialer.
 

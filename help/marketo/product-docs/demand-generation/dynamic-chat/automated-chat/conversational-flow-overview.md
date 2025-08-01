@@ -14,30 +14,30 @@ Design a Conversational Flow and trigger it to any visitor based on a specific a
 
 While Dialogues and Conversational Flows have several similarities, they are two separate features.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th style="width:50%">Dialogues</th> 
+<table>
+ <tbody>
+  <tr>
+   <th style="width:50%">Dialogues</th>
    <th style="width:50%">Conversational Flows</th>
-  </tr> 
-  <tr> 
-   <td>Dialogues are targeted&mdash;You design a conversation for a specific page and audience based on parameters you implemented.</td> 
+  </tr>
+  <tr>
+   <td>Dialogues are targeted&mdash;You design a conversation for a specific page and audience based on parameters you implemented.</td>
    <td>Conversational Flows are triggered&mdash;You design a conversation that can be triggered based on a visitor's action, like filling out a form, clicking a link, etc.</td>
   </tr>
-   <tr> 
-   <td>Only supported in the Chatbot interface.</td> 
+   <tr>
+   <td>Only supported in the Chatbot interface.</td>
    <td>Currently supported in a pop-up interface, with more interfaces planned.</td>
   </tr>
   </tr>
-   <tr> 
-   <td>Multiple Dialogues can be created for the same segment of leads, with a priority order so each visitor sees the Dialogue in sequence by priority as they continue to engage.</td> 
+   <tr>
+   <td>Multiple Dialogues can be created for the same segment of leads, with a priority order so each visitor sees the Dialogue in sequence by priority as they continue to engage.</td>
    <td>Conversational Flows have no priority order and can be triggered any number of times by the same lead based on the call-to-action determined.</td>
   </tr>
   <tr>
    <td>Chatbot conversations are powered by Dialogues.</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Conversational Forms</a> in Marketo Engage are powered by Conversational Flows.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Stream Designer Tab {#stream-designer-tab}

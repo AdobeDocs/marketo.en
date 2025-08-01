@@ -52,47 +52,47 @@ Personalized Remarketing lets you re-engage with your users using RTP Data and t
 
 ## RTP Data Points in [!DNL Facebook] {#rtp-data-points-in-facebook}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Event Name</th> 
-   <th> </th> 
-  </tr> 
-  <tr> 
-   <td>RTP Remarketing</td> 
-   <td> 
-    <div> 
-     <table> 
-      <tbody> 
-       <tr> 
-        <th>Parameter</th> 
-        <th>Value</th> 
-       </tr> 
-       <tr> 
-        <td>ABM List</td> 
-        <td>(Name of Account-Based List)</td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">Category</td> 
-        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>Global 2000</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">Group</td> 
-        <td colspan="1"><p>Enterprise</p><p>SMB</p></td> 
-       </tr> 
-       <tr> 
-        <td>Industry</td> 
-        <td><p>Defense</p><p>Education</p><p>Financial Services</p><p>Government</p><p>Healthcare, Pharma, Biotech</p><p>Software and Internet</p><p>etc... (as per RTP Industry options)</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">Segmented Audience</td> 
-        <td colspan="1">(Name of Segmented Audience created in RTP)</td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Event Name</th>
+   <th> </th>
+  </tr>
+  <tr>
+   <td>RTP Remarketing</td>
+   <td>
+    <div>
+     <table>
+      <tbody>
+       <tr>
+        <th>Parameter</th>
+        <th>Value</th>
+       </tr>
+       <tr>
+        <td>ABM List</td>
+        <td>(Name of Account-Based List)</td>
+       </tr>
+       <tr>
+        <td colspan="1">Category</td>
+        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>Global 2000</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">Group</td>
+        <td colspan="1"><p>Enterprise</p><p>SMB</p></td>
+       </tr>
+       <tr>
+        <td>Industry</td>
+        <td><p>Defense</p><p>Education</p><p>Financial Services</p><p>Government</p><p>Healthcare, Pharma, Biotech</p><p>Software and Internet</p><p>etc... (as per RTP Industry options)</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">Segmented Audience</td>
+        <td colspan="1">(Name of Segmented Audience created in RTP)</td>
+       </tr>
+      </tbody>
+     </table>
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Target your Audience with an Ad {#target-your-audience-with-an-ad}

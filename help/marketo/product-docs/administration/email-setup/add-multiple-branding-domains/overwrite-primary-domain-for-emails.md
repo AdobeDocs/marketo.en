@@ -13,7 +13,7 @@ You can overwrite the primary branded domain on a per email basis. This will cha
 
    ![](assets/overwrite-primary-domain-for-emails-1.png)
 
-1. Select an email and click **[!UICONTROL Edit Draft]**.  
+1. Select an email and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/overwrite-primary-domain-for-emails-2.png)
 

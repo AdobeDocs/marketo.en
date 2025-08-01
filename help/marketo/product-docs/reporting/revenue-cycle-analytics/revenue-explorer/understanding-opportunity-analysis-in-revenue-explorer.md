@@ -31,8 +31,8 @@ Here are a few reports you can create in the Opportunity Analysis area.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
-1. Time to Close by Source  
-  
+1. Time to Close by Source
+
    This report demonstrates the relationship between the average days to close an opportunity and the lead source.
 
    ![](assets/image2015-7-21-10-3a35-3a3.png)

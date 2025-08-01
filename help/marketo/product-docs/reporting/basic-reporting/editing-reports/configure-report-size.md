@@ -33,7 +33,7 @@ By default, Marketo reports are limited to a maximum of 5,000 rows, but you can 
 
    ![](assets/image2016-3-2-9-3a13-3a59.png)
 
-   You're done! The report will abide by the new limit.  
+   You're done! The report will abide by the new limit.
 
    >[!MORELIKETHIS]
    >

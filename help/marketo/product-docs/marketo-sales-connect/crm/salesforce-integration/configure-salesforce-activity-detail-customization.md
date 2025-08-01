@@ -41,7 +41,7 @@ The feature can be used to unlock the following benefits:
 
 * By customizing what information is visible on the subject field, activity details are easily scannable for sales in Salesforce.
 * Admins can tag the subject field with a unique identifier such as "Mkto_sales" so activities from Sales Connect can be easily identified and differentiated from other email activities, call activities, and tasks.
-* Reduce the need for custom activity fields. Salesforce enforces limits on the number of custom activity fields, which can restrict what data is available to be used in reports. By using activity dynamic fields to add key data to the subject line you can reduce the number of custom activity fields you need created in your Salesforce instance.  
+* Reduce the need for custom activity fields. Salesforce enforces limits on the number of custom activity fields, which can restrict what data is available to be used in reports. By using activity dynamic fields to add key data to the subject line you can reduce the number of custom activity fields you need created in your Salesforce instance.
 * The subject field of activities and tasks will follow a consistent pattern defined by the Sales Connect Admin.
 
 >[!NOTE]
@@ -54,7 +54,7 @@ Activity Dynamic Fields reference information about your sales activities to pop
 
 >[!NOTE]
 >
->If there's no value to populate the dynamic field for a specific activity/task, it will not populate any data for that dynamic field when the [!DNL Salesforce] Task – Subject Field is updated.  
+>If there's no value to populate the dynamic field for a specific activity/task, it will not populate any data for that dynamic field when the [!DNL Salesforce] Task – Subject Field is updated.
 
 <table>
  <tr>
@@ -135,7 +135,7 @@ When configuring your activity details, consider what data would be most relevan
 
 >[!NOTE]
 >
->[!DNL Salesforce] enforces a 255 character limit. If your activity detail exceeds that, it will be truncated to ensure the information gets stored on the [!DNL Salesforce] subject field.  
+>[!DNL Salesforce] enforces a 255 character limit. If your activity detail exceeds that, it will be truncated to ensure the information gets stored on the [!DNL Salesforce] subject field.
 
 >[!MORELIKETHIS]
 >

@@ -50,31 +50,31 @@ When you set content patterns, content is auto-discovered when a web visitor cli
 
 For _domain.com_:
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>URL Pattern</th> 
-   <th>Result</th> 
-  </tr> 
-  <tr> 
-   <td>blog/*</td> 
-   <td><p>Discovers all content that matches the pattern domain.com/blog/:</p><p>domain.com/blog/5-top-tricks</p><p>domain.com/blog/2017/new-year-solutions</p><p>domain.com/Blog/3-best-recipes</p></td> 
-  </tr> 
-  <tr> 
-   <td>article/2017/*</td> 
-   <td><p>Discovers all content that matches the pattern domain.com/article/2017/:</p><p>domain.com/article/2017/5-top-tricks</p></td> 
-  </tr> 
-  <tr> 
-   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
-   <td><p>Discovers any URL that contains the word "datasheets:"</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
-  </tr> 
-  <tr> 
-   <td>press-release</td> 
-   <td><p>Only one exact match HTML page is discovered:</p><p>domain.com/press-release</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"> </td> 
-   <td colspan="1"><p>If the URL expression is empty, the URL pattern discovers only the home page:</p><p>domain.com</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>URL Pattern</th>
+   <th>Result</th>
+  </tr>
+  <tr>
+   <td>blog/*</td>
+   <td><p>Discovers all content that matches the pattern domain.com/blog/:</p><p>domain.com/blog/5-top-tricks</p><p>domain.com/blog/2017/new-year-solutions</p><p>domain.com/Blog/3-best-recipes</p></td>
+  </tr>
+  <tr>
+   <td>article/2017/*</td>
+   <td><p>Discovers all content that matches the pattern domain.com/article/2017/:</p><p>domain.com/article/2017/5-top-tricks</p></td>
+  </tr>
+  <tr>
+   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
+   <td><p>Discovers any URL that contains the word "datasheets:"</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td>
+  </tr>
+  <tr>
+   <td>press-release</td>
+   <td><p>Only one exact match HTML page is discovered:</p><p>domain.com/press-release</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"> </td>
+   <td colspan="1"><p>If the URL expression is empty, the URL pattern discovers only the home page:</p><p>domain.com</p></td>
+  </tr>
+ </tbody>
 </table>

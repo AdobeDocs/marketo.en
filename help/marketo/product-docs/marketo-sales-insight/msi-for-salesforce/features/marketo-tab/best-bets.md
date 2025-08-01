@@ -23,7 +23,7 @@ You can click on each of the following buttons to see [!DNL Best Bets]:
 
 **Things to Note**
 
-Lead & Contact buttons are selected by default. You can select one or more filter options and a minimum of one of the four options will have to always be selected.  
+Lead & Contact buttons are selected by default. You can select one or more filter options and a minimum of one of the four options will have to always be selected.
 
 You cannot "Hide" a lead or contact that you do not own.
 
@@ -40,7 +40,7 @@ By clicking the dota menu under the [!UICONTROL Actions] column, you can reach o
 
 **Bulk Actions**
 
-You can select one or more leads or contacts from your [!DNL Best Bets] page using the checkbox and reach out to them as a group using the following engagement options:  
+You can select one or more leads or contacts from your [!DNL Best Bets] page using the checkbox and reach out to them as a group using the following engagement options:
 
 * [!UICONTROL Send Marketo Email]
 * [!UICONTROL Add to Marketo Campaign]

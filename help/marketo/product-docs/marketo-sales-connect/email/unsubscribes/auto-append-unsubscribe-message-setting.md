@@ -7,7 +7,7 @@ exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
 # Auto-Append Unsubscribe Message Setting {#auto-append-unsubscribe-message-setting}
 
 Ensure every email sent includes an unsubscribe message so recipients have an easy option to opt out of communication. When append unsubscribe message is enabled, all communication your team sends from Marketo Sales will include an unsubscribe message, including emails sent from the web application, Salesforce, the Gmail plugin, and the Outlook plugin.
- 
+
 ## Things to Note {#things-to-note}
 
 * For emails sent from the plugins, the unsubscribe will only be appended when a template is used.

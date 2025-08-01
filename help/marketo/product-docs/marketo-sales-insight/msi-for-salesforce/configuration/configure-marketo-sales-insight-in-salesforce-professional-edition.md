@@ -70,10 +70,10 @@ Configure Marketo Sales Insight in Salesforce Professional Edition by completing
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10-1.png)
 
 1. Enter the Remote Site Name (it can be something like "MarketoRestAPI"). Enter Remote Site URL, which is your API URL from Rest API Configuration panel in Marketo. Click **[!UICONTROL Save]**. You have now created remote site settings for Rest API.
-   
+
 ## Grant Sales Insight users profile access to standard Salesforce objects {#grant-sales-insight-users-profile-access}
 
-Due to Salesforce security enhancements, AppExchange packages can no longer grant permission to standard objects, and access must be granted to the relevant Salesforce objects from the Salesforce user's profile. Grant the required permissions by following these steps. 
+Due to Salesforce security enhancements, AppExchange packages can no longer grant permission to standard objects, and access must be granted to the relevant Salesforce objects from the Salesforce user's profile. Grant the required permissions by following these steps.
 
 1. Click **[!UICONTROL Setup]**.
 
@@ -145,7 +145,7 @@ Due to Salesforce security enhancements, AppExchange packages can no longer gran
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. To add Visualforce page sections for **[!UICONTROL Contact]**, **[!UICONTROL Account]**, and **[!UICONTROL Opportunity]**, repeat steps 5-7.  
+1. To add Visualforce page sections for **[!UICONTROL Contact]**, **[!UICONTROL Account]**, and **[!UICONTROL Opportunity]**, repeat steps 5-7.
 
 1. Repeat steps 8-10 to add Sales Insight fields for **[!UICONTROL Contact]**. Be sure to save after any changes.
 

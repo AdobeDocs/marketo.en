@@ -16,7 +16,7 @@ You have multiple options for adding new files/images to your Images and Files r
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. Select **[!UICONTROL Images and Files]** 
+1. Select **[!UICONTROL Images and Files]**
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 

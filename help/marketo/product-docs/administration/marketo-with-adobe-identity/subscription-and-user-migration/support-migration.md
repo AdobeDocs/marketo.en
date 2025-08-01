@@ -34,7 +34,7 @@ The Support migration will occur after your User migration is completed for all 
 
 ## Additional Resources {#additional-resources}
 
-* Learn how you can use [the Adobe Admin Console to manage your Adobe entitlements](https://helpx.adobe.com/enterprise/using/admin-roles.html){target="_blank"} across your entire organization.  
+* Learn how you can use [the Adobe Admin Console to manage your Adobe entitlements](https://helpx.adobe.com/enterprise/using/admin-roles.html){target="_blank"} across your entire organization.
 
 * More information on how to log in to Marketo Engage with an Adobe ID [can be found here](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
 

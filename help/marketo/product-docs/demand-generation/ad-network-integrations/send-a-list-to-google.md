@@ -24,7 +24,7 @@ For those who use Google Customer Match, follow the steps below to send a Market
 
    ![](assets/send-a-list-to-google-4.png)
 
-1. Make your optional selections. 
+1. Make your optional selections.
 
    ![](assets/send-a-list-to-google-5.png)
 

@@ -23,7 +23,7 @@ You can identify which type you're getting by checking the URL.
 
 This error typically indicates you have a custom domain that we're not able to route to. To resolve this error, try signing in to the Salesforce instance you want to connect to first. Then, go through the steps to connect to Salesforce.
 
-If the instance you're trying to connect to is a Salesforce Sandbox domain and you're getting an error, you'll need to go through additional steps to update your instance to be Salesforce Sandbox compatible. [Learn more](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}. 
+If the instance you're trying to connect to is a Salesforce Sandbox domain and you're getting an error, you'll need to go through additional steps to update your instance to be Salesforce Sandbox compatible. [Learn more](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
 ## Resolve Oauth App Blocked {#resolve-oauth-app-blocked}
 

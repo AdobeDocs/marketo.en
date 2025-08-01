@@ -31,7 +31,7 @@ Associating these Marketo-generated Marketing Lists to other campaigns could lea
 
 ## Remove from Dynamics Campaign {#remove-from-dynamics-campaign}
 
-This flow step can be used in Marketo Smart Campaigns to remove people from a Microsoft campaign. This removes only those leads from a Campaign which have been previously added to the Campaign through the flow action "Added to Microsoft Campaign".  
+This flow step can be used in Marketo Smart Campaigns to remove people from a Microsoft campaign. This removes only those leads from a Campaign which have been previously added to the Campaign through the flow action "Added to Microsoft Campaign".
 
 >[!NOTE]
 >

@@ -19,7 +19,7 @@ To implement your [!UICONTROL RTP tag] please follow the installation instructio
 
 1. Go to **[!UICONTROL Account Settings]**.
 
-   a. If you have already received your JavaScript tag from Support - continue to step 5.  
+   a. If you have already received your JavaScript tag from Support - continue to step 5.
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 

@@ -38,13 +38,13 @@ Because Email Editor 2.0 is backward compatible, some old email templates may sp
 
 Required attributes
 
-* **class**: "mktEditable".  
-* **id**: ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.  
+* **class**: "mktEditable".
+* **id**: ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.
 
 Optional attributes
 
-* **mktoName** : String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.  
-  
+* **mktoName** : String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
+
 Default value
 
 The content within the HTML element (if provided) with class="mktEditable" will be used as the default value for the Rich Text element.
@@ -57,12 +57,12 @@ Example:
 
 It's recommended to specify Rich Text elements using the class="mktoText" syntax. This ensures there is always a proper display name for the element.
 
-Required attributes  
+Required attributes
 
-* **class**: "mktoText"  
-* **id**: ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.  
-* **mktoName** : String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.  
-  
+* **class**: "mktoText"
+* **id**: ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.
+* **mktoName** : String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
+
 Default Value
 
 The content within the HTML element (if provided) with class="mktoText" will be used as the default value for the Rich Text element.
@@ -77,24 +77,24 @@ You have two options for defining editable Image elements. You may use either a 
 
 ### Option 1 - Use a `<div>` {#option-use-a-div}
 
-Required attributes  
+Required attributes
 
-* **class:** "mktoImg".  
-* **id:** ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.  
+* **class:** "mktoImg".
+* **id:** ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.
 * **mktoName :** String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 
-Optional attributes  
+Optional attributes
 
-* **mktoImgClass:** String. The value here will be added to the class attribute of the `<img>` element inside the div.  
-* **mktoImgSrc:** To be used as the default value for the image that is placed within this div. A placeholder is used if this is omitted.  
-* **mktoImgLink:** Indicate that the `<img>` should be surrounded by an `<a>` tag with this destination URL. The user can change this in the Email Editor.  
-* **mktoImgLinkTarget:** Indicate that the `<a>` tag from the mktoImgLink attribute should use this target. Has no effect if mktoImgLink is not also used.  
-* **mktoImgWidth:** Used as the width on the enclosed `<img>`.  
-* **mktoImgHeight:** Used as the height on the enclosed `<img>`.  
-* **mktoLockImgSize:** Used to unlock the `<img>` element's height and width property so that the end user can modify (default is true if omitted).  
+* **mktoImgClass:** String. The value here will be added to the class attribute of the `<img>` element inside the div.
+* **mktoImgSrc:** To be used as the default value for the image that is placed within this div. A placeholder is used if this is omitted.
+* **mktoImgLink:** Indicate that the `<img>` should be surrounded by an `<a>` tag with this destination URL. The user can change this in the Email Editor.
+* **mktoImgLinkTarget:** Indicate that the `<a>` tag from the mktoImgLink attribute should use this target. Has no effect if mktoImgLink is not also used.
+* **mktoImgWidth:** Used as the width on the enclosed `<img>`.
+* **mktoImgHeight:** Used as the height on the enclosed `<img>`.
+* **mktoLockImgSize:** Used to unlock the `<img>` element's height and width property so that the end user can modify (default is true if omitted).
 * **mktoLockImgStyle:** Used to lock the `<img>` element's style property (default is false).
 
-Default value (optional)  
+Default value (optional)
 
 **`<img>`**: To be used as the `<img>` element that the image will be placed in. Useful if you want to add inline styling to the image. Remember to include surrounding `<a> </a>` tags, so if the user adds a link, your styling won't be stripped!
 
@@ -112,9 +112,9 @@ Required attributes
 
 * **class:** "mktoImg".
 * **id:** ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.
-* **mktoName:** String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.  Default value (optional)  
-* **src:** To be used as the default value for the image. A placeholder is used if this is omitted.  
-* **mktoLockImgSize:** Used to unlock the `<img>` element's height and width property so that the end user can modify (default is true if omitted).  
+* **mktoName:** String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.  Default value (optional)
+* **src:** To be used as the default value for the image. A placeholder is used if this is omitted.
+* **mktoLockImgSize:** Used to unlock the `<img>` element's height and width property so that the end user can modify (default is true if omitted).
 * **mktoLockImgStyle:** Used to lock the `<img>` element's style property (default is false).
 
 Example:
@@ -126,10 +126,10 @@ If you define a region as a Snippet, end users will be able to choose which appr
 
 Required attributes
 
-* **id:** ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.  
+* **id:** ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.
 * **mktoName:** String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 
-Default value (optional)  
+Default value (optional)
 
 **mktoDefaultSnippetId**: The numerical ID of the Marketo Snippet that should appear by default (will only work if a Snippet with that ID exists and is approved in that workspace).
 
@@ -141,12 +141,12 @@ Example:
 
 If you define a region as a Video, end users will be able to insert either a YouTube or Vimeo URL that will be displayed as a thumbnail image (with 'play' button) inside of the email. You can specify a Video region using a `<div>` with class="mktoVideo"
 
-Required attributes  
+Required attributes
 
-* **id:** ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.  
+* **id:** ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.
 * **mktoName:** String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 
-Optional attributes  
+Optional attributes
 
 * **mktoImgClass:** String. The value here will be added to the class attribute of the video thumbnail `<img>` inside the div.
 
@@ -164,13 +164,13 @@ If you specify a variable as a String, the end user will be able to enter text w
 
 Required attributes
 
-* **id:** How you reference the variable within your email template.  
+* **id:** How you reference the variable within your email template.
 * **mktoName:** String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 
 Optional attributes
 
 * **allowHTML:** Boolean. Controls if the variable's value is HTML-escaped. Defaults to False if omitted.
-* **default**: Default value for the string. Blank if omitted.  
+* **default**: Default value for the string. Blank if omitted.
 * **mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. Defaults to False if omitted.
 
 Example Declaration:
@@ -187,13 +187,13 @@ If you specify a variable as a List, the end user will be able to pick from a se
 
 Required attributes
 
-* **id**: How you reference the variable within your email template.  
-* **mktoName:** String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.  
+* **id**: How you reference the variable within your email template.
+* **mktoName:** String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 * **values:** Comma separated list of values. Must have at least one string.
 
-Optional attributes  
+Optional attributes
 
-* **default:** Default value of the select dropdown. If omitted, the first value from the "values" attribute is used.  
+* **default:** Default value of the select dropdown. If omitted, the first value from the "values" attribute is used.
 * **mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. Defaults to False if omitted.
 
 Example Declaration:
@@ -210,16 +210,16 @@ If you specify a variable as a Number, the end user will be able to enter a numb
 
 Required attributes
 
-* **id**: How you reference the variable within your email template.  
-* **mktoName**: String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.  
+* **id**: How you reference the variable within your email template.
+* **mktoName**: String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 * **default:** Default numeric value for the variable.
 
-Optional attributes  
+Optional attributes
 
-* **min:** Min accepted value.  
-* **max:** Max accepted value.  
-* **units:** Units to be appended to the number value (ex: px, pt, em, etc.) when displayed in the Email Editor, as well as in the resulting code.  
-* **step:** How many units the number variable should increase/decrease by (0.1, 1, 10, etc.). If omitted, defaults to 1. 
+* **min:** Min accepted value.
+* **max:** Max accepted value.
+* **units:** Units to be appended to the number value (ex: px, pt, em, etc.) when displayed in the Email Editor, as well as in the resulting code.
+* **step:** How many units the number variable should increase/decrease by (0.1, 1, 10, etc.). If omitted, defaults to 1.
 * **mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. Defaults to False if omitted.
 
 Example Declaration:
@@ -236,12 +236,12 @@ If you specify a variable as a Color, the end user will be able to enter a hexad
 
 Required attributes
 
-* **id**: How you reference the variable within your email template.  
+* **id**: How you reference the variable within your email template.
 * **mktoName**: String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 
-Optional attributes  
+Optional attributes
 
-* **default:** Default value for the color. 6-digit hex color code. Ex: #ffffff.  
+* **default:** Default value for the color. 6-digit hex color code. Ex: #ffffff.
 * **mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. Defaults to False if omitted.
 
 Example Declaration:
@@ -258,16 +258,16 @@ If you specify a variable as a Boolean, the end user will be able to toggle the 
 
 Required attributes
 
-* **id**: How you reference the variable within your email template.  
+* **id**: How you reference the variable within your email template.
 * **mktoName**: String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 
 Optional attributes
 
-* **default:** Boolean value determining the default state of the toggle switch. False if omitted.  
-* **false_value:** Value to be inserted when toggle is in OFF position. False if omitted.  
-* **true_value:** Value to be inserted when toggle is in ON position. True if omitted.  
-* **false_value_name:** UI shown in the toggle when in OFF position. False if omitted.  
-* **true_value_name:** UI shown in the toggle when in ON position. True if omitted.  
+* **default:** Boolean value determining the default state of the toggle switch. False if omitted.
+* **false_value:** Value to be inserted when toggle is in OFF position. False if omitted.
+* **true_value:** Value to be inserted when toggle is in ON position. True if omitted.
+* **false_value_name:** UI shown in the toggle when in OFF position. False if omitted.
+* **true_value_name:** UI shown in the toggle when in ON position. True if omitted.
 * **mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. Defaults to False if omitted.
 
 Example Declaration:
@@ -282,14 +282,14 @@ Example Usage:
 
 If you specify a variable as an HTML Block, the end user will be able to input verbatim HTML from within the email editor. You specify an HTML Block variable using `<meta>` with class="mktoHTML"
 
-Required attributes  
+Required attributes
 
-* **id**: How you reference the variable within your email template.  
+* **id**: How you reference the variable within your email template.
 * **mktoName**: String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 
 Optional attributes
 
-* **default:** HTML encoded value to serve as the default contents of the block.  
+* **default:** HTML encoded value to serve as the default contents of the block.
 * **mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. Defaults to False if omitted.
 
 Example Declaration:
@@ -304,14 +304,14 @@ Example Usage:
 
 If you specify a variable as an Image, the end user will be able to choose an image from the image picker within the email editor. The selected image URL will be the value of the variable. You specify an Image variable using `<meta>` with class="mktoImg"
 
-Required attributes  
+Required attributes
 
-* **id**: How you reference the variable within your email template.  
+* **id**: How you reference the variable within your email template.
 * **mktoName**: String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 
-Optional attributes  
+Optional attributes
 
-* **default:** Default image URL for the element.  
+* **default:** Default image URL for the element.
 * **mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. Defaults to False if omitted.
 
 Example Declaration:
@@ -338,12 +338,12 @@ Specified using `<tr>` with class="mktoModule"
 
 Specified using `<table>` with class="mktoModule"
 
-Required attributes  
+Required attributes
 
-* **id**: How you reference the module within your email template.  
+* **id**: How you reference the module within your email template.
 * **mktoName**: String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 
-Optional attributes  
+Optional attributes
 
 * **mktoActive:** Determines whether this module appears in the list of modules within the email editor. Defaults to true. If false, the module cannot be added by an end user to an email.
 * **mktoAddByDefault:** Determines whether this module will be in the canvas of a new email that uses this template upon creation. Defaults to true (if mktoActive is false, this value is ignored).
@@ -358,7 +358,7 @@ A container holds Modules and defines where they can be placed. When end users a
 
 **Specified using either `<table>`, `<tbody>`, `<thead>`, `<tfoot>` or `<td>` with class="mktoContainer"**
 
-Required attributes  
+Required attributes
 
 **id**: How you reference the module within your email template.
 

@@ -20,7 +20,7 @@ Here you can see the total delivered and the breakdowns by variants.
 ## Clicks {#clicks}
 
 Here you can see how many clicks each variant has.
-  
+
 ![](assets/image2014-9-12-16-3a16-3a20.png)
 
 ## Click to Open {#click-to-open}

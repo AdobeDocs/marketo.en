@@ -21,7 +21,7 @@ On the right side of the page there are several pieces of information regarding 
 
 **[!UICONTROL Type]** indicates the kind of asset used.
 **[!UICONTROL Recipient]** number is how many people were sent the email.
-**[!UICONTROL Delivery Metrics]** gives you a quick view of how many emails were delivered, are pending, or have bounced.  
+**[!UICONTROL Delivery Metrics]** gives you a quick view of how many emails were delivered, are pending, or have bounced.
 **[!UICONTROL Engagement Metrics]** gives you a quick view of how many recipients have opened, clicked in, and unsubscribed from an email.
 **[!UICONTROL Score]** is your email's [Engagement Score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 

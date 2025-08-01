@@ -94,7 +94,7 @@ When a large amount of updates are made (like from a field value changing), many
 
 **Custom objects**: Periodically review [custom objects](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} enabled to sync and disable those that no longer need to be synced.
 
-**Activities**: [Review if any activities](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} enabled sync that may be removed from sync.  These activities only sync once per day per lead. 
+**Activities**: [Review if any activities](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} enabled sync that may be removed from sync.  These activities only sync once per day per lead.
 
 **Review Sync errors**: Exception handling may slow down the sync. Reviewing user notifications and resolving errors can improve sync health.
 

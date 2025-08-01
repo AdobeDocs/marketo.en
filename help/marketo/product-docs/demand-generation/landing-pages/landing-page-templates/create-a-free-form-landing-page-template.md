@@ -37,7 +37,7 @@ Free-form landing pages require less technical knowledge than their guided count
 
    >[!NOTE]
    >
-   >Select **[!UICONTROL Disable Munchkin Tracking]** if you want to prevent forms from pre-populating, or you just don't want to track web behavior on a specific page.  
+   >Select **[!UICONTROL Disable Munchkin Tracking]** if you want to prevent forms from pre-populating, or you just don't want to track web behavior on a specific page.
    >Select **[!UICONTROL Validate Mobile Compatibility]** to make sure your code is compatible with mobile devices.
 
    >[!MORELIKETHIS]

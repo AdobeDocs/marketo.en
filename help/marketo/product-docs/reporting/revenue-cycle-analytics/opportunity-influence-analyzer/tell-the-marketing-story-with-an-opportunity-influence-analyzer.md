@@ -43,7 +43,7 @@ Use an [!UICONTROL Opportunity Influence Analyzer] to illustrate marketing's rol
 
    ![](assets/image2015-6-23-14-3a43-3a35.png)
 
-   The graph auto-adjusts to display their interactions in the opportunity. In this example, we see immediately that MegaCorp CEO Sarah Geller was deeply involved in the opportunity, even though she had no role assigned in the CRM for the opportunity. 
+   The graph auto-adjusts to display their interactions in the opportunity. In this example, we see immediately that MegaCorp CEO Sarah Geller was deeply involved in the opportunity, even though she had no role assigned in the CRM for the opportunity.
 
 1. Click an orange dot to see interaction details.
 

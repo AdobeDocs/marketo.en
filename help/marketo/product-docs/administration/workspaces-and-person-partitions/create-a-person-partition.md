@@ -17,7 +17,7 @@ Create a new person partition following these steps.
 >
 >Understand first with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Go to the **[!UICONTROL Admin]** area. 
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/create-a-person-partition-1.png)
 
@@ -25,7 +25,7 @@ Create a new person partition following these steps.
 
    ![](assets/create-a-person-partition-2.png)
 
-1. Go to the **[!UICONTROL Person Partitions]** tab and click **[!UICONTROL New Person Partition]**.  
+1. Go to the **[!UICONTROL Person Partitions]** tab and click **[!UICONTROL New Person Partition]**.
 
    ![](assets/create-a-person-partition-3.png)
 

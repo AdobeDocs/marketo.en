@@ -8,7 +8,7 @@ feature: Marketo Sales Insights
 
 The email tab shows you a list of all the emails sent to a contact or lead. It includes the following columns:
 
-* Subject  
+* Subject
 * Date
 * Opened
 * Clicked
@@ -17,7 +17,7 @@ An email with the Marketo icon next to the subject line indicates that email was
 
 You can click on the “[!UICONTROL Check Delivery Status]” button to open a new tab which shows the delivery status of emails:
 
-<table> 
+<table>
  <tbody>
   <tr>
    <td><strong>Emails sent from Marketo</strong></td>

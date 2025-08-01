@@ -66,6 +66,3 @@ The following features are currently available in the Modern UX (with new featur
 * Landing Page Template List
 * Snippet Details View
 * Snippet List View
-
-
-

@@ -79,16 +79,16 @@ After you approve your email, it will be equipped with Predictive Content and re
 
 ## Adding Predictive Content When Not Using the Email 2.0 Editor {#adding-predictive-content-when-not-using-the-email-editor}
 
-If you aren't using an [Email 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} template, adding Predictive Content to your email can be done simply by tagging an image in your template as a Marketo editable image element.  
-  
+If you aren't using an [Email 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} template, adding Predictive Content to your email can be done simply by tagging an image in your template as a Marketo editable image element.
+
 Learn about the [Marketo-specific syntax here](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
-  
+
 Here is an example of what the code should look like (this is only an example, do not copy the code below exactly).
 
 **Example**
 
 ```example
-<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com">  
-<a><img style="border:10px solid red;"></a>  
+<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com">
+<a><img style="border:10px solid red;"></a>
 </div>
 ```

@@ -40,7 +40,7 @@ You can enable content locking for an email template directly in the Email Desig
 1. In the **[!UICONTROL Body]** pane on the right, enable the **[!UICONTROL Governance]** option.
 
 1. From the **[!UICONTROL Mode]** drop-down list, select the desired locking mode for the template:
-    
+
     * **[!UICONTROL Content locking]**: Lock specific sections of content within the template. By default, all structures and components become editable. You can then selectively lock individual elements.
     * **[!UICONTROL Read only]**: Lock the entire content of the template, preventing any modifications.
 
@@ -96,7 +96,7 @@ To lock a specific component within a structure:
 1. From the **[!UICONTROL Lock type]** drop-down list, select your preferred locking option:
 
     ![](assets/content-locking-5.png){width="800" zoomable="yes"}
-    
+
     * **[!UICONTROL Editable content lock only]**: Lock the component's styles but allows content editing.
     * **[!UICONTROL Locked]**: Fully lock both the content and styles of the component.
 

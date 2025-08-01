@@ -11,41 +11,41 @@ Sending emails in bulk is a great way to accelerate your prospect engagement. [!
 
 **Group Email vs. Select and Send**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><p><span>Send</span><span> Type</span> </p></th> 
-   <th><p><span>Max Number of </span><span>E</span><span>mails</span> </p></th> 
-   <th><p><span>Initiated </span><span>Send By</span></p></th> 
-   <th><p><span>Bulk </span><span>Edit Emails</span> </p></th> 
-   <th><p><span>Edit</span><span> Each Email </span><span>Uniquely</span> </p></th> 
-   <th><p><span>Template &amp; </span><span>Dynamic Field Support</span> </p></th> 
-  </tr> 
-  <tr> 
-   <td><p><span>Group Email</span> </p></td> 
-   <td><p><span>1,000</span> </p></td> 
-   <td><p><span>Select a group and click</span><span> the </span><span>“Group Actions” button</span><span>, or type the group name into the To field. </span> </p></td> 
-   <td><p><span>Yes</span> </p></td> 
-   <td><p><span>No</span> </p></td> 
-   <td><p><span>Yes</span> </p></td> 
-  </tr> 
-  <tr> 
-   <td><p><span>Select </span><span>and </span><span>Send</span> </p></td> 
-   <td><p><span>200</span> </p></td> 
-   <td><p><span>Select people in the grid and click the “Email Selected” button in the actions bar</span><span>, o</span><span>r type recipients into the bulk email </span><span>sidebar</span><span>.</span></p></td> 
-   <td><p><span>Yes</span> </p></td> 
-   <td><p><span>Yes</span> </p></td> 
-   <td><p><span>Yes</span> </p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><p><span>Send</span><span> Type</span> </p></th>
+   <th><p><span>Max Number of </span><span>E</span><span>mails</span> </p></th>
+   <th><p><span>Initiated </span><span>Send By</span></p></th>
+   <th><p><span>Bulk </span><span>Edit Emails</span> </p></th>
+   <th><p><span>Edit</span><span> Each Email </span><span>Uniquely</span> </p></th>
+   <th><p><span>Template &amp; </span><span>Dynamic Field Support</span> </p></th>
+  </tr>
+  <tr>
+   <td><p><span>Group Email</span> </p></td>
+   <td><p><span>1,000</span> </p></td>
+   <td><p><span>Select a group and click</span><span> the </span><span>“Group Actions” button</span><span>, or type the group name into the To field. </span> </p></td>
+   <td><p><span>Yes</span> </p></td>
+   <td><p><span>No</span> </p></td>
+   <td><p><span>Yes</span> </p></td>
+  </tr>
+  <tr>
+   <td><p><span>Select </span><span>and </span><span>Send</span> </p></td>
+   <td><p><span>200</span> </p></td>
+   <td><p><span>Select people in the grid and click the “Email Selected” button in the actions bar</span><span>, o</span><span>r type recipients into the bulk email </span><span>sidebar</span><span>.</span></p></td>
+   <td><p><span>Yes</span> </p></td>
+   <td><p><span>Yes</span> </p></td>
+   <td><p><span>Yes</span> </p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Using Group Email**

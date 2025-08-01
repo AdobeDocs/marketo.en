@@ -8,7 +8,7 @@ exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
 ---
 # Product Usage Dashboards {#product-usage-dashboards}
 
-Marketo Engage Product Usage Dashboards provide the ability to view product and platform usage against certain limits or backlog of data through-put, usage against daily quota, and key metrics in your subscription. Infrastructure is allocated to provide performance limits defined for product levels for particular attributes. Some of these limits, like API usage, are contracted limits purchased as part of your package or Product Tier. 
+Marketo Engage Product Usage Dashboards provide the ability to view product and platform usage against certain limits or backlog of data through-put, usage against daily quota, and key metrics in your subscription. Infrastructure is allocated to provide performance limits defined for product levels for particular attributes. Some of these limits, like API usage, are contracted limits purchased as part of your package or Product Tier.
 
 ## How to Access {#how-to-access}
 
@@ -26,14 +26,14 @@ Marketo Engage Product Usage Dashboards provide the ability to view product and 
 
 The Weekly Activity Usage dashboard provides a weekly count of Activity Types over a rolling 52-week period. Weekly activities produced are a good indicator of how much marketing you're doing in Marketo Engage. Activities serve as a proxy for the various system processes and trackable events that take place within Marketo.
 
-Activity Types include both counts of activities captured when people/leads interact with marketing events as well as system-based activities triggered by Flow Actions. Some examples of person-initiated activities are when a recipient opens an email you sent them, or clicks on a link in an email. An example of a system-based activity triggered by a Flow Action is _Send to SFDC_ when the trigger is initiated. 
+Activity Types include both counts of activities captured when people/leads interact with marketing events as well as system-based activities triggered by Flow Actions. Some examples of person-initiated activities are when a recipient opens an email you sent them, or clicks on a link in an email. An example of a system-based activity triggered by a Flow Action is _Send to SFDC_ when the trigger is initiated.
 
 >[!TIP]
 >
 >To view a count of activity types for a particular week, hover over the desired week and the count appears.
 
 #### FAQ {#faq}
- 
+
 **Which Activity Types are counted?**
 
 It's contingent upon what activities are included in the pipeline.

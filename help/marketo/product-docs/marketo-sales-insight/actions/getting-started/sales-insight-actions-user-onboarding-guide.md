@@ -12,7 +12,7 @@ feature: Sales Insight Actions
 
 >[!PREREQUISITES]
 >
->* An Admin needs to invite a user to start using MSI-Actions.  
+>* An Admin needs to invite a user to start using MSI-Actions.
 >* In order to activate your account with [!DNL Salesforce], you'll need to have "API Enabled" in the [!DNL Salesforce] profile permissions.
 
 New users will need to follow the steps below.

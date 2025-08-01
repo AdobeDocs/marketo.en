@@ -12,229 +12,229 @@ For further strategy assistance or help customizing a program, please contact th
 
 ## Channel Summary {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Channel</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Channel</th>
    <th>Membership Status</th>
    <th>Analytics Behavior</th>
    <th>Program Type</th>
-  </tr> 
-  <tr> 
-   <td>Operational</td> 
+  </tr>
+  <tr>
+   <td>Operational</td>
    <td>01-Member</td>
    <td>Operational</td>
    <td>Default</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Prerequisite Fields {#prerequisite-fields}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type</th>
    <th>Friendly Name</th>
    <th>API Name</th>
   </tr>
-  <tr> 
-   <td>Score</td> 
+  <tr>
+   <td>Score</td>
    <td>Behavior Score</td>
    <td>BehaviorScore</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Program Contains the Following Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type</th>
    <th>Template Name</th>
    <th>Asset Name</th>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Email - Clicks Link in Email</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Form - Fills Out Contact Form</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Form - Fills Out Content Form</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Form - Fills Out Default Form</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Form - Fills Out Event Form</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Web - Downloads Any PDF</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Web - PPC Scoring</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Web - Visits Key Web Pages</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Web - Visits Multiple Web Pages in 1 Day</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Live Event - Attended</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Tradeshow - Influenced</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Tradeshow - Visited Booth</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Webinar - Attended</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Decrease Score - No Activity</td>
   </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
+  <tr>
+   <td>Smart Campaign</td>
    <td>&nbsp</td>
    <td>Decrease Score - Visits Undesirable Web Pages</td>
   </tr>
-  <tr> 
-   <td>Folder</td> 
+  <tr>
+   <td>Folder</td>
    <td>&nbsp</td>
    <td>Interactions</td>
   </tr>
-  <tr> 
-   <td>Folder</td> 
+  <tr>
+   <td>Folder</td>
    <td>&nbsp</td>
    <td>Program Status Changes</td>
   </tr>
-  <tr> 
-   <td>Folder</td> 
+  <tr>
+   <td>Folder</td>
    <td>&nbsp</td>
    <td>Score Decay</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-scoring-behavior-1.png)
 
 ## My Tokens Included {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Token Type</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Token Type</th>
    <th>Token Name</th>
    <th>Value</th>
   </tr>
-  <tr> 
-   <td>Score</td> 
+  <tr>
+   <td>Score</td>
    <td><code>{{my.Decrease Score - No Activity}}</code></td>
    <td>-10</td>
   </tr>
-  <tr> 
-   <td>Score</td> 
+  <tr>
+   <td>Score</td>
    <td><code>{{my.Decrease Score - Visits Undesirable Web Pages}}</code></td>
    <td>-5</td>
   </tr>
-  <tr> 
-   <td>Score</td> 
+  <tr>
+   <td>Score</td>
    <td><code>{{my.Email - Clicks Link}}</code></td>
    <td>+2</td>
   </tr>
-   <tr> 
-   <td>Score</td> 
+   <tr>
+   <td>Score</td>
    <td><code>{{my.Form - Fills Out Contact Form}}</code></td>
    <td>+30</td>
   </tr>
-  <tr> 
-   <td>Score</td> 
+  <tr>
+   <td>Score</td>
    <td><code>{{my.Form - Fills Out Content Form}}</code></td>
    <td>+15</td>
   </tr>
-  <tr> 
-   <td>Score</td> 
+  <tr>
+   <td>Score</td>
    <td><code>{{my.Form - Fills Out Default Form}}</code></td>
    <td>+10</td>
   </tr>
-   <tr> 
-   <td>Score</td> 
+   <tr>
+   <td>Score</td>
    <td><code>{{my.Form - Fills-out Event Form}}</code></td>
    <td>+15</td>
   </tr>
-  <tr> 
-   <td>Score</td> 
+  <tr>
+   <td>Score</td>
    <td><code>{{my.Live Event - Attended}}</code></td>
    <td>+30</td>
   </tr>
-   <tr> 
-   <td>Score</td> 
+   <tr>
+   <td>Score</td>
    <td><code>{{my.Tradeshow - Influenced}}</code></td>
    <td>+20</td>
   </tr>
-  <tr> 
-   <td>Score</td> 
+  <tr>
+   <td>Score</td>
    <td><code>{{my.Tradeshow - Visited Booth}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>Score</td> 
+  <tr>
+   <td>Score</td>
    <td><code>{{my.Web - Downloaded Any PDF}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>Score</td> 
+  <tr>
+   <td>Score</td>
    <td><code>{{my.Web - PPC Scoring}}</code></td>
    <td>+15</td>
   </tr>
-   <tr> 
-   <td>Score</td> 
+   <tr>
+   <td>Score</td>
    <td><code>{{my.Web - Visits Key Web Pages}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>Score</td> 
+  <tr>
+   <td>Score</td>
    <td><code>{{my.Web - Visits Multiple Web Pages in 1 Day}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>Score</td> 
+  <tr>
+   <td>Score</td>
    <td><code>{{my.Webinar - Attended}}</code></td>
    <td>+20</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Conflict Rules {#conflict-rules}

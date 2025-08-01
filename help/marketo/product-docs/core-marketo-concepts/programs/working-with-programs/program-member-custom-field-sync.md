@@ -20,11 +20,11 @@ feature: Programs
 1. In Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-1.png)
- 
+
 1. Click **[!DNL Salesforce]**, then click **[!UICONTROL Edit]** next to Program Member Custom Field Sync.
 
    ![](assets/program-member-custom-field-sync-2.png)
- 
+
 1. Use the search box to locate the [!DNL Salesforce] fields you want to map. In this example, we're using Do Not Call.
 
    ![](assets/program-member-custom-field-sync-3.png)

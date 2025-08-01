@@ -28,7 +28,7 @@ When you save your credentials, Marketo will attempt to call the status endpoint
 
 >[!CAUTION]
 >
->If a Service Provider is created and deleted, you won't be able to reuse its Service Provider, API, Trigger, or Filter name going forward. 
+>If a Service Provider is created and deleted, you won't be able to reuse its Service Provider, API, Trigger, or Filter name going forward.
 
 ## Onboarding Guide (Optional) {#onboarding-guide}
 

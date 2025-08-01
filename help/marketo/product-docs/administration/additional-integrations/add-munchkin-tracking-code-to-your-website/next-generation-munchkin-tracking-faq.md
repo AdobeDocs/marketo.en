@@ -39,7 +39,7 @@ If you are already using this filter in a Smart List (for example, in a Smart Ca
 
 >[!NOTE]
 >
->**Trigger**: Visits Web Page, Web Page is Pricing Page  
+>**Trigger**: Visits Web Page, Web Page is Pricing Page
 >**Flow**: Change Score +10 and Interesting Moment
 >**Web**: Viewed Pricing Page
 >
@@ -57,7 +57,7 @@ If you are already using this filter in a Smart List (for example, in a Smart Ca
 
 After our Winter '16 Release, if you have old Smart Campaigns with a Smart List that has the "Is Anonymous" filter in it, one of two things will happen:
 
-1. If the Smart List has the filter "Is Anonymous = False", then nothing will happen. We'll just ignore it. 
+1. If the Smart List has the filter "Is Anonymous = False", then nothing will happen. We'll just ignore it.
 1. If the Smart List has the filter "Is Anonymous = True", then this campaign will fail and you'll be sent a notification.
 
 ## I've been using Marketo for a while. How do I know which of my campaigns use the "Is Anonymous" filter? {#ive-been-using-marketo-for-a-while-how-do-i-know-which-of-my-campaigns-use-the-is-anonymous-filter}

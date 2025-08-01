@@ -16,12 +16,12 @@ Add your own custom CSS directly within the Marketo Engage Email Designer for ad
 1. Ensure there is some content defined in the Email Designer by adding at least one component.
 
 1. Select **[!UICONTROL Body]**, either from the **[!UICONTROL Navigation tree]** on the left, or the right pane. **[!UICONTROL CSS styles]** displays on the right.
- 
+
    ![](assets/custom-css-1.png){width="800" zoomable="yes"}
 
     >[!NOTE]
     >
-    >The **[!UICONTROL CSS styles]** section is only available when content is present in the editor. 
+    >The **[!UICONTROL CSS styles]** section is only available when content is present in the editor.
 
 1. Click the **[!UICONTROL + Add custom CSS]** button.
 
@@ -46,12 +46,12 @@ Add your own custom CSS directly within the Marketo Engage Email Designer for ad
    >If you remove all content, the section disappears, and the previously defined custom CSS is no longer applied. Add content back to make the **[!UICONTROL CSS styles]** section reappear. The custom CSS is applied again.
 
 ## Using valid CSS {#using-valid-css}
- 
+
 You can input any valid CSS string in the **[!UICONTROL Add custom CSS]** text area. Properly formatted CSS is immediately applied to the content.
 
 >[!CAUTION]
 >
->You are responsible for the security of your custom CSS. Ensure your CSS does not introduce vulnerabilities or conflicts with the existing content. 
+>You are responsible for the security of your custom CSS. Ensure your CSS does not introduce vulnerabilities or conflicts with the existing content.
 >
 >Avoid using CSS that could unintentionally break the content's layout or functionality.
 
@@ -130,7 +130,7 @@ Below are examples of valid CSS.
 +++ Samples of invalid CSS
 
 If invalid CSS is entered, an error message is displayed, indicating the CSS cannot be saved. Below are examples of invalid CSS.
- 
+
 Using `<style>` tags is not accepted:
 
 ```html
@@ -145,7 +145,7 @@ Using `<style>` tags is not accepted:
 </style>
 
 ```
- 
+
 Invalid syntax such as missing braces is not accepted:
 
 ```css
@@ -156,10 +156,10 @@ body {
 +++
 
 ## Technical implementation {#implementation}
- 
+
 Your custom CSS is added to the end of the `<head>` section as part of a `<style>` tag with the `data-name="global-custom"` attribute, such as in the example below. This ensures the custom styles are applied globally to the content.
 
-+++ See sample 
++++ See sample
 
 ```html
 <!DOCTYPE html>
@@ -226,11 +226,11 @@ If your custom CSS is not applied, try the suggestions below.
   +++
 
 * Ensure your CSS is not overridden by other CSS rules.
- 
+
   * Use your browser developer tools to inspect the content and verify your CSS is targeting the correct selectors.
-  
+
   * Consider adding `!important` to your declarations to ensure they take precedence.
-  
+
     +++ For example:
 
     ```css

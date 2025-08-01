@@ -40,8 +40,8 @@ View and make changes to settings in the My Account section of Admin.
 * Access Event Partners - Gives users access to LaunchPoint in Admin
 * Access Experience Cloud Audience Sharing - Gives users access to sync an audience From Adobe Experience Cloud to Marketo Engage
 * Access Field Management - Gives users access to Field Management in Admin
-* Access File Upload - Gives users the ability to upload images and files to the Design Studio  
-* Access Landing Pages - Gives users access to Landing Pages in Admin  
+* Access File Upload - Gives users the ability to upload images and files to the Design Studio
+* Access Landing Pages - Gives users access to Landing Pages in Admin
 * Access Location - Gives users access to Location in Admin for setting default language, locale, time zone, and currency
 * Access Login History - Gives users access to User Login History in Audit Trail
 * Access Login Settings - Gives users access to Login Settings in Admin for Security, IP Restrictions, and Smart List Report settings
@@ -69,7 +69,7 @@ _&#42;To avoid disruption for existing users, this permission is being introduce
 Gives users with the **API Only** **Role** access to the individual APIs listed below.
 
 * Approve Assets
-* Execute Campaign  
+* Execute Campaign
 * Read-Only Activity
 * Read-Only Activity Metadata
 * Read-Only Assets
@@ -181,7 +181,7 @@ View the database as well as view and edit smart/static lists.
 * Import Custom Object
 * Import List
 * Merge People
-* Run Single Flow Actions - Enables users to run **Change Data Value** flow step on people from the database  
+* Run Single Flow Actions - Enables users to run **Change Data Value** flow step on people from the database
 
 * View Opportunity Data - Hides the opportunity info on the person detail page
 
@@ -212,7 +212,7 @@ View the Marketing Activities tab, campaigns, and campaign folders.
 * Edit Marketing Asset
 * Export Campaign Activity&#42;
 * Import Program
-* List Import  
+* List Import
 * Schedule Batch Campaign
 
 Access SEO

@@ -9,7 +9,7 @@ exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
 ---
 # Fragments
 
-A fragment is a reusable component that can be referenced in one or more emails and email templates. It is usually a block of content (text, image, or both) that can be quickly inserted into your project. With this functionality, you can prebuild multiple custom content blocks to assemble email content for an improved design process. Common use cases include header/footer content blocks for email, event invite banners, seasonal messages, and more. 
+A fragment is a reusable component that can be referenced in one or more emails and email templates. It is usually a block of content (text, image, or both) that can be quickly inserted into your project. With this functionality, you can prebuild multiple custom content blocks to assemble email content for an improved design process. Common use cases include header/footer content blocks for email, event invite banners, seasonal messages, and more.
 
 >[!NOTE]
 >
@@ -48,7 +48,7 @@ Select the columns you want and click **[!UICONTROL Apply]**.
 
 ### Fragment status {#fragment-status}
 
-The fragment status determines its availability for use in an email or email template and the changes you can make to it. 
+The fragment status determines its availability for use in an email or email template and the changes you can make to it.
 
 <table>
 <tbody>
@@ -75,7 +75,7 @@ The fragment status determines its availability for use in an email or email tem
   </tr>
   <tr>
     <td style="width:25%"><b>Published with draft</b></td>
-    <td style="width:75%">When you create a draft from a published fragment, the published version remains available for use in an email or email template, and the draft content can be modified in the visual designer. If you publish the draft version, it replaces the current published version and the content is updated in <i>all</i> the emails and email templates where it is in use. 
+    <td style="width:75%">When you create a draft from a published fragment, the published version remains available for use in an email or email template, and the draft content can be modified in the visual designer. If you publish the draft version, it replaces the current published version and the content is updated in <i>all</i> the emails and email templates where it is in use.
     <p>Available actions:
     <li>Edit description</li>
     <li>Add to an email or template</li>
@@ -198,7 +198,7 @@ Edits to a fragment depend on its current status:
 
 1. If you want to update the content, click **[!UICONTROL Create draft version]** at the top right.
 
-   Click **[!UICONTROL OK]** in the dialog to open the draft version in the visual designer. You can change the `image source` KG - LINK HERE if needed. 
+   Click **[!UICONTROL OK]** in the dialog to open the draft version in the visual designer. You can change the `image source` KG - LINK HERE if needed.
 
    ![Create draft version dialog](assets/fragments-create-draft-version.png){width="300"}
 

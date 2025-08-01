@@ -13,7 +13,7 @@ Learn how to add new images or files to your Marketo Engage instance.
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. Select **[!UICONTROL Images and Files]** 
+1. Select **[!UICONTROL Images and Files]**
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
