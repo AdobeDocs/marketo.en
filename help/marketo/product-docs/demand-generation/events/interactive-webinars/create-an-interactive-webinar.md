@@ -59,11 +59,3 @@ Create an Interactive Webinar in a few easy steps.
 >It is recommended that two consecutive events are spaced out by 30 minutes (unless the license supports concurrent webinars) as a buffer in case the previous webinar runs beyond its scheduled time.
 
 Now, it's time to [design your webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
-
->[!IMPORTANT]
->
->It is highly recommended that you design your webinar _before_ adding presenters or co-hosts.
-
->[!MORELIKETHIS]
->
->[Learn how to add presenters and/or co-hosts](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}
