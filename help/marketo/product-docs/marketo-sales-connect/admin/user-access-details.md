@@ -37,30 +37,30 @@ Admins can stop campaigns on behalf of users.
 
 * Analytics:
 
-    * Users can see team analytics
-    * Users can drill into just the teams they belong to
-    * Users can look at their own analytics
+  * Users can see team analytics
+  * Users can drill into just the teams they belong to
+  * Users can look at their own analytics
 
 * Relationships Page:
 
-    * Users can share groups with everyone
-    * Users can share groups with just the teams they belong to
-    * When a user is deleted, their shared contacts transfer ownership to the Master Admin who deleted the user
+  * Users can share groups with everyone
+  * Users can share groups with just the teams they belong to
+  * When a user is deleted, their shared contacts transfer ownership to the Master Admin who deleted the user
 
 * Sales Beat - Next and Live Feed:
 
-    * Users can view the ‘everyone’ view
-    * Users can filter by the team(s) they belong to
-    * User can share posts with everyone
-    * Users can share posts with just the team(s) they belong to
+  * Users can view the ‘everyone’ view
+  * Users can filter by the team(s) they belong to
+  * User can share posts with everyone
+  * Users can share posts with just the team(s) they belong to
 
 * Team Management Page:
 
-    * Cannot view
+  * Cannot view
 
 * Templates Page:
 
-    * Users can share templates with everyone
-    * Users can share templates in categories their Admins allow them to
-    * When a user is removed from a team, their templates are unshared with that team
-    * When a user is deleted from a team their templates transfer ownership to the Master Admin who deleted the user
+  * Users can share templates with everyone
+  * Users can share templates in categories their Admins allow them to
+  * When a user is removed from a team, their templates are unshared with that team
+  * When a user is deleted from a team their templates transfer ownership to the Master Admin who deleted the user

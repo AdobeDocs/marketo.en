@@ -57,7 +57,7 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 **Example Name:** Alternate Email - Keep an alternate email address for your people (cannot actually send emails to this field like the default email address field, that one is special)
 
-**Example Values:** name@company.com
+**Example Values:** <name@company.com>
 
 **Operators**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
 
@@ -127,6 +127,6 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 **Example Name:** Blog - create a field to store person blog urls
 
-**Example Value:** www.myblog.com
+**Example Value:** <www.myblog.com>
 
 **Operators**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty

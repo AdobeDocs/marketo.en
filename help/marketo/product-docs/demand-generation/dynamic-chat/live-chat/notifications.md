@@ -40,5 +40,4 @@ If agents still aren't receiving notifications after allowing them in their brow
 
 [Notifications: Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
 
-
 DID MSI ACTIONS NOTIFICATIONS EVER HAPPEN???

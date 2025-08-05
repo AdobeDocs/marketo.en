@@ -76,4 +76,3 @@ At the bottom of the live chat window is an icon that allows you to share your o
 1. The chat visitor will be able to book a meeting.
 
    ![](assets/agent-inbox-10.png)
-

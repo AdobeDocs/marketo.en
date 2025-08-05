@@ -24,9 +24,9 @@ In Marketing Activities, you should use folders to organize your programs. The s
 >* Active Marketing Programs
 >   * Emails
 >   * Events
->      * Live Events / Roadshows
->      * Tradeshows
->      * Webinars
+>     * Live Events / Roadshows
+>     * Tradeshows
+>     * Webinars
 >   * Newsletters
 >   * Nurture
 >   * Web Content
@@ -42,8 +42,8 @@ In Marketing Activities, you should use folders to organize your programs. The s
 >   * Sales Requested Campaigns
 >* **Archive**
 >   * Archive Events
->      * Archive 2012
->      * Archive 2013
+>     * Archive 2012
+>     * Archive 2013
 
 Each of these mentioned in the example is a folder. Notice how they are all uniquely named. You can have duplicate (simpler) names of folders INSIDE programs, but not at the root of the tree.
 

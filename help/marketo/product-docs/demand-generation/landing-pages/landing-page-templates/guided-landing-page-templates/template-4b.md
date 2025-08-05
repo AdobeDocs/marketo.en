@@ -16,7 +16,7 @@ This template includes the following content:
 * A header section (optional)
 * A prime section
 
-    * includes a hero image and a CTA button
+  * includes a hero image and a CTA button
 
 * Five body sections (optional)
 * Footer (optional)

@@ -299,4 +299,3 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Not Available</td>
   </tr>
 </tbody></table>
-

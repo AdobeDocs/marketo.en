@@ -16,7 +16,7 @@ This template includes the following content:
 * A header (optional)
 * A primary section
 
-    * Includes title, text and sweepstakes
+  * Includes title, text and sweepstakes
 
 * Four body sections (optional)
 * Footer (optional)

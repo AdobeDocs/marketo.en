@@ -16,7 +16,7 @@ There are three types of dynamic fields in Sales Insight Actions: Basic, Custom,
 
 [!DNL Salesforce] Fields: e.g. `{{sfdc_account_name}}`
 
-* Make sure it's properly hooked up with Sales Insight Actions. Go to the [Settings](https://toutapp.com/login{target="_blank"} page and click **Manage** next to your CRM.
+* Make sure it's properly hooked up with Sales Insight Actions. Go to the [Settings](<https://toutapp.com/login{target="_blank"}> page and click **Manage** next to your CRM.
 
 **Troubleshooting Basic and Custom Fields**
 

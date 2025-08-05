@@ -52,7 +52,7 @@ If your Adobe Marketo Engage account is connected to [!DNL Salesforce] through a
 
 1. Sync the [!DNL Salesforce] Accounts to Marketo.
 
-   A Marketo Company will need to be upserted for the [!DNL Salesforce] Account. The _externalCompanyId_ and _externalSalesPersonId_ fields are mandated for the upsert of the Company.
+   A Marketo Company will need to be upserted for the [!DNL Salesforce] Account. The *externalCompanyId* and *externalSalesPersonId* fields are mandated for the upsert of the Company.
 
    <table>
     <colgroup>
@@ -84,7 +84,7 @@ If your Adobe Marketo Engage account is connected to [!DNL Salesforce] through a
 
 1. Sync the [!DNL Salesforce] Leads/Contacts to Marketo.
 
-   You will need to upsert a Marketo Lead for the [!DNL Salesforce] Lead/Contact. The _externalPersonId_, _externalSalesPersonId_, and _externalCompanyId_ fields are mandated for the upsert of the Lead.
+   You will need to upsert a Marketo Lead for the [!DNL Salesforce] Lead/Contact. The *externalPersonId*, *externalSalesPersonId*, and *externalCompanyId* fields are mandated for the upsert of the Lead.
 
    <table>
     <colgroup>
@@ -121,7 +121,7 @@ If your Adobe Marketo Engage account is connected to [!DNL Salesforce] through a
 
 1. Sync [!DNL Salesforce] Opportunities to Marketo.
 
-   You will need to upsert a Marketo Opportunity for the [!DNL Salesforce] Opportunity. The _externalOpportunityId_, _externalCompanyId_, and _externalSalesPersonId_ fields are mandated for the upsert of the Opportunity.
+   You will need to upsert a Marketo Opportunity for the [!DNL Salesforce] Opportunity. The *externalOpportunityId*, *externalCompanyId*, and *externalSalesPersonId* fields are mandated for the upsert of the Opportunity.
 
    <table>
     <colgroup>
@@ -158,7 +158,7 @@ If your Adobe Marketo Engage account is connected to [!DNL Salesforce] through a
 
 1. Sync [!DNL Salesforce] Contact Roles to Marketo.
 
-   [!DNL Salesforce] Contact Roles for a [!DNL Salesforce] Opportunity can be then synced via the Marketo Opportunity Role. The Opportunity Role record mandates the _externalOpportunityId_, _role_, and _leadId_ fields.
+   [!DNL Salesforce] Contact Roles for a [!DNL Salesforce] Opportunity can be then synced via the Marketo Opportunity Role. The Opportunity Role record mandates the *externalOpportunityId*, *role*, and *leadId* fields.
 
    <table>
     <colgroup>
@@ -197,7 +197,7 @@ If your Adobe Marketo Engage account is connected to [!DNL Salesforce] through a
 
    Once your [!DNL Salesforce] objects are correctly synced to Marketo, you can then take advantage of the MSI features. The MSI Last Interesting Moment/Scoring fields will be exposed in the REST API for Leads. These fields are calculated by MSI and are read-only.
 
-   The Last Interesting Moment/Scoring fields of a Marketo Lead will need to be regularly synced to [!DNL Salesforce] by using the REST API Lead endpoint. Query this endpoint for a Marketo Lead using the _externalPersonId_ as the filterType and passing in the [!DNL Salesforce] Lead GUID as the filterValue.
+   The Last Interesting Moment/Scoring fields of a Marketo Lead will need to be regularly synced to [!DNL Salesforce] by using the REST API Lead endpoint. Query this endpoint for a Marketo Lead using the *externalPersonId* as the filterType and passing in the [!DNL Salesforce] Lead GUID as the filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&filterValues=salesforceLeadId1,salesforceLeadId2  |
    |---|

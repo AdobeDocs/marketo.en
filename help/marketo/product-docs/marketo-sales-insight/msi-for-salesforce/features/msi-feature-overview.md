@@ -19,17 +19,17 @@ MSI Visualforce Panel includes the following functionalities:
 
 * Tabs
 
-    * [Insights Dashboard](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-    * Interesting Moments
-    * Web Activity
-    * Email
-    * Score
+  * [Insights Dashboard](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+  * Interesting Moments
+  * Web Activity
+  * Email
+  * Score
 
 * Actions
 
-    * Add to Marketo Campaign
-    * Send Marketo Email
-    * Add/Remove from Watch List
+  * Add to Marketo Campaign
+  * Send Marketo Email
+  * Add/Remove from Watch List
 
 * Stars & Flames
 
@@ -138,37 +138,37 @@ The following features are **not available** in the Opportunity Layout page:
 
 * [!DNL Best Bets]
 
-    * Includes ability to create and edit views. Ability to Hide Best Bets depending on configuration of "Default Hide" option in Marketo Configuration page
-    * Columns - Name, Account, Last Interesting Moment, Status Header, Engagement (Stars & Flames), Hide
+  * Includes ability to create and edit views. Ability to Hide Best Bets depending on configuration of "Default Hide" option in Marketo Configuration page
+  * Columns - Name, Account, Last Interesting Moment, Status Header, Engagement (Stars & Flames), Hide
 
 * My Watch List
 
-    * Includes ability to create and edit views
-    * Columns - Name, Account, Last Interesting Moment, Status Header, Engagement (Stars & Flames), Remove
+  * Includes ability to create and edit views
+  * Columns - Name, Account, Last Interesting Moment, Status Header, Engagement (Stars & Flames), Remove
 
 * Web Activity
 
-    * Includes ability to create and edit views, time frame filter functionality
-    * Column - Page view, Name, Account, Last Visit
+  * Includes ability to create and edit views, time frame filter functionality
+  * Column - Page view, Name, Account, Last Visit
 
 * Anonymous Web Activity
 
-    * Includes ability to create and edit views, time frame filter functionality
-    * Columns - Page View, Company, Last Visit, Research (opens LinkedIn page of the company)
+  * Includes ability to create and edit views, time frame filter functionality
+  * Columns - Page View, Company, Last Visit, Research (opens LinkedIn page of the company)
 
 * My Email
 
-    * Includes ability to create and edit views
-    * Columns - Name, Account, Subject, Date, Open, Click
+  * Includes ability to create and edit views
+  * Columns - Name, Account, Subject, Date, Open, Click
 
 * Lead feed - Includes ability to subscribe to interesting moments, RSS feed on Configuration page must be enabled to use this feature
 
-    * Lead/Contact who had this interesting moment
-    * Interesting Moment type (web, email, or milestone) and description
-    * Account Name
-    * Time this interesting moment occurred
-    * Subscribe option to receive email notification for this type of event
-    * High priority icon to show this person is a Best Bet
+  * Lead/Contact who had this interesting moment
+  * Interesting Moment type (web, email, or milestone) and description
+  * Account Name
+  * Time this interesting moment occurred
+  * Subscribe option to receive email notification for this type of event
+  * High priority icon to show this person is a Best Bet
 
 ## [!DNL Marketo Sales Insight] Configuration Tab {#marketo-sales-insight-configuration-tab}
 

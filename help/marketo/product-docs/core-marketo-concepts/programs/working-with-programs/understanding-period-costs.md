@@ -33,7 +33,7 @@ Imagine an event, like a webinar, that occurs in March. New people are acquired 
 
    ![](assets/graph1.png)
 
-   ...contacts added in the months before and after will *only* count towards March.
+   ...contacts added in the months before and after will _only_ count towards March.
 
    ![](assets/graph2.png)
 

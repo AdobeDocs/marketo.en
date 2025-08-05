@@ -17,22 +17,22 @@ Capabilities include:
 
 * Sending audiences to paid media systems in order to target known prospects with personalized display ads to nurture or reactivate them
 
-    * Segment by buyer stage, engagement level, and more
-    * Expand audiences to improve acquisition
-    * Target email subscribes and non-responders with ads
-    * Nurture across channels, for example, email and digital ads
+  * Segment by buyer stage, engagement level, and more
+  * Expand audiences to improve acquisition
+  * Target email subscribes and non-responders with ads
+  * Nurture across channels, for example, email and digital ads
 
 * Ingesting leads or data from paid media systems into Marketo
 
-    * For example, a [!DNL Facebook] user clicks a Subscribe button and provides a name and email address
+  * For example, a [!DNL Facebook] user clicks a Subscribe button and provides a name and email address
 
 * Uploading offline conversion data to paid media systems, optimizing lead acquisition and nurture efforts
 
-    * For example, a person searches, sees and clicks an ad, then fills out a form online. After that, he receives a demo offline and becomes a CRM opportunity. That's where the advertiser targets him
+  * For example, a person searches, sees and clicks an ad, then fills out a form online. After that, he receives a demo offline and becomes a CRM opportunity. That's where the advertiser targets him
 
 * Retargeting of website visitors, using [Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}, to drive them back to your website
 
-    * Personalize by segment or vertical
+  * Personalize by segment or vertical
 
 ## Current Functionality {#current-functionality}
 

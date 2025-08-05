@@ -19,15 +19,15 @@ Content locking can be applied either at the **structure** level, or at the **co
 
 * When a structure is locked:
 
-    * All content within that structure is also locked.
-    * No content can be added to the structure.
-    * By default, you cannot delete the structure. You can override this restriction by enabling the "Allow delete" option.
-    * Individual content components within the locked structure can be set as editable.
+  * All content within that structure is also locked.
+  * No content can be added to the structure.
+  * By default, you cannot delete the structure. You can override this restriction by enabling the "Allow delete" option.
+  * Individual content components within the locked structure can be set as editable.
 
 * When a structure is editable (structure not locked):
 
-    * Individual content components can be locked inside that structure.
-    * By default, you cannot delete a component if it is locked, or if the "Editable content lock only" is selected. You can override this restriction by enabling the "Allow delete" option.
+  * Individual content components can be locked inside that structure.
+  * By default, you cannot delete a component if it is locked, or if the "Editable content lock only" is selected. You can override this restriction by enabling the "Allow delete" option.
 
 ## Lock an email template {#lock-an-email-template}
 

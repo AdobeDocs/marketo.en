@@ -15,7 +15,7 @@ This template includes the following content:
 
 * A primary section
 
-    * Includes a hero header, hero text and a hero image
+  * Includes a hero header, hero text and a hero image
 
 * Three body sections (optional)
 * A footer (optional)

@@ -43,7 +43,7 @@ It's a snap to set your event dates.
 
 ## Add People to Your Event {#add-people-to-your-event}
 
-Now that you know the _when_, it's time to add the *who*.
+Now that you know the _when_, it's time to add the _who_.
 
 1. If you already have a list of people, in My Marketo, click the **[!UICONTROL Database]** tile.
 

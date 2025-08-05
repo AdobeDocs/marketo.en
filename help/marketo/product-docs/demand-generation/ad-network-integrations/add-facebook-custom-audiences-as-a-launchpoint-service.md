@@ -39,7 +39,7 @@ With this integration you can send audience data from Marketo static and smart l
 
    >[!NOTE]
    >
-   >You _must_ use a [!DNL Facebook] Business Manager account in order for your Custom Audiences integration to work. To learn how to set up a Business Manager account, refer to [[!DNL Facebook] Help](https://www.facebook.com/business/help/1710077379203657).
+   >You *must* use a [!DNL Facebook] Business Manager account in order for your Custom Audiences integration to work. To learn how to set up a Business Manager account, refer to [[!DNL Facebook] Help](https://www.facebook.com/business/help/1710077379203657).
 
 1. If prompted, click **[!UICONTROL OK]** to accept the Marketo app installation into [!DNL Facebook].
 

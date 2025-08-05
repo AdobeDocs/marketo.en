@@ -15,7 +15,7 @@ This template includes the following content:
 
 * A primary section
 
-    * includes hero title, hero text, hero poll
+  * includes hero title, hero text, hero poll
 
 * Five body sections (optional)
 * Footer (optional)

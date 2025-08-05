@@ -44,7 +44,7 @@ The **Clicks Link in SMS Message** trigger initiates a flow when a person clicks
 
 The **Subscribed to Vibes List** filter finds anyone who has *ever* subscribed to Vibes. This includes both unsubscribed and deleted people, even though deleted people are omitted from the flow. This filter is best suited for reporting.
 
-By contrast, the **Member of Vibes List** filter finds _anyone_ currently subscribed to Vibes and is most suited for use in Smart Campaigns or lists.
+By contrast, the **Member of Vibes List** filter finds *anyone* currently subscribed to Vibes and is most suited for use in Smart Campaigns or lists.
 
 >[!NOTE]
 >

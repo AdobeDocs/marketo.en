@@ -44,7 +44,7 @@ The presenter is an external role that participates in delivering the webinar ex
 
 >[!NOTE]
 >
-> The ![copy co-host URL icon](assets/icon-copy-join-url.png) icon copies the co-host joining URL, and the ![send co-host an invitation email](assets/icon-send-invitation-email.png) icon sends the co-host an invitation email. 
+> The ![copy co-host URL icon](assets/icon-copy-join-url.png) icon copies the co-host joining URL, and the ![send co-host an invitation email](assets/icon-send-invitation-email.png) icon sends the co-host an invitation email.
 
 ## Add a Presenter {#add-a-presenter}
 

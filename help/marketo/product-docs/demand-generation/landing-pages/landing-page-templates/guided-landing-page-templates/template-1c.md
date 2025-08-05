@@ -15,7 +15,7 @@ This template includes the following content:
 
 * A primary section
 
-    * includes a video, header, body text, and button.
+  * includes a video, header, body text, and button.
 
 * Three body sections (optional)
 * Footer (optional)

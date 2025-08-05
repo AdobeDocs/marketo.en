@@ -36,8 +36,8 @@ The following features are expected to release throughout the second calendar qu
 
 * **Event Caps** and **Event Goals** are generally available in [!DNL Marketo Sky] under the Premium Events add-on.
 
-   * Event Caps: Optimize the customer experience for your events and webinars with registration caps, page redirects, and waitlisting functionality.
-   * Event Goals: Set event registration and attendance goals and track progress in real time.
+  * Event Caps: Optimize the customer experience for your events and webinars with registration caps, page redirects, and waitlisting functionality.
+  * Event Goals: Set event registration and attendance goals and track progress in real time.
 
 * **Full Navigation Links**: We've enabled navigation to all permissioned applications, such as Hootsuite, Calendar, and more.
 * **Email, Landing Page, Snippet, Form, Image, and File List Views**: View, search, and take mass actions on any of your assets in Design Studio.
@@ -62,4 +62,4 @@ The following features are expected to release throughout the second calendar qu
 * **Drift Integration**: Understand how Drift conversations impact your customer’s journey. [!DNL Bizible] will also pull email addresses from conversations to either create a new lead or connect the touchpoint to an existing lead.
 * **Localization**: [!DNL Bizible] is now available in all Marketo-supported languages (English, Japanese, German, Spanish, French, and Portuguese).
 
-***Product Release Webinar*** Watch the recording of our June '19 Release Innovations webinar [here](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**Product Release Webinar**_ Watch the recording of our June '19 Release Innovations webinar [here](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

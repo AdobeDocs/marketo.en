@@ -15,7 +15,7 @@ This template includes the following content:
 
 * A primary section
 
-    * includes hero sweepstakes and text
+  * includes hero sweepstakes and text
 
 * Four body sections (optional)
 * Footer (optional)

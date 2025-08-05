@@ -47,8 +47,8 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 * **Email Service**: Enjoy better deliverability plus improved Reply Tracking, Scheduled Email functionality, and bulk email functionality by connecting to [!DNL Microsoft Outlook] (either through Office365 or On-Prem through the Email Connection tab).
 * **New Admin Settings**: Two admin pages have been added to optimize your Sales Engage instance
 
-   * _Team Management_ supports a seamless account set-up process by allowing admins to edit subscriptions and teams.
-   * _Salesforce Admin Settings_ helps teams set up their SFDC sync faster and easier than ever before.
+  * *Team Management* supports a seamless account set-up process by allowing admins to edit subscriptions and teams.
+  * *Salesforce Admin Settings* helps teams set up their SFDC sync faster and easier than ever before.
 
 * **OWA Plugin for [!DNL Windows]**: With one single add-in, all [!DNL Windows Office365] clients will be supported in Sales Engage, providing the ability to use Live Feed in Outlook. The new plugin will be available in the Microsoft Store.
 * **Activities Pusher**: Sync Sales Engage to the core Marketo platform to leverage real-time marketing insights.

@@ -9,6 +9,7 @@ feature: Marketo Sales Insights
 The [!UICONTROL Best Bets] tab includes a list of all your hot leads based on their priority, calculated using urgency and relative score.
 
 By clicking the dot menu under the Actions column, you can use engagement options like:
+
 * [!UICONTROL Send Marketo Email]
 * [!UICONTROL Add to Marketo Campaign]
 

@@ -16,7 +16,6 @@ Marketo currently supports the following browsers:
 | [[!DNL Apple Safari]](https://www.apple.com/safari/){target="_blank"} |latest |
 | [[!DNL Microsoft Edge]](https://www.microsoft.com/en-us/windows/microsoft-edge){target="_blank"} |latest |
 
-
 >[!NOTE]
 >
 >For users who have been migrated to [Marketo with Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, all browsers are supported on both Mac and Windows, with the exception of Microsoft Edge in Strict mode.

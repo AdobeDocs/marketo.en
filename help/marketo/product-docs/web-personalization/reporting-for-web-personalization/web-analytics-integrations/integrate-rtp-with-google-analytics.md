@@ -58,7 +58,7 @@ Measure your RTP campaigns and correlate them with your overall site average. Le
 
 ## Setting up RTP with Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Add the email rtp.ga2@gmail.com as a Read & Analyze user to your GA account. For more details, see [here](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Add the email <rtp.ga2@gmail.com> as a Read & Analyze user to your GA account. For more details, see [here](https://support.google.com/analytics/answer/2884495?hl=en).
 
 1. In your RTP account. Go to **[!UICONTROL Account Settings]**.
 

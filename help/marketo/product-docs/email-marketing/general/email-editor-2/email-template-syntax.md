@@ -224,7 +224,7 @@ Optional attributes
 
 Example Declaration:
 
-`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> `
+`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1">`
 
 Example Usage:
 
