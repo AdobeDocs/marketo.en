@@ -16,7 +16,7 @@ This template includes the following content:
 * A header (optional)
 * A primary section
 
-    * includes hero title and survey
+  * includes hero title and survey
 
 * Six body sections (optional)
 * Footer (optional)

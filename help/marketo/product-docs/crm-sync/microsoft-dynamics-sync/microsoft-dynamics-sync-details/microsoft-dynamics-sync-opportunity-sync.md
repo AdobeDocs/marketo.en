@@ -31,5 +31,4 @@ The Contact/Account can be associated to Opportunity in two ways:
   * If the account value is set and contact is left empty, Marketo will only set the account on the opportunity to this account.
   * If both values are set, Dynamics picks account as the value for customerid, so the behavior would be the same as above.
 
-
 * Through Stakeholders: Dynamics uses connections to connect opportunity to contact through stakeholders from the opportunity create page. For this, we will create an `opportunitycontactrole` record for every new stakeholder.

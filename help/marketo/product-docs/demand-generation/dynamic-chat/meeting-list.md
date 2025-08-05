@@ -19,4 +19,3 @@ This is where you'll see all of the appointments that have been scheduled by web
 When an action such as a meeting booking or a live chat fails, users are notified via email.
 
    ![](assets/meeting-list-2.png)
-

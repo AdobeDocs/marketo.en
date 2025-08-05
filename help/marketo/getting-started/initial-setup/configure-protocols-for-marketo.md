@@ -249,22 +249,22 @@ There are two types of alignment for DMARC&mdash;DKIM alignment and SPF alignmen
 
 * DKIM-aligned DMARC&mdash;To set up DKIM aligned DMARC you must:
 
-   * Set up DKIM for the FROM: Domain of your message. Use the instructions [in this article](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
-   * Configure DMARC for the FROM:/DKIM Domain that was configured earlier
+  * Set up DKIM for the FROM: Domain of your message. Use the instructions [in this article](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+  * Configure DMARC for the FROM:/DKIM Domain that was configured earlier
 
 * DMARC-aligned SPF&mdash;To set up DMARC aligned SPF via branded return-path, you must:
 
-   * Set up Branded Return-Path Domain
-      * Configure the appropriate SPF record
-      * Change the MX record to point back to the default MX for the datacenter your mail will be sent out of
+  * Set up Branded Return-Path Domain
+    * Configure the appropriate SPF record
+    * Change the MX record to point back to the default MX for the datacenter your mail will be sent out of
 
-   * Configure DMARC for the Branded Return-Path Domain
+  * Configure DMARC for the Branded Return-Path Domain
 
 * If you're sending mail from Marketo Engage through a dedicated IP and have not already implemented branded return-path, or aren't sure if you have, please open a ticket with [Adobe Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 * If you're sending mail from Marketo Engage through a shared pool of IPs, you can see if you qualify for Trusted IPs by [applying here](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Branded return-path is offered for free to those sending from Marketo Engage Trusted IPs. If approved for this program, reach out to Adobe Support to set up branded return-path.
 
-   * Trusted IPs: A shared pool of IPs reserved for lower volume users sending <75K/month who do not qualify for a dedicated IP. These users must also meet best practice requirements as well.
+  * Trusted IPs: A shared pool of IPs reserved for lower volume users sending <75K/month who do not qualify for a dedicated IP. These users must also meet best practice requirements as well.
 
 * If you're sending mail from Marketo Engage through shared IPs and you do not qualify for Trusted IPs and send more than 100,000 messages per month, you'll need to contact the Adobe Account Team (your account manager) to purchase a dedicated IP.
 

@@ -15,7 +15,7 @@ When you use Marketo [!UICONTROL Web Personalization] and [!UICONTROL Target Acc
 * [!UICONTROL Account Lists] are managed (created, edited, and deleted) in TAM
 * [!UICONTROL Account Lists] are synced to [!UICONTROL Web Personalization] for use in Segmentation. Select them from the drop-down
 
-   * **Note**: The sync can take up to 5 minutes
+  * **Note**: The sync can take up to 5 minutes
 
 * In [!UICONTROL Web Personalization], you can create [segments targeting accounts from the Account List](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) you created in TAM, and personalize content for these accounts
 
@@ -27,7 +27,7 @@ If you're already using ABWM:
 * You can create, edit, and delete [!UICONTROL Account Lists] in TAM _and_ in ABWM
 * [!UICONTROL Account Lists] (from both ABWM and TAM) are synced to [!UICONTROL Web Personalization] for use in Segmentation
 
-   * **Note**: The sync can take up to 5 minutes
+  * **Note**: The sync can take up to 5 minutes
 
 * In [!UICONTROL Web Personalization], you can create segments targeting accounts from [!UICONTROL Account Lists] created in _both_ ABWM and TAM and personalize content for these accounts
 * You can upload CSV files on the [!UICONTROL Web Personalization] Account List page

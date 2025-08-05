@@ -15,7 +15,7 @@ This template includes the following content:
 
 * A primary section
 
-    * includes a logo image, a hero header and a poll
+  * includes a logo image, a hero header and a poll
 
 * Eight body sections (optional)
 * A footer (optional)

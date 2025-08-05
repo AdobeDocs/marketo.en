@@ -44,9 +44,9 @@ The Settings tab also includes a quick overview of your Smart Campaign. It inclu
 * Last modified
 * Smart List mode
 * Smart List status:
-   * Estimated people who will be affected
-   * Estimated people who are blocked from emails
-   * Estimated people who are in a wait step
+  * Estimated people who will be affected
+  * Estimated people who are blocked from emails
+  * Estimated people who are in a wait step
 
 Permission sets and Errors in Settings tab:
 

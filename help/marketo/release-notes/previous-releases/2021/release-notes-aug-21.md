@@ -57,8 +57,8 @@ The following features are on a non-quarterly cycle and will be released through
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible] [!DNL LinkedIn] Lead Gen Forms Integration**: Marketers can now perform revenue attribution on conversions that occur when [!DNL LinkedIn] captures form fills through their Lead Gen Forms ad units. These insights can then be used to optimize form performance and paid media investments. [!DNL LinkedIn] Lead Gen Forms are one of [!DNL LinkedIn]’s fastest-growing paid media offerings and this new capability is included with our existing [!DNL LinkedIn] Ads integration with [!DNL Bizible]. 
- 
+* **[!DNL Bizible] [!DNL LinkedIn] Lead Gen Forms Integration**: Marketers can now perform revenue attribution on conversions that occur when [!DNL LinkedIn] captures form fills through their Lead Gen Forms ad units. These insights can then be used to optimize form performance and paid media investments. [!DNL LinkedIn] Lead Gen Forms are one of [!DNL LinkedIn]’s fastest-growing paid media offerings and this new capability is included with our existing [!DNL LinkedIn] Ads integration with [!DNL Bizible].
+
 * **Improved Velocity Dashboard**: We have added a new velocity metric and dashboard filter for deeper insights. This dashboard is used by marketers to understand stage-by-stage lead and opportunity velocity and the efficiency of different forms of marketing and sales engagement.
 
 * **New Cohort Waterfall Journey Dashboard**: This will enable marketers to view the progression of a selected cohort through a classic “demand waterfall” set of stages, providing a quick understanding of conversion rates and implied stage conversion causality on a stage-by-stage basis.

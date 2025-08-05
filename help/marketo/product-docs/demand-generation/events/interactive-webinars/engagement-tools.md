@@ -93,7 +93,7 @@ SCREENSHOT
 
 ### Custom pods {#custom-pods}
 
-Custom pods extend the functionality provided by Adobe Connect. Some of the popular custom pods available for free are Countdown Timer, Clock, House Keeper, Titler, and Word Cloud. Custom Pods can be downloaded from https://apps.adobeconnect.com/ as .pod or .zip file.
+Custom pods extend the functionality provided by Adobe Connect. Some of the popular custom pods available for free are Countdown Timer, Clock, House Keeper, Titler, and Word Cloud. Custom Pods can be downloaded from <https://apps.adobeconnect.com/> as .pod or .zip file.
 
 To use a custom pod:
 

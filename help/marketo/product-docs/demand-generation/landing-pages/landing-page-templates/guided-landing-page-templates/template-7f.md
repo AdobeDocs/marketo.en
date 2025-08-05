@@ -16,7 +16,7 @@ This template includes the following content:
 * A header (optional)
 * A primary section
 
-    * includes an image and a button
+  * includes an image and a button
 
 * Four body sections (optional)
 * A footer (optional)

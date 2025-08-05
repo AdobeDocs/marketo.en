@@ -30,7 +30,7 @@ This gives you two options:
 >
 >* **[!UICONTROL Deliver the following day in recipient’s time zone]**: if the email is scheduled to go out on Tuesday at 9:00am, qualified people who live in time zones where the scheduled time has already passed will receive the email on *Wednesday* at 9:00am.
 >
->* **[!UICONTROL Deliver using the program's default set time]**: if the email is scheduled to go out on Tuesday at 9:00am, qualified people who live in time zones where the scheduled time has already passed will receive the email _based on your subscription time zone settings_. So, if your [subscription time zone settings](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) are set to PDT America/Los Angeles, these recipients will still receive the email on Tuesday at 9:00am PDT (whatever time that may be in their own time zones).
+>* **[!UICONTROL Deliver using the program's default set time]**: if the email is scheduled to go out on Tuesday at 9:00am, qualified people who live in time zones where the scheduled time has already passed will receive the email *based on your subscription time zone settings*. So, if your [subscription time zone settings](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) are set to PDT America/Los Angeles, these recipients will still receive the email on Tuesday at 9:00am PDT (whatever time that may be in their own time zones).
 
 >[!NOTE]
 >
@@ -57,7 +57,7 @@ Once you approve your program, it starts running within 15 minutes.
 
 >[!NOTE]
 >
->Although the program will start the _process_ of sending emails in 15 minutes, emails won't be _delivered_ at that time. Recipients will still receive emails based on the **[!UICONTROL Time Zone Settings]** you choose.
+>Although the program will start the *process* of sending emails in 15 minutes, emails won't be *delivered* at that time. Recipients will still receive emails based on the **[!UICONTROL Time Zone Settings]** you choose.
 
 ## Scenario 2: More than 25 Hours {#scenario-more-than-hours}
 
@@ -75,8 +75,8 @@ This means that if you're in America/Los Angeles and want to enable both Head St
 
 In short, email programs scheduled with Recipient Time Zone need to start running at the scheduled time in the earliest time zone (i.e., where it reaches midnight first) in order to accommodate every time zone. So, if you schedule an email program...
 
-* **with a delivery time _within_ 25 hours**, the program starts running within 15 minutes. Recipients who have already passed the scheduled time will receive the email based on the time zone settings you've chosen.
-* **with a delivery time _more than_ 25 hours in the future**, the program starts running at the scheduled time in the earliest time zone (UTC +14:00).
+* **with a delivery time *within* 25 hours**, the program starts running within 15 minutes. Recipients who have already passed the scheduled time will receive the email based on the time zone settings you've chosen.
+* **with a delivery time *more than* 25 hours in the future**, the program starts running at the scheduled time in the earliest time zone (UTC +14:00).
 * **with Head Start**, the program starts processing 12 hours prior to the scheduled time in the earliest time zone (UTC +14:00).
 
 >[!CAUTION]

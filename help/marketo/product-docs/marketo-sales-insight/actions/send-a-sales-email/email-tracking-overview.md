@@ -16,7 +16,7 @@ Reply Tracking is done by looking at a message ID that’s in every email you se
 
 If [!DNL Sales Connect] can’t track your prospect’s reply to your email, it won’t be able to stop a campaign based on reply detection or log that reply to Salesforce. What do we mean any email address can reply?
 
-This means that if you email flynn@flynnsarcade.com and he responds with kevinf@flynnsarcade.com, we’re able to track the reply. Additionally, if you email flynn@flynnsarcade.com and CC alan@encom.com, and Alan writes you back, it will also detect the reply and end the campaign.
+This means that if you email <flynn@flynnsarcade.com> and he responds with <kevinf@flynnsarcade.com>, we’re able to track the reply. Additionally, if you email <flynn@flynnsarcade.com> and CC <alan@encom.com>, and Alan writes you back, it will also detect the reply and end the campaign.
 
 ## How to Track Your Email Attachments {#how-to-track-your-email-attachments}
 

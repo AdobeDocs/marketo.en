@@ -40,8 +40,8 @@ Here's a sample event, including campaigns, for an ON24 webinar. When you build 
 * **Smart List** - Define whom you will invite to the event.
 * **Flow**
 
-    * Send Email - If this is a local asset email, it will have the following naming convention: EventName.EmailName. You can also use global emails.
-    * Change Status in Progression - Set to Webinar > Invited.
+  * Send Email - If this is a local asset email, it will have the following naming convention: EventName.EmailName. You can also use global emails.
+  * Change Status in Progression - Set to Webinar > Invited.
 
 * **Schedule** - Set the date for the invitation to be sent.
 
@@ -49,7 +49,7 @@ Here's a sample event, including campaigns, for an ON24 webinar. When you build 
 
 * **Smart List**
 
-    * Trigger the campaign based on **[!UICONTROL Fills Out Form]**. Be sure to include the landing page that the form lives on by using **[!UICONTROL Add Constraint]**, especially if the form is used on multiple landing pages.
+  * Trigger the campaign based on **[!UICONTROL Fills Out Form]**. Be sure to include the landing page that the form lives on by using **[!UICONTROL Add Constraint]**, especially if the form is used on multiple landing pages.
 
 >[!CAUTION]
 >
@@ -59,9 +59,9 @@ Here's a sample event, including campaigns, for an ON24 webinar. When you build 
 
 * **Flow**
 
-    * **Change Status in Progression** - Set to Webinar > Registered. **CAUTION**: This flow step is required when setting up your child campaign. When a person’s progression status changes to **Registered**, Marketo pushes the registration information to ON24.
+  * **Change Status in Progression** - Set to Webinar > Registered. **CAUTION**: This flow step is required when setting up your child campaign. When a person’s progression status changes to **Registered**, Marketo pushes the registration information to ON24.
 
-    * **Send Email** - Confirmation email (set to **Operational** so that unsubscribed people that have registered still receive it).
+  * **Send Email** - Confirmation email (set to **Operational** so that unsubscribed people that have registered still receive it).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 

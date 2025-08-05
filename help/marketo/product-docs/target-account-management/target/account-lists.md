@@ -55,7 +55,7 @@ In addition to account lists, you can also create dynamic account lists that are
 
 >[!NOTE]
 >
->These steps apply only to account lists. _Dynamic_ account lists use the name of their associated CRM Account Views.
+>These steps apply only to account lists. *Dynamic* account lists use the name of their associated CRM Account Views.
 
 1. Select the account you want to rename, click the **[!UICONTROL Account List Actions]** drop-down and select **[!UICONTROL Rename Account List]**.
 

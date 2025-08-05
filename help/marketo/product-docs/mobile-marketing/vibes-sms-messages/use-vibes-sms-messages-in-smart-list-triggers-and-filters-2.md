@@ -27,10 +27,10 @@ SEND A SMS MESSAGE:
   * Smart List > Choose Vibes List filter & correct logic > Vibes list: Choose list from drop-down (mobile database list that syncs from Vibes platform)
     * Can refine segmentation & utilize SMS and email filters & triggers within one campaign
     * Vibes Filters: Subscribed to Vibes List vs. Member of Vibes List - logic is consistent with email
-       * Subscribed to Vibes List - participants who have ever subscribed to that Vibes list even if they are now unsubscribed.  - mostly utilized for cross channel marketing efforts
-          * Note: a SMS message will not send to anyone unsubscribed if they are not in the Vibes Mobile Database list
-       * Member of Vibes List - active, confirmed subscriber
-       * Added to List - Vibes lists will not populate with this filter; this is for Marketo lists
+      * Subscribed to Vibes List - participants who have ever subscribed to that Vibes list even if they are now unsubscribed.  - mostly utilized for cross channel marketing efforts
+        * Note: a SMS message will not send to anyone unsubscribed if they are not in the Vibes Mobile Database list
+      * Member of Vibes List - active, confirmed subscriber
+      * Added to List - Vibes lists will not populate with this filter; this is for Marketo lists
 
 ![](assets/new-sms-search2.png)
 
@@ -54,7 +54,7 @@ You can also use Vibes filters in smart lists. The **[!UICONTROL Subscribed to V
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-By contrast, the **Member of Vibes List** filter finds _anyone_ currently subscribed to Vibes and is most suited for use in Smart Campaigns or lists.
+By contrast, the **Member of Vibes List** filter finds *anyone* currently subscribed to Vibes and is most suited for use in Smart Campaigns or lists.
 
 ![](assets/image001.png)
 

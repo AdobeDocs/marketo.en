@@ -178,20 +178,20 @@ For further strategy assistance or help customizing a program, please contact th
 ## Conflict Rules {#conflict-rules}
 
 * **Program Tags**
-   * Create tags in this subscription - _Recommended_
-   * Ignore
+  * Create tags in this subscription - _Recommended_
+  * Ignore
 
 * **Landing Page template with the same name**
-   * Copy original template
-   * Use destination template - _Recommended_
+  * Copy original template
+  * Use destination template - _Recommended_
 
 * **Images with the same name**
-   * Keep both files
-   * Replace item in this subscription - _Recommended_
+  * Keep both files
+  * Replace item in this subscription - _Recommended_
 
 * **Email templates with the same name**
-   * Keep both templates
-   * Replace existing template - _Recommended_
+  * Keep both templates
+  * Replace existing template - _Recommended_
 
 ## Best Practices {#best-practices}
 

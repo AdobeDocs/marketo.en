@@ -39,7 +39,6 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    ![](assets/push-an-adobe-experience-platform-segment-6.png)
 
-
 1. Under Account Type, select the Existing or New Account radio button (in this example, we're choosing **[!UICONTROL Existing Account]**). Click the Select Account icon.
 
    ![](assets/push-an-adobe-experience-platform-segment-7.png)

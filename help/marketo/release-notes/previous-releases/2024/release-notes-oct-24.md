@@ -88,7 +88,6 @@ The following features fall under the standard release cycle and will start to b
 
 * **Rest API access_token Parameter Deprecation**: The 'access_token' query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after October 31, 2025. All new and existing integrations should authenticate REST API calls using the 'Authorization' header [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
-
 * **QR Code Deprecation**: On October 4, 2024, the QR code feature used in push notifications and in-app messaging assets will be deprecated. This includes using QR codes for a new test device, as well as creating new assets with QR codes. Deprecating features with lower usage allows us to reallocate their resources to the overall maintenance of Marketo Engage.
 
 * **Munchkin Changes**

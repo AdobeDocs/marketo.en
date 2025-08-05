@@ -142,7 +142,7 @@ In this article, you will set up user permissions in [!DNL Salesforce] profile, 
 
 >[!TIP]
 >
->Create a dedicated [!DNL Salesforce] account (e.g., marketo@yourcompany.com) to distinguish the changes made by Marketo versus other [!DNL Salesforce] users.
+>Create a dedicated [!DNL Salesforce] account (e.g., <marketo@yourcompany.com>) to distinguish the changes made by Marketo versus other [!DNL Salesforce] users.
 
 1. Type "Manage users" into the Nav search bar, then click on **[!UICONTROL Users]**. Click on **[!UICONTROL New User]**.
 

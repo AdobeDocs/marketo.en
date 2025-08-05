@@ -35,6 +35,7 @@ The following features fall under the standard release cycle and will start to b
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Toggle Switch</a></td>
   </tr>
   </tbody>
+
 </table>
 
 * **Enhanced Used by Component for Email Template Details and Snippet Details**: New Used By UI tab provides additional information about each of the Used By assets, such as when it was last modified and by whom. You can easily perform analysis through the search, sort, and filtering capabilities. This new UI component will be incorporated starting with the Email Template and Snippet assets.

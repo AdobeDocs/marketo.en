@@ -123,7 +123,7 @@ The Action constraints let you use the trigger and filters to track mobile activ
 >
 >**Example**
 >
->Under the action type of *Shopping*, here's a very specific action, with the other constraints defining it:
+>Under the action type of _Shopping_, here's a very specific action, with the other constraints defining it:
 >
 >* Bought a shirt
 >   * It was red

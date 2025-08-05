@@ -48,10 +48,10 @@ Flow Steps: If a Flow Step does _not_ include any choices, this card will show t
 
 * If the Execute or Request Campaign Flow Step does not include any choices, the card will show the name of the campaign. Clicking on the card will reveal a slide-out panel with the following information:
 
-   * Campaign the Flow Step belongs to
-   * Edit Flow Step
-   * List of attributes associated to the Flow Step
-   * "View List" button, which opens a list of campaigns that use the specific Request/Execute Campaign
+  * Campaign the Flow Step belongs to
+  * Edit Flow Step
+  * List of attributes associated to the Flow Step
+  * "View List" button, which opens a list of campaigns that use the specific Request/Execute Campaign
 
 >[!NOTE]
 >
@@ -59,16 +59,16 @@ Flow Steps: If a Flow Step does _not_ include any choices, this card will show t
 
 * If the Execute or Request Campaign Flow Step includes choices, clicking on the card will reveal a slide-out panel with the following information:
 
-   * Campaign the Flow Step belongs to
-   * List of choice conditions associated to the Flow Step
-   * Edit Flow Step
+  * Campaign the Flow Step belongs to
+  * List of choice conditions associated to the Flow Step
+  * Edit Flow Step
 
 * If an Execute or Request Campaign includes choices, clicking on the flow card will expand to show all choices in individual cards. Clicking on the _choice_ card will expand the campaign associated to the specific choice as well as reveal a slide-out panel with the following information:
 
-   * Campaign the choice belongs to
-   * Edit choice
-   * List of choice conditions associated to the Flow Step
-   * View list, which opens a list of campaigns that use the specific Request/Execute Campaign
+  * Campaign the choice belongs to
+  * Edit choice
+  * List of choice conditions associated to the Flow Step
+  * View list, which opens a list of campaigns that use the specific Request/Execute Campaign
 
    ![](assets/engagement-map-tab-10.png)
 

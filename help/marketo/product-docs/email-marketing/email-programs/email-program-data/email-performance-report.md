@@ -30,6 +30,7 @@ To see how well your emails are performing with stats like delivered, opened, cl
    [Select Report Columns](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for an Email Performance report include:
 
    <table><thead>
+
   <tr>
     <th>Column</th>
     <th>Description</th>
@@ -69,7 +70,7 @@ In general, we try to use common sense to record these statistics. For example, 
 
 * **Rule 1**: Each email activity record is set to one, and only one, of the following: _Delivered_, _Hard Bounced_, _Soft Bounced_, or _Pending_.
 
-* **Rule 2**: If the email record shows *[!UICONTROL Opened]*, it is counted as *Delivered*.
+* **Rule 2**: If the email record shows _[!UICONTROL Opened]_, it is counted as _Delivered_.
 
 * **Rule 3**: If the email record shows _[!UICONTROL Clicked Email]_ or _[!UICONTROL Unsubscribed]_, it is counted as _Delivered_ and _Opened_.
 

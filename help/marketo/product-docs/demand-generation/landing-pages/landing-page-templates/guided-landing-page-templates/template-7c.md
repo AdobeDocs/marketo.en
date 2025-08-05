@@ -16,7 +16,7 @@ This template includes the following content:
 * A header (optional)
 * A primary section
 
-    * includes a header and a poll
+  * includes a header and a poll
 
 * Four body sections (optional)
 * A footer (optional)

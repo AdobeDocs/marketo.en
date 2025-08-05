@@ -180,7 +180,7 @@ Whereas measures (blue dots) are calculated, and require some thought and explan
  </tbody>
 </table>
 
-*&#42;All of the Opportunities that gave any type of attribution credit to a Program. Opportunities can be influenced by one or more leads and by one or more Programs.*
+_&#42;All of the Opportunities that gave any type of attribution credit to a Program. Opportunities can be influenced by one or more leads and by one or more Programs._
 
 >[!MORELIKETHIS]
 >

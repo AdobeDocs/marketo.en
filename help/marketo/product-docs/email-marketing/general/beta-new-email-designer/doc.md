@@ -31,8 +31,6 @@ Add images that are stored in the [Images and Files](/help/marketo/product-docs/
 
 Click Enable condition content to add dynamic content and adapt the content to the targeted profiles based on conditional rules.
 
-
-
 If needed, you can further personalize your email by clicking Switch to code editor from the advanced menu. This allows you to edit the email source code, for example to add tracking or custom HTML tags.
 
 CAUTION

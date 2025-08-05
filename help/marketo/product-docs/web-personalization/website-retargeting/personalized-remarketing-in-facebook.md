@@ -18,35 +18,35 @@ Personalized Remarketing lets you re-engage with your users using RTP Data and t
 
    1. In [!DNL Facebook], go to your [Audience tab](https://www.facebook.com/ads/audience_manager) in Ads Manager.
 
-1. Click **[!UICONTROL Tools]** and select **[!UICONTROL Audiences]**.
+   1. Click **[!UICONTROL Tools]** and select **[!UICONTROL Audiences]**.
 
    ![](assets/one-1.png)
 
-1. Click **[!UICONTROL Create a Custom Audience]**.
+   1. Click **[!UICONTROL Create a Custom Audience]**.
 
    ![](assets/two-1.png)
 
-1. Select **[!UICONTROL Website Traffic]**.
+   1. Select **[!UICONTROL Website Traffic]**.
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. In the [!UICONTROL Website traffic] list, select **[!UICONTROL Custom Combination]**.
+   1. In the [!UICONTROL Website traffic] list, select **[!UICONTROL Custom Combination]**.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. In the Include list, select **[!UICONTROL Event]**.
+   1. In the Include list, select **[!UICONTROL Event]**.
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. In the [!UICONTROL Event] list, select **[!UICONTROL RTP Remarketing]** and select a parameter.
+   1. In the [!UICONTROL Event] list, select **[!UICONTROL RTP Remarketing]** and select a parameter.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. For this example, select [!UICONTROL Industry] to contain **[!UICONTROL Education]**. Enter **[!UICONTROL Education]**, and edit **[!UICONTROL In the Last]** to be 180 days. Enter Audience Name: **Education Industry**. Click **[!UICONTROL Create Audience]**.
+   1. For this example, select [!UICONTROL Industry] to contain **[!UICONTROL Education]**. Enter **[!UICONTROL Education]**, and edit **[!UICONTROL In the Last]** to be 180 days. Enter Audience Name: **Education Industry**. Click **[!UICONTROL Create Audience]**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
-1. You have now created a new custom audience using RTP data in [!DNL Facebook].
+   1. You have now created a new custom audience using RTP data in [!DNL Facebook].
 
    ![](assets/image2015-1-19-16-3a59-3a2.png)
 

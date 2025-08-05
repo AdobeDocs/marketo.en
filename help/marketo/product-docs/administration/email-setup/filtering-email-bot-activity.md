@@ -12,10 +12,10 @@ We use two separate methods to confirm bot activity:
 
 * Match with [Interactive Advertising Bureau bot list](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Activities that match with anything on the IAB UA/IP (User Agent/IP address) list will be marked as bots.
 * Match with proximity pattern: When two or more activities happen at the same time (in under a second), they're identified as bots. Attributes considered during comparison are:
-    * Lead ID (should be the same)
-    * Email asset (should be the same)
-    * Link click or email open
-    * Time difference (should be less than one second)
+  * Lead ID (should be the same)
+  * Email asset (should be the same)
+  * Link click or email open
+  * Time difference (should be less than one second)
 
 Against email link click and email open activity, new attributes will be populated with the values below:
 

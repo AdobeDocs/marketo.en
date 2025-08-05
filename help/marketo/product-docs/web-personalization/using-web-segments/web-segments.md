@@ -90,8 +90,8 @@ Define general parameters to your segment:
 * **Segment Rule Logic:**  Select an AND / OR logic to build each segmentation attribute
 * **Timing:** Define the level of visitor engagement you want in your campaign
 
-   * **On Entry**: Engage from the visitor arrives on the website
-   * **After 1st - 9th Click**: Engage the visitor after a specific amount of clicks on the website
+  * **On Entry**: Engage from the visitor arrives on the website
+  * **After 1st - 9th Click**: Engage the visitor after a specific amount of clicks on the website
 
 >[!TIP]
 >
@@ -132,8 +132,8 @@ Drag and drop **[!UICONTROL Location]** into the segment editor.
 
 * Select from the following parameters:
 
-    * **[!UICONTROL Include]** - Select whether you want the campaign to include or exclude a location.
-    * **[!UICONTROL Select country to add]** - From the drop-down box, select the country you wish to include in the segment. The country name appears to the right. You can choose multiple countries.
+  * **[!UICONTROL Include]** - Select whether you want the campaign to include or exclude a location.
+  * **[!UICONTROL Select country to add]** - From the drop-down box, select the country you wish to include in the segment. The country name appears to the right. You can choose multiple countries.
 
 Once the country is added, you can specify the state, city and zip code of the segment as well.
 
@@ -149,8 +149,8 @@ Once the country is added, you can specify the state, city and zip code of the s
 
 * Select from the following parameters:
 
-    * **[!UICONTROL Includes]** - Select whether you want the segment to include or exclude an industry.
-    * **[!UICONTROL Select Industries to add]** - Select the industry you wish to include in the segment. The industry appears below the drop-down box. You can choose multiple industries.
+  * **[!UICONTROL Includes]** - Select whether you want the segment to include or exclude an industry.
+  * **[!UICONTROL Select Industries to add]** - Select the industry you wish to include in the segment. The industry appears below the drop-down box. You can choose multiple industries.
 
 **Organization Group**
 
@@ -158,11 +158,11 @@ Under the **[!UICONTROL Profile Segmentation]** section, check the box next to *
 
 * From the drop-down box, select from the following choices:
 
-    * Fortune 500 - Includes only Fortune 500 companies in this segment
-    * Fortune 1000 - Includes only Fortune 1000 companies in this segment
-    * Global 2000 - Includes the Global 2000 companies in this segment
-    * Enterprise - Includes organizations with more than 1,000 employees and revenue greater than $250M
-    * SMB - Includes only small and medium businesses in this segment
+  * Fortune 500 - Includes only Fortune 500 companies in this segment
+  * Fortune 1000 - Includes only Fortune 1000 companies in this segment
+  * Global 2000 - Includes the Global 2000 companies in this segment
+  * Enterprise - Includes organizations with more than 1,000 employees and revenue greater than $250M
+  * SMB - Includes only small and medium businesses in this segment
 
 **-Named Accounts-**
 
@@ -170,8 +170,8 @@ Under the **[!UICONTROL Profile Segmentation]** section, check the box next to *
 
 * **Is from these companies (specific names)**
 
-    * Select company to target from the 'Select company to add' drop-down.
-    * You can type the exact organization name you wish to target. *It is _always_ recommended to use Named Account Lists instead of typing the names manually for better matches (see below).
+  * Select company to target from the 'Select company to add' drop-down.
+  * You can type the exact organization name you wish to target. *It is *always* recommended to use Named Account Lists instead of typing the names manually for better matches (see below).
 
 **Named Account List**
 
@@ -224,11 +224,11 @@ Define your segment according to a prospect's status: known or anonymous.
 
 * Number of Visits - Select this option from the drop-down box to specify the number of visits for prospects on the website.
 
-    * Select Equals, Equals or Greater Than, or Equals or Less Than from the drop-down box.
+  * Select Equals, Equals or Greater Than, or Equals or Less Than from the drop-down box.
 
 * Specific Visits - Select this option from the drop-down box to specify a specific visitor.
 
-    * In the text box to the right, enter the visitor number you wish to track. The unique [!DNL Web Personalization] visitor identification number can be found when clicking on a visitor (in the visitors page) and the Set Campaign on the right side panel. The Visitor ID is located in the Advanced Settings section. The visitor ID can also be found in the URL (e.g. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
+  * In the text box to the right, enter the visitor number you wish to track. The unique [!DNL Web Personalization] visitor identification number can be found when clicking on a visitor (in the visitors page) and the Set Campaign on the right side panel. The Visitor ID is located in the Advanced Settings section. The visitor ID can also be found in the URL (e.g. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 **Search Terms** - Define a segment according to a prospect's search terms.
 
@@ -259,9 +259,9 @@ Drag and drop the [!UICONTROL Mobile OS] into the Segment editor
 * **Visitor type**<br />
   **[!UICONTROL Mobile OS]** - From the drop-down box, select from one or more mobile OS listed. The selected mobile OS appear below.
 
-    * The visitor is using any mobile device
-    * The visitor is using this specific device/OS
-    * The visitor is not using any mobile device
+  * The visitor is using any mobile device
+  * The visitor is using this specific device/OS
+  * The visitor is not using any mobile device
 
 * **[!UICONTROL Device]**  - From the drop-down list, select from one or more devices (Apple, Samsung, LG, HTC, Nexus, Blackberry etc...). The selected devices appear below.
 

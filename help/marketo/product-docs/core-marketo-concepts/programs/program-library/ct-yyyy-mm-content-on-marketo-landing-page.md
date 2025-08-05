@@ -166,25 +166,25 @@ For further strategy assistance or help customizing a program, please contact th
 ## Conflict Rules {#conflict-rules}
 
 * **Program Tags**
-   * Create tags in this subscription - _Recommended_
-   * Ignore
+  * Create tags in this subscription - _Recommended_
+  * Ignore
 
 * **Landing Page template with the same name**
-   * Copy original template
-   * Use destination template - _Recommended_
+  * Copy original template
+  * Use destination template - _Recommended_
 
 * **Images with the same name**
-   * Keep both files
-   * Replace item in this subscription - _Recommended_
+  * Keep both files
+  * Replace item in this subscription - _Recommended_
 
 * **Email templates with the same name**
-   * Keep both templates
-   * Replace existing template - _Recommended_
+  * Keep both templates
+  * Replace existing template - _Recommended_
 
 ## Best Practices {#best-practices}
 
 * After import of the content program, move the form from a local asset to a global asset located in the Design Studio.
-   * Decreasing the number of forms and utilizing more global assets from the Design Studio allows more scalability in your program design and administrative governance. It also provides flexibility in regular compliance updates for fields, opt-in language, etc.
+  * Decreasing the number of forms and utilizing more global assets from the Design Studio allows more scalability in your program design and administrative governance. It also provides flexibility in regular compliance updates for fields, opt-in language, etc.
 
 * Consider updating the templates in your imported program to utilize currently branded templates, or update the newly imported template to reflect your brand by adding in a snippet or your appropriate logo/footer information.
 

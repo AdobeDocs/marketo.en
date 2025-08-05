@@ -35,7 +35,6 @@ SCREENSHOT
 
 Text
 
-
 NOTES FROM STEVE MEETING
 
 guided lp, new div id for template, choose conv flow

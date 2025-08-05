@@ -20,9 +20,9 @@ This tool is used to `auto-personalize your email` and save you tons of time by 
 | `{{friendly_unsubscribe}}` | Tired of all the emails? Please let me know here |
 | `{{my_name}}` | Keith Flynn |
 | `{{my_signature}}` | Keith Flynn, Senior Technical Writer - Adobe |
-| `{{personal_email}}` | keith@pickyouremail.com |
+| `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | Senior Technical Writer |
-| `{{work_website}}` | https://www.adobe.com |
+| `{{work_website}}` | <https://www.adobe.com> |
 
 **Things to note**:
 
