@@ -7,11 +7,11 @@ feature: Forms
 ---
 # Create a Form {#create-a-form}
 
-Create and use a form on a landing page to generate new names. It's really easy - here's how to get started.
+Create and use a form on a Landing Page to generate new names or capture desired data.
 
 >[!NOTE]
 >
->Learn what Marketo is doing to [keep your forms safe](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Learn what Marketo Engage is doing to [keep your forms safe](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -35,9 +35,7 @@ Create and use a form on a landing page to generate new names. It's really easy 
 
 >[!TIP]
 >
->Most customers create a new form for each landing page, but you can also create one form to be used with multiple landing pages. It's entirely up to you!
-
-Sweet! Now that the form is created, let's go ahead and dress it up.
+>Most users create a new form for each Landing Page, but you can also create one form to be used with multiple Landing Pages. It's entirely up to you!
 
 >[!MORELIKETHIS]
 >
