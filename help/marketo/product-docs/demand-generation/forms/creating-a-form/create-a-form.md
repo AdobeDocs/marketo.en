@@ -15,23 +15,19 @@ Create and use a form on a Landing Page to generate new names or capture desired
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/create-a-form-1.png)
 
-1. Find and select your **program**.
+1. Find the desired program. Right-click on it and select **[!UICONTROL New Local Asset]**.
 
-   ![](assets/programseelct.png)
-
-1. Under **[!UICONTROL New]**, click **[!UICONTROL New Local Asset]**.
-
-   ![](assets/newlocalasset.png)
+   ![](assets/create-a-form-2.png)
 
 1. Select **[!UICONTROL Form]**.
 
-   ![](assets/image2014-9-15-17-3a1-3a20.png)
+   ![](assets/create-a-form-3.png)
 
 1. Enter a form **[!UICONTROL Name]** and click **[!UICONTROL Create]**.
 
-   ![](assets/newformwithhands.png)
+   ![](assets/create-a-form-4.png)
 
 >[!TIP]
 >
