@@ -13,8 +13,7 @@ Learn how to perform bulk actions, like adding leads to a campaign, send a bulk 
 >
 >Update to the latest version of the [!DNL Sales Connect] package and install the bulk action buttons in your lead/contact view.
 >* [Instructions in English](assets/SF+Guide+for+Lightning-EN)
->* [Instructions in Japanese, Korean, Chinese](assets/SF+Guide+for+Lightning-JA-KO-ZH)
->* [Instructions in Spanish, French, German, Italian, Swedish](assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
+>* [Instructions in Japanese](assets/SF+Guide+for+Lightning-JA)
 
 >[!NOTE]
 >
