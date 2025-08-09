@@ -83,7 +83,7 @@ Interactive Webinars offers specific licenses to create events powered by Adobe 
   </tr>
   <tr>
    <td width="20%"><b>Events Consumed</b></td>
-   <td width="80%">The total number of completed events.</td>
+   <td width="80%">All completed and currently scheduled events. <a href="#things-to-note">learn more</a></td>
   </tr>
   <tr>
    <td width="20%"><b>Storage Capacity</b></td>
@@ -92,13 +92,13 @@ Interactive Webinars offers specific licenses to create events powered by Adobe 
   </tbody>
 </table>
 
-**Things to Note**
+### Things to Note {#things-to-note}
+
+* Every time an event is created, it counts as "consumed" from its respective license (unless it's a Shared Room License). Preference is given to "Shared Event License" if there are both "Shared Event License" and "Shared Room License" of the same capacity. If the event has not been delivered and the Event Program is deleted before the scheduled time, the event count is replenished. If the event is not delivered and the Event Program is not deleted before the scheduled time, the event is not replenished.
 
 * The type "Additional Storage License" just provides storage, therefore the value in every field _besides_ Storage Capacity will be listed simply as "-".
 
 * The type "Shared Room License" has unlimited events and "Additional Storage License" just provides storage, so the Total Events field for these licenses will be listed simply as "-".
-
-* Every time an event is created, it will count as "consumed" from its respective license (unless it's a Shared Room License). Preference will be given to "Shared Event License" if there are both "Shared Event License" and "Shared Room License" of the same capacity. If the event has not been delivered and if the Event Program is deleted before the scheduled time, the event count is replenished by subtracting an event from Events Consumed.
 
 * Once a license has been exhausted, its tile remains on the Interactive Webinars screen in the Admin section with "Total Events" and "Events Consumed" having the same value. Only when the license expires will it be removed from the screen.
 
