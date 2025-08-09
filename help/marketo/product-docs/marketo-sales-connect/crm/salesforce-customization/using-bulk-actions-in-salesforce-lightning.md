@@ -11,7 +11,10 @@ Learn how to perform bulk actions, like adding leads to a campaign, send a bulk 
 
 >[!PREREQUISITES]
 >
->Update to the latest version of the [!DNL Sales Connect] package and install the bulk action buttons in your lead/contact view. [Click here for instructions](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
+>Update to the latest version of the [!DNL Sales Connect] package and install the bulk action buttons in your lead/contact view.
+>* [Instructions in English](assets/SF+Guide+for+Lightning-EN)
+>* [Instructions in Japanese, Korean, Chinese](assets/SF+Guide+for+Lightning-JA-KO-ZH)
+>* [Instructions in Spanish, French, German, Italian, Swedish](assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
 
 >[!NOTE]
 >
@@ -33,8 +36,8 @@ Learn how to perform bulk actions, like adding leads to a campaign, send a bulk 
 
 1. An MSC email will pop up. It includes the following features:
 
-   a. “[!UICONTROL To]” field shows “All receipts” - this corresponds to the list of leads you have chosen in the Lead List View
-   b. This list is visible on the left panel called “Bulk compose” - you can add/remove recipients here
+   a. "[!UICONTROL To]" field shows "All receipts" - this corresponds to the list of leads you have chosen in the Lead List View
+   b. This list is visible on the left panel called "Bulk compose" - you can add/remove recipients here
    c. You can choose a template or create your own email
    d. You can send the email right away or schedule to send it at a later time
 
@@ -64,7 +67,7 @@ Learn how to perform bulk actions, like adding leads to a campaign, send a bulk 
 
    ![](assets/eight-2.png)
 
-1. A new tab called “[!DNL Salesforce] Bridge” will open. Click the **[!UICONTROL Proceed to Group] →** button.
+1. A new tab called "[!DNL Salesforce] Bridge" will open. Click the **[!UICONTROL Proceed to Group] →** button.
 
    ![](assets/nine-2.png)
 
