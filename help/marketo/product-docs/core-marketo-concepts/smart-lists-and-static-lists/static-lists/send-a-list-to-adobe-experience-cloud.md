@@ -64,7 +64,7 @@ Syncing a list means any time you update a list in Marketo, that change automati
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. Click **O[!UICONTROL ]K**.
+1. Click **[!UICONTROL OK]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
 
@@ -86,13 +86,15 @@ You can stop your list from syncing at any time.
 
 ## Things to Note {#things-to-note}
 
-**Sharing to Adobe Analytics**
+### Sharing to Adobe Analytics {#sharing-to-adobe-analytics}
 
-* For customers that own both Adobe Audience Manager and Adobe Analytics, this integration will enable audiences to be shared from Marketo to your Adobe Analytics Report Suites, however there are some additional configurations steps that need to be taken in Adobe Audience Manager to enable this. Please review [Adobe Audience Manager's documentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} for more information on how to set this up.
+* For users that own both Adobe Audience Manager and Adobe Analytics, this integration will enable audiences to be shared from Marketo to your Adobe Analytics Report Suites, however there are some additional configurations steps that need to be taken in Adobe Audience Manager to enable this. Please review [Adobe Audience Manager's documentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} for more information on how to set this up.
 
-* If a list is empty, or has no people with ECID values, the list name will not be pushed to be referenced outside of Marketo Engage.
+* After a list is uploaded from Marketo to Adobe Audience Manager, it can also be accessed by Adobe Target. That configuration [needs to be enabled in Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
 
-**Trait Usage for Adobe Audience Manager Customers**
+* If a list is empty, or has no people with ECID values, the list name will not be pushed to be referenced outside of Marketo.
+
+### Trait Usage for Adobe Audience Manager Customers {#trait-usage-aam}
 
 When you initiate a list export in Marketo, you'll notice the following changes reflected in your Adobe Audience Manager instance:
 
