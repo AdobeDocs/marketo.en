@@ -90,7 +90,7 @@ You can stop your list from syncing at any time.
 
 * For users that own both Adobe Audience Manager and Adobe Analytics, this integration will enable audiences to be shared from Marketo to your Adobe Analytics Report Suites, however there are some additional configurations steps that need to be taken in Adobe Audience Manager to enable this. Please review [Adobe Audience Manager's documentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} for more information on how to set this up.
 
-* After a list is uploaded from Marketo to Adobe Audience Manager, it can also be accessed by Adobe Target. That configuration [needs to be enabled in Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
+* After a list is uploaded from Marketo to Adobe Audience Manager, it can also be accessed by Adobe Target. That configuration [must be enabled in Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
 
 * If a list is empty, or has no people with ECID values, the list name will not be pushed to be referenced outside of Marketo.
 
