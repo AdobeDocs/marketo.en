@@ -7,19 +7,23 @@ feature: Forms
 ---
 # Add a Field to a Form {#add-a-field-to-a-form}
 
-Once you've [created your form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) and [selected a theme](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md), you may want to add additional fields for people to fill out. Here's how.
+Once you've [created your form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} and [selected a theme](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, you may want to add additional fields for people to fill out. Here's how.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities-2.png)
+   ![](assets/add-a-field-to-a-form-1.png)
 
-1. Select your form and click **[!UICONTROL Edit Form]**.
+1. Select your form and click **[!UICONTROL Edit Draft]**
 
-   ![](assets/editform-1.png)
+   ![](assets/add-a-field-to-a-form-2.png)
 
-1. Click the **+** sign.
+   >[!NOTE]
+   >
+   >If the desired form is in the _Approved_ state, you must first click **Create Draft**.
 
-   ![](assets/image2014-9-15-17-18-17.png)
+1. In the form, click the **+** sign.
+
+   ![](assets/add-a-field-to-a-form-3.png)
 
    >[!NOTE]
    >
@@ -27,18 +31,20 @@ Once you've [created your form](/help/marketo/product-docs/demand-generation/for
 
 1. Find and select the field you want to add to your form.
 
-   ![](assets/image2014-9-15-17-3a18-3a26.png)
+   ![](assets/add-a-field-to-a-form-4.png)
 
 1. Add as many fields as you need and click **[!UICONTROL Finish]**.
 
-   ![](assets/image2014-9-15-17-3a18-3a35.png)
+   ![](assets/add-a-field-to-a-form-5.png)
 
-1. Now click **[!UICONTROL Approve and Close]**.
+1. Click **[!UICONTROL Approve and Close]**.
 
-   ![](assets/image2014-9-15-17-3a18-3a43.png)
+   ![](assets/add-a-field-to-a-form-6.png)
 
 >[!NOTE]
 >
 >Be sure to approve any landing page drafts created due to the form changes.
 
-Not bad at all. Keep up the good work! How about we learn how to [make a form field required](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) next?
+>[!MORELIKETHIS]
+>
+>[Make a form field required](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}
