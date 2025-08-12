@@ -1025,6 +1025,7 @@ feature-set: Marketo Engage
         + [Email Template Authoring](product-docs/email-marketing/email-designer/email-template-authoring.md)
         + [Custom CSS](product-docs/email-marketing/email-designer/custom-css.md)
         + [Brand Kit](product-docs/email-marketing/email-designer/brand-kit.md)
+        + [Apply Brand](product-docs/email-marketing/email-designer/apply-brand.md)
         + [Test Email Rendering with Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
         + [Personalization Tokens](product-docs/email-marketing/email-designer/personalization-tokens.md)
         + [Work with AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
