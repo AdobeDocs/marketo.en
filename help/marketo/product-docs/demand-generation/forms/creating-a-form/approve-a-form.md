@@ -7,46 +7,42 @@ feature: Forms
 ---
 # Approve a Form {#approve-a-form}
 
-In order to add a form to one of your landing pages, it must be approved. Here's how to do it.
+In order to add a form to one of your Landing Pages, it must be approved.
 
-## Approve a Form {#approve-a-form-1}
+## Approve a Form {#approve}
 
 Here's how to approve an existing form that's ready to go.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities-7.png)
+   ![](assets/approve-a-form-1.png)
 
-1. Find and select your form.
+1. Select the desired form and click **[!UICONTROL Approve draft]**.
 
-   ![](assets/image2014-9-15-17-3a49-3a40.png)
+   ![](assets/approve-a-form-2.png)
 
-1. Under **[!UICONTROL Form Actions]**, click **[!UICONTROL Approve]**.
+   A green checkmark appears.
 
-   ![](assets/image2014-9-15-17-3a49-3a47.png)
+   ![](assets/approve-a-form-3.png)
 
-1. Notice the green checkmark?
-
-   ![](assets/image2014-9-15-17-3a50-3a2.png)
-
-   It's approved and ready to be [added to a landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   It's approved and ready to be [added to a Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}.
 
    >[!NOTE]
    >
    >Changes made after approval can take a few minutes to update on embedded forms.
 
-## Approve a Form from the Editor {#approve-a-form-from-the-editor}
+## Approve a Form from the Editor {#approve-from-the-editor}
 
-If you are making changes to a form, you can approve the page directly from the editor.
+You can approve a form directly from the form editor.
 
 >[!PREREQUISITES]
 >
 >[Edit a Form](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-1. Click **[!UICONTROL Finish]**.
+1. In the form, click **[!UICONTROL Finish]**.
 
-   ![](assets/image2014-9-15-17-3a51-3a43.png)
+   ![](assets/approve-a-form-4.png)
 
 1. Click **[!UICONTROL Approve and Close]**.
 
-   ![](assets/image2014-9-15-17-3a52-3a1.png)
+   ![](assets/approve-a-form-5.png)
