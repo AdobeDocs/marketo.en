@@ -6,9 +6,9 @@ hidefromtoc: yes
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
 ---
-# Release Notes: July 2025 {#release-notes-july-25}
+# Release Notes: August 2025 {#release-notes-aug-25}
 
-Below you'll find all the features included in the July '25 release. Check your Adobe Marketo Engage edition for feature availability.
+Below you'll find all the features included in the August '25 release. Check your Adobe Marketo Engage edition for feature availability.
 
 The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -18,7 +18,7 @@ The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/
 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
-The following features fall under the standard release cycle and will start to be released on **July 11, 2025**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
+The following features fall under the standard release cycle and will start to be released on **August 22, 2025**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -28,7 +28,7 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>Email Designer - Brand Kit with AI Assistant</strong>: Maintain brand consistency across email assets by storing and managing brand assets such as colors, fonts, logos, themes, visual content, compliance guidelines, etc., all in one place.</td>
+   <td><strong>Email Designer - Reporting</strong>: Email Performance and Email Link Performance reports now show data from emails created using the new Email Designer.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -38,9 +38,9 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Custom CSS Support</strong>: When designing emails, you can now add your own custom CSS directly within the Email Designer.</td>
+   <td><strong>Email Designer - Email Preview Optimization</strong>: Some users were experiencing slower load times when trying to preview their email in the email/email template/fragment details page. This experience has been optimized for up to 60% faster load times.</td>
    <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td>&nbsp;</td>
@@ -48,9 +48,9 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Support of Moving Assets and Program Deletion</strong>: Quickly relocate an email asset across programs. You can now also delete programs that contain new designer email assets.</td>
+   <td><strong>Email Designer - Template Fixes</strong>: Some out-of-the-box templates were having rendering issues (e.g., not rendering correctly on certain browsers/dark mode, images misaligned, CTA buttons misplaced, and a few more). These are all fixed with this release.</td>
    <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td>&nbsp;</td>
@@ -58,9 +58,9 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Firefox Support</strong>: The Email Designer is now fully supported in Mozilla Firefox. For the best experience, always keep your browser up to date.</td>
+   <td><strong>Email Designer - Content Locking Fix</strong>: Previously, if an email template was created with content locking and the template was used to create an email, content locking would persist even when the email was reset or "change design" was selected. This issue is fixed with this release.</td>
    <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td>&nbsp;</td>
@@ -68,95 +68,21 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Simulate Content from the Properties Page</strong>: Simulate content for email assets from <i>Email Properties</i> without having to go back into the editing screen.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-   <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Role-based Access Control for Assets</strong>: The May release saw Role-based Access Control (RBAC) implemented for Edit, Approve, and Delete permissions. Read permissions are now available with this release.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Edit Email Properties for Published Emails</strong>: Make edits in <i>Email Properties</i> even after the email is published.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Select Branding Domain and Domain IP Configuration</strong>: You can now select a "Branding domain" and "Domain IP configuration" for every email asset.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - GenStudio Integration</strong>: Integrate GenStudio for performance marketing from within emails to enhance marketing efficiency and to maintain brand consistency.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>REST API Error Code Notification Updates</strong>: Two additional classes of REST API error in in-app notifications have been added: 606 - Max Rate Limit Exceeded and 607 - Daily Quota Reached.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Display Program Member Standard Fields in Field Management</strong>: Both standard and custom program member fields in <i>Field Management</i> are now visible.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>REST API Names in Field Management</strong>: This update allows admins to see REST API field names without having to export the list.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>My Tokens Used By List</strong>: View the list of assets that are using a My Token (up to 50 assets at a time).</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td><strong>Email Designer - Autocomplete Removal</strong>: The Autocomplete option in the token personalization editor was pointing to erroneous objects and has been removed. There are no plans to reimplement it at this time.</td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
  </tbody>
 </table>
 <br/>
 
 ## Announcements {#announcements}
+
+* **Marketo Engage Identity End of Life**: In August 2025, Adobe began phasing out support for Marketo Engage Identity (logging in via `login.marketo.com`). To prevent interrupted access to Marketo Engage, you must transition to [Adobe Identity](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} no later than September 30, 2025.
+
+  * _IP Restrictions Deprecation_: Support for [Restricting Marketo Logins Based on IP](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} ended on July 30, 2025. The feature will remain operational until the transition to Adobe Identity is complete. A new location-based access control feature for Adobe Identity in the Adobe Admin Console is coming soon.
+
+  * _Single Sign-On (SSO) Deprecation_: Support for [Marketo Identity SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} ended on July 30, 2025. The feature will remain operational until the transition to Adobe Identity is complete. Single Sign-On for Adobe Identity in the Adobe Admin Console must be configured separately. For setup steps, see [Set up identity and Single Sign-On](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 * **Rest API 'access_token' Parameter Deprecation**: The `access_token` query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after October 31, 2025. All new and existing integrations should authenticate REST API calls using the 'Authorization' header, [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 

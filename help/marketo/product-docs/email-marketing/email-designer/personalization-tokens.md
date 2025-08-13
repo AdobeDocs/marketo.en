@@ -43,6 +43,5 @@ In the email designer, you must use [camel case](https://developer.mozilla.org/e
 
   * Undo/redo
   * Find/Find & replace
-  * Autocomplete
 
 * **All** tokens previously supported in Marketo Engage are supported in the new personalization editor.
