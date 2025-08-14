@@ -23,3 +23,5 @@ Navigate to the **[!UICONTROL Models and Data Health]** section under **[!UICONT
 * **Performance**: Categorization of your model health based on Data Completeness and Data Quality (see below).
 * **Data Completeness**: Percentage of data attributes that are present/complete.
 * **Data Quality**: Percentage of attributes that contain good, usable data.
+
+* **Last Trained**: The date of the model that is the best out of the evaluation between the current model versus the new model that is trained every two weeks.
