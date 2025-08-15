@@ -2,6 +2,7 @@
 description: Release Notes - July 2025 - Marketo Docs - Product Documentation
 title: Release Notes - July 2025
 feature: Release Information
+exl-id: 86776722-c640-4e55-9551-38ff34de566b
 ---
 # Release Notes: July 2025 {#release-notes-july-25}
 
