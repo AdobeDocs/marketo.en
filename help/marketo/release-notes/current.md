@@ -36,6 +36,16 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
+   <td><strong>Email Designer - Autocomplete Removal</strong>: The Autocomplete option in the token personalization editor was pointing to erroneous objects and has been removed. There are no plans to reimplement it at this time.</td>
+   <td>Shipped</td>
+   <td>n/a</td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
    <td><strong>Email Designer - Email Preview Optimization</strong>: Some users were experiencing slower load times when trying to preview their email in the email/email template/fragment details page. This experience has been optimized for up to 60% faster load times.</td>
    <td><i>Coming Soon</i></td>
    <td>n/a</td>
@@ -60,17 +70,7 @@ The following features fall under the standard release cycle and will start to b
    <td><i>Coming Soon</i></td>
    <td>n/a</td>
   </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Autocomplete Removal</strong>: The Autocomplete option in the token personalization editor was pointing to erroneous objects and has been removed. There are no plans to reimplement it at this time.</td>
-   <td>Shipped</td>
-   <td>n/a</td>
-  </tr>
- </tbody>
+  </tbody>
 </table>
 <br/>
 

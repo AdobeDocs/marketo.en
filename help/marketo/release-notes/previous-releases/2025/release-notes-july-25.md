@@ -106,16 +106,6 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - GenStudio Integration</strong>: Integrate GenStudio for performance marketing from within emails to enhance marketing efficiency and to maintain brand consistency.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
    <td><strong>REST API Error Code Notification Updates</strong>: Two additional classes of REST API error in in-app notifications have been added: 606 - Max Rate Limit Exceeded and 607 - Daily Quota Reached.</td>
    <td>Shipped</td>
    <td>n/a</td>
