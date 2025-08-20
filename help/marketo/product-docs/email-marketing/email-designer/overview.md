@@ -52,7 +52,7 @@ In order to access the new Email Designer, your Marketo Engage subscription must
 
 * [Edit Images with Adobe Express](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: Learn how to edit images in the Adobe Marketo Engage Email Editor using Adobe Express.
 
-* [Use the AI Assistant](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Leverage Adobe's generative AI technology to add helpful text and/or images to your emails.
+* [Use AI Assistant](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Leverage Adobe's generative AI technology to add helpful text and/or images to your emails.
 
 * [Lock content in email templates](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Learn how to lock content in email templates, helping to prevent unintentional edits or deletions.
 

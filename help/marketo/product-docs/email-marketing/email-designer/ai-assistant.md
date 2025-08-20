@@ -1,21 +1,21 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Use the AI Assistant
+title: Use AI Assistant
 description: Leverage Adobe's generative AI technology to add helpful text and/or images to your emails.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
 ---
-# Use the AI Assistant {#use-the-ai-assistant}
+# Use AI Assistant {#use-ai-assistant}
 
-The AI Assistant in the Marketo Engage Email Designer helps you create contemporary, performant, and intuitive emails. This is achieved through Adobe's generative AI technology and prompt library along with Firefly for image generation that aids in creating suitable content for a particular persona/buying group, marketing journey stage, communication strategy, tone, etc. Specific brand assets can be also utilized to create content.
+AI Assistant in the Marketo Engage Email Designer helps you create contemporary, performant, and intuitive emails. This is achieved through Adobe's generative AI technology and prompt library along with Firefly for image generation that aids in creating suitable content for a particular persona/buying group, marketing journey stage, communication strategy, tone, etc. Specific brand assets can be also utilized to create content.
 
 >[!PREREQUISITES]
 >
->The AI Assistant is not enabled by default. You must first agree to the Core Gen-AI terms and the supplemental terms for using the Gen-AI functionality in the Email Designer. Contact the Adobe Account Team (your account manager) for details.
+>AI Assistant is not enabled by default. You must first agree to the Core Gen-AI terms and the supplemental terms for using the Gen-AI functionality in the Email Designer. Contact the Adobe Account Team (your account manager) for details.
 
-There are three primary use-cases for the AI Assistant:
+There are three primary use-cases for AI Assistant:
 
 * [Create a subject line](#create-a-subject-line) for your email
 * [Create content for a specific section](#create-content-for-a-specific-section) of your email
@@ -31,7 +31,7 @@ After the email has been created, the subject line is in the _Details_ column on
 
    ![](assets/use-the-ai-assistant-2.png)
 
-Enable the **Use reference content** option for the AI Assistant to personalize new content based on the selected content.
+Enable the **Use reference content** option for AI Assistant to personalize new content based on the selected content.
 
 Enter the prompt to customize the subject line. Enter relevant text settings and upload any brand assets that you want to use as a reference to create an appropriate subject line.
 
@@ -87,7 +87,7 @@ After the email is created, you have the option of modifying certain sections, i
 
    ![](assets/use-the-ai-assistant-7.png)
 
-In this example, we're using a healthcare template. If the existing image of the healthcare expert doesn't meet your needs, you can instruct the AI assistant to create its own image of a healthcare expert. Just select the image content and then click the AI assistant.
+In this example, we're using a healthcare template. If the existing image of the healthcare expert doesn't meet your needs, you can instruct AI assistant to create its own image of a healthcare expert. Just select the image content and then click AI assistant.
 
    ![](assets/use-the-ai-assistant-8.png)
 
