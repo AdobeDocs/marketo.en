@@ -11,19 +11,24 @@ We made a bunch of nice themes for your forms. Which do you like best?
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/select-a-form-theme-1.png)
 
-1. Select your form and click **[!UICONTROL Edit Form]**.
 
-   ![](assets/editform.png)
+1. Select your form and click **[!UICONTROL Create draft]**.
+
+   ![](assets/select-a-form-theme-2.png)
+
+   >[!NOTE]
+   >
+   >If your form isn't approved, click **Edit draft**.
 
 1. Go to **[!UICONTROL Form Settings]**.
 
-   ![](assets/image2014-9-15-17-7-7.png)
+   ![](assets/select-a-form-theme-3.png)
 
 1. Toggle back and forth to choose the **[!UICONTROL Form Theme]** of your liking.
 
-   ![](assets/image2014-9-15-17-3a7-3a20.png)
+   ![](assets/select-a-form-theme-4.png)
 
    Currently there are 7 built-in themes:
 
@@ -37,15 +42,15 @@ We made a bunch of nice themes for your forms. Which do you like best?
 
    >[!TIP]
    >
-   >You can also [edit the CSS of your form theme](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+   >You can also [edit the CSS of your form theme](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md){target="_blank"}.
 
 1. Click **[!UICONTROL Next]** to configure other form options, or click **[!UICONTROL Finish]** if you only wanted to change the Form Theme.
 
-   ![](assets/image2014-9-15-17-3a8-3a22.png)
+   ![](assets/select-a-form-theme-5.png)
 
 How easy was that?! You can let your HTML/CSS book collect some dust now.
 
 >[!MORELIKETHIS]
 >
->* [Edit the CSS of a Form Theme](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
->* [Add a Field to a Form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
+>* [Edit the CSS of a Form Theme](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md){target="_blank"}
+>* [Add a Field to a Form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}
