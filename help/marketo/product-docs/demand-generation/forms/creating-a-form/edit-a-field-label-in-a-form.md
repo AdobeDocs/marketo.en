@@ -19,7 +19,7 @@ You can change the label on a form to anything - you can even use an image or er
 
    >[!NOTE]
    >
-   >If your form isn't approved yet, click **Edit draft**.
+   >If your form isn't approved, click **Edit draft**.
 
 1. Select your field and then edit the **[!UICONTROL Label]**. The fields in Form Settings will reflect the label(s) you've entered.
 
