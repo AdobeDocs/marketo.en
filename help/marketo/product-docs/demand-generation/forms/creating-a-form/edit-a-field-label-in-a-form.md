@@ -11,30 +11,32 @@ You can change the label on a form to anything - you can even use an image or er
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities-3.png)
+   ![](assets/edit-a-field-label-in-a-form-1.png)
 
-1. Select your form and click **[!UICONTROL Edit Form]**.
+1. Select your form and click **[!UICONTROL Create draft]**.
 
-   ![](assets/image2014-9-15-17-3a26-3a27.png)
+   ![](assets/edit-a-field-label-in-a-form-2.png)
+
+   >[!NOTE]
+   >
+   >If your form isn't approved yet, click **Edit draft**.
 
 1. Select your field and then edit the **[!UICONTROL Label]**. The fields in Form Settings will reflect the label(s) you've entered.
 
-   ![](assets/image2014-9-15-17-3a26-3a42.png)
+   ![](assets/edit-a-field-label-in-a-form-3.png)
 
    >[!TIP]
    >
-   >If you want to get fancy, you can click on the ![pencil](assets/image2014-9-15-17-3a27-3a7.png). This will open a rich text editor and allow you to go to town with images, links, and more!
+   >Click on the ![pencil](assets/icon-pencil.png) icon to access the rich text editor.
 
 1. Click **[!UICONTROL Finish]**.
 
-   ![](assets/image2014-9-15-17-3a27-3a26.png)
+   ![](assets/edit-a-field-label-in-a-form-4.png)
 
 1. Click **[!UICONTROL Approve and Close]**.
 
-   ![](assets/image2014-9-15-17-3a27-3a44.png)
+   ![](assets/edit-a-field-label-in-a-form-5.png)
 
 >[!NOTE]
 >
->Don't forget to [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.
-
-There you have it! Little by little you are becoming a form designer champion.
+>Don't forget to [approve the Landing Page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} created by the form changes.
