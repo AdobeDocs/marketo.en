@@ -78,7 +78,7 @@ The following features fall under the standard release cycle and will start to b
   <tr>
    <td><strong>Permission to Edit Smart Campaign Limits</strong>: Admins can now restrict the ability to modify Smart Campaign limits to permissioned users only.</td>
    <td><i>Coming Soon</i></td>
-   <td>n/a</td>
+   <td><i>Coming Soon</i></td>
   </tr>
   </tbody>
 </table>
