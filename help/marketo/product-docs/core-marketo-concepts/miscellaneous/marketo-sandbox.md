@@ -23,7 +23,7 @@ A Marketo sandbox cannot be synced to your regular CRM if it's already synced to
 
 >[!CAUTION]
 >
->We do not currently support sandbox refresh for Marketo Dynamics Sync. If you need to refresh your Dynamics CRM sandbox, a new Marketo sandbox will be required. Please contact your the Adobe Account Team (your Account Manager) for additional details.
+>We do not support sandbox refresh for the Marketo Dynamics _or_ Salesforce Sync at this time. If you need to refresh your CRM sandbox, a new Marketo sandbox is required. Please contact the Adobe Account Team (your Account Manager) for details.
 
 ## Instance Copy {#instance-copy}
 
