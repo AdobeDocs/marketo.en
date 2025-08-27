@@ -26,6 +26,16 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
+   <td><strong>Email Designer - GenStudio Integration</strong>: Integrate GenStudio for performance marketing from within emails to enhance marketing efficiency and to maintain brand consistency.</td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">GenStudio Integration for Marketo Engage</a></td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
    <td><strong>Email Designer - Custom CSS</strong>: When designing emails, you can now add your own custom CSS directly within the Email Designer.</td>
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">Add custom CSS to your email content</a></td>
@@ -38,7 +48,7 @@ The following features fall under the standard release cycle and will start to b
   <tr>
    <td><strong>Email Designer - Detect Spam with SpamAssassin</strong>: Using SpamAssassin in Marketo Engage, you can test your email content and see the likelihood of ISPs/Mailbox providers marking it as spam.</td>
    <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">Add custom CSS to your email content</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">Email spam report</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>

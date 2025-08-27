@@ -1,8 +1,6 @@
 ---
 title: GenStudio Integration for Marketo Engage
 description: Learn how to use GenStudio in Marketo Engage.
-hide: yes
-hidefromtoc: yes
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
@@ -12,6 +10,13 @@ exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
 # GenStudio Integration for Marketo Engage {#genstudio-integration-for-marketo-engage}
 
 Adobe GenStudio for Performance Marketing is a generative AI-first application that lets you create your own ads and emails to drive impactful, personalized marketing campaigns that meet your brand standards and comply with your enterprise policies. It offers a host of tools that simplify the complexities of content creation.
+
+>[!AVAILABILITY]
+>
+>In order to leverage this feature:
+>
+>* Your IMS org must be provisioned with GenStudio for Performance Marketing in same IMS org as Marketo Engage (for more information, contact your Account Manager)
+>* You must have a user entitlement to GenStudio for Performance Marketing (System Manager, Editor, or collaborator product profile)
 
 >[!INFO]
 >

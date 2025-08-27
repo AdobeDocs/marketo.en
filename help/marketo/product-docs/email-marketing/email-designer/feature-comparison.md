@@ -171,6 +171,17 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Ability to <a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">integrate with Litmus</a> to see how your emails will render in different email clients.</td>
     <td>Not Available</td>
     <td>Available</td>
+    <tr>
+    <td>Integration with GenStudio</td>
+    <td>Ability to <a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">integrate with GenStudio</a>.</td>
+    <td>Not Available</td>
+    <td>Available</td>
+  </tr>
+  <tr>
+    <td>Spam Assassin Integration</td>
+    <td>Ability to <a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">detect potential of emails getting marked as Spam</a> before delivery.</td>
+    <td>Not Available</td>
+    <td>Available</td>
   </tr>
   <tr>
     <td>Personalization Editor</td>
@@ -221,12 +232,6 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Coming soon</td>
   </tr>
   <tr>
-    <td>Integration with Gen Studio</td>
-    <td>Ability to integrate with Gen Studio.</td>
-    <td>Not Available</td>
-    <td>Coming soon</td>
-  </tr>
-  <tr>
     <td>Support for Move, Delete, and Import of Programs with email assets</td>
     <td>Ability to move, delete, and import Email Programs along with email assets.</td>
     <td>Available</td>
@@ -248,23 +253,11 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Velocity Scripting</td>
     <td>Ability to use Velocity scripting in emails.</td>
     <td>Available</td>
-    <td>Not Needed</td>
+    <td>Not needed</td>
   </tr>
-   <tr>
+  <tr>
     <td>Handlebar Scripting</td>
-    <td>Ability to use Handlebar scripting in emails.</td>
-    <td>Not Available</td>
-    <td>Planned for Q3 '25</td>
-  </tr>
-  <tr>
-    <td>Brand Kit</td>
-    <td>Ability to improve emails reflecting the brand guidelines.</td>
-    <td>Not Available</td>
-    <td>Planned for Q3 '25</td>
-  </tr>
-  <tr>
-    <td>Spam Assassin Integration</td>
-    <td>Ability to detect potential of emails getting marked as Spam before delivery.</td>
+    <td>Ability to use Velocity scripting in emails.</td>
     <td>Not Available</td>
     <td>Planned for Q3 '25</td>
   </tr>
@@ -273,6 +266,12 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Ability to introduce approval workflows for emails within Marketo Engage.</td>
     <td>Not Available</td>
     <td>Planned for Q4 '25</td>
+  </tr>
+  <tr>
+    <td>Brand Kit</td>
+    <td>Ability to improve emails reflecting the brand guidelines.</td>
+    <td>Not Available</td>
+    <td>Planned for Q1 '26</td>
   </tr>
   <tr>
     <td>Experimentation (A/B Testing)</td>

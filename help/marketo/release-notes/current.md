@@ -27,8 +27,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Reporting</strong>: Email Performance and Email Link Performance reports now show data from emails created using the new Email Designer.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td>&nbsp;</td>
@@ -47,7 +47,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Email Preview Optimization</strong>: Some users were experiencing slower load times when trying to preview their email in the email/email template/fragment details page. This experience has been optimized for up to 60% faster load times.</td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Template Fixes</strong>: Some out-of-the-box templates were having rendering issues (e.g., not rendering correctly on certain browsers/dark mode, images misaligned, CTA buttons misplaced, and a few more). These are all fixed with this release.</td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -67,8 +67,18 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Content Locking Fix</strong>: Previously, if an email template was created with content locking and the template was used to create an email, content locking would persist even when the email was reset or "change design" was selected. This issue is fixed with this release.</td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
    <td>n/a</td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Permission to Edit Smart Campaign Limits</strong>: Admins can now restrict the ability to modify Smart Campaign limits to permissioned users only.</td>
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
   </tr>
   </tbody>
 </table>

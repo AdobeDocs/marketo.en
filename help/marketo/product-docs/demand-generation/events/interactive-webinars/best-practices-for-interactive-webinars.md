@@ -8,7 +8,7 @@ exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
 
 When running virtual events, whether aimed at a small or large audience, it's critical that things go as planned. With various steps required to plan and execute an event, from preparation, promotion, delivery, and follow-up, it can sometimes feel like a lot.
 
-To help with that, we've compiled a list of best practices that can aid in planning, designing, and producing successful and engaging webinars. These tips will help you get the nost out of Interactive Webinars powered by Adobe Connect.
+To help with that, we've compiled a list of best practices that can aid in planning, designing, and producing successful and engaging webinars. These tips will help you get the most out of Interactive Webinars powered by Adobe Connect.
 
 ## Pre-event Preparation {#pre-event-preparation}
 

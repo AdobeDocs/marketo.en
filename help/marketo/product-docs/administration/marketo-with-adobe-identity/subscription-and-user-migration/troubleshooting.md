@@ -72,15 +72,42 @@ _If the user does **not** need to be migrated_ - Marketo Engage admin to skip th
 1. Re-run the user migration so a federated user account gets created for this user.
 1. Add the user back to the products they previously had access to.
 
+### Pendo Migration Failed {#pendo-migration-failed}
+
+**Root cause**: The user's federated account is either inactive/disabled or missing from Active Directory (AD).
+
+**Resolutions**:
+
+_If the user needs to be migrated_
+
+1. A system administrator must restore the user's account status and permissions.
+
+1. For SSO orgs with AD sync:
+
+   * Create the user via Identity Provider (IdP).
+   * Sync user data with AD.
+
+1. For orgs without SSO/AD sync:
+
+   * Re-create the managed account to restore status.
+   * Org admin must reassign roles and permissions.
+
+1. Marketo Engage Admin reruns the migration in the Migration Console.
+
+1. If the console is inaccessible, contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) to rerun the migration.
+
+_If the user does **not** need to be migrated_
+
+* The Marketo Engage Admin should skip the user in the Migration Console.
+* After all users are migrated or skipped, click **[!UICONTROL Migration Complete]** to finalize.
+* If the error persists, submit a support case with relevant details to [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+
+
 ### User Creation Failed {#user-creation-failed}
 
 [See below](#failed)
 
 ### Marketo Entitlement Failed {#marketo-entitlement-failed}
-
-[See below](#failed)
-
-### Pendo Migration Failed {#pendo-migration-failed}
 
 [See below](#failed)
 
