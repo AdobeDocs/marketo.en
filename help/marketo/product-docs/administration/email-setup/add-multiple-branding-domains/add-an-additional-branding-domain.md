@@ -85,6 +85,10 @@ Add an additional branding domain when you're running multiple brands out of a s
 
 * **Deletion of domains**: Deleting a domain does not automatically delete the SSL certificate at this time. This will be addressed in a future release.
 
+>[!NOTE]
+>
+>If the domain you add is listed as anything other than a CNAME, the ability to add further branded tracking domains will be locked out. You will need to edit any existing domain and ensure it is a CNAME record and not, say, an A record. The Add button dynamically checks for CNAMES and CNAMES only.
+
 >[!MORELIKETHIS]
 >
 >[Edit Your Default Branding Domain](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"}
