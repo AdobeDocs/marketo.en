@@ -44,10 +44,6 @@ This graph can show you what percentage of your keywords are ranked in a specifi
 
 ## Exporting Data {#exporting-data}
 
-   >[!TIP]
-   >
-   >You can export this report to your desktop.
-
 1. Click **[!UICONTROL Export CSV]** or **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a9-3a49.png)

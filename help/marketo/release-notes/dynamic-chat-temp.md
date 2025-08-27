@@ -22,9 +22,9 @@ We've revamped the live chat routing logic in Dynamic Chat to ensure more intell
 
 * **Up to two engagement attempts per session**
 
-  * The system will try to connect with up to two agents (at most), but strictly within the primary routing rule.
+  * The system tries to connect with up to two agents (at most), but strictly within the primary routing rule.
 
-  * If an agent is available but doesn't respond (e.g., declines or misses the chat), the system will attempt to connect to a different agent from the same pool.
+  * If an agent is available but doesn't respond (for example, declines or misses the chat), the system attempts to connect to a different agent from the same pool.
 
   * Fallback logic (like Round Robin) is only activated if no eligible agents are found during the initial resolution, not to retry after a failed engagement.
 
@@ -38,21 +38,20 @@ If the agent is available, the chat is routed to them directly.
 
 If the agent is unavailable, the system:
 
-* Does not attempt another agent, even if Round Robin is enabled as fallback.
+* Does not attempt another agent, even if Round Robin is enabled as a fallback.
 
-* Instead, it:
+Instead, it either:
 
-  * Shows the mapped agent's meeting calendar (if enabled),
-    -or-
-  * Falls back to a default message (worst case).
+* Shows the mapped agent's meeting calendar (if enabled), or:
+* Falls back to a default message (worst case).
 
-The card-level routing rule (e.g. Team, Custom) is only considered if Account Routing is not eligible (no matching domain or agent).
+The card-level routing rule (for example, Team, Custom) is only considered if Account Routing is not eligible (no matching domain or agent).
 
 _**Custom/Team Routing**_
 
 These rules may return multiple eligible agents.
 
-If the first available agent doesn't engage, the system will try one more agent from the same list.
+If the first available agent doesn't engage, the system tries one more agent from the same list.
 
 Round Robin fallback is not triggered just because one agent doesn't respond.
 
@@ -80,13 +79,13 @@ The system checks if Account Routing is applicable.
 
 * If the agent is not eligible or unavailable, it proceeds to card-level routing rule.
 
-Card-level routing rule (Custom, Team, Round Robin) is evaluated.
+Card-level routing rule (Custom, Team, Round Robin) are been evaluated.
 
 * Eligible agents are checked for availability (permissions, status).
 
-* System engages one agent, and if needed, tries a second agent from same rule.
+* The system engages one agent, and if needed, tries a second agent from the same rule.
 
-* If no engagement succeeds, fallback logic is applied:
+* If no engagement succeeds, the fallback logic is applied:
 
   * Calendar fallback (if enabled),
     -or-
@@ -113,12 +112,12 @@ _**Account Routing**_
   <tr>
     <td>Fallback (Round Robin)</td>
     <td>Mapped agent is unavailable, Round Robin fallback is enabled</td>
-    <td>System selects one available agent via Round Robin and engages them </td>
+    <td>The system selects one available agent via Round Robin and engages them </td>
   </tr>
   <tr>
     <td>No Fallback Agent</td>
     <td>Mapped agent is unavailable, no Round Robin fallback; meeting booking is enabled</td>
-    <td>System shows mapped agent's calendar or displays a default fallback message</td>
+    <td>The system shows a mapped agent's calendar or displays a default fallback message</td>
   </tr>
 </tbody></table>
 
@@ -133,18 +132,18 @@ _**Custom Routing**_
 <tbody>
   <tr>
     <td>Ideal</td>
-    <td>Custom logic resolves a list of agents; first agent is available and accepts chat.</td>
+    <td>Custom logic resolves a list of agents; the first agent is available and accepts chat.</td>
     <td>Chat connects to the first agent.</td>
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
-    <td>Custom rule resolves no agents, Round Robin fallback is enabled.</td>
-    <td>System selects one available agent via Round Robin and engages them.</td>
+    <td>Custom rule resolves no agents. Round Robin fallback is enabled.</td>
+    <td>The system selects one available agent via Round Robin and engages them.</td>
   </tr>
   <tr>
     <td>No Fallback Agent</td>
     <td>Two agents resolved; neither accepts chat, fallback set to meeting calendar.</td>
-    <td>First tried agent's calendar is shown or default fallback message is displayed.</td>
+    <td>First tried the agent's calendar is shown or the default fallback message is displayed.</td>
   </tr>
 </tbody></table>
 
@@ -165,12 +164,12 @@ _**Team Routing**_
   <tr>
     <td>Fallback (Round Robin)</td>
     <td>No team agent is available, and Round Robin fallback is enabled.</td>
-    <td>System selects and connects with one agent from Round Robin pool.</td>
+    <td>The system selects and connects with one agent from the Round Robin pool.</td>
   </tr>
   <tr>
     <td>No Fallback Agent</td>
     <td>Two agents available, but neither engages; calendar fallback enabled.</td>
-    <td>First tried agent's calendar is shown or fallback message is triggered.</td>
+    <td>First tried the agent's calendar is shown or a fallback message is triggered.</td>
   </tr>
 </tbody></table>
 
@@ -185,24 +184,24 @@ _**Round Robin Routing**_
 <tbody>
   <tr>
     <td>Ideal</td>
-    <td>Round Robin pool has multiple agents; second agent accepts chat after first doesn't.</td>
-    <td>Chat connects to second agent.</td>
+    <td>Round Robin pool has multiple agents; the second agent accepts chat after the first doesn't.</td>
+    <td>Chat connects to a second agent.</td>
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
     <td>No agents available in Round Robin pool; meeting calendar is enabled.</td>
-    <td>Calendar is shown for first agent in the list (if configured), or fallback message shown.</td>
+    <td>Calendar is shown for the first agent in the list (if configured), or the fallback message is shown.</td>
   </tr>
   <tr>
     <td>No Fallback Agent</td>
     <td>No available agents; fallback is disabled.</td>
-    <td>Static fallback message is shown to the visitor.</td>
+    <td>A static fallback message is shown to the visitor.</td>
   </tr>
 </tbody></table>
 
 ### Pulse Notification {#pulse-notification}
 
-Whenever a visitor requests to connect with an agent, we provide in-app, browser notification to the agent. But sometimes, agents miss these chats.
+Whenever a visitor requests to connect with an agent, we provide an in-app, browser notification to the agent. But sometimes, agents miss these chats.
 
 With this release, the live agent can get an email, Slack, in-app, and browser notification when a new visitor is interested in chatting.
 

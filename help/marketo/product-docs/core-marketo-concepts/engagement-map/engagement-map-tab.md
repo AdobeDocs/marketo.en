@@ -5,9 +5,9 @@ exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
 ---
 # Engagement Map Tab {#engagement-map-tab}
 
-Engagement Map is represented through a series of trigger, filter, and flow cards. Clicking on each card will reveal additional information.
+Engagement Map is represented through a series of trigger, filter, and flow cards. Clicking on each card reveals additional information.
 
-Trigger Overview: This card shows the number of triggers in your campaign. Clicking on it will reveal a card for each trigger, as well a slide-out panel with the following information:
+Trigger Overview: This card shows the number of triggers in your campaign. Clicking on it reveals a card for each trigger, as well as a slide-out panel with the following information:
 
 * Campaign the trigger belongs to
 * List of trigger names
@@ -15,13 +15,13 @@ Trigger Overview: This card shows the number of triggers in your campaign. Click
 
    ![](assets/engagement-map-tab-1.png)
 
-Trigger Detail: This card shows the trigger name. Clicking on it will reveal a slide-out panel with the following information:
+Trigger Detail: This card shows the trigger name. Clicking on it reveals a slide-out panel with the following information:
 
 * Campaign the trigger belongs to
 * List of constraints associated with the trigger
 * Edit Trigger
 
-Filter: Clicking on this card will reveal a slide-out panel with the following information:
+Filter: Clicking on this card reveals a slide-out panel with the following information:
 
 * Campaign the filter belongs to
 * Estimated number of people who qualify for the filter
@@ -30,44 +30,44 @@ Filter: Clicking on this card will reveal a slide-out panel with the following i
 
    ![](assets/engagement-map-tab-3.png)
 
-Flow Steps: If a Flow Step includes choices, this card will show the name of the Flow Step. Clicking on it will reveal a slide-out panel with the following information:
+Flow Steps: If a Flow Step includes choices, this card shows the name of the Flow Step. Clicking on it reveals a slide-out panel with the following information:
 
 * Campaign the Flow Step belongs to
-* List of choice conditions associated to the Flow Step
+* List of choice conditions associated with the Flow Step
 * Edit Flow Step
 
-Flow Steps: If a Flow Step does _not_ include any choices, this card will show the attributes associated to the Flow Step. Clicking on it will reveal a slide-out panel with the following information:
+Flow Steps: If a Flow Step does _not_ include any choices, this card shows the attributes associated with the Flow Step. Clicking on it reveals a slide-out panel with the following information:
 
 * Campaign the Flow Step belongs to
-* List of attributes associated to the Flow Step
+* List of attributes associated with the Flow Step
 * Edit Flow Step
 
    ![](assets/engagement-map-tab-5.png)
 
 ## Flow Step for Execute and Request Campaigns {#flow-step-for-execute-and-request-campaigns}
 
-* If the Execute or Request Campaign Flow Step does not include any choices, the card will show the name of the campaign. Clicking on the card will reveal a slide-out panel with the following information:
+* If the Execute or Request Campaign Flow Step does not include any choices, the card shows the name of the campaign. Clicking on the card reveals a slide-out panel with the following information:
 
   * Campaign the Flow Step belongs to
   * Edit Flow Step
-  * List of attributes associated to the Flow Step
+  * List of attributes associated with the Flow Step
   * "View List" button, which opens a list of campaigns that use the specific Request/Execute Campaign
 
 >[!NOTE]
 >
->You can edit the Flow Step(s) from a primary campaign. To edit nested campaigns, you'll have to navigate to the campaign via the link in the slide-out panel.
+>You can edit the Flow Step(s) from a primary campaign. To edit nested campaigns, you have to navigate to the campaign via the link in the slide-out panel.
 
 * If the Execute or Request Campaign Flow Step includes choices, clicking on the card will reveal a slide-out panel with the following information:
 
   * Campaign the Flow Step belongs to
-  * List of choice conditions associated to the Flow Step
+  * List of choice conditions associated with the Flow Step
   * Edit Flow Step
 
-* If an Execute or Request Campaign includes choices, clicking on the flow card will expand to show all choices in individual cards. Clicking on the _choice_ card will expand the campaign associated to the specific choice as well as reveal a slide-out panel with the following information:
+* If an Execute or Request Campaign includes choices, clicking on the flow card will expand to show all choices in individual cards. Clicking on the _choice_ card expands the campaign associated with the specific choice as well as reveal a slide-out panel with the following information:
 
   * Campaign the choice belongs to
   * Edit choice
-  * List of choice conditions associated to the Flow Step
+  * List of choice conditions associated with the Flow Step
   * View list, which opens a list of campaigns that use the specific Request/Execute Campaign
 
    ![](assets/engagement-map-tab-10.png)
@@ -80,10 +80,10 @@ Below is an example of a Smart Campaign, "Campaign A," which includes an execute
 
    ![](assets/engagement-map-tab-11.png)
 
-1. Clicking on the execute campaign flow card will expand to show details of "Campaign B".
+1. Clicking on the execute campaign flow card expands to show details of "Campaign B".
 1. "Campaign B" includes a filter that splits the audience into two groups: qualified and not qualified.
-1. Qualified audience goes through the Flow Steps associated to "Campaign B."
-1. All audience (qualified and not qualified) return to "Campaign A" and move on to the next Flow Step.
+1. A qualified audience goes through the Flow Steps associated to "Campaign B."
+1. All audiences (qualified and not qualified) return to "Campaign A" and move on to the next Flow Step.
 
    ![](assets/engagement-map-tab-12.png)
 
@@ -99,7 +99,7 @@ Here's an example of a Smart Campaign, "Campaign A," which includes a request ca
 
    ![](assets/engagement-map-tab-14.png)
 
-1. Clicking on the request campaign flow card will expand to show the details of "Campaign B"
+1. Clicking on the request campaign flow card expands to show the details of "Campaign B"
 1. "Campaign B" includes a filter that splits the audience into two groups: qualified and not qualified.
 1. Qualified audience goes through the Flow Steps associated to "Campaign B."
 1. At the same time, all audience moves to the next Flow Steps in "Campaign A."
@@ -116,9 +116,9 @@ Here's an example of a request campaign with choices.
 
 ## Error Handling {#error-handling}
 
-Errors in Smart Lists and Flow Steps will be highlighted via a red icon in the card. Additionally, a corresponding error message will be reflected in the slide-out panel.
+Errors in Smart Lists and Flow Steps are highlighted via a red icon in the card. Additionally, a corresponding error message is reflected in the slide-out panel.
 
-Warnings in Smart Lists and Flow Steps will be highlighted via an orange icon in the card. Additionally, a corresponding warning message will be reflected in the slide-out panel.
+Warnings in Smart Lists and Flow Steps are highlighted via an orange icon in the card. Additionally, a corresponding warning message is reflected in the slide-out panel.
 
 Below is an example of a warning in a Choice card which shows in the Execute Campaign flow step card, slide-out panel, and the Default choice card.
 
@@ -130,7 +130,7 @@ Below is an example of a warning in a Choice card which shows in the Execute Cam
 
 **Errors in filter cards can include:**
 
-* An error in the Smart List which will result in qualified audience not being shown
+* An error in the Smart List which will result in a qualified audience not being shown
 
 * An error in the filter logic
 

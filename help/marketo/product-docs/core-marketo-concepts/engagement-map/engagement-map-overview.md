@@ -19,17 +19,17 @@ Navigate to any existing campaign and click the **Engagement Map** button.
 
    ![](assets/engagement-map-overview-2.png)
 
-Once in the Engagement Map, you'll see two tabs: [Engagement Map](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+In the Engagement Map, there are two tabs: [Engagement Map](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
    ![](assets/engagement-map-overview-3.png)
 
 ## Card Descriptions {#card-descriptions}
 
-**Triggers**: In campaigns that include triggers, the map will have a "Trigger Overview" card. Clicking on this will reveal a card for each trigger, as well as a slide-out panel with additional information.
+**Triggers**: In campaigns that include triggers, the map has a "Trigger Overview" card. Clicking on this will reveal a card for each trigger, as well as a slide-out panel with additional information.
 
-**Filters**: In campaigns that include filters, the map will contain a Filter Overview card. Clicking on it will reveal a slide-out panel with additional information on each filter.
+**Filters**: In campaigns that include filters, the map contains a Filter Overview card. Clicking on it reveals a slide-out panel with additional information on each filter.
 
-**Flow Steps**: Each campaign will include a card for each flow step. Clicking on them will reveal a slide-out panel with additional information.
+**Flow Steps**: Each campaign includes a card for each flow step. Clicking on them will reveal a slide-out panel with additional information.
 
 **Choices**: If a flow step includes one or more choices, clicking on the flow card will reveal a card for each choice, as well as a slide-out panel with additional information.
 
@@ -37,7 +37,7 @@ Once in the Engagement Map, you'll see two tabs: [Engagement Map](/help/marketo/
 
 * If a campaign includes a Request or Execute Campaign flow step, clicking on the flow card will show details of the campaign being called as well as a slide-out panel with additional information.
 
-* If a campaign includes a Request or Execute Campaign flow step with choices, clicking on the flow card will show a card for each choice, as well as a slide-out panel with more information about the choices. Clicking on each choice card will show details of the campaign being called as well as a slide-out panel with more information.
+* If a campaign includes a Request or Execute Campaign flow step with choices, clicking on the flow card will show a card for each choice, as well as a slide-out panel with more information about the choices. Clicking on each choice card shows details of the campaign being called as well as a slide-out panel with more information.
 
 * Additionally, if any of the nested campaigns have a Request or Execute Campaign flow step, clicking on the flow card will show details of the campaign. The same is applicable when the flow step includes choices.
 
@@ -51,11 +51,11 @@ The top nav includes the following features:
 
 * Activate/Deactivate button for Trigger campaigns
 
-* Edit Smart List - you will be navigated to the Smart List interface in a new tab where you can add or edit your filters and/or triggers
+* Edit Smart List - You will be navigated to the Smart List interface in a new tab where you can add or edit your filters and/or triggers
 
 * Edit Flow - you will be navigated to the Flow interface in a new tab where you can add or edit your Flow Steps
 
-* Export - This will download an image of the campaign visualization. The version downloaded will reflect any branches that you have expanded
+* Export - This downloads an image of the campaign visualization. The version downloaded reflects any branches that you have expanded
 
 * View Campaign Members - This will open a new tab with Campaign Member details.
 

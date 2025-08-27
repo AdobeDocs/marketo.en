@@ -78,7 +78,7 @@ To define a theme that you can leverage in your future email contents, follow th
 1. From the **[!UICONTROL Colors]** tab:
 
    * Use the **[!UICONTROL Edit]** button to set up a **[!UICONTROL Color palette]** with default colors for your brand. Select a **[!UICONTROL Preset]** to quickly create a color scheme, or adjust each color of your theme individually. You can also use a combination of both.
-   
+
       `![](assets/theme-colors.gif)`
 
    * Click **[!UICONTROL Add variant]** to create multiple color variants, such as light and dark mode, where each variant has its own color palette and nuance controls.
@@ -86,7 +86,7 @@ To define a theme that you can leverage in your future email contents, follow th
       `![](assets/theme-colors-variant.png)`
 
    * For each variant, click the Edit icon to edit any individual element. You can use the default palette that you have created, or any custom colors.
-   
+
       `![](assets/theme-colors-edit-variant.gif)`
 
 1. In the **[!UICONTROL Text settings]**, you can set the global font that you want to use for your entire theme. For a more granular control, you also can edit each heading and paragraph type to adjust the font, size, style, and so on.

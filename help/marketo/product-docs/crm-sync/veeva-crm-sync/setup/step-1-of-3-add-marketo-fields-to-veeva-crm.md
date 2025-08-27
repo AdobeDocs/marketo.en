@@ -12,9 +12,8 @@ feature: Veeva CRM
 
 Marketo Engage uses a set of fields to capture certain kinds of marketing related information. If you would like this data in [!DNL Veeva] CRM, please follow the instructions below.
 
-`1.` Create a custom field in [!DNL Veeva] CRM on the contact objects: Score
-
-`2.` You can create additional fields, if desired (see the table below).
+1. Create a custom field in [!DNL Veeva] CRM on the contact objects: Score
+1. You can create additional fields, if desired (see the table below).
 
 All of these custom fields are optional and are not required to sync Marketo Engage and [!DNL Veeva] CRM.
 
