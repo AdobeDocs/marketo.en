@@ -253,11 +253,11 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Velocity Scripting</td>
     <td>Ability to use Velocity scripting in emails.</td>
     <td>Available</td>
-    <td>Coming soon</td>
+    <td>Not needed</td>
   </tr>
   <tr>
-    <td>Brand Kit</td>
-    <td>Ability to improve emails reflecting the brand guidelines.</td>
+    <td>Handlebar Scripting</td>
+    <td>Ability to use Velocity scripting in emails.</td>
     <td>Not Available</td>
     <td>Planned for Q3 '25</td>
   </tr>
@@ -266,6 +266,12 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Ability to introduce approval workflows for emails within Marketo Engage.</td>
     <td>Not Available</td>
     <td>Planned for Q4 '25</td>
+  </tr>
+  <tr>
+    <td>Brand Kit</td>
+    <td>Ability to improve emails reflecting the brand guidelines.</td>
+    <td>Not Available</td>
+    <td>Planned for Q1 '26</td>
   </tr>
   <tr>
     <td>Experimentation (A/B Testing)</td>
