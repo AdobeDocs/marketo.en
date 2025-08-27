@@ -29,7 +29,7 @@ SEO Admins will be able to pick the region for the search engine that you'd like
 
 ![](assets/image2014-9-17-21-3a8-3a8.png)
 
-Excellent work. You'll now see keyword ranks for the country or city of your choosing.
+Now see keyword ranks for the country or city of your choosing.
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 

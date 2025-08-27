@@ -7,7 +7,7 @@ feature: SEO
 ---
 # SEO - Understanding [!UICONTROL Inbound Links] {#seo-understanding-inbound-links}
 
-[!UICONTROL Inbound links] indicate to search engines that your site is worth referencing. That's good!
+[!UICONTROL Inbound links] indicate to search engines that your site is worth referencing.
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
@@ -22,7 +22,7 @@ feature: SEO
 | [!UICONTROL Links from my site] |Indicates if your site links to that URL.  |
 | [!UICONTROL PageRank]  |Identifies that URLs page rank in search (1 - 10) |
 
-Sweet! Now that you understand inbound links, we can suggest more inbound link opportunities for your site.
+Now that you understand inbound links, we can suggest more inbound link opportunities for your site.
 
 >[!MORELIKETHIS]
 >

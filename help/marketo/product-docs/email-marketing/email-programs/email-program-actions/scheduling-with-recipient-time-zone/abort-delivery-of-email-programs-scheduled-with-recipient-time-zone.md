@@ -9,9 +9,9 @@ feature: Email Programs
 
 In emergency cases, you can abort the delivery of an email program that has already started running with Recipient Time Zone enabled.
 
-Since email programs scheduled with Recipient Time Zone can run for up to 24 hours, aborting the delivery of the program will cancel any subsequent sends after that point.
+Since email programs scheduled with the Recipient Time Zone can run for up to 24 hours, aborting the delivery of the program will cancel any subsequent sends after that point.
 
-1. Select the email program you want to cancel, then click **[!UICONTROL Abort Delivery]** under the [!UICONTROL Approval] tile in the control panel.
+1. Select the email program that you want to cancel, then click **[!UICONTROL Abort Delivery]** under the [!UICONTROL Approval] tile in the control panel.
 
    ![](assets/ptz-abortdelivery.png)
 
@@ -27,7 +27,7 @@ Since email programs scheduled with Recipient Time Zone can run for up to 24 hou
    >
    >Canceled emails will **not** show up as a soft bounce *until* the time they were originally scheduled to be delivered in their respective time zones. Up until that point, they will still display as "Send Email."
 
-1. From the grid, you can click any email to view activity details. For a canceled send, the details pop-up will look like this:
+1. From the grid, you can click any email to view activity details. For a canceled send, the details pop-up looks like this:
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 

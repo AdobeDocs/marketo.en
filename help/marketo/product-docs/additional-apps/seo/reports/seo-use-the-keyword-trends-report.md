@@ -44,16 +44,12 @@ In this report, you can see how you are ranked on keywords over time.
 
 ## Exporting Data {#exporting-data}
 
-   >[!TIP]
-   >
-   >You can export this report to your desktop.
-
 1. Click **[!UICONTROL Export CSV]** or **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   Great job! You can also see how you compare to your competitors in keyword ranking.
+You can also see how you compare to your competitors in keyword ranking.
 
-   >[!NOTE]
-   >
-   >[Using the Competitive KW Rank Trends Report](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+>[!NOTE]
+>
+>[Using the Competitive KW Rank Trends Report](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

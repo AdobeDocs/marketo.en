@@ -38,7 +38,7 @@ If the agent is available, the chat is routed to them directly.
 
 If the agent is unavailable, the system:
 
-* Does not attempt another agent, even if Round Robin is enabled as fallback.
+* Does not attempt another agent, even if Round Robin is enabled as a fallback.
 
 * Instead, it:
 
@@ -135,7 +135,7 @@ _**Custom Routing**_
 <tbody>
   <tr>
     <td>Ideal</td>
-    <td>Custom logic resolves a list of agents; first agent is available and accepts chat.</td>
+    <td>Custom logic resolves a list of agents; the first agent is available and accepts chat.</td>
     <td>Chat connects to the first agent.</td>
   </tr>
   <tr>
@@ -146,7 +146,7 @@ _**Custom Routing**_
   <tr>
     <td>No Fallback Agent</td>
     <td>Two agents resolved; neither accepts chat, fallback set to meeting calendar.</td>
-    <td>First tried agent's calendar is shown or default fallback message is displayed.</td>
+    <td>First tried agent's calendar is shown or the default fallback message is displayed.</td>
   </tr>
 </tbody></table>
 
@@ -187,13 +187,13 @@ _**Round Robin Routing**_
 <tbody>
   <tr>
     <td>Ideal</td>
-    <td>Round Robin pool has multiple agents; second agent accepts chat after first doesn't.</td>
+    <td>Round Robin pool has multiple agents; the second agent accepts chat after first doesn't.</td>
     <td>Chat connects to second agent.</td>
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
     <td>No agents available in Round Robin pool; meeting calendar is enabled.</td>
-    <td>Calendar is shown for first agent in the list (if configured), or fallback message shown.</td>
+    <td>Calendar is shown for first agent in the list (if configured), or the fallback message shown.</td>
   </tr>
   <tr>
     <td>No Fallback Agent</td>
@@ -338,7 +338,7 @@ So, when a visitor with cookie abc lands on a page and provides an email ID as `
     <td>Known person</td>
     <td>xyz</td>
     <td>Different from existing person</td>
-    <td>this scenario not possible as if it's a new cookie by   default considered as new anonymous profile</td>
+    <td>this scenario not possible as if it's a new cookie by   default considered as a new anonymous profile</td>
   </tr>
 </tbody></table>
 
