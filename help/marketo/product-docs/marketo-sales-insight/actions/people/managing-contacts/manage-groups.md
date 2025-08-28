@@ -51,26 +51,6 @@ Learn how to manage your groups in [!DNL Sales Insight Actions].
 
    That's it!
 
-## Add Contacts to a {#add-contacts-to-a-}
-
-1. In the [!UICONTROL People] page, find and select the group you want to add people to.
-
-
-
-1. Click **[!UICONTROL Group Actions]** and select **[!UICONTROL Create Contact and add to Group]**.
-
-   ![](assets/manage-groups-4.png)
-
-1. Fill out the contact's information and click **Create** (or **Create and Add New** to add another).
-
-   ![](assets/manage-groups-5.png)
-
-   And you're done!
-
-   >[!NOTE]
-   >
-   >You might have to hit refresh to see any new contacts added.
-
 ## Add Contacts to a Group {#add-contacts-to-a-group}
 
 1. Under _Groups_, select **All People**.
@@ -92,7 +72,6 @@ Learn how to manage your groups in [!DNL Sales Insight Actions].
 1. Select the group you want to add them to and click **Add**.
 
    ![](assets/manage-groups-7.png)
-
 
 ## Share a Group {#share-a-group}
 
