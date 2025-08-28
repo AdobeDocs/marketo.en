@@ -51,11 +51,11 @@ Learn how to manage your groups in [!DNL Sales Insight Actions].
 
    That's it!
 
-## Add Contacts to a Group {#add-contacts-to-a-group}
+## Add Contacts to a {#add-contacts-to-a-}
 
 1. In the [!UICONTROL People] page, find and select the group you want to add people to.
 
-   ![](assets/manage-groups-3.png)
+
 
 1. Click **[!UICONTROL Group Actions]** and select **[!UICONTROL Create Contact and add to Group]**.
 
@@ -71,19 +71,42 @@ Learn how to manage your groups in [!DNL Sales Insight Actions].
    >
    >You might have to hit refresh to see any new contacts added.
 
+## Add Contacts to a Group {#add-contacts-to-a-group}
+
+1. Under _Groups_, select **All People**.
+
+   ![](assets/manage-groups-3.png)
+
+1. Search for the person or people you want to add.
+
+   ![](assets/manage-groups-4.png)
+
+1. Click the checkbox next to their name to select them.
+
+   ![](assets/manage-groups-5.png)
+
+1. Click the more actions icon (![](assets/icon-more-actions.png)) and select **Add People to Group**.
+
+   ![](assets/manage-groups-6.png)
+
+1. Select the group you want to add them to and click **Add**.
+
+   ![](assets/manage-groups-7.png)
+
+
 ## Share a Group {#share-a-group}
 
 1. In the [!UICONTROL People] page, find and select the group you want to share.
 
-   ![](assets/manage-groups-6.png)
+   ![](assets/manage-groups-8.png)
 
 1. Click the dota (three vertical dots) and select **[!UICONTROL Share]**.
 
-   ![](assets/manage-groups-7.png)
+   ![](assets/manage-groups-9.png)
 
 1. Click the drop-down, choose the team you want to share the group with and click **[!UICONTROL Share]**.
 
-   ![](assets/manage-groups-8.png)
+   ![](assets/manage-groups-10.png)
 
    You still own the group, but it will now appear under _Team Groups_.
 
@@ -91,15 +114,15 @@ Learn how to manage your groups in [!DNL Sales Insight Actions].
 
 1. In the [!UICONTROL People] page, find and select the group you want to unshare.
 
-   ![](assets/manage-groups-9.png)
+   ![](assets/manage-groups-11.png)
 
 1. Click the dota (three vertical dots) and select **[!UICONTROL Share]**.
 
-   ![](assets/manage-groups-10.png)
+   ![](assets/manage-groups-12.png)
 
 1. Click the **X** next to the team you shared the group with, then click out of the modal.
 
-   ![](assets/manage-groups-11.png)
+   ![](assets/manage-groups-13.png)
 
    The group is now unshared.
 
@@ -107,26 +130,26 @@ Learn how to manage your groups in [!DNL Sales Insight Actions].
 
 1. In the [!UICONTROL People] page, find and select the group you want to rename.
 
-   ![](assets/manage-groups-12.png)
+   ![](assets/manage-groups-14.png)
 
 1. Click the dota (three vertical dots) and select **[!UICONTROL Edit]**.
 
-   ![](assets/manage-groups-13.png)
+   ![](assets/manage-groups-15.png)
 
 1. Type in the new name and click **[!UICONTROL Save]**.
 
-   ![](assets/manage-groups-14.png)
+   ![](assets/manage-groups-16.png)
 
 ## Delete a Group {#delete-a-group}
 
 1. In the People page, find and select the group you want to delete.
 
-   ![](assets/manage-groups-15.png)
+   ![](assets/manage-groups-17.png)
 
 1. Click the dota (three vertical dots) and select **[!UICONTROL Delete]**.
 
-   ![](assets/manage-groups-16.png)
+   ![](assets/manage-groups-18.png)
 
 1. Click **[!UICONTROL Delete]** to confirm.
 
-   ![](assets/manage-groups-17.png)
+   ![](assets/manage-groups-19.png)
