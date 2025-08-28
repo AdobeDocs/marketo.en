@@ -32,7 +32,7 @@ feature: Integrations
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. For the destination, you can select an existing list, or type the name of a new one. In this example we're creating a new one. Click **[!UICONTROL Sync]** when done.
+1. For the destination, you can select an existing list, or type the name of a new one. In this example, we're creating a new one. Click **[!UICONTROL Sync]** when done.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
@@ -44,9 +44,9 @@ feature: Integrations
 
 **How does the cookie sync work?**
 
-When the cookie sync is enabled for your Marketo Subscription, Marketo's munchkin.js will attempt to capture and store Adobe ECIDs for the Adobe IMS Org you specified during the integration setup and match these ECIDs to the corresponding Marketo cookie identifier. This enables Marketo's anonymous user profiles to become enriched with Adobe ECIDs.
+When the cookie sync is enabled for your Marketo Subscription, Marketo's munchkin.js attempts to capture and store Adobe ECIDs for the Adobe IMS Org you specified during the integration setup and match these ECIDs to the corresponding Marketo cookie identifier. This enables Marketo's anonymous user profiles to become enriched with Adobe ECIDs.
 
-A further step is required to associate the anonymous user profile to a Lead Profile, which is identified using a plain text email. Exactly how this works [is described here](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
+A further step is required to associate the anonymous user profile with a Lead Profile, which is identified using a plain text email. Exactly how this works [is described here](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **Why is the list size in Marketo different than the one in Adobe?**
 
@@ -54,4 +54,4 @@ A person will also not sync over if we are unable to tie an ECID cookie ID to a 
 
 **Is this a one-time sync?**
 
-You only need to initiate the sync once. After that, records will sync automatically. The initial sync can take up to 24 hours; going forward, new records will sync in 2-3 hours.
+You only need to initiate the sync once. After that, records will sync automatically. The initial sync can take up to 24 hours; going forward, new records sync in 2-3 hours.

@@ -41,7 +41,7 @@ SCREENSHOT
 
 Select the Default Theme as the basis to create from ground up and click on Create. The theme will have elements of all types of text, buttons and containers for you to see the changes as you go about setting the theme.
 
-Note: You can edit existing themes using Custom Themes radio button.  
+Note: You can edit existing themes using Custom Themes radio button.
 
 SCREENSHOT
 
@@ -57,7 +57,7 @@ SCREENSHOT
 
 ### Color settings {#color-settings}
 
-Next, adjust color palette on the right rail.  
+Next, adjust color palette on the right rail.
 
 Note: As you make changes, observe the changes take effect on the main panel.
 
@@ -67,15 +67,15 @@ Edit the color palette.
 
 Note that a set of swatches already configured for you based on the default theme.
 
-You can choose from a presets or individually configure each color in the set. Choosing the palette makes these colors accessible under the different color settings later on. 
+You can choose from a presets or individually configure each color in the set. Choosing the palette makes these colors accessible under the different color settings later on.
 
 SCREENSHOT
 
-After configuring the presets, click on back symbol. 
+After configuring the presets, click on back symbol.
 
-Edit the variant next using the pencil symbol next to Variant 1. 
+Edit the variant next using the pencil symbol next to Variant 1.
 
-Note: You can create upto 6 variants. 
+Note: You can create upto 6 variants.
 
 SCREENSHOT
 
@@ -83,11 +83,11 @@ On the editing panel, you can set colors for different elements.
 
 SCREENSHOT
 
-The settings are groups under the following broad headings. 
+The settings are groups under the following broad headings.
 
 General
 Headings
-Paragraphs 
+Paragraphs
 Buttons
 
 ### General NAME settings {#general-name-settings}
@@ -122,11 +122,11 @@ SCREENSHOT
 
 ### Global text settings {#global-text-settings}
 
-Under Global text settings, choose Form library between Standard and Google font libraries. 
+Under Global text settings, choose Form library between Standard and Google font libraries.
 
 SCREENSHOT
 
-Under Standard, choose from a different font families. 
+Under Standard, choose from a different font families.
 
 SCREENSHOT
 
@@ -146,7 +146,7 @@ SCREENSHOT
 
 ### Spacing settings {#spacing-settings}
 
-Under this, you can set the padding and margin for different types of structure or button.  Choose the type in the first drop down and then continue to set Padding and/or Margin for that element. Repeat this one by one as applicable. 
+Under this, you can set the padding and margin for different types of structure or button.  Choose the type in the first drop down and then continue to set Padding and/or Margin for that element. Repeat this one by one as applicable.
 
 SCREENSHOT
 
@@ -196,7 +196,7 @@ Dotted
 Solid
 ```
 
-Adjust if the border show or be hidden using border position 
+Adjust if the border show or be hidden using border position
 
 Example: Top is hidden in the below example.
 
@@ -264,19 +264,19 @@ Click Create or edit themes
 
 SCREENSHOT
 
-Select Custom Themes to show the list of custom themes created in your organization. Choose a theme and click on Edit. 
+Select Custom Themes to show the list of custom themes created in your organization. Choose a theme and click on Edit.
 
 SCREENSHOT
 
-Now, the canvas is open for editing. 
+Now, the canvas is open for editing.
 
 SCREENSHOT
 
-Modify any of the settings under the sections on the right pane. 
+Modify any of the settings under the sections on the right pane.
 
 SCREENSHOT
 
-Click Save when complete. 
+Click Save when complete.
 
 SCREENSHOT
 

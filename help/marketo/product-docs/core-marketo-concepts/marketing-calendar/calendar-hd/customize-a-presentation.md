@@ -38,7 +38,7 @@ Presentations are the most awesome when they display your team goals. Just drag 
 
 ## Set the Frequency of Rotation {#set-the-frequency-of-rotation}
 
-Once you've pulled in the views you want in the presentation, set the frequency at which it rotates between the different views.
+Once you've pulled in the views that you want in the presentation, set the frequency at which it rotates between the different views.
 
 1. Click **[!UICONTROL 5 minutes]** (this is the default cadence).
 

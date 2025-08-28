@@ -7,13 +7,13 @@ feature: Microsoft Dynamics
 ---
 # Create a Custom [!DNL Dynamics] Sync Filter {#create-a-custom-dynamics-sync-filter}
 
-Don't want to sync everything in your Dynamics CRM into Marketo Engage? Don't worry! Marketo allows you to set up a sync filter and sync only part of your records.
+Marketo allows you to set up a sync filter and sync only part of your records.
 
 ## Overview {#overview}
 
 To set up a [!DNL Dynamics] sync filter:
 
-1. Create a custom Two Options (boolean) field named new_synctomkto in your Dynamics CRM for any object (lead, contact, account, opportunity and other custom entities).
+1. Create a custom Two Options (boolean) field named `new_synctomkto` in your Dynamics CRM for any object (lead, contact, account, opportunity and other custom entities).
 1. Assign this field a Yes/No value.
 
 You must make these changes in Dynamics CRM, not your database or Marketo.
@@ -134,10 +134,6 @@ Here are some implementation details we thought you should know:
 * Start a Sync Operation
 
    When the **SyncToMkto** value changes from **No** to **Yes**, [!DNL Dynamics] notifies Marketo immediately to start syncing this record. If the record already exists, Marketo updates it. Otherwise, Marketo creates the record.
-
-   >[!TIP]
-   >
-   >A `Create [StartSync]` operation is added to the Marketo Log when this happens.
 
 * Stop a Sync Operation
 

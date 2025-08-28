@@ -42,6 +42,6 @@ Visit the [Adobe Marketo Engage Community](https://nation.marketo.com/){target="
 
 Get started in the Community:
 
-1. Click **Continue with Adobe ID** and select your primary subscription on the login page.
+1. Click **[!UICONTROL Continue with AdobeID]** and select your primary subscription on the login page.
 1. Upon signing in, complete your community profile.
 1. After you submit the information, you will land on the community homepage and be good to go!

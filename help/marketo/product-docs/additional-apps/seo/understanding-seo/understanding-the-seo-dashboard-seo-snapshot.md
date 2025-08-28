@@ -55,7 +55,7 @@ The [!UICONTROL Keyword Rank Trends] graph pulls your keywords with the five hig
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Now let's check out the [!UICONTROL Recommendations] section of this dashboard.
+Check out the [!UICONTROL Recommendations] section of this dashboard.
 
 >[!MORELIKETHIS]
 >

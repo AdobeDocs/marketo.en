@@ -7,7 +7,7 @@ feature: SEO
 ---
 # Understanding Search Engine Optimization {#understanding-search-engine-optimization}
 
-Search Engine Optimization (SEO) is a collection of best practices to help you get your pages in front of people using search engines. Marketo's SEO app will help you improve.
+Search Engine Optimization (SEO) is a collection of best practices to help you get your pages in front of people using search engines. Marketo's SEO app helps you improve.
 
 First, you should learn the basics with this handy glossary.
 
@@ -19,9 +19,9 @@ First, you should learn the basics with this handy glossary.
 
 **Inbound Links**: Links on other sites directing traffic to your site. The higher the reputation of the linking site, the more valuable this inbound link is.
 
-**SERP ranking**: Stands for Search Engine Result Page. Search engines return multiple pages of results. The SERP ranking is the page your link appears. Typically there are 10 results per page.
+**SERP ranking**: Stands for Search Engine Result Page. Search engines return multiple pages of results. The SERP ranking is the page that your link appears. Typically there are 10 results per page.
 
-**Search Engine View**: The way a search engine computer perceives your site as opposed to the way a human being does.
+**Search Engine View**: The way a search engine computer perceives your site as opposed to the way that a human being does.
 
 **Fat Head Search Terms**: Generic keywords that cast a very large net. They account for about 19% of all search terms used.
 
@@ -33,7 +33,7 @@ First, you should learn the basics with this handy glossary.
 
 **Long Tail Search Terms**: Super specific keywords. These are used about 70% of the time.
 
-(Example: Minimalist womens running shoes size 9)
+(Example: Minimalist women's running shoes size 9)
 
 **Optimization Score**: The Optimization Score is a proprietary Marketo score which measures all the pages on your site on a scale of 1 to 100. It is based on a compilation of dozens of best practices. A score of 70 or higher indicates a site that is quite well-optimized.
 
@@ -41,7 +41,7 @@ First, you should learn the basics with this handy glossary.
 
 (Example: Incorporating keywords into your page header)
 
-**Off-Page Optimization**: Measures that can be taken outside of the actual website in order to improve its position in search rankings.
+**Off-Page Optimization**: Measures that can be taken outside of the actual website to improve its position in search rankings.
 
 (Example: Increasing the number of inbound links from high-quality and reputable sites)
 

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359900
-description: Minimum System Requirements - Marketo Docs - Product Documentation
+description: Minimum System Requirements - Marketo
 title: Minimum System Requirements
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration

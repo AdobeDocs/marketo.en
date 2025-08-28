@@ -9,10 +9,6 @@ feature: Microsoft Dynamics
 
 Marketo and [!DNL Microsoft Dynamics] go together. We keep your sales and marketing data in sync.
 
->[!NOTE]
->
->Marketo only supports SSL certs that are compatible with Java 7 at this time.
-
 >[!CAUTION]
 >
 >We do not currently support sandbox refresh for [!DNL Marketo Dynamics] Sync. If you need to refresh your [!DNL Dynamics] CRM sandbox, a new Marketo sandbox will be required. Please contact your Customer Success Manager for additional details.
