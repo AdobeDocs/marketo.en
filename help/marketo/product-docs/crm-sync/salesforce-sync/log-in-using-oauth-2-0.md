@@ -70,7 +70,7 @@ Salesforce uses the OAuth protocol to allow users of applications to securely ac
 
    >[!CAUTION]
    >
-   >If you're seeing Username/Password/Token fields and not a "Login with Salesforce" Button, your Marketo Subscription is enabled for Basic Authentication. Please refer to [Set up Marketo with Basic Authentication](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Once the sync begins using a set of Credentials, there is no switching of Salesforce credentials or subscription. If you want to use Oauth 2.0, reach out to the Adobe Account Team (your Account Manager).
+   >If you're seeing Username/Password/Token fields and not a "Login with Salesforce" Button, your Marketo Subscription is enabled for Basic Authentication. Please refer to [Set up Marketo with Basic Authentication](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Once the sync begins using a set of Credentials, there is no switching of Salesforce credentials or subscription. To have Oauth 2.0 set up for your Salesforce authentication, contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 1. A pop-up with the salesforce login page will show up. Key in your "Marketo Sync User" credentials and log in.
 
