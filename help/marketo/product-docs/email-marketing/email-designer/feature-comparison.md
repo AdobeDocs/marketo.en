@@ -253,13 +253,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Velocity Scripting</td>
     <td>Ability to use Velocity scripting in emails.</td>
     <td>Available</td>
-    <td>Not needed</td>
-  </tr>
-  <tr>
-    <td>Handlebar Scripting</td>
-    <td>Ability to use Velocity scripting in emails.</td>
-    <td>Not Available</td>
-    <td>Planned for Q3 '25</td>
+    <td>Coming Soon</td>
   </tr>
   <tr>
     <td>Content Approval Workflows</td>
