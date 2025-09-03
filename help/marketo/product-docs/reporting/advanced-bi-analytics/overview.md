@@ -230,23 +230,13 @@ The following standard reports are included as examples for your custom reports.
 
 ## Things to note {#note}
 
-* The classic "Revenue Explorer" experience will be permanently deprecated on June 10, 2025. In the meantime, you can access, create, update, and delete reports in both experiences.
+* Your custom reports have been replicated from the classic experience to the new experience with the notable behavior changes mentioned in the [Learning the New Experience](#learning-the-new-experience) section below.
 
-* Your custom reports will be replicated from the classic experience to the new experience with the notable behavior changes mentioned in the [Learning the New Experience](#learning-the-new-experience) section below.
+* Dashboards in the classic experience were not transferable and required recreation in the new experience. They can be recreated as reports in the new experience and the filters in the new experience automatically pulls possible values.
 
-   >[!IMPORTANT]
-   >
-   >Replication of custom reports will be carried out in groups. Once your custom reports are replicated to the new experience, to ensure consistency between the two experiences, any changes made in the classic experience will also need to be manually applied to the corresponding reports in the new experience. An information note on the above will light up in the classic experience upon the replication of your customer reports.
-
-  * Dashboards in the classic experience are not transferable and will require recreation in the new experience. They should be recreated as reports in the new experience and the filters in the new experience automatically pulls possible values rather than requiring you to manually enter all possible values individually in the classic experience.
-
-      >[!NOTE]
-      >
-      >The dashboard in the new experience is simply a collection of reports on a single page. The primary value of dashboard in the new experience is to allow you to present analytical insights across different reporting areas.
-
-* Your email subscriptions in the classic experience will be replicated to the new experience. The email subscriptions in the classic experience will continue functioning until the deprecation of the classic experience on June 10, 2025.
-
-* Existing Revenue Explorer users automatically have access to the new Advanced BI Analytics experience.
+  >[!NOTE]
+  >
+  >The dashboard in the new experience is simply a collection of reports on a single page. The primary value of dashboard in the new experience is to allow you to present analytical insights across different reporting areas.
 
 * You can create **up to 700 reports** in Advanced BI Analytics.
 
@@ -276,13 +266,9 @@ The following are changes in the new experience (Advanced BI Analytics) from the
 
 * The string-type filters are now case-sensitive.
 
-* Runtime formula field in the classic experience is no longer supported.
-
-* Email subscription includes the PDF export rather than the HTML of the report. The new email subscription will not include the report definition.
+* Email subscription includes the PDF export rather than the HTML of the report. The new email subscription does not include the report definition.
 
 * Deep link of report is not supported at this time.
-
-* PDF export is synchronous in the new experience, compared to being asynchronous in the classic experience.
 
 >[!NOTE]
 >

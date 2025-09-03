@@ -7,7 +7,13 @@ exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
 ---
 # Work with Experience Manager assets {#work-with-experience-manager-assets}
 
-Connect your _Adobe Experience Manager Assets as a Cloud Service_ account to your Adobe Marketo Engage instance so you can leverage your AEM Asset repository in the Marketo Engage Email Designer.
+Bring marketing and creative workflows together using Adobe Experience Manager Assets. It is natively integrated with Marketo Engage, so you can easily access _Assets as a Cloud Service_ to discover and use digital assets to populate your messages.
+
+Adobe Experience Manager _Assets as a Cloud Service_ offers an easy-to-use cloud solution for efficient Digital Asset Management and Dynamic Media operations. Learn more in the [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/overview) documentation.
+
+>[!PREREQUISITES]
+>
+>* Licenses for _Assets as a Cloud Service_ and Dynamic Media are required for the integration. Ensure that [Dynamic Media with Open API is enabled](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis). Depending on your contract and configuration, Adobe Experience Manager _Assets as a Cloud Service_ can be accessed directly from Marketo Engage when designing visual content.
 
 >[!NOTE]
 >
