@@ -67,25 +67,29 @@ Below you'll find error messages you may receive along with their definitions.
     <th>Details</th>
   </tr></thead>
 <tbody>
-  <tr>
-    <td><i>Unexpected error encountered while creating a domain. Please contact Support for assistance.</i></td>
-    <td>An unexpected error has occurred. Please gather logs and error details, and escalate the issue to <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo Support</a>.</td>
-  </tr>
-  <tr>
-    <td><i>The default domain was not found. Please contact Support for assistance.</i></td>
-    <td>There was an issue when trying to locate the default domain. Please reach out to Support so they can investigate.</td>
-  </tr>
-  <tr>
-    <td><i>SSL certificate has already been issued.</i></td>
-    <td>An SSL certificate already exists for this custom domain. No further action is needed unless the certificate has expired or needs to be reissued.</td>
+<tr>
+    <td><i>Domain already exists.</i></td>
+    <td>A domain with same name already exists.</td>
   </tr>
   <tr>
     <td><i>Domain is not mapped to the default domain.</i></td>
     <td>The custom domain is not correctly mapped to the default domain. Please verify the domain mapping settings and ensure the DNS configuration points to the correct default domain.</td>
   </tr>
   <tr>
-    <td><i>Domain already exists.</i></td>
-    <td>A domain with same name already exists.</td>
+    <td><i>SSL certificates could not be issued due to unsupported CAA records. Request your IT to update your CAA records.</i></td>
+    <td>The CAA records are not up to date. For those using Marketo Engage managed SSL certificates, CAA records need to be updated to certificates recommended by our vendor. Please contact your IT department to update the CAA records. See <a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246">this page</a> for additional details.</td>
+  </tr>
+  <tr>
+    <td><i>SSL certificate has already been issued.</i></td>
+    <td>An SSL certificate already exists for this custom domain. No further action is needed unless the certificate has expired or needs to be reissued.</td>
+  </tr>
+  <tr>
+    <td><i>The default domain was not found. Please contact Support for assistance.</i></td>
+    <td>There was an issue when trying to locate the default domain. Please reach out to Support so they can investigate.</td>
+  </tr>
+  <tr>
+    <td><i>Unexpected error encountered while creating a domain. Please contact Support for assistance.</i></td>
+    <td>An unexpected error has occurred. Please gather logs and error details, and escalate the issue to <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo Support</a>.</td>
   </tr>
 </tbody></table>
 
