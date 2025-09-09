@@ -47,6 +47,20 @@ Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited editions by c
    >
    >Keep this window open. You need this information later for Salesforce configuration.
 
+## Populate New Rest API Credentials {#populate-new-rest-api-credentials}
+
+1. When you populate Rest API credentials for the first time, the _View_ button will change to _Edit_. Click the **Edit** button.
+
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5a.png)
+
+1. A message appears confirming that you would like to regenerate API credentials. Click **Save**.
+
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5b.png){width="800" zoomable="yes"}
+
+1. After the new credentials are populated, update them in the _Marketo Config_ tab of your Salesforce instance.
+
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5c.png)
+
 ## Configure [!DNL Sales Insight] in [!DNL Salesforce] {#configure-sales-insight-in-salesforce}
 
 1. In Salesforce, click **[!UICONTROL Setup]**.
