@@ -53,9 +53,7 @@ Follow the steps below to enable SSL for your default domain.
 
 >[!NOTE]
 >
->* The SSL Certificate column in the listing shows certificate status for all the domain alias created after this feature was released (April 25, 2025). If you had the SSL enabled for a domain through Marketo Support, the certificate will continue to exist, but won't show in the table. This table only reflects SSL certificates for domains added using the steps in this article.
->
->* It can take up to three minutes for the SSL to be in READY state. You must refresh the page for the changes to appear.
+>It can take up to three minutes for the SSL to be in READY state. You must refresh the page for the changes to appear.
 
 ## Error Messages {#error-messages}
 
@@ -101,6 +99,4 @@ Below you'll find error messages you may receive along with their definitions.
 
 * **Pre-existing SSLs**: While adding a domain, the system checks for pre-existing SSLs, which may have been manually created prior. If you encounter this validation, create your domain without selecting SSL creation, and we will connect them for you. [Contact Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} more additional details/options.
 
-* **Adding certs to existing domains**: Adding certs to existing domains is not supported at this time. For pre-existing domains, or for cases where you missed checking the SSL certificate box, you must reach out to [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} to get the certificate added.
-
-* **Deletion of domains**: Deleting a domain automatically deletes the SSL certificate.
+* **Deletion of domains**: Automatically deleting a domain **does not** delete the SSL certificate. This guardrail prevents user errors that result in a website being without SSL certificates. If you do want to remove the SSL certificates, [contact Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
