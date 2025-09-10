@@ -28,57 +28,7 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>TITLE</strong>: Description.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>TITLE</strong>: Description.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>TITLE</strong>: Description.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>TITLE</strong>: Description.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>TITLE</strong>: Description.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>TITLE</strong>: Description.</td>
+   <td><strong>On-Demand Webinar Activity Retention</strong>: Interactive Webinars users now have On-demand Webinar Dashboard data available for more than 30 days (previously it was only up to 30 days from the day of the webinar).</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -87,6 +37,8 @@ The following features fall under the standard release cycle and will start to b
 <br/>
 
 ## Announcements {#announcements}
+
+* **Switching Back to Velocity Scripting in the new Email Designer**: Adobe Marketo Engage released a feature called _Conditional Content_ for the new Email Designer this past June. The feature was powered by Handlebar scripting instead of Velocity scripting, in an effort to provide a little more flexibility in your dynamic content. But when we discovered it was causing some tokens to be resolved incorrectly, we decided to temporarily disable it. [Learn More](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Marketo Engage Identity End of Life**: In August 2025, Adobe began phasing out support for Marketo Engage Identity (logging in via `login.marketo.com`). To prevent interrupted access to Marketo Engage, you must transition to [Adobe Identity](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} no later than September 30, 2025.
 

@@ -229,9 +229,9 @@ Marketo person fields must be mapped to Salesforce contact fields to ensure that
 
 1. In Salesforce, click the **+** at the end of the tab bar and click **[!UICONTROL Marketo Sales Insight Config]**.
 
-1. Copy the credentials from the Soap API panel in [Marketo's Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Soap API section of the [!DNL Salesforce] [!DNL Sales Insight] Configuration page.
+1. Copy the credentials from the Soap API panel in the [Marketo Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Soap API section of the [!DNL Salesforce] [!DNL Sales Insight] Configuration page.
 
-1. Copy the credentials from the Rest API panel in [Marketo's Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Rest API section of the [!DNL Salesforce] [!DNL Sales Insight] Configuration page.
+1. Copy the credentials from the Rest API panel in the [Marketo Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Rest API section of the [!DNL Salesforce] [!DNL Sales Insight] Configuration page.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 

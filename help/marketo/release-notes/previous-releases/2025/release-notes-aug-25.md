@@ -2,8 +2,6 @@
 description: Release Notes - August 2025 - Marketo Docs - Product Documentation
 title: Release Notes - August 2025
 feature: Release Information
-hide: yes
-hidefromtoc: yes
 ---
 # Release Notes: August 2025 {#release-notes-aug-25}
 
