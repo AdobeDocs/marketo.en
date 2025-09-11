@@ -23,7 +23,7 @@ Add an additional branding domain when you're running multiple brands out of a s
 
 1. Click **[!UICONTROL Add]** to add an additional branding domain.
 
-   ![](assets/add-an-additional-branding-domain-3.png)
+   ![](assets/add-an-additional-branding-domain-3.png){width="600"}
 
 1. Enter the name of your new branding domain, select _Make Primary Domain_ and/or _Generate SSL Certificate_ (both optional), and click **[!UICONTROL Save]**.
 
@@ -43,11 +43,11 @@ Follow these steps to enable SSL for your existing domains.
 
 1. On the _[!UICONTROL Domain]_ tab, select the domain row and click **[!UICONTROL Add SSL]**. 
 
-   ![Admin - Email - Domain - Add SSL](./assets/admin-email-branding-domain-add-ssl.png)
+   ![Admin - Email - Domain - Add SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
 1. In the dialog, click **[!UICONTROL Confirm]**.
 
-   ![Add SSL - Confirm](./assets/generate-ssl-cert-confirm.png){width="350"}
+   ![Add SSL - Confirm](./assets/generate-ssl-cert-confirm.png){width="400"}
 
 ## Error Messages {#error-messages}
 

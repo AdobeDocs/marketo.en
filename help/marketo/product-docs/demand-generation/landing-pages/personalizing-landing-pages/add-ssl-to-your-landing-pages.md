@@ -69,7 +69,7 @@ Follow these steps to enable SSL for your existing domain aliases.
 
 1. In the dialog, click **[!UICONTROL Confirm]**.
 
-   ![Add SSL - Confirm](./assets/generate-ssl-cert-confirm.png){width="350"}
+   ![Add SSL - Confirm](./assets/generate-ssl-cert-confirm.png){width="400"}
 
 >[!NOTE]
 >
