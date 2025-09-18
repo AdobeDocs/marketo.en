@@ -56,7 +56,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Dark Mode</strong>: You can now utilize Dark Mode, which allows supporting email clients and apps to display emails with darker backgrounds and lighter colors for text, buttons and other UI elements.</td>
+   <td><strong>Email Designer - Dark Mode</strong>: You can now utilize Dark Mode, which allows supporting email clients and apps to display emails with darker backgrounds and lighter colors for text, buttons and other UI elements.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
