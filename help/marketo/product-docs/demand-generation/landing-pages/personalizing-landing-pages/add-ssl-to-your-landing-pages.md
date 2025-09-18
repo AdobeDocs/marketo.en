@@ -53,7 +53,27 @@ Follow the steps below to enable SSL for your default domain.
 
 >[!NOTE]
 >
->It can take up to three minutes for the SSL to be in READY state. You must refresh the page for the changes to appear.
+>It can take up to three minutes for the SSL to be in the READY state. Refresh the page for the changes to appear.
+
+## Edit SSLs to existing domains aliases
+
+Follow these steps to enable SSL for your existing domain aliases.
+
+1. From the _[!UICONTROL Admin]_ area, expand **[!UICONTROL Integration]** in the left navigation and select **[!UICONTROL Landing Pages]**.
+
+1. On the page, select the **[!UICONTROL Rules]** tab at the top.
+
+1. Select the domain alias row that you want to edit and click **[!UICONTROL Add SSL]** on the top.
+
+   ![Admin area - Integration > Landing Pages - Rules tab - select domain alias](./assets/admin-landing-pages-rules-add-ssl.png){width="800" zoomable="yes"}
+
+1. In the dialog, click **[!UICONTROL Confirm]**.
+
+   ![Add SSL - Confirm](./assets/generate-ssl-cert-confirm.png){width="400"}
+
+>[!NOTE]
+>
+>It can take up to three minutes for the SSL to be in the READY state. Refresh the page for the changes to appear.
 
 ## Error Messages {#error-messages}
 
