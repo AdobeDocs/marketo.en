@@ -7,7 +7,7 @@ feature: Landing Pages
 ---
 # Create a Guided Landing Page Template {#create-a-guided-landing-page-template}
 
-Guided landing page templates have a special syntax. Use this syntax to specify what is customizable and where content will end up on each landing page built from your template. Only the regions or variables you specify as editable will be available for customization within the “Guided” landing page editor.
+Guided landing page templates have a special syntax. Use this syntax to specify what is customizable and where content will end up on each landing page built from your template. Only the regions or variables you specify as editable will be available for customization within the "Guided" landing page editor.
 
 >[!TIP]
 >
@@ -73,7 +73,7 @@ Example:
 
 >[!NOTE]
 >
->When using the `<img>` version, the rendered HTML will contain a generated div wrapper around the `<img>` tag. It will be set to class .”mktoImg.mktoGen,” and will be display:inline-block.
+>When using the `<img>` version, the rendered HTML will contain a generated div wrapper around the `<img>` tag. It will be set to class ."mktoImg.mktoGen," and will be display:inline-block.
 
 ## Form {#form}
 
@@ -120,39 +120,6 @@ Required attributes:
 Example:
 
 `<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
-
-## Poll {#poll}
-
-Required attributes:
-**class**: "mktoPoll"
-**id**: ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.
-**mktoName** : String. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.
-
-Example:
-
-`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
-
-## Referral {#referral}
-
-Required attributes:
-**class**: "mktoReferral"
-**id**: ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.
-**mktoName** : String. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.
-
-Example:
-
-`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
-
-## Sweepstakes {#sweepstakes}
-
-Required attributes:
-**class**: "mktoSweepstakes"
-**id**: ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.
-**mktoName** : String. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.
-
-Example:
-
-`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## Editable Variables {#editable-variables}
 
