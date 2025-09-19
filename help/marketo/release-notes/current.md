@@ -36,7 +36,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Content Collaboration Workflow</strong>: You can now comment on and collaborate with the fellow Marketo users within an email asset. Tag team members (Marketo users who have the appropriate asset permissions) and they will receive an email or pulse notification.</td>
+   <td><strong>Email Designer - Content Collaboration Workflow</strong>: You can now comment on and collaborate with fellow Marketo users within an email asset. Tag team members (Marketo users who have the appropriate asset permissions) and they will receive an email or pulse notification.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -56,7 +56,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Dark Mode</strong>: You can now utilize Dark Mode, which allows supporting email clients and apps to display emails with darker backgrounds and lighter colors for text, buttons and other UI elements.</td>
+   <td><strong>Email Designer - Dark Mode</strong>: You can now utilize Dark Mode, which allows supporting email clients and apps to display emails with darker backgrounds and lighter colors for text, buttons, and other UI elements.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
