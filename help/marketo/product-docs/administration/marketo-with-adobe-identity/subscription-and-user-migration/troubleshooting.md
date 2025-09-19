@@ -64,13 +64,17 @@ _If the user does **not** need to be migrated_ - Marketo Engage admin to skip th
 
 ### Type2E Failure {#type2e-failure}
 
-**Root cause**: Creation of a federated user account (for Single Sign-On) failed during user migration because an Adobe ID already exists for the same email address as an individual user.
+**Root cause**: If a Federated account (T3) is configured for the org and an individual account (T1) already exists for the user, any attempt to create (if applicable) and link an entitlement only account (T2e) to the federated account will fail with the error code FAILED_TO_CREATE_TYPE2E_USER.
 
 **Resolutions**:
 
-1. Remove the individual user from the Adobe org. Please note: the user will lose access to all products and will need to be re-entitled again later.
+1. Remove the individual user from the Adobe org. _Please note: the user will lose access to all products and will need to be re-entitled again later. If this is detrimental, reach out to Adobe Support._
 1. Re-run the user migration so a federated user account gets created for this user.
-1. Add the user back to the products they previously had access to.
+1. The entitlement only account would be created (if applicable) and linked to the Federated account as its authenticating account.
+
+**Learn more**
+* [Set up identity without Single Sign-On](https://helpx.adobe.com/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20without%20Single%20Sign%2DOn)
+* [Set up identity with Single Sign-On](https://helpx.adobe.com/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20with%20Single%20Sign%2DOn)
 
 ### Pendo Migration Failed {#pendo-migration-failed}
 
