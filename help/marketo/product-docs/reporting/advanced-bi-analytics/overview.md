@@ -1,5 +1,5 @@
 ---
-description: Advanced BI Analytics Overview - Marketo Docs - Product Documentation
+description: "Advanced BI Analytics Overview - Marketo Docs - Product Documentation"
 title: Advanced BI Analytics Overview
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
