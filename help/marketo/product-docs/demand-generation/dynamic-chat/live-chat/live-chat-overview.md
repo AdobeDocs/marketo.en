@@ -1,5 +1,5 @@
 ---
-description: Live Chat Overview - Marketo Docs - Product Documentation
+description: "Live Chat Overview - Marketo Docs - Product Documentation"
 title: Live Chat Overview
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266

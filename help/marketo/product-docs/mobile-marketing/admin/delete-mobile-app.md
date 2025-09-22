@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7512442
-description: Delete Mobile App - Marketo Docs - Product Documentation
+description: "Delete Mobile App - Marketo Docs - Product Documentation"
 title: Delete Mobile App
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
 feature: Mobile Marketing

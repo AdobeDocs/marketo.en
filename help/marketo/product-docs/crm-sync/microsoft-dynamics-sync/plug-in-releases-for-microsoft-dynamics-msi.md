@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10099102
-description: Plug-In Releases for [!DNL Microsoft Dynamics] MSI - Marketo Docs - Product Documentation
+description: "Plug-In Releases for [!DNL Microsoft Dynamics] MSI - Marketo Docs - Product Documentation"
 title: Plug-In Releases for [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics

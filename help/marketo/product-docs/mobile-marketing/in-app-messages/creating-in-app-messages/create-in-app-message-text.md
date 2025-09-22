@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10100642
-description: Create In-App Message Text - Marketo Docs - Product Documentation
+description: "Create In-App Message Text - Marketo Docs - Product Documentation"
 title: Create In-App Message Text
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing

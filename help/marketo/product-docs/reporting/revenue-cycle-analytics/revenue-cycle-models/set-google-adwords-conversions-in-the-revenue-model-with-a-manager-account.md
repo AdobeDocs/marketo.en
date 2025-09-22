@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504923
-description: Set [!DNL Google AdWords] Conversions in the Revenue Model with a Manager Account - Marketo Docs - Product Documentation
+description: "Set [!DNL Google AdWords] Conversions in the Revenue Model with a Manager Account - Marketo Docs - Product Documentation"
 title: Set [!DNL Google AdWords] Conversions in the Revenue Model with a Manager Account
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953338
-description: Send a Marketo Sales Email from Microsoft Dynamics - Marketo Docs - Product Documentation
+description: "Send a Marketo Sales Email from Microsoft Dynamics - Marketo Docs - Product Documentation"
 title: Send a Marketo Sales Email from Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights

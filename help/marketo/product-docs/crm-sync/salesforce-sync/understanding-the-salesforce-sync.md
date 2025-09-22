@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719283
-description: Understanding the Salesforce Sync - Marketo Docs - Product Documentation
+description: "Understanding the Salesforce Sync - Marketo Docs - Product Documentation"
 title: Understanding the Salesforce Sync
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration

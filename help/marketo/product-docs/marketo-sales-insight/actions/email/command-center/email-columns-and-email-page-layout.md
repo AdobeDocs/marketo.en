@@ -1,5 +1,5 @@
 ---
-description: Email Columns and Email Page Layout - Marketo Docs - Product Documentation
+description: "Email Columns and Email Page Layout - Marketo Docs - Product Documentation"
 title: Email Columns and Email Page Layout
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions

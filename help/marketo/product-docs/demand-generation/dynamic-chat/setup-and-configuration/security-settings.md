@@ -1,5 +1,5 @@
 ---
-description: Security Settings - Marketo Docs - Product Documentation
+description: "Security Settings - Marketo Docs - Product Documentation"
 title: Security Settings
 feature: Dynamic Chat
 exl-id: 68a53986-6f42-4aa2-86f6-0b2097f94963

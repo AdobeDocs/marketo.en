@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10093690
-description: Edit and Delete a Marketo Custom Object - Marketo Docs - Product Documentation
+description: "Edit and Delete a Marketo Custom Object - Marketo Docs - Product Documentation"
 title: Edit and Delete a Marketo Custom Object
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 feature: Custom Objects

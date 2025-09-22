@@ -1,5 +1,5 @@
 ---
-description: Sales Insight Actions Feature Overview - Marketo Docs - Product Documentation
+description: "Sales Insight Actions Feature Overview - Marketo Docs - Product Documentation"
 title: Sales Insight Actions Feature Overview
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions

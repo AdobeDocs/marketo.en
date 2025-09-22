@@ -1,5 +1,5 @@
 ---
-description: Setup Steps - Marketo Docs - Product Documentation
+description: "Setup Steps - Marketo Docs - Product Documentation"
 short-description: Just getting started with Adobe Marketo Engage? Learn what steps you need to complete before diving in.
 title: Setup Steps
 feature: Getting Started

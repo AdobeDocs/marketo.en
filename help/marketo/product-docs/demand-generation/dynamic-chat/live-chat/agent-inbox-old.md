@@ -1,5 +1,5 @@
 ---
-description: Agent Inbox - Marketo Docs - Product Documentation
+description: "Agent Inbox - Marketo Docs - Product Documentation"
 title: Agent Inbox
 hide: yes
 hidefromtoc: yes

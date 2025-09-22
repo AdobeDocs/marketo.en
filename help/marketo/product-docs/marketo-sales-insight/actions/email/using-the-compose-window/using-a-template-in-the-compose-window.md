@@ -1,5 +1,5 @@
 ---
-description: Using a Template in the Compose Window - Marketo Docs - Product Documentation
+description: "Using a Template in the Compose Window - Marketo Docs - Product Documentation"
 title: Using a Template in the Compose Window
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions

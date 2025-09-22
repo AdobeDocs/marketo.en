@@ -1,5 +1,5 @@
 ---
-description: Auto Login from Salesforce - Marketo Docs - Product Documentation
+description: "Auto Login from Salesforce - Marketo Docs - Product Documentation"
 title: Auto Login from Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360235
-description: Create an Opportunity Influence Analyzer - Marketo Docs - Product Documentation
+description: "Create an Opportunity Influence Analyzer - Marketo Docs - Product Documentation"
 title: Create an Opportunity Influence Analyzer
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics

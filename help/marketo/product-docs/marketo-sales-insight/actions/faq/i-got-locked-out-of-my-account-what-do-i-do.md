@@ -1,5 +1,5 @@
 ---
-description: I Got Locked out of My Account. What Do I Do? - Marketo Docs - Product Documentation
+description: "I Got Locked out of My Account. What Do I Do? - Marketo Docs - Product Documentation"
 title: I Got Locked out of My Account. What Do I Do?
 exl-id: e3ef9909-36e6-434b-8f6e-161af69e093b
 feature: Sales Insight Actions

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146942
-description: Define Smart List for Smart Campaign | Trigger - Marketo Docs - Product Documentation
+description: "Define Smart List for Smart Campaign | Trigger - Marketo Docs - Product Documentation"
 title: Define Smart List for Smart Campaign | Trigger
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns

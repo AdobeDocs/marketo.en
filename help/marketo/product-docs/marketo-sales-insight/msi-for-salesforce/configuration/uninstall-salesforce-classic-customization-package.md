@@ -1,5 +1,5 @@
 ---
-description: Uninstall Salesforce Customization Package - Marketo Docs - Product Documentation
+description: "Uninstall Salesforce Customization Package - Marketo Docs - Product Documentation"
 title: Uninstall Salesforce Customization Package
 hide: yes
 hidefromtoc: yes

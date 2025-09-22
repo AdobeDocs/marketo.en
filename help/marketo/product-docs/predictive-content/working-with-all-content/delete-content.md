@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11384659
-description: Delete Content - Marketo Docs - Product Documentation
+description: "Delete Content - Marketo Docs - Product Documentation"
 title: Delete Content
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content

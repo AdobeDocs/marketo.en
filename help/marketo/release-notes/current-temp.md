@@ -1,5 +1,5 @@
 ---
-description: Current Release Notes - Marketo Docs - Product Documentation
+description: "Current Release Notes - Marketo Docs - Product Documentation"
 title: Current Release Notes
 hide: yes
 hidefromtoc: yes

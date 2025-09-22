@@ -1,5 +1,5 @@
 ---
-description: Grant Marketo Access to Users - Marketo Docs - Product Documentation
+description: "Grant Marketo Access to Users - Marketo Docs - Product Documentation"
 title: Grant Marketo Access to Users
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions

@@ -1,5 +1,5 @@
 ---
-description: Notification - Websocket Connection - Marketo Docs - Product Documentation
+description: "Notification - Websocket Connection - Marketo Docs - Product Documentation"
 title: Notification - Websocket Connection
 hide: yes
 hidefromtoc: yes

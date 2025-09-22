@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719190
-description: Enable Content Discovery - Marketo Docs - Product Documentation
+description: "Enable Content Discovery - Marketo Docs - Product Documentation"
 title: Enable Content Discovery
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352405
-description: Setting UP SSO Through SAML 2.0 in [!DNL Sales Connect] - Marketo Docs - Product Documentation
+description: "Setting UP SSO Through SAML 2.0 in [!DNL Sales Connect] - Marketo Docs - Product Documentation"
 title: Setting UP SSO Through SAML 2.0 in [!DNL Sales Connect]
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 feature: Marketo Sales Connect

@@ -1,5 +1,5 @@
 ---
-description: Flow Step Service - Marketo Docs - Product Documentation
+description: "Flow Step Service - Marketo Docs - Product Documentation"
 title: Flow Step Service
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns

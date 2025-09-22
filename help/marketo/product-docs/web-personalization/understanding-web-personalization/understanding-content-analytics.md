@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10093159
-description: Understanding Content Analytics - Marketo Docs - Product Documentation
+description: "Understanding Content Analytics - Marketo Docs - Product Documentation"
 title: Understanding Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization

@@ -1,5 +1,5 @@
 ---
-description: Setting an Event Cap - Marketo Docs - Product Documentation
+description: "Setting an Event Cap - Marketo Docs - Product Documentation"
 title: Setting an Event Cap
 hide: yes
 hidefromtoc: yes

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7516612
-description: Mobile Apps - Marketo Docs - Product Documentation
+description: "Mobile Apps - Marketo Docs - Product Documentation"
 title: Mobile Apps
 ---
 

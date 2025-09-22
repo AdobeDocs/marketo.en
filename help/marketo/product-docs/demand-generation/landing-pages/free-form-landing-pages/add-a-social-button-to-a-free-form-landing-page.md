@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359718
-description: Add a Social Button to a Free-form Landing Page - Marketo Docs - Product Documentation
+description: "Add a Social Button to a Free-form Landing Page - Marketo Docs - Product Documentation"
 title: Add a Social Button to a Free-form Landing Page
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: yes

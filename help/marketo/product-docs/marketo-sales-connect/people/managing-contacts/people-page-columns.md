@@ -1,6 +1,6 @@
 ---
 unique-page-id: 30081307
-description: People Page Columns - Marketo Docs - Product Documentation
+description: "People Page Columns - Marketo Docs - Product Documentation"
 title: People Page Columns
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect

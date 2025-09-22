@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10092977
-description: Microsoft Dynamics Sync Filter -Qualify - Marketo Docs - Product Documentation
+description: "Microsoft Dynamics Sync Filter -Qualify - Marketo Docs - Product Documentation"
 title: Microsoft Dynamics Sync Filter -Qualify
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics

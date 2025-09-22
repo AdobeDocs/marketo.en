@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352538
-description: Test Email Not Showed as Viewed - Marketo Docs - Product Documentation
+description: "Test Email Not Showed as Viewed - Marketo Docs - Product Documentation"
 title: Test Email Not Showed as Viewed
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect

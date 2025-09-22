@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949283
-description: Send and Track from [!DNL Outlook] Using a Marketo Template - Marketo Docs - Product Documentation
+description: "Send and Track from [!DNL Outlook] Using a Marketo Template - Marketo Docs - Product Documentation"
 title: Send and Track from [!DNL Outlook] Using a Marketo Template
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights

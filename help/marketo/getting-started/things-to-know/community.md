@@ -1,5 +1,5 @@
 ---
-description: Marketo Engage Community - Marketo Engage Docs - Product Documentation
+description: "Marketo Engage Community - Marketo Engage Docs - Product Documentation"
 title: Marketo Engage Community
 hide: yes
 hidefromtoc: yes

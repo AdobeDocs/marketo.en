@@ -1,5 +1,5 @@
 ---
-description: Connect to Gmail - Marketo Docs - Product Documentation
+description: "Connect to Gmail - Marketo Docs - Product Documentation"
 title: Connect to Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
 ---

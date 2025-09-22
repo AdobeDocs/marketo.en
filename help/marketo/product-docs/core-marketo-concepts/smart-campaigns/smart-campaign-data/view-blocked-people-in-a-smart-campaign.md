@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147062
-description: View Blocked People in a Smart Campaign - Marketo Docs - Product Documentation
+description: "View Blocked People in a Smart Campaign - Marketo Docs - Product Documentation"
 title: View Blocked People in a Smart Campaign
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns

@@ -1,5 +1,5 @@
 ---
-description: Inherited Instance Design Studio Checklist - Marketo Docs - Product Documentation
+description: "Inherited Instance Design Studio Checklist - Marketo Docs - Product Documentation"
 title: Inherited Instance Design Studio Checklist
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff

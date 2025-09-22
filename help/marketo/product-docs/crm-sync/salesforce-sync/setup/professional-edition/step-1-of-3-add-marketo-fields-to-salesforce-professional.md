@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11372975
-description: Step 1 of 3 -Add Marketo Fields to Salesforce  (Professional) - Marketo Docs - Product Documentation
+description: "Step 1 of 3 -Add Marketo Fields to Salesforce  (Professional) - Marketo Docs - Product Documentation"
 title: Step 1 of 3 -Add Marketo Fields to Salesforce  (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration

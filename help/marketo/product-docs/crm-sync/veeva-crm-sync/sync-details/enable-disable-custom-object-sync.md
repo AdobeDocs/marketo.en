@@ -1,5 +1,5 @@
 ---
-description: Enable/Disable Custom Object Sync - Marketo Docs - Product Documentation
+description: "Enable/Disable Custom Object Sync - Marketo Docs - Product Documentation"
 title: Enable/Disable Custom Object Sync
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM

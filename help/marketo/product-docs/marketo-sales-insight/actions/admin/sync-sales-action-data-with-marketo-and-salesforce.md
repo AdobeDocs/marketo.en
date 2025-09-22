@@ -1,5 +1,5 @@
 ---
-description: Sync Sales Action Data with Marketo and Salesforce - Marketo Docs - Product Documentation
+description: "Sync Sales Action Data with Marketo and Salesforce - Marketo Docs - Product Documentation"
 title: Sync Sales Action Data with Marketo and Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
 ---

@@ -1,5 +1,5 @@
 ---
-description: Granting Access to Users - Marketo Docs - Product Documentation
+description: "Granting Access to Users - Marketo Docs - Product Documentation"
 title: Granting Access to Users
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect

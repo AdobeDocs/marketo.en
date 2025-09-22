@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352506
-description: Edit a Template Category - Marketo Docs - Product Documentation
+description: "Edit a Template Category - Marketo Docs - Product Documentation"
 title: Edit a Template Category
 exl-id: ae7c9db2-78d3-497c-9752-77304b9ab3d8
 feature: Marketo Sales Connect

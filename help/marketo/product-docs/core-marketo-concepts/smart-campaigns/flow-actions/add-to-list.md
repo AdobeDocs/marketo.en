@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146952
-description: Add to List - Marketo Docs - Product Documentation
+description: "Add to List - Marketo Docs - Product Documentation"
 title: Add to List
 exl-id: 30673b95-4eed-4aa5-bca2-5ed5350d28a7
 feature: Smart Campaigns

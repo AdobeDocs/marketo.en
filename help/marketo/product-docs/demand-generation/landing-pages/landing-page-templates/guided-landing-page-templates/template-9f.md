@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783996
-description: Template 9F - Marketo Docs - Product Documentation
+description: "Template 9F - Marketo Docs - Product Documentation"
 title: Template 9F
 exl-id: 4a24d5fa-7e3d-4832-8946-0c61e965fd5a
 feature: Landing Pages, Guided Landing Page Templates

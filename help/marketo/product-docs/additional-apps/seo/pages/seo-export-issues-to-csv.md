@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949222
-description: SEO - Export Issues to CSV - Marketo Docs - Product Documentation
+description: "SEO - Export Issues to CSV - Marketo Docs - Product Documentation"
 title: SEO - Export Issues to CSV
 exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
 feature: SEO

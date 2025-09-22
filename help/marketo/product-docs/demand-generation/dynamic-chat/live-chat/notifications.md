@@ -1,5 +1,5 @@
 ---
-description: Notifications - Marketo Docs - Product Documentation
+description: "Notifications - Marketo Docs - Product Documentation"
 title: Notifications
 hide: yes
 hidefromtoc: yes

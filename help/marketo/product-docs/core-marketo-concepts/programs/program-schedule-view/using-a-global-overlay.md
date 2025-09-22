@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147249
-description: Using a Global Overlay - Marketo Docs - Product Documentation
+description: "Using a Global Overlay - Marketo Docs - Product Documentation"
 title: Using a Global Overlay
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs

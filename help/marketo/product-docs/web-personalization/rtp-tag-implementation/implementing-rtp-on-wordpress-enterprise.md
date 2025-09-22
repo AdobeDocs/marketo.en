@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4720215
-description: Implementing RTP on Wordpress Enterprise - Marketo Docs - Product Documentation
+description: "Implementing RTP on Wordpress Enterprise - Marketo Docs - Product Documentation"
 title: Implementing RTP on Wordpress Enterprise
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization

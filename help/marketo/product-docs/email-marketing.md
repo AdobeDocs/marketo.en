@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557076
-description: Email Marketing - Marketo Docs - Product Documentation
+description: "Email Marketing - Marketo Docs - Product Documentation"
 title: Email Marketing
 ---
 

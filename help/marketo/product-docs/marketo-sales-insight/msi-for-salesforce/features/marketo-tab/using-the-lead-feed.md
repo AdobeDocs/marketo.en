@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7512979
-description: Using the Lead Feed - Marketo Docs - Product Documentation
+description: "Using the Lead Feed - Marketo Docs - Product Documentation"
 title: Using the Lead Feed
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights

@@ -1,5 +1,5 @@
 ---
-description: TS-YYYY-MM-DD-Tradeshow Program - Marketo Docs - Product Documentation
+description: "TS-YYYY-MM-DD-Tradeshow Program - Marketo Docs - Product Documentation"
 title: TS-YYYY-MM-DD-Tradeshow Program
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8

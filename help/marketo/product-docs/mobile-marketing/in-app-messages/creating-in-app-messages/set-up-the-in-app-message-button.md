@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10100644
-description: Set Up the In-App Message Button - Marketo Docs - Product Documentation
+description: "Set Up the In-App Message Button - Marketo Docs - Product Documentation"
 title: Set Up the In-App Message Button
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing

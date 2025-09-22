@@ -1,5 +1,5 @@
 ---
-description: Quick Start Landing Page Template - Marketo Docs - Product Documentation
+description: "Quick Start Landing Page Template - Marketo Docs - Product Documentation"
 title: Quick Start Landing Page Template
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c

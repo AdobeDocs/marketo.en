@@ -1,6 +1,6 @@
 ---
 unique-page-id: 3571737
-description: Install and Configure Marketo Sales Insight in Microsoft Dynamics 2013 - Marketo Docs - Product Documentation
+description: "Install and Configure Marketo Sales Insight in Microsoft Dynamics 2013 - Marketo Docs - Product Documentation"
 title: Install and Configure Marketo Sales Insight in Microsoft Dynamics 2013
 exl-id: 290db451-47a6-4cfa-a36f-bc12ef7d3482
 feature: Marketo Sales Insights

@@ -1,5 +1,5 @@
 ---
-description: Reply Logging - Marketo Docs - Product Documentation
+description: "Reply Logging - Marketo Docs - Product Documentation"
 title: Reply Logging
 hide: yes
 hidefromtoc: yes

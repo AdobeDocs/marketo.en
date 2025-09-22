@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146897
-description: Delete People in a Smart List or List - Marketo Docs - Product Documentation
+description: "Delete People in a Smart List or List - Marketo Docs - Product Documentation"
 title: Delete People in a Smart List or List
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists

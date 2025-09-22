@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146995
-description: Use Tokens in Flow Steps - Marketo Docs - Product Documentation
+description: "Use Tokens in Flow Steps - Marketo Docs - Product Documentation"
 title: Use Tokens in Flow Steps
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns

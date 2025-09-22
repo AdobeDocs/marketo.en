@@ -1,5 +1,5 @@
 ---
-description: Step 2 of 3 - Create a Salesforce User for Marketo (Enterprise/Unlimited) - Marketo Docs - Product Documentation
+description: "Step 2 of 3 - Create a Salesforce User for Marketo (Enterprise/Unlimited) - Marketo Docs - Product Documentation"
 title: Step 2 of 3 - Create a Salesforce User for Marketo (Enterprise/Unlimited)
 hide: yes
 hidefromtoc: yes

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146901
-description: Using Advanced Smart List Rule Logic - Marketo Docs - Product Documentation
+description: "Using Advanced Smart List Rule Logic - Marketo Docs - Product Documentation"
 title: Using Advanced Smart List Rule Logic
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists

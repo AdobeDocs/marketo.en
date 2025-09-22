@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11375827
-description: Required Fields for Syncing Marketo with Dynamics - Marketo Docs - Product Documentation
+description: "Required Fields for Syncing Marketo with Dynamics - Marketo Docs - Product Documentation"
 title: Required Fields for Syncing Marketo with Dynamics
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights

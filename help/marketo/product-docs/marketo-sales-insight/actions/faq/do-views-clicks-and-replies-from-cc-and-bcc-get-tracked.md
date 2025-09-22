@@ -1,5 +1,5 @@
 ---
-description: Do Views, Clicks, and Replies from the Recipients Listed in the CC and BCC Section of the Email Get Tracked? - Marketo Docs - Product Documentation
+description: "Do Views, Clicks, and Replies from the Recipients Listed in the CC and BCC Section of the Email Get Tracked? - Marketo Docs - Product Documentation"
 title: Do Views, Clicks, and Replies from the Recipients Listed in the CC and BCC Section of the Email Get Tracked?
 exl-id: 9a839c61-7fcc-4a7f-a99e-ec5a4c2cc4f9
 ---

@@ -1,5 +1,5 @@
 ---
-description: Bulk Actions on People - Marketo Docs - Product Documentation
+description: "Bulk Actions on People - Marketo Docs - Product Documentation"
 title: Bulk Actions on People
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions

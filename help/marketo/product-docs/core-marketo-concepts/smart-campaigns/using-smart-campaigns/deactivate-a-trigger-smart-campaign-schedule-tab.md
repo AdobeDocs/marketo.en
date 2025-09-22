@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146991
-description: Deactivate a Trigger Smart Campaign | Schedule Tab - Marketo Docs - Product Documentation
+description: "Deactivate a Trigger Smart Campaign | Schedule Tab - Marketo Docs - Product Documentation"
 title: Deactivate a Trigger Smart Campaign | Schedule Tab
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783903
-description: Template 4B - Marketo Docs - Product Documentation
+description: "Template 4B - Marketo Docs - Product Documentation"
 title: Template 4B
 exl-id: cb4b3632-de12-4f99-a2ce-e52f286f6a35
 feature: Landing Pages, Guided Landing Page Templates

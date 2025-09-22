@@ -1,5 +1,5 @@
 ---
-description: Icon Glossary - Marketo Engage Docs - Product Documentation
+description: "Icon Glossary - Marketo Engage Docs - Product Documentation"
 title: Icon Glossary
 feature: Getting Started
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab

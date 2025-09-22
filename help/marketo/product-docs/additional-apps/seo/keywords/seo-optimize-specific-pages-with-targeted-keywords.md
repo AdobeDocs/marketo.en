@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949212
-description: SEO - Optimize Specific Pages with Targeted Keywords - Marketo Docs - Product Documentation
+description: "SEO - Optimize Specific Pages with Targeted Keywords - Marketo Docs - Product Documentation"
 title: SEO - Optimize Specific Pages with Targeted Keywords
 exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
 feature: SEO

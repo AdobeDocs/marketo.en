@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557080
-description: Personalization - Marketo Docs - Product Documentation
+description: "Personalization - Marketo Docs - Product Documentation"
 title: Personalization
 ---
 

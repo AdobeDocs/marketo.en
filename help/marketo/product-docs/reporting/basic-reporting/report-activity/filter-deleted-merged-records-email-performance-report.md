@@ -1,5 +1,5 @@
 ---
-description: Filter Merged/Deleted records in an email report - Marketo Docs - Product Documentation
+description: "Filter Merged/Deleted records in an email report - Marketo Docs - Product Documentation"
 title: Filter Merged/Deleted records in an email report
 feature: Reporting
 exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711

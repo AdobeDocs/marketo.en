@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359488
-description: Group Email Reports by Segmentations - Marketo Docs - Product Documentation
+description: "Group Email Reports by Segmentations - Marketo Docs - Product Documentation"
 title: Group Email Reports by Segmentations
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation

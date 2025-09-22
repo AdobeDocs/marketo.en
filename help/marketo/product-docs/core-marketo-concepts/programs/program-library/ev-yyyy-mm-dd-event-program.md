@@ -1,5 +1,5 @@
 ---
-description: EV-YYYY-MM-DD-Event Program - Marketo Docs - Product Documentation
+description: "EV-YYYY-MM-DD-Event Program - Marketo Docs - Product Documentation"
 title: EV-YYYY-MM-DD-Event Program
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197

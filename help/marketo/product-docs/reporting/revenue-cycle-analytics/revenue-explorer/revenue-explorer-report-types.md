@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504922
-description: Revenue Explorer Report Types - Marketo Docs - Product Documentation
+description: "Revenue Explorer Report Types - Marketo Docs - Product Documentation"
 title: Revenue Explorer Report Types
 exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
 feature: Reporting, Revenue Cycle Analytics

@@ -1,5 +1,5 @@
 ---
-description: Question Generation - Marketo Docs - Product Documentation
+description: "Question Generation - Marketo Docs - Product Documentation"
 title: Question Generation
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a

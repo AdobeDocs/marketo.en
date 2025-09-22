@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949204
-description: SEO - Add Keywords - Marketo Docs - Product Documentation
+description: "SEO - Add Keywords - Marketo Docs - Product Documentation"
 title: SEO - Add Keywords
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO

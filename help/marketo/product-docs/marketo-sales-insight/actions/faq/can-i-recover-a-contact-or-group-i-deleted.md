@@ -1,5 +1,5 @@
 ---
-description: Can I Recover a Contact or Group I Deleted? - Marketo Docs - Product Documentation
+description: "Can I Recover a Contact or Group I Deleted? - Marketo Docs - Product Documentation"
 title: Can I Recover a Contact or Group I Deleted?
 exl-id: ef783d23-3b43-4e6c-9581-1e7d3958ae54
 feature: Sales Insight Actions

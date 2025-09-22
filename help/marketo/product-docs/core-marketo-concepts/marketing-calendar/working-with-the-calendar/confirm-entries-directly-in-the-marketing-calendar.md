@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953362
-description: Confirm Entries Directly In the Marketing Calendar - Marketo Docs - Product Documentation
+description: "Confirm Entries Directly In the Marketing Calendar - Marketo Docs - Product Documentation"
 title: Confirm Entries Directly In the Marketing Calendar
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar

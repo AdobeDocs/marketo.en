@@ -1,6 +1,6 @@
 ---
 unique-page-id: 30081815
-description: Configuring Adobe Experience Manager Integration - Marketo Docs - Product Documentation
+description: "Configuring Adobe Experience Manager Integration - Marketo Docs - Product Documentation"
 title: Configuring Adobe Experience Manager Integration
 hide: yes
 hidefromtoc: yes

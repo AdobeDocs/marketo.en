@@ -1,5 +1,5 @@
 ---
-description: Release Notes - September 2023 - Marketo Docs - Product Documentation
+description: "Release Notes - September 2023 - Marketo Docs - Product Documentation"
 title: Release Notes - September 2023
 feature: Release Information
 exl-id: c1197141-3822-404d-b9d4-3e37fc5330b6

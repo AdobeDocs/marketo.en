@@ -1,5 +1,5 @@
 ---
-description: Email templates - Marketo Docs - Product Documentation
+description: "Email templates - Marketo Docs - Product Documentation"
 title: Email templates
 hide: yes
 hidefromtoc: yes

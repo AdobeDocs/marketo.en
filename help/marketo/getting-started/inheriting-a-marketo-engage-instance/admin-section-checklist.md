@@ -1,5 +1,5 @@
 ---
-description: Inherited Instance Admin Checklist - Marketo Docs - Product Documentation
+description: "Inherited Instance Admin Checklist - Marketo Docs - Product Documentation"
 title: Inherited Instance Admin Checklist
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e

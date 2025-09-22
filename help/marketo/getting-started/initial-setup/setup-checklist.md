@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949471
-description: Setup Checklist - Marketo Docs - Product Documentation
+description: "Setup Checklist - Marketo Docs - Product Documentation"
 title: Setup Checklist
 hide: yes
 hidefromtoc: yes

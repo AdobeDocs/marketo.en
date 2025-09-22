@@ -1,5 +1,5 @@
 ---
-description: Interactive Webinars Customization - Marketo Docs - Product Documentation
+description: "Interactive Webinars Customization - Marketo Docs - Product Documentation"
 title: Interactive Webinars Customization
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb

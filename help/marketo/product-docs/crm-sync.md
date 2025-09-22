@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953432
-description: CRM Sync - Marketo Docs - Product Documentation
+description: "CRM Sync - Marketo Docs - Product Documentation"
 title: CRM Sync
 ---
 

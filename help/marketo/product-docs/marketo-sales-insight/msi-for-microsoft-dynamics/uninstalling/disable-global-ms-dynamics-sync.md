@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37355596
-description: Disable Global MS Dynamics Sync - Marketo Docs - Product Documentation
+description: "Disable Global MS Dynamics Sync - Marketo Docs - Product Documentation"
 title: Disable Global MS Dynamics Sync
 exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 feature: Marketo Sales Insights

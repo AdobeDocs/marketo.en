@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146970
-description: Schedule a Batch Smart Campaign to Run Later - Marketo Docs - Product Documentation
+description: "Schedule a Batch Smart Campaign to Run Later - Marketo Docs - Product Documentation"
 title: Schedule a Batch Smart Campaign to Run Later
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns

@@ -1,5 +1,5 @@
 ---
-description: Release Notes - January 2022 - Marketo Docs - Product Documentation
+description: "Release Notes - January 2022 - Marketo Docs - Product Documentation"
 title: Release Notes - January 2022
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
 ---

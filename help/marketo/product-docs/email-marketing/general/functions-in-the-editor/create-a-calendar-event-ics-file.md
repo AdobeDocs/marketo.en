@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900563
-description: Create a Calendar Event (.ics) File - Marketo Docs - Product Documentation
+description: "Create a Calendar Event (.ics) File - Marketo Docs - Product Documentation"
 title: Create a Calendar Event (.ics) File
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor

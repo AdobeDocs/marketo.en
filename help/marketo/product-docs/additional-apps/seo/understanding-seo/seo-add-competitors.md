@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949192
-description: SEO - Add Competitors - Marketo Docs - Product Documentation
+description: "SEO - Add Competitors - Marketo Docs - Product Documentation"
 title: SEO - Add Competitors
 exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
 feature: SEO

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14745611
-description: Add to Marketing Campaign - Marketo Docs - Product Documentation
+description: "Add to Marketing Campaign - Marketo Docs - Product Documentation"
 title: Add to Marketing Campaign
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10095358
-description: View Person and Account Information and Activities in Google Mail - Marketo Docs - Product Documentation
+description: "View Person and Account Information and Activities in Google Mail - Marketo Docs - Product Documentation"
 title: View Person and Account Information and Activities in Google Mail
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights

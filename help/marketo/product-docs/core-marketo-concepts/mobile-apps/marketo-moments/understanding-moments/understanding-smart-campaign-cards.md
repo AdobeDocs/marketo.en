@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10093348
-description: Understanding Smart Campaign Cards - Marketo Docs - Product Documentation
+description: "Understanding Smart Campaign Cards - Marketo Docs - Product Documentation"
 title: Understanding Smart Campaign Cards
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing

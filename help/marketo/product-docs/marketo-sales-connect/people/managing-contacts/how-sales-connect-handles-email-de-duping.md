@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352514
-description: How Sales Connect Handles Email De-Duping - Marketo Docs - Product Documentation
+description: "How Sales Connect Handles Email De-Duping - Marketo Docs - Product Documentation"
 title: How Sales Connect Handles Email De-Duping
 exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
 feature: Marketo Sales Connect

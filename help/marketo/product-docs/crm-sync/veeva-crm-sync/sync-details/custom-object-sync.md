@@ -1,5 +1,5 @@
 ---
-description: Custom Object Sync - Marketo Docs - Product Documentation
+description: "Custom Object Sync - Marketo Docs - Product Documentation"
 title: Custom Object Sync
 hide: yes
 hidefromtoc: yes

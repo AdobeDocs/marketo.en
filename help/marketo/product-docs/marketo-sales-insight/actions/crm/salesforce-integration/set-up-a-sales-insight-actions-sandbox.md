@@ -1,5 +1,5 @@
 ---
-description: Set up a Sales Insight Actions Sandbox - Marketo Docs - Product Documentation
+description: "Set up a Sales Insight Actions Sandbox - Marketo Docs - Product Documentation"
 title: Set up a Sales Insight Actions Sandbox
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
 ---

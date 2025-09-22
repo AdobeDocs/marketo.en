@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10096712
-description: Create Your Webinar Event in ON24 - Marketo Docs - Product Documentation
+description: "Create Your Webinar Event in ON24 - Marketo Docs - Product Documentation"
 title: Create Your Webinar Event in ON24
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 feature: Events

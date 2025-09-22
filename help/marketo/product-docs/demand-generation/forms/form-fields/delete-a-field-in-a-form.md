@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359606
-description: Delete a Field in a Form - Marketo Docs - Product Documentation
+description: "Delete a Field in a Form - Marketo Docs - Product Documentation"
 title: Delete a Field in a Form
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms

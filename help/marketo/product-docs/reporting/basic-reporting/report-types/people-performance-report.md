@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360014
-description: People Performance Report - Marketo Docs - Product Documentation
+description: "People Performance Report - Marketo Docs - Product Documentation"
 title: People Performance Report
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting

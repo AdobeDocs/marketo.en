@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4720461
-description: HTML Encode Tokens in Emails - Marketo Docs - Product Documentation
+description: "HTML Encode Tokens in Emails - Marketo Docs - Product Documentation"
 title: HTML Encode Tokens in Emails
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management

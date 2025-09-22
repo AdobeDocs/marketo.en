@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359545
-description: Define the A/B Test Winner Criteria - Marketo Docs - Product Documentation
+description: "Define the A/B Test Winner Criteria - Marketo Docs - Product Documentation"
 title: Define the A/B Test Winner Criteria
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing

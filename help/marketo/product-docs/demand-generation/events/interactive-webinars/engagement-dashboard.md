@@ -1,5 +1,5 @@
 ---
-description: Engagement Dashboard - Marketo Docs - Product Documentation
+description: "Engagement Dashboard - Marketo Docs - Product Documentation"
 title: Engagement Dashboard
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0

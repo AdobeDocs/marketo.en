@@ -1,6 +1,6 @@
 ---
 unique-page-id: 5472283
-description: Customize Mobile View for Your Free-Form Landing Page - Marketo Docs - Product Documentation
+description: "Customize Mobile View for Your Free-Form Landing Page - Marketo Docs - Product Documentation"
 title: Customize Mobile View for Your Free-Form Landing Page
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages

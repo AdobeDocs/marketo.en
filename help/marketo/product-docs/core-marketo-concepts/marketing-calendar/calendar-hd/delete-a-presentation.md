@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504060
-description: Delete a Presentation - Marketo Docs - Product Documentation
+description: "Delete a Presentation - Marketo Docs - Product Documentation"
 title: Delete a Presentation
 exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
 feature: Marketing Calendar

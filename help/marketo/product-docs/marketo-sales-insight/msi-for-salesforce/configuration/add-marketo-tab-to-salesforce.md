@@ -1,5 +1,5 @@
 ---
-description: Add Marketo Tab to Salesforce - Marketo Docs - Product Documentation
+description: "Add Marketo Tab to Salesforce - Marketo Docs - Product Documentation"
 title: Add Marketo Tab to Salesforce
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
 feature: Marketo Sales Insights

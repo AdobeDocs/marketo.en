@@ -1,5 +1,5 @@
 ---
-description: Demandbase - Marketo Docs - Product Documentation
+description: "Demandbase - Marketo Docs - Product Documentation"
 title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6

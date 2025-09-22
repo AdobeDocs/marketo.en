@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352587
-description: Campaign Has Ended - Marketo Docs - Product Documentation
+description: "Campaign Has Ended - Marketo Docs - Product Documentation"
 title: Campaign Has Ended
 exl-id: a4307ce0-39bc-4971-b60a-1284af95a7a1
 feature: Marketo Sales Connect

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352547
-description: Sales Connect Plugin Not Showing up in Gmail - Marketo Docs - Product Documentation
+description: "Sales Connect Plugin Not Showing up in Gmail - Marketo Docs - Product Documentation"
 title: Sales Connect Plugin Not Showing up in Gmail
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect

@@ -1,5 +1,5 @@
 ---
-description: Setting Event Goals - Marketo Docs - Product Documentation
+description: "Setting Event Goals - Marketo Docs - Product Documentation"
 title: Setting Event Goals
 hide: yes
 hidefromtoc: yes

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12615749
-description: Export Web Campaign Data - Marketo Docs - Product Documentation
+description: "Export Web Campaign Data - Marketo Docs - Product Documentation"
 title: Export Web Campaign Data
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 feature: Web Personalization

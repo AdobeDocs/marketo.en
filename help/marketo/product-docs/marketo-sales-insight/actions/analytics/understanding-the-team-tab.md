@@ -1,5 +1,5 @@
 ---
-description: Understanding the Team Tab - Marketo Docs - Product Documentation
+description: "Understanding the Team Tab - Marketo Docs - Product Documentation"
 title: Understanding the Team Tab
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions

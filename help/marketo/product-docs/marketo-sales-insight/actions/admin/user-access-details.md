@@ -1,5 +1,5 @@
 ---
-description: User Access Details - Marketo Docs - Product Documentation
+description: "User Access Details - Marketo Docs - Product Documentation"
 title: User Access Details
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions

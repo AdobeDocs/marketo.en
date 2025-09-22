@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953352
-description: Edit Entries Directly In the Marketing Calendar - Marketo Docs - Product Documentation
+description: "Edit Entries Directly In the Marketing Calendar - Marketo Docs - Product Documentation"
 title: Edit Entries Directly In the Marketing Calendar
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar

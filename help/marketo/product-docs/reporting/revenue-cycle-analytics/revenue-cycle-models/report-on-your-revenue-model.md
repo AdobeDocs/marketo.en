@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360429
-description: Report on Your Revenue Model - Marketo Docs - Product Documentation
+description: "Report on Your Revenue Model - Marketo Docs - Product Documentation"
 title: Report on Your Revenue Model
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics

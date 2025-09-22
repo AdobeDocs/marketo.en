@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9437846
-description: Template 16-E - Marketo Docs - Product Documentation
+description: "Template 16-E - Marketo Docs - Product Documentation"
 title: Template 16-E
 exl-id: 063cd16b-e697-4631-9c53-5bde216f9d98
 feature: Landing Pages, Guided Landing Page Templates

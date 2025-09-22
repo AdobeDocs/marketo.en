@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718668
-description: Using Revenue Model SLA Stages - Marketo Docs - Product Documentation
+description: "Using Revenue Model SLA Stages - Marketo Docs - Product Documentation"
 title: Using Revenue Model SLA Stages
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics

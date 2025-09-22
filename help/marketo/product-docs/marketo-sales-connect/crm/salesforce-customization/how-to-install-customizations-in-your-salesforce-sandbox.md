@@ -1,6 +1,6 @@
 ---
 unique-page-id: 15368208
-description: How to Install Customizations in Your Salesforce Sandbox - Marketo Docs - Product Documentation
+description: "How to Install Customizations in Your Salesforce Sandbox - Marketo Docs - Product Documentation"
 title: How to Install Customizations in Your Salesforce Sandbox
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949232
-description: SEO - Managing Lists - Marketo Docs - Product Documentation
+description: "SEO - Managing Lists - Marketo Docs - Product Documentation"
 title: SEO - Managing Lists
 exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
 feature: SEO

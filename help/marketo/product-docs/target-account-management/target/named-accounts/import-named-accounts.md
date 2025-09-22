@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12615800
-description: Import [!UICONTROL Named Accounts] - Marketo Docs - Product Documentation
+description: "Import [!UICONTROL Named Accounts] - Marketo Docs - Product Documentation"
 title: Import [!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management

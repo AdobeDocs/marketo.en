@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949158
-description: Integrate RTP with Google Analytics - Marketo Docs - Product Documentation
+description: "Integrate RTP with Google Analytics - Marketo Docs - Product Documentation"
 title: Integrate RTP with Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization

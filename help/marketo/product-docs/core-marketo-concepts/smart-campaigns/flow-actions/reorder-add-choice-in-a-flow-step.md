@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557333
-description: Reorder Add Choice in a Flow Step - Marketo Docs - Product Documentation
+description: "Reorder Add Choice in a Flow Step - Marketo Docs - Product Documentation"
 title: Reorder Add Choice in a Flow Step
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns

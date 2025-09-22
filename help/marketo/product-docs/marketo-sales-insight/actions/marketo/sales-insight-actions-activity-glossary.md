@@ -1,5 +1,5 @@
 ---
-description: Sales Insight Actions Activity Glossary - Marketo Docs - Product Documentation
+description: "Sales Insight Actions Activity Glossary - Marketo Docs - Product Documentation"
 title: Sales Insight Actions Activity Glossary
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions

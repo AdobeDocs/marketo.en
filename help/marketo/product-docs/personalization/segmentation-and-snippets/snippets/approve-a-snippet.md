@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359463
-description: Approve a Snippet - Marketo Docs - Product Documentation
+description: "Approve a Snippet - Marketo Docs - Product Documentation"
 title: Approve a Snippet
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets

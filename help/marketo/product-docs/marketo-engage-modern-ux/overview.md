@@ -1,5 +1,5 @@
 ---
-description: Marketo Engage Modern UX Overview - Marketo Docs - Product Documentation
+description: "Marketo Engage Modern UX Overview - Marketo Docs - Product Documentation"
 title: Marketo Engage Modern UX Overview
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX

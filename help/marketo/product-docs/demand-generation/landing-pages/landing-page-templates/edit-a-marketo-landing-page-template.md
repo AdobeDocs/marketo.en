@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4720738
-description: Edit a Marketo Landing Page Template - Marketo Docs - Product Documentation
+description: "Edit a Marketo Landing Page Template - Marketo Docs - Product Documentation"
 title: Edit a Marketo Landing Page Template
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages

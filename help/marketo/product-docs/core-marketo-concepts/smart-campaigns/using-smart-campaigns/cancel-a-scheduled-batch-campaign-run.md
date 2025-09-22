@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147058
-description: Cancel a Scheduled Batch Campaign Run - Marketo Docs - Product Documentation
+description: "Cancel a Scheduled Batch Campaign Run - Marketo Docs - Product Documentation"
 title: Cancel a Scheduled Batch Campaign Run
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 feature: Smart Campaigns

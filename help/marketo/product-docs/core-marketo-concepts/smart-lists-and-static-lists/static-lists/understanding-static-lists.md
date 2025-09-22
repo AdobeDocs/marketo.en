@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949891
-description: Understanding Static Lists - Marketo Docs - Product Documentation
+description: "Understanding Static Lists - Marketo Docs - Product Documentation"
 title: Understanding Static Lists
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists

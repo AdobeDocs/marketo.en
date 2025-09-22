@@ -1,6 +1,6 @@
 ---
 unique-page-id: 17728380
-description: Release Notes -Spring 2019 - Marketo Docs - Product Documentation
+description: "Release Notes -Spring 2019 - Marketo Docs - Product Documentation"
 title: Release Notes -Spring 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 ---

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953331
-description: Rerun a Smart Campaign in the Program Schedule View - Marketo Docs - Product Documentation
+description: "Rerun a Smart Campaign in the Program Schedule View - Marketo Docs - Product Documentation"
 title: Rerun a Smart Campaign in the Program Schedule View
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns

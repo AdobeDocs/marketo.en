@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10100269
-description: Edit a Custom Activity - Marketo Docs - Product Documentation
+description: "Edit a Custom Activity - Marketo Docs - Product Documentation"
 title: Edit a Custom Activity
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 feature: Custom Activities

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377552
-description: Specify Marketo [!UICONTROL Sales Insight] Plugin Admins - Marketo Docs - Product Documentation
+description: "Specify Marketo [!UICONTROL Sales Insight] Plugin Admins - Marketo Docs - Product Documentation"
 title: Specify Marketo [!UICONTROL Sales Insight] Plugin Admins
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 feature: Marketo Sales Insights

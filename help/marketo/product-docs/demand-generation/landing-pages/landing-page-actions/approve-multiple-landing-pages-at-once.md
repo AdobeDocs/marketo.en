@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359724
-description: Approve Multiple Landing Pages at Once - Marketo Docs - Product Documentation
+description: "Approve Multiple Landing Pages at Once - Marketo Docs - Product Documentation"
 title: Approve Multiple Landing Pages at Once
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10912237
-description: Email Template Picker Overview - Marketo Docs - Product Documentation
+description: "Email Template Picker Overview - Marketo Docs - Product Documentation"
 title: Email Template Picker Overview
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor

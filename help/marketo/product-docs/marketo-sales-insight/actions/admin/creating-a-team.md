@@ -1,5 +1,5 @@
 ---
-description: Creating a Team - Marketo Docs - Product Documentation
+description: "Creating a Team - Marketo Docs - Product Documentation"
 title: Creating a Team
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions

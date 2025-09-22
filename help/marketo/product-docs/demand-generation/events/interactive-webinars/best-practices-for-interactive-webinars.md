@@ -1,5 +1,5 @@
 ---
-description: Best Practices for Interactive Webinars - Marketo Docs - Product Documentation
+description: "Best Practices for Interactive Webinars - Marketo Docs - Product Documentation"
 title: Best Practices for Interactive Webinars
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635

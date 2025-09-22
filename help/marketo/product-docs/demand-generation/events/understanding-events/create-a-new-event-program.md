@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949844
-description: Create a New Event Program - Marketo Docs - Product Documentation
+description: "Create a New Event Program - Marketo Docs - Product Documentation"
 title: Create a New Event Program
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events

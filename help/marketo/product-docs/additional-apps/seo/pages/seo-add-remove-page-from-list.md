@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949218
-description: SEO - Add/Remove Page from List - Marketo Docs - Product Documentation
+description: "SEO - Add/Remove Page from List - Marketo Docs - Product Documentation"
 title: SEO - Add/Remove Page from List
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
 feature: SEO

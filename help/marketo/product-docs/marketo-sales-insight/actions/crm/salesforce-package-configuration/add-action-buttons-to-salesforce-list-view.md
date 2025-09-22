@@ -1,5 +1,5 @@
 ---
-description: Add Action Buttons to Salesforce List View - Marketo Docs - Product Documentation
+description: "Add Action Buttons to Salesforce List View - Marketo Docs - Product Documentation"
 title: Add Action Buttons to Salesforce List View
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
 ---

@@ -1,5 +1,5 @@
 ---
-description: Using Bulk Send Sales Email in Salesforce - Marketo Docs - Product Documentation
+description: "Using Bulk Send Sales Email in Salesforce - Marketo Docs - Product Documentation"
 title: Using Bulk Send Sales Email in Salesforce
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
 ---

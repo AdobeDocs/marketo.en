@@ -1,5 +1,5 @@
 ---
-description: Step 3 of 3 - Connect Marketo and Salesforce (Enterprise/Unlimited) - Marketo Docs - Product Documentation
+description: "Step 3 of 3 - Connect Marketo and Salesforce (Enterprise/Unlimited) - Marketo Docs - Product Documentation"
 title: Step 3 of 3 - Connect Marketo and Salesforce (Enterprise/Unlimited)
 hide: yes
 hidefromtoc: yes

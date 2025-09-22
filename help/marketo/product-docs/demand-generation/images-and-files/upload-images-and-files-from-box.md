@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359868
-description: Upload Images and Files from Box - Marketo Docs - Product Documentation
+description: "Upload Images and Files from Box - Marketo Docs - Product Documentation"
 title: Upload Images and Files from Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor

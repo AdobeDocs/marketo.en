@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783929
-description: Template 6B - Marketo Docs - Product Documentation
+description: "Template 6B - Marketo Docs - Product Documentation"
 title: Template 6B
 exl-id: dea92a6b-d2ba-4b64-86e5-5a4366e164fd
 feature: Landing Pages, Guided Landing Page Templates

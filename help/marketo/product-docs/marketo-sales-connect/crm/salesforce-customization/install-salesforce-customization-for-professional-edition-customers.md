@@ -1,6 +1,6 @@
 ---
 unique-page-id: 27656223
-description: Install [!DNL Salesforce] Customization for Professional Edition Customers - Marketo Docs - Product Documentation
+description: "Install [!DNL Salesforce] Customization for Professional Edition Customers - Marketo Docs - Product Documentation"
 title: Install [!DNL Salesforce] Customization for Professional Edition Customers
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949178
-description: Understanding the SEO Dashboard -SEO Snapshot - Marketo Docs - Product Documentation
+description: "Understanding the SEO Dashboard -SEO Snapshot - Marketo Docs - Product Documentation"
 title: Understanding the SEO Dashboard -SEO Snapshot
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO

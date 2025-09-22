@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359514
-description: Clone a Snippet - Marketo Docs - Product Documentation
+description: "Clone a Snippet - Marketo Docs - Product Documentation"
 title: Clone a Snippet
 exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 feature: Snippets

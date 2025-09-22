@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7516607
-description: Reviewing Core Skills - Marketo Docs - Product Documentation
+description: "Reviewing Core Skills - Marketo Docs - Product Documentation"
 title: Reviewing Core Skills
 exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 feature: Getting Started

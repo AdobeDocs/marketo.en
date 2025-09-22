@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359826
-description: Redirect a URL Path - Marketo Docs - Product Documentation
+description: "Redirect a URL Path - Marketo Docs - Product Documentation"
 title: Redirect a URL Path
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359996
-description: Sort Report on Columns - Marketo Docs - Product Documentation
+description: "Sort Report on Columns - Marketo Docs - Product Documentation"
 title: Sort Report on Columns
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting

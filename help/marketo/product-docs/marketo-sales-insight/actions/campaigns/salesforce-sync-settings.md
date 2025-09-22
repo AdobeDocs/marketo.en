@@ -1,5 +1,5 @@
 ---
-description: Salesforce Sync Settings - Marketo Docs - Product Documentation
+description: "Salesforce Sync Settings - Marketo Docs - Product Documentation"
 title: Salesforce Sync Settings
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions

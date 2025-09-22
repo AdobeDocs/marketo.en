@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10099360
-description: Prepare for Your Event - Marketo Docs - Product Documentation
+description: "Prepare for Your Event - Marketo Docs - Product Documentation"
 title: Prepare for Your Event
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing

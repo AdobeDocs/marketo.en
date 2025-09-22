@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360188
-description: Campaign Email Performance Report - Marketo Docs - Product Documentation
+description: "Campaign Email Performance Report - Marketo Docs - Product Documentation"
 title: Campaign Email Performance Report
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting

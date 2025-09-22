@@ -1,6 +1,6 @@
 ---
 unique-page-id: 15695924
-description: Account Profiling Ranking and Tuning - Marketo Docs - Product Documentation
+description: "Account Profiling Ranking and Tuning - Marketo Docs - Product Documentation"
 title: Account Profiling Ranking and Tuning
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management

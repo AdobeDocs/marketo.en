@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377406
-description: Edit Your Default Branding Domain with Workspaces - Marketo Docs - Product Documentation
+description: "Edit Your Default Branding Domain with Workspaces - Marketo Docs - Product Documentation"
 title: Edit Your Default Branding Domain with Workspaces
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup

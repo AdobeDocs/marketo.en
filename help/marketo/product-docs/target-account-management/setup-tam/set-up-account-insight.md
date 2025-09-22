@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12979223
-description: Set up Account Insight - Marketo Docs - Product Documentation
+description: "Set up Account Insight - Marketo Docs - Product Documentation"
 title: Set up Account Insight
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management

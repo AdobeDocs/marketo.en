@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11372054
-description: Edit the Text Version of an Email - Marketo Docs - Product Documentation
+description: "Edit the Text Version of an Email - Marketo Docs - Product Documentation"
 title: Edit the Text Version of an Email
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783999
-description: Template 10A - Marketo Docs - Product Documentation
+description: "Template 10A - Marketo Docs - Product Documentation"
 title: Template 10A
 exl-id: 0fb10231-e667-4b50-8940-3622b3732c66
 feature: Landing Pages, Guided Landing Page Templates

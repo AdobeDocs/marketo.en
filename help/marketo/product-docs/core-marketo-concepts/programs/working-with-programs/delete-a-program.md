@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147148
-description: Delete a Program - Marketo Docs - Product Documentation
+description: "Delete a Program - Marketo Docs - Product Documentation"
 title: Delete a Program
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs

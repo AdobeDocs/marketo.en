@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10096523
-description: View the Push Notification Dashboard - Marketo Docs - Product Documentation
+description: "View the Push Notification Dashboard - Marketo Docs - Product Documentation"
 title: View the Push Notification Dashboard
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing

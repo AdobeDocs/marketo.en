@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147306
-description: Filtering the Marketing Calendar by Workspace - Marketo Docs - Product Documentation
+description: "Filtering the Marketing Calendar by Workspace - Marketo Docs - Product Documentation"
 title: Filtering the Marketing Calendar by Workspace
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar

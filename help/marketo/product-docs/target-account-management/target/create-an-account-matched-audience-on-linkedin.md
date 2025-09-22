@@ -1,6 +1,6 @@
 ---
 unique-page-id: 26837421
-description: Create an Account Matched Audience on [!DNL LinkedIn] - Marketo Docs - Product Documentation
+description: "Create an Account Matched Audience on [!DNL LinkedIn] - Marketo Docs - Product Documentation"
 title: "Create an Account Matched Audience on [!DNL LinkedIn]"
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 feature: Target Account Management

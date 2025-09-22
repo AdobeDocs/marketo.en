@@ -1,5 +1,5 @@
 ---
-description: Add or Remove a User - Marketo Docs - Product Documentation
+description: "Add or Remove a User - Marketo Docs - Product Documentation"
 title: Add or Remove a User
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9438139
-description: Add Person to Blocklist - Marketo Docs - Product Documentation
+description: "Add Person to Blocklist - Marketo Docs - Product Documentation"
 title: Add Person to Blocklist
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists

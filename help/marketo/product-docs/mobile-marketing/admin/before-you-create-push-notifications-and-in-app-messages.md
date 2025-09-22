@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11376159
-description: Before You Create Push Notifications and In-App Messages - Marketo Docs - Product Documentation
+description: "Before You Create Push Notifications and In-App Messages - Marketo Docs - Product Documentation"
 title: Before You Create Push Notifications and In-App Messages
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing

@@ -1,5 +1,5 @@
 ---
-description: Dynamic Chat Release Notes - Marketo Docs - Product Documentation
+description: "Dynamic Chat Release Notes - Marketo Docs - Product Documentation"
 title: Dynamic Chat Release Notes
 feature: Release Information, Dynamic Chat
 hide: yes

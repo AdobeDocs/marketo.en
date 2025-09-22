@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359823
-description: Publish Landing Pages to Facebook - Marketo Docs - Product Documentation
+description: "Publish Landing Pages to Facebook - Marketo Docs - Product Documentation"
 title: Publish Landing Pages to Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations

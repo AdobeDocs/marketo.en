@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949266
-description: SEO - Add/Remove Page Issue From a List - Marketo Docs - Product Documentation
+description: "SEO - Add/Remove Page Issue From a List - Marketo Docs - Product Documentation"
 title: SEO - Add/Remove Page Issue From a List
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
 feature: SEO

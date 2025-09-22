@@ -1,6 +1,6 @@
 ---
 unique-page-id: 5472490
-description: Release Schedule - Marketo Docs - Product Documentation
+description: "Release Schedule - Marketo Docs - Product Documentation"
 title: Release Schedule
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information

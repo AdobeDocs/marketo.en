@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719338
-description: Email Reports - Marketo Docs - Product Documentation
+description: "Email Reports - Marketo Docs - Product Documentation"
 title: Email Reports
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization

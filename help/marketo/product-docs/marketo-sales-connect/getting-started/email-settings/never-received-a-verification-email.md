@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352411
-description: Never Received a Verification Email - Marketo Docs - Product Documentation
+description: "Never Received a Verification Email - Marketo Docs - Product Documentation"
 title: Never Received a Verification Email
 exl-id: 3378f7c1-7203-4405-a57d-8d0556821ed1
 feature: Marketo Sales Connect

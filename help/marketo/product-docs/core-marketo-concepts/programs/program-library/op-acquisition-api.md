@@ -1,5 +1,5 @@
 ---
-description: OP-Acquisition-API - Marketo Docs - Product Documentation
+description: "OP-Acquisition-API - Marketo Docs - Product Documentation"
 title: OP-Acquisition-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515

@@ -1,5 +1,5 @@
 ---
-description: Grant Consent for Client Id and App Registration - Marketo Docs - Product Documentation
+description: "Grant Consent for Client Id and App Registration - Marketo Docs - Product Documentation"
 title: Grant Consent for Client Id and App Registration
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7515616
-description: Guided Landing Page Template List - Marketo Docs - Product Documentation
+description: "Guided Landing Page Template List - Marketo Docs - Product Documentation"
 title: Guided Landing Page Template List
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates

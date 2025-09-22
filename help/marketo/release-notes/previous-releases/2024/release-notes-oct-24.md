@@ -1,5 +1,5 @@
 ---
-description: Release Notes - October 2024 - Marketo Docs - Product Documentation
+description: "Release Notes - October 2024 - Marketo Docs - Product Documentation"
 title: Release Notes - October 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5

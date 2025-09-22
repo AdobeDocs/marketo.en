@@ -1,5 +1,5 @@
 ---
-description: Set up Your Marketo Connection - Marketo Docs - Product Documentation
+description: "Set up Your Marketo Connection - Marketo Docs - Product Documentation"
 title: Set up Your Marketo Connection
 hide: yes
 hidefromtoc: yes

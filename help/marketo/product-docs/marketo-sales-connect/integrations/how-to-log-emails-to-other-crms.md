@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352430
-description: How to Log Emails to Other CRMs - Marketo Docs - Product Documentation
+description: "How to Log Emails to Other CRMs - Marketo Docs - Product Documentation"
 title: How to Log Emails to Other CRMs
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359428
-description: Redirect a Landing Page - Marketo Docs - Product Documentation
+description: "Redirect a Landing Page - Marketo Docs - Product Documentation"
 title: Redirect a Landing Page
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started

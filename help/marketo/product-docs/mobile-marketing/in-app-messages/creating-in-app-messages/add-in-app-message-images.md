@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10100636
-description: Add In-App Message Images - Marketo Docs - Product Documentation
+description: "Add In-App Message Images - Marketo Docs - Product Documentation"
 title: Add In-App Message Images
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing

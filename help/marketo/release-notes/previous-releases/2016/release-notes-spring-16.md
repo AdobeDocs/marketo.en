@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11370952
-description: Release Notes -Spring '16 - Marketo Docs - Product Documentation
+description: "Release Notes -Spring '16 - Marketo Docs - Product Documentation"
 title: Release Notes -Spring '16
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information

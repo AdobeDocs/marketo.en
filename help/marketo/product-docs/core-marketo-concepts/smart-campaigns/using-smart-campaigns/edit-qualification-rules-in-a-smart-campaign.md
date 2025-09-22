@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146974
-description: Edit Qualification Rules in a Smart Campaign - Marketo Docs - Product Documentation
+description: "Edit Qualification Rules in a Smart Campaign - Marketo Docs - Product Documentation"
 title: Edit Qualification Rules in a Smart Campaign
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns

@@ -1,5 +1,5 @@
 ---
-description: Add Vibes as a LaunchPoint Service - Marketo Docs - Product Documentation
+description: "Add Vibes as a LaunchPoint Service - Marketo Docs - Product Documentation"
 title: Add Vibes as a LaunchPoint Service
 hide: yes
 hidefromtoc: yes

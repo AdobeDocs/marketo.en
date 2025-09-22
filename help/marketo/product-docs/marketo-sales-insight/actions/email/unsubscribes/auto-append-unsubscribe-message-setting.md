@@ -1,5 +1,5 @@
 ---
-description: Auto-Append Unsubscribe Message Setting - Marketo Docs - Product Documentation
+description: "Auto-Append Unsubscribe Message Setting - Marketo Docs - Product Documentation"
 title: Auto-Append Unsubscribe Message Setting
 feature: Sales Insight Actions
 exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff

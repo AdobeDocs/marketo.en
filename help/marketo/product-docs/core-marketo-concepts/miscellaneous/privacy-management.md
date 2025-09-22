@@ -1,5 +1,5 @@
 ---
-description: Privacy Management - Marketo Docs - Product Documentation
+description: "Privacy Management - Marketo Docs - Product Documentation"
 title: Privacy Management
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
 ---

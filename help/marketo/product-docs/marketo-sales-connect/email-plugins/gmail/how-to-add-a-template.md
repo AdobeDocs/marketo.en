@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352439
-description: How to Add a Template - Marketo Docs - Product Documentation
+description: "How to Add a Template - Marketo Docs - Product Documentation"
 title: How to Add a Template
 exl-id: b88cbca8-117c-4100-819d-90666b26b275
 feature: Marketo Sales Connect

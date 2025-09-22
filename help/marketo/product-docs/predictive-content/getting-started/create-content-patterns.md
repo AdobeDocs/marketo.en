@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11385579
-description: Create Content Patterns - Marketo Docs - Product Documentation
+description: "Create Content Patterns - Marketo Docs - Product Documentation"
 title: Create Content Patterns
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content

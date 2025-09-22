@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2951103
-description: Release Notes -February 2013 - Marketo Docs - Product Documentation
+description: "Release Notes -February 2013 - Marketo Docs - Product Documentation"
 title: Release Notes -February 2013
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information

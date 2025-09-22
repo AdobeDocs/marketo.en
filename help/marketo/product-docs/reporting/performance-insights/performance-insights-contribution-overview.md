@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12979008
-description: Performance Insights Contribution Overview - Marketo Docs - Product Documentation
+description: "Performance Insights Contribution Overview - Marketo Docs - Product Documentation"
 title: Performance Insights Contribution Overview
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting

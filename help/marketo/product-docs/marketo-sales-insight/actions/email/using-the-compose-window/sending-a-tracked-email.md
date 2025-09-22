@@ -1,5 +1,5 @@
 ---
-description: Sending a Tracked Email - Marketo Docs - Product Documentation
+description: "Sending a Tracked Email - Marketo Docs - Product Documentation"
 title: Sending a Tracked Email
 hide: yes
 hidefromtoc: yes

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147140
-description: Understanding Tentative/Confirmed Dates - Marketo Docs - Product Documentation
+description: "Understanding Tentative/Confirmed Dates - Marketo Docs - Product Documentation"
 title: Understanding Tentative/Confirmed Dates
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs

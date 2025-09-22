@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719308
-description: Add an Existing Salesforce Field to the Marketo Sync - Marketo Docs - Product Documentation
+description: "Add an Existing Salesforce Field to the Marketo Sync - Marketo Docs - Product Documentation"
 title: Add an Existing Salesforce Field to the Marketo Sync
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration

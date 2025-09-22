@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37357302
-description: Email Columns and Email Page Layout - Marketo Docs - Product Documentation
+description: "Email Columns and Email Page Layout - Marketo Docs - Product Documentation"
 title: Email Columns and Email Page Layout
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect

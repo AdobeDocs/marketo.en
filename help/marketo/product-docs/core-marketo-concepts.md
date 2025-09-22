@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557074
-description: Core Marketo Concepts - Marketo Docs - Product Documentation
+description: "Core Marketo Concepts - Marketo Docs - Product Documentation"
 title: Core Marketo Concepts
 ---
 

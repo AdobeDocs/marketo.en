@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4720779
-description: Understanding Folders - Marketo Docs - Product Documentation
+description: "Understanding Folders - Marketo Docs - Product Documentation"
 title: Understanding Folders
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
 ---

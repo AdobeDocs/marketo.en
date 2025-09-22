@@ -1,5 +1,5 @@
 ---
-description: Help Center - Marketo Engage Docs - Product Documentation
+description: "Help Center - Marketo Engage Docs - Product Documentation"
 title: Help Center
 feature: Getting Started
 hide: yes

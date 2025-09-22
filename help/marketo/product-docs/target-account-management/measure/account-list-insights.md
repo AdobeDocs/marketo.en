@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11380787
-description: Account List Insights - Marketo Docs - Product Documentation
+description: "Account List Insights - Marketo Docs - Product Documentation"
 title: Account List Insights
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management

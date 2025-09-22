@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352630
-description: Delete a Template - Marketo Docs - Product Documentation
+description: "Delete a Template - Marketo Docs - Product Documentation"
 title: Delete a Template
 exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
 feature: Marketo Sales Connect

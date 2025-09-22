@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10099167
-description: Choose an Action in Sales Insight - Marketo Docs - Product Documentation
+description: "Choose an Action in Sales Insight - Marketo Docs - Product Documentation"
 title: Choose an Action in Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 ---

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360411
-description: Create a Success Path Analyzer - Marketo Docs - Product Documentation
+description: "Create a Success Path Analyzer - Marketo Docs - Product Documentation"
 title: Create a Success Path Analyzer
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics

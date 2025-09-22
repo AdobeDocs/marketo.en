@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147118
-description: Using Period Costs in a Program - Marketo Docs - Product Documentation
+description: "Using Period Costs in a Program - Marketo Docs - Product Documentation"
 title: Using Period Costs in a Program
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 feature: Programs

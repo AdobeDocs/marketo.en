@@ -1,5 +1,5 @@
 ---
-description: Step 1 of 3 - Add Marketo Fields to Salesforce (Enterprise/Unlimited) - Marketo Docs - Product Documentation
+description: "Step 1 of 3 - Add Marketo Fields to Salesforce (Enterprise/Unlimited) - Marketo Docs - Product Documentation"
 title: Step 1 of 3 - Add Marketo Fields to Salesforce (Enterprise/Unlimited)
 hide: yes
 hidefromtoc: yes

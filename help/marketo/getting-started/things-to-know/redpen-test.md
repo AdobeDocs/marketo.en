@@ -1,5 +1,5 @@
 ---
-description: Redpen Test - Marketo Docs - Product Documentation
+description: "Redpen Test - Marketo Docs - Product Documentation"
 short-description: Let's test redpen.
 title: Redpen Test
 feature: Getting Started
