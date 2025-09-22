@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360403
-description: Compare Program Effectiveness with the Program Analyzer - Marketo Docs - Product Documentation
+description: "Compare Program Effectiveness with the Program Analyzer - Marketo Docs - Product Documentation"
 title: Compare Program Effectiveness with the Program Analyzer
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics

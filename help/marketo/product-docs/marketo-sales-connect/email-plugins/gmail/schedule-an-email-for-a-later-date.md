@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352441
-description: Schedule an Email for a Later Date - Marketo Docs - Product Documentation
+description: "Schedule an Email for a Later Date - Marketo Docs - Product Documentation"
 title: Schedule an Email for a Later Date
 exl-id: a3948f7d-c505-4e56-bf19-69d660c61740
 feature: Marketo Sales Connect

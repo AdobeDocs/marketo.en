@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352491
-description: Why Didn't All of My Contacts Get Pushed to Sales Connect? - Marketo Docs - Product Documentation
+description: "Why Didn't All of My Contacts Get Pushed to Sales Connect? - Marketo Docs - Product Documentation"
 title: Why Didn't All of My Contacts Get Pushed to Sales Connect?
 exl-id: 53ea29c1-fe48-4808-933a-3ab1744a7d7e
 feature: Marketo Sales Connect

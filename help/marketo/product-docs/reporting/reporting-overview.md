@@ -1,5 +1,5 @@
 ---
-description: Reporting Overview - Marketo Docs - Product Documentation
+description: "Reporting Overview - Marketo Docs - Product Documentation"
 title: Reporting Overview
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting

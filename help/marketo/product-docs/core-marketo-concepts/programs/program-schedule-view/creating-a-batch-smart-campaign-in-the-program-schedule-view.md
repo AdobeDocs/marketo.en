@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147142
-description: Creating a Batch Smart Campaign in the Program Schedule View - Marketo Docs - Product Documentation
+description: "Creating a Batch Smart Campaign in the Program Schedule View - Marketo Docs - Product Documentation"
 title: Creating a Batch Smart Campaign in the Program Schedule View
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 feature: Programs

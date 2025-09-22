@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10099413
-description: Email Insights Sends Overview - Marketo Docs - Product Documentation
+description: "Email Insights Sends Overview - Marketo Docs - Product Documentation"
 title: Email Insights Sends Overview
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting

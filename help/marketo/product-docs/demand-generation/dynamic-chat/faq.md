@@ -1,5 +1,5 @@
 ---
-description: Dynamic Chat FAQ - Marketo Docs - Product Documentation
+description: "Dynamic Chat FAQ - Marketo Docs - Product Documentation"
 title: Dynamic Chat FAQ
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb

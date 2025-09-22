@@ -1,5 +1,5 @@
 ---
-description: Add a Flow Step for SMS - Marketo Docs - Product Documentation
+description: "Add a Flow Step for SMS - Marketo Docs - Product Documentation"
 title: Add a Flow Step for SMS
 hide: yes
 hidefromtoc: yes

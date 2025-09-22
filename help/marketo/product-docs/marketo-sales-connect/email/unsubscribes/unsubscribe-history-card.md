@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14746184
-description: Unsubscribe History Card - Marketo Docs - Product Documentation
+description: "Unsubscribe History Card - Marketo Docs - Product Documentation"
 title: Unsubscribe History Card
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect

@@ -1,5 +1,5 @@
 ---
-description: Scheduling an Email - Marketo Docs - Product Documentation
+description: "Scheduling an Email - Marketo Docs - Product Documentation"
 title: Scheduling an Email
 ---
 # Scheduling an Email {#scheduling-an-email}

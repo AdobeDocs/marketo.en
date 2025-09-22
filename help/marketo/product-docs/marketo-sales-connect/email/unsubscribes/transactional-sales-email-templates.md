@@ -1,5 +1,5 @@
 ---
-description: Transactional Sales Email Templates - Marketo Docs - Product Documentation
+description: "Transactional Sales Email Templates - Marketo Docs - Product Documentation"
 title: Transactional Sales Email Templates
 feature: Marketo Sales Connect
 ---

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352631
-description: Merge and De-Duplicate Categories - Marketo Docs - Product Documentation
+description: "Merge and De-Duplicate Categories - Marketo Docs - Product Documentation"
 title: Merge and De-Duplicate Categories
 exl-id: c57c54a6-565f-4723-9a93-9b193469bccd
 feature: Marketo Sales Connect

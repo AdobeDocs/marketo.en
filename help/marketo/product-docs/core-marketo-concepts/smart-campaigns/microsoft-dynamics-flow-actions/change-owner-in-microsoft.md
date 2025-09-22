@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37356426
-description: Change Owner in Microsoft - Marketo Docs - Product Documentation
+description: "Change Owner in Microsoft - Marketo Docs - Product Documentation"
 title: Change Owner in Microsoft
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics

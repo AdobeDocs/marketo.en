@@ -1,5 +1,5 @@
 ---
-description: Custom Activity Metadata Export - Marketo Docs - Product Documentation
+description: "Custom Activity Metadata Export - Marketo Docs - Product Documentation"
 title: Custom Activity Metadata Export
 exl-id: 7dba5cf0-6394-4bb7-b9e1-5db156e6d888
 feature: Custom Activities

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359866
-description: Grab the Images from a Web Page - Marketo Docs - Product Documentation
+description: "Grab the Images from a Web Page - Marketo Docs - Product Documentation"
 title: Grab the Images from a Web Page
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor

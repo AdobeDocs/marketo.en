@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10096420
-description: Sales Intelligence - Marketo Docs - Product Documentation
+description: "Sales Intelligence - Marketo Docs - Product Documentation"
 title: Sales Intelligence
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization

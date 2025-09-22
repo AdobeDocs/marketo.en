@@ -1,5 +1,5 @@
 ---
-description: Agent Settings - Marketo Docs - Product Documentation
+description: "Agent Settings - Marketo Docs - Product Documentation"
 title: Agent Settings
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5

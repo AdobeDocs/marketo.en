@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719179
-description: Using the Web Personalization Rich Text Editor - Marketo Docs - Product Documentation
+description: "Using the Web Personalization Rich Text Editor - Marketo Docs - Product Documentation"
 title: Using the Web Personalization Rich Text Editor
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization

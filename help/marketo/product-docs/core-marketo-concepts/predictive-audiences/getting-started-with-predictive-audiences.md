@@ -1,5 +1,5 @@
 ---
-description: Getting Started with Predictive Audiences - Marketo Docs - Product Documentation
+description: "Getting Started with Predictive Audiences - Marketo Docs - Product Documentation"
 title: Getting Started with Predictive Audiences
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences

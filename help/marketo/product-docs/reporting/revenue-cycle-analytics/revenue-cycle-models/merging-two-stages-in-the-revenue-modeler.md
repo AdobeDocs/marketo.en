@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718685
-description: Merging Two Stages in the Revenue Modeler - Marketo Docs - Product Documentation
+description: "Merging Two Stages in the Revenue Modeler - Marketo Docs - Product Documentation"
 title: Merging Two Stages in the Revenue Modeler
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2952292
-description: Understanding Notifications - Marketo Docs - Product Documentation
+description: "Understanding Notifications - Marketo Docs - Product Documentation"
 title: Understanding Notifications
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 ---

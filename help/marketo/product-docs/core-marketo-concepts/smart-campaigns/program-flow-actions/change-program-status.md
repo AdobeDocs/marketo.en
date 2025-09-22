@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147007
-description: Change Program Status - Marketo Docs - Product Documentation
+description: "Change Program Status - Marketo Docs - Product Documentation"
 title: Change Program Status
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns

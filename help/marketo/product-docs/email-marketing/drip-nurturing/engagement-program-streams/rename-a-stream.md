@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359832
-description: Rename a Stream - Marketo Docs - Product Documentation
+description: "Rename a Stream - Marketo Docs - Product Documentation"
 title: Rename a Stream
 exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 feature: Engagement Programs

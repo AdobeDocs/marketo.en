@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12615798
-description: Add an Existing Named Account to an Account List - Marketo Docs - Product Documentation
+description: "Add an Existing Named Account to an Account List - Marketo Docs - Product Documentation"
 title: Add an Existing Named Account to an Account List
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management

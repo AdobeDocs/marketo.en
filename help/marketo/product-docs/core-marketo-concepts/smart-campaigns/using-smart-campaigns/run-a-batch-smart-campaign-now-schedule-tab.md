@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146933
-description: Run a Batch Smart Campaign Now | Schedule Tab - Marketo Docs - Product Documentation
+description: "Run a Batch Smart Campaign Now | Schedule Tab - Marketo Docs - Product Documentation"
 title: Run a Batch Smart Campaign Now | Schedule Tab
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns

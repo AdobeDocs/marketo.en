@@ -1,5 +1,5 @@
 ---
-description: Expected Behavior - Marketo Docs - Product Documentation
+description: "Expected Behavior - Marketo Docs - Product Documentation"
 title: Expected Behavior
 hide: yes
 hidefromtoc: yes

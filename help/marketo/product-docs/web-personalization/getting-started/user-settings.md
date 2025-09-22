@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719336
-description: User Settings - Marketo Docs - Product Documentation
+description: "User Settings - Marketo Docs - Product Documentation"
 title: User Settings
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization

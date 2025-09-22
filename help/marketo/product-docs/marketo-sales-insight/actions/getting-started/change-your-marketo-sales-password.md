@@ -1,5 +1,5 @@
 ---
-description: Change Your Marketo Sales Password - Marketo Docs - Product Documentation
+description: "Change Your Marketo Sales Password - Marketo Docs - Product Documentation"
 title: Change Your Marketo Sales Password
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions

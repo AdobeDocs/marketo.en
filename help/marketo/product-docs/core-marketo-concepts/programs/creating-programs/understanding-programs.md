@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147089
-description: Understanding Programs - Marketo Docs - Product Documentation
+description: "Understanding Programs - Marketo Docs - Product Documentation"
 title: Understanding Programs
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs

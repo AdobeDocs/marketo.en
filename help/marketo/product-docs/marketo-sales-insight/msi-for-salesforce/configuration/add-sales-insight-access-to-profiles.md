@@ -1,5 +1,5 @@
 ---
-description: Add Sales Insight Access to Profiles - Marketo Docs - Product Documentation
+description: "Add Sales Insight Access to Profiles - Marketo Docs - Product Documentation"
 title: Add Sales Insight Access to Profiles
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights

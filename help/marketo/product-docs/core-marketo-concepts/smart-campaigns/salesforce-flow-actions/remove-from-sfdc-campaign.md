@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147036
-description: Remove from SFDC Campaign - Marketo Docs - Product Documentation
+description: "Remove from SFDC Campaign - Marketo Docs - Product Documentation"
 title: Remove from SFDC Campaign
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration

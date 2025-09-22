@@ -1,5 +1,5 @@
 ---
-description: Step 3 of 4 - Set up Client App on MS [!DNL Dynamics] - Marketo Docs - Product Documentation
+description: "Step 3 of 4 - Set up Client App on MS [!DNL Dynamics] - Marketo Docs - Product Documentation"
 title: "Step 3 of 4 - Set up Client App on MS [!DNL Dynamics]"
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics

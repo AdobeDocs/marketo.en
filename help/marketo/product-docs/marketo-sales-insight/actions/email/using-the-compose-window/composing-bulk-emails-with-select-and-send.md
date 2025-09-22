@@ -1,5 +1,5 @@
 ---
-description: Composing Bulk Emails with Select and Send - Marketo Docs - Product Documentation
+description: "Composing Bulk Emails with Select and Send - Marketo Docs - Product Documentation"
 title: Composing Bulk Emails with Select and Send
 hide: yes
 hidefromtoc: yes

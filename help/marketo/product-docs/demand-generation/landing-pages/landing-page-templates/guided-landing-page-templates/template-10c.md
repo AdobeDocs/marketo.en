@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8784005
-description: Template 10C - Marketo Docs - Product Documentation
+description: "Template 10C - Marketo Docs - Product Documentation"
 title: Template 10C
 exl-id: e7146ecc-b3c0-4262-bcc4-521bd61acffa
 feature: Landing Pages, Guided Landing Page Templates

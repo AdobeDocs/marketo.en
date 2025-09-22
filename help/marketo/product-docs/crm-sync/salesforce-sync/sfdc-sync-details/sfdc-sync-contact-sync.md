@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953457
-description: SFDC Sync - Contact Sync - Marketo Docs - Product Documentation
+description: "SFDC Sync - Contact Sync - Marketo Docs - Product Documentation"
 title: SFDC Sync - Contact Sync
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration

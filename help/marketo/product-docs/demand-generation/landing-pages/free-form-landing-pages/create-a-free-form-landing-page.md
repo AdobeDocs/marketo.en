@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359701
-description: Create a Free-Form Landing Page - Marketo Docs - Product Documentation
+description: "Create a Free-Form Landing Page - Marketo Docs - Product Documentation"
 title: Create a Free-Form Landing Page
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages

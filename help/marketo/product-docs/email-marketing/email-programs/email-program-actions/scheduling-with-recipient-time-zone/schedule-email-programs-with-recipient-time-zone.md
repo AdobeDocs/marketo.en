@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12982903
-description: Schedule Email Programs with Recipient Time Zone - Marketo Docs - Product Documentation
+description: "Schedule Email Programs with Recipient Time Zone - Marketo Docs - Product Documentation"
 title: Schedule Email Programs with Recipient Time Zone
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs

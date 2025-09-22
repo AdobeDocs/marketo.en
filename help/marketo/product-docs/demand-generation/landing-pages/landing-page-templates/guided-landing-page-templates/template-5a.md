@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8162243
-description: Template 5A - Marketo Docs - Product Documentation
+description: "Template 5A - Marketo Docs - Product Documentation"
 title: Template 5A
 exl-id: 85f9732c-0968-44bc-b59f-d39207f12dd7
 feature: Landing Pages, Guided Landing Page Templates

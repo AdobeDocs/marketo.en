@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37356282
-description: Bulk Actions in Salesforce Lightning - Marketo Docs - Product Documentation
+description: "Bulk Actions in Salesforce Lightning - Marketo Docs - Product Documentation"
 title: Bulk Actions in Salesforce Lightning
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights

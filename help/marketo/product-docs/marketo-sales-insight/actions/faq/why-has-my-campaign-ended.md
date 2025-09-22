@@ -1,5 +1,5 @@
 ---
-description: Why Has My Campaign Ended? - Marketo Docs - Product Documentation
+description: "Why Has My Campaign Ended? - Marketo Docs - Product Documentation"
 title: Why Has My Campaign Ended?
 exl-id: db53f9ea-9ee2-40c2-a0c5-67b0e916a36d
 ---

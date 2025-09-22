@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7516002
-description: Template 1D - Marketo Docs - Product Documentation
+description: "Template 1D - Marketo Docs - Product Documentation"
 title: Template 1D
 exl-id: ae46a81e-fd40-459c-937e-cdc58add7838
 feature: Landing Pages, Guided Landing Page Templates

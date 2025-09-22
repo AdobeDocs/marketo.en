@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359469
-description: View the Email Program Dashboard - Marketo Docs - Product Documentation
+description: "View the Email Program Dashboard - Marketo Docs - Product Documentation"
 title: View the Email Program Dashboard
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs

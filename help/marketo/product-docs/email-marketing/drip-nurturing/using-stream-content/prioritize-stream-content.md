@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359834
-description: Prioritize Stream Content - Marketo Docs - Product Documentation
+description: "Prioritize Stream Content - Marketo Docs - Product Documentation"
 title: Prioritize Stream Content
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs

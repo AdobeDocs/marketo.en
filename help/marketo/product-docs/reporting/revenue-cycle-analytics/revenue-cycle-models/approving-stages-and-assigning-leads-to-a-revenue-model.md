@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718683
-description: Approving Stages and Assigning Leads to a Revenue Model - Marketo Docs - Product Documentation
+description: "Approving Stages and Assigning Leads to a Revenue Model - Marketo Docs - Product Documentation"
 title: Approving Stages and Assigning Leads to a Revenue Model
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics

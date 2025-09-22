@@ -1,5 +1,5 @@
 ---
-description: Unanswered Questions - Marketo Docs - Product Documentation
+description: "Unanswered Questions - Marketo Docs - Product Documentation"
 title: Unanswered Questions
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135

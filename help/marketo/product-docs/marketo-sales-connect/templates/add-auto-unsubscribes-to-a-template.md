@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352637
-description: Add Auto-Unsubscribes to a Template - Marketo Docs - Product Documentation
+description: "Add Auto-Unsubscribes to a Template - Marketo Docs - Product Documentation"
 title: Add Auto-Unsubscribes to a Template
 exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 feature: Marketo Sales Connect

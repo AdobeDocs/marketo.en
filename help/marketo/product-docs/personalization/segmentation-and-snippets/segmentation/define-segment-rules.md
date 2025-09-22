@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359449
-description: Define Segment Rules - Marketo Docs - Product Documentation
+description: "Define Segment Rules - Marketo Docs - Product Documentation"
 title: Define Segment Rules
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation

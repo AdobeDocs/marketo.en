@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359787
-description: Add a Stream - Marketo Docs - Product Documentation
+description: "Add a Stream - Marketo Docs - Product Documentation"
 title: Add a Stream
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504520
-description: Deleting a Field in a Revenue Explorer Report - Marketo Docs - Product Documentation
+description: "Deleting a Field in a Revenue Explorer Report - Marketo Docs - Product Documentation"
 title: Deleting a Field in a Revenue Explorer Report
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 feature: Reporting, Revenue Cycle Analytics

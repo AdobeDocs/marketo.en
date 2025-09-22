@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949180
-description: Understanding the SEO Dashboard -SEO Recommendations - Marketo Docs - Product Documentation
+description: "Understanding the SEO Dashboard -SEO Recommendations - Marketo Docs - Product Documentation"
 title: Understanding the SEO Dashboard -SEO Recommendations
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 feature: SEO

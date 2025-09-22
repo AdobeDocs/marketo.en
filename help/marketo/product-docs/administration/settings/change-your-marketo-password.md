@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359916
-description: Change Your Marketo Password - Marketo Docs - Product Documentation
+description: "Change Your Marketo Password - Marketo Docs - Product Documentation"
 title: Change Your Marketo Password
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 feature: Administration

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359918
-description: Edit Landing Page Settings - Marketo Docs - Product Documentation
+description: "Edit Landing Page Settings - Marketo Docs - Product Documentation"
 title: Edit Landing Page Settings
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages

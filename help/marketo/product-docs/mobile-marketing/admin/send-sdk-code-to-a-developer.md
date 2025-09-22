@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7512448
-description: Send SDK Code to a Developer - Marketo Docs - Product Documentation
+description: "Send SDK Code to a Developer - Marketo Docs - Product Documentation"
 title: Send SDK Code to a Developer
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing

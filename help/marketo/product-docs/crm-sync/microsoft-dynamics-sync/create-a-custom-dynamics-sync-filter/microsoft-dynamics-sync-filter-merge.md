@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10092969
-description: Microsoft Dynamics Sync Filter -Merge - Marketo Docs - Product Documentation
+description: "Microsoft Dynamics Sync Filter -Merge - Marketo Docs - Product Documentation"
 title: Microsoft Dynamics Sync Filter -Merge
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics

@@ -1,5 +1,5 @@
 ---
-description: Disconnect Salesforce From Sales Insight Actions - Marketo Docs - Product Documentation
+description: "Disconnect Salesforce From Sales Insight Actions - Marketo Docs - Product Documentation"
 title: Disconnect Salesforce From Sales Insight Actions
 hide: yes
 hidefromtoc: yes

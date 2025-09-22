@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9438203
-description: Template 17E - Marketo Docs - Product Documentation
+description: "Template 17E - Marketo Docs - Product Documentation"
 title: Template 17E
 exl-id: c4ffe84c-a15f-4d11-bbfa-5de78f981a7a
 feature: Landing Pages, Guided Landing Page Templates

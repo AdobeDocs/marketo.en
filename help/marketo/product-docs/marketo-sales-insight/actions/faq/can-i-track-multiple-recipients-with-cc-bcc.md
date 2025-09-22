@@ -1,5 +1,5 @@
 ---
-description: Can I Track Multiple Recipients with CC/BCC - Marketo Docs - Product Documentation
+description: "Can I Track Multiple Recipients with CC/BCC - Marketo Docs - Product Documentation"
 title: Can I Track Multiple Recipients with CC/BCC
 exl-id: cc14cbb5-6c1f-470c-9836-dd853ef7befc
 feature: Sales Insight Actions

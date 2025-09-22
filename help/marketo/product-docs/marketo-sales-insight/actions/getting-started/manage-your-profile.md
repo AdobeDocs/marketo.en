@@ -1,5 +1,5 @@
 ---
-description: Manage Your Profile - Marketo Docs - Product Documentation
+description: "Manage Your Profile - Marketo Docs - Product Documentation"
 title: Manage Your Profile
 ---
 # Manage Your Profile {#manage-your-profile}

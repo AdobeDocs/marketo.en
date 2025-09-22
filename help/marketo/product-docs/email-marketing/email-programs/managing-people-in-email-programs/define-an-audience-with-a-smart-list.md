@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900595
-description: Define an Audience with a Smart List - Marketo Docs - Product Documentation
+description: "Define an Audience with a Smart List - Marketo Docs - Product Documentation"
 title: Define an Audience with a Smart List
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352608
-description: Remove People from a Campaign - Marketo Docs - Product Documentation
+description: "Remove People from a Campaign - Marketo Docs - Product Documentation"
 title: Remove People from a Campaign
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect

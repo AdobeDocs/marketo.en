@@ -1,5 +1,5 @@
 ---
-description: Sales Insight Actions Admin Setup Guide - Marketo Docs - Product Documentation
+description: "Sales Insight Actions Admin Setup Guide - Marketo Docs - Product Documentation"
 title: Sales Insight Actions Admin Setup Guide
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions

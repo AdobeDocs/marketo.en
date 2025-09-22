@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147226
-description: Getting Started - Marketo Docs - Product Documentation
+description: "Getting Started - Marketo Docs - Product Documentation"
 title: Getting Started
 hide: yes
 hidefromtoc: yes

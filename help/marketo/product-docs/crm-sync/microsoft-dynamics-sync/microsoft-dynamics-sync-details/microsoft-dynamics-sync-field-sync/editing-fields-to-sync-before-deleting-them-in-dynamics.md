@@ -1,5 +1,5 @@
 ---
-description: Editing Fields to Sync Before Deleting Them in Dynamics - Marketo Docs - Product Documentation
+description: "Editing Fields to Sync Before Deleting Them in Dynamics - Marketo Docs - Product Documentation"
 title: Editing Fields to Sync Before Deleting Them in Dynamics
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics

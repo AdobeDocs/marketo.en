@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359726
-description: Edit Landing Page Title and Metadata - Marketo Docs - Product Documentation
+description: "Edit Landing Page Title and Metadata - Marketo Docs - Product Documentation"
 title: Edit Landing Page Title and Metadata
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages

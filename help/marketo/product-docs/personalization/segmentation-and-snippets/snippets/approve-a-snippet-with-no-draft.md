@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10095644
-description: Approve a Snippet with No-Draft - Marketo Docs - Product Documentation
+description: "Approve a Snippet with No-Draft - Marketo Docs - Product Documentation"
 title: Approve a Snippet with No-Draft
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets

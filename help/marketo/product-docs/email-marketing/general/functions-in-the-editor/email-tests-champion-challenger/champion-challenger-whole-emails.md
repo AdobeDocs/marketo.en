@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359555
-description: Champion/Challenger -Whole Emails - Marketo Docs - Product Documentation
+description: "Champion/Challenger -Whole Emails - Marketo Docs - Product Documentation"
 title: Champion/Challenger -Whole Emails
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor

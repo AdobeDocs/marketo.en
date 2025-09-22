@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7511518
-description: Understanding Push Notifications - Marketo Docs - Product Documentation
+description: "Understanding Push Notifications - Marketo Docs - Product Documentation"
 title: Understanding Push Notifications
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing

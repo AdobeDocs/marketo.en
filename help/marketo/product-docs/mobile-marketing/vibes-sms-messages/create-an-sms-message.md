@@ -1,5 +1,5 @@
 ---
-description: Create an SMS Message - Marketo Docs - Product Documentation
+description: "Create an SMS Message - Marketo Docs - Product Documentation"
 title: Create an SMS Message
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670

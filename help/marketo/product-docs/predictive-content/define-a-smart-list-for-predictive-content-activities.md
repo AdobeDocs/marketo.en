@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10097873
-description: Define a Smart List for Predictive Content Activities - Marketo Docs - Product Documentation
+description: "Define a Smart List for Predictive Content Activities - Marketo Docs - Product Documentation"
 title: Define a Smart List for Predictive Content Activities
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content

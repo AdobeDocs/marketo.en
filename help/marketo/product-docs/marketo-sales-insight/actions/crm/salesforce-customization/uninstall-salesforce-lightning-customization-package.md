@@ -1,5 +1,5 @@
 ---
-description: Uninstall Salesforce Lightning Customization Package - Marketo Docs - Product Documentation
+description: "Uninstall Salesforce Lightning Customization Package - Marketo Docs - Product Documentation"
 title: Uninstall Salesforce Lightning Customization Package
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions

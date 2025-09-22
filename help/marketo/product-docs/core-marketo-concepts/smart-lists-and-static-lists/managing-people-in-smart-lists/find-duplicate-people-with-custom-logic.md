@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2952636
-description: Find Duplicate People with Custom Logic - Marketo Docs - Product Documentation
+description: "Find Duplicate People with Custom Logic - Marketo Docs - Product Documentation"
 title: Find Duplicate People with Custom Logic
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists

@@ -1,5 +1,5 @@
 ---
-description: Global Form Validation Rules - Marketo Docs - Product Documentation
+description: "Global Form Validation Rules - Marketo Docs - Product Documentation"
 title: Global Form Validation Rules
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration

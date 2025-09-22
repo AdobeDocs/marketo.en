@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352403
-description: Additional Admins - Marketo Docs - Product Documentation
+description: "Additional Admins - Marketo Docs - Product Documentation"
 title: Additional Admins
 exl-id: 57c0024b-6b36-4b1c-bcee-b1dbb9fdb57d
 feature: Marketo Sales Connect

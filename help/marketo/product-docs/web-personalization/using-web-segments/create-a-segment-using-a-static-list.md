@@ -1,6 +1,6 @@
 ---
 unique-page-id: 13795536
-description: Create a Segment Using a Static List - Marketo Docs - Product Documentation
+description: "Create a Segment Using a Static List - Marketo Docs - Product Documentation"
 title: Create a Segment Using a Static List
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9437804
-description: Template 14B - Marketo Docs - Product Documentation
+description: "Template 14B - Marketo Docs - Product Documentation"
 title: Template 14B
 exl-id: 04ec95f6-a657-4cb4-96dd-a65ad3720441
 feature: Landing Pages, Guided Landing Page Templates

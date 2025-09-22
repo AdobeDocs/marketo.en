@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11378051
-description: Overwrite Primary Domain for Emails - Marketo Docs - Product Documentation
+description: "Overwrite Primary Domain for Emails - Marketo Docs - Product Documentation"
 title: Overwrite Primary Domain for Emails
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup

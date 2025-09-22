@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352480
-description: Reply Logging (SFDC) - Marketo Docs - Product Documentation
+description: "Reply Logging (SFDC) - Marketo Docs - Product Documentation"
 title: Reply Logging (SFDC)
 exl-id: 11f84157-55b7-42a7-81d0-f5848adbb9f4
 feature: Marketo Sales Connect

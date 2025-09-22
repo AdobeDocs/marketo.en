@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719294
-description: Customize Activities Sync - Marketo Docs - Product Documentation
+description: "Customize Activities Sync - Marketo Docs - Product Documentation"
 title: Customize Activities Sync
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration

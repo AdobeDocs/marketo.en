@@ -1,5 +1,5 @@
 ---
-description: CT-YYYY-MM-Content Non-Marketo Landing Page - Marketo Docs - Product Documentation
+description: "CT-YYYY-MM-Content Non-Marketo Landing Page - Marketo Docs - Product Documentation"
 title: CT-YYYY-MM-Content Non-Marketo Landing Page
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9

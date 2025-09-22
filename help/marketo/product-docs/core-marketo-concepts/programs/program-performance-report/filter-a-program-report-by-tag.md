@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147235
-description: Filter a Program Report by Tag - Marketo Docs - Product Documentation
+description: "Filter a Program Report by Tag - Marketo Docs - Product Documentation"
 title: Filter a Program Report by Tag
 exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 feature: Programs

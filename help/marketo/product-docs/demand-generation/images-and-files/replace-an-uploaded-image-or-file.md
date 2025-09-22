@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359876
-description: Replace an Uploaded Image or File - Marketo Docs - Product Documentation
+description: "Replace an Uploaded Image or File - Marketo Docs - Product Documentation"
 title: Replace an Uploaded Image or File
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor

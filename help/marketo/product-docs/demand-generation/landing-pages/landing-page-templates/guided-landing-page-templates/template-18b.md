@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9438209
-description: Template 18B - Marketo Docs - Product Documentation
+description: "Template 18B - Marketo Docs - Product Documentation"
 title: Template 18B
 exl-id: a0bb1104-a905-4285-895b-df515449db89
 feature: Landing Pages, Guided Landing Page Templates

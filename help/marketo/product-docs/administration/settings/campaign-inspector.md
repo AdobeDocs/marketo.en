@@ -1,5 +1,5 @@
 ---
-description: Campaign Inspector - Marketo Docs - Product Documentation
+description: "Campaign Inspector - Marketo Docs - Product Documentation"
 title: Campaign Inspector
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector

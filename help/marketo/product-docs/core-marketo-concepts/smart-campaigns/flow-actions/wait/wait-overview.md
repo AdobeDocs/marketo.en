@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146950
-description: Wait - Marketo Docs - Product Documentation
+description: "Wait - Marketo Docs - Product Documentation"
 title: Wait
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns

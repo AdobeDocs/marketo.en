@@ -1,5 +1,5 @@
 ---
-description: Best Bets - Marketo Docs - Product Documentation
+description: "Best Bets - Marketo Docs - Product Documentation"
 title: Best Bets
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights

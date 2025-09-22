@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900554
-description: Edit an Email's HTML - Marketo Docs - Product Documentation
+description: "Edit an Email's HTML - Marketo Docs - Product Documentation"
 title: Edit an Email's HTML
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor

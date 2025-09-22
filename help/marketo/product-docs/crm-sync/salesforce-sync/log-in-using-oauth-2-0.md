@@ -1,5 +1,5 @@
 ---
-description: Log in Using OAuth 2.0 - Marketo Docs - Product Documentation
+description: "Log in Using OAuth 2.0 - Marketo Docs - Product Documentation"
 title: Log in Using OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11378814
-description: Account Smart Lists - Marketo Docs - Product Documentation
+description: "Account Smart Lists - Marketo Docs - Product Documentation"
 title: Account Smart Lists
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management

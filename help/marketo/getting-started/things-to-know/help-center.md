@@ -1,5 +1,5 @@
 ---
-description: Help Center - Marketo Engage Docs - Product Documentation
+description: "Help Center - Marketo Engage Docs - Product Documentation"
 title: Help Center
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963

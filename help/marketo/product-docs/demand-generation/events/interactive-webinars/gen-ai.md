@@ -1,5 +1,5 @@
 ---
-description: GenAI Features - Marketo Docs - Product Documentation
+description: "GenAI Features - Marketo Docs - Product Documentation"
 title: GenAI features
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737

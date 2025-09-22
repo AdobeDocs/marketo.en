@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360222
-description: Enable Communication Limits - Marketo Docs - Product Documentation
+description: "Enable Communication Limits - Marketo Docs - Product Documentation"
 title: Enable Communication Limits
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup

@@ -1,5 +1,5 @@
 ---
-description: Set up a Custom Delivery Channel for Your Team - Marketo Docs - Product Documentation
+description: "Set up a Custom Delivery Channel for Your Team - Marketo Docs - Product Documentation"
 title: Set up a Custom Delivery Channel for Your Team
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions

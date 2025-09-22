@@ -1,5 +1,5 @@
 ---
-description: Dynamic Chat Integration - Marketo Docs - Product Documentation
+description: "Dynamic Chat Integration - Marketo Docs - Product Documentation"
 title: Dynamic Chat Integration
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights

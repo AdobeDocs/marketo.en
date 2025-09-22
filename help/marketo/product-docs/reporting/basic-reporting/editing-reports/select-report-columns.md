@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359994
-description: Select Report Columns - Marketo Docs - Product Documentation
+description: "Select Report Columns - Marketo Docs - Product Documentation"
 title: Select Report Columns
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8781988
-description: Understanding Analytics Cards - Marketo Docs - Product Documentation
+description: "Understanding Analytics Cards - Marketo Docs - Product Documentation"
 title: Understanding Analytics Cards
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing

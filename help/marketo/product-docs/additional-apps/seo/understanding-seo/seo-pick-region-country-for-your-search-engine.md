@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949190
-description: SEO - Pick Region/Country for Your Search Engine - Marketo Docs - Product Documentation
+description: "SEO - Pick Region/Country for Your Search Engine - Marketo Docs - Product Documentation"
 title: SEO - Pick Region/Country for Your Search Engine
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
 feature: SEO

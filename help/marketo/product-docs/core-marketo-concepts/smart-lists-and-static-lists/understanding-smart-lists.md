@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557130
-description: Understanding Smart Lists - Marketo Docs - Product Documentation
+description: "Understanding Smart Lists - Marketo Docs - Product Documentation"
 title: Understanding Smart Lists
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists

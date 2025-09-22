@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719350
-description: View Segments from a Specific Label - Marketo Docs - Product Documentation
+description: "View Segments from a Specific Label - Marketo Docs - Product Documentation"
 title: View Segments from a Specific Label
 exl-id: 86a73898-1ad6-4edb-99cf-104f7ebb3ddd
 feature: Web Personalization

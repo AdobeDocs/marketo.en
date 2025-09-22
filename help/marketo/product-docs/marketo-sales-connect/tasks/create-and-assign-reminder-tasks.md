@@ -1,5 +1,5 @@
 ---
-description: Create and Assign Reminder Tasks - Marketo Docs - Product Documentation
+description: "Create and Assign Reminder Tasks - Marketo Docs - Product Documentation"
 title: Create and Assign Reminder Tasks
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect

@@ -1,5 +1,5 @@
 ---
-description: Meeting List - Marketo Docs - Product Documentation
+description: "Meeting List - Marketo Docs - Product Documentation"
 title: Meeting List
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106

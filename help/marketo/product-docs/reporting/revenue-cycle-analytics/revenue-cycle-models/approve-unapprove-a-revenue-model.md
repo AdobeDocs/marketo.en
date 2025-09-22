@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718687
-description: Approve/Unapprove a Revenue Model - Marketo Docs - Product Documentation
+description: "Approve/Unapprove a Revenue Model - Marketo Docs - Product Documentation"
 title: Approve/Unapprove a Revenue Model
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics

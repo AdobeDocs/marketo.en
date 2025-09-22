@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11384665
-description: Understanding Predictive Content - Marketo Docs - Product Documentation
+description: "Understanding Predictive Content - Marketo Docs - Product Documentation"
 title: Understanding Predictive Content
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content

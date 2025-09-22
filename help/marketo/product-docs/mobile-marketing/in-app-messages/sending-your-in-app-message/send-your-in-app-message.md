@@ -1,5 +1,5 @@
 ---
-description: Send Your In-App Message - Marketo Docs - Product Documentation
+description: "Send Your In-App Message - Marketo Docs - Product Documentation"
 title: Send Your In-App Message
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing

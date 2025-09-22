@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557086
-description: Additional Apps - Marketo Docs - Product Documentation
+description: "Additional Apps - Marketo Docs - Product Documentation"
 title: Additional Apps
 ---
 

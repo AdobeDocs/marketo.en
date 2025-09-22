@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359798
-description: Add Additional Landing Page CNAMEs - Marketo Docs - Product Documentation
+description: "Add Additional Landing Page CNAMEs - Marketo Docs - Product Documentation"
 title: Add Additional Landing Page CNAMEs
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages

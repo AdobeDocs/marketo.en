@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719304
-description: Implied Salesforce Actions - Marketo Docs - Product Documentation
+description: "Implied Salesforce Actions - Marketo Docs - Product Documentation"
 title: Implied Salesforce Actions
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 3571827
-description: Step 2 of 3 - Set up the Marketo Solution with Server to Server Connection - Marketo Docs - Product Documentation
+description: "Step 2 of 3 - Set up the Marketo Solution with Server to Server Connection - Marketo Docs - Product Documentation"
 title: Step 2 of 3 - Set up the Marketo Solution with Server to Server Connection
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics

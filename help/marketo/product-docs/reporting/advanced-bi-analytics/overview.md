@@ -92,7 +92,7 @@ Learn how to export specifc sections of your report.
 
    ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
 
-1. Click the 'more' icon (**...**)
+1. Click the 'more' icon (**`...`**)
 
    ![](assets/export-a-visualization-3.png)
 
@@ -231,7 +231,6 @@ The following standard reports are included as examples for your custom reports.
 ## Things to note {#note}
 
 * Your custom reports have been replicated from the classic experience to the new experience with the notable behavior changes mentioned in the [Learning the New Experience](#learning-the-new-experience) section below.
-
 * Dashboards in the classic experience were not transferable and required recreation in the new experience. They can be recreated as reports in the new experience and the filters in the new experience automatically pulls possible values.
 
   >[!NOTE]
@@ -245,9 +244,7 @@ The following standard reports are included as examples for your custom reports.
    >If you had more than 700 reports in the Revenue Explorer, some reports have been combined with others and consolidated via pages within the report.
    >
    >* If a report had an email subscription, it was not combined.
-   >
    >* The rest of the reports in the _same folder_ were combined into one or more reports, by reporting area. If there were more than five reports for the reporting area, they were consolidated into more than one combined report.
-   >
    >* Each combined report has no more than five pages.
 
 * There is a limitation of 1 million rows per query on any given visualization. If your query exceeds that, you will receieve the following error: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. To fix this, reduce your date range, and/or adjust the filters in your report to reduce the number of rows in your query result.

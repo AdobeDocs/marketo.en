@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14746661
-description: Content and File Attachment FAQ - Marketo Docs - Product Documentation
+description: "Content and File Attachment FAQ - Marketo Docs - Product Documentation"
 title: Content and File Attachment FAQ
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect

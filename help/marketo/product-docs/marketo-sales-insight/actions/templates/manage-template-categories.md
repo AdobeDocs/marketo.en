@@ -1,5 +1,5 @@
 ---
-description: Manage Template Categories - Marketo Docs - Product Documentation
+description: "Manage Template Categories - Marketo Docs - Product Documentation"
 title: Manage Template Categories
 hide: yes
 hidefromtoc: yes

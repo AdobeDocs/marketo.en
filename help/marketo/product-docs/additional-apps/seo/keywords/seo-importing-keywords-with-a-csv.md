@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949206
-description: SEO - Importing Keywords with a CSV - Marketo Docs - Product Documentation
+description: "SEO - Importing Keywords with a CSV - Marketo Docs - Product Documentation"
 title: SEO - Importing Keywords with a CSV
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 feature: SEO

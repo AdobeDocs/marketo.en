@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949413
-description: Add a Constraint to a Smart List Filter - Marketo Docs - Product Documentation
+description: "Add a Constraint to a Smart List Filter - Marketo Docs - Product Documentation"
 title: Add a Constraint to a Smart List Filter
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists

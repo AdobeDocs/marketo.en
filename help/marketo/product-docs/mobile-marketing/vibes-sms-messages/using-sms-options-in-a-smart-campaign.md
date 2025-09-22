@@ -1,5 +1,5 @@
 ---
-description: Using SMS Options in a Smart Campaign - Marketo Docs - Product Documentation
+description: "Using SMS Options in a Smart Campaign - Marketo Docs - Product Documentation"
 title: Using SMS Options in a Smart Campaign
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454

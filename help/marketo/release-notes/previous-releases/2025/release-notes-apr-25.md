@@ -1,5 +1,5 @@
 ---
-description: Release Notes - April 2025 - Marketo Docs - Product Documentation
+description: "Release Notes - April 2025 - Marketo Docs - Product Documentation"
 title: Release Notes - April 2025
 feature: Release Information
 exl-id: 94010780-41aa-4212-a1d4-1b78806bd728

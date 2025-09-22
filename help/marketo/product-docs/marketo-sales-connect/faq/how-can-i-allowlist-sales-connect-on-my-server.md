@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352408
-description: How Can I Allowlist Sales Connect on My Server? - Marketo Docs - Product Documentation
+description: "How Can I Allowlist Sales Connect on My Server? - Marketo Docs - Product Documentation"
 title: How Can I Allowlist Sales Connect on My Server?
 exl-id: ae35bf20-d708-4fc8-bd11-6427bacd965b
 feature: Marketo Sales Connect

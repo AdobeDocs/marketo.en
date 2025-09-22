@@ -1,5 +1,5 @@
 ---
-description: How to Set up Custom Domain Tracking - Marketo Docs - Product Documentation
+description: "How to Set up Custom Domain Tracking - Marketo Docs - Product Documentation"
 title: How to Set up Custom Domain Tracking
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions

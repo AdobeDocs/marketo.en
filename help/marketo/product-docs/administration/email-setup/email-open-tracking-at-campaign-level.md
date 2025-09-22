@@ -1,5 +1,5 @@
 ---
-description: Email Open Tracking at Campaign Level - Marketo Docs - Product Documentation
+description: "Email Open Tracking at Campaign Level - Marketo Docs - Product Documentation"
 title: Email Open Tracking at Campaign Level
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2

@@ -1,5 +1,5 @@
 ---
-description: OP-Preference Management - Marketo Docs - Product Documentation
+description: "OP-Preference Management - Marketo Docs - Product Documentation"
 title: OP-Preference Management
 hide: yes
 hidefromtoc: yes

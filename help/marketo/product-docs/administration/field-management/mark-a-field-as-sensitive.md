@@ -1,5 +1,5 @@
 ---
-description: Mark a Field as Sensitive - Marketo Docs - Product Documentation
+description: "Mark a Field as Sensitive - Marketo Docs - Product Documentation"
 title: Mark a Field as Sensitive
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management

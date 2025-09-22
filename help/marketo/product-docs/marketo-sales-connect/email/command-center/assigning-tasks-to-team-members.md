@@ -1,6 +1,6 @@
 ---
 unique-page-id: 45417460
-description: Assigning Tasks to Team Members - Marketo Docs - Product Documentation
+description: "Assigning Tasks to Team Members - Marketo Docs - Product Documentation"
 title: Assigning Tasks to Team Members
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect

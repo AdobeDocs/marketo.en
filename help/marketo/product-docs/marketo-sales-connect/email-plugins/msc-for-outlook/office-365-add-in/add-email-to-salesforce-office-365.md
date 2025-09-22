@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352447
-description: Add Email to Salesforce (Office 365) - Marketo Docs - Product Documentation
+description: "Add Email to Salesforce (Office 365) - Marketo Docs - Product Documentation"
 title: Add Email to Salesforce (Office 365)
 exl-id: 8d1a1329-a045-47a5-ada0-2c3a3a34cd07
 feature: Marketo Sales Connect

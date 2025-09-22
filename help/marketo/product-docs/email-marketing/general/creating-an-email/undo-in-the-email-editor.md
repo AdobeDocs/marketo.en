@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900567
-description: Undo in the Email Editor - Marketo Docs - Product Documentation
+description: "Undo in the Email Editor - Marketo Docs - Product Documentation"
 title: Undo in the Email Editor
 exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
 feature: Email Editor

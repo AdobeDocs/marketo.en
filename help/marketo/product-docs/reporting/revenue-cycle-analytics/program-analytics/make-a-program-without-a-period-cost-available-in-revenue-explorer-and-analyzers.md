@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360389
-description: Make a Program Without a Period Cost Available in Revenue Explorer and Analyzers - Marketo Docs - Product Documentation
+description: "Make a Program Without a Period Cost Available in Revenue Explorer and Analyzers - Marketo Docs - Product Documentation"
 title: Make a Program Without a Period Cost Available in Revenue Explorer and Analyzers
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics

@@ -1,5 +1,5 @@
 ---
-description: Designing Interactive Webinars - Marketo Docs - Product Documentation
+description: "Designing Interactive Webinars - Marketo Docs - Product Documentation"
 title: Designing Interactive Webinars
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars

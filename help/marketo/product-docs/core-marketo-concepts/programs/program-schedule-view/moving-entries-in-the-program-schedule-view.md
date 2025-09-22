@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147134
-description: Moving Entries in the Program Schedule View - Marketo Docs - Product Documentation
+description: "Moving Entries in the Program Schedule View - Marketo Docs - Product Documentation"
 title: Moving Entries in the Program Schedule View
 exl-id: 6df2cb23-99d1-4b72-8a1d-ff4466597e8b
 feature: Programs

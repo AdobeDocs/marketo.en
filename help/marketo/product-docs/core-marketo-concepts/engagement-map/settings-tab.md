@@ -1,5 +1,5 @@
 ---
-description: Settings Tab - Marketo Docs - Product Documentation
+description: "Settings Tab - Marketo Docs - Product Documentation"
 title: Settings Tab
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
 ---

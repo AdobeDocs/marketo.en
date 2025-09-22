@@ -1,6 +1,6 @@
 ---
 unique-page-id: 3571809
-description: Step 3 of 3 -Connect [!DNL Microsoft Dynamics] with Marketo (2011 On-Premises) - Marketo Docs - Product Documentation
+description: "Step 3 of 3 -Connect [!DNL Microsoft Dynamics] with Marketo (2011 On-Premises) - Marketo Docs - Product Documentation"
 title: Step 3 of 3 -Connect [!DNL Microsoft Dynamics] with Marketo (2011 On-Premises)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics

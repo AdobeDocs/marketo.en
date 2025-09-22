@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6094949
-description: Move a Smart Campaign - Marketo Docs - Product Documentation
+description: "Move a Smart Campaign - Marketo Docs - Product Documentation"
 title: Move a Smart Campaign
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns

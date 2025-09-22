@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360370
-description: How to Match Program Statuses and Salesforce Campaign Statuses Prior to Sync - Marketo Docs - Product Documentation
+description: "How to Match Program Statuses and Salesforce Campaign Statuses Prior to Sync - Marketo Docs - Product Documentation"
 title: How to Match Program Statuses and Salesforce Campaign Statuses Prior to Sync
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration

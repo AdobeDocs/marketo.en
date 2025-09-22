@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359880
-description: Organize Your Images and Files Using Folders - Marketo Docs - Product Documentation
+description: "Organize Your Images and Files Using Folders - Marketo Docs - Product Documentation"
 title: Organize Your Images and Files Using Folders
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor

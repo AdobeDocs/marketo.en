@@ -1,5 +1,5 @@
 ---
-description: Icon Glossary - Marketo Docs - Product Documentation
+description: "Icon Glossary - Marketo Docs - Product Documentation"
 title: Icon Glossary
 hide: yes
 hidefromtoc: yes

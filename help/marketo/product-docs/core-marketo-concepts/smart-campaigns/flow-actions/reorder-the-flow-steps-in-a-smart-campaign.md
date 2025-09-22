@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146985
-description: Reorder the Flow Steps in a Smart Campaign - Marketo Docs - Product Documentation
+description: "Reorder the Flow Steps in a Smart Campaign - Marketo Docs - Product Documentation"
 title: Reorder the Flow Steps in a Smart Campaign
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 feature: Smart Campaigns

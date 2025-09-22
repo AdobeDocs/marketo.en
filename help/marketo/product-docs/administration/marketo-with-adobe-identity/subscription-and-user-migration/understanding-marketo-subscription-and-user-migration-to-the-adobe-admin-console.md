@@ -1,5 +1,5 @@
 ---
-description: Understanding Marketo Subscription and User Migration to the Adobe Admin Console - Marketo Docs - Product Documentation
+description: "Understanding Marketo Subscription and User Migration to the Adobe Admin Console - Marketo Docs - Product Documentation"
 title: Understanding Marketo Subscription and User Migration to the Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity

@@ -1,5 +1,5 @@
 ---
-description: Login Management Settings - Marketo Docs - Product Documentation
+description: "Login Management Settings - Marketo Docs - Product Documentation"
 title: Login Management Settings
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions

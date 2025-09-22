@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949469
-description: Setup Steps - Marketo Docs - Product Documentation
+description: "Setup Steps - Marketo Docs - Product Documentation"
 title: Setup Steps
 hide: yes
 hidefromtoc: yes

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10093192
-description: Create Marketo Custom Objects - Marketo Docs - Product Documentation
+description: "Create Marketo Custom Objects - Marketo Docs - Product Documentation"
 title: Create Marketo Custom Objects
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects

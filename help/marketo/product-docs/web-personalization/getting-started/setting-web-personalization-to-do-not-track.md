@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11382593
-description: Setting Web Personalization to Do Not Track - Marketo Docs - Product Documentation
+description: "Setting Web Personalization to Do Not Track - Marketo Docs - Product Documentation"
 title: Setting Web Personalization to Do Not Track
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 feature: Web Personalization

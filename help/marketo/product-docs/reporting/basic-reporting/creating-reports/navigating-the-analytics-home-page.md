@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7513141
-description: Navigating the Analytics Home Page - Marketo Docs - Product Documentation
+description: "Navigating the Analytics Home Page - Marketo Docs - Product Documentation"
 title: Navigating the Analytics Home Page
 exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
 feature: Reporting

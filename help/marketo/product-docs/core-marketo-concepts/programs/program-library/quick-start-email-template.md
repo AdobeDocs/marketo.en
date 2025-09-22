@@ -1,5 +1,5 @@
 ---
-description: Quick Start Email Template - Marketo Docs - Product Documentation
+description: "Quick Start Email Template - Marketo Docs - Product Documentation"
 title: Quick Start Email Template
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d

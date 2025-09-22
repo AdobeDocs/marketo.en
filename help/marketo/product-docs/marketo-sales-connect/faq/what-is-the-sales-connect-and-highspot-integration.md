@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352553
-description: What is the Sales Connect and Highspot Integration? - Marketo Docs - Product Documentation
+description: "What is the Sales Connect and Highspot Integration? - Marketo Docs - Product Documentation"
 title: What is the Sales Connect and Highspot Integration?
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect

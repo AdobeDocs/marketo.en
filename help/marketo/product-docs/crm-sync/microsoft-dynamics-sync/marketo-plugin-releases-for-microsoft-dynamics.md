@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10099389
-description: Marketo Plugin Releases for [!DNL Microsoft Dynamics] - Marketo Docs - Product Documentation
+description: "Marketo Plugin Releases for [!DNL Microsoft Dynamics] - Marketo Docs - Product Documentation"
 title: Marketo Plugin Releases for [!DNL Microsoft Dynamics]
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics

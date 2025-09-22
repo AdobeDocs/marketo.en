@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359457
-description: Approve a Segmentation - Marketo Docs - Product Documentation
+description: "Approve a Segmentation - Marketo Docs - Product Documentation"
 title: Approve a Segmentation
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation

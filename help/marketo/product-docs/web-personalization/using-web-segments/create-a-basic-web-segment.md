@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719344
-description: Create a Basic Web Segment - Marketo Docs - Product Documentation
+description: "Create a Basic Web Segment - Marketo Docs - Product Documentation"
 title: Create a Basic Web Segment
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization

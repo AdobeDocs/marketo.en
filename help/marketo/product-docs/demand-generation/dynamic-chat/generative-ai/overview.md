@@ -1,5 +1,5 @@
 ---
-description: Generative AI Overview - Marketo Docs - Product Documentation
+description: "Generative AI Overview - Marketo Docs - Product Documentation"
 title: Generative AI in Dynamic Chat
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6

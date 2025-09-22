@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360301
-description: Set Score Fields to be used for Stars and Flames in Sales Insight - Marketo Docs - Product Documentation
+description: "Set Score Fields to be used for Stars and Flames in Sales Insight - Marketo Docs - Product Documentation"
 title: Set Score Fields to be used for Stars and Flames in Sales Insight
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights

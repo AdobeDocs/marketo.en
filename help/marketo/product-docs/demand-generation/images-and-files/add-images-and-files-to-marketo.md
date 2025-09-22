@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359858
-description: Add Images and Files to Marketo - Marketo Docs - Product Documentation
+description: "Add Images and Files to Marketo - Marketo Docs - Product Documentation"
 title: Add Images and Files to Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504840
-description: Abort Email Program - Marketo Docs - Product Documentation
+description: "Abort Email Program - Marketo Docs - Product Documentation"
 title: Abort Email Program
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs

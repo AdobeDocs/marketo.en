@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359512
-description: Use Segment Filters in a Smart List - Marketo Docs - Product Documentation
+description: "Use Segment Filters in a Smart List - Marketo Docs - Product Documentation"
 title: Use Segment Filters in a Smart List
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 feature: Segmentation

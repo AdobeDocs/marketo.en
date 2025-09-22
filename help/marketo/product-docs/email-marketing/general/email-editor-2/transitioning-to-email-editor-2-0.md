@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11373011
-description: Transitioning to Email Editor 2.0 - Marketo Docs - Product Documentation
+description: "Transitioning to Email Editor 2.0 - Marketo Docs - Product Documentation"
 title: Transitioning to Email Editor 2.0
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: yes

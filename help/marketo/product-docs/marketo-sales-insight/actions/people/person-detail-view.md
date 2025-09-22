@@ -1,5 +1,5 @@
 ---
-description: Person Detail View - Marketo Docs - Product Documentation
+description: "Person Detail View - Marketo Docs - Product Documentation"
 title: Person Detail View
 hide: yes
 hidefromtoc: yes

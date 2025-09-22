@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7514956
-description: Enable Predictive Content for Web Rich Media - Marketo Docs - Product Documentation
+description: "Enable Predictive Content for Web Rich Media - Marketo Docs - Product Documentation"
 title: Enable Predictive Content for Web Rich Media
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352541
-description: Syncing Sales Connect Tasks with Salesforce for the First Time - Marketo Docs - Product Documentation
+description: "Syncing Sales Connect Tasks with Salesforce for the First Time - Marketo Docs - Product Documentation"
 title: Syncing Sales Connect Tasks with Salesforce for the First Time
 exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
 feature: Marketo Sales Connect

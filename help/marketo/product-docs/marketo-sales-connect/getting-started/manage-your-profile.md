@@ -1,5 +1,5 @@
 ---
-description: Manage Your Profile - Marketo Docs - Product Documentation
+description: "Manage Your Profile - Marketo Docs - Product Documentation"
 title: Manage Your Profile
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect

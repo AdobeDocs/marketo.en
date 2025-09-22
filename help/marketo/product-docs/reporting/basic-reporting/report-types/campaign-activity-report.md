@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360057
-description: Campaign Activity Report - Marketo Docs - Product Documentation
+description: "Campaign Activity Report - Marketo Docs - Product Documentation"
 title: Campaign Activity Report
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7512463
-description: Delete Mobile Push Notification - Marketo Docs - Product Documentation
+description: "Delete Mobile Push Notification - Marketo Docs - Product Documentation"
 title: Delete Mobile Push Notification
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing

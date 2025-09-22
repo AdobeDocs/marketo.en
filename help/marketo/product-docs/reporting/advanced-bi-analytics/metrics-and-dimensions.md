@@ -1,5 +1,5 @@
 ---
-description: Metrics and Dimensions - Marketo Docs - Product Documentation
+description: "Metrics and Dimensions - Marketo Docs - Product Documentation"
 title: Metrics and Dimensions
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2

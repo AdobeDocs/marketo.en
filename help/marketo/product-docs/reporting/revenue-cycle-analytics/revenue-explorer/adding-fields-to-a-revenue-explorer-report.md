@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504383
-description: Adding Fields to a Revenue Explorer Report - Marketo Docs - Product Documentation
+description: "Adding Fields to a Revenue Explorer Report - Marketo Docs - Product Documentation"
 title: Adding Fields to a Revenue Explorer Report
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics

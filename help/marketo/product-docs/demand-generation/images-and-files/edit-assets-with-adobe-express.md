@@ -1,5 +1,5 @@
 ---
-description: Edit Assets with Adobe Express - Marketo Docs - Product Documentation
+description: "Edit Assets with Adobe Express - Marketo Docs - Product Documentation"
 title: Edit Assets with Adobe Express
 hide: yes
 hidefromtoc: yes

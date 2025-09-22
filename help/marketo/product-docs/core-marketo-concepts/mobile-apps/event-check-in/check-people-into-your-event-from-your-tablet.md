@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949839
-description: Check People into Your Event from Your Tablet - Marketo Docs - Product Documentation
+description: "Check People into Your Event from Your Tablet - Marketo Docs - Product Documentation"
 title: Check People into Your Event from Your Tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing

@@ -1,5 +1,5 @@
 ---
-description: NL-YYYY-MM-Newsletter - Marketo Docs - Product Documentation
+description: "NL-YYYY-MM-Newsletter - Marketo Docs - Product Documentation"
 title: NL-YYYY-MM-Newsletter
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454

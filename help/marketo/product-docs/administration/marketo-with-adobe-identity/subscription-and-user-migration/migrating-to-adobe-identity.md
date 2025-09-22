@@ -1,5 +1,5 @@
 ---
-description: Migrating to Adobe Identity - Marketo Docs - Product Documentation
+description: "Migrating to Adobe Identity - Marketo Docs - Product Documentation"
 title: Migrating to Adobe Identity
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0

@@ -1,5 +1,5 @@
 ---
-description: Sync Sales Activities to Salesforce - Marketo Docs - Product Documentation
+description: "Sync Sales Activities to Salesforce - Marketo Docs - Product Documentation"
 title: Sync Sales Activities to Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 ---

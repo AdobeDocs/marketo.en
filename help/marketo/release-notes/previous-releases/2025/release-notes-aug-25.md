@@ -1,5 +1,5 @@
 ---
-description: Release Notes - August 2025 - Marketo Docs - Product Documentation
+description: "Release Notes - August 2025 - Marketo Docs - Product Documentation"
 title: Release Notes - August 2025
 feature: Release Information
 ---

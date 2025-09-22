@@ -1,5 +1,5 @@
 ---
-description: WBN-YYYY-MM-DD-Webinar Program - Marketo Docs - Product Documentation
+description: "WBN-YYYY-MM-DD-Webinar Program - Marketo Docs - Product Documentation"
 title: WBN-YYYY-MM-DD-Webinar Program
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00

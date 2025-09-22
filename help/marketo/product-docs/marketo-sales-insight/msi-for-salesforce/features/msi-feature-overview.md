@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37356893
-description: MSI Feature Overview - Marketo Docs - Product Documentation
+description: "MSI Feature Overview - Marketo Docs - Product Documentation"
 title: MSI Feature Overview
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights

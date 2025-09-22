@@ -1,5 +1,5 @@
 ---
-description: New Add Images Doc - Marketo Docs - Product Documentation
+description: "New Add Images Doc - Marketo Docs - Product Documentation"
 title: New Add Images Doc
 hide: yes
 hidefromtoc: yes

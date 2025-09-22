@@ -1,5 +1,5 @@
 ---
-description: Why Aren't My Sales Activities and Activity Fields Syncing to Salesforce? - Marketo Docs - Product Documentation
+description: "Why Aren't My Sales Activities and Activity Fields Syncing to Salesforce? - Marketo Docs - Product Documentation"
 title: Why Aren't My Sales Activities and Activity Fields Syncing to Salesforce?
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
 ---

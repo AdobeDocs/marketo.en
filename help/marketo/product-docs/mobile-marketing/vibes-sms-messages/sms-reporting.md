@@ -1,5 +1,5 @@
 ---
-description: SMS Reporting - Marketo Docs - Product Documentation
+description: "SMS Reporting - Marketo Docs - Product Documentation"
 title: SMS Reporting
 feature: Mobile Marketing
 exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa

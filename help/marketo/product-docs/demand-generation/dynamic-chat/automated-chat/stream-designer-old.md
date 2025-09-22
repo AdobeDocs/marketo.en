@@ -1,5 +1,5 @@
 ---
-description: Stream Designer - Marketo Docs - Product Documentation
+description: "Stream Designer - Marketo Docs - Product Documentation"
 title: Stream Designer
 hide: yes
 hidefromtoc: yes

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147247
-description: Hiding and Unhiding Custom Entry Types - Marketo Docs - Product Documentation
+description: "Hiding and Unhiding Custom Entry Types - Marketo Docs - Product Documentation"
 title: Hiding and Unhiding Custom Entry Types
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs

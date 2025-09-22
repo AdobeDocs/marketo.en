@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557082
-description: Reporting - Marketo Docs - Product Documentation
+description: "Reporting - Marketo Docs - Product Documentation"
 title: Reporting
 ---
 

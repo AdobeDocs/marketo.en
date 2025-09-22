@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10100272
-description: Publish a Custom Activity - Marketo Docs - Product Documentation
+description: "Publish a Custom Activity - Marketo Docs - Product Documentation"
 title: Publish a Custom Activity
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 feature: Custom Activities

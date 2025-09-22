@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359596
-description: Enable/Disable Communication Limits in an Email Program - Marketo Docs - Product Documentation
+description: "Enable/Disable Communication Limits in an Email Program - Marketo Docs - Product Documentation"
 title: Enable/Disable Communication Limits in an Email Program
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs

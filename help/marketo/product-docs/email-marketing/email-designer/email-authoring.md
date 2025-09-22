@@ -1,5 +1,5 @@
 ---
-description: Email authoring - Marketo Docs - Product Documentation
+description: "Email authoring - Marketo Docs - Product Documentation"
 title: Email authoring
 level: Beginner, Intermediate
 feature: Email Designer

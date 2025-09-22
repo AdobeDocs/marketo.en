@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147093
-description: Understanding Local Assets in a Program - Marketo Docs - Product Documentation
+description: "Understanding Local Assets in a Program - Marketo Docs - Product Documentation"
 title: Understanding Local Assets in a Program
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs

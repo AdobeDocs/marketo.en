@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377395
-description: Add an Additional Branding Domain - Marketo Docs - Product Documentation
+description: "Add an Additional Branding Domain - Marketo Docs - Product Documentation"
 title: Add an Additional Branding Domain
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10097163
-description: Enabling or Disabling the RTP JavaScript Tag - Marketo Docs - Product Documentation
+description: "Enabling or Disabling the RTP JavaScript Tag - Marketo Docs - Product Documentation"
 title: Enabling or Disabling the RTP JavaScript Tag
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization

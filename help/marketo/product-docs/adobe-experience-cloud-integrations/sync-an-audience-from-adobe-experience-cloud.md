@@ -1,5 +1,5 @@
 ---
-description: Sync an Audience From Adobe Experience Cloud - Marketo Docs - Product Documentation
+description: "Sync an Audience From Adobe Experience Cloud - Marketo Docs - Product Documentation"
 title: Sync an Audience From Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations

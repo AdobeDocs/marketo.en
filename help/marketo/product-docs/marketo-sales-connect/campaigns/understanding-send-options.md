@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352621
-description: Understanding Send Options - Marketo Docs - Product Documentation
+description: "Understanding Send Options - Marketo Docs - Product Documentation"
 title: Understanding Send Options
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect

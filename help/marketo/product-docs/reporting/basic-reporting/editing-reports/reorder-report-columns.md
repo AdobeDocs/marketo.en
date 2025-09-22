@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359999
-description: Reorder Report Columns - Marketo Docs - Product Documentation
+description: "Reorder Report Columns - Marketo Docs - Product Documentation"
 title: Reorder Report Columns
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting

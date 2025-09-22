@@ -1,5 +1,5 @@
 ---
-description: Send a List to Google - Marketo Docs - Product Documentation
+description: "Send a List to Google - Marketo Docs - Product Documentation"
 title: Send a List to Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911

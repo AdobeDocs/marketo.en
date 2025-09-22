@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360181
-description: Tracking Anonymous Activity and People - Marketo Docs - Product Documentation
+description: "Tracking Anonymous Activity and People - Marketo Docs - Product Documentation"
 title: Tracking Anonymous Activity and People
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting

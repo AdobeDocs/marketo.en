@@ -1,5 +1,5 @@
 ---
-description: Uninstall Marketo Sales Connect from Salesforce Classic - Marketo Docs - Product Documentation
+description: "Uninstall Marketo Sales Connect from Salesforce Classic - Marketo Docs - Product Documentation"
 title: Uninstall Marketo Sales Connect from Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
 ---

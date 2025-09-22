@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7503973
-description: Customize a Presentation - Marketo Docs - Product Documentation
+description: "Customize a Presentation - Marketo Docs - Product Documentation"
 title: Customize a Presentation
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar

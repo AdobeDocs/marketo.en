@@ -1,5 +1,5 @@
 ---
-description: Product Admin Setup - Marketo Docs - Product Documentation
+description: "Product Admin Setup - Marketo Docs - Product Documentation"
 title: Product Admin Setup
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
 feature: Marketo with Adobe Identity

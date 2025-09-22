@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504343
-description: Create a Segment Using Known Person Data - Marketo Docs - Product Documentation
+description: "Create a Segment Using Known Person Data - Marketo Docs - Product Documentation"
 title: Create a Segment Using Known Person Data
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization

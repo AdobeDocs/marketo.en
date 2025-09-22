@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783990
-description: Template 9D - Marketo Docs - Product Documentation
+description: "Template 9D - Marketo Docs - Product Documentation"
 title: Template 9D
 exl-id: 672c5db7-97e4-4fd4-bbfb-058d2f63f7a8
 feature: Landing Pages, Guided Landing Page Templates

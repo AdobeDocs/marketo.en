@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557316
-description: Define Smart List Filters - Marketo Docs - Product Documentation
+description: "Define Smart List Filters - Marketo Docs - Product Documentation"
 title: Define Smart List Filters
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists

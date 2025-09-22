@@ -1,6 +1,6 @@
 ---
 unique-page-id: 42762794
-description: Using Bulk Actions in [!DNL Salesforce] Classic - Marketo Docs - Product Documentation
+description: "Using Bulk Actions in [!DNL Salesforce] Classic - Marketo Docs - Product Documentation"
 title: Using Bulk Actions in [!DNL Salesforce] Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect

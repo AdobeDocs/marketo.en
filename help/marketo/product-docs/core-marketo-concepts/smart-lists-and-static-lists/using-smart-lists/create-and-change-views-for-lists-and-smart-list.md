@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557337
-description: Create and Change Views for Lists and Smart List - Marketo Docs - Product Documentation
+description: "Create and Change Views for Lists and Smart List - Marketo Docs - Product Documentation"
 title: Create and Change Views for Lists and Smart List
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists

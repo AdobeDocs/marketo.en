@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9437586
-description: Template 12E - Marketo Docs - Product Documentation
+description: "Template 12E - Marketo Docs - Product Documentation"
 title: Template 12E
 exl-id: fc330e23-9247-4565-a607-0c10d3ef89c6
 feature: Landing Pages, Guided Landing Page Templates

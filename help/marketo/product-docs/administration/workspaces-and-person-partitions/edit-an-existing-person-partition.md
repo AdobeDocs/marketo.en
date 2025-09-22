@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360323
-description: Edit an Existing Person Partition - Marketo Docs - Product Documentation
+description: "Edit an Existing Person Partition - Marketo Docs - Product Documentation"
 title: Edit an Existing Person Partition
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions

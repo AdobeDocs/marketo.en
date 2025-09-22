@@ -1,5 +1,5 @@
 ---
-description: Add to Marketing Campaign - Marketo Docs - Product Documentation
+description: "Add to Marketing Campaign - Marketo Docs - Product Documentation"
 title: Add to Marketing Campaign
 hide: yes
 hidefromtoc: yes

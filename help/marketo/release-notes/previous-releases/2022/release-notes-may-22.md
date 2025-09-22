@@ -1,5 +1,5 @@
 ---
-description: Release Notes - May 2022 - Marketo Docs - Product Documentation
+description: "Release Notes - May 2022 - Marketo Docs - Product Documentation"
 title: Release Notes - May 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
 ---

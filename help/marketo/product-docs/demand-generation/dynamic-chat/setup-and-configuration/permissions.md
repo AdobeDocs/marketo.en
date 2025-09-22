@@ -1,5 +1,5 @@
 ---
-description: Permissions - Marketo Docs - Product Documentation
+description: "Permissions - Marketo Docs - Product Documentation"
 title: Permissions
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406

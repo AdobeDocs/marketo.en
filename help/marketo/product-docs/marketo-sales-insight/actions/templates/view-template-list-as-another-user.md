@@ -1,5 +1,5 @@
 ---
-description: View Template List as Another User - Marketo Docs - Product Documentation
+description: "View Template List as Another User - Marketo Docs - Product Documentation"
 title: View Template List as Another User
 hide: yes
 hidefromtoc: yes

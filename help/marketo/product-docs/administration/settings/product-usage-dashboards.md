@@ -1,5 +1,5 @@
 ---
-description: Product Usage Dashboards - Marketo Docs - Product Documentation
+description: "Product Usage Dashboards - Marketo Docs - Product Documentation"
 title: Product Usage Dashboards
 hide: yes
 hidefromtoc: yes

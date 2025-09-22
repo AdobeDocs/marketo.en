@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12979012
-description: Filtering in Performance Insights - Marketo Docs - Product Documentation
+description: "Filtering in Performance Insights - Marketo Docs - Product Documentation"
 title: Filtering in Performance Insights
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting

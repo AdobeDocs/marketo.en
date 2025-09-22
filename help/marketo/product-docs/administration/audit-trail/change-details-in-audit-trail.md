@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11379928
-description: Change Details in Audit Trail - Marketo Docs - Product Documentation
+description: "Change Details in Audit Trail - Marketo Docs - Product Documentation"
 title: Change Details in Audit Trail
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail

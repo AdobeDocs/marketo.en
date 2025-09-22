@@ -1,5 +1,5 @@
 ---
-description: Invite Users and Admins - Marketo Docs - Product Documentation
+description: "Invite Users and Admins - Marketo Docs - Product Documentation"
 title: Invite Users and Admins
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions

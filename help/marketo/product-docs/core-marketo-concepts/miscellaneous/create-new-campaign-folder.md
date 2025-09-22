@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953207
-description: Create New Campaign Folder - Marketo Docs - Product Documentation
+description: "Create New Campaign Folder - Marketo Docs - Product Documentation"
 title: Create New Campaign Folder
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
 ---

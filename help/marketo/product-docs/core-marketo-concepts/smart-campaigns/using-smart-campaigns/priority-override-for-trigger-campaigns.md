@@ -1,5 +1,5 @@
 ---
-description: Priority Override for Trigger Campaigns - Marketo Docs - Product Documentation
+description: "Priority Override for Trigger Campaigns - Marketo Docs - Product Documentation"
 title: Priority Override for Trigger Campaigns
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7511477
-description: Use Inactivity Filters in a Smart List - Marketo Docs - Product Documentation
+description: "Use Inactivity Filters in a Smart List - Marketo Docs - Product Documentation"
 title: Use Inactivity Filters in a Smart List
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists

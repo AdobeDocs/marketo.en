@@ -1,5 +1,5 @@
 ---
-description: Step 1 of 3 - Install the Marketo Solution with Server to Server Connection - Marketo Docs - Product Documentation
+description: "Step 1 of 3 - Install the Marketo Solution with Server to Server Connection - Marketo Docs - Product Documentation"
 title: Step 1 of 3 - Install the Marketo Solution with Server to Server Connection
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics

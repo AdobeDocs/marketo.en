@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504437
-description: Add a Background Image to a Presentation - Marketo Docs - Product Documentation
+description: "Add a Background Image to a Presentation - Marketo Docs - Product Documentation"
 title: Add a Background Image to a Presentation
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
