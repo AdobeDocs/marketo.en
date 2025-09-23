@@ -1034,6 +1034,7 @@ feature-set: Marketo Engage
       + [Customizable Fragments](product-docs/email-marketing/email-designer/customizable-fragments.md)
       + [GenStudio Integration for Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
       + [Content Locking](product-docs/email-marketing/email-designer/content-locking.md)
+      + [Email Collaboration](product-docs/email-marketing/email-designer/email-collaboration.md)
       + [AI Assistant](product-docs/email-marketing/email-designer/ai-assistant.md)
       + [Email Spam Report with SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
     + Email Programs {#email-programs}
