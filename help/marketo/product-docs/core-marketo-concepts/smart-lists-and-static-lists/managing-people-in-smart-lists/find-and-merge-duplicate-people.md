@@ -15,7 +15,7 @@ Marketo Engage automatically de-duplicates when new people enter the system. How
 
 >[!PREREQUISITES]
 >
->Finding and merging duplicates will involve the use of [built-in/system Smart Lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>Finding and merging duplicates involves the use of [built-in/system Smart Lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -53,13 +53,15 @@ Marketo Engage automatically de-duplicates when new people enter the system. How
    >
    >You could have two or more duplicates for the same person - select them all at once.
 
-1. You will see the values between the records that _don't_ match. Select the value you want to keep for each field. Click **[!UICONTROL Merge]** when done. If you don't want either value, you can check **[!UICONTROL Custom]** and enter a value of your choice.
+1. The values between records that don't match appear. _Select the value you want to keep for each field_. Click **[!UICONTROL Merge]** when done. If you don't want either value, you can check **[!UICONTROL Custom]** and enter a value of your choice.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
-   >When manually merging people, the first person selected will be the "winner." So in the People tab if you are merging record IDs 198 and 199, and you happen to click on 199 first, 199 will be the record ID of the merged people. This also applies if more than two records are merged.
+   >* Unlike Salesforce, when merging people in Marketo, their scores are _not_ summed. You select the values you want to keep.
+   >
+   >* When manually merging people, the first person selected will be the "winner." So in the People tab if you are merging record IDs 198 and 199, and you happen to click on 199 first, 199 will be the record ID of the merged people. This also applies if more than two records are merged.
 
    >[!TIP]
    >
