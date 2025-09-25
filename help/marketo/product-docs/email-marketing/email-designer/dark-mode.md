@@ -130,7 +130,7 @@ To define custom dark mode settings, follow the steps below.
 
 1. Once you are satisfied with the changes for dark mode, click **[!UICONTROL Simulate Content]**.
 
-    ![](assets/dark-mode-simulate.png)
+   SCREENSHOT
 
 1. Select **[!UICONTROL Render email]** and connect to your Litmus account. You can see the final dark mode rendering for various email clients. Learn more about [Email rendering](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 
