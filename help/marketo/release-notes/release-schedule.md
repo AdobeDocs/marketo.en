@@ -63,7 +63,7 @@ _Release dates/features are subject to change_
   </tr>
   <tr>
    <td>October '25</td>
-   <td>October 17, 2025</td>
+   <td>October 31, 2025</td>
    <td>On Schedule</td>
   </tr>
  </tbody>
