@@ -13,7 +13,33 @@ AI Assistant in the Marketo Engage Email Designer helps you create contemporary,
 
 >[!PREREQUISITES]
 >
->AI Assistant is not enabled by default. You must first agree to the Core Gen-AI terms and the supplemental terms for using the Gen-AI functionality in the Email Designer. Contact the Adobe Account Team (your account manager) for details.
+>AI Assistant is not enabled by default. You must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} for using the Gen-AI functionality in the Email Designer. Contact the Adobe Account Team (your account manager) for details.
+
+## Set up permissions {#set-up-permissions}
+
+_After_ following the prerequisite above, Marketo admins must apply access to specific users/roles before users will see the GenAI buttons.
+
+1. In Marketo Engage, click **Admin** and select **Users & Roles**.
+
+   ![](assets/use-the-ai-assistant-0a.png)
+
+1. In the **Roles** tab, double-click on the desired role.
+
+   ![](assets/use-the-ai-assistant-0b.png)
+
+1. Under _Access Design Studio_, select the **Access AI Assistant** checkbox and click **Save**.
+
+   ![](assets/use-the-ai-assistant-0c.png)
+
+1. Click the Users tab and select the user you want to provide access to.
+
+   ![](assets/use-the-ai-assistant-0d.png)
+
+1. Select the role you chose in Step 3 and the desired workspace (if applicable). Click **Save**. 
+
+   ![](assets/use-the-ai-assistant-0e.png)
+
+## Use cases {#use-cases}
 
 There are three primary use-cases for AI Assistant:
 
