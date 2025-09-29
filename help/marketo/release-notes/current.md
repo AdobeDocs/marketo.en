@@ -47,8 +47,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - AI Assistant Permissions</strong>: Marketo Admins can provide specific users with access to GenAI features.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help\marketo\product-docs\email-marketing\email-designer\ai-assistant.md#set-up-permissions">Set up permissions</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>
