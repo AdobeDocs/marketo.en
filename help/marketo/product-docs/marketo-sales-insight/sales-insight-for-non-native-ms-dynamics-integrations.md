@@ -253,6 +253,6 @@ If your Adobe Marketo Engage account is connected to MS [!DNL Dynamics] through 
 
    >[!NOTE]
    >
-   >For Lead/Contacts and Accounts object types: if you are syncing to your own custom fields for these mandatory fields, we support this customization while operating Marketo Sales Insights. Please reach out to [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} for help with this customization.
+   >For Lead/Contacts and Accounts object types: Marketo supports using your own custom fields as external ID fields when using Marketo Sales Insights. If you need help with this customization, contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
    Proper use of the external fields is key to a successful non-native sync. If you fail to see data in some of the views, it is likely that a certain field was not correctly synced. For example, if a lead's activities and interesting moments don't show up when looking in the MSI widget under their Account, it is likely that either the lead's company or the Account was not correctly synced. Performing a GET request for this lead while specifying the external fields will help you verify whether the lead was correctly synced. Moreover, the email for the external sales person in Marketo must match the email for that user in MS Dynamics. Data may not show in the Marketo tab in MS Dynamics if the emails do not match.
