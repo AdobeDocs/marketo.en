@@ -3,8 +3,6 @@ description: Dark Mode - Marketo Docs - Product Documentation
 title: Dark Mode
 level: Beginner, Intermediate
 feature: Email Designer
-hide: yes
-hidefromtoc: yes
 ---
 # Dark Mode {#dark-mode}
 

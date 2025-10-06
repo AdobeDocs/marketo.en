@@ -57,8 +57,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Dark Mode</strong>: You can now utilize Dark Mode, which allows supporting email clients and apps to display emails with darker backgrounds and lighter colors for text, buttons, and other UI elements.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">Dark mode</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>
