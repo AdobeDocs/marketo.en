@@ -45,7 +45,7 @@ To make portions of a visual fragment editable, follow these steps:
 1. Save your changes when done.
 
 After adding the fragment into an email, users will be able to customize all the editable fields configured in the fragment.
-
+<!--
 ## Add editable fields in HTML components and expression fragments {#expression}
 
 To make portions of an HTML component or an expression fragment editable, you must use a specific syntax in the expression editor. This involves declaring a _variable_ with a default value that users can override after adding the fragment to their content.
@@ -67,7 +67,7 @@ For example, in the code below, each element highlighted in red can become a pro
 ![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
-
+-->
 >[!MORELIKETHIS]
 >
 >[Fragments](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}
