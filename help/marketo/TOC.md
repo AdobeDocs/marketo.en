@@ -1023,6 +1023,7 @@ feature-set: Marketo Engage
       + [Feature Comparison](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [Email Authoring](product-docs/email-marketing/email-designer/email-authoring.md)
       + [Email Template Authoring](product-docs/email-marketing/email-designer/email-template-authoring.md)
+      + [Design Accessible Content](product-docs/email-marketing/email-designer/accessible-content.md)
       + [Custom CSS](product-docs/email-marketing/email-designer/custom-css.md)
       + [Brand Themes](product-docs/email-marketing/email-designer/brand-themes.md)
       + [Apply Brand](product-docs/email-marketing/email-designer/apply-brand.md)
