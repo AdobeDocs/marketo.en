@@ -66,7 +66,7 @@ In order to access the new Email Designer, your Marketo Engage subscription must
 
 **Will the old email editor continue to function? If so, for how long?**
 
-Yes, the old (classic) email editor will co-exist with the new Email Designer. Emails created in the classic editor will remain. There is no date as to when the classic editor will be deprecated at this time, but it will continue to function throughout 2025.
+Yes, the old (classic) email editor will co-exist with the new Email Designer. Emails created in the classic editor will remain. There is no date as to when the classic editor will be deprecated at this time, but it will continue to function into 2026. We will give several months' notice before we deprecate the old editor.
 
 **Which programs can I use the New Email Designer emails in?**
 
