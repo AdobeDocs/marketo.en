@@ -16,7 +16,7 @@ After your webinar is completed, go to the Dashboard tab to see the aggregated p
 
 ## Manual Sync {#manual-sync}
 
-Interactive Webinars allows you to obtain your webinar's engagement data from Adobe Connect if you haven't automatically received it within two hours of the webinar's completion. A "Sync Now" button appears in the Overview page. Clicking **Sync Now** triggers a pull from Adobe Connect to populate the data in Marketo Engage. After the sync has taken place, the button disappears and the Dashboard tab becomes populated.
+Interactive Webinars allows you to obtain your webinar's engagement data from Adobe Connect if you haven't automatically received it within two hours of the webinar's completion. Thirty one days after the Interactive Webinar delivery date, a "Sync On-Demand Activity" options appears on the right side of the header the webinar's _Dashboard_. Clicking it triggers a pull from Adobe Connect to populate the data in Marketo Engage. It syncs data from the date of your webinar until the date you click **Sync On-Demand Activity**.
 
 ## Dashboard Widgets {#dashboard-widgets}
 
