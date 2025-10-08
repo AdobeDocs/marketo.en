@@ -1,6 +1,6 @@
 ---
 title: Design accessible content
-description: Learn how to design accessible content for your emails in Marketo Engage.
+description: Learn how to design accessible content for your emails in Adobe Marketo Engage.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
