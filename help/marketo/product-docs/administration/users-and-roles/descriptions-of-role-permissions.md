@@ -114,7 +114,7 @@ Gives users access to the Design Studio tab and view of the tree, but not to det
 
 * Access Email
   * Edit Email - Gives users permission to edit, create, and clone emails
-    * Make Email Operational - Gives users permission to make an email operational. See: [Make an Email Operational](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+    * Make and Edit Operational Emails - Gives users permission to create and/or edit operational emails. See: [Make an Email Operational](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
     * Approve Email - Enables users to approve emails.
     * Delete Email - Enables users to delete emails.
