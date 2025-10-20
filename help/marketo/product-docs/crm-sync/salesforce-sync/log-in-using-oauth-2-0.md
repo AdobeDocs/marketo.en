@@ -50,11 +50,11 @@ Salesforce uses the OAuth protocol to allow users of applications to securely ac
 
    ![](assets/log-in-using-oauth-8.png)
 
-1. After the new External Client App is created, click the **Settings** tab and expand the **OAuth Settings** section.
+1. After the new External Client App is created, select the **Settings** tab and expand the **OAuth Settings** section.
 
    ![](assets/log-in-using-oauth-9.png)
 
-1. Click the **Consumer Key and Consumer Secret** button, prompting a new tab to open. Copy and save both numbers (you'll need them later for use in Marketo Engage).
+1. Click the **Consumer Key and Secret** button, prompting a new tab to open. Copy and save both numbers (you'll need them later for use in Marketo Engage).
 
    ![](assets/log-in-using-oauth-10.png)
 
