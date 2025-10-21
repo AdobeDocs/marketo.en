@@ -15,7 +15,12 @@ You can restrict or enable users from accessing Marketo based on their IP addres
 
 >[!IMPORTANT]
 >
->The information in this article is for users who log in directly at login.marketo.com and does not apply to those who authenticate with Adobe ID. It is not possible to enforce IP restrictions on single sign-on (SSO) logins at this time.
+>Adobe Admin Console (AAC) supports [IP-based access control](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. To ensure a smooth transition, existing Marketo Engage IP restrictions will be active including Adobe ID users through Q1 2026 in subscriptions where this feature is enabled.
+>
+>* You can configure AAC IP-based access anytime.
+>* Both AAC and Marketo Engage restrictions can run simultaneously. Use the same IP allow list for compatibility.
+>
+>After Q1 2026, Marketo Engage IP restrictions will be retired. IP-based access will be managed exclusively through AAC and must be configured to enforce login restrictions. A final transition date will be announced later.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -44,5 +49,3 @@ You can restrict or enable users from accessing Marketo based on their IP addres
    >You can add multiple restrictions, but they can only be ALL allowed or ALL blocked. You cannot mix and match allowed and blocked.
 
    ![](assets/restrict-marketo-logins-based-on-ip-4.png)
-
-   Nicely done, your marketing data is now safer than it ever was!
