@@ -4,9 +4,9 @@ title: Current Release Notes
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 ---
-# Release Notes: September 2025 {#release-notes-sep-25}
+# Release Notes: October 2025 {#release-notes-oct-25}
 
-Below you'll find all the features included in the September '25 release. Check your Adobe Marketo Engage edition for feature availability.
+Below you'll find all the features included in the October '25 release. Check your Adobe Marketo Engage edition for feature availability.
 
 The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -16,7 +16,7 @@ The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/
 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
-The following features fall under the standard release cycle and will start to be released on **September 19, 2025**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
+The following features fall under the standard release cycle and will start to be released on **October 31, 2025**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -26,7 +26,7 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>On-Demand Webinar Activity Retention</strong>: Interactive Webinars users now have On-demand Webinar Dashboard data available for more than 30 days (previously it was only up to 30 days from the day of the webinar).</td>
+   <td><strong>Template Importer</strong>: Import email templates from the classic email editor to create  templates compatible with the New Email Designer in the Design Studio.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -36,7 +36,40 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Content Collaboration Workflow</strong>: You can now comment on and collaborate with fellow Marketo users within an email asset. Tag team members (Marketo users who have the appropriate asset permissions) and they will receive an email or pulse notification.</td>
+   <td><strong>Email Designer - Conditional Content</strong>: Parity feature for the new Email Designer, allowing you to achieve email personalization beyond tokens.</td>
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - A/B Testing</strong>: Parity feature for the new Email Designer, allowing you to perform A/B tests to see which types of content receive the best response.</td>
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Brand Themes</strong>: You can now define brand themes within Marketo Engage. Styling configurations can be reused and applied across email templates and other email assets for brand consistency.</td>
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+ <tr>
+   <td><strong>Email Designer - Image to HTML Converter</strong>: Upload a compliant PNG/JPEG image file of an email and it will automatically be converted into HTML for use in the new Email Designer.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -46,27 +79,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - AI Assistant Permissions</strong>: Marketo Admins can provide specific users with access to GenAI features.</td>
-   <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">Set up permissions</a></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Dark Mode</strong>: You can now utilize Dark Mode, which allows supporting email clients and apps to display emails with darker backgrounds and lighter colors for text, buttons, and other UI elements.</td>
-   <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">Dark mode</a></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Redirect Fixes</strong>: Some users were experiencing redirect issues with URLs for emails created using the new Designer (e.g., directly pasting the URLs or bookmarking email assets did not always work). This issue has been resolved. Additionally, links to email assets from <b>Email Templates</b> > <b>Details</b> > <b>Used By</b> will redirect to the corresponding email asset.</td>
+   <td><strong>Email Designer - Clone Email Action</strong>: You can now clone an email into another program folder in Marketing Activities and quickly reuse existing emails.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -86,7 +99,7 @@ The following features fall under the standard release cycle and will start to b
 
   * _Single Sign-On (SSO) Deprecation_: Support for [Marketo Identity SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} ended on July 30, 2025. The feature will remain operational until the transition to Adobe Identity is complete. Single Sign-On for Adobe Identity in the Adobe Admin Console must be configured separately. For setup steps, see [Set up identity and Single Sign-On](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **Deprecation of _Forward to a Friend_ Feature**: On September 29, 2025, the _Forward to a Friend_ feature in Marketo Engage 2.0 emails (the legacy email editor) will be completely deprecated for all subscriptions. This affects the 'Forward to a Friend' token and 'Forward to a Friend' links in emails that have already been or will be sent using the token. [Learn more](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
+* **Deprecation of _Forward to a Friend_ Feature**: On September 29, 2025, the _Forward to a Friend_ feature in Marketo Engage 2.0 emails (the legacy email editor) was completely deprecated for all subscriptions. This affected the 'Forward to a Friend' token and 'Forward to a Friend' links in emails that have already been or were scheduled to be sent using the token. [Learn more](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
 * **Rest API 'access_token' Parameter Deprecation**: The `access_token` query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after January 31, 2026. All new and existing integrations should authenticate REST API calls using the 'Authorization' header, [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
