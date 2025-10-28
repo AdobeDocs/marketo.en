@@ -26,7 +26,7 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>Template Importer</strong>: Import email templates from the classic email editor to create  templates compatible with the New Email Designer in the Design Studio.</td>
+   <td><strong>Email Designer - Template Importer</strong>: Import email templates from the classic email editor to create  templates compatible with the New Email Designer in the Design Studio.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
