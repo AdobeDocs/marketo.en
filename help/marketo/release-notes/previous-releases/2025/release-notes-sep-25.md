@@ -26,8 +26,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>On-Demand Webinar Activity Retention</strong>: Interactive Webinars users now have On-demand Webinar Dashboard data available for more than 30 days (previously it was only up to 30 days from the day of the webinar).</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Manual sync</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>
