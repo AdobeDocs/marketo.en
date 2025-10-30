@@ -5,12 +5,13 @@ title: Template import
 description: Learn how to import your existing email templates from the classic editor into the new Email Designer.
 level: Beginner, Intermediate
 feature: Email Designer
+badge: Beta
 hide: yes
 hidefromtoc: yes
 ---
 # Template import {#template-import}
 
-Seamlessly import your existing email templates from the classic editor into the new Email Designer, preserving your designs and accelerating template creation with familiar, reusable structures.
+Seamlessly import your existing email templates from the classic editor into the new Email Designer, preserving your designs and accelerating template creation with familiar, reusable structures. Review [best practices](#best-practices) and learn about [limitations and remedies](#limitations-and-remedies).
 
 1. Go to the **Design Studio**.
 
@@ -71,6 +72,8 @@ It is a good idea to create fragments of repeatable sections for later use.
 * After import, you can save reusable sections as fragments and approve them for use by email authors. Apply brand themes to maintain consistency and compliance.
 
 * You can continue using Velocity scripting, and consider reimplementing older snippets using a combination of fragments and conditional content for improved flexibility and control.
+
+## Limitations and remedies {#limitations-and-remedies}
 
 <table><thead>
   <tr>
