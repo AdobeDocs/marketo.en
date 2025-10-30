@@ -89,6 +89,8 @@ The following features fall under the standard release cycle and will start to b
 
 ## Announcements {#announcements}
 
+* **Salesforce CRM Integration Upgrade**: A new version of the native CRM integration will be deployed to active sandboxes that have the native connector enabled over the course of seven days, beginning November 13, 2025. Get full details in [this Nation post](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
+
 * **REST API Double Slash Deprecation**: On September 16, 2025, Adobe transitioned to a more modern hosting infrastructure for REST API URLs that leverages newer technology, adding security and scalability. If your subscription has been using APIs with a double forward slash (//) in the URL, please read [this Nation post](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} for next steps.
 
 * **Switching Back to Velocity Scripting in the new Email Designer**: Adobe Marketo Engage released a feature called _Conditional Content_ for the new Email Designer this past June. The feature was powered by Handlebar scripting instead of Velocity scripting, in an effort to provide a little more flexibility in your dynamic content. But when we discovered it was causing some tokens to be resolved incorrectly, we decided to temporarily disable it. [Learn More](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
