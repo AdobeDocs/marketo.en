@@ -13,14 +13,25 @@ feature: Release Information
 
 **Status**:
 
-* On Schedule - We're planning to release the features and enhancements on the indicated date
-* In Progress - We're in the process of rolling out the features of the release
-* Shipped - The release is complete
+* **On schedule** - We're planning to release the features and enhancements on the indicated date
+* **In progress** - We're in the process of rolling out the features of the release
+* **Shipped** - The release is complete
 
 _Release dates/features are subject to change_
 
 <table>
  <tbody>
+  <tr>
+   <th width="250px">Release</th>
+   <th width="250px">Release Date</th>
+   <th width="250px">Status</th>
+  </tr>
+  <tr>
+  <tr>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">May '25</a></td>
+   <td>May 23, 2025</td>
+   <td>Shipped</td>
+  </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">July '25</a></td>
    <td>July 11, 2025</td>
@@ -39,12 +50,11 @@ _Release dates/features are subject to change_
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">October '25</a></td>
    <td>October 31, 2025</td>
-   <td>In Progress</td>
+   <td>In progress</td>
   </tr>
-  <tr>
-   <td>January '26</td>
+  <td>January '26</td>
    <td>January 30, 2026</td>
-   <td>On Schedule</td>
+   <td>On schedule</td>
   </tr>
  </tbody>
 </table>
