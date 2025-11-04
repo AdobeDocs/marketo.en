@@ -3,8 +3,6 @@ description: Email collaboration - Marketo Docs - Product Documentation
 title: Email collaboration
 level: Beginner, Intermediate
 feature: Email Designer
-hide: yes
-hidefromtoc: yes
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
 ---
 # Email collaboration {#email-collaboration}

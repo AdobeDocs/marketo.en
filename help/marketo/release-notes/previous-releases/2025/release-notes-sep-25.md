@@ -35,16 +35,6 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Content Collaboration Workflow</strong>: You can now comment on and collaborate with fellow Marketo users within an email asset. Tag team members (Marketo users who have the appropriate asset permissions) and they will receive an email or pulse notification.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
    <td><strong>Email Designer - AI Assistant Permissions</strong>: Marketo Admins can provide specific users with access to GenAI features.</td>
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">Set up permissions</a></td>
@@ -65,9 +55,19 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
+   <td><strong>Email Designer - Content Collaboration Workflow</strong>: You can now comment on and collaborate with fellow Marketo users within an email asset. Tag team members (Marketo users who have the appropriate asset permissions) and they will receive an email or pulse notification.</td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration">Email collaboration</a></td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
    <td><strong>Email Designer - Redirect Fixes</strong>: Some users were experiencing redirect issues with URLs for emails created using the new Designer (e.g., directly pasting the URLs or bookmarking email assets did not always work). This issue has been resolved. Additionally, links to email assets from <b>Email Templates</b> > <b>Details</b> > <b>Used By</b> will redirect to the corresponding email asset.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
