@@ -57,7 +57,7 @@ The following features fall under the standard release cycle and will start to b
   <tr>
    <td><strong>Email Designer - Content Collaboration Workflow</strong>: You can now comment on and collaborate with fellow Marketo users within an email asset. Tag team members (Marketo users who have the appropriate asset permissions) and they will receive an email or pulse notification.</td>
    <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration">Email collaboration</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration.md">Email collaboration</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>
