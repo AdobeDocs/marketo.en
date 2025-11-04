@@ -11,39 +11,41 @@ hidefromtoc: yes
 ---
 # Template import {#template-import}
 
-Seamlessly import your existing email templates from the classic editor into the new Email Designer, preserving your designs and accelerating template creation with familiar, reusable structures. Review [best practices](#best-practices) and learn about [limitations and remedies](#limitations-and-remedies).
+Easily import your existing email templates from the classic editor into the new Email Designer, preserving your designs and accelerating template creation with familiar, reusable structures. Review [best practices](#best-practices) and learn about [limitations and remedies](#limitations-and-remedies).
+
+>[!NOTE]
+>
+>The classic email templates were developed using freestyle HTML, so this importer may not always import every component perfectly. Please review your imported templates to ensure all sections are editable and correctly mapped. If an area is not selectable, recreate it for best results.
+
+## Import a template {#import-a-template}
 
 1. Go to the **Design Studio**.
 
-   SCREENSHOT
+   ![](assets/import-template-1.png)
 
 1. Click **Email Templates** and select **Email Templates (New)**.
 
-   SCREENSHOT
+   ![](assets/import-template-2.png)
 
 1. Click **Create Template**.
 
-   SCREENSHOT
+   ![](assets/import-template-3.png)
 
 1. Enter a _Name_ and (optional) _Description_.
 
-   SCREENSHOT
+   ![](assets/import-template-4.png)
 
-1. Click the **Marketo Templates** and choose the existing Templates created in the classic email editor. 
+1. Click the **Marketo Templates** tab and choose from the existing Templates created in the classic email editor. 
 
-   SCREENSHOT
+   ![](assets/import-template-5.png)
 
    >[!NOTE]
    >
    >Only approved templates and templates that have been shared with the current workspace are available to import.
 
-1. Select the desired template.
+1. Click **Use this template**.
 
-   SCREENSHOT
-
-1. Click Use this template.
-
-   SCREENSHOT
+   ![](assets/import-template-6.png)
 
 1. The imported template opens in the Email Designer. 
 
@@ -55,19 +57,19 @@ It is a good idea to create fragments of repeatable sections for later use.
 
 1. Click the **...More** button on top and select **Save as fragment**.
 
-   SCREENSHOT
+   ![](assets/import-template-7.png)
 
 1. Select a component or structure and click **Create**.
 
-   SCREENSHOT
+   ![](assets/import-template-8.png)
 
 1. Enter a name (and optional description) and click **Save**.
 
-   SCREENSHOT
+   ![](assets/import-template-9.png)
 
 ## Best practices {#best-practices}
 
-* Since freestyle HTML can vary significantly, the importer may not always interpret every component perfectly. Review your imported templates to ensure all sections are editable and correctly mapped. If a part is not selectable, simply recreate that section for the best results.
+* The classic email templates were developed using freestyle HTML, so this importer may not always import every component perfectly. Please review your imported templates to ensure all sections are editable and correctly mapped. If an area is not selectable, recreate it for best results.
 
 * After import, you can save reusable sections as fragments and approve them for use by email authors. Apply brand themes to maintain consistency and compliance.
 
@@ -107,7 +109,7 @@ It is a good idea to create fragments of repeatable sections for later use.
   <tr>
     <td>Bullet points are not natively supported.</td>
     <td>The Email Designer does not offer bullet points at this time.</td>
-    <td>Consider reimplementing bullets using alternative techniques.</td>
+    <td>Consider recreating bullets using alternate techniques.</td>
   </tr>
   <tr>
     <td>Vertical alignment is distorted where the container's content does not respect the valign attribute value.</td>
@@ -135,8 +137,8 @@ It is a good idea to create fragments of repeatable sections for later use.
     <td>It is recommended to test your email using the <b>Send proof</b> option in the <i>Simulate content</i> screen.</td>
   </tr>
   <tr>
-    <td>The snippets in the old template will not function in the Email Designer.</td>
+    <td>Snippets in the old template will not function in the Email Designer.</td>
     <td>The Email Designer does not support snippets.</td>
-    <td>Reimplement your snippets as fragments coupled with conditional content.</td>
+    <td>Recreate your snippets as fragments coupled with conditional content.</td>
   </tr>
 </tbody></table>
