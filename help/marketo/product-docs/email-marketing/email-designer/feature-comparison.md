@@ -256,21 +256,21 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Coming Soon</td>
   </tr>
   <tr>
-    <td>Content Approval Workflows</td>
-    <td>Ability to introduce approval workflows for emails within Marketo Engage.</td>
-    <td>Not Available</td>
-    <td>Planned for Q4 '25</td>
-  </tr>
-  <tr>
     <td>Brand Kit</td>
     <td>Ability to improve emails reflecting the brand guidelines.</td>
     <td>Not Available</td>
-    <td>Planned for Q1 '26</td>
+    <td>Coming Soon</td>
   </tr>
   <tr>
     <td>Experimentation (A/B Testing)</td>
     <td>Ability to test emails before sending them out to your audience.</td>
     <td>Available</td>
+    <td>Coming Soon</td>
+  </tr>
+  <tr>
+    <td>Content Approval Workflows</td>
+    <td>Ability to introduce approval workflows for emails within Marketo Engage.</td>
+    <td>Not Available</td>
     <td>TBD</td>
   </tr>
   <tr>
