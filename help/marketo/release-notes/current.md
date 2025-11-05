@@ -27,8 +27,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Template Importer (Beta)</strong>: Import email templates from the classic email editor to create  templates compatible with the New Email Designer in the Design Studio.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Template import</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>

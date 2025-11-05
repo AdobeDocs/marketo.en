@@ -202,6 +202,12 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Available by Reference of Assets</td>
   </tr>
   <tr>
+    <td>Email Template Converter</td>
+    <td>Ability to <a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">import existing Marketo templates</a> into the new Email Designer.</td>
+    <td>Not needed</td>
+    <td>Available</td>
+  </tr>
+  <tr>
     <td>Drag and Drop on Canvas</td>
     <td>Ability to drag and drop structure and content onto the canvas.</td>
     <td>Modules only</td>
@@ -235,12 +241,6 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Support for Move, Delete, and Import of Programs with email assets</td>
     <td>Ability to move, delete, and import Email Programs along with email assets.</td>
     <td>Available</td>
-    <td>Coming soon</td>
-  </tr>
-  <tr>
-    <td>Marketo Template Converter/Import</td>
-    <td>Ability to convert existing Marketo templates to suit the New Email Designer.</td>
-    <td>Not needed</td>
     <td>Coming soon</td>
   </tr>
   <tr>

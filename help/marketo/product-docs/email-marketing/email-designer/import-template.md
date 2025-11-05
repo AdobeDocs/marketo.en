@@ -6,8 +6,6 @@ description: Learn how to import your existing email templates from the classic 
 level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta
-hide: yes
-hidefromtoc: yes
 ---
 # Template import {#template-import}
 
