@@ -80,8 +80,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Clone Email Action</strong>: You can now clone an email into another program folder in Marketing Activities and quickly reuse existing emails.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
