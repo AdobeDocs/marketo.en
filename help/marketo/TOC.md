@@ -1024,6 +1024,7 @@ feature-set: Marketo Engage
       + [Email Authoring](product-docs/email-marketing/email-designer/email-authoring.md)
       + [Email Template Authoring](product-docs/email-marketing/email-designer/email-template-authoring.md)
       + [Import a Template](product-docs/email-marketing/email-designer/import-template.md)
+      + [Convert Images to HTML Templates](product-docs/email-marketing/email-designer/image-to-html.md)
       + [Design Accessible Content](product-docs/email-marketing/email-designer/accessible-content.md)
       + [Custom CSS](product-docs/email-marketing/email-designer/custom-css.md)
       + [Brand Themes](product-docs/email-marketing/email-designer/brand-themes.md)
