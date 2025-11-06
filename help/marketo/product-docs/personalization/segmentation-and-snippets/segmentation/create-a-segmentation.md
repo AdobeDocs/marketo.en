@@ -9,13 +9,13 @@ feature: Segmentation
 
 Segmentation allows you to group people into distinct profiles for reporting and dynamic content. Here's how to create them.
 
-1. Go to **[!UICONTROL Database]**.
+1. Go to your **[!UICONTROL Database]**.
 
-   ![](assets/image2017-3-28-13-3a44-3a54.png)
+   ![](assets/create-a-segmentation-1.png)
 
 1. Click **[!UICONTROL New]** and then **[!UICONTROL New Segmentation]**.
 
-   ![](assets/image2017-3-28-13-3a56-3a57.png)
+   ![](assets/create-a-segmentation-2.png)
 
    >[!TIP]
    >
@@ -23,7 +23,7 @@ Segmentation allows you to group people into distinct profiles for reporting and
 
 1. Enter a **[!UICONTROL Name]**, click **[!UICONTROL Add Segment]** and name it.
 
-   ![](assets/image2014-9-15-10-3a1-3a1.png)
+   ![](assets/create-a-segmentation-3.png)
 
    >[!NOTE]
    >
@@ -31,7 +31,7 @@ Segmentation allows you to group people into distinct profiles for reporting and
 
 1. Add as many segments as you want (up to 100).
 
-   ![](assets/image2014-9-15-10-3a1-3a16.png)
+   ![](assets/create-a-segmentation-4.png)
 
    >[!CAUTION]
    >
@@ -41,7 +41,7 @@ Segmentation allows you to group people into distinct profiles for reporting and
 
 1. Drag and drop the Segments around to change their order. Once done, click on **[!UICONTROL Create]**.
 
-   ![](assets/image2014-9-15-10-3a1-3a30.png)
+   ![](assets/create-a-segmentation-5.png)
 
    >[!NOTE]
    >
