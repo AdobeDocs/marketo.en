@@ -11,18 +11,16 @@ If you've  [added an A/B testing](/help/marketo/product-docs/email-marketing/ema
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/cancel-the-a-b-test-1.png)
 
 1. Select your email program.
 
-   ![](assets/selectemailprogram-1.jpg)
+   ![](assets/cancel-the-a-b-test-2.png)
 
 1. Under the **[!UICONTROL Email]** tile, click **[!UICONTROL Remove A/B Test]**.
 
-   ![](assets/image2015-5-6-14-3a27-3a58.png)
+   ![](assets/cancel-the-a-b-test-3.png)
 
    >[!NOTE]
    >
    >Your email program must be unapproved before you can remove the A/B test. See [Approve/Unapprove an Email Program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) for details.
-
-Easy peasy!

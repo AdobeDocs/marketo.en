@@ -18,21 +18,21 @@ Testing is a great way to optimize your emails for better engagement. Here's how
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/add-an-a-b-test-1.png)
 
 1. Select your email program.
 
-   ![](assets/selectemailprogram.jpg)
+   ![](assets/add-an-a-b-test-2.jpg)
 
 1. Under the **[!UICONTROL Email]** tile, click **[!UICONTROL Add A/B Test]**.
 
-   ![](assets/image2014-9-12-14-3a39-3a29.png)
+   ![](assets/add-an-a-b-test-3.png)
 
    >[!NOTE]
    >
    >When adding an A/B test, the selected email will no longer be available for use in any other program.
 
-1. A new window will pop open with different **Test Types** to choose from. Explore one of the Related Articles below to continue.
+1. A new window opens with different **Test Types** to choose from. Explore one of the Related Articles below to continue.
 
    >[!CAUTION]
    >
