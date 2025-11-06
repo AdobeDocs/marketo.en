@@ -19,7 +19,7 @@ Leveraging generative AI technology, the image to HTML converter analyzes the la
 >[!PREREQUISITES]
 >
 >* You must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} for using the Gen-AI functionality in the Email Designer. Contact the Adobe Account Team (your account manager) for details.
->* You must have _Access NAME_ as well as _Access Email Template_ permissions enabled [in your Marketo role](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* You must have _Access Email Template_ as well as _Edit/Generate Email Template_ permissions enabled [in your Marketo role](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Convert an image {#convert-an-image}
 
@@ -40,14 +40,6 @@ To convert an image into a fully customizable HTML email template, follow the st
 1. Enter a _Template name_ and optional description. Also optionally, you can choose your brand styling. Upload or drag and drop the desired image.
 
    ![](assets/image-to-html-3.png)
-
-   DEEPTHI CAN I DELETE THIS CAUTION TAG...
-    
-   >[!CAUTION]
-   >
-   >When you upload an image for conversion, **all content currently added in the email will be deleted and replaced** with the generated template. If you have existing content in your email, make sure to save it before proceeding with the image conversion.
-
-   DEEPTHI CAN I DELETE THIS CAUTION TAG^^^
 
 1. Scroll down and select the _The upload file does not contain..._ checkbox. Click **Convert**.
 
