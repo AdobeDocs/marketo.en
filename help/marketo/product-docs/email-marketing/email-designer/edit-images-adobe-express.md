@@ -103,7 +103,7 @@ The features are accessible on the left side of the image page.
 
 1. Make your desired changes and click **Apply** when done.
 
-![Resize image window shhowing all available options](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![Resize image window showing all available options](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
