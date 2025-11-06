@@ -19,35 +19,35 @@ Once you have added an A/B test to an email program and defined the winner crite
 
 1. Select the **[!UICONTROL Send Test]** date.
 
-![](assets/image2014-9-12-15-3a59-3a54.png)
+![](assets/schedule-the-a-b-test-1.png)
 
 1. Select the **[!UICONTROL Send Test]** time.
 
-   ![](assets/image2014-9-12-16-3a0-3a2.png)
+   ![](assets/schedule-the-a-b-test-2.png)
 
    >[!NOTE]
    >
    >Send Test and Send Winner must be at least 4 hours apart. However, for larger sends you may want to wait 24 hours to allow enough time to get good results.
 
-1. Do the same thing for **[!UICONTROL Send Winner]**. Enter notification recipients (optional) and click **[!UICONTROL Next]**.
+1. Repeat steps 1 and 2 for _Send Winner_. Enter notification recipients (optional) and click **[!UICONTROL Next]**.
 
    >[!NOTE]
    >
    >Only the test group will receive the test variants.
 
-   ![](assets/image2014-9-12-16-3a0-3a12.png)
+   ![](assets/schedule-the-a-b-test-3.png)
 
    >[!NOTE]
    >
    >If you chose to declare a winner manually, you will define **Report Send** date/time instead of **Finish Mailing** date/time.
 
-   Super! You're done, just review the summary and click **[!UICONTROL Close]**.
+1. Review the summary and click **[!UICONTROL Close]**.
 
-   ![](assets/image2014-9-12-16-3a1-3a23.png)
+   ![](assets/schedule-the-a-b-test-4.png)
 
    You'll notice the **[!UICONTROL Schedule]** tile is now updated.
 
-   ![](assets/image2014-9-12-16-3a1-3a33.png)
+   ![](assets/schedule-the-a-b-test-5.png)
 
    >[!NOTE]
    >

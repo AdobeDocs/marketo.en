@@ -17,7 +17,7 @@ When [adding an A/B test](/help/marketo/product-docs/email-marketing/email-progr
 
 1. The default **[!UICONTROL Winner Criteria]** options are listed first.
 
-   ![](assets/image2014-9-12-15-3a51-3a3.png)
+   ![](assets/define-the-a-b-test-winner-criteria-1.png)
 
    <table>
    <tr>
@@ -44,35 +44,33 @@ When [adding an A/B test](/help/marketo/product-docs/email-marketing/email-progr
 
 1. You can also customize your criteria by selecting **[!UICONTROL Custom Conversion]** and clicking **[!UICONTROL Edit]**.
 
-   ![](assets/image2014-9-12-15-3a51-3a53.png)
+   ![](assets/define-the-a-b-test-winner-criteria-2.png)
 
    >[!NOTE]
    >
    >Custom Conversion allows you to pick any event as a conversion by using triggers and filters.
 
-1. A window will pop open. Find the trigger of your choice and drag it into the canvas.
+1. A window opens. Find the trigger of your choice and drag it into the canvas.
 
-   ![](assets/image2014-9-12-15-3a52-3a18.png)
+   ![](assets/define-the-a-b-test-winner-criteria-3.png)
 
 1. Define the trigger.
 
-   ![](assets/image2014-9-12-15-3a53-3a11.png)
+   ![](assets/define-the-a-b-test-winner-criteria-4.png)
 
    >[!IMPORTANT]
    >
    >Marketo only allows triggers/filters for people who have been sent the email from this email program, so there's no need to add a 'Was Sent Email' filter. Additionally, when using an email-related trigger/filter, be sure to use "is any" as the operator.
 
-1. Click **[!UICONTROL Close]**.
+1. Close the new window (or tab) that opened. The Smart List auto-saves.
 
-   ![](assets/image2014-9-12-15-3a53-3a36.png)
-
-   Great! Now it's time to decide how the winner is determined.
+Now it's time to decide how the winner is determined.
 
 ## Declare Winner {#declare-winner}
 
 1. Pick one of the two available options.
 
-   ![](assets/image2014-9-12-15-3a53-3a44.png)
+   ![](assets/define-the-a-b-test-winner-criteria-5.png)
 
    >[!NOTE]
    >
@@ -82,10 +80,10 @@ When [adding an A/B test](/help/marketo/product-docs/email-marketing/email-progr
 
 1. Automatic is awesome and is the default option. Just click **[!UICONTROL Next]**.
 
-   ![](assets/image2014-9-12-15-3a54-3a35.png)
+   ![](assets/define-the-a-b-test-winner-criteria-6.png)
 
    >[!TIP]
    >
    >Choosing **[!UICONTROL Manual]** will send the test out and wait for you to declare a winner. You will receive a report of the results.
 
-Perfect! Now let's [schedule the A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
+Now let's [schedule the A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
