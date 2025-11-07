@@ -22,7 +22,7 @@ Notifications keep you up to date on system events happening in your Marketo Eng
 
 You can subscribe to notifications to receive them in your email.
 
-1. In the _Notifications_ screen click **[!UICONTROL Subscribe]**.
+1. In the _Notifications_ screen, click **[!UICONTROL Subscribe]**.
 
    ![](assets/understanding-notifications-3.png)
 
@@ -32,7 +32,7 @@ You can subscribe to notifications to receive them in your email.
 
 >[!NOTE]
 >
->The **[!UICONTROL Send to]** box is only for you to enter an email address; it will not show a list of existing subscribers.
+>The _[!UICONTROL Send to]_ box is only for you to enter an email address; it will not show a list of existing subscribers.
 
 In some cases, a notification provides a "See the full list" link to download a comma-separated-value (CSV) file, for example, the Microsoft Dynamics Sync Errors file. Marketo Engage retains these CSV files for 30 days. If you attempt to download the file after 30 days, you'll get a 404 error.
 
