@@ -47,7 +47,7 @@ To convert an image into a fully customizable HTML email template, follow the st
     >
     >The generation process can take up to five minutes depending on the complexity and size of your image design. The AI processing happens in the background, so you can navigate away from this screen and work on other tasks while the conversion is in progress. You may need to refresh the _Email template_ library screen to see the status change.
 
-1. After the conversion is complete, your template is automatically saved as a draft. Select it..
+1. After the conversion is complete, your template is automatically saved as a draft. Click its name to view/edit.
 
    ![](assets/image-to-html-5.png)
 
