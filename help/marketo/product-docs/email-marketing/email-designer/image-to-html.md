@@ -1,6 +1,6 @@
 ---
-title: GenStudio Integration for Marketo Engage
-description: Learn how to use GenStudio in Marketo Engage.
+title: Convert images to HTML templates
+description: Use this no-code tool to transform an image into an editable email template.
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
