@@ -26,7 +26,7 @@ Conditional content allows you dynamically control what content is seen by which
 
    ![](assets/conditional-content-2.png)
 
-1. The box becomes orange. On the left, click the _Select condition icon_ to define your variant.
+1. The box becomes orange. On the left, click the _Select condition_ icon to define your variant.
 
    ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
