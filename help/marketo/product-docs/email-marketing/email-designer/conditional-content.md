@@ -5,8 +5,6 @@ title: Conditional content
 description: Use conditional content in your emails to dynamicly display content depending on the recipient.
 level: Beginner, Intermediate
 feature: Email Designer
-hide: yes
-hidefromtoc: yes
 ---
 # Conditional content {#conditional-content}
 

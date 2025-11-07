@@ -227,9 +227,9 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
   </tr>
   <tr>
     <td>Dynamic Content/Conditional Content</td>
-    <td>Ability to create variants of emails based on the target audience.</td>
+    <td>Ability to <a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">create variants</a> within emails based on the target audience.</td>
     <td>Available</td>
-    <td>Coming soon</td>
+    <td>Available</td>
   </tr>
   <tr>
     <td>Image to HTML</td>

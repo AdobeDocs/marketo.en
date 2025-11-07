@@ -37,8 +37,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Conditional Content</strong>: Parity feature for the new Email Designer, allowing you to achieve email personalization beyond tokens.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Conditional content</a></td>
   </tr>
   <tr>
   <tr>
