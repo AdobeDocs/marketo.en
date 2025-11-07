@@ -20,15 +20,15 @@ Conditional content allows you dynamically control what content is seen by which
 
 1. Open the desired email and click **Edit email content**.
 
-   ![](assets/conditional-content-1.png){width="800" zoomable="yes"}
+   ![](assets/conditional-content-1.png)
 
 1. Select the content you want to be conditional (in this example, we're choosing the header image). Click the _Enable conditional content_ icon.
 
    ![](assets/conditional-content-2.png)
 
-1. The box becomes orange. On the left, click the _Select condition icon_ () to define your variant.
+1. The box becomes orange. On the left, click the _Select condition icon_ to define your variant.
 
-   ![](assets/conditional-content-3.png)
+   ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
 1. Choose the desired segment and click **Select**.
 
@@ -40,11 +40,11 @@ Conditional content allows you dynamically control what content is seen by which
 
 1. Choose the applicable image and click **Select**.
 
-   ![](assets/conditional-content-6.png)
+   ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
 1. The new image appears. It is a good idea to rename your variant to make it easier to identify.
 
-   ![](assets/conditional-content-7.png)
+   ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 
 1. To add additional variants (optional), click **Add variant** and follow the same steps.
 
