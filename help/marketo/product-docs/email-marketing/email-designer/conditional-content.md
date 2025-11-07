@@ -40,7 +40,7 @@ Conditional content allows you dynamically control what content is seen by which
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. The new image appears. It is a good idea to rename your variant to make it easier to identify. Simply click the ellipsis and select **Rename**.
+1. The new image appears. It is a good idea to rename your variant to make it easier to identify. Click the ellipsis and select **Rename**.
 
    >[!NOTE]
    >
