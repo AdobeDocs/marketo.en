@@ -220,12 +220,6 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Drag and Drop Fragment</td>
   </tr>
   <tr>
-    <td>Global Themes</td>
-    <td>Ability to apply approved themes across the organization to ensure consistency in elements such as style, color, font size, etc.</td>
-    <td>Not Available</td>
-    <td>Coming soon</td>
-  </tr>
-  <tr>
     <td>Dynamic Content/Conditional Content</td>
     <td>Ability to <a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">create variants</a> within emails based on the target audience.</td>
     <td>Available</td>
@@ -233,9 +227,9 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
   </tr>
   <tr>
     <td>Image to HTML</td>
-    <td>Ability to convert an image to HTML to then use to create emails.</td>
+    <td>Ability to <a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">convert an image to HTML</a> to then use to create emails.</td>
     <td>Not Available</td>
-    <td>Coming soon</td>
+    <td>Available</td>
   </tr>
   <tr>
     <td>Support for Move, Delete, and Import of Programs with email assets</td>
@@ -260,6 +254,12 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Ability to improve emails reflecting the brand guidelines.</td>
     <td>Not Available</td>
     <td>Coming Soon</td>
+  </tr>
+  <tr>
+    <td>Global Themes</td>
+    <td>Ability to apply approved themes across the organization to ensure consistency in elements such as style, color, font size, etc.</td>
+    <td>Not Available</td>
+    <td>Coming soon</td>
   </tr>
   <tr>
     <td>Experimentation (A/B Testing)</td>

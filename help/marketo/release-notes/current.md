@@ -41,6 +41,25 @@ The following features fall under the standard release cycle and will start to b
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Conditional content</a></td>
   </tr>
   <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+ <tr>
+   <td><strong>Email Designer - Image to HTML Converter</strong>: Upload a compliant PNG/JPEG image file of an email and it will automatically be converted into HTML for use in the new Email Designer.</td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Convert images to HTML templates</a></td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Clone Email Action</strong>: You can now clone an email into another program folder in Marketing Activities and quickly reuse existing emails.</td>
+   <td>Shipped</td>
+   <td>n/a</td>
+  </tr>
   <tr>
    <td>&nbsp;</td>
    <td>&nbsp;</td>
@@ -52,7 +71,6 @@ The following features fall under the standard release cycle and will start to b
    <td><i>Coming Soon</i></td>
   </tr>
   <tr>
-  <tr>
    <td>&nbsp;</td>
    <td>&nbsp;</td>
    <td>&nbsp;</td>
@@ -61,27 +79,6 @@ The following features fall under the standard release cycle and will start to b
    <td><strong>Email Designer - Brand Themes</strong>: You can now define brand themes within Marketo Engage. Styling configurations can be reused and applied across email templates and other email assets for brand consistency.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
- <tr>
-   <td><strong>Email Designer - Image to HTML Converter</strong>: Upload a compliant PNG/JPEG image file of an email and it will automatically be converted into HTML for use in the new Email Designer.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Clone Email Action</strong>: You can now clone an email into another program folder in Marketing Activities and quickly reuse existing emails.</td>
-   <td>Shipped</td>
-   <td>n/a</td>
   </tr>
   </tbody>
 </table>

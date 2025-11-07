@@ -5,8 +5,6 @@ solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-hide: yes
-hidefromtoc: yes
 ---
 # Convert images to HTML templates {#image-to-html}
 

@@ -24,7 +24,7 @@ Conditional content allows you dynamically control what content is seen by which
 
    ![](assets/conditional-content-2.png)
 
-1. The box becomes orange. On the left, click the _Select condition_ icon to define your variant.
+1. The highlight box becomes orange. On the left, click the _Select condition_ icon (![](assets/icon-select-condition.png)) to define your variant.
 
    ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
@@ -40,7 +40,11 @@ Conditional content allows you dynamically control what content is seen by which
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. The new image appears. It is a good idea to rename your variant to make it easier to identify.
+1. The new image appears. It is a good idea to rename your variant to make it easier to identify. Simply click the ellipsis and select **Rename**.
+
+   >[!NOTE]
+   >
+   >Clicking the ellipsis also allows you to view the defined condition of the variant, as well as duplicate it. If you have more than one variant, a delete option becomes available. If you only have one variant, the way to delete it is to simply reclick the _Enable conditional content_ icon (it will now say _Disable conditional content_ when you hover over it).
 
    ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 
