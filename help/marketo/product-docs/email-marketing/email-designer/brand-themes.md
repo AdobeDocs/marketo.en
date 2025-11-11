@@ -19,132 +19,134 @@ This feature empowers marketers to leverage visually appealing, brand-consistent
 
 * When creating an email from scratch, you can choose to start building your content using a theme to quickly apply a specific styling that fits your brand and design. If you choose the Classic mode, you won't be able to apply any themes unless you reset your email.
 
-* Fragments are not cross-compatible between the Theme and Classic modes. To be able to use a fragment in a content where a theme is applied, this fragment must be created in Theme mode.
+* Fragments are not cross-compatible between the Theme and Classic modes. To be able to use a fragment in a content where a theme is applied, it must be created in Theme mode.
 
-* Updating the themes will not automatically cascade to all assets using them. Users need to edit individual objects to refresh the theme.
+* Updating a theme will not automatically cascade to all assets using them. You would need to edit individual objects to refresh the theme.
 
-* When themes are deleted, it will not affect the assets using them.
+* When themes are deleted, it does not affect the assets using them.
 
-## Creating Brand Themes
+## Create a Brand Theme {#create-a-brand-theme}
 
-Creation of brand themes is available in the template selection panel within the editor. You can reach this panel as you are creating a new template, or within Change Design from inside the editor.
+1. Follow the steps to [create an email template](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
-SCREENSHOT
+1. In the _Design your template_ screen, select **Create or edit themes**.
 
-Click on Change your design.
+   ![](assets/brand-themes-1.png)
 
-SCREENSHOT
+1. Select the Default theme as the basis to create from the ground up and click **Create**.
 
-Click on Create or edit themes
+   ![](assets/brand-themes-2.png)
 
-SCREENSHOT
+1. The canvas opens for you to edit different parts of the theme.
 
-Select the Default Theme as the basis to create from ground up and click on Create. The theme will have elements of all types of text, buttons and containers for you to see the changes as you go about setting the theme.
+   ![](assets/brand-themes-3.png)
 
-Note: You can edit existing themes using Custom Themes radio button.
+## Settings
 
-SCREENSHOT
+All settings options can be accessed via the icons on the right. Let's review each one.
 
-The canvas opens for you to edit different parts of the theme.
-
-SCREENSHOT
+   ![](assets/brand-themes-4.png)
 
 ### General settings {#general-settings}
 
 Name the theme and adjust viewport size.
 
-SCREENSHOT
+   ![](assets/brand-themes-5.png)
 
-### Color settings {#color-settings}
+### Colors {#colors}
 
-Next, adjust color palette on the right rail.
+As you make color tweaks, observe the changes taking effect on the main panel.
 
-Note: As you make changes, observe the changes take effect on the main panel.
+   ![](assets/brand-themes-6.png)
 
-SCREENSHOT
+>[!NOTE]
+>
+>A set of swatches is already configured for you based on the default theme.
 
-Edit the color palette.
+Click **Edit**.
 
-Note that a set of swatches already configured for you based on the default theme.
+   ![](assets/brand-themes-7.png)
 
 You can choose from a presets or individually configure each color in the set. Choosing the palette makes these colors accessible under the different color settings later on.
 
-SCREENSHOT
+   ![](assets/brand-themes-8.png)
 
-After configuring the presets, click on back symbol.
+When you're done editing, click the back arrow (![back arrow icon](assets/icon-back-arrow.png)) to return.
 
-Edit the variant next using the pencil symbol next to Variant 1.
+To edit a variant, click its pencil icon.
 
-Note: You can create upto 6 variants.
+   ![](assets/brand-themes-.png)
 
-SCREENSHOT
+>[!NOTE]
+>
+>You can create up to six variants.
 
-On the editing panel, you can set colors for different elements.
+Multiple elements are available to customize.
 
-SCREENSHOT
+   ![](assets/brand-themes-.png)
 
-The settings are groups under the following broad headings.
+Variant settings are grouped in the following categories:
 
-General
-Headings
-Paragraphs
-Buttons
+* General
+* Headings
+* Paragraphs
+* Buttons
 
-### General NAME settings {#general-name-settings}
+**General**
 
-These settings allow you to set colors for body, structures, backgrounds, containers, grids, images and the like.
+These settings allow you to set colors for body, structures, backgrounds, containers, images, and more.
 
-SCREENSHOT
+   ![](assets/brand-themes-.png)
 
-### Heading {#heading}
+**Heading**
 
-This section is purely for text of the type Heading, where you can set Text and Border colors of each Heading type.  You can set headings of 6 font sizes.
+Set text and border colors of each heading type, from Heading 1 to Heading 6.
 
-SCREENSHOT
+   ![](assets/brand-themes-.png)
 
-### Paragraph {#paragraph}
+**Paragraph**
 
-This section is purely for text of the type Paragraph, where you can set Text and Border colors of each Paragraph type.  You can set 3 presets of paragraph settings.
+Set text and border colors of up to three paragraph types.
 
-SCREENSHOT
+   ![](assets/brand-themes-.png)
 
-### Buttons {#buttons}
+**Buttons**
 
-This section is purely for Buttons for Fill color, Border color and Text color.  You can set 3 presets of button settings - called Primary, Secondary and Tertiary.
+Set fill, border, and text color for three different button types: Primary, Secondary, and Tertiary.
 
-SCREENSHOT
+   ![](assets/brand-themes-.png)
 
 ### Text settings {#text-settings}
 
-Under this, you can set the font types and sizes for Global, Headings and Paragraphs.
+Set font types and sizes for global, headings, and paragraphs.
 
-SCREENSHOT
+   ![](assets/brand-themes-.png)
 
-### Global text settings {#global-text-settings}
+**Global**
 
 Under Global text settings, choose Form library between Standard and Google font libraries.
 
-SCREENSHOT
+   ![](assets/brand-themes-.png)
 
 Under Standard, choose from a different font families.
 
-SCREENSHOT
+   ![](assets/brand-themes-.png)
 
 Similarly, under Google Fonts will show you options to choose from the fonts supported respectively.
 
-### Heading text settings {#heading-text-settings}
+**Headings**
 
 Here you can set font library, family, size, text style and text alignments for the different heading types.
 
 SCREENSHOT
 
-### Paragraph text settings {#paragraph-text-settings}
+**Paragraphs**
 
 Here you can set font library, family, size, text style and text alignments for the different paragraph presets.
 
 SCREENSHOT
 
-### Spacing settings {#spacing-settings}
+### Spacing and border {#spacing-and-border}
 
 Under this, you can set the padding and margin for different types of structure or button.  Choose the type in the first drop down and then continue to set Padding and/or Margin for that element. Repeat this one by one as applicable.
 
