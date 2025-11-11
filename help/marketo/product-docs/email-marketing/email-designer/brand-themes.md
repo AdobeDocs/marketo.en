@@ -1,8 +1,8 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TITLE
-description: DESCRIPTION.
+title: Brand Themes
+description: Learn how to create and manage your brand guidelines.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: yes
@@ -75,17 +75,13 @@ When you're done editing, click the back arrow (![back arrow icon](assets/icon-b
 
 To edit a variant, click its pencil icon.
 
-   ![](assets/brand-themes-.png)
+   ![](assets/brand-themes-9.png)
 
 >[!NOTE]
 >
 >You can create up to six variants.
 
-Multiple elements are available to customize.
-
-   ![](assets/brand-themes-.png)
-
-Variant settings are grouped in the following categories:
+Multiple elements are available to customize. Variant settings are grouped in the following categories:
 
 * General
 * Headings
@@ -96,55 +92,49 @@ Variant settings are grouped in the following categories:
 
 These settings allow you to set colors for body, structures, backgrounds, containers, images, and more.
 
-   ![](assets/brand-themes-.png)
+   ![](assets/brand-themes-10.png)
 
 **Heading**
 
 Set text and border colors of each heading type, from Heading 1 to Heading 6.
 
-   ![](assets/brand-themes-.png)
+   ![](assets/brand-themes-11.png)
 
 **Paragraph**
 
 Set text and border colors of up to three paragraph types.
 
-   ![](assets/brand-themes-.png)
+   ![](assets/brand-themes-12.png)
 
 **Buttons**
 
 Set fill, border, and text color for three different button types: Primary, Secondary, and Tertiary.
 
-   ![](assets/brand-themes-.png)
+   ![](assets/brand-themes-13.png)
 
 ### Text settings {#text-settings}
 
 Set font types and sizes for global, headings, and paragraphs.
 
-   ![](assets/brand-themes-.png)
+   ![](assets/brand-themes-14.png)
 
 **Global**
 
-Under Global text settings, choose Form library between Standard and Google font libraries.
+Choose between Standard or Google font libraries and their respective font families.
 
-   ![](assets/brand-themes-.png)
-
-Under Standard, choose from a different font families.
-
-   ![](assets/brand-themes-.png)
-
-Similarly, under Google Fonts will show you options to choose from the fonts supported respectively.
+   ![](assets/brand-themes-15.png)
 
 **Headings**
 
-Here you can set font library, family, size, text style and text alignments for the different heading types.
+Set font library, family, size, text style, and text alignments for different heading types.
 
-SCREENSHOT
+   ![](assets/brand-themes-16.png)
 
 **Paragraphs**
 
-Here you can set font library, family, size, text style and text alignments for the different paragraph presets.
+Set font library, family, size, text style, and text alignments for different paragraph presets.
 
-SCREENSHOT
+   ![](assets/brand-themes-17.png)
 
 ### Spacing and border {#spacing-and-border}
 
