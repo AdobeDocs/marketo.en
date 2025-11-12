@@ -5,8 +5,6 @@ title: Brand Themes
 description: Learn how to create and manage your brand guidelines.
 level: Beginner, Intermediate
 feature: Email Designer
-hide: yes
-hidefromtoc: yes
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
 ---
 # Brand themes {#brand-themes}

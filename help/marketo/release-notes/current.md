@@ -36,6 +36,16 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
+   <td><strong>Email Designer - Brand Themes</strong>: You can now define brand themes within Marketo Engage. Styling configurations can be reused and applied across email templates and other email assets for brand consistency.</td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">Brand themes</a></td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
    <td><strong>Email Designer - Conditional Content</strong>: Parity feature for the new Email Designer, allowing you to achieve email personalization beyond tokens.</td>
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Conditional content</a></td>
@@ -67,16 +77,6 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - A/B Testing</strong>: Parity feature for the new Email Designer, allowing you to perform A/B tests to see which types of content receive the best response.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Brand Themes</strong>: You can now define brand themes within Marketo Engage. Styling configurations can be reused and applied across email templates and other email assets for brand consistency.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
