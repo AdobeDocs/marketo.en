@@ -38,7 +38,9 @@ In order to access the new Email Designer, your Marketo Engage subscription must
 
 +++
 
-## Available articles {#available-articles}
+## Popular articles {#popular-articles}
+
+### Getting started {#getting-started}
 
 * [Email authoring](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Learn how to create, design, and reference an email in the new editor.
 
@@ -46,21 +48,15 @@ In order to access the new Email Designer, your Marketo Engage subscription must
 
 * [Fragments](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}: Learn how to create and use visual content fragments as reusable components for emails and email templates.
 
-* [Customizable fragments](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: Learn how to customize fragments by making some of their fields editable.
+### New features {#new-features}
 
-* [Work with AEM assets](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Learn how to easily access your AEM digital assets for use in Marketo Engage.
+* [Image to HTML converter](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Upload a compliant PNG/JPEG image file of an email and it will automatically be converted into HTML for use in the new Email Designer.
 
-* [Edit Images with Adobe Express](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: Learn how to edit images in the Adobe Marketo Engage Email Editor using Adobe Express.
+* [Brand themes](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}: Define brand themes within Marketo Engage. Styling configurations can be reused and applied across email templates and other email assets for brand consistency.
 
-* [Use AI Assistant](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Leverage Adobe's generative AI technology to add helpful text and/or images to your emails.
+* [Template importer](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}: Import email templates from the classic email editor to create templates compatible with the New Email Designer in the Design Studio.
 
-* [Lock content in email templates](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Learn how to lock content in email templates, helping to prevent unintentional edits or deletions.
-
-* [Test Email Rendering with Litmus](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: Leverage your Litmus account in Marketo Engage to instantly see how your email renders in popular email clients.
-
-* [Spam Detection with SpamAssassin](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"}: Using SpamAssassin in Marketo Engage, you can test your email content and see the likelihood of ISPs/Mailbox providers marking it as spam.
-
-* [Feature comparison](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Compare the availability of features in the previous email editor (Email Editor 2.0) and the new Email Designer.
+* [Conditional content](/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md){target="_blank"}: Parity feature for the new Email Designer, allowing you to achieve email personalization beyond tokens.
 
 ## FAQ {#faq}
 
@@ -72,9 +68,9 @@ Yes, the old (classic) email editor will co-exist with the new Email Designer. E
 
 New Email Designer emails are accessible across all programs (with the lone exception of Interactive Webinar Programs). Cloning is available as well.
 
-**Will our existing email templates work in the new designer? If not, do we need to create templates using the new designer so all the sections/modules correspond to how we want our content to look?**
+**Will our existing email templates work in the new designer?**
 
-Email templates from the classic editor cannot be referenced in the new designer. You'll need to create new templates in the new designer. However, you _can_ import template HTML into the new designer, then make necessary tweaks. **Note**: Classic editor template compatibility with the new designer is coming soon.
+Yes, but they [need to be imported](/help/marketo/product-docs/email-marketing/email-designer/import-template.md).
 
 **Can I easily move new designer assets to a different program?**
 
@@ -86,7 +82,7 @@ Assets being edited via API is not supported in the new Email Designer at this t
 
 **Is there a way to enforce branding (fonts, logos, and colors)?**
 
-Locking content sections are part of the new designer, and locking styling, colors, etc., is coming soon.
+Yes! Create and manage your brand guidelines with [brand themes](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md).
 
 **Will making modules for templates be more customizable and scalable?**
 
@@ -94,15 +90,11 @@ Yes, absolutely, more customizable with our WYSIWYG(what-you-see-is-what-you-get
 
 **How does the email template creation process work in the new designer? Is it WYSIWYG, or does it require HTML knowledge?**
 
-It is WYSIWYG; HTML knowledge is not necessary. You can easily create templates in the designer, reducing the need for external web developers. However, you still have the option to update CSS and edit individual sections via HTML. We are also working on a way to easily migrate templates from the classic editor to the new designer.
+It is WYSIWYG; HTML knowledge is not necessary. You can easily create templates in the designer, reducing the need for external web developers. However, you still have the option to update CSS and edit individual sections via HTML.
 
 **Does the new Email Designer support AMP language?**
 
 It does not have support for AMP at this time.
-
-**The dynamic content by attribute is great, but does the dynamic content by segment still work?**
-
-Currently, the new designer only supports attributes, but we are working on getting segments added in a future release.
 
 **How can I tell if our Marketo Engage subscription has been migrated to IMS (the Adobe Admin Console)?**
 
