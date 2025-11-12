@@ -88,7 +88,7 @@ The fragment status determines its availability for use in an email or email tem
 </tbody>
 </table>
 
-## Create fragments {#create-fragments}
+## Create a fragment {#create-a-fragment}
 
 1. To create a new visual fragment, click **[!UICONTROL Create fragment]** at the top right of the fragments list page.
 
@@ -113,9 +113,21 @@ The fragment status determines its availability for use in an email or email tem
    >
    >A fragment's **Type** cannot be modified at this time.
 
-   The visual designer opens with an empty canvas.
+1. A _Create your email_ modal appears. Choose _Use Themes_ or _Manual Styling_. In this option, we're choosing **Use Themes**. Click **Confirm** when done.
 
-1. Use the [content design tools](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} to create the visual fragment content.
+   ![](assets/create-fragments-4.png)
+
+   >[!NOTE]
+   >
+   >If you choose Manual Styling, use the [content design tools](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} to create the visual fragment content.
+
+1. Click the _Themes_ icon.
+
+   ![](assets/create-fragments-5.png)
+
+   >[!INFO]
+   >
+   >Learn more about [theme settings](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md#settings){target="_blank"}.
 
 1. Click **[!UICONTROL Save]** at any time to save the draft fragment.
 

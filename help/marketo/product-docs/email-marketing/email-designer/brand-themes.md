@@ -15,17 +15,7 @@ With brand themes, easily create reusable content that fits a specific brand and
 
 This feature empowers marketers to leverage visually appealing, brand-consistent emails faster and with less effort, while providing advanced customization options for unique design needs.
 
-## Things to note {#things-to-note}
-
-* When creating an email from scratch, you can choose to start building your content using a theme to quickly apply a specific styling that fits your brand and design. If you choose the Classic mode, you won't be able to apply any themes unless you reset your email.
-
-* Fragments are not cross-compatible between the Theme and Classic modes. To be able to use a fragment in a content where a theme is applied, it must be created in Theme mode.
-
-* Updating a theme will not automatically cascade to all assets using them. You would need to edit individual objects to refresh the theme.
-
-* When themes are deleted, it does not affect the assets using them.
-
-## Create a Brand Theme {#create-a-brand-theme}
+## Create a theme {#create-a-theme}
 
 1. Follow the steps to [create an email template](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
@@ -41,7 +31,7 @@ This feature empowers marketers to leverage visually appealing, brand-consistent
 
    ![](assets/brand-themes-3.png)
 
-## Settings
+## Settings {#settings}
 
 All settings options can be accessed via the icons on the right. Let's review each one.
 
@@ -138,214 +128,263 @@ Set font library, family, size, text style, and text alignments for different pa
 
 ### Spacing and border {#spacing-and-border}
 
-Under this, you can set the padding and margin for different types of structure or button.  Choose the type in the first drop down and then continue to set Padding and/or Margin for that element. Repeat this one by one as applicable.
+Choose from multiple different structures and customize their margin, padding, or border.
 
-SCREENSHOT
+   ![](assets/brand-themes-18.png)
 
-Types of structures are as follows:
+In the example below, we're customizing a Container.
 
-SCREENSHOT
+**Margins**
 
-Settings for an example element, say Container.
+   ![](assets/brand-themes-19.png)
 
-Margins
+**Padding**
 
-SCREENSHOT
+   ![](assets/brand-themes-20.png)
 
-Padding
+**Corners**
 
-SCREENSHOT
+   ![](assets/brand-themes-21.png)
 
-Corners
-
-SCREENSHOT
-
-Borders
+**Borders**
 
 Toggle the border to ON to reveal options to set size, style and position.
 
-SCREENSHOT
+   ![](assets/brand-themes-22.png)
 
-The options for styles
+Below are some visual examples of changing the border style.
 
-SCREENSHOT
+<table><thead>
+  <tr>
+    <th>Type</th>
+    <th>Size and Style setting</th>
+    <th>Effect</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Dashed</td>
+    <td><img src="assets/brand-themes-23a.png"></td>
+    <td><img src="assets/brand-themes-23b.png"></td>
+  </tr>
+  <tr>
+    <td>Dotted</td>
+    <td><img src="assets/brand-themes-24a.png"></td>
+    <td><img src="assets/brand-themes-24b.png"></td>
+  </tr>
+  <tr>
+    <td>Solid</td>
+    <td><img src="assets/brand-themes-25a.png"></td>
+    <td><img src="assets/brand-themes-25b.png"></td>
+  </tr>
+</tbody></table>
 
-Some examples for the effect of styles on the box
+Adjust what sides of the border are to show or be hidden. In the example below, the top border is hidden.
 
-```
-TABLE
-
-Type
-
-Size and Style setting
-
-Effect
-
-Dashed
-
-Dotted
-
-Solid
-```
-
-Adjust if the border show or be hidden using border position
-
-Example: Top is hidden in the below example.
-
-```
-TABLE
-
-Position setting
-
-Effect
-```
-
-Repeat the settings for setting margin, paddings, corner and border types for different types of structures.
+<table><thead>
+  <tr>
+    <th>Position setting</th>
+    <th>Effect</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><img src="assets/brand-themes-26a.png"></td>
+    <td><img src="assets/brand-themes-26b.png"></td>
+  </tr>
+</tbody></table>
 
 ### Button settings {#button-settings}
 
-Under this, you can set different elements about buttons (other than color), like button shape, button radius, button text and button sizes. You can set these for 3 presets - Primary, Secondary and Tertiary.
+Set non-color elements for buttons, like shape, radius, text, and size. The three presets are: Primary, Secondary, and Tertiary.
 
-SCREENSHOT
+   ![](assets/brand-themes-27.png)
 
-```
-TABLE
+<table><thead>
+  <tr>
+    <th>Setting</th>
+    <th>Description</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Border &gt; Border radius</td>
+    <td>Button border corner curvature</td>
+  </tr>
+  <tr>
+    <td>Border &gt; Border size </td>
+    <td>Button border thickness</td>
+  </tr>
+  <tr>
+    <td>Border &gt; Border style</td>
+    <td>Button border style (dashed, solid, dotted, etc.)</td>
+  </tr>
+  <tr>
+    <td>Primary/Secondary/Tertiary</td>
+    <td>Allows settings for three presets of button configurations</td>
+  </tr>
+  <tr>
+    <td>SIZE &gt; Height</td>
+    <td>Height setting for the button</td>
+  </tr>
+  <tr>
+    <td>SIZE &gt; Width</td>
+    <td>Width setting for the button</td>
+  </tr>
+  <tr>
+    <td>Text &gt; Font family</td>
+    <td>Font family choice for button text</td>
+  </tr>
+  <tr>
+    <td>Text &gt; Font Library</td>
+    <td>Font library choice for button text</td>
+  </tr>
+  <tr>
+    <td>Text &gt; Font size</td>
+    <td>Font size for button text</td>
+  </tr>
+  <tr>
+    <td>Text &gt; Text alignment</td>
+    <td>Alignment for button text</td>
+  </tr>
+  <tr>
+    <td>Text &gt; Text styles</td>
+    <td>Text style (bold, italicized, underlined, strikethrough) for button text</td>
+  </tr>
+</tbody></table>
 
-Primary/Secondary/Tertiary    Allows settings for 3 presets of button configurations
-Text > Font Library    Font library choice for button text
-Text > Font family    Font family choice for button text
-Text > Font size    Font size for button text
-Text > Text styles    Text style (bold, italicized, underlined, strikethrough) for button text
-Text > Text alignment    Alignment for button text
-Border> Border size     Button border thickness
-Border> Border style    Button border style (dashed, solid, dotted, etc.)
-Border> Border radius    Button border corner curvature
-SIZE > Height    Height setting for the button
-SIZE > Width    Width setting for the button
-```
+### Divider {#divider}
 
-### Divider settings {#divider-settings}
+Set the type of line and container settings for the divider.
 
-Under this, you can set the type of line and container settings for divider.
-
-SCREENSHOT
+   ![](assets/brand-themes-28.png)
 
 ### Grid settings {#grid-settings}
 
-Use Columns gap to control spacing in the grids.
+Use _Columns gap_ to control spacing in the grids.
 
-```
-TABLE
-```
+   ![](assets/brand-themes-29.png)
 
-Click Save when done.
+<table><tbody>
+  <tr>
+    <td><img src="assets/brand-themes-30a.png"></td>
+    <td><img src="assets/brand-themes-30b.png"></td>
+  </tr>
+ <tr>
+    <td><img src="assets/brand-themes-31a.png"></td>
+    <td><img src="assets/brand-themes-31b.png"></td>
+  </tr>
+</tbody></table>
 
-SCREENSHOT
+Click **Save** when done.
 
-## Editing Brand Themes {#editing-brand-themes}
+   ![](assets/brand-themes-32.png)
 
-Creation of brand themes is available in the template selection panel within the editor. You can reach this panel as you are creating a new template, or within Change Design from inside the editor.
+## Edit an existing theme {#edit-a-brand-theme}
 
-SCREENSHOT
+1. Follow the steps to [create an email template](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
-Click Change your design.
+1. In the _Design your template_ screen, select **Create or edit themes**.
 
-SCREENSHOT
+   ![](assets/brand-themes-33.png)
 
-Click Create or edit themes
+1. Click the **My themes** tab.
 
-SCREENSHOT
+   ![](assets/brand-themes-34.png)
 
-Select Custom Themes to show the list of custom themes created in your organization. Choose a theme and click on Edit.
+1. Select the desired theme. The _Create_ button becomes an _Edit_ button. Click **Edit**.
 
-SCREENSHOT
+   ![](assets/brand-themes-35.png)
 
-Now, the canvas is open for editing.
+1. The canvas opens for editing. Make your desired changes in any of the options found in **[Settings](#settings)**.
 
-SCREENSHOT
-
-Modify any of the settings under the sections on the right pane.
-
-SCREENSHOT
-
-Click Save when complete.
-
-SCREENSHOT
+>[!TIP]
+>
+>Remember to save your work!
 
 ## Using Brand Themes {#using-brand-themes}
 
-The brand themes thus created/ edited are ready to be leveraged across email, email template & fragment assets.
+Leverage themes across email, email templates, and fragments.
 
-Adobe Marketo Engage: The brand themes this created/ edited are ready to be leveraged across email, email template & fragment assets created using the new email editor.
-
-You can create structures & components in the editor & apply any of the brand themes and any of their variants.
+You can create structures and components in the editor and apply any of the brand themes and their variants.
 
 ### In your emails {#in-your-emails}
 
-Create emails/ email templates from scratch
+1. Follow the steps to [create an email](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email).
 
-* Start with 'Create Email'/ 'Create email template', select the option of 'Design from scratch'
+1. After creation, click **Edit email content**.
 
-* In the modal that appears, select 'Use Themes'
+   ![](assets/brand-themes-36.png)
 
-SCREENSHOT
+1. Select **Design from scratch**.
 
-Note: Only the email created by this option will be able to leverage the brand themes defined in the previous section
+   ![](assets/brand-themes-37.png)
 
-* This new option appears on the right side bar, that enables you to use brand themes in your email
+1. Select **Use Themes** (it should be selected by default) and click **Confirm**.
 
-SCREENSHOT
+   ![](assets/brand-themes-38.png)
 
-* You can select from Adobe themes or Custom themes created for your brands
+>[!NOTE]
+>
+>Only emails created by this option will be able to leverage the brand themes you defined.
 
-SCREENSHOT
+1. Click the _Themes_ icon in the right side bar.
 
-* Design email content in the canvas and select a theme to apply to the content
+   ![](assets/brand-themes-39.png)
 
-* One email shall only contain one brand theme
+1. Select from Adobe themes or themes you already created.
 
-* For any component created in this asset, you can apply any of the styling options available within the theme, from the 'Styles' tab on the right pane
+   ![](assets/brand-themes-40.png)
 
-* e.g. a CTA can be configured as primary/ secondary / tertiary
+   >[!NOTE]
+   >
+   >* Design email content in the canvas and select a theme to apply to the content.
+   >* An email can contain only one brand theme.
+   >* For any component created in this asset, you can apply any of the styling options available within the theme from the 'Styles' tab on the right pane (e.g., a call-to-action can be configured as primary/secondary/tertiary).
 
-SCREENSHOT
+1. Implement your desired designs. For example, a text component can be selected to apply any of the headings/paragraph styling as defined in the theme.
 
-* E.g. A text component can be selected to apply any of the headings/ paragraph styling as defined in the theme
+   ![](assets/brand-themes-41.png)
 
-SCREENSHOT
+   >[!NOTE]
+   >
+   >The Style tab looks different from a traditional manual styling email where there is more creative liberty to style a component.
 
-* Note that now the 'Style' tab looks different from a traditional manual styling email where there is more creative liberty to style a component
+### Make a template compatible with themes {#make-a-template-compatible}
 
-### Create emails/email templates from a template
+1. Find and select the desired template.
 
-* You can leverage themes when you create an email or email template from a pre-existing email template, that was also created using themes
+1. Click **Edit email template**.
 
-* Start with 'Create Email'/'Create email template', select one of the email templates created using themes, from the 'Saved Templates' section
+   ![](assets/brand-themes-42.png)
 
-* Now the theme used in the saved email template is automatically applied
+1. Click the _Themes_ icon and click **Generate theme from content**.
 
-SCREENSHOT
+   ![](assets/brand-themes-43.png)
 
-* You can also change the theme in this email/ email template via the 'Themes' option in the right side bar
+1. The _Create a theme_ window opens. Marketo Engage automatically detects the styling elements and consolidates them into a new theme.
 
-SCREENSHOT
+   ![](assets/brand-themes-44.png)
 
-* You can also apply any variant of a theme to the content
+1. Name your theme.
 
-SCREENSHOT
+1. Make your desired changes (just like you do when creating a theme from scratch). Click **Save** when done.
 
-SCREENSHOT
+   ![](assets/brand-themes-45.png)
 
 ### In your fragments {#in-your-fragments}
 
-Start with 'Create New Fragment'
+1. Follow the steps to [create a fragment](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#create-a-fragment).
 
-From the 'Themes' option in the right side bar, select the desired theme & apply the same
+1. Design your content theme using the options found in **[Settings](#settings)**.
 
-SCREENSHOT
+All fragment content created in the canvas thereafter will adopt the selected theme. You can also apply any variant of a theme to the content.
 
-All fragment content created in the canvas thereafter will adopt the selected theme
+After your fragment is published, it can be used in any email/email template that is created using themes.
 
-You can also apply any variant of a theme to the content
+## Things to note {#things-to-note}
 
-Once this Fragment is Published, this fragment can be used in any email/email template that is created using Themes
+* When creating an email from scratch, you can choose to start building your content using a theme to quickly apply a specific styling that fits your brand and design. If you choose the Classic mode, you won't be able to apply any themes unless you reset your email.
+
+* Fragments are not cross-compatible between the Theme and Classic modes. To be able to use a fragment in a content where a theme is applied, it must be created in Theme mode.
+
+* Updating a theme will not automatically cascade to all assets using them. You would need to edit individual objects to refresh the theme.
+
+* When themes are deleted, it does not affect the assets using them.
