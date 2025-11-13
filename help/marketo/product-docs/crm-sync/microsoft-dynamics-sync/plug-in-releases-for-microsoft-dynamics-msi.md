@@ -57,7 +57,9 @@ And that's it! After the upgrade you will only see one MSI Solution.
    <td>2.00.31</td>
    <td>Changes to pagination on Anonymous web activity.
    <p>
-   Encrypt Secret key info from user view. The password needs to be changed after importing the new package in order for encryption to occur.</td>
+   Encrypt Secret key info from user view. The password needs to be changed after importing the new package in order for encryption to occur.
+   <p>
+   When updating the MSI for Dynamics plug-in, it's recommended to update both the SOAP API secret key and the MSI credentials as a form of refresh to ensure no access permissions take place with the new package being installed.</td>
   </tr>
   <tr>
    <td>10/18/23</td>
