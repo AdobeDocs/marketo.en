@@ -12,10 +12,6 @@ Welcome to the new Adobe Marketo Engage Email Designer.
 
 The Email Designer is the latest innovation in Marketo Engage intended to provide a revamped email and email template creation experience to improve productivity and efficiency by providing a visual drag-and-drop editor along with standard out-of-the-box templates. Easily create customized email templates without having to spend money on vendors.
 
->[!NOTE]
->
->While the Email Designer can be accessed in all major browsers, full functionality in Firefox is not supported at this time.
-
 ## How to access {#how-to-access}
 
 +++Learn how to access the Email Designer
