@@ -253,7 +253,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Roles and Permissions</td>
     <td>Ability to add roles and permissions for email, email templates, and fragments.</td>
     <td>Available</td>
-    <td>Coming soon</td>
+    <td>Available</td>
   </tr>
   <tr>
     <td>Experimentation (A/B Testing)</td>
