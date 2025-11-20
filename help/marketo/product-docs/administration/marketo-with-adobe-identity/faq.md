@@ -117,11 +117,9 @@ Current Marketo Engage users with logins different from their email address will
 
 **What happens after the Adobe Identity migration if my subscription uses IP restriction settings?**
 
-When subscriptions are onboarded to Adobe Identity, IP restriction settings do not get migrated to the Adobe Admin Console. Marketo's IP restriction settings include allowing only access from specific IP addresses, and blocking specific IP addresses from access. At this time, Adobe Identity Management System does not support IP restriction features.
+Your current IP restrictions will remain active through Q1 2026 (this applies to subscriptions that had them enabled before migration). These restrictions will also apply to Adobe ID users, so your access controls will continue to work as expected.
 
-Coming in mid-2025, Adobe Identity Management System will release a feature allowing only specific IP addresses, supporting a transition for Marketo users currently utilizing this feature. Those who currently use this feature will not undergo user migration until the feature is released. Once the feature is delivered, users will be notified of their migration being scheduled. More information about the feature will be provided when available.
-
-Users who currently use the IP restriction, blocking specific addresses from access, will no longer be able to use this feature after being migrated to Adobe Identity, as it is not supported by Adobe Identity Management System.
+Starting in Q1 2026, the legacy IP restrictions will be retired. From that point forward, IP-based access will be managed exclusively in the Adobe Admin Console (AAC). To maintain secure access, you'll need to configure IP restrictions in AAC. For more information, please see this [Marketing Nation blog post](https://nation.marketo.com/t5/product-blogs/updated-important-update-ip-restrictions-feature-transition/ba-p/358420){target="_blank"}.
 
 **What happens after Adobe Identity migration if I have users with a role that has the option to 'Bypass Single Sign On'?**
 
