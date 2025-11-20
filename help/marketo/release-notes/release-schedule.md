@@ -52,8 +52,14 @@ _Release dates/features are subject to change_
    <td>October 31, 2025</td>
    <td>In progress</td>
   </tr>
+  <tr>
   <td>January '26</td>
    <td>January 30, 2026</td>
+   <td>On schedule</td>
+  </tr>
+  <tr>
+  <td>February '26</td>
+   <td>February 20, 2026</td>
    <td>On schedule</td>
   </tr>
  </tbody>
