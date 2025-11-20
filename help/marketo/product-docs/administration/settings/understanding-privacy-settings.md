@@ -62,11 +62,7 @@ Marketers can enable users to opt in by using Marketo's capabilities in emails, 
 
 Marketers can preserve privacy by tracking users with an anonymized IP address. To do that, add this code to the RTP or [!DNL Munchkin] Javascript that's embedded in the website.
 
-* For [!DNL Munchkin], just add {"anonymizeIP",true} to the init function.
-
-  >[!NOTE]
-  >
-  >Use of this parameter requires that [!DNL Munchkin] V2 be enabled. To get it enabled for your subscription, please contact [Marketo Support](https://nation.marketo.com/community/support_solutions).
+* For [!DNL Munchkin], just add `{"anonymizeIP",true}` to the [init function](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * For Web Personalization (RTP), add this to the javascript:
 
