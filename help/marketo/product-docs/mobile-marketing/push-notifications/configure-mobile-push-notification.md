@@ -1,5 +1,4 @@
 ---
-unique-page-id: 7512454
 description: "Configure Mobile Push Notification - Marketo Docs - Product Documentation"
 title: Configure Mobile Push Notification
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
@@ -21,7 +20,7 @@ feature: Mobile Marketing
 
    >[!NOTE]
    >
-   >If your Push message applies to only one platform (e.g., iOS), you can exclude the other platform by manually sliding its selector to **Disabled**.
+   >If your Push message applies to only one platform (for example, iOS), you can exclude the other platform by manually sliding its selector to **Disabled**.
 
 1. Click **[!UICONTROL Next]**.
 
@@ -49,11 +48,7 @@ feature: Mobile Marketing
 
    ![](assets/configure-mobile-push-notification-6.png)
 
-   >[!NOTE]
-   >
-   >Messages and Tap Actions will look the same on both platforms.
-
-1. For iOS only, check the checkbox to tell the app to play a sound when the message arrives. Android plays the sound automatically.
+1. For iOS, check the checkbox to tell the app to play a sound when the message arrives. Android plays the sound automatically.
 
    ![](assets/configure-mobile-push-notification-7.png)
 
@@ -65,7 +60,13 @@ feature: Mobile Marketing
 
    ![](assets/configure-mobile-push-notification-9.png)
 
-Congratulations! Now the push notification is ready to be sent.
+The push notification is ready to be sent.
+
+If you receive the error: `Limited Access: You do not have sufficient privileges to perform this action`, ensure that the **Access Design Studio** > `Access Landing Page` permission is set for the user, plus at least one of the following:
+
+* Approve Push Notification
+* Delete Push Notification
+* Edit Push Notification
 
 ## Deep Link URIs {#deep-link-uris}
 
@@ -75,7 +76,7 @@ A deep link URI is made up of three parts: scheme name, path, and identifier. In
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-That said, your app's deep link structure may be different from the above example. Your developer has many options in defining deep link URI's, so ask your developer to send you the URIs (links) for the pages you are interested in using. This will ensure that the URIs you enter in push messages point to the right places. Your developer can [find more information here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+That said, your app's deep link structure may be different from the above example. Your developer has many options in defining deep link URIs, so ask your developer to send you the URIs (links) for the pages you are interested in using. This ensures that the URIs you enter in push messages point to the right places. Your developer can [find more information here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >
