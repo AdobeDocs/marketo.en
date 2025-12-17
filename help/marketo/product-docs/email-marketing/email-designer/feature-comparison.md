@@ -247,7 +247,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Support for Move, Delete, and Import of Programs with email assets</td>
     <td>Ability to move, delete, and import Email Programs along with email assets.</td>
     <td>Available</td>
-    <td>Available</td>
+    <td>Not Available</td>
   </tr>
   <tr>
     <td>Roles and Permissions</td>
