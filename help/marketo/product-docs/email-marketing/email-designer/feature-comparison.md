@@ -244,12 +244,6 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Available</td>
   </tr>
   <tr>
-    <td>Support for Move, Delete, and Import of Programs with email assets</td>
-    <td>Ability to move, delete, and import Email Programs along with email assets.</td>
-    <td>Available</td>
-    <td>Not Available</td>
-  </tr>
-  <tr>
     <td>Roles and Permissions</td>
     <td>Ability to add roles and permissions for email, email templates, and fragments.</td>
     <td>Available</td>
@@ -278,6 +272,12 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Ability to modify the HTML content of emails, email templates, and fragments.</td>
     <td>Available</td>
     <td>TBD</td>
+  </tr>
+  <tr>
+    <td>Support for Move, Delete, and Import of Programs with email assets</td>
+    <td>Ability to move, delete, and import Email Programs along with email assets.</td>
+    <td>Available</td>
+    <td>Not Available</td>
   </tr>
   <tr>
     <td>Predictive Content</td>
