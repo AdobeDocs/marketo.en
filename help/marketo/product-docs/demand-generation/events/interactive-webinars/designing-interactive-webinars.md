@@ -68,7 +68,11 @@ Learn how to design your webinar to suit your needs.
 
 **Layout**: Refers to various ways that the multiple components required to ensure the success of the webinar are arranged in a particular template. A single template can have multiple layouts for you to choose from. The essential components of the webinar would remain the same across templates. The arrangement you selected would be best suited to the style/needs of you or the presenter delivering the webinar.
 
-**Pod**: A component inside a template that performs a particular activity during the webinar. For example, setting up and delivering a poll to capture participants' responses in one activity that can be fulfilled by a poll pod. Similarly, chatting with the participants to convey a message or casually interacting with them can be an activity delivered through the chat pod. Multiple other pods are available, such as Share, Notes, Video, Chat, Attendee List, Files, Web Links, Polls, and Q & A.
+**Pod**: A component inside a template that performs a particular activity during the webinar. For example, setting up and delivering a poll to capture participants' responses in one activity that can be fulfilled by a poll pod. Similarly, chatting with the participants to convey a message or casually interacting with them can be an activity delivered through the chat pod. Multiple other pods are available, such as Share, Notes, Video, Chat, Attendee List, Files, Web Links, Polls, and Q&A.
+
+&nbsp; &nbsp; &nbsp; **Survey Pod**: Allows allows hosts to design and deliver structured feedback forms directly within a live session. The Survey Pod extends the existing Poll Pod capabilities by allowing multiple questions to be presented together, offering a more streamlined and cohesive way to gather participant insights. [Learn more](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
+
+&nbsp; &nbsp; &nbsp; **Resources Pod**: Replaces the previous Files and Web Links pods, providing a single, unified way to share resources during live sessions. [Learn more](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

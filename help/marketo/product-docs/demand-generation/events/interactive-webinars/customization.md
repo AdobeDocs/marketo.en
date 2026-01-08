@@ -55,7 +55,7 @@ Before any users in your organization have the ability to customize your Interac
 
    ![](assets/interactive-webinars-customization-8.png)
 
-### Customize the room interface {#customize-the-room-interface}
+## Customize the room interface {#customize-the-room-interface}
 
 You can customize the appearance of the session room by changing the logo, clickable redirection link, and colors. Your changes will be reflected across all events and rooms in your organization.
 
@@ -128,3 +128,11 @@ Use the toggle switch to control the availability of these default backgrounds i
    ![](assets/interactive-webinars-customization-13.png)
 
 Select **Apply** to save the changes or **Reset to default** to reset to the default settings.
+
+### Create Customizable Themes {#create-customizable-themes}
+
+* Admins can create/manage themes with custom logos, colors, and video backgrounds.
+
+* Hosts can choose themes during room creation or update them later from the room information page (**Room top bar** > **More menu** > **View room information**).
+
+Learn more about [Themes](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.

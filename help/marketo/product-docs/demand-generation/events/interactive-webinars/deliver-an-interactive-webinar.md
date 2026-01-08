@@ -134,3 +134,9 @@ Learn about how Adobe Connect provides assistance for [visual, auditory, and mob
 Closed captions are a textual representation of the audio within an Adobe Connect room and helps participants who are deaf or hard of hearing participate in events. You can integrate real-time captioning of audio content into events and present these captions in the Closed Caption display.
 
 Learn how to [enable closed captions](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+
+### Simulated Live webinars {#simulated-live-webinars}
+
+Present pre-recorded webinars as if they were live using the Simulated Live webinar format. Attendees can join at a scheduled time and experience the session in real-time, enjoying interactive features like chat, polls, and Q&A. Simulated Live webinars combine the reliability of recorded content with the interactive experience of a live event. 
+
+Learn more about [Simulated Live webinars](https://helpx.adobe.com/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}.

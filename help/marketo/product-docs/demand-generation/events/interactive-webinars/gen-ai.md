@@ -12,6 +12,8 @@ Automatically generate chapters and summaries for your recorded webinars, making
 
 * **AI-generated Summary**: Get an automated text summary of your webinar.
 
+* **AI-based Blog Generation**: Lets you automatically generate on-brand blog content from your webinars.
+
 * **Editable Content**: Modify generated chapters and summaries if desired, using manual and AI-powered editing functionalities.
 
 * **Easy Integration**: Easily add chapters and summaries to your Landing Pages by copying the HTML code to the webpage editor of your choice.
@@ -103,6 +105,8 @@ The "link" is the name of the chapter, and the "web page" is the page that hosts
 * Deleting or merging chapters only affects the chapter stack, not the video content itself. These actions are permanent.
 
 * The GenAI features are flexible and can be used with various web page editors, not just the ones in Marketo Engage.
+
+* Only sessions held in seminar rooms will be available for generation of blogs. Seminar rooms are available only on accounts with an Event Module or a Seminar (Shared Room/Events) license.
 
 * Always preview your changes to ensure desired functionality and appearance.
 
