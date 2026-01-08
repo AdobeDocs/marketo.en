@@ -7,7 +7,11 @@ feature: Email Editor
 ---
 # Email Editor v2.0 Overview {#email-editor-v2-overview}
 
-When you decide to activate the [!DNL Email Editor v2.0], you'll notice several new features.
+Overview of the classic email editor.
+
+>[!IMPORTANT]
+>
+>While there is no exact date set, the classic email editor will likely be deprecated sometime in 2026 (we will announce an exact date when we have it). It is strongly recommended to begin adoption of the advanced [Email Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}, as it has many capabilities not available in the classic editor.
 
 **Email Template Picker**
 
