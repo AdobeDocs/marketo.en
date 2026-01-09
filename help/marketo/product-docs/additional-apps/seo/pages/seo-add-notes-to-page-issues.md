@@ -7,7 +7,16 @@ feature: SEO
 ---
 # SEO - Add Notes to Page Issues {#seo-add-notes-to-page-issues}
 
-Did you know you can add notes to page issues as personal reminders or team messages?
+Learn how to add notes to page issues as personal reminders or team messages.
+
+>[!IMPORTANT]
+>
+>On March 31, 2026, Marketo Engage will deprecate the Search Engine Optimization feature. Please export any relevant data on or before March 30. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Export Issues](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Export Keyword Results](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Export Competitor Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Adding Notes in Page Issues Section {#adding-notes-in-page-issues-section}
 

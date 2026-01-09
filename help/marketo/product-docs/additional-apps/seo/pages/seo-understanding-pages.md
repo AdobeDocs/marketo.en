@@ -9,17 +9,20 @@ feature: SEO
 
 ## Page Optimization Score / To Do Widget {#page-optimization-score-to-do-widget}
 
-![](assets/image2014-9-17-21-3a52-3a3.png)
-
 The Page [!UICONTROL Optimization Score] is an overall ranking of how well your page is optimized for search, on a scale of 1 to 100. It is based on dozens of best practices in SEO.
 
 * 0 - 35 = Not well-optimized
 * 35 - 70 = On the right track
 * 70 - 100 = Doing great!
 
->[!TIP]
+>[!IMPORTANT]
 >
->Click on the [!UICONTROL High Impact] link in the [!UICONTROL To Do] box, this will redirect you to the [!UICONTROL Issues tab] and show you high priority problems to solve.
+>On March 31, 2026, Marketo Engage will deprecate the Search Engine Optimization feature. Please export any relevant data on or before March 30. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Export Issues](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Export Keyword Results](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Export Competitor Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## [!UICONTROL Pages] Tab {#pages-tab}
 
