@@ -58,7 +58,7 @@ The following features fall under the standard release cycle and will start to b
 
 ## Adobe Connect Features {#adobe-connect-features}
 
-The Marketo Engage [Interactive Webinars](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} feature is powered by Adobe Connect, enriching person management and campaigns with event data and improving person quality. Below are some recent Adobe Connect releases that directly affect Interactive Webinars users.
+These features have already been released by the Adobe Connect team. Marketo Engage [Interactive Webinars](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} are powered by Adobe Connect. As such, the features below are only applicable to Interactive Webinars users.
 
 * **Survey Pod**: Adobe Connect 12.11 introduces a new Survey Pod that allows hosts to design and deliver structured feedback forms directly within a live session.
 
@@ -66,7 +66,7 @@ The Marketo Engage [Interactive Webinars](https://experienceleague.adobe.com/en/
 
 * **Enhanced Room Interface Experience**: Adobe Connect 12.11 introduces a refreshed and more modern room interface, built on Adobe's latest Spectrum 2 design framework, aligning with the visual language used across other Adobe products such as Creative Cloud and Experience Cloud.
 
-For complete details, review the [Adobe Connect 12.11 Release Notes](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+For complete details, please see the [Adobe Connect 12.11 Release Notes](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
 
 ## Announcements {#announcements}
 
