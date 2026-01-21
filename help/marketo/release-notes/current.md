@@ -77,8 +77,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - A/B Testing</strong>: Parity feature for the new Email Designer, allowing you to perform A/B tests to see which types of content receive the best response.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
