@@ -253,7 +253,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Experimentation (A/B Testing)</td>
     <td>Ability to test emails before sending them out to your audience.</td>
     <td>Available</td>
-    <td>Coming Soon</td>
+    <td>Available</td>
   </tr>
   <tr>
     <td>Content Approval Workflows</td>
