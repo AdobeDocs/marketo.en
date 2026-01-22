@@ -190,4 +190,4 @@ JSON Response
 
 >[!MORELIKETHIS]
 >
->[Privacy Management](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
+>[Privacy Management](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md){target="_blank"}
