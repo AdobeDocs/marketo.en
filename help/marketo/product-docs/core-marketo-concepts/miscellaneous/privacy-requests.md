@@ -50,7 +50,7 @@ To make requests to Access and Delete data for Marketo Engage, you must:
 
 * "action": either **access** or **delete**
 * "userIDs":
-  * "namespace": **email**
+  * "namespace": **Email**
   * "type": **standard**
   * "value": `<Data Subject's Email Address>`
 
@@ -81,7 +81,7 @@ JSON Request
       ],
       "userIDs": [
         {
-          "namespace": "email",
+          "namespace": "Email",
           "type": "standard",
           "value": "john.doe@adobe.com"
         }
@@ -111,7 +111,7 @@ JSON Response
           ],
           "userIDs": [
             {
-              "namespace": "email",
+              "namespace": "Email",
               "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
@@ -144,7 +144,7 @@ JSON Request
       ],
       "userIDs": [
         {
-          "namespace": "email",
+          "namespace": "Email",
           "type": "standard",
           "value": "john.doe@adobe.com"
         }
@@ -174,7 +174,7 @@ JSON Response
           ],
           "userIDs": [
             {
-              "namespace": "email",
+              "namespace": "Email",
               "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
