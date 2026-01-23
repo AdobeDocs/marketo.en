@@ -28,7 +28,7 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>FEATURE TITLE</strong>: Feature description.</td>
+   <td><strong>Email Designer - Manage Brands (beta)</strong>: Generate email content based on your organization/brand's specific copywriting guidelines.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -38,7 +38,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>FEATURE TITLE</strong>: Feature description.</td>
+   <td><strong>Email Designer - AI Assistant Enhancement</strong>: You can now directly add brand assets in your prompt and ask the model to refer to that source for generating content, rather than manually adding a brand asset as a file.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -48,7 +48,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>FEATURE TITLE</strong>: Feature description.</td>
+   <td><strong>Email Designer - Visual Previews for Fragments</strong>: All published Fragments now appear as thumbnails, making it much faster to identify the one you need.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -58,7 +58,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>FEATURE TITLE</strong>: Feature description.</td>
+   <td><strong>Email Designer - Bullets</strong>: You can now create multi-level bullets when authoring an email in the Email Designer.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -68,7 +68,12 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>FEATURE TITLE</strong>: Feature description.</td>
+   <td><strong>Email Designer - Conditional Content Enhancements</strong>: Parity with the <i>Dynamic Content</i> feature in the old email editor.
+   <ul>
+   <li>Conditional Content is now applicable to Segmentation in shared folders.</li>
+   <li>Segmentations are now sorted in alphabetical order.</li>
+   </ul>
+   </td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -78,17 +83,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>FEATURE TITLE</strong>: Feature description.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>FEATURE TITLE</strong>: Feature description.</td>
+   <td><strong>Email Designer - Folders</strong>: You can now organize your assets created using the Email Designer (emails, email templates, fragments) with folders.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -96,19 +91,23 @@ The following features fall under the standard release cycle and will start to b
 </table>
 <br/>
 
-## Adobe Connect Features {#adobe-connect-features}
+## Non-Standard Release Cycle Features {#non-standard-release-cycle-features}
 
-These features have already been released by the Adobe Connect team. Marketo Engage [Interactive Webinars](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} are powered by Adobe Connect. As such, the features below are only applicable to Interactive Webinars users.
+The following features were released outside of the standard Marketo Engage release cycle.
 
-* **Survey Pod**: Adobe Connect 12.11 introduces a new Survey Pod that allows hosts to design and deliver structured feedback forms directly within a live session.
+### Interactive Webinars {#interactive-webinars}
+
+* **Survey Pod**: A new Survey Pod allows hosts to design and deliver structured feedback forms directly within a live session.
 
 * **Resources Pod**: The new Resources Pod replaces the previous Files and Web Links pods, providing a single, unified way to share resources during live sessions.
 
-* **Enhanced Room Interface Experience**: Adobe Connect 12.11 introduces a refreshed and more modern room interface, built on Adobe's latest Spectrum 2 design framework, aligning with the visual language used across other Adobe products such as Creative Cloud and Experience Cloud.
+* **Enhanced Room Interface Experience**: Enjoy a refreshed and more modern room interface, built on Adobe's latest Spectrum 2 design framework, aligning with the visual language used across other Adobe products such as Creative Cloud and Experience Cloud.
 
-For complete details, please see the [Adobe Connect 12.11 Release Notes](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Visit [this page](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} for full details.
 
 ## Announcements {#announcements}
+
+* **Marketo Community Migration Complete**: The new Adobe Experience League Community is now live! [Several enhancements](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} have been made to make your Marketo Community experience even better. [Check it out](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **Rest API 'access_token' Parameter Deprecation**: The `access_token` query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after March 31, 2026. All new and existing integrations should authenticate REST API calls using the 'Authorization' header, [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 

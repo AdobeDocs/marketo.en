@@ -27,7 +27,7 @@ Emails from the email designer can only be created in the Design Studio and refe
 
    ![](assets/create-an-email-1.png)
 
-1. In the tree, select **Emails (New Editor)**.
+1. In the tree, select **Emails (New)**.
 
    ![](assets/create-an-email-2.png)
 
@@ -65,7 +65,7 @@ That's it. Now it's time to design your email.
 
 ## Choose your content type {#choose-your-content-type}
 
-1. In the email you just created, click **Add email content**.
+1. In the email you just created, click **Edit email content**.
 
    ![](assets/choose-your-content-type-1.png)
 
@@ -82,6 +82,12 @@ That's it. Now it's time to design your email.
 When starting from scratch in the email editor, use the options below to define your content.
 
 1. In the _Create your email_ page, select **Design from scratch**.
+
+1. Choose between starting with a theme (recommended) or building from scratch with manual styling.
+
+   >[!NOTE]
+   >
+   >Emails created with manual styling will not be able to use fragments created with Themes
 
 1. Add [structure and content](#add-structure-and-content) to your email.
 

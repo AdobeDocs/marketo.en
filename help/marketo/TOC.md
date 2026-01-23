@@ -1972,6 +1972,7 @@ feature-set: Marketo Engage
       + [Release Notes: July '25](release-notes/previous-releases/2025/release-notes-july-25.md)
       + [Release Notes: August '25](release-notes/previous-releases/2025/release-notes-aug-25.md)
       + [Release Notes: September '25](release-notes/previous-releases/2025/release-notes-sep-25.md)
+      + [Release Notes: October '25](release-notes/previous-releases/2025/release-notes-oct-25.md)
     + 2024 {#2024}
       + [Release Notes: January '24](release-notes/previous-releases/2024/release-notes-jan-24.md)
       + [Release Notes: March '24](release-notes/previous-releases/2024/release-notes-mar-24.md)
