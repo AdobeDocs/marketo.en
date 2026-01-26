@@ -18,7 +18,6 @@ In [!DNL Marketo Engage], you now have the option to manually input and organize
 >
 >You must agree to the [user agreement](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} before you can use the AI Assistant in Adobe Marketo Engage. For more information, contact your Adobe representative.
 
-
 ## Access brands {#generative-access}
 
 To access the **[!UICONTROL Brands]** menu in [!DNL Adobe Marketo Engage], users need to be granted the **[!UICONTROL Manage brand kit]** or **[!UICONTROL Enable AI assistant]** permissions.
