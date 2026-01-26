@@ -334,5 +334,3 @@ To personalize your **[!UICONTROL Visual content]**:
    SCREENSHOT
 
 You can now further personalize your brand or [publish your brand](#create-brand-kit).
-
-TEST
