@@ -233,8 +233,6 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
       130.248.173.0/24
 
-      103.237.104.0/22
-
       94.236.119.0/26
 
    >[!NOTE]

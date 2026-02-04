@@ -12,7 +12,7 @@ hidefromtoc: yes
 
 Brand guidelines are a detailed set of rules and standards that establish a brand's visual and verbal identity. They act as a reference to maintain consistent brand representation across all marketing and communication platforms.
 
-In [!DNL Marketo Engage], you now have the option to manually input and organize your brand details or upload brand guideline documents for automatic information extraction.
+Manually input and organize your brand details or upload brand guideline documents for automatic information extraction.
 
 >[!AVAILABILITY]
 >

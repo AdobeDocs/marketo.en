@@ -58,8 +58,6 @@ When your Marketing group uses Marketo Engage to send test emails (a best practi
 
 Add these IP addresses to your corporate allowlist:
 
-103.237.104.0/22
-
 130.248.172.0/24
 
 130.248.173.0/24
@@ -294,9 +292,6 @@ The following tables cover all Marketo Engage servers that make outbound calls. 
  <tbody>
   <tr>
    <th>IP Block (CIDR Notation)</th>
-  </tr>
-  <tr>
-   <td>103.237.104.0/22</td>
   </tr>
    <tr>
    <td>130.248.172.0/24</td>

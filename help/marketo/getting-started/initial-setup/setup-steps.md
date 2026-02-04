@@ -153,8 +153,6 @@ Configure your domain settings so landing pages use your company's domain instea
 
       130.248.173.0/24
 
-      103.237.104.0/22
-
       94.236.119.0/26
 
    >[!NOTE]
