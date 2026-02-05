@@ -7,6 +7,7 @@ role: User
 level: Beginner, Intermediate
 hide: yes
 hidefromtoc: yes
+exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
 ---
 # Create & manage your brands {#brands}
 

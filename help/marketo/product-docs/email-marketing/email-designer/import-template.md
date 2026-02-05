@@ -6,6 +6,7 @@ description: Learn how to import your existing email templates from the classic 
 level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta
+exl-id: a4755e1c-01a0-40d5-91d1-514ec3d138f5
 ---
 # Template import {#template-import}
 

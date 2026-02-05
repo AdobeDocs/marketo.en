@@ -1,7 +1,8 @@
 ---
-description: "Release Notes - October 2025 - Marketo Docs - Product Documentation"
+description: Release Notes - October 2025 - Marketo Docs - Product Documentation
 title: Release Notes - October 2025
 feature: Release Information
+exl-id: 9c668de0-14d0-4d2e-8ea6-dc7db5be3ea7
 ---
 # Release Notes: October 2025 {#release-notes-oct-25}
 
