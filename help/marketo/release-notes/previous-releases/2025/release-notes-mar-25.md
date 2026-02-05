@@ -27,7 +27,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
     <tr>
    <td><strong>Email Designer Available in All Programs</strong>: The New Email Designer emails are now accessible across Engagement, Default, and Event Programs (with the lone exception of Interactive Webinar Programs). Previously they were only available in Email Programs.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>GenAI Features in Interactive Webinars</strong>: You can now generate chapters as well as a summary for On demand webinars. Edit and export an HTML file of your data.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI features</a></td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Global and Workspace My Tokens</strong>: Configure my tokens both at the workspace and global level to enable enhanced productivity and control over brand and marketing collateral across Marketo Engage workspaces and even entire instances.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">Create a global My Token</a></td>
   </tr>
   </tbody>

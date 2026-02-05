@@ -26,7 +26,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Template Importer (Beta)</strong>: Import email templates from the classic email editor to create  templates compatible with the New Email Designer in the Design Studio.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Template import</a></td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Brand Themes</strong>: You can now define brand themes within Marketo Engage. Styling configurations can be reused and applied across email templates and other email assets for brand consistency.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">Brand themes</a></td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Conditional Content</strong>: Parity feature for the new Email Designer, allowing you to achieve email personalization beyond tokens.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Conditional content</a></td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
  <tr>
    <td><strong>Email Designer - Image to HTML Converter</strong>: Upload a compliant PNG/JPEG image file of an email and it will automatically be converted into HTML for use in the new Email Designer.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Convert images to HTML templates</a></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Clone Email Action</strong>: You can now clone an email into another program folder in Marketing Activities and quickly reuse existing emails.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - A/B Testing</strong>: Parity feature for the new Email Designer, allowing you to perform A/B tests to see which types of content receive the best response.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -85,9 +85,9 @@ The following features fall under the standard release cycle and will start to b
 
 ## Announcements {#announcements}
 
-* **Salesforce CRM Integration Upgrade**: A new version of the native CRM integration will be deployed to active sandboxes that have the native connector enabled over the course of seven days, beginning November 13, 2025. Get full details in [this Nation post](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
+* **Salesforce CRM Integration Upgrade**: A new version of the native CRM integration will be deployed to active sandboxes that have the native connector enabled over the course of seven days, beginning November 13, 2025. Get full details in [this Community post](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
 
-* **REST API Double Slash Deprecation**: On September 16, 2025, Adobe transitioned to a more modern hosting infrastructure for REST API URLs that leverages newer technology, adding security and scalability. If your subscription has been using APIs with a double forward slash (//) in the URL, please read [this Nation post](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} for next steps.
+* **REST API Double Slash Deprecation**: On September 16, 2025, Adobe transitioned to a more modern hosting infrastructure for REST API URLs that leverages newer technology, adding security and scalability. If your subscription has been using APIs with a double forward slash (//) in the URL, please read [this Community post](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} for next steps.
 
 * **Switching Back to Velocity Scripting in the new Email Designer**: Adobe Marketo Engage released a feature called _Conditional Content_ for the new Email Designer this past June. The feature was powered by Handlebar scripting instead of Velocity scripting, in an effort to provide a little more flexibility in your dynamic content. But when we discovered it was causing some tokens to be resolved incorrectly, we decided to temporarily disable it. [Learn More](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 

@@ -26,7 +26,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>On-Demand Webinar Activity Retention</strong>: Interactive Webinars users now have On-demand Webinar Dashboard data available for more than 30 days (previously it was only up to 30 days from the day of the webinar).</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Manual sync</a></td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - AI Assistant Permissions</strong>: Marketo Admins can provide specific users with access to GenAI features.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">Set up permissions</a></td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Dark Mode</strong>: You can now utilize Dark Mode, which allows supporting email clients and apps to display emails with darker backgrounds and lighter colors for text, buttons, and other UI elements.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">Dark mode</a></td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Content Collaboration Workflow</strong>: You can now comment on and collaborate with fellow Marketo users within an email asset. Tag team members (Marketo users who have the appropriate asset permissions) and they will receive an email or pulse notification.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration.md">Email collaboration</a></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Redirect Fixes</strong>: Some users were experiencing redirect issues with URLs for emails created using the new Designer (e.g., directly pasting the URLs or bookmarking email assets did not always work). This issue has been resolved. Additionally, links to email assets from <b>Email Templates</b> > <b>Details</b> > <b>Used By</b> will redirect to the corresponding email asset.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>

@@ -28,7 +28,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Program Member Custom Field Sync</a></td>
   </tr>
   </tbody>
@@ -42,7 +42,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
@@ -63,7 +63,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Toggle Switch</a></td>
   </tr>
   </tbody>
@@ -77,7 +77,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -91,7 +91,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -109,7 +109,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">Bulk Lead Import</a></td>
   </tr>
   </tbody>
@@ -129,7 +129,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamic Chat Integration</a></td>
   </tr>
   </tbody>
@@ -147,7 +147,7 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Stream Designer Icons</a></td>
   </tr>
   </tbody>
@@ -161,7 +161,7 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Calendar</a></td>
   </tr>
   </tbody>
@@ -175,7 +175,7 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>

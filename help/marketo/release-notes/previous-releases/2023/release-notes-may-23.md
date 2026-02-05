@@ -27,7 +27,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud Interface Overview</a></td>
   </tr>
   </tbody>
@@ -41,7 +41,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Help Center</a></td>
   </tr>
   </tbody>

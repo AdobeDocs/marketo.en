@@ -27,7 +27,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - GenStudio Integration</strong>: Integrate GenStudio for performance marketing from within emails to enhance marketing efficiency and to maintain brand consistency.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">GenStudio Integration for Marketo Engage</a></td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Custom CSS</strong>: When designing emails, you can now add your own custom CSS directly within the Email Designer.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">Add custom CSS to your email content</a></td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Detect Spam with SpamAssassin</strong>: Using SpamAssassin in Marketo Engage, you can test your email content and see the likelihood of ISPs/Mailbox providers marking it as spam.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">Email spam report</a></td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Support of Moving Assets and Program Deletion</strong>: Quickly relocate an email asset across programs. You can now also delete programs that contain new designer email assets.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Firefox Support</strong>: The Email Designer is now fully supported in Mozilla Firefox. For the best experience, always keep your browser up to date.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -77,7 +77,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Simulate Content from the Properties Page</strong>: Simulate content for email assets from <i>Email Properties</i> without having to go back into the editing screen.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
    <tr>
@@ -87,7 +87,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Role-based Access Control for Assets</strong>: The May release saw Role-based Access Control (RBAC) implemented for Edit, Approve, and Delete permissions. Read permissions are now available with this release.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -97,7 +97,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Edit Email Properties for Published Emails</strong>: Make edits in <i>Email Properties</i> even after the email is published.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Select Branding Domain and Domain IP Configuration</strong>: You can now select a "Branding domain" and "Domain IP configuration" for every email asset.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>REST API Error Code Notification Updates</strong>: Two additional classes of REST API error in in-app notifications have been added: 606 - Max Rate Limit Exceeded and 607 - Daily Quota Reached.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -127,7 +127,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Display Program Member Standard Fields in Field Management</strong>: Both standard and custom program member fields in <i>Field Management</i> are now visible.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -137,7 +137,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>REST API Names in Field Management</strong>: This update allows admins to see REST API field names without having to export the list.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -147,7 +147,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Munchkin Cookies and ECIDs are Viewable</strong>: You can now see a list of Munchkin cookie and ECID (Experience Cloud Identity) numbers in the _Info_ tab of a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">Person Details Page</a>, reducing the dependence on API calls to obtain that information.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
  </tbody>

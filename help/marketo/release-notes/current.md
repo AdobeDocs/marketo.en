@@ -53,8 +53,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Bullets</strong>: You can now create multi-level bullets when authoring an email in the Email Designer.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Released</td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td>&nbsp;</td>

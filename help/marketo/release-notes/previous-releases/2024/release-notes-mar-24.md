@@ -25,7 +25,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Advanced Conversational Flow Logic</strong>: Add additional fields for evaluation in a single choice for Conversational Flow follow-up.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Conversational Flow Settings for Marketo Engage Forms</a></td>
   </tr>
    <tr>
@@ -36,7 +36,7 @@ The following features fall under the standard release cycle and will start to b
    </tr>
     <tr>
    <td><strong>Reorder Conversational Flow Logic</strong>: In Marketo Engage Forms, you can now reorder the Conversational Flow choices, instead of having to delete and add back.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Conversational Flow Settings for Marketo Engage Forms</a></td>
    </tr>
   <tr>
@@ -47,7 +47,7 @@ The following features fall under the standard release cycle and will start to b
     <tr>
    <td><strong>API Activity Metadata</strong>:
    Metadata such as User Agent, Platform, and Device are now included in web and email activities, helping to provide consistent insights into these activities via the Marketo REST API.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
  </tbody>

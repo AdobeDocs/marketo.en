@@ -25,7 +25,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
     <tr>
    <td><strong>On-Demand Webinars for Interactive Webinars</strong>: On-Demand Webinars allows you to publish the webinar recording as well as track its visits/watches. This will help you obtain more leads through registrants who did not attend the webinar (no-show) but are still interested in finding out more details and viewing the recording.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">On-Demand Webinars</a></td>
   </tr>
    <tr>
@@ -45,7 +45,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
     <tr>
    <td><strong>Filtering Email Bot Activity</strong>: Improves capturing bot activity for email engagement by allowing you to choose how aggressive you want bot activity identification filtering to be.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtering Email Bot Activity</a></td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ The following features fall under the standard release cycle and will start to b
    </tr>
     <tr>
    <td><strong>Bulk Lead Import API Update</strong>: A minor adjustment has been made to the Bulk Lead Import API's behavior when <b>id</b> is specified as the <b>lookupField</b> during job creation. If a person record linked to the provided <b>id</b> is not found in the Marketo Engage database, no record update will occur, as the record cannot be located. The updated behavior now includes incrementing the count in the <b>numOfRowsFailed</b> property within the response, signaling that the operation has failed in such cases.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ The following features fall under the standard release cycle and will start to b
    </tr>
   <tr>
    <td><strong>Co-hosts for Interactive Webinars</strong>: Co-hosts in the Webinar Team section of Interactive Webinars allow the event creator to add internal or external users to the Interactive Webinars program to share administrative and delivery responsibilities.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Adding a Webinar Team</a></td>
   </tr>
   <tr>
@@ -75,7 +75,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
     <tr>
    <td><strong>Remove a User in Interactive Webinars</strong>: A Marketo Engage Admin can now remove a specific user(s) in Interactive Webinars.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
  </tbody>
@@ -154,7 +154,7 @@ All features below follow an Agile format and are released on various dates befo
     </tr>
     <tr>
    <td><strong>Manual Live Chat Termination</strong>: Both visitors and agents can now manually terminate a live chat session.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Agent Inbox</a></td>
   </tr>
   <tr>

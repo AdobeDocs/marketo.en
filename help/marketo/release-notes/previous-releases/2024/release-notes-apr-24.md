@@ -27,7 +27,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
      <tr>
    <td><strong>Interactive Webinars Enhancements</strong>: You can now provide hosts and presenters with the ability to add a webinar title, rename a room, and manually sync engagement data after the event delivery.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Create an Interactive Webinar</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Manual Sync</a></li></td>
   </tr>
@@ -60,7 +60,7 @@ The following features fall under the standard release cycle and will start to b
    <li>Create List</li>
    <li>Export Campaign Activity</li>
    </td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descriptions of Role Permissions</a></td>
   </tr>
  </tbody>

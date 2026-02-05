@@ -28,7 +28,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -42,7 +42,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -56,7 +56,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -74,7 +74,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -96,7 +96,7 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -110,7 +110,7 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -124,7 +124,7 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -138,7 +138,7 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -152,7 +152,7 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -166,7 +166,7 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>

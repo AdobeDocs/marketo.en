@@ -31,7 +31,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Toggle Switch</a></td>
   </tr>
   </tbody>
@@ -46,7 +46,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -64,7 +64,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -82,7 +82,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
@@ -100,7 +100,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Bulk Export API Information</a></td>
   </tr>
   </tbody>
@@ -122,7 +122,7 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -136,7 +136,7 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Calendar</a></td>
   </tr>
   </tbody>
@@ -150,7 +150,7 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -164,7 +164,7 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -178,7 +178,7 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">Meetings</a></td>
   </tr>
   </tbody>

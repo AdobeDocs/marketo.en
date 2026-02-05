@@ -25,7 +25,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>New Design for Report Configuration in Modern UX</strong>: When setting up a report asset, you will have a <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">new asset tree</a> in the configuration menu as well as the ability to filter on date created and modified.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
    <tr>
@@ -36,7 +36,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
    <tr>
    <td><strong>Compute Formula Flow Step Service</strong>: Compute Formula is a Flow Step service built on Adobe's IO Runtime platform for use with Marketo Engage Smart Campaigns. Those with IO runtime can deploy the service and install it to their Marketo Engage subscriptions, allowing them to compute Excel-like formulas in Marketo Engage Smart Campaigns.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Compute Formula User Guide</a></td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
    <tr>
    <td><strong>Download Recording and Assign Co-host in Interactive Webinars</strong>: You can now add an external co-host for your webinar in case the original host is unavailable. You also now have the ability to download the webinar recording.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">Download Recording</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Create an Interactive Webinar</a></li></td>
   </tr>

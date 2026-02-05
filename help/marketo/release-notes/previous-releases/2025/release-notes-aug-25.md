@@ -27,7 +27,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Reporting</strong>: Email Performance and Email Link Performance reports now show data from emails created using the new Email Designer.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Autocomplete Removal</strong>: The Autocomplete option in the token personalization editor was pointing to erroneous objects and has been removed. There are no plans to reimplement it at this time.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Email Preview Optimization</strong>: Some users were experiencing slower load times when trying to preview their email in the email/email template/fragment details page. This experience has been optimized for up to 60% faster load times.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Template Fixes</strong>: Some out-of-the-box templates were having rendering issues (e.g., not rendering correctly on certain browsers/dark mode, images misaligned, CTA buttons misplaced, and a few more). These are all fixed with this release.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Content Locking Fix</strong>: Previously, if an email template was created with content locking and the template was used to create an email, content locking would persist even when the email was reset or "change design" was selected. This issue is fixed with this release.</td>
-   <td>Shipped</td>
+   <td>Released</td>
    <td>n/a</td>
   </tr>
   </tbody>
