@@ -5,6 +5,7 @@ title: Conditional content
 description: Use conditional content in your emails to dynamicly display content depending on the recipient.
 level: Beginner, Intermediate
 feature: Email Designer
+exl-id: 979ef9db-920f-466f-8c7d-e9de1ee4cf00
 ---
 # Conditional content {#conditional-content}
 

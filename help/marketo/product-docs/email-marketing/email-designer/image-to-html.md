@@ -5,6 +5,7 @@ solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
+exl-id: 529e82aa-c00b-49ce-b561-c2448f6a7a9b
 ---
 # Convert images to HTML templates {#image-to-html}
 

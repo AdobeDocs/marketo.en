@@ -5,6 +5,7 @@ feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: email, design, accessibility
+exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
 ---
 # Design accessible content {#accessible-content}
 
