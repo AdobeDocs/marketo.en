@@ -11,7 +11,9 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/lead
 
 >[!NOTE]
 >
->**Admin Permissions Required**
+>* **Admin Permissions Required**
+>
+>* When creating Facebook Lead Ads forms, make sure the form name does not contain only numeric characters. The form name must be either alphabetic or alphanumeric.
 
 >[!AVAILABILITY]
 >

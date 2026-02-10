@@ -9,17 +9,13 @@ feature: Social
 
 Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads for Marketo.
 
->[!IMPORTANT]
->
->LinkedIn is upgrading their Marketing APIs used by Marketo Engage LinkedIn integrations. These changes will require re-authentication of all LinkedIn LaunchPoint services in your **Admin** > **LaunchPoint** menu between June 7 and December 15, 2024, to avoid service interruption. For more information, please see the [Migration FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
-
 >[!NOTE]
 >
->**Admin Permissions Required**
-
->[!NOTE]
+>* **Admin Permissions Required**
 >
->A LinkedIn lead will not come into Marketo Engage if it matches an existing person record in Marketo that's associated with a company record created using Company APIs, and the Marketo subscription is not connected to a CRM.
+>* When creating LinkedIn Lead Gen forms, make sure the form name does not contain only numeric characters. The form name must be either alphabetic or alphanumeric.
+>
+>* A LinkedIn lead will not come into Marketo Engage if it matches an existing person record in Marketo that's associated with a company record created using Company APIs, and the Marketo subscription is not connected to a CRM.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
