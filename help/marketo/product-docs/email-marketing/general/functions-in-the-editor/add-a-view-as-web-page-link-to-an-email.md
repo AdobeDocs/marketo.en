@@ -11,7 +11,9 @@ Emails have limited capabilities (limited CSS and no JavaScript or forms). Use V
 
 >[!NOTE]
 >
->When creating a new email, View as Web Page is not enabled. If you enable it and clone the email, this setting will be copied.
+>* When creating a new email, View as Web Page is not enabled. If you enable it and clone the email, this setting will be copied.
+>
+>* "View as a Web Page" links expire after six months.
 
 1. Select your email and click **[!UICONTROL Edit Draft]**.
 
