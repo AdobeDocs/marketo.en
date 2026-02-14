@@ -1,7 +1,8 @@
 ---
-description: "Release Notes - January 2026 - Marketo Docs - Product Documentation"
+description: Release Notes - January 2026 - Marketo Docs - Product Documentation
 title: Release Notes - January 2026
 feature: Release Information
+exl-id: 82773c7e-7c25-4407-8283-b1ae21e470f5
 ---
 # Release Notes: January 2026 {#release-notes-jan-26}
 
