@@ -27,6 +27,7 @@ feature-set: Marketo Engage
     + [Icon Glossary](getting-started/things-to-know/icon-glossary.md)
     + [Classic Icon Glossary](getting-started/things-to-know/classic-icon-glossary.md)
     + [Help Center](getting-started/things-to-know/help-center.md)
+    + [AI Assistant for Product Knowledge](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
     + [Marketing Nation Community](getting-started/things-to-know/community.md)
   + Quick Wins {#quick-wins}
     + [Get Set up and Add a Person](getting-started/quick-wins/get-set-up-and-add-a-person.md)
