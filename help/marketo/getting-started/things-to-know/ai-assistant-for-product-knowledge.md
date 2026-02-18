@@ -1,7 +1,7 @@
 ---
 description: "AI Assistant for product knowledge - Marketo Engage Docs - Product Documentation"
-title: Help Center
-feature: AI Assistant for product knowledge
+title: AI Assistant for product knowledge
+feature: Getting Started
 hide: yes
 hidefromtoc: yes
 ---
