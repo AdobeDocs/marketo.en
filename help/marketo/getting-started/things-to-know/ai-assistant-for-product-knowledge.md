@@ -30,3 +30,7 @@ With the Product Knowledge AI Assistant, your teams move faster, collaborate mor
    >[!TIP]
    >
    >Use this icon (icon image here) to expand the screen, and this icon (icon image here) to view the prompt history. <--- HOW FAR BACK? IS THERE A SETTING?
+
+## Quick start: 60-second video overview {#video}
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
