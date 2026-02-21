@@ -68,8 +68,8 @@ The following features fall under the standard release cycle and will start to b
    <li>Segmentations are now sorted in alphabetical order.</li>
    </ul>
    </td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Released</td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td>&nbsp;</td>
@@ -78,8 +78,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Folders</strong>: You can now organize your assets created using the Email Designer (emails, email templates, fragments) with folders.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Released</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
