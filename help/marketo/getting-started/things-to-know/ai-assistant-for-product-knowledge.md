@@ -16,11 +16,11 @@ With the Product Knowledge AI Assistant, your teams move faster, collaborate mor
 
 1. Log in to Marketo Engage via the [Adobe Experience Cloud](https://experience.adobe.com/). 
 
-1. Select the AI assistant icon in the header.
+1. Select the AI assistant icon on the right side of the header.
 
    SCREENSHOT
 
-1. Enter the desired prompt in the prompt window using natural language. 
+1. Enter the desired prompt using natural language. 
 
    SCREENSHOT
 
@@ -30,7 +30,7 @@ With the Product Knowledge AI Assistant, your teams move faster, collaborate mor
 
    >[!TIP]
    >
-   >Use this icon (icon image here) to expand the screen, and this icon (icon image here) to view the prompt history. <--- HOW FAR BACK? IS THERE A SETTING?
+   >Use this icon (icon image here) to expand the screen, and this icon (icon image here) to view your history or start a new conversation.
 
 ## Quick start: 60-second video overview {#video}
 
