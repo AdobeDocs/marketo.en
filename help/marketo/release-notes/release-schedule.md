@@ -27,29 +27,24 @@ _Release dates/features are subject to change_
    <th width="250px">Status</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-aug-25.md">August '25</a></td>
-   <td>August 22, 2025</td>
-   <td>Complete</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-sep-25.md">September '25</a></td>
    <td>September 19, 2025</td>
    <td>Complete</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/current.md">October '25</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-oct-25.md">October '25</a></td>
    <td>October 31, 2025</td>
    <td>Complete</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">January '26</a></td>
+  <td><a href="/help/marketo/release-notes/previous-releases/2026/release-notes-jan-26.md">January '26</a></td>
    <td>January 30, 2026</td>
    <td>In progress</td>
   </tr>
   <tr>
-  <td>February '26</td>
+  <td><a href="/help/marketo/release-notes/current.md">February '26</a></td>
    <td>February 20, 2026</td>
-   <td>On schedule</td>
+   <td>In progress</td>
   </tr>
   <tr>
   <td>March '26</td>
@@ -69,6 +64,11 @@ _Release dates/features are subject to change_
   <tr>
   <td>June '26</td>
    <td>June 26, 2026</td>
+   <td>On schedule</td>
+  </tr>
+  <tr>
+  <td>July '26</td>
+   <td>July 31, 2026</td>
    <td>On schedule</td>
   </tr>
  </tbody>
