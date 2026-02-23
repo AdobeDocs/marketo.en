@@ -11,7 +11,10 @@ A program can be imported from one Marketo Engage subscription to another. For i
 
 >[!CAUTION]
 >
->Programs that have Smart Lists containing a "Custom Object is Updated" trigger will cause the import to fail. Please remove this trigger from all Smart Lists prior to following the steps outlined below.
+>
+>* When importing a program, emails/Landing Pages that contain snippets or [dynamic content](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} will be skipped.
+>
+>* Programs that have Smart Lists containing a "Custom Object is Updated" trigger will cause the import to fail. Please remove this trigger from all Smart Lists prior to following the steps outlined below.
 
 ## Importing a Program {#importing-a-program}
 
@@ -76,7 +79,3 @@ Programs use external assets like email templates, Landing Page templates, image
 >Image type my tokens are not supported for program imports. If a program that has image type my tokens is imported, _no_ tokens will come through.
 
 **Program Tags:** You can use conflict rules to control how program tags that do not exist in the destination account will be treated. Using the default rule will create the program tags, or you can choose to ignore the tags.
-
->[!CAUTION]
->
->When importing a program, emails/Landing Pages that contain [dynamic content](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} will be skipped.
