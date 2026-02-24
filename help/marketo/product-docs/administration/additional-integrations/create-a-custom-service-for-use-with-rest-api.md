@@ -12,7 +12,7 @@ If you want to integrate with Marketo via the ReST API, you'll want to create a 
 >[!PREREQUISITES]
 >
 >* [Create an API Only User Role](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [Create an API Only User](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
+>* [Create an API Only User](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
 >
 
 >[!NOTE]
@@ -37,7 +37,7 @@ If you want to integrate with Marketo via the ReST API, you'll want to create a 
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. Enter a **[!UICONTROL Display Name]** for the service. Select the **[!UICONTROL API Only User]** [previously created](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Enter a **[!UICONTROL Display Name]** for the service. Select the **[!UICONTROL API Only User]** [previously created](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md).
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 

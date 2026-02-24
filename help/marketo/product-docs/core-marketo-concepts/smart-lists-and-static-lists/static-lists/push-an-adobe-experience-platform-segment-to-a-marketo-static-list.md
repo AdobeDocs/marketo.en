@@ -11,7 +11,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 >[!PREREQUISITES]
 >
 >* [Edit the API Role](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} to make sure it has the **Read-Write Person** permission (found under the Access API drop-down).
->* [Create an API User](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"} in Marketo.
+>* [Create an API User](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"} in Marketo.
 >* Go to **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Find the name of the role you just created and click **[!UICONTROL View Details]**. Copy and save the info in **[!UICONTROL Client ID]** and **[!UICONTROL Client Secret]**, as you could need it for Step 7.
 >* In Marketo, create a static list, or find and select one you've already created. You'll need its ID.
 

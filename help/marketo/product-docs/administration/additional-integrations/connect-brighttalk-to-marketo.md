@@ -27,7 +27,7 @@ Learn how to connect your [!DNL BrightTALK] channel to your Marketo instance. In
 
 1. Create an [API Only User Role](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}.
 
-1. [Create an API User](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"}, using the [!DNL BrightTALK] API Role you created during Step 4.
+1. [Create an API User](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}, using the [!DNL BrightTALK] API Role you created during Step 4.
 
 1. Go back to the **[!UICONTROL Admin]** area.
 
