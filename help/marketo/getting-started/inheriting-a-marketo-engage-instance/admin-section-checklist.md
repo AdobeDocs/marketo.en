@@ -63,7 +63,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
 <li>Does your company have policies around deleting users?</li>
 <li>How many users have <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Admin permissions</a>?</li>
 <li>Should any of those users be changed to <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">other roles?</a></li>
-<li>Who are the <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md" target="_blank">API users</a> in this instance?</li></td>
+</td>
   </tr>
   <tr>
    <td>Roles</td>
