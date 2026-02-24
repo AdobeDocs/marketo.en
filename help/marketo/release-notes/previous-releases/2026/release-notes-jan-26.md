@@ -16,25 +16,10 @@ The following features fall under the standard release cycle and will start to b
 
 <table style="table-layout:auto">
  <tbody>
- <tr>
-   <th style="width:65%">Feature</th>
-   <th style="width:10%">Status</th>
-   <th style="width:25%">Documentation</th>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Manage Brands (beta)</strong>: Generate email content based on your organization/brand's specific copywriting guidelines.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
   <tr>
    <td><strong>Email Designer - AI Assistant Enhancement</strong>: You can now directly add brand assets in your prompt and ask the model to refer to that source for generating content, rather than manually adding a brand asset as a file.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Released</td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td>&nbsp;</td>
