@@ -82,7 +82,7 @@ Yes! Create and manage your brand guidelines with [brand themes](/help/marketo/p
 
 **Will making modules for templates be more customizable and scalable?**
 
-Yes, absolutely, more customizable with our WYSIWYG(what-you-see-is-what-you-get) editor.
+Yes, absolutely, more customizable with our WYSIWYG  (what-you-see-is-what-you-get) editor.
 
 **How does the email template creation process work in the new designer? Is it WYSIWYG, or does it require HTML knowledge?**
 
