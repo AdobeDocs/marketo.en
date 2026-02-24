@@ -227,7 +227,6 @@ feature-set: Marketo Engage
       + [Managing Tag Values](product-docs/administration/tags/managing-tag-values.md)
     + Users and Roles {#users-and-roles}
       + [Create an API Only User Role](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
-      + [Create an API Only User](product-docs/administration/users-and-roles/create-an-api-only-user.md)
       + [Create, Delete, Edit and Change a User Role](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
       + [Email Verification](product-docs/administration/users-and-roles/email-verification.md)
       + [Export a List of Users and Roles](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
