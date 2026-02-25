@@ -1107,7 +1107,6 @@ feature-set: Marketo Engage
         + [Email Template Syntax](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
         + [Transitioning to Email Editor 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
       + Functions in the Editor {#functions-in-the-editor}
-        + [Forward to a Friend Link in Emails](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
         + [Include a Calendar Event (.ics) in an Email](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
         + [Make an Email Operational](product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
         + [Preview an Email with Dynamic Content](product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
