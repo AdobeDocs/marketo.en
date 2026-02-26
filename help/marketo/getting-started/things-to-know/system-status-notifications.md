@@ -1,9 +1,10 @@
 ---
-description: "Subscribe to System Status Notifications - Marketo Engage Docs - Product Documentation"
+description: Subscribe to System Status Notifications - Marketo Engage Docs - Product Documentation
 title: Subscribe to System Status Notifications
 feature: Getting Started
 hide: yes
 hidefromtoc: yes
+exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
 ---
 # Subscribe to system status notifications {#subscribe-to-system-status-notifications}
 
