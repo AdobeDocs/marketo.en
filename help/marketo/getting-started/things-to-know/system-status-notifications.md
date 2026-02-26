@@ -96,19 +96,19 @@ After [identifying your data center and pod/server](#identify), follow the steps
 
    <table style="width:600px;">
    <tr>
-   <td style="width:30%;"><b>Major Service Issue</b></td>
+   <td style="width:40%;"><b>Major Service Issue</b></td>
    <td>Service unavailability or severe performance degradation for multiple users on production systems.</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>Minor Service Issue</b></td>
+   <td style="width:40%;"><b>Minor Service Issue</b></td>
    <td>Partial service unavailability or moderate performance degradation for multiple users on production systems.</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>Service Maintenance</b></td>
+   <td style="width:40%;"><b>Service Maintenance</b></td>
    <td>Text</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>Announcements</b></td>
+   <td style="width:40%;"><b>Announcements</b></td>
    <td>Announcements pertaining to...</td>
    </tr>
    </table>
