@@ -8,7 +8,7 @@ exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
 ---
 # Subscribe to system status notifications {#subscribe-to-system-status-notifications}
 
-INTRO TEXT
+Learn how to subscribe to different status notifications to stay up to date on current issues.
 
 >[!PREREQUISITES]
 >
@@ -82,7 +82,7 @@ After [identifying your data center and pod/server](#identify), follow the steps
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
-1. Select the desired product offerings/services you want to receive notifications about and click **Continue**.
+1. Select the product offerings/services you want to receive notifications about and click **Continue**.
 
    >[!TIP]
    >
@@ -94,28 +94,32 @@ After [identifying your data center and pod/server](#identify), follow the steps
 
    ![](assets/subscribe-to-system-status-notifications-8.png)
 
-   <table style="width:600px;">
+   <table style="width:500px;">
    <tr>
-   <td style="width:40%;"><b>Major Service Issue</b></td>
+   <td style="width:35%;"><b>Major Service Issue</b></td>
    <td>Service unavailability or severe performance degradation for multiple users on production systems.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Minor Service Issue</b></td>
+   <td style="width:35%;"><b>Minor Service Issue</b></td>
    <td>Partial service unavailability or moderate performance degradation for multiple users on production systems.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Service Maintenance</b></td>
-   <td>Text</td>
+   <td style="width:35%;"><b>Service Maintenance</b></td>
+   <td>Scheduled windows to perform product maintenance that may impact product availability or performance.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Announcements</b></td>
-   <td>Announcements pertaining to...</td>
+   <td style="width:35%;"><b>Announcements</b></td>
+   <td>Global, product family, or product-related messages that have a wide impact.</td>
    </tr>
    </table>
 
-1. Select the desired regional location and environment. Click **Continue**.
+1. Select the regional location and environment. Click **Continue**.
 
    ![](assets/subscribe-to-system-status-notifications-9.png){width="900"}
+
+   >[!NOTE]
+   >
+   >If you missed where to find this, see [Identify your data center](#identify).
 
 1. Choose your subscription preference, **Email** or **Slack**, and click **Continue**.
 
