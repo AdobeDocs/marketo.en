@@ -79,7 +79,7 @@ After [identifying your data center and pod/server](#identify), follow the steps
 
 1. Click the ![plus sign icon](assets/icon-plus-sign.png) icon next to _Experience Cloud_ to expand the menu. Do the same for _Adobe Marketo Engage_.
 
-   ![](assets/subscribe-to-system-status-notifications-6.png)
+   ![](assets/subscribe-to-system-status-notifications-6.png){width="800" zoomable="yes"}
 
 1. Select the desired product offerings/services you want to receive notifications about and click **Continue**.
 
@@ -87,7 +87,7 @@ After [identifying your data center and pod/server](#identify), follow the steps
    >
    >Check _Adobe Marketo Engage_ to select all.
 
-   ![](assets/subscribe-to-system-status-notifications-7.png)
+   ![](assets/subscribe-to-system-status-notifications-7.png){width="800" zoomable="yes"}
 
 1. Select the desired event types.
 
@@ -114,7 +114,7 @@ After [identifying your data center and pod/server](#identify), follow the steps
 
 1. Select the desired regional location and environment. Click **Continue**.
 
-   ![](assets/subscribe-to-system-status-notifications-9.png)
+   ![](assets/subscribe-to-system-status-notifications-9.png){width="800" zoomable="yes"}
 
 1. Choose your subscription preference, **Email** or **Slack**, and click **Continue**.
 
