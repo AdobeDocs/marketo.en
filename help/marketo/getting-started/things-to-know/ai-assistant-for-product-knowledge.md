@@ -32,6 +32,8 @@ With the Product Knowledge AI Assistant, your teams move faster, collaborate mor
    >
    >Use this icon ![](assets/icon-arrows.png) to expand the screen, and this icon ![](assets/icon-conversation-history.png) to view your history or start a new conversation.
 
-## Quick start: 60-second video overview {#video}
+## Quick start: video overview {#video}
+
+See how the AI Assistant for product knowledge works, in about a minute.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}

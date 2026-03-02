@@ -2,8 +2,6 @@
 description: Subscribe to System Status Notifications - Marketo Engage Docs - Product Documentation
 title: Subscribe to System Status Notifications
 feature: Getting Started
-hide: yes
-hidefromtoc: yes
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
 ---
 # Subscribe to system status notifications {#subscribe-to-system-status-notifications}
@@ -16,8 +14,6 @@ Learn how to subscribe to different status notifications to stay up to date on c
 
 ## Identify your data center {#identify}
 
-+++Identify your data center and pod/server
-
 1. In the **Admin** section of Marketo Engage, click **My Account**.
 
    ![](assets/subscribe-to-system-status-notifications-1.png)
@@ -28,39 +24,19 @@ Learn how to subscribe to different status notifications to stay up to date on c
 
 In the _Data center_ field, the letters are the data center and the numbers are the pod. In the example above, the user is in our Ashburn data center on pod 49. 
 
-In step 7 of [creating a subscription](#create-a-subscription), this user would select the regional location **Marketo Ashburn** and pod **ab49**.
+In step 7 of [the section below](#create-a-subscription), this user would select the regional location **Marketo Ashburn** and pod **ab49**.
 
-<table style="width:300px;">
-  <tr>
-    <th colspan="2">Data center abbreviations</th>
-  </tr>
-  <tr>
-    <td style="width:25%;">ab</td>
-    <td>Ashburn</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sj</td>
-    <td>San Jose</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sn</td>
-    <td>Sydney</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">lon</td>
-    <td>London</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">nld</td>
-    <td>Amsterdam</td>
-  </tr>
-</table>
+**Data center abbreviations**
+
+ab: Ashburn
+sj: San Jose
+sn: Sydney
+lon: London
+nld: Amsterdam
 
 >[!TIP]
 >
 >This method can also be used to identify what Real Time Personalization (RTP) pod/server your subscription is in.
-
-+++
 
 ## Create a subscription {#create-a-subscription}
 
