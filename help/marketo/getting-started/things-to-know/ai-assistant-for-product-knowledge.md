@@ -18,19 +18,19 @@ With the Product Knowledge AI Assistant, your teams move faster, collaborate mor
 
 1. Select the AI assistant icon on the right side of the header.
 
-   SCREENSHOT
+   ![](assets/ai-assistant-pk-1.png)
 
 1. Enter the desired prompt using natural language. 
 
-   SCREENSHOT
+   ![](assets/ai-assistant-pk-2.png)
 
 1. Click the blue arrow to submit your prompt. 
 
-   SCREENSHOT
+   ![](assets/ai-assistant-pk-3.png)
 
    >[!TIP]
    >
-   >Use this icon (icon image here) to expand the screen, and this icon (icon image here) to view your history or start a new conversation.
+   >Use this icon ![](assets/icon-arrows.png) to expand the screen, and this icon ![](assets/icon-conversation-history.png) to view your history or start a new conversation.
 
 ## Quick start: 60-second video overview {#video}
 
