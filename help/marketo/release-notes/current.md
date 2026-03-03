@@ -77,6 +77,8 @@ The following features fall under the standard release cycle and will start to b
 
 ## Announcements {#announcements}
 
+* **SEO Feature Deprecation**: On Tuesday, March 31, 2026, Marketo Engage will deprecate the Search Engine Optimization feature (SEO). If you don't actively use SEO, you don't have to do anything. If you have used SEO recently, you have the option of exporting your data. [Learn more](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
+
 * **Rest API 'access_token' Parameter Deprecation**: The `access_token` query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after March 31, 2026. All new and existing integrations should authenticate REST API calls using the 'Authorization' header, [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **SOAP API Deprecation**: Support for the Marketo SOAP API will end on March 31, 2026. Services which use SOAP API capabilities should be migrated to the [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
