@@ -24,15 +24,15 @@ Learn how to subscribe to different status notifications to stay up to date on c
 
 In the _Data center_ field, the letters are the data center and the numbers are the pod. In the example above, the user is in our Ashburn data center on pod 49. 
 
-In step 7 of [the section below](#create-a-subscription), this user would select the regional location **Marketo Ashburn** and pod **ab49**.
+In step 7 of [the section below](#create-a-subscription), the user would select the regional location **Marketo Ashburn** and pod **ab49**.
 
 **Data center abbreviations**
 
-ab: Ashburn
-sj: San Jose
-sn: Sydney
-lon: London
-nld: Amsterdam
+* ab: Ashburn
+* sj: San Jose
+* sn: Sydney
+* lon: London
+* nld: Amsterdam
 
 >[!TIP]
 >
