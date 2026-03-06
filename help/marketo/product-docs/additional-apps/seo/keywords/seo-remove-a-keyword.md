@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949240
-description: "SEO - Remove a Keyword - Marketo Docs - Product Documentation"
+description: "Remove a keyword from your SEO tracking when you no longer want to optimize for it."
 title: SEO - Remove a Keyword
 exl-id: 4eba33aa-a397-4a02-8d24-3dbd945f9ac4
 feature: SEO

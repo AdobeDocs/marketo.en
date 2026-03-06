@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949184
-description: "SEO - Understanding Pages - Marketo Docs - Product Documentation"
+description: "Understand the Pages and Issues tabs, page optimization score scale, and how to improve your site's search rankings."
 title: SEO - Understanding Pages
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO

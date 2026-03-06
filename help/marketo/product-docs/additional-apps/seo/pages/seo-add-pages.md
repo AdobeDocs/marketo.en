@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949216
-description: "SEO - Add Pages - Marketo Docs - Product Documentation"
+description: "Manually add page URLs to the SEO app when the automatic crawl missed them so you can track performance."
 title: SEO - Add Pages
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 feature: SEO

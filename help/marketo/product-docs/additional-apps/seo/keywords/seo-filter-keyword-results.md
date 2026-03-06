@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949208
-description: "SEO - Filter Keyword Results - Marketo Docs - Product Documentation"
+description: "Filter keyword results by list, SERP rank range, or search field to find the keywords you need."
 title: SEO - Filter Keyword Results
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
 feature: SEO
