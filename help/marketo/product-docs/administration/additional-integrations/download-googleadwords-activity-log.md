@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7512607
-description: "Download [!DNL GoogleAdwords Activity Log] - Marketo Docs - Product Documentation"
+description: "Download the [!DNL Google AdWords] activity log from LaunchPoint to troubleshoot integration issues."
 title: "Download [!DNL GoogleAdwords Activity Log]"
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 feature: Administration

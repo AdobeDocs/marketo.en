@@ -1,5 +1,5 @@
 ---
-description: "Bulk Export API Information - Marketo Docs - Product Documentation"
+description: "How to check Bulk Extract API capacity usage for the last seven days and when allocation resets."
 title: Bulk Export API Information
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration

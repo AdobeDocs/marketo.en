@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10099680
-description: "Import Custom Object Data - Marketo Docs - Product Documentation"
+description: "Steps to import custom object data using a CSV file, including selecting the custom object, dedupe mode, and field mapping."
 title: Import Custom Object Data
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 feature: Custom Objects

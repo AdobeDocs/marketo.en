@@ -1,5 +1,5 @@
 ---
-description: "Adobe Identity Management Overview - Marketo Docs - Product Documentation"
+description: "Overview of Adobe Identity Management for Marketo Engage, including migration timing, Admin Console user management, and profile levels such as System Admin and Product Admin."
 title: Adobe Identity Management Overview
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity

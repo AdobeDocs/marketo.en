@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360311
-description: "Create a New Workspace - Marketo Docs - Product Documentation"
+description: "Steps to create a new workspace, including naming it, selecting person partitions, choosing a primary branded domain, and setting the workspace language."
 title: Create a New Workspace
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces

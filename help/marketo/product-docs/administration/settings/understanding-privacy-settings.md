@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10617187
-description: "Understanding Privacy Settings - Marketo Docs - Product Documentation"
+description: "Overview of privacy and tracking options including Do Not Track browser support, opt-out cookies, and anonymized IP tracking for web visitors."
 title: Understanding Privacy Settings
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration

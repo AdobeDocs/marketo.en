@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360295
-description: "Export a List of All Marketo API Field Names - Marketo Docs - Product Documentation"
+description: "Download a spreadsheet of all Marketo fields and their API names for SOAP API or Munchkin API use."
 title: Export a List of All Marketo API Field Names
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 feature: Field Management

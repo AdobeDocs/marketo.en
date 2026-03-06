@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360335
-description: "Block Field Updates During List Import from Untrusted Sources - Marketo Docs - Product Documentation"
+description: "Block key fields from being overwritten during list imports from untrusted sources to protect existing data."
 title: Block Field Updates During List Import from Untrusted Sources
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management

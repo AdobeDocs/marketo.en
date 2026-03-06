@@ -1,5 +1,5 @@
 ---
-description: "User Sign-in with Adobe ID - Marketo Docs - Product Documentation"
+description: "Steps for users with Adobe Identity to sign in to Marketo Engage using the Continue with AdobeID link and Adobe credentials."
 title: User Sign-in with Adobe ID
 exl-id: d17f4de3-491c-45a7-b4b8-f68b9bd35124
 feature: Marketo with Adobe Identity

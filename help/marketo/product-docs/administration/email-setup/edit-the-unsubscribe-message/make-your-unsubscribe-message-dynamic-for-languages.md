@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6848782
-description: "Make Your Unsubscribe Message Dynamic for Languages - Marketo Docs - Product Documentation"
+description: "Use dynamic content and segmentation to display the unsubscribe message and link in different languages."
 title: Make Your Unsubscribe Message Dynamic for Languages
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10100266
-description: "Understanding Custom Activities - Marketo Docs - Product Documentation"
+description: "Overview of custom activities for tracking business-specific person actions, how they differ from custom objects, and the two-step setup of creating the activity and API implementation."
 title: Understanding Custom Activities
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities

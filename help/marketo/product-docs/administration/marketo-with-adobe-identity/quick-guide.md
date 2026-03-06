@@ -1,5 +1,5 @@
 ---
-description: "Quick Guide - Marketo Docs - Product Documentation"
+description: "Quick reference with links to set up Marketo Engage with Adobe Identity, including System Admin setup, user management, API Only users, and sign-in."
 title: Quick Guide
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity

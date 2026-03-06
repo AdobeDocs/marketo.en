@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10094188
-description: "Approve a Custom Object - Marketo Docs - Product Documentation"
+description: "How to approve new or edited custom objects in Admin, including requirements for one-to-many, many-to-many, and intermediary objects."
 title: Approve a Custom Object
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects

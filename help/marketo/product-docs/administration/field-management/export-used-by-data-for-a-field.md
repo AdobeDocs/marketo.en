@@ -1,6 +1,6 @@
 ---
 unique-page-id: 45417092
-description: "Export Used By Data for a Field - Marketo Docs - Product Documentation"
+description: "Export a list of assets that use a field so you can delegate de-linking to your team."
 title: Export Used By Data for a Field
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management

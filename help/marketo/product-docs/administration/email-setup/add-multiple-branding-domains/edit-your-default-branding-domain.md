@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377392
-description: "Edit Your Default Branding Domain - Marketo Docs - Product Documentation"
+description: "Replace the generic tracking domain with your company branded domain in Admin Email (requires CNAME setup)."
 title: Edit Your Default Branding Domain
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup

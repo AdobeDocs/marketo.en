@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360293
-description: "Rename a Field - Marketo Docs - Product Documentation"
+description: "Steps to rename a custom field in Marketo after removing all of its use in forms, smart lists, and campaigns."
 title: Rename a Field
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management

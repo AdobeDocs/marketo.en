@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7512272
-description: "Add [!DNL Webex] as a [!DNL LaunchPoint] Service - Marketo Docs - Product Documentation"
+description: "Add [!DNL Webex] Webinars as a LaunchPoint service to sync registration and attendance with Marketo."
 title: "Add [!DNL Webex] as a [!DNL LaunchPoint] Service"
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11378468
-description: "Filtering in Audit Trail - Marketo Docs - Product Documentation"
+description: "Filter Audit Trail by time frame, asset type, users, and action to find specific changes."
 title: Filtering in Audit Trail
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail

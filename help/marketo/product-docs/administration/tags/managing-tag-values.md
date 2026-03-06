@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360274
-description: "Managing Tag Values - Marketo Docs - Product Documentation"
+description: "How to add, hide, and show tag values for program tags, including selecting tag type and using the Show Hidden option."
 title: Managing Tag Values
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags

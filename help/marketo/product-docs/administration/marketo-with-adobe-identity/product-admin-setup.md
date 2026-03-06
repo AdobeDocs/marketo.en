@@ -1,5 +1,5 @@
 ---
-description: "Product Admin Setup - Marketo Docs - Product Documentation"
+description: "Steps for Product Admins to complete setup after being invited by a System Admin, including the Get Started link and adding users."
 title: Product Admin Setup
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
 feature: Marketo with Adobe Identity

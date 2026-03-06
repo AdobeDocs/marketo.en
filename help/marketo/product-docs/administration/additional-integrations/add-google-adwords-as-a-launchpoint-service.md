@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6095008
-description: "Add [!DNL Google AdWords] as a [!DNL LaunchPoint] Service - Marketo Docs - Product Documentation"
+description: "Link [!DNL Google AdWords] to Marketo via LaunchPoint to upload offline conversion data for reporting in AdWords."
 title: "Add [!DNL Google AdWords] as a [!DNL LaunchPoint] Service"
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359918
-description: "Edit Landing Page Settings - Marketo Docs - Product Documentation"
+description: "How to edit domain name, fallback page, form prefill, and other landing page options."
 title: Edit Landing Page Settings
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages

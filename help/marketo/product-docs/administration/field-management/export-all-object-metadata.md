@@ -1,5 +1,5 @@
 ---
-description: "Export All Object Metadata - Marketo Docs - Product Documentation"
+description: "Export all objects and their metadata including lead fields, custom objects, activities, channels, and tags as CSV."
 title: Export All Object Metadata
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management

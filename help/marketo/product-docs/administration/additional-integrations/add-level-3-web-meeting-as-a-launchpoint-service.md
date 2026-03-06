@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7512292
-description: "Add [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] Service - Marketo Docs - Product Documentation"
+description: "Add [!DNL Level 3 Web Meeting] as a LaunchPoint service to manage registration and attendance in Marketo."
 title: "Add [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint Service]"
 exl-id: f419b019-33bb-446d-baf5-55393770a703
 feature: Administration, Integrations

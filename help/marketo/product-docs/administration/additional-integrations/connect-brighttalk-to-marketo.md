@@ -1,6 +1,6 @@
 ---
 unique-page-id: 15695874
-description: "Connect [!DNL BrightTALK] to Marketo - Marketo Docs - Product Documentation"
+description: "Connect your [!DNL BrightTALK] channel to Marketo via LaunchPoint using API-only user credentials."
 title: "Connect [!DNL BrightTALK] to Marketo"
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations

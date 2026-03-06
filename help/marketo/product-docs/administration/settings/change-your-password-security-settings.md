@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360185
-description: "Change your Password Security Settings - Marketo Docs - Product Documentation"
+description: "How to set subscription password policy, including templates, expiration, and inactive session timeout."
 title: Change your Password Security Settings
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration

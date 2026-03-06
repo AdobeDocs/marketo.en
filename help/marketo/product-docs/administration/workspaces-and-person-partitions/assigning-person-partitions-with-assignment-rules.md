@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360327
-description: "Assigning Person Partitions with Assignment Rules - Marketo Docs - Product Documentation"
+description: "How to set up assignment rules to route people from your CRM into the correct person partitions."
 title: Assigning Person Partitions with Assignment Rules
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions

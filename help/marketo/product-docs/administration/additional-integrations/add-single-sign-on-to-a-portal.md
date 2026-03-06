@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360356
-description: "Add Single Sign-On to a Portal - Marketo Docs - Product Documentation"
+description: "Enable SAML 2.0 single sign-on so your identity provider authenticates users for Marketo (does not apply to Adobe IMS)."
 title: Add Single Sign-On to a Portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
