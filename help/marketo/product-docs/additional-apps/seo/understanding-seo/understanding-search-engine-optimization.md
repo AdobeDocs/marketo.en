@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949176
-description: "Understanding Search Engine Optimization - Marketo Docs - Product Documentation"
+description: "Overview of Search Engine Optimization (SEO) in Marketo, including glossary and getting started with keywords, pages, and inbound links."
 title: Understanding Search Engine Optimization
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 feature: SEO

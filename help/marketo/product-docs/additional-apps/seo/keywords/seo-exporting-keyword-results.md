@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949210
-description: "SEO - Exporting Keyword Results - Marketo Docs - Product Documentation"
+description: "Export keyword results from the Keywords section to share with your team or create reports."
 title: SEO - Exporting Keyword Results
 exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 feature: SEO

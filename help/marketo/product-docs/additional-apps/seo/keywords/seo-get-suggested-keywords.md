@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949202
-description: "SEO - Get Suggested Keywords - Marketo Docs - Product Documentation"
+description: "Get keyword suggestions from Marketo based on a keyword or a site URL, then add selected keywords to your list."
 title: SEO - Get Suggested Keywords
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 feature: SEO

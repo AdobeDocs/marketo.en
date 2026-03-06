@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949226
-description: "SEO - Understanding Inbound Links - Marketo Docs - Product Documentation"
+description: "Understand inbound links and how they signal site value to search engines."
 title: SEO - Understanding Inbound Links
 exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 feature: SEO

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949247
-description: "SEO - Add an Inbound Link URL Manually - Marketo Docs - Product Documentation"
+description: "Add inbound link URLs manually in the Inbound Links section for tracking."
 title: SEO - Add an Inbound Link URL Manually
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
 feature: SEO

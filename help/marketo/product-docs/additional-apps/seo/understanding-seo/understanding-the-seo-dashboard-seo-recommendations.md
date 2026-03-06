@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949180
-description: "Understanding the SEO Dashboard -SEO Recommendations - Marketo Docs - Product Documentation"
+description: "Use the SEO dashboard Recommendations section to find top page optimization issues and top link opportunities to improve your site."
 title: Understanding the SEO Dashboard -SEO Recommendations
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 feature: SEO
