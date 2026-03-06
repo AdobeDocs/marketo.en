@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360344
-description: "View Field Mappings Between Marketo and [!DNL Salesforce] - Marketo Docs - Product Documentation"
+description: "Learn how to view which [!DNL Salesforce] fields are mapped to Marketo fields in Admin Field Management."
 title: "View Field Mappings Between Marketo and [!DNL Salesforce]"
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10097613
-description: "Add Marketo Custom Object Link Fields - Marketo Docs - Product Documentation"
+description: "How to add link fields to connect custom objects to people or companies for one-to-many and many-to-many structures, including intermediary object usage."
 title: Add Marketo Custom Object Link Fields
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects

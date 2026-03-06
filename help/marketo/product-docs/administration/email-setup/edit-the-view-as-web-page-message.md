@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360253
-description: 'Edit the "View as Web Page" Message - Marketo Docs - Product Documentation'
+description: "Customize the View as Web Page link text and HTML in Admin Email while keeping required variables intact."
 title: Edit the "View as Web Page" Message
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup

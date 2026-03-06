@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360333
-description: "Hide and Unhide a Field - Marketo Docs - Product Documentation"
+description: "Hide fields from the Marketo UI when no longer needed or unhide them to display again."
 title: Hide and Unhide a Field
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management

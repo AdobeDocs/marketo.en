@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7515767
-description: "Share Segmentations Across Workspaces and Partitions - Marketo Docs - Product Documentation"
+description: "Rules and steps for sharing segmentations across workspaces and partitions, including limits and tips for creating segmentations in the Default workspace."
 title: Share Segmentations Across Workspaces and Partitions
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces

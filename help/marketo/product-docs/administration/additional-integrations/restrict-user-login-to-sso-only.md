@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360358
-description: "Restrict User Login to SSO Only - Marketo Docs - Product Documentation"
+description: "Require SSO for all users so they cannot bypass SSO security via Admin Login Settings (does not apply to Adobe IMS)."
 title: Restrict User Login to SSO Only
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration

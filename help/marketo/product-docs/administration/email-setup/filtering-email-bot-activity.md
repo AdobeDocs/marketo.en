@@ -1,5 +1,5 @@
 ---
-description: "Filtering Email Bot Activity - Marketo Docs - Product Documentation"
+description: "Filter or log email bot activity to prevent inflated opens and clicks using IAB list matching and proximity patterns."
 title: Filtering Email Bot Activity
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup

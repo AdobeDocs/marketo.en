@@ -1,5 +1,5 @@
 ---
-description: "Email Tracking Link Headers - Marketo Docs - Product Documentation"
+description: "How to customize email tracking link headers in Admin under Email, including Strict-Transport-Security for HTTPS, with IT review guidance."
 title: Email Tracking Link Headers
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 feature: Administration

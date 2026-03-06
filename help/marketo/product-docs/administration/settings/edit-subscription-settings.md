@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10099785
-description: "Edit Subscription Settings - Marketo Docs - Product Documentation"
+description: "How to give your Marketo subscription a unique display name so you can tell multiple subscriptions apart."
 title: Edit Subscription Settings
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 feature: Administration

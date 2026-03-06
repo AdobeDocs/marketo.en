@@ -1,5 +1,5 @@
 ---
-description: "Add or Remove a User - Marketo Docs - Product Documentation"
+description: "How to add or remove Marketo Engage users in the Adobe Admin Console by selecting a product profile and managing the Users tab."
 title: Add or Remove a User
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity

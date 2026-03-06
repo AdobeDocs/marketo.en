@@ -1,5 +1,5 @@
 ---
-description: "Mark a Field as Sensitive - Marketo Docs - Product Documentation"
+description: "Mark fields as sensitive so their values are never pre-filled in forms to protect user data."
 title: Mark a Field as Sensitive
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management

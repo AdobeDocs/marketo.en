@@ -1,5 +1,5 @@
 ---
-description: "Campaign Inspector - Marketo Docs - Product Documentation"
+description: "How to enable and use the Campaign Inspector from to view and search all Smart Campaigns in one place."
 title: Campaign Inspector
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector

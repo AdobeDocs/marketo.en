@@ -1,5 +1,5 @@
 ---
-description: "Admin Setup - Marketo Docs - Product Documentation"
+description: "Initial setup steps for Adobe System Admins after being added to Marketo Engage, including creating a product profile in the Adobe Admin Console."
 title: Admin Setup
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity

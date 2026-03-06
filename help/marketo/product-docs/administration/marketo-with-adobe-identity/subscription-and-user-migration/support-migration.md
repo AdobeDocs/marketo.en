@@ -1,5 +1,5 @@
 ---
-description: "Marketo Engage Support Migration - Marketo Docs - Product Documentation"
+description: "Overview of Support migration to Adobe Admin Console and Experience League for user management and Support ticket submission, including case migration and PSA role."
 title: Marketo Engage Support Migration
 feature: Marketo with Adobe Identity
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377958
-description: "User Login History - Marketo Docs - Product Documentation"
+description: "View who has logged into your subscription and when, including failed attempts, via Admin Users and Roles."
 title: User Login History
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail

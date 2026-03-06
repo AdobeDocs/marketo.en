@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10095636
-description: "Enable No-Draft for Snippets - Marketo Docs - Product Documentation"
+description: "Learn how to enable No-Draft for Snippets so snippet changes apply to approved assets without requiring new drafts."
 title: Enable No-Draft for Snippets
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles

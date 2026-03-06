@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11380986
-description: "Edit a Workspace - Marketo Docs - Product Documentation"
+description: "Learn how to change a workspace's lead partition, primary person partition, and primary branded domain."
 title: Edit a Workspace
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces

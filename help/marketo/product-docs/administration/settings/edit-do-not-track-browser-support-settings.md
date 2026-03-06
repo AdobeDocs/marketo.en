@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6095047
-description: 'Edit "Do Not Track" Browser Support Settings - Marketo Docs - Product Documentation'
+description: "How to honor or ignore the browser Do Not Track request by editing Person Tracking."
 title: Edit "Do Not Track" Browser Support Settings
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration

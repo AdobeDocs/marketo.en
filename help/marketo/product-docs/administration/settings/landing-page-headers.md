@@ -1,5 +1,5 @@
 ---
-description: "Landing Page Headers - Marketo Docs - Product Documentation"
+description: "How to customize HTTP headers for landing page domains, including Strict-Transport-Security and X-Frame-Options."
 title: Landing Page Headers
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages

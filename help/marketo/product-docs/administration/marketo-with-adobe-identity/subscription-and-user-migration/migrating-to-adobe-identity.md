@@ -1,5 +1,5 @@
 ---
-description: "Migrating to Adobe Identity - Marketo Docs - Product Documentation"
+description: "How to use the Migration Console for pre-migration date selection and self-service user migration when your subscription moves to Adobe Identity, including SSO and non-SSO flows."
 title: Migrating to Adobe Identity
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0

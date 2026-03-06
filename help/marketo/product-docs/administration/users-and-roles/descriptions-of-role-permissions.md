@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6848747
-description: "Descriptions of Role Permissions - Marketo Docs - Product Documentation"
+description: "Reference list of all role permissions in Marketo, including Access Admin, Access API, and other permission groups you can assign when creating or editing roles."
 title: Descriptions of Role Permissions
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles

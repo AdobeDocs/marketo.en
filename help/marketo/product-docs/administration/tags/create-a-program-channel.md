@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2950682
-description: "Create a Program Channel - Marketo Docs - Product Documentation"
+description: "Steps to create a program channel with statuses and progression steps, including program type, success status, and mobile check-in options for events."
 title: Create a Program Channel
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags

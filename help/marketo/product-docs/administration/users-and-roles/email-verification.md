@@ -1,5 +1,5 @@
 ---
-description: "Email Verification - Marketo Docs - Product Documentation"
+description: "Overview of email verification for Marketo Engage users, including why it is required, invite flow, verification email, and resolving multiple login IDs."
 title: Email Verification
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles

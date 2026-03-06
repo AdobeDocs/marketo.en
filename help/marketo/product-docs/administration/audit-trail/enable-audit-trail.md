@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11382122
-description: "Enable Audit Trail - Marketo Docs - Product Documentation"
+description: "Enable Audit Trail and Login History for a role and assign the role to users via Admin permissions."
 title: Enable Audit Trail
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail

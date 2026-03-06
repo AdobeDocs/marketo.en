@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2950660
-description: "Create Custom Tags - Marketo Docs - Product Documentation"
+description: "How to create a new tag type with values, choose which program types it applies to, and set the tag as required or optional."
 title: Create Custom Tags
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags

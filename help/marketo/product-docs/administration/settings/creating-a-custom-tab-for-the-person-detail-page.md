@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360305
-description: "Creating a Custom Tab for the Person Detail Page - Marketo Docs - Product Documentation"
+description: "How to create a custom layout for the person detail page."
 title: Creating a Custom Tab for the Person Detail Page
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration

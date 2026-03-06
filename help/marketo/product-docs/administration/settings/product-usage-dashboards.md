@@ -1,5 +1,5 @@
 ---
-description: "Product Usage Dashboards - Marketo Docs - Product Documentation"
+description: "How to access Product Usage Dashboards to view usage against limits, activity metrics, and key subscription metrics."
 title: Product Usage Dashboards
 hide: yes
 hidefromtoc: yes

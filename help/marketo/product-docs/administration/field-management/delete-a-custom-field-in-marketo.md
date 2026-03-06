@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360339
-description: "Delete a Custom Field in Marketo - Marketo Docs - Product Documentation"
+description: "How to remove a custom field from use by hiding it from the user interface when it is no longer needed."
 title: Delete a Custom Field in Marketo
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
 feature: Field Management

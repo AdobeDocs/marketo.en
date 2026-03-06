@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11378713
-description: "Trigger Off Custom Object Changes - Marketo Docs - Product Documentation"
+description: "How to use custom object add or change triggers in a smart campaign smart list for Marketo custom objects, with steps to add the trigger and set constraints."
 title: Trigger Off Custom Object Changes
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects

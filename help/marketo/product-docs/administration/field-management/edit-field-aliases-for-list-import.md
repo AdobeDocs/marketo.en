@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360346
-description: "Edit Field Aliases for List Import - Marketo Docs - Product Documentation"
+description: "Create and edit field aliases so list imports with unknown column headers map to the correct Marketo fields."
 title: Edit Field Aliases for List Import
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management

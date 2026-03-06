@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2951259
-description: "Custom Field Type Glossary - Marketo Docs - Product Documentation"
+description: "Reference for custom field types in Marketo including Boolean, Currency, Date, Email, Formula, and more."
 title: Custom Field Type Glossary
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359906
-description: "Managing Marketo Users - Marketo Docs - Product Documentation"
+description: "Steps to create and delete users, reset passwords, and edit user information and permissions for subscriptions not using Adobe Identity."
 title: Managing Marketo Users
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles

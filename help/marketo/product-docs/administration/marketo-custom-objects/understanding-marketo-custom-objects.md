@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10093188
-description: "Understanding Marketo Custom Objects - Marketo Docs - Product Documentation"
+description: "Overview of custom objects for tracking business-specific metrics, including one-to-many and many-to-many relationships, filters, triggers, and where to access them in Admin."
 title: Understanding Marketo Custom Objects
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects

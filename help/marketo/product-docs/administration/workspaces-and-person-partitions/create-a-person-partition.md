@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360315
-description: "Create a Person Partition - Marketo Docs - Product Documentation"
+description: "Steps to create a new person partition, name it, and assign it to workspaces."
 title: Create a Person Partition
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions

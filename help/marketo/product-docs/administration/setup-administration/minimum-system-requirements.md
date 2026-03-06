@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359900
-description: Minimum System Requirements - Marketo
+description: "Hardware and software requirements to use Marketo Engage, including OS, display resolution, browser, and network allowlist details."
 title: Minimum System Requirements
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
