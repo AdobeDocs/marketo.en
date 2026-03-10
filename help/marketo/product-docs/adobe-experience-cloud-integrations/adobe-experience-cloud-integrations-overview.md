@@ -1,5 +1,5 @@
 ---
-description: "Adobe Experience Cloud Integrations Overview - Marketo Docs - Product Documentation"
+description: "Learn about Adobe Experience Cloud integrations with Marketo Engage, including native audience syncing and Audience Manager. Set up integrations and unlock B2B demand marketing across Adobe apps."
 title: Adobe Experience Cloud Integrations Overview
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
