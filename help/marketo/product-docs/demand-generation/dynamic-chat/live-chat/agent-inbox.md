@@ -10,7 +10,7 @@ Agents will field live chats within the Agent Inbox. In addition to the active c
 
    ![](assets/agent-inbox-1.png)
 
-## Availability Toggle {#availability-toggle}
+## Availability toggle {#availability-toggle}
 
 On the upper-right side of the Agent Inbox screen, you have the option to set your status as available or unavailable.
 
@@ -24,7 +24,7 @@ On the upper-right side of the Agent Inbox screen, you have the option to set yo
 >
 >Setting your status to unavailable will not affect any active chats.
 
-## Live Chat Notifications {#live-chat-notifications}
+## Live Chat notifications {#live-chat-notifications}
 
 Learn more about notifications in the [Live Chat Overview](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
@@ -38,13 +38,13 @@ On the left side of the Agent Inbox screen, you can choose to display only the a
 >
 >While you can see past (inactive) conversations from yourself and other agents, you will only be able to see your own active conversations.
 
-## Visitor Information {#visitor-information}
+## Visitor information {#visitor-information}
 
 On the right side of the Agent Inbox screen, you'll be able to see (from top to bottom) their: name, job title, email address, phone number, and CRM status. Any information not passed along will be displayed as a dash (-).
 
    ![](assets/agent-inbox-5.png)
 
-## End a Session {#end-a-session}
+## End a session {#end-a-session}
 
 Agents have the ability to manually terminate a session simply by clicking the **End session** button next to the visitor information.
 
@@ -84,7 +84,7 @@ Shortcuts, powered by the generative AI [Response library](/help/marketo/product
 
    ![](assets/agent-inbox-12.png)
 
-## Activity History {#activity-history}
+## Activity history {#activity-history}
 
 Below the visitor information is activity history. View activity types and dates, and even view chat transcripts.
 
@@ -94,7 +94,7 @@ Below the visitor information is activity history. View activity types and dates
 >
 >Information is displayed for the past 90 days only.
 
-## Calendar Sharing {#calendar-sharing}
+## Calendar sharing {#calendar-sharing}
 
 At the bottom of the live chat window is an icon that allows you to share your or another agent's calendar with the chat visitor.
 
@@ -110,7 +110,13 @@ At the bottom of the live chat window is an icon that allows you to share your o
 
    ![](assets/agent-inbox-16.png)
 
-## Conversation Summary {#conversation-summary}
+## Download transcript {#download-transcript}
+
+After a live chat ends, click the **Download transcript** button the bottom of the chat window and a .txt file of the conversation automatically downloads to your "Downloads" folder. 
+
+   ![](assets/agent-inbox-17.png)
+
+## Conversation summary {#conversation-summary}
 
 >[!NOTE]
 >
@@ -118,7 +124,7 @@ At the bottom of the live chat window is an icon that allows you to share your o
 
 Conversation Summary generates a quick summary for you in real-time, including topics the visitor has expressed interest in. It is available in the bottom-right of every chat screen.
 
-   ![](assets/agent-inbox-17.png)
+   ![](assets/agent-inbox-18.png)
 
    >[!NOTE]
    >
