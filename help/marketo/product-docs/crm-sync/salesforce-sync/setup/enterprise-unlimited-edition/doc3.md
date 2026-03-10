@@ -1,5 +1,5 @@
 ---
-description: "Step 3 of 3 - Connect Marketo and Salesforce (Enterprise/Unlimited) - Marketo Docs - Product Documentation"
+description: "Learn how to connect Marketo and Salesforce in the final Enterprise or Unlimited step. Retrieve the sync user security token and set credentials in Marketo Admin."
 title: Step 3 of 3 - Connect Marketo and Salesforce (Enterprise/Unlimited)
 hide: yes
 hidefromtoc: yes

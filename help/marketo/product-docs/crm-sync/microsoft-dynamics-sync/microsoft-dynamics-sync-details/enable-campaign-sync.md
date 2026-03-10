@@ -1,5 +1,5 @@
 ---
-description: "Enable Campaign Sync - Marketo Docs - Product Documentation"
+description: "Learn how to enable campaign sync between Microsoft Dynamics and Marketo. Turn on the option in Admin so Marketo programs sync with Dynamics campaigns."
 title: Enable Campaign Sync
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics

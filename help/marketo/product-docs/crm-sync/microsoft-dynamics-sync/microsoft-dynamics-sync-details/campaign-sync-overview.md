@@ -1,5 +1,5 @@
 ---
-description: "Campaign Sync Overview - Marketo Docs - Product Documentation"
+description: "Learn about campaign sync between Microsoft Dynamics and Marketo. Use Add to Microsoft Campaign and Remove from Microsoft Campaign flow actions and triggers."
 title: Campaign Sync Overview
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics

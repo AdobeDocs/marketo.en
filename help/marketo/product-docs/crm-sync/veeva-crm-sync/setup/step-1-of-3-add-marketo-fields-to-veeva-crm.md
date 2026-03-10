@@ -1,5 +1,5 @@
 ---
-description: "Step 1 of 3 - Add Marketo Fields to [!DNL Veeva] CRM - Marketo Docs - Product Documentation"
+description: "Learn how to add Marketo fields to Veeva CRM before connecting. Create the Score field and optional marketing fields on contact objects in Veeva."
 title: "Step 1 of 3 - Add Marketo Fields to [!DNL Veeva] CRM"
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM

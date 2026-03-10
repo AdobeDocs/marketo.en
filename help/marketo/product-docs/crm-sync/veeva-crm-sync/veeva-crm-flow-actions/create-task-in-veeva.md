@@ -1,5 +1,5 @@
 ---
-description: "Create Task in [!DNL Veeva] - Marketo Docs - Product Documentation"
+description: "Learn how to create tasks in Veeva from Marketo to inform sales what to do and when. Use the Create Task flow step and customize subject, description, and due date."
 title: "Create Task in [!DNL Veeva]"
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
 feature: Veeva CRM

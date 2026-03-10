@@ -1,5 +1,5 @@
 ---
-description: "Step 3 of 3 - Connect Marketo Engage and [!DNL Veeva] CRM - Marketo Docs - Product Documentation"
+description: "Learn how to connect Marketo Engage to Veeva CRM in the final setup step. Configure OAuth, confirm credentials, and sync fields to complete the connection."
 title: "Step 3 of 3 - Connect Marketo Engage and [!DNL Veeva] CRM"
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10097584
-description: "Sync Status - Marketo Docs - Product Documentation"
+description: "Learn about the Microsoft Dynamics sync status and how to monitor throughput and backlog. View the Sync Status and Sync Errors tabs in Admin."
 title: Sync Status
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics

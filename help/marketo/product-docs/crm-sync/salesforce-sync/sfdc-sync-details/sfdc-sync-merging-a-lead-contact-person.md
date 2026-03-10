@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7515133
-description: "SFDC Sync - Merging a Lead/Contact/Person - Marketo Docs - Product Documentation"
+description: "Understand how merging leads, contacts, and people in Salesforce and Marketo works. Learn merge rules for scores, field values, and activity logs."
 title: SFDC Sync - Merging a Lead/Contact/Person
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration

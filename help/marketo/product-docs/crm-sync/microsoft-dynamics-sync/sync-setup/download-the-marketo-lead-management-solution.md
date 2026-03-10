@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6848922
-description: "Download the Marketo Lead Management Solution - Marketo Docs - Product Documentation"
+description: "Learn how to download the Marketo Lead Management solution for Microsoft Dynamics."
 title: Download the Marketo Lead Management Solution
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics

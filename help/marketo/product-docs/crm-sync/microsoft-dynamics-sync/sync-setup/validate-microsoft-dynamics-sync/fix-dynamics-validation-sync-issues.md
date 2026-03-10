@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10095429
-description: "Fix Dynamics Validation Sync Issues - Marketo Docs - Product Documentation"
+description: "Learn how to fix Dynamics validation sync issues when the Validate Sync tool reports errors. Troubleshoot URL, credentials, sync user role, and other setup steps."
 title: Fix Dynamics Validation Sync Issues
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics

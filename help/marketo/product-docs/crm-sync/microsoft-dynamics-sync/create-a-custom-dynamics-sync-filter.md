@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9437903
-description: "Create a Custom [!DNL Dynamics] Sync Filter - Marketo Docs - Product Documentation"
+description: "Learn how to create a custom Dynamics sync filter so only selected records sync to Marketo."
 title: Create a Custom [!DNL Dynamics] Sync Filter
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics

@@ -1,5 +1,5 @@
 ---
-description: "Enable/Disable Custom Object Sync - Marketo Docs - Product Documentation"
+description: "Learn how to enable or disable custom object sync between Veeva CRM and Marketo Engage. Use Admin and Veeva Objects Sync to select and sync custom objects."
 title: Enable/Disable Custom Object Sync
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM

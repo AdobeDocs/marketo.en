@@ -1,6 +1,6 @@
 ---
 unique-page-id: 3571800
-description: "Step 3 of 3 -Connect Marketo and Salesforce (Professional) - Marketo Docs - Product Documentation"
+description: "Learn how to connect Marketo and Salesforce in the final Professional edition step. Retrieve the sync user security token and set credentials in Marketo Admin."
 title: Step 3 of 3 -Connect Marketo and Salesforce (Professional)
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration

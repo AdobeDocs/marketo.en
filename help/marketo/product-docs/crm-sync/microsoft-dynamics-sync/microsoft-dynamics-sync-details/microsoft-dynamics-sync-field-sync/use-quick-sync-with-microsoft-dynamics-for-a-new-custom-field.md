@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10098379
-description: "Use Quick Sync with Microsoft Dynamics for a New Custom Field - Marketo Docs - Product Documentation"
+description: "Learn how to use Quick Sync with Microsoft Dynamics when you add a new custom field. Refresh field data from Dynamics to Marketo after adding the field."
 title: Use Quick Sync with Microsoft Dynamics for a New Custom Field
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics

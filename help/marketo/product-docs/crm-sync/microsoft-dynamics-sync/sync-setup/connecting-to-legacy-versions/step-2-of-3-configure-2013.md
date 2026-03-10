@@ -1,6 +1,6 @@
 ---
 unique-page-id: 3571816
-description: "Step 2 of 3 -Configure Sync User for Marketo (2013 On-Premises) - Marketo Docs - Product Documentation"
+description: "Learn how to configure the sync user for Marketo with Dynamics 2013 on-premises. Set up the user and assign the Marketo Sync User role in Dynamics."
 title: Step 2 of 3 -Configure Sync User for Marketo (2013 On-Premises)
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics

@@ -1,5 +1,5 @@
 ---
-description: "Salesforce Sync Backlog Metrics - Marketo Docs - Product Documentation"
+description: "Learn about Salesforce sync backlog metrics and how to monitor records pending sync. View backlog trend and throughput by object type in Admin and Salesforce."
 title: Salesforce Sync Backlog Metrics
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a

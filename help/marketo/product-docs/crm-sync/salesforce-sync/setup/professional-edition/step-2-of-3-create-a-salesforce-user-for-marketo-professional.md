@@ -1,6 +1,6 @@
 ---
 unique-page-id: 3571797
-description: "Step 2 of 3 -Create a Salesforce User for Marketo (Professional) - Marketo Docs - Product Documentation"
+description: "Learn how to create a Salesforce user for Marketo with Professional edition. Set page layouts and create the sync user with field permissions for lead and contact."
 title: Step 2 of 3 -Create a Salesforce User for Marketo (Professional)
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration

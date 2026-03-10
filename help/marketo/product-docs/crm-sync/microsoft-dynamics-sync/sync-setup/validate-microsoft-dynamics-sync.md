@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783322
-description: "Validate [!DNL Microsoft Dynamics] Sync - Marketo Docs - Product Documentation"
+description: "Learn how to run the Validate Sync tool to verify your Microsoft Dynamics and Marketo setup. Check the seven-step checklist in Admin before making the final connection."
 title: Validate [!DNL Microsoft Dynamics] Sync
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics

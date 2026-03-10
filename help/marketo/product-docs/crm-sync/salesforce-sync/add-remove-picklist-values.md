@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719312
-description: "Add/Remove Picklist Values - Marketo Docs - Product Documentation"
+description: "Learn about adding and removing Salesforce picklist values and how they affect Marketo. Add new values to forms from notifications and remove values manually when needed."
 title: Add/Remove Picklist Values
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration

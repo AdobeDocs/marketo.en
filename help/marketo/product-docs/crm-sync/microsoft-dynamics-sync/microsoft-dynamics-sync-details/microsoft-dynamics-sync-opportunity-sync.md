@@ -1,6 +1,6 @@
 ---
 unique-page-id: 3571844
-description: "Microsoft Dynamics Sync -Opportunity Sync - Marketo Docs - Product Documentation"
+description: "Learn about how opportunity sync works from Microsoft Dynamics to Marketo. Understand one-way sync and how opportunities associate with contacts and leads."
 title: Microsoft Dynamics Sync -Opportunity Sync
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics

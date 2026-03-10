@@ -1,5 +1,5 @@
 ---
-description: "Custom Object Sync - Marketo Docs - Product Documentation"
+description: "Learn how to set up custom object sync from Veeva CRM to Marketo Engage. Enable custom objects in Admin and use them in Smart Lists and triggers."
 title: Custom Object Sync
 hide: yes
 hidefromtoc: yes

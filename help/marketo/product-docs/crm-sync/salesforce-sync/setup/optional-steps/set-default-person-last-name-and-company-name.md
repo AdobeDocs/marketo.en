@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719291
-description: "Set Default Person Last Name and Company Name - Marketo Docs - Product Documentation"
+description: "Learn how to set default person last name and company name for Salesforce sync. Use Admin and Sync Options so partial records sync with default values."
 title: Set Default Person Last Name and Company Name
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
