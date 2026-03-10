@@ -1,5 +1,5 @@
 ---
-description: "Adobe Experience Cloud Interface Overview - Marketo Docs - Product Documentation"
+description: "Learn about the Adobe Experience Cloud Interface and unified shell that delivers Marketo Engage in a single instance. Use it to log in, switch between Adobe products, and access help and notifications."
 title: Adobe Experience Cloud Interface Overview
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
