@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360356
-description: "Enable SAML 2.0 single sign-on so your identity provider authenticates users for Marketo (does not apply to Adobe IMS)."
+description: "Enable SAML 2.0 single sign-on so your identity provider authenticates users for Marketo."
 title: Add Single Sign-On to a Portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
@@ -19,7 +19,7 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 
 >[!IMPORTANT]
 >
->This does not apply to subscriptions onboarded to Adobe Identity. For subscriptions onboarded to Adobe Identity, Single Sign On is set up at the Adobe Org level in Adobe Admin Console. Adobe Admin Console only supports SP-initiated at this time. [Learn more here](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+>This does **not** apply to subscriptions onboarded to Adobe Identity. Previous settings may appear (from prior to the IMS migration), but they no longer apply. For subscriptions onboarded to Adobe Identity, Single Sign On is set up at the Adobe Org level in Adobe Admin Console. [Learn more here](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
