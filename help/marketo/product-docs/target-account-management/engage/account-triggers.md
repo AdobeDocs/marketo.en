@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11380734
-description: "Account Triggers - Marketo Docs - Product Documentation"
+description: "Learn how to listen and act on account-level behavioral activities using account triggers. Use Named Account triggers in smart campaigns to engage key accounts."
 title: Account Triggers
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management

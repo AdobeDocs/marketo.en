@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12255457
-description: "Getting Started with TAM - Marketo Docs - Product Documentation"
+description: "Learn how to get started with TAM after it is added to your instance. Follow steps to set permissions, configure account score, create named accounts, and more."
 title: Getting Started with TAM
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management

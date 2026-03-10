@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11380732
-description: "Account Filters - Marketo Docs - Product Documentation"
+description: "Learn how to identify and engage Named Accounts and personas using account-centric filters. Use TAM filters in smart campaigns to target the right accounts."
 title: Account Filters
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management

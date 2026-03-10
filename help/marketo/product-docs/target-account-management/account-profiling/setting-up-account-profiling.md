@@ -1,6 +1,6 @@
 ---
 unique-page-id: 17432598
-description: "Setting up Account Profiling - Marketo Docs - Product Documentation"
+description: "Learn how to set up Account Profiling and create your Ideal Customer Profile model in TAM. Get started with the Model tab and build your first model."
 title: Setting up Account Profiling
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management

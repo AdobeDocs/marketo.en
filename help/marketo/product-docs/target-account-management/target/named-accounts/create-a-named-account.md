@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12615781
-description: "Create a Named Account - Marketo Docs - Product Documentation"
+description: "Learn how to manually create a named account in TAM. Use the New drop-down, select Create Named Account, and fill out the desired fields."
 title: Create a Named Account
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
 feature: Target Account Management

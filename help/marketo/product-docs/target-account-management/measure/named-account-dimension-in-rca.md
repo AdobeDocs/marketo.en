@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11380789
-description: "Named Account Dimension in RCA - Marketo Docs - Product Documentation"
+description: "Learn how to build revenue-based reports using the Named Account dimension in Revenue Cycle Analytics. Measure pipeline and revenue impact from targeted accounts."
 title: Named Account Dimension in RCA
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11381917
-description: "[!UICONTROL Target Account Management] - Marketo Docs - Product Documentation"
+description: "Learn about Marketo Target Account Management and how it unifies sales and marketing to target key accounts. Get started with licensing and setup steps."
 title: "[!UICONTROL Target Account Management]"
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management

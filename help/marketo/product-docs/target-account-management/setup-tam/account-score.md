@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11380774
-description: "Account Score - Marketo Docs - Product Documentation"
+description: "Learn about Account Scoring and how it helps prioritize engaged target accounts. Configure account scores by assigning lead scores in TAM Admin."
 title: Account Score
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management

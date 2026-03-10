@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11378814
-description: "Account Smart Lists - Marketo Docs - Product Documentation"
+description: "Learn how to create Account Smart Lists to identify high-value accounts. Define account and matched person filters and use results in campaigns or export."
 title: Account Smart Lists
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
