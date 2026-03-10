@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37355609
-description: "New Account Discovery - Marketo Docs - Product Documentation"
+description: "Learn how to find new accounts to target using AI-powered recommendations from your ideal customer profile. Discover and save new target accounts to account lists."
 title: New Account Discovery
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11384433
-description: "Account Team Setup - Marketo Docs - Product Documentation"
+description: "Learn how to set up account teams and map CRM account roles to TAM. Choose which User Lookup Fields become Account Team Members."
 title: Account Team Setup
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management

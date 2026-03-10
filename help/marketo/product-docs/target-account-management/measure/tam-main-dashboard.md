@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11380783
-description: "TAM Main Dashboard - Marketo Docs - Product Documentation"
+description: "Learn about the TAM main dashboard and summary of your target account efforts. Filter by account list and drill into list or named account insights."
 title: TAM Main Dashboard
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management

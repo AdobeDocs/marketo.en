@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11378809
-description: "[!UICONTROL Named Account] Overview - Marketo Docs - Product Documentation"
+description: "Learn about Named Accounts and how they hold people from your targeted companies. View current attribute data for all named accounts on the dashboard."
 title: "[!UICONTROL Named Account] Overview"
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management

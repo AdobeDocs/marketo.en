@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11380785
-description: "Named Account Insights - Marketo Docs - Product Documentation"
+description: "Learn about the Named Account Dashboard and its 360-degree view of target accounts. View engagement, opportunities, account team, and ICP indicators."
 title: Named Account Insights
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management

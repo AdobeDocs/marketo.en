@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11380778
-description: "Permissions - Marketo Docs - Product Documentation"
+description: "Learn how to set up TAM permissions for users and roles. Grant Access Target Account Management and Access ABM Admin to control who can use TAM."
 title: Permissions
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management

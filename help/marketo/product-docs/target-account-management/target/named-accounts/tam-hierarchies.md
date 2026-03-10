@@ -1,6 +1,6 @@
 ---
 unique-page-id: 13795510
-description: "TAM Hierarchies - Marketo Docs - Product Documentation"
+description: "Learn about TAM Hierarchies and how they inherit parent-child relationships from your CRM. Target and report on entire account families with one click."
 title: TAM Hierarchies
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
