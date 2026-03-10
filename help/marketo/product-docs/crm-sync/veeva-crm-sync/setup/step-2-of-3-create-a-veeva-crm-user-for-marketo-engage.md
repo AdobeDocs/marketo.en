@@ -1,5 +1,5 @@
 ---
-description: "Step 2 of 3 - Create a [!DNL Veeva] CRM User for Marketo Engage - Marketo Docs - Product Documentation"
+description: "Learn how to create a Veeva CRM user for Marketo Engage sync. Set page layouts, create the sync user, and assign permissions for field updates."
 title: "Step 2 of 3 - Create a Veeva CRM User for Marketo Engage"
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM

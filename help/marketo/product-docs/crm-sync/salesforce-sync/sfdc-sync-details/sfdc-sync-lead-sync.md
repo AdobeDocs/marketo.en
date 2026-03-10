@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953455
-description: "SFDC Sync - Lead Sync - Marketo Docs - Product Documentation"
+description: "Learn about how lead sync works between Salesforce and Marketo. Understand bidirectional sync, create leads from Marketo, and respect validation rules."
 title: SFDC Sync - Lead Sync
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration

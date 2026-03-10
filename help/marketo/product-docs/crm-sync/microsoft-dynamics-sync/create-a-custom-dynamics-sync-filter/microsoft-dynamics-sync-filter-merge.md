@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10092969
-description: "Microsoft Dynamics Sync Filter -Merge - Marketo Docs - Product Documentation"
+description: "Understand how the Dynamics sync filter works when merging leads. Learn how the winning record sync filter value determines whether the record syncs to Marketo."
 title: Microsoft Dynamics Sync Filter -Merge
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics

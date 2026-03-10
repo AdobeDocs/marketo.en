@@ -1,6 +1,6 @@
 ---
 unique-page-id: 3571813
-description: "Step 1 of 3 -Install the Marketo Solution in Dynamics (2013 On-Premises) - Marketo Docs - Product Documentation"
+description: "Learn how to install the Marketo solution in Dynamics 2013 on-premises. Import the solution and complete the install steps in Dynamics."
 title: Step 1 of 3 -Install the Marketo Solution in Dynamics (2013 On-Premises)
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics

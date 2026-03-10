@@ -1,5 +1,5 @@
 ---
-description: "Salesforce Sync Errors - Marketo Docs - Product Documentation"
+description: "Learn how to view and filter Salesforce sync errors in Marketo. See record-level and job-level failures and use error details to troubleshoot sync issues."
 title: Salesforce Sync Errors
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration

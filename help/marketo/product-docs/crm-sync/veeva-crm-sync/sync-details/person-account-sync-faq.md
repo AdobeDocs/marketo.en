@@ -1,5 +1,5 @@
 ---
-description: "Person Account Sync FAQ - Marketo Docs - Product Documentation"
+description: "Get help on person account sync between Marketo Engage and Veeva CRM. Learn how person accounts sync as company and person and use the Is Person Account filter."
 title: Person Account Sync FAQ
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953461
-description: "SFDC Sync - Field Sync - Marketo Docs - Product Documentation"
+description: "Learn about which Salesforce fields sync to Marketo and how SFDC Type and isDeleted work. Add new fields in Salesforce first so they sync to Marketo automatically."
 title: SFDC Sync - Field Sync
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration

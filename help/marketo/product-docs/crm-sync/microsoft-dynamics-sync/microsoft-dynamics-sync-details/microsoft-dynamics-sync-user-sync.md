@@ -1,6 +1,6 @@
 ---
 unique-page-id: 3571840
-description: "Microsoft [!DNL Dynamics] Sync -User Sync - Marketo Docs - Product Documentation"
+description: "Learn about how user data syncs from Microsoft Dynamics to Marketo. Understand which owner fields sync and how to use them in Smart Lists and flow actions."
 title: Microsoft [!DNL Dynamics] Sync -User Sync
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics

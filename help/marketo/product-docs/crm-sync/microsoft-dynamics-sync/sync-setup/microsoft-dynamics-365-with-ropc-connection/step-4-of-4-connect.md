@@ -1,5 +1,5 @@
 ---
-description: "Step 4 of 4 - Connect the Marketo Solution with Resource Owner Password Control Connection - Marketo Docs - Product Documentation"
+description: "Learn how to connect the Marketo solution to Dynamics 365 with ROPC connection. Enter sync user credentials in Marketo Admin and enable the sync."
 title: Step 4 of 4 - Connect the Marketo Solution with Resource Owner Password Control Connection
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics

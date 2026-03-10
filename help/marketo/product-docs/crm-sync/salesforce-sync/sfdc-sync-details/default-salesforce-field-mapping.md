@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719314
-description: "Default Salesforce Field Mapping - Marketo Docs - Product Documentation"
+description: "Learn about default Salesforce field mapping between Salesforce and Marketo Engage. See how lead, contact, account, and opportunity fields map automatically."
 title: Default Salesforce Field Mapping
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration

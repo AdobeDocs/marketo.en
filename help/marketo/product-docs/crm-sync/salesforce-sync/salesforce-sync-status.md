@@ -1,5 +1,5 @@
 ---
-description: "Salesforce Sync Status - Marketo Docs - Product Documentation"
+description: "Learn about the Salesforce Sync Status dashboard and how to view sync stats. Filter by date, operation type, or object type and export sync errors as CSV."
 title: Salesforce Sync Status
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration

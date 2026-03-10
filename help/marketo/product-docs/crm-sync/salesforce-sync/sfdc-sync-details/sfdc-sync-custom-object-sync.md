@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953471
-description: "SFDC Sync - Custom Object Sync - Marketo Docs - Product Documentation"
+description: "Learn how to set up custom object sync from Salesforce to Marketo. Enable custom objects and use them in Smart Lists, triggers, and campaigns."
 title: SFDC Sync - Custom Object Sync
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 3571833
-description: "Microsoft Dynamics Sync -Contact Sync - Marketo Docs - Product Documentation"
+description: "Learn about how contact sync works between Microsoft Dynamics and Marketo. Understand bidirectional sync, create contacts from Marketo, and data collision rules."
 title: Microsoft Dynamics Sync -Contact Sync
 exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
 feature: Microsoft Dynamics
