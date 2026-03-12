@@ -307,6 +307,10 @@ When a fragment is added to an email or email template, its content cannot be ed
 * **[!UICONTROL Open Fragment]** - This opens a new browser tab with the fragment editor page and details.
 * **[!UICONTROL Break inheritance]** - This breaks the inheritance of the fragment (and its changes) from the source. Use this action to make the fragment content available as independent and editable content within the email or email template. This action also removes the email or email template from the _Used By_ reference for the original fragment.
 
+>[!NOTE]
+>
+>If _Sync with HTML_ is disabled in the email, changes made (including breaking inheritance) will not reflect in the text content.
+
 When you select the fragment on the editor page, these actions are available from the context toolbar and the properties panel on the right.
 
 ![Apply actions to the selected fragment](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}
