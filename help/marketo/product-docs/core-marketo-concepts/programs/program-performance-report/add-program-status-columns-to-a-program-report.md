@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147239
-description: "Add Program Status Columns to a Program Report - Marketo Docs - Product Documentation"
+description: "Learn how to add program status columns to a program report. Include member status in your report columns."
 title: Add Program Status Columns to a Program Report
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs

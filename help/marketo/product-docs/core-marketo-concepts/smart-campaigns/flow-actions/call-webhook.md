@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147023
-description: "Call Webhook - Marketo Docs - Product Documentation"
+description: "Learn how to call a webhook from a Smart Campaign flow step. Send data to an external system when someone enters the flow."
 title: Call Webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns

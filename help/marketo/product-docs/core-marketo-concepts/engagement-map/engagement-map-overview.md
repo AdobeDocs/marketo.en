@@ -1,5 +1,5 @@
 ---
-description: "Engagement Map Overview - Marketo Docs - Product Documentation"
+description: "Learn about the Engagement Map for visualizing your Smart Campaigns. Use it to view triggers, filters, and flow steps intuitively in Marketo."
 title: Engagement Map Overview
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
 ---

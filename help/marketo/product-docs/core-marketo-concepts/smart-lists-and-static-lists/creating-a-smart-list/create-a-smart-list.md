@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557154
-description: "Create a Smart List - Marketo Docs - Product Documentation"
+description: "Learn how to create a Smart List in Marketo. Add a Smart List in the Database or inside a program and define filters."
 title: Create a Smart List
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists

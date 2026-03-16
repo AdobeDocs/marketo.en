@@ -1,5 +1,5 @@
 ---
-description: "Single Flow Actions from Person Detail Page - Marketo Docs - Product Documentation"
+description: "Learn how to run a single flow action from the person detail page. Execute one flow step for a person on demand."
 title: Single Flow Actions from Person Detail Page
 hide: yes
 hidefromtoc: yes

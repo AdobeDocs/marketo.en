@@ -1,5 +1,5 @@
 ---
-description: "Create a concierge - Marketo Docs - Product Documentation"
+description: "Learn how to create a Brand Concierge and add knowledge sources. Set up your first concierge with product catalog or website links."
 title: Create a concierge
 hide: yes
 hidefromtoc: yes

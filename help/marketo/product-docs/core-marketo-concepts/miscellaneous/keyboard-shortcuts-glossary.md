@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147318
-description: "Keyboard Shortcuts Glossary - Marketo Docs - Product Documentation"
+description: "Get help on Marketo keyboard shortcuts for area navigation, calendar, and more. Use shortcuts to move faster in Marketo Engage."
 title: Keyboard Shortcuts Glossary
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
 ---

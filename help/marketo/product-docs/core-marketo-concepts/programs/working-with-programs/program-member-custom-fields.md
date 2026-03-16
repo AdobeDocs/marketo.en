@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37355569
-description: "Program Member Custom Fields - Marketo Docs - Product Documentation"
+description: "Learn about program member custom fields. Store and use custom data for each person in a program."
 title: Program Member Custom Fields
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs

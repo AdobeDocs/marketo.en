@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11386358
-description: "Marketo Sandbox - Marketo Docs - Product Documentation"
+description: "Learn about the Marketo Engage sandbox for testing before production. Use a sandbox instance to test without affecting production."
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
 ---

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147025
-description: "Use a Webhook in a Smart Campaign - Marketo Docs - Product Documentation"
+description: "Learn how to use a webhook in a Smart Campaign. Call an external URL and pass person data from a flow step."
 title: Use a Webhook in a Smart Campaign
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns

@@ -1,5 +1,5 @@
 ---
-description: "Privacy Requests - Marketo Docs - Product Documentation"
+description: "Learn how to manage privacy requests for access and delete in Marketo. Submit requests via Privacy Service UI or API and process consumer data."
 title: Privacy Requests
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
 ---

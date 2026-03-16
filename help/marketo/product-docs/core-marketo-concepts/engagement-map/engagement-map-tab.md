@@ -1,5 +1,5 @@
 ---
-description: "Engagement Map Tab - Marketo Docs - Product Documentation"
+description: "Learn about the Engagement Map tab and its trigger, filter, and flow cards. Click cards to view details and edit campaign elements."
 title: Engagement Map Tab
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
 ---

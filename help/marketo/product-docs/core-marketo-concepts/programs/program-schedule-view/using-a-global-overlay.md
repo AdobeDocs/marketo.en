@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147249
-description: "Using a Global Overlay - Marketo Docs - Product Documentation"
+description: "Learn how to use a global overlay in the Program Schedule View. Apply an overlay across programs for consistent viewing."
 title: Using a Global Overlay
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs

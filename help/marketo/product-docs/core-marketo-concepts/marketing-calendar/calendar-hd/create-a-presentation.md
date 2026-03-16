@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7503971
-description: "Create a Presentation - Marketo Docs - Product Documentation"
+description: "Learn how to create a Marketing Calendar presentation to project views on an HDTV. Set up workspace-specific presentations for your team."
 title: Create a Presentation
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar

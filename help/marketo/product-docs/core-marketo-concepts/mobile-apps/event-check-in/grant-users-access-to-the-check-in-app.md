@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7516639
-description: "Grant Users Access to the Check-in App - Marketo Docs - Product Documentation"
+description: "Learn how to grant users access to the Event Check-in app. Assign the Mobile Event Check-in role so they can check in attendees."
 title: Grant Users Access to the Check-in App
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing

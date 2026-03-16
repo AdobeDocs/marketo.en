@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146952
-description: "Add to List - Marketo Docs - Product Documentation"
+description: "Learn how to add people to a list with the Add to List flow step. Use it to build lists from campaign actions."
 title: Add to List
 exl-id: 30673b95-4eed-4aa5-bca2-5ed5350d28a7
 feature: Smart Campaigns
@@ -14,5 +14,3 @@ This flow step is used to add people to lists.
 Find and select the list you want to add your people to.
 
 ![](assets/add-to-list-2.png)
-
-Pretty simple!

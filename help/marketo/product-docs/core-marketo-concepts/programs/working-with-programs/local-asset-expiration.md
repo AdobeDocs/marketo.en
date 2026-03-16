@@ -1,5 +1,5 @@
 ---
-description: "Local Asset Expiration - Marketo Docs - Product Documentation"
+description: "Learn about local asset expiration in programs. Set when local assets in a program expire and are removed."
 title: Local Asset Expiration
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs

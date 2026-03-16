@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7516612
-description: "Mobile Apps - Marketo Docs - Product Documentation"
+description: "Learn about Marketo mobile apps including Event Check-in and Marketo Moments. Check in event attendees and view key insights when they matter most."
 title: Mobile Apps
 ---
 

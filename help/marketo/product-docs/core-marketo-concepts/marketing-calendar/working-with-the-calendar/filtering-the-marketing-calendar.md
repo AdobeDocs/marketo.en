@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147294
-description: "Filtering the Marketing Calendar - Marketo Docs - Product Documentation"
+description: "Learn how to filter the Marketing Calendar by entry type, program tags, or workspace. Control which scheduled assets are displayed."
 title: Filtering the Marketing Calendar
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar

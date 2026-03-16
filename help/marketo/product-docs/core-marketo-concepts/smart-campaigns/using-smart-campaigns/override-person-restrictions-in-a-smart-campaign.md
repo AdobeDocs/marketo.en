@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147066
-description: "Override Person Restrictions in a Smart Campaign - Marketo Docs - Product Documentation"
+description: "Learn how to override person restrictions in a Smart Campaign. Allow people to run even if they hit communication limits."
 title: Override Person Restrictions in a Smart Campaign
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns

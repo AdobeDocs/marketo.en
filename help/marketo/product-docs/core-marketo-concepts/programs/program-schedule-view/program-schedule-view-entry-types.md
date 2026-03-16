@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147243
-description: "Program Schedule View Entry Types - Marketo Docs - Product Documentation"
+description: "Learn about Program Schedule View entry types. Understand email programs, Smart Campaigns, and other entry types."
 title: Program Schedule View Entry Types
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs

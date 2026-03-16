@@ -1,5 +1,5 @@
 ---
-description: "OA-YYYY-MM-Online Advertising Marketo Landing Page - Marketo Docs - Product Documentation"
+description: "Online Advertising Marketo Landing Page program template. Use it for paid campaigns with Marketo pages."
 title: OA-YYYY-MM-Online Advertising Marketo Landing Page
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c

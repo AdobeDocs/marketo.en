@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147304
-description: "Sharing a Filter Definition in the Marketing Calendar - Marketo Docs - Product Documentation"
+description: "Learn how to share a filter definition in the Marketing Calendar with other users. Copy the filter URL to share with your team."
 title: Sharing a Filter Definition in the Marketing Calendar
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 feature: Marketing Calendar

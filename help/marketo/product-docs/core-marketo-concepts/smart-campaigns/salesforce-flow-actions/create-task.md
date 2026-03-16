@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147017
-description: "Create Task - Marketo Docs - Product Documentation"
+description: "Learn how to create a Salesforce task in a flow step. Create a task for the lead owner when someone enters the flow."
 title: Create Task
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration

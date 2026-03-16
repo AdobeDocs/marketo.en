@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8781911
-description: "Understanding Email Program Cards - Marketo Docs - Product Documentation"
+description: "Learn about Email Program cards in Marketo Moments. View email program status and take action from the mobile app."
 title: Understanding Email Program Cards
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing

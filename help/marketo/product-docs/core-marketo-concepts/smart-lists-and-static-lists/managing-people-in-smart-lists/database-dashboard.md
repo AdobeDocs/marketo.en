@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10097447
-description: "Database Dashboard - Marketo Docs - Product Documentation"
+description: "Learn about the Database dashboard in Marketo. View key metrics for your database and people at a glance."
 title: Database Dashboard
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists

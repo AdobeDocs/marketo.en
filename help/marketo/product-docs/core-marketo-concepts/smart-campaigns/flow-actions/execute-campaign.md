@@ -1,5 +1,5 @@
 ---
-description: "Execute Campaign - Marketo Docs - Product Documentation"
+description: "Learn how to use the Execute Campaign flow step. Run another Smart Campaign when someone reaches this step."
 title: Execute Campaign
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953188
-description: "Inferred Filters - Marketo Docs - Product Documentation"
+description: "Learn about inferred filters in Smart Lists. Understand how Marketo infers filters from linked assets."
 title: Inferred Filters
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists

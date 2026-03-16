@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147078
-description: "Change Person Partition - Marketo Docs - Product Documentation"
+description: "Learn how to change a person partition in a flow step. Move people between workspaces or partitions."
 title: Change Person Partition
 exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
 feature: Smart Campaigns

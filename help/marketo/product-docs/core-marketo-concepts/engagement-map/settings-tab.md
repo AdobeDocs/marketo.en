@@ -1,5 +1,5 @@
 ---
-description: "Settings Tab - Marketo Docs - Product Documentation"
+description: "Learn about the Settings tab for Smart Campaign qualification rules, runs, and recurrence. Set how often people run through your campaign flow."
 title: Settings Tab
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
 ---

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504120
-description: "Launch a Presentation - Marketo Docs - Product Documentation"
+description: "Learn how to launch a Marketing Calendar presentation after setting views and rotation. Display it on an HDTV or external monitor."
 title: Launch a Presentation
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar

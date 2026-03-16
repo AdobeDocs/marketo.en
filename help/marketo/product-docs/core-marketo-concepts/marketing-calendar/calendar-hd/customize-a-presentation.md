@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7503973
-description: "Customize a Presentation - Marketo Docs - Product Documentation"
+description: "Learn how to customize a Marketing Calendar presentation with views and goals. Set rotation frequency and display what matters most to your team."
 title: Customize a Presentation
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar

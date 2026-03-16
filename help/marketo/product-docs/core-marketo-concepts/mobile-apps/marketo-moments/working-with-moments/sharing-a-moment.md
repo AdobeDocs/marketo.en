@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783559
-description: "Sharing a Moment - Marketo Docs - Product Documentation"
+description: "Learn how to share a Moment from the Marketo Moments app. Send key insights or actions to colleagues."
 title: Sharing a Moment
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing

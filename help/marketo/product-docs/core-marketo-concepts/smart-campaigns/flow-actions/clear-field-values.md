@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147324
-description: "Clear Field Values - Marketo Docs - Product Documentation"
+description: "Learn how to clear field values in a Smart Campaign flow step. Remove values from person or company fields."
 title: Clear Field Values
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns

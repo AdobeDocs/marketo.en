@@ -1,5 +1,5 @@
 ---
-description: "Predictive Filters - Marketo Docs - Product Documentation"
+description: "Learn about predictive filters for targeting audiences with AI. Use filters in Smart Lists and campaigns to reach the right people."
 title: Predictive Filters
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences

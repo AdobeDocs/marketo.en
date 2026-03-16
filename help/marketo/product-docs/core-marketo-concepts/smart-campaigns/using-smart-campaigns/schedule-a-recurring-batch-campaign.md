@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146972
-description: "Schedule a Recurring Batch Campaign - Marketo Docs - Product Documentation"
+description: "Learn how to schedule a recurring batch campaign. Set the campaign to run daily, weekly, or monthly on a schedule."
 title: Schedule a Recurring Batch Campaign
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns

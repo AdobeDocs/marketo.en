@@ -1,5 +1,5 @@
 ---
-description: "OP-Deliverability Management - Marketo Docs - Product Documentation"
+description: "Deliverability Management operational program template. Use it to maintain email deliverability."
 title: OP-Deliverability Management
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159

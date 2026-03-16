@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147251
-description: "Creating Custom Overlays in Program Schedule View - Marketo Docs - Product Documentation"
+description: "Learn how to create custom overlays in the Program Schedule View. Add overlay rows to show additional data on the schedule."
 title: Creating Custom Overlays in Program Schedule View
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs

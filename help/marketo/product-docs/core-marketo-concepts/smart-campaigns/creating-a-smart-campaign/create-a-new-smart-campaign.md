@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146931
-description: "Create a New Smart Campaign - Marketo Docs - Product Documentation"
+description: "Learn how to create a new Smart Campaign. Set up triggers or a Smart List and add flow steps to automate actions."
 title: Create a New Smart Campaign
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953120
-description: "Understanding Smart Campaigns - Marketo Docs - Product Documentation"
+description: "Learn about Smart Campaigns for automation in Marketo. Use triggers and flow steps to automate lead nurturing and actions."
 title: Understanding Smart Campaigns
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns

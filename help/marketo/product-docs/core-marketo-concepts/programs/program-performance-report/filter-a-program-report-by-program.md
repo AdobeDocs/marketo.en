@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360047
-description: "Filter a Program Report by Program - Marketo Docs - Product Documentation"
+description: "Learn how to filter a program report by program. Focus your report on specific programs."
 title: Filter a Program Report by Program
 exl-id: 8be2ac9e-7331-4a0d-80d6-ea2e82215919
 feature: Programs

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147027
-description: "Sync Person to SFDC - Marketo Docs - Product Documentation"
+description: "Learn how to sync a person to Salesforce with a flow step. Push lead or contact data to SFDC when they enter the flow."
 title: Sync Person to SFDC
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 feature: Smart Campaigns, Salesforce Integration

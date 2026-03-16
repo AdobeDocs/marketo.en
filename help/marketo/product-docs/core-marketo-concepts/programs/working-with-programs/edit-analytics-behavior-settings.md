@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953405
-description: "Edit Analytics Behavior Settings - Marketo Docs - Product Documentation"
+description: "Learn how to edit analytics behavior settings for a program. Configure how program success and revenue are tracked."
 title: Edit Analytics Behavior Settings
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs

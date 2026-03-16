@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147007
-description: "Change Program Status - Marketo Docs - Product Documentation"
+description: "Learn how to change program status in a flow step. Set member status to Success, or another status, when they enter the flow."
 title: Change Program Status
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns

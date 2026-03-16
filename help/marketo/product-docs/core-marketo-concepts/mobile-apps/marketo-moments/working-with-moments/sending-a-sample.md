@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783561
-description: "Sending a Sample - Marketo Docs - Product Documentation"
+description: "Learn how to send a sample email from Marketo Moments. Test your email by sending a sample to yourself from the app."
 title: Sending a Sample
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing

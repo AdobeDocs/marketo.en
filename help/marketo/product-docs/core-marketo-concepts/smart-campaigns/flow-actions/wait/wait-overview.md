@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146950
-description: "Wait - Marketo Docs - Product Documentation"
+description: "Learn about the Wait flow step in Smart Campaigns. Pause the flow for a duration or until a specific date before continuing."
 title: Wait
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147154
-description: "Sync an SFDC Campaign with a Program - Marketo Docs - Product Documentation"
+description: "Learn how to sync a Salesforce campaign with a Marketo program. Keep member status in sync between SFDC and Marketo."
 title: Sync an SFDC Campaign with a Program
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
