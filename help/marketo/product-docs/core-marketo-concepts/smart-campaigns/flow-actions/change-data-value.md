@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146960
-description: "Change Data Value - Marketo Docs - Product Documentation"
+description: "Learn how to change a data value in a Smart Campaign flow step. Update person or company fields in the flow."
 title: Change Data Value
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns

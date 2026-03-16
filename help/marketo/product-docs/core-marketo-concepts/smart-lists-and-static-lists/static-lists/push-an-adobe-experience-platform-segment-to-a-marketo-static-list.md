@@ -1,5 +1,5 @@
 ---
-description: "Push an Adobe Experience Platform Segment to a Marketo Static List - Marketo Docs - Product Documentation"
+description: "Learn how to push an Adobe Experience Platform segment to a Marketo static list. Sync AEP segments into Marketo lists."
 title: Push an Adobe Experience Platform Segment to a Marketo Static List
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists

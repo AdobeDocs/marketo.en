@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783557
-description: "Marking it Done - Marketo Docs - Product Documentation"
+description: "Learn how to mark a Moment as done in the Marketo Moments app. Clear items from your list when completed."
 title: Marking it Done
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing

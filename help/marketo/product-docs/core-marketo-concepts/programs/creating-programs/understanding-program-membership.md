@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147091
-description: "Understanding Program Membership - Marketo Docs - Product Documentation"
+description: "Learn about program membership and how people enter programs. Understand status and success for program members."
 title: Understanding Program Membership
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs

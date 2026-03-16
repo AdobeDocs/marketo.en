@@ -1,5 +1,5 @@
 ---
-description: "Privacy Management - Marketo Docs - Product Documentation"
+description: "Learn about Privacy Management tools in Marketo Engage for GDPR, CCPA, and more. Handle access and delete requests to comply with regulations."
 title: Privacy Management
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
 ---

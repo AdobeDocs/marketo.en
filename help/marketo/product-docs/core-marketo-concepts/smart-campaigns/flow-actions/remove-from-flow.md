@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147084
-description: "Remove from Flow - Marketo Docs - Product Documentation"
+description: "Learn how to remove people from the flow with the Remove from Flow step. Stop further processing for selected people."
 title: Remove from Flow
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 feature: Smart Campaigns

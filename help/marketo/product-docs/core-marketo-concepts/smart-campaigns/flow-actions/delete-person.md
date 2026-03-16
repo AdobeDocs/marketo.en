@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147082
-description: "Delete Person - Marketo Docs - Product Documentation"
+description: "Learn how to delete a person from the database with a flow step. Remove people who meet criteria from Marketo."
 title: Delete Person
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns

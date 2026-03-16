@@ -1,5 +1,5 @@
 ---
-description: "NUR-YYYY-MM-Advanced Nurture - Marketo Docs - Product Documentation"
+description: "Advanced Nurture program template. Use it for multi-stream nurture with a naming convention."
 title: NUR-YYYY-MM-Advanced Nurture
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950

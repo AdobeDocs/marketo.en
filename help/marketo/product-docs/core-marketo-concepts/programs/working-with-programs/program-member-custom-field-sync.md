@@ -1,5 +1,5 @@
 ---
-description: "Program Member Custom Field Sync - Marketo Docs - Product Documentation"
+description: "Learn about program member custom field sync with Salesforce. Keep custom member data in sync with your CRM."
 title: Program Member Custom Field Sync
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs

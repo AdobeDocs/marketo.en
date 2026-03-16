@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147001
-description: "Using Standard Smart List Rule Logic - Marketo Docs - Product Documentation"
+description: "Learn how to use standard Smart List rule logic in a Smart Campaign. Combine filters with AND logic for qualification."
 title: Using Standard Smart List Rule Logic
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns

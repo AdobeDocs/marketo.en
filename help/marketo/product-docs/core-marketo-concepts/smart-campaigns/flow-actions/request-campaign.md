@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2951703
-description: "Request Campaign - Marketo Docs - Product Documentation"
+description: "Learn how to use the Request Campaign flow step. Trigger another campaign to run when someone reaches this step."
 title: Request Campaign
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns

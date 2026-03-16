@@ -1,5 +1,5 @@
 ---
-description: "CT-YYYY-MM-Content on Marketo Landing Page - Marketo Docs - Product Documentation"
+description: "Content on Marketo Landing Page program template. Use it for content hosted on Marketo landing pages."
 title: CT-YYYY-MM-Content on Marketo Landing Page
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b

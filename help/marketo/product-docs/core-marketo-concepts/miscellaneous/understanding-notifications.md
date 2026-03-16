@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2952292
-description: "Understanding Notifications - Marketo Docs - Product Documentation"
+description: "Learn about Marketo Engage notifications for campaign failures and CRM sync. Subscribe to get alerts by email and stay up to date."
 title: Understanding Notifications
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 ---

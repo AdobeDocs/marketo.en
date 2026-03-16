@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147021
-description: "Change Owner - Marketo Docs - Product Documentation"
+description: "Learn how to change Salesforce owner in a flow step. Assign a new lead or contact owner when people enter the flow."
 title: Change Owner
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 feature: Smart Campaigns, Salesforce Integration

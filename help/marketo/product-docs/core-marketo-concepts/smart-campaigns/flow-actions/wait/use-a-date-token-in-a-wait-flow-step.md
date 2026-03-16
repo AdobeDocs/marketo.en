@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146997
-description: "Use a Date Token in a Wait Flow Step - Marketo Docs - Product Documentation"
+description: "Learn how to use a date token in a wait flow step. Wait until a dynamic date from a token before continuing."
 title: Use a Date Token in a Wait Flow Step
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns

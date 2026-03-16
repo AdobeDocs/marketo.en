@@ -1,5 +1,5 @@
 ---
-description: "Priority Override for Trigger Campaigns - Marketo Docs - Product Documentation"
+description: "Learn about priority override for trigger campaigns. Control which campaign runs when multiple triggers fire for the same person."
 title: Priority Override for Trigger Campaigns
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns

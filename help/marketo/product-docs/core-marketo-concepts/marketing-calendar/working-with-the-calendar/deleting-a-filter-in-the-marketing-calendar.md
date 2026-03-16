@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147302
-description: "Deleting a Filter in the Marketing Calendar - Marketo Docs - Product Documentation"
+description: "Learn how to delete a filter in the Marketing Calendar."
 title: Deleting a Filter in the Marketing Calendar
 exl-id: 1c53f346-ab35-44d4-9b8a-6e31f97044ca
 feature: Marketing Calendar

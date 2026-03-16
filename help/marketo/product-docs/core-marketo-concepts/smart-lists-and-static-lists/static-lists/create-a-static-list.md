@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11387513
-description: "Create a Static List - Marketo Docs - Product Documentation"
+description: "Learn how to create a static list in Marketo. Add a list to the Database and add people manually or by import."
 title: Create a Static List
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists

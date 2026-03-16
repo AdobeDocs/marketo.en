@@ -1,5 +1,5 @@
 ---
-description: "EM-YYYY-MM-DD-Single Email Send - Marketo Docs - Product Documentation"
+description: "Single Email Send program template. Use it to send one-time email campaigns with a clear naming convention."
 title: EM-YYYY-MM-DD-Single Email Send
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48

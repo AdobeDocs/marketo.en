@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146987
-description: "Delete a Flow Step - Marketo Docs - Product Documentation"
+description: "Learn how to delete a flow step from a Smart Campaign. Remove actions you no longer need from the flow."
 title: Delete a Flow Step
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns

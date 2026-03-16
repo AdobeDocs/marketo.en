@@ -1,5 +1,5 @@
 ---
-description: "OP-Preference Management - Marketo Docs - Product Documentation"
+description: "Preference Management operational program template. Use it to manage email and communication preferences."
 title: OP-Preference Management
 hide: yes
 hidefromtoc: yes

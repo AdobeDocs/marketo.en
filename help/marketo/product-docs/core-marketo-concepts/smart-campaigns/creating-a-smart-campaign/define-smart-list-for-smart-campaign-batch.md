@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146940
-description: "Define Smart List for Smart Campaign | Batch - Marketo Docs - Product Documentation"
+description: "Learn how to define the Smart List for a batch Smart Campaign. Choose who enters the campaign with filters."
 title: Define Smart List for Smart Campaign | Batch
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns

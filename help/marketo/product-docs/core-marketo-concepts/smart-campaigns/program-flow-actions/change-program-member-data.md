@@ -1,5 +1,5 @@
 ---
-description: "Change Program Member Data - Marketo Docs - Product Documentation"
+description: "Learn how to change program member data in a flow step. Update member status or custom fields for people in a program."
 title: Change Program Member Data
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns

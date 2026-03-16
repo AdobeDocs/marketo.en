@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7514898
-description: 'Setting Up a Trigger Smart Campaign for Sales Using "Campaign is Requested" - Marketo Docs - Product Documentation'
+description: "Learn how to set up a trigger Smart Campaign for sales using Campaign is Requested. Let sales request campaigns for leads from the CRM."
 title: Setting Up a Trigger Smart Campaign for Sales Using "Campaign is Requested"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns

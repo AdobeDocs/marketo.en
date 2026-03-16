@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147116
-description: "Managing My Tokens - Marketo Docs - Product Documentation"
+description: "Learn how to manage My Tokens in a program. Create and use tokens to personalize program content and emails."
 title: Managing My Tokens
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8781974
-description: "Understanding Event Cards - Marketo Docs - Product Documentation"
+description: "Learn about Event cards in Marketo Moments. View event program details and take action from the mobile app."
 title: Understanding Event Cards
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing

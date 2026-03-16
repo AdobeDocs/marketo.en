@@ -1,5 +1,5 @@
 ---
-description: "Getting Started with Predictive Audiences - Marketo Docs - Product Documentation"
+description: "Learn about Predictive Audiences and AI-driven targeting in Marketo. Use likelihood values and predictive filters to reach your goals."
 title: Getting Started with Predictive Audiences
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences

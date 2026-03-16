@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147015
-description: "Change Engagement Program Stream - Marketo Docs - Product Documentation"
+description: "Learn how to change engagement program stream in a flow step. Move people to a different stream in the engagement program."
 title: Change Engagement Program Stream
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns

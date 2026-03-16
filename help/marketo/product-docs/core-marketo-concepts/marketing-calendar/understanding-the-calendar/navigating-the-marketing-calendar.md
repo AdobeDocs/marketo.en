@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147257
-description: "Navigating the Marketing Calendar - Marketo Docs - Product Documentation"
+description: "Learn how to navigate the Marketing Calendar including 3-week and month modes. Switch views and use the agenda to see scheduled assets."
 title: Navigating the Marketing Calendar
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar

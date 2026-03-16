@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146954
-description: "Remove from List - Marketo Docs - Product Documentation"
+description: "Learn how to remove people from a list with a flow step. Use it to keep lists in sync with behavior or status."
 title: Remove from List
 exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
 feature: Smart Campaigns

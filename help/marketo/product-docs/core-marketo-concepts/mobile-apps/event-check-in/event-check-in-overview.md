@@ -1,5 +1,5 @@
 ---
-description: Event Check-in Overview
+description: "Learn about Event Check-in for checking in customers from a tablet. Use the Check-in app to manage event registration."
 title: Event Check-in Overview
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing

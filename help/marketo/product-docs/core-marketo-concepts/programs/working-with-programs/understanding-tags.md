@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147112
-description: "Understanding Tags - Marketo Docs - Product Documentation"
+description: "Learn about tags for organizing and filtering programs. Use tags to categorize programs and filter reports."
 title: Understanding Tags
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs

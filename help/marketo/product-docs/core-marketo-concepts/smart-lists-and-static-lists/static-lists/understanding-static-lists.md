@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949891
-description: "Understanding Static Lists - Marketo Docs - Product Documentation"
+description: "Learn about static lists in Marketo for fixed sets of people. Use static lists when membership is manually managed."
 title: Understanding Static Lists
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists

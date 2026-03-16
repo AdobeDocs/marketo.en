@@ -1,6 +1,6 @@
 ---
 unique-page-id: 30081815
-description: "Configuring Adobe Experience Manager Integration - Marketo Docs - Product Documentation"
+description: "Learn how to configure Adobe Experience Manager integration with Marketo. Set up AEM so you can access and import assets into Design Studio."
 title: Configuring Adobe Experience Manager Integration
 hide: yes
 hidefromtoc: yes

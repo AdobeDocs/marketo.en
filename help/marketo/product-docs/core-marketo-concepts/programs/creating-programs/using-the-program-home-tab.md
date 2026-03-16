@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147126
-description: "Using the Program Home Tab - Marketo Docs - Product Documentation"
+description: "Learn how to use the Program Home tab. View program overview, performance, and key details in one place."
 title: Using the Program Home Tab
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs

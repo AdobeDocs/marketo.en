@@ -1,5 +1,5 @@
 ---
-description: "OP-Scoring-Behavior - Marketo Docs - Product Documentation"
+description: "Scoring Behavior operational program template. Use it to define how lead scoring works."
 title: OP-Scoring-Behavior
 feature: Programs
 exl-id: c564a301-0054-431a-8f0f-0299cd91b59c

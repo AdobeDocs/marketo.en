@@ -1,5 +1,5 @@
 ---
-description: "OP-Data Management - Marketo Docs - Product Documentation"
+description: "Data Management operational program template. Use it to keep your database clean and updated."
 title: OP-Data Management
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b

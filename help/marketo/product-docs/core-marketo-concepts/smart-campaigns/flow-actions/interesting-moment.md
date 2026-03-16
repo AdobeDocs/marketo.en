@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146956
-description: "Interesting Moment - Marketo Docs - Product Documentation"
+description: "Learn how to create an interesting moment in a flow step. Log key actions for sales visibility in the CRM."
 title: Interesting Moment
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns

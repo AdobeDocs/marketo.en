@@ -1,5 +1,5 @@
 ---
-description: "TS-YYYY-MM-DD-Tradeshow Program - Marketo Docs - Product Documentation"
+description: "Tradeshow program template. Use it for events and tradeshows with consistent naming."
 title: TS-YYYY-MM-DD-Tradeshow Program
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8

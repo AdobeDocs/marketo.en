@@ -1,6 +1,6 @@
 ---
 unique-page-id: 557312
-description: "Smart List Filter Operators Glossary - Marketo Docs - Product Documentation"
+description: "Get help on Smart List filter operators. Understand equals, contains, and other operators for building filters."
 title: Smart List Filter Operators Glossary
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists

@@ -1,5 +1,5 @@
 ---
-description: "NUR-YYYY-MM-Simple Nurture - Marketo Docs - Product Documentation"
+description: "Simple Nurture program template. Use it for basic nurture campaigns with a clear naming convention."
 title: NUR-YYYY-MM-Simple Nurture
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
