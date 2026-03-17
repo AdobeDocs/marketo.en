@@ -1,5 +1,5 @@
 ---
-description: "Notification - Websocket Connection - Marketo Docs - Product Documentation"
+description: "Notification details for Marketo Engage users who received the Unable to Establish a Websocket Connection notification"
 title: Notification - Websocket Connection
 hide: yes
 hidefromtoc: yes

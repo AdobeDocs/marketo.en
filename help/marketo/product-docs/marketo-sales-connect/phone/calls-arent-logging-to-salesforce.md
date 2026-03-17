@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352435
-description: "Calls Aren't Logging to Salesforce - Marketo Docs - Product Documentation"
+description: "Get help when Sales Connect calls are not logging to Salesforce. Troubleshoot connection and activity logging settings."
 title: Calls Aren't Logging to Salesforce
 exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
 feature: Marketo Sales Connect

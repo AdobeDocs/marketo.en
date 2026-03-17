@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14746143
-description: "Sharing Settings - Marketo Docs - Product Documentation"
+description: "Learn how to configure sharing settings to control who can share templates and which categories."
 title: Sharing Settings
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect

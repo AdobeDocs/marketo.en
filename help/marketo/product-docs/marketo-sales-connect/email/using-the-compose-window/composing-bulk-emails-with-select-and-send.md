@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37356578
-description: "Composing Bulk Emails with Select and Send - Marketo Docs - Product Documentation"
+description: "Learn how to compose bulk emails with Select and Send in Sales Connect. Send the same email to multiple contacts with personalization."
 title: Composing Bulk Emails with Select and Send
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect

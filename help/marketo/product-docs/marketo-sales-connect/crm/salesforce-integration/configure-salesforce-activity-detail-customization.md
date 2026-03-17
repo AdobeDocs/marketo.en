@@ -1,5 +1,5 @@
 ---
-description: "Configure Salesforce Activity Detail Customization - Marketo Docs - Product Documentation"
+description: "Learn how to configure Salesforce activity detail customization for Sales Connect. Customize how activities appear in Salesforce."
 title: Configure Salesforce Activity Detail Customization
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352416
-description: "[!UICONTROL Analytics] Page Overview - Marketo Docs - Product Documentation"
+description: "Learn about the Sales Connect Analytics page and email engagement data. View individual and team stats across the Me, Team, and Content tabs."
 title: Analytics Page Overview
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect

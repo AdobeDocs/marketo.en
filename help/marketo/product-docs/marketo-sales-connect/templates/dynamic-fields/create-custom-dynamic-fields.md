@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352508
-description: "Create Custom Dynamic Fields - Marketo Docs - Product Documentation"
+description: "Learn how to create custom dynamic fields in Sales Connect templates. Add merge fields that pull contact or user data into emails."
 title: Create Custom Dynamic Fields
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect

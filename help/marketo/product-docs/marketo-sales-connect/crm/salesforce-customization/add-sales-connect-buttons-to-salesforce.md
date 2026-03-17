@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352463
-description: "Add Sales Connect Buttons to [!DNL Salesforce] - Marketo Docs - Product Documentation"
+description: "Learn how to add Sales Connect buttons to Salesforce. Place Connect buttons in Salesforce for quick access to Sales Connect actions."
 title: Add Sales Connect Buttons to Salesforce
 exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
 feature: Marketo Sales Connect

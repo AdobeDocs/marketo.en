@@ -1,5 +1,5 @@
 ---
-description: "Sales Activity Triggers and Filters - Marketo Docs - Product Documentation"
+description: "Learn about sales activity triggers and filters in Marketo. Use Sales Connect activity to trigger smart campaigns and filters."
 title: Sales Activity Triggers and Filters
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352553
-description: "What is the Sales Connect and Highspot Integration? - Marketo Docs - Product Documentation"
+description: "Learn about the Sales Connect and Highspot integration. Attach Highspot content to sales emails and track engagement."
 title: What is the Sales Connect and Highspot Integration?
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect

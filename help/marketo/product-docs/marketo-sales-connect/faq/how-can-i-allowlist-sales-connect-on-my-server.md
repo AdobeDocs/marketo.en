@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352408
-description: "How Can I Allowlist Sales Connect on My Server? - Marketo Docs - Product Documentation"
+description: "Learn how to allowlist Sales Connect on your server. Add required IPs or domains so Sales Connect can send and track emails."
 title: How Can I Allowlist Sales Connect on My Server?
 exl-id: ae35bf20-d708-4fc8-bd11-6427bacd965b
 feature: Marketo Sales Connect

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352633
-description: "Favorite a Template - Marketo Docs - Product Documentation"
+description: "Learn how to favorite a template in Sales Connect. Pin templates to the top of your list for quick access when composing."
 title: Favorite a Template
 exl-id: f2697fff-5be3-4137-9a8d-8d8f338d9627
 feature: Marketo Sales Connect

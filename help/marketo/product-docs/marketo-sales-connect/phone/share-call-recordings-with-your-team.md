@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352437
-description: "Share Call Recordings with Your Team - Marketo Docs - Product Documentation"
+description: "Learn how to share Sales Connect call recordings with your team. Access and share recorded calls for training or follow-up."
 title: Share Call Recordings with Your Team
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect

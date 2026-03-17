@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352537
-description: "How to Track Your Email Attachments - Marketo Docs - Product Documentation"
+description: "Learn how to track your email attachments in Sales Connect. Make attachments trackable and see when recipients open or download."
 title: How to Track Your Email Attachments
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37356568
-description: "Scheduling an Email - Marketo Docs - Product Documentation"
+description: "Learn how to schedule an email in Sales Connect. Set a date and time for your tracked email to send from the compose window."
 title: Scheduling an Email
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect

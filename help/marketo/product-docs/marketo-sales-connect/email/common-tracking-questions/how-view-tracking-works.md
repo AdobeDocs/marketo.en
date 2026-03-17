@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352536
-description: "How View Tracking Works - Marketo Docs - Product Documentation"
+description: "Understand how view tracking works in Sales Connect. Learn when an email is counted as viewed and how opens are tracked."
 title: How View Tracking Works
 exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
 feature: Marketo Sales Connect

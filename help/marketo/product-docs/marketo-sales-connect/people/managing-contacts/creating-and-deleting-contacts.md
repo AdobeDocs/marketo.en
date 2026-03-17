@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352516
-description: "Creating and Deleting Contacts - Marketo Docs - Product Documentation"
+description: "Learn how to create and delete contacts in Sales Connect. Add new contacts manually or remove contacts from your account."
 title: Creating and Deleting Contacts
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect

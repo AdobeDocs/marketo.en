@@ -1,6 +1,6 @@
 ---
 unique-page-id: 17728401
-description: "Email Connection for Gmail Users - Marketo Docs - Product Documentation"
+description: "Learn about email connection for Gmail users in Sales Connect. Connect Gmail to send tracked emails and log activity to Salesforce."
 title: Email Connection for Gmail Users
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect

@@ -1,5 +1,5 @@
 ---
-description: "Getting Started Guide for [!DNL Sales Connect] Admins - Marketo Docs - Product Documentation"
+description: "Learn how to set up your new Sales Connect instance. Follow steps to access the account, invite users, connect Salesforce and Marketo."
 title: Getting Started Guide for [!DNL Sales Connect] Admins
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect

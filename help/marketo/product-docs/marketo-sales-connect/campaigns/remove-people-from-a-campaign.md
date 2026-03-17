@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352608
-description: "Remove People from a Campaign - Marketo Docs - Product Documentation"
+description: "Learn how to remove people from a Sales Connect campaign. Remove individuals from the campaign or People page, or remove groups in bulk."
 title: Remove People from a Campaign
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect

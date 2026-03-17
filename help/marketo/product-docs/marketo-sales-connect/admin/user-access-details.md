@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352623
-description: "User Access Details - Marketo Docs - Product Documentation"
+description: "Learn about admin and non-admin user permissions in Sales Connect. Understand what each role can access for templates, campaigns, and people."
 title: User Access Details
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect

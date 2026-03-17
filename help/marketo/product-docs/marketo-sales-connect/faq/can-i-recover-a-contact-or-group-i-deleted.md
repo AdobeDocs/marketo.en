@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352485
-description: "Can I Recover a Contact or Group I Deleted? - Marketo Docs - Product Documentation"
+description: "Get help on whether you can recover a deleted contact or group in Sales Connect. Understand recovery options after deletion."
 title: Can I Recover a Contact or Group I Deleted?
 exl-id: 2d12187b-c64a-431f-aefa-d8ed1c90909c
 feature: Marketo Sales Connect

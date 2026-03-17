@@ -1,5 +1,5 @@
 ---
-description: "Accessing Your New Sales Connect Instance - Marketo Docs - Product Documentation"
+description: "Learn how to access your new Sales Connect instance. Get provisioning steps for Marketo admins to grant access to Sales Connect."
 title: Accessing Your New Sales Connect Instance
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 feature: Marketo Sales Connect

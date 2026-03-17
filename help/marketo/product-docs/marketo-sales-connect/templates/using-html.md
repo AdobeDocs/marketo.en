@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352594
-description: "Using HTML - Marketo Docs - Product Documentation"
+description: "Learn how to use HTML in Sales Connect templates. Add custom HTML for formatting, links, or advanced layout in your templates."
 title: Using HTML
 exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 feature: Marketo Sales Connect

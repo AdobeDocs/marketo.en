@@ -1,6 +1,6 @@
 ---
 unique-page-id: 18317338
-description: "Blocked Domains - Marketo Docs - Product Documentation"
+description: "Learn how to block domains in Sales Connect to prevent emailing competitors or spam traps."
 title: Blocked Domains
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect

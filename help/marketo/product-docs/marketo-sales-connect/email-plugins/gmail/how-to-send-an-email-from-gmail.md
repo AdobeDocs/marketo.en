@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352440
-description: "How to Send an Email From Gmail - Marketo Docs - Product Documentation"
+description: "Learn how to send a tracked email from Gmail with the Sales Connect plugin. Compose in Gmail and track opens, clicks, and replies."
 title: How to Send an Email From Gmail
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
 feature: Marketo Sales Connect

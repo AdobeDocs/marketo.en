@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352490
-description: "Didn't Log to Salesforce - Marketo Docs - Product Documentation"
+description: "Get help when Sales Connect activity did not log to Salesforce. Troubleshoot why emails, calls, or tasks are not syncing."
 title: Didn't Log to Salesforce
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
 feature: Marketo Sales Connect

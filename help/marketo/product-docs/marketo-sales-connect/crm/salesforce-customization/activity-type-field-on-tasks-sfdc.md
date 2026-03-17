@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352476
-description: "Activity Type Field on Tasks (SFDC) - Marketo Docs - Product Documentation"
+description: "Understand the activity type field on tasks when syncing Sales Connect to Salesforce. See how task types map and display in Salesforce."
 title: Activity Type Field on Tasks (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect

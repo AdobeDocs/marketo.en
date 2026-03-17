@@ -1,6 +1,6 @@
 ---
 unique-page-id: 15368205
-description: "How to Connect Sales Connect to Your Salesforce Sandbox - Marketo Docs - Product Documentation"
+description: "Learn how to connect Sales Connect to your Salesforce sandbox. Set up the integration in a sandbox environment for testing."
 title: How to Connect Sales Connect to Your Salesforce Sandbox
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect

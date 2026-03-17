@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352601
-description: "Reference Yourself in a Dynamic Field - Marketo Docs - Product Documentation"
+description: "Learn how to reference yourself in a Sales Connect dynamic field. Use the sender's name or details in template personalization."
 title: Reference Yourself in a Dynamic Field
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect

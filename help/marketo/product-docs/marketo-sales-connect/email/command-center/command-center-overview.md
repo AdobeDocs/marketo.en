@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352530
-description: "Command Center Overview - Marketo Docs - Product Documentation"
+description: "Learn about the Command Center in Sales Connect. Manage your email tasks, sent mail, and follow-ups in one place."
 title: Command Center Overview
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect

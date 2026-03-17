@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14746491
-description: "Verify Your Email - Marketo Docs - Product Documentation"
+description: "Learn how to verify your email in Sales Connect. Complete email verification so you can send tracked sales emails."
 title: Verify Your Email
 exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 feature: Marketo Sales Connect

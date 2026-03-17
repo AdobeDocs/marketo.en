@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14746167
-description: "Unsubscribe Group - Marketo Docs - Product Documentation"
+description: "Understand unsubscribe groups in Sales Connect. Organize unsubscribes by group and control which campaigns respect which opt-outs."
 title: Unsubscribe Group
 exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
 feature: Marketo Sales Connect

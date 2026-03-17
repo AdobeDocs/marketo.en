@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352447
-description: "Add Email to Salesforce (Office 365) - Marketo Docs - Product Documentation"
+description: "Learn how to add an email to Salesforce from the Outlook Office 365 plugin. Log sent or received emails to the correct Salesforce record."
 title: Add Email to Salesforce (Office 365)
 exl-id: 8d1a1329-a045-47a5-ada0-2c3a3a34cd07
 feature: Marketo Sales Connect

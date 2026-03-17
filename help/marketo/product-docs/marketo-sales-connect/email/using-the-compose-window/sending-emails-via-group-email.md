@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37356584
-description: "Sending Emails via Group Email - Marketo Docs - Product Documentation"
+description: "Learn how to send emails via group email in Sales Connect. Send one email to a group and track engagement per recipient."
 title: Sending Emails via Group Email
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect

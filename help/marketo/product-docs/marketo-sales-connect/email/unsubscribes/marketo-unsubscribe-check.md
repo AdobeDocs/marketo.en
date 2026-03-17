@@ -1,6 +1,6 @@
 ---
 unique-page-id: 18317340
-description: "Marketo Unsubscribe Check - Marketo Docs - Product Documentation"
+description: "Understand the Marketo unsubscribe check in Sales Connect. Learn how Sales Connect respects Marketo unsubscribe status when sending."
 title: Marketo Unsubscribe Check
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect

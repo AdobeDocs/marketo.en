@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352444
-description: "The Sales Connect Tool Bar - Marketo Docs - Product Documentation"
+description: "Learn about the Sales Connect tool bar in Gmail. Use the plugin toolbar to insert templates, track emails, and log to Salesforce."
 title: The Sales Connect Tool Bar
 exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
 feature: Marketo Sales Connect
