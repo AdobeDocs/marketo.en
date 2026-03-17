@@ -1,5 +1,5 @@
 ---
-description: "Using the Global Search - Marketo Docs - Product Documentation"
+description: "Learn how to use global search in Marketo Engage to find assets across your entire instance. Perform searches, click breadcrumbs to jump to items, and use filters to narrow results."
 title: Using the Global Search
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX

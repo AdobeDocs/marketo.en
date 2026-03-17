@@ -1,5 +1,5 @@
 ---
-description: "Icon Glossary - Marketo Docs - Product Documentation"
+description: "Learn about the icons in the Marketo Engage Modern UX and how they map from Classic. Use this glossary to identify asset types, campaign states, and program types."
 title: Icon Glossary
 hide: yes
 hidefromtoc: yes
