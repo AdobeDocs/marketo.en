@@ -1,5 +1,5 @@
 ---
-description: "Permissions - Marketo Docs - Product Documentation"
+description: "Learn about Dynamic Chat permissions and product profiles in Admin Console. Edit existing profiles or create custom profiles with specific permissions."
 title: Permissions
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406

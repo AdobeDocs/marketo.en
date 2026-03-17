@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359705
-description: "Add a New Form to a Free-Form Landing Page - Marketo Docs - Product Documentation"
+description: "Learn how to add a new form to a free-form landing page in Marketo. Insert a Marketo form to capture leads on the page."
 title: Add a New Form to a Free-Form Landing Page
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages

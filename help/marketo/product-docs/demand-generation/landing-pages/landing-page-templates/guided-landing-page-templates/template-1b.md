@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7515886
-description: "Template 1B - Marketo Docs - Product Documentation"
+description: "Learn about the Template 1B guided landing page template. Download and use it for your Marketo landing pages."
 title: Template 1B
 exl-id: b6085e44-b40c-4f09-a301-057179f5fe0b
 feature: Landing Pages, Guided Landing Page Templates

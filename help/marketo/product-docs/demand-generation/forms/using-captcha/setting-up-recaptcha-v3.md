@@ -1,5 +1,5 @@
 ---
-description: "Setting up reCAPTCHA v3 - Marketo Docs - Product Documentation"
+description: "Learn how to set up reCAPTCHA v3 for Marketo forms. Configure invisible reCAPTCHA to fight spam without blocking users."
 title: Setting up reCAPTCHA v3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 feature: Forms

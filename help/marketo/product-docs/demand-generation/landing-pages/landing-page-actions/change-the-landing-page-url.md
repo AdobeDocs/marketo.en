@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359738
-description: "Change the Landing Page URL - Marketo Docs - Product Documentation"
+description: "Learn how to change the landing page URL in Marketo. Update the URL path or slug for your landing page."
 title: Change the Landing Page URL
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages

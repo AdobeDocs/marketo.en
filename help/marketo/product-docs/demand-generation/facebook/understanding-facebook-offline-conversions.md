@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11383945
-description: "Understanding Facebook Offline Conversions - Marketo Docs - Product Documentation"
+description: "Learn about Facebook offline conversions and how they work with Marketo. Understand how conversion data improves ad performance."
 title: Understanding Facebook Offline Conversions
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations

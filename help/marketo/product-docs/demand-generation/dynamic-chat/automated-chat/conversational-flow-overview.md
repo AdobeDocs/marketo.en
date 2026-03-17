@@ -1,5 +1,5 @@
 ---
-description: "Conversational Flow Overview - Marketo Docs - Product Documentation"
+description: "Learn about Conversational Flows and how they differ from Dialogues. Design flows triggered by visitor actions and use them in forms or pop-ups."
 title: Conversational Flow Overview
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa

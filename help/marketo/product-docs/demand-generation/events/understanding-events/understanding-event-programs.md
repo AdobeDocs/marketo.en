@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949841
-description: "Understanding Event Programs - Marketo Docs - Product Documentation"
+description: "Learn about event programs in Marketo. Understand structure, channels, and how to plan and run events and webinars."
 title: Understanding Event Programs
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events

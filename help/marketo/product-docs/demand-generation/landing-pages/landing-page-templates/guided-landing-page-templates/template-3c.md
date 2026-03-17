@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8160086
-description: "Template 3C - Marketo Docs - Product Documentation"
+description: "Learn about the Template 3C guided landing page template. Download and use it for your Marketo landing pages."
 title: Template 3C
 exl-id: 0bf7cb43-607e-4c9b-a860-511837925a1e
 feature: Landing Pages, Guided Landing Page Templates

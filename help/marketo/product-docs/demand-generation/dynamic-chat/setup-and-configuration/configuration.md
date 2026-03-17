@@ -1,5 +1,5 @@
 ---
-description: "Configuration - Marketo Docs - Product Documentation"
+description: "Learn how to customize the look and feel of your Dynamic Chat dialogue window. Set colors, fonts, placement, avatar, and notification sounds."
 title: Configuration
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf

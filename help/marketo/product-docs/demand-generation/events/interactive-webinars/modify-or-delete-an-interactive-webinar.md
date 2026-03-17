@@ -1,5 +1,5 @@
 ---
-description: "Modify or Delete an Interactive Webinar - Marketo Docs - Product Documentation"
+description: "Learn how to modify or delete an Interactive Webinar in Marketo. Update settings or remove webinars when no longer needed."
 title: Modify or Delete an Interactive Webinar
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars

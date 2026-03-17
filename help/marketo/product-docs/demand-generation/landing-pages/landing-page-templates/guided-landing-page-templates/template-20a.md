@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10092905
-description: "Template 20A - Marketo Docs - Product Documentation"
+description: "Learn about the Template 20A guided landing page template. Download and use it for your Marketo landing pages."
 title: Template 20A
 exl-id: 0a535a43-c7c4-4a07-8562-da85ed4b8d5d
 feature: Landing Pages, Guided Landing Page Templates

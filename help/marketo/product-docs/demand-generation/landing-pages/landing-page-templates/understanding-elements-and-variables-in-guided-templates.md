@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7515069
-description: "Understanding Elements and Variables in Guided Templates - Marketo Docs - Product Documentation"
+description: "Learn about elements and variables in Marketo guided landing page templates. Define what is editable and how content is placed."
 title: Understanding Elements and Variables in Guided Templates
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages

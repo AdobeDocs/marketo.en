@@ -1,5 +1,5 @@
 ---
-description: Learn about the various engagement tools in Interactive Webinars.
+description: "Learn about engagement tools in Interactive Webinars. Use polls, Q&A, and other features to boost attendee interaction during webinars."
 title: Engagement Tools in Interactive Webinars
 hide: yes
 hidefromtoc: yes

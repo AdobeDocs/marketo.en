@@ -1,6 +1,6 @@
 ---
 unique-page-id: 5472348
-description: "Make an Existing Free-form Landing Page Template Mobile Compatible - Marketo Docs - Product Documentation"
+description: "Learn how to make an existing free-form landing page template mobile compatible. Upgrade from the template or landing page editor."
 title: Make an Existing Free-form Landing Page Template Mobile Compatible
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages

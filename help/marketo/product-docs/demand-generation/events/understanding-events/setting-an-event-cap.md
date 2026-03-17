@@ -1,5 +1,5 @@
 ---
-description: "Setting an Event Cap - Marketo Docs - Product Documentation"
+description: "Learn how to set an event cap in Marketo. Limit the number of registrants or attendees for your event program."
 title: Setting an Event Cap
 hide: yes
 hidefromtoc: yes

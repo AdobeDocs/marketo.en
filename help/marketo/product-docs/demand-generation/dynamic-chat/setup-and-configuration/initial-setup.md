@@ -1,5 +1,5 @@
 ---
-description: "Initial Setup - Marketo Docs - Product Documentation"
+description: "Learn how to set up Dynamic Chat for your Marketo instance. Access Admin Console, add users, and connect Dynamic Chat to Marketo."
 title: Initial Setup
 feature: Dynamic Chat
 exl-id: 3ce6bd24-8d08-46ca-b532-871d5813205e

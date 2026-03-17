@@ -1,5 +1,5 @@
 ---
-description: "On-Demand Webinars - Marketo Docs - Product Documentation"
+description: "Learn about on-demand webinars in Marketo Interactive Webinars. Make recorded webinars available for viewing after the live event."
 title: On-Demand Webinars
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42

@@ -1,5 +1,5 @@
 ---
-description: "Room Management - Marketo Docs - Product Documentation"
+description: "Learn about room management for Interactive Webinars. Create and manage webinar rooms and control access and settings."
 title: Room Management
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3

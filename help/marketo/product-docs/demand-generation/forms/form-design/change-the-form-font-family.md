@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359608
-description: "Change the Form Font Family - Marketo Docs - Product Documentation"
+description: "Learn how to change the form font family in Marketo. Select a different font for your form text."
 title: Change the Form Font Family
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms

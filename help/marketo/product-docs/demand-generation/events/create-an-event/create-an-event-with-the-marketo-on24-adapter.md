@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10096656
-description: "Create an Event with the Marketo ON24 Adapter - Marketo Docs - Product Documentation"
+description: "Learn how to create an event with the Marketo ON24 adapter. Connect ON24 webinars to Marketo and sync registration and attendance."
 title: Create an Event with the Marketo ON24 Adapter
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events

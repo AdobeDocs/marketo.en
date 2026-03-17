@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9437822
-description: "Template 15C - Marketo Docs - Product Documentation"
+description: "Learn about the Template 15C guided landing page template. Download and use it for your Marketo landing pages."
 title: Template 15C
 exl-id: 63850bd7-1e63-4fcb-b420-d4528c17a914
 feature: Landing Pages, Guided Landing Page Templates

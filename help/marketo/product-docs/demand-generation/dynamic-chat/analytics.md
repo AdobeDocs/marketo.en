@@ -1,5 +1,5 @@
 ---
-description: "Analytics - Marketo Docs - Product Documentation"
+description: "Learn about Dynamic Chat analytics dashboards for engagement and performance. View dialogue metrics, meeting bookings, and live chat performance and export results."
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843

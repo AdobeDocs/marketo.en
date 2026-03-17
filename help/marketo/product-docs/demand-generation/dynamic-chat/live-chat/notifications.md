@@ -1,5 +1,5 @@
 ---
-description: "Notifications - Marketo Docs - Product Documentation"
+description: "Learn how to enable browser notifications for Dynamic Chat live chat agents. Allow notifications in Chrome, Firefox, or OS settings to receive chat alerts."
 title: Notifications
 hide: yes
 hidefromtoc: yes

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359398
-description: "Create a Form - Marketo Docs - Product Documentation"
+description: "Learn how to create a form in Marketo. Add fields, set up the form, and use it on landing pages or your website to capture leads."
 title: Create a Form
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms

@@ -1,5 +1,5 @@
 ---
-description: "Set up the ON24 Integration with Marketo - Marketo Docs - Product Documentation"
+description: "Learn how to set up the ON24 integration with Marketo. Connect your ON24 account so you can sync webinars and registration data."
 title: Set up the ON24 Integration with Marketo
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events

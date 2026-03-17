@@ -1,5 +1,5 @@
 ---
-description: "User and License Management - Marketo Docs - Product Documentation"
+description: "Learn about user and license management for Interactive Webinars. Assign access and manage who can create or deliver webinars."
 title: User and License Management
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars

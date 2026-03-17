@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10092893
-description: "Template 19B - Marketo Docs - Product Documentation"
+description: "Learn about the Template 19B guided landing page template. Download and use it for your Marketo landing pages."
 title: Template 19B
 exl-id: 8224c9ad-b732-4a75-9966-446980db55ef
 feature: Landing Pages, Guided Landing Page Templates

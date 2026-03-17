@@ -1,5 +1,5 @@
 ---
-description: "Dynamic Chat Overview - Marketo Docs - Product Documentation"
+description: "Learn about Dynamic Chat for targeting visitors and collecting leads. Set up live chat, book meetings, and trigger Marketo programs from chat engagement."
 title: Dynamic Chat Overview
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359592
-description: "Reorder Fields in a Form - Marketo Docs - Product Documentation"
+description: "Learn how to reorder fields in a Marketo form. Drag and drop to change the order of form fields."
 title: Reorder Fields in a Form
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms

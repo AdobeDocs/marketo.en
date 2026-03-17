@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359671
-description: "Add Hint Text to a Form Field - Marketo Docs - Product Documentation"
+description: "Learn how to add hint text to a form field in Marketo. Show placeholder or helper text to guide visitors."
 title: Add Hint Text to a Form Field
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms

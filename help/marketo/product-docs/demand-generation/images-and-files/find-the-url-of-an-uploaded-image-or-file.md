@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359870
-description: "Find the URL of an Uploaded Image or File - Marketo Docs - Product Documentation"
+description: "Learn how to find the URL of an uploaded image or file in Marketo. Get the asset URL for use in emails or external pages."
 title: Find the URL of an Uploaded Image or File
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor

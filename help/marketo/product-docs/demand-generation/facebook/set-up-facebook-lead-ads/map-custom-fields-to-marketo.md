@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12983101
-description: "Map Custom Fields to Marketo - Marketo Docs - Product Documentation"
+description: "Learn how to map Facebook Lead Ads custom fields to Marketo. Ensure lead ad data maps to the correct person fields in Marketo."
 title: Map Custom Fields to Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations

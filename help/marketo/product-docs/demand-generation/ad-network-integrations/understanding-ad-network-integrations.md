@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11382858
-description: "Understanding Ad Network Integrations - Marketo Docs - Product Documentation"
+description: "Learn about how ad network integrations connect Marketo audience data to paid media. Run targeted campaigns, ingest leads from ads, and upload offline conversions."
 title: Understanding Ad Network Integrations
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations

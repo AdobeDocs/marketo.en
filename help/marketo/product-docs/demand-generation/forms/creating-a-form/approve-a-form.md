@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359578
-description: "Approve a Form - Marketo Docs - Product Documentation"
+description: "Learn how to approve a form in Marketo. Approve your form so it can be used on landing pages and start capturing leads."
 title: Approve a Form
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms

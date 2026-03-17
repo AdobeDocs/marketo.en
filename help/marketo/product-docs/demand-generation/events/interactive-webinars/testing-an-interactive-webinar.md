@@ -1,5 +1,5 @@
 ---
-description: "Testing an Interactive Webinar - Marketo Docs - Product Documentation"
+description: "Learn how to test an Interactive Webinar before going live. Verify registration, content, and engagement tools work as expected."
 title: Testing an Interactive Webinar
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d

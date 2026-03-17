@@ -1,5 +1,5 @@
 ---
-description: "Response Library - Marketo Docs - Product Documentation"
+description: "Learn how to manage the Response Library for Generative AI in Dynamic Chat. Add, edit, and approve questions and responses for chat campaigns."
 title: Response Library
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b

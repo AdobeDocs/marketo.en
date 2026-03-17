@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783926
-description: "Template 5E - Marketo Docs - Product Documentation"
+description: "Learn about the Template 5E guided landing page template. Download and use it for your Marketo landing pages."
 title: Template 5E
 exl-id: ca90093d-a420-4777-8ed4-970f29ffc575
 feature: Landing Pages, Guided Landing Page Templates

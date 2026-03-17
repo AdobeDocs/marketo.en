@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10098242
-description: "Disable Social Form Fill - Marketo Docs - Product Documentation"
+description: "Learn how to disable social form fill on a Marketo form. Turn off the option for visitors to submit using their social network."
 title: Disable Social Form Fill
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms

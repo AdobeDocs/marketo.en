@@ -1,5 +1,5 @@
 ---
-description: "Agent Settings - Marketo Docs - Product Documentation"
+description: "Learn how to configure agent calendar and meeting or live chat availability in Dynamic Chat. Connect Outlook or Gmail for appointment scheduling."
 title: Agent Settings
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5

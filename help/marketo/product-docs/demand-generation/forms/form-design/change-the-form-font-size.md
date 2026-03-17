@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359610
-description: "Change the Form Font Size - Marketo Docs - Product Documentation"
+description: "Learn how to change the form font size in Marketo. Adjust the size of text in form labels and fields."
 title: Change the Form Font Size
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms

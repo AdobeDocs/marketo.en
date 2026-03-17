@@ -1,5 +1,5 @@
 ---
-description: "[!DNL Dynamic Chat] Activities - Marketo Docs - Product Documentation"
+description: "Learn about Dynamic Chat filters and triggers for Smart Lists. Use triggered, engaged, and goal-reached events to segment and automate in Marketo."
 title: "[!DNL Dynamic Chat] Activities"
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
 ---

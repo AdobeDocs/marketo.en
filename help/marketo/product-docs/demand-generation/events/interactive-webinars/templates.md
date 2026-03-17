@@ -1,5 +1,5 @@
 ---
-description: Learn how to create and implement templates in Interactive Webinars.
+description: "Learn how to create and implement templates in Interactive Webinars. Use templates to standardize webinar design and speed up creation."
 title: Templates for Interactive Webinars
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e

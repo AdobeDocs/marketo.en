@@ -1,5 +1,5 @@
 ---
-description: "Get Started with Interactive Webinars - Marketo Docs - Product Documentation"
+description: "Get started with Interactive Webinars in Marketo. Learn prerequisites, key concepts, and steps to create and deliver your first interactive webinar."
 title: Get Started with Interactive Webinars
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9

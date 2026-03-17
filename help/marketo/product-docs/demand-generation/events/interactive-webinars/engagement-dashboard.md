@@ -1,5 +1,5 @@
 ---
-description: "Engagement Dashboard - Marketo Docs - Product Documentation"
+description: "Learn about the Interactive Webinars engagement dashboard. View attendee engagement metrics and insights during and after your webinars."
 title: Engagement Dashboard
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949874
-description: "Create an Event with [!DNL GotoWebinar] - Marketo Docs - Product Documentation"
+description: "Learn how to create an event with GotoWebinar in Marketo. Configure the integration and sync webinar registration with Marketo."
 title: "Create an Event with [!DNL GotoWebinar]"
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events

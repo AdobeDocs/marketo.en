@@ -1,5 +1,5 @@
 ---
-description: "Adobe PDF Embed API - Marketo Docs - Product Documentation"
+description: "Learn how to set up the Adobe PDF Embed API for the Document card in Dynamic Chat. Embed PDFs in Dialogues and track document engagement."
 title: Adobe PDF Embed API
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5

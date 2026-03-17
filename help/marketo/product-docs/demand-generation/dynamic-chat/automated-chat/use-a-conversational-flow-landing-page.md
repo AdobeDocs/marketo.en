@@ -1,5 +1,5 @@
 ---
-description: "Use a Conversational Flow Landing Page - Marketo Docs - Product Documentation"
+description: "Learn how to embed a Conversational Flow in a Marketo landing page. Let visitors schedule meetings through Dynamic Chat without filling out a form."
 title: Use a Conversational Flow Landing Page
 hide: yes
 hidefromtoc: yes

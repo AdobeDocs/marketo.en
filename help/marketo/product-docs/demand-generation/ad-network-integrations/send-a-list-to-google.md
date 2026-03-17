@@ -1,5 +1,5 @@
 ---
-description: "Send a List to Google - Marketo Docs - Product Documentation"
+description: "Learn how to send a Marketo static list to Google for Customer Match. Select your list, choose Google and ad account, and optionally keep audience in sync."
 title: Send a List to Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911

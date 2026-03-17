@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359663
-description: "Set a Hidden Form Field Value - Marketo Docs - Product Documentation"
+description: "Learn how to set a hidden form field value in Marketo. Pass static or token values with the form submission."
 title: Set a Hidden Form Field Value
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8162246
-description: "Template 6A - Marketo Docs - Product Documentation"
+description: "Learn about the Template 6A guided landing page template. Download and use it for your Marketo landing pages."
 title: Template 6A
 exl-id: 7bfc6301-f012-4865-a592-6dc5f60469d3
 feature: Landing Pages, Guided Landing Page Templates
