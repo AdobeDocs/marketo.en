@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10096679
-description: "Example ON24 Event Integration - Marketo Docs - Product Documentation"
+description: "Learn from an example ON24 event integration with Marketo. See a sample flow from webinar creation to registration sync."
 title: Example ON24 Event Integration
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events

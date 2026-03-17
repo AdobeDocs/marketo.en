@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359880
-description: "Organize Your Images and Files Using Folders - Marketo Docs - Product Documentation"
+description: "Learn how to organize images and files using folders in Marketo. Create folders in Design Studio to keep assets organized."
 title: Organize Your Images and Files Using Folders
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor

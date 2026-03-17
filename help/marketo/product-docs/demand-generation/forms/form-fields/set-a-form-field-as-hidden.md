@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359661
-description: "Set a Form Field as Hidden - Marketo Docs - Product Documentation"
+description: "Learn how to set a form field as hidden in Marketo. Store data without showing the field to visitors."
 title: Set a Form Field as Hidden
 exl-id: 6f293477-69ec-4f56-9800-cc1baaf80f94
 feature: Forms

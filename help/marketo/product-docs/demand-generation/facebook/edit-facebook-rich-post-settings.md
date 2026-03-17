@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2950555
-description: "Edit Facebook Rich Post Settings - Marketo Docs - Product Documentation"
+description: "Learn how to edit Facebook rich post settings in Marketo. Customize how your landing pages appear when shared on Facebook."
 title: Edit Facebook Rich Post Settings
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: yes

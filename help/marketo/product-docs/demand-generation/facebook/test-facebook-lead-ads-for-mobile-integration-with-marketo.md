@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10098759
-description: "Test Facebook Lead Ads for Mobile Integration with Marketo - Marketo Docs - Product Documentation"
+description: "Learn how to test Facebook Lead Ads mobile integration with Marketo. Verify lead ad submissions from mobile sync correctly."
 title: Test Facebook Lead Ads for Mobile Integration with Marketo
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations

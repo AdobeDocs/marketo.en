@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359530
-description: "Add Text and Tokens to a Landing Page - Marketo Docs - Product Documentation"
+description: "Learn how to add text and tokens to a Marketo landing page. Insert static text and dynamic tokens for personalization."
 title: Add Text and Tokens to a Landing Page
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages

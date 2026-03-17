@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10095239
-description: "Use Lead Ads Filters and Triggers in a Smart Campaign - Marketo Docs - Product Documentation"
+description: "Learn how to use Facebook Lead Ads filters and triggers in a Marketo smart campaign. Automate actions when leads submit from Facebook."
 title: Use Lead Ads Filters and Triggers in a Smart Campaign
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
 feature: Integrations

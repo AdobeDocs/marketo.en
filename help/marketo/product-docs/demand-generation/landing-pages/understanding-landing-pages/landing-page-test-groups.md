@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949904
-description: "Landing Page Test Groups - Marketo Docs - Product Documentation"
+description: "Learn about landing page test groups in Marketo. Run A/B or multivariate tests to compare landing page performance."
 title: Landing Page Test Groups
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages

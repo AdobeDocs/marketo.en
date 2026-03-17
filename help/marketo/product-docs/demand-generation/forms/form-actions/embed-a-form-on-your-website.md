@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359641
-description: "Embed a Form on Your Website - Marketo Docs - Product Documentation"
+description: "Learn how to embed a Marketo form on your website. Get the embed code and add the form to any web page."
 title: Embed a Form on Your Website
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms

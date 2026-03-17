@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7515027
-description: "Add an Image to a Guided Landing Page - Marketo Docs - Product Documentation"
+description: "Learn how to add an image to a guided landing page in Marketo. Insert and configure image elements in the template."
 title: Add an Image to a Guided Landing Page
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359673
-description: "Add Tooltip Instructions to a Form Field - Marketo Docs - Product Documentation"
+description: "Learn how to add tooltip instructions to a form field in Marketo. Show extra help when visitors hover over a field."
 title: Add Tooltip Instructions to a Form Field
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms

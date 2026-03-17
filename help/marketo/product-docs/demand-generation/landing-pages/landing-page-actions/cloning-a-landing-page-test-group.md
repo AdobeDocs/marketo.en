@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953038
-description: "Cloning a Landing Page Test Group - Marketo Docs - Product Documentation"
+description: "Learn how to clone a landing page test group in Marketo. Duplicate a test group to run similar tests or variations."
 title: Cloning a Landing Page Test Group
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages

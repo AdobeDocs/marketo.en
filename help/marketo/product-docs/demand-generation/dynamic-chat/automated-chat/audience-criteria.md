@@ -1,5 +1,5 @@
 ---
-description: "Audience Criteria - Marketo Docs - Product Documentation"
+description: "Learn about Audience Criteria for targeting who sees your Dynamic Chat Dialogues. Define audiences using events, person and company attributes, and priority."
 title: Audience Criteria
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01

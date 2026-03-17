@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9437562
-description: "Template 11C - Marketo Docs - Product Documentation"
+description: "Learn about the Template 11C guided landing page template. Download and use it for your Marketo landing pages."
 title: Template 11C
 exl-id: 7398604e-5a38-4630-b28e-31dc16cfcec3
 feature: Landing Pages, Guided Landing Page Templates

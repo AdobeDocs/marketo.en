@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2950799
-description: "Tokens Overview - Marketo Docs - Product Documentation"
+description: "Learn about tokens for personalizing Marketo landing pages. Use tokens to insert dynamic content and personalize the experience."
 title: Tokens Overview
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages

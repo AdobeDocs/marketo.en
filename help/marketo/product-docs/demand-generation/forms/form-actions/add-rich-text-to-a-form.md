@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359618
-description: "Add Rich Text to a Form - Marketo Docs - Product Documentation"
+description: "Learn how to add rich text to a Marketo form. Insert headings, links, or instructions above or below form fields."
 title: Add Rich Text to a Form
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms

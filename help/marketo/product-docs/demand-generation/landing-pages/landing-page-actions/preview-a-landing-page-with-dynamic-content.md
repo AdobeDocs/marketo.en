@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359734
-description: "Preview a Landing Page with Dynamic Content - Marketo Docs - Product Documentation"
+description: "Learn how to preview a landing page with dynamic content in Marketo. See how content changes for different segments."
 title: Preview a Landing Page with Dynamic Content
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages

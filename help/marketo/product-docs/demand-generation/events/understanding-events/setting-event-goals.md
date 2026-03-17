@@ -1,5 +1,5 @@
 ---
-description: "Setting Event Goals - Marketo Docs - Product Documentation"
+description: "Learn how to set event goals in Marketo event programs. Define success metrics and track progress toward your event objectives."
 title: Setting Event Goals
 hide: yes
 hidefromtoc: yes

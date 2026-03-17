@@ -1,5 +1,5 @@
 ---
-description: "Demandbase - Marketo Docs - Product Documentation"
+description: "Learn how to use Demandbase person attributes in Dynamic Chat for dialogue targeting and routing. Get your API key and enable the integration."
 title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6

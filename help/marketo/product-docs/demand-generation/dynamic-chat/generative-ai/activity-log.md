@@ -1,5 +1,5 @@
 ---
-description: "Activity Log - Marketo Docs - Product Documentation"
+description: "Learn about the Generative AI activity log in Dynamic Chat. View all tasks, owners, types, and edit history in one place."
 title: Activity Log
 feature: Dynamic Chat
 exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9437789
-description: "Template 13B - Marketo Docs - Product Documentation"
+description: "Learn about the Template 13B guided landing page template. Download and use it for your Marketo landing pages."
 title: Template 13B
 exl-id: 507ecbb8-8844-499a-868e-b0a2de8402f4
 feature: Landing Pages, Guided Landing Page Templates

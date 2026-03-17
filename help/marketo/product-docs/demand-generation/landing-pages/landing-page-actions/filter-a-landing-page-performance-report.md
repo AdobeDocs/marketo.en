@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359742
-description: "Filter a Landing Page Performance Report - Marketo Docs - Product Documentation"
+description: "Learn how to filter a landing page performance report in Marketo. Narrow results by date, page, or other criteria."
 title: Filter a Landing Page Performance Report
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages

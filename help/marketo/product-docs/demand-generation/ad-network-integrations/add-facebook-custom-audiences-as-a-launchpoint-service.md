@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4720257
-description: "Add [!DNL Facebook] Custom Audiences as a [!DNL LaunchPoint] Service - Marketo Docs - Product Documentation"
+description: "Learn how to add Facebook Custom Audiences as a LaunchPoint service. Send Marketo lists to Facebook for use as Custom Audiences in ad campaigns."
 title: "Add [!DNL Facebook] Custom Audiences as a [!DNL LaunchPoint] Service"
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations

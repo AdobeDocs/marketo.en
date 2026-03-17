@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8162237
-description: "Template 4A - Marketo Docs - Product Documentation"
+description: "Learn about the Template 4A guided landing page template. Download and use it for your Marketo landing pages."
 title: Template 4A
 exl-id: a20817e4-dbdd-4f08-9b4e-602da6b75d70
 feature: Landing Pages, Guided Landing Page Templates

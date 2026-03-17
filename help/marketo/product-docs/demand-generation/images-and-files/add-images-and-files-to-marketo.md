@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359858
-description: "Add Images and Files to Marketo - Marketo Docs - Product Documentation"
+description: "Learn how to add images and files to Marketo. Upload assets to the Design Studio for use in emails, landing pages, and forms."
 title: Add Images and Files to Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783950
-description: "Template 7D - Marketo Docs - Product Documentation"
+description: "Learn about the Template 7D guided landing page template. Download and use it for your Marketo landing pages."
 title: Template 7D
 exl-id: 089bbf5e-5260-4190-ba66-520871d2d665
 feature: Landing Pages, Guided Landing Page Templates

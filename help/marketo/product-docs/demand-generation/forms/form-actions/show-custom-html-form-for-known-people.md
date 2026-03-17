@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359644
-description: "Show Custom HTML Form for Known People - Marketo Docs - Product Documentation"
+description: "Learn how to show custom HTML for known people on a Marketo form. Display different content or messages for recognized visitors."
 title: Show Custom HTML Form for Known People
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms

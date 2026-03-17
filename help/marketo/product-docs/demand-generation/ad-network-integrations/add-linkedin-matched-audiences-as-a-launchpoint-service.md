@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504163
-description: "Add [!DNL LinkedIn] Matched Audiences as a [!DNL LaunchPoint] Service - Marketo Docs - Product Documentation"
+description: "Learn how to add LinkedIn Matched Audiences as a LaunchPoint service. Use Marketo lists as LinkedIn audience segments for ad targeting."
 title: "Add [!DNL LinkedIn] Matched Audiences as a [!DNL LaunchPoint] Service"
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations

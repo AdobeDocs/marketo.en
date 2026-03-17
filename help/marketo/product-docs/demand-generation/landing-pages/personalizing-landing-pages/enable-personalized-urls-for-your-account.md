@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359810
-description: "Enable Personalized URLs for Your Account - Marketo Docs - Product Documentation"
+description: "Learn how to enable personalized URLs for your Marketo account. Set up the feature so you can use personalized URLs on landing pages."
 title: Enable Personalized URLs for Your Account
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages

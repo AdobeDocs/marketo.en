@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10098238
-description: "LinkedIn Social Form Fill FAQs - Marketo Docs - Product Documentation"
+description: "Get help on LinkedIn social form fill with Marketo forms. Find answers to common questions about LinkedIn form fill integration."
 title: LinkedIn Social Form Fill FAQs
 hide: yes
 hidefromtoc: yes

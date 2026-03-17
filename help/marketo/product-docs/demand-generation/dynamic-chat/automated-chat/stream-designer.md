@@ -1,5 +1,5 @@
 ---
-description: "Stream Designer - Marketo Docs - Product Documentation"
+description: "Learn about the Stream Designer and cards for building chat conversations. Add messages, questions, document capture, meeting booking, and more to Dialogues."
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48

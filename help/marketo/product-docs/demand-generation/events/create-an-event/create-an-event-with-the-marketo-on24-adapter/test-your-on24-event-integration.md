@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10096677
-description: "Test Your ON24 Event Integration - Marketo Docs - Product Documentation"
+description: "Learn how to test your ON24 event integration with Marketo. Verify sync, registration flow, and status updates work correctly."
 title: Test Your ON24 Event Integration
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events

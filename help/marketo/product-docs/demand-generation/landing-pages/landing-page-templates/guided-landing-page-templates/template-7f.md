@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783957
-description: "Template 7F - Marketo Docs - Product Documentation"
+description: "Learn about the Template 7F guided landing page template. Download and use it for your Marketo landing pages."
 title: Template 7F
 exl-id: 3fe4fb0b-7118-4b88-b2ca-f9ad04bf4129
 feature: Landing Pages, Guided Landing Page Templates

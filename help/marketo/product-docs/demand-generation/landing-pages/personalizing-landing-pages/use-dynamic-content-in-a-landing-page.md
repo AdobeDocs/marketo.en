@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359532
-description: "Use Dynamic Content in a Landing Page - Marketo Docs - Product Documentation"
+description: "Learn how to use dynamic content in a Marketo landing page. Show different content to different segments or visitors."
 title: Use Dynamic Content in a Landing Page
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages

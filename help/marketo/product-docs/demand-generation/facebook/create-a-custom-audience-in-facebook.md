@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4720275
-description: "Create a Custom Audience in Facebook - Marketo Docs - Product Documentation"
+description: "Learn how to create a custom audience in Facebook from Marketo. Send Marketo lists to Facebook for targeted ad campaigns."
 title: Create a Custom Audience in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations

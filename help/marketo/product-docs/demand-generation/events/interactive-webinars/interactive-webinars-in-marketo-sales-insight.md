@@ -1,5 +1,5 @@
 ---
-description: "Interactive Webinars in Marketo Sales Insight - Marketo Docs - Product Documentation"
+description: "Learn about using Interactive Webinars with Marketo Sales Insight. Connect webinar engagement to sales for better lead context."
 title: Interactive Webinars in Marketo Sales Insight
 feature: Interactive Webinars
 exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca

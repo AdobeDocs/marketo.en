@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9438191
-description: "Template 17A - Marketo Docs - Product Documentation"
+description: "Learn about the Template 17A guided landing page template. Download and use it for your Marketo landing pages."
 title: Template 17A
 exl-id: 279fcad2-7c91-4898-9d5d-e83fcb8492af
 feature: Landing Pages, Guided Landing Page Templates

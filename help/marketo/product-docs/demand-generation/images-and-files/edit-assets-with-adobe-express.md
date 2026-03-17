@@ -1,5 +1,5 @@
 ---
-description: "Edit Assets with Adobe Express - Marketo Docs - Product Documentation"
+description: "Learn how to edit images and assets with Adobe Express from Marketo. Open assets in Express for quick edits and updates."
 title: Edit Assets with Adobe Express
 hide: yes
 hidefromtoc: yes

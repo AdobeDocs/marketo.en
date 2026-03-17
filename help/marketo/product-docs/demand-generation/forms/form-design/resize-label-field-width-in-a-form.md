@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359604
-description: "Resize Label/Field Width in a Form - Marketo Docs - Product Documentation"
+description: "Learn how to resize label and field width in a Marketo form. Adjust the width of labels and input areas."
 title: Resize Label/Field Width in a Form
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms

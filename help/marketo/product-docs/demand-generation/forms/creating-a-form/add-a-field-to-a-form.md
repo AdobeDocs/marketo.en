@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359543
-description: "Add a Field to a Form - Marketo Docs - Product Documentation"
+description: "Learn how to add a field to a form in Marketo. Add form fields and map them to person or company attributes."
 title: Add a Field to a Form
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms

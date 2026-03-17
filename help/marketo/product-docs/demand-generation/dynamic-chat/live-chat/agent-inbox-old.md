@@ -1,5 +1,5 @@
 ---
-description: "Agent Inbox - Marketo Docs - Product Documentation"
+description: "Learn about the Agent Inbox where live chat agents field conversations. View active and past chats, visitor info, and set availability status."
 title: Agent Inbox
 hide: yes
 hidefromtoc: yes

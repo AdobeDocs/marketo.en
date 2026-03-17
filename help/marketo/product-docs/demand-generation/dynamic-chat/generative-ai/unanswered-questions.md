@@ -1,5 +1,5 @@
 ---
-description: "Unanswered Questions - Marketo Docs - Product Documentation"
+description: "Learn how to view and respond to unanswered or not-helpful chatbot questions. Add new approved responses to your Response Library from this list."
 title: Unanswered Questions
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135

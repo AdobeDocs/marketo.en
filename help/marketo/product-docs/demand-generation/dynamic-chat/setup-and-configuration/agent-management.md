@@ -1,5 +1,5 @@
 ---
-description: "Agent Management - Marketo Docs - Product Documentation"
+description: "Learn about Agent Management in Dynamic Chat. View agents, manage teams, set fallback rules, and control how meetings and live chat are assigned."
 title: Agent Management
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2

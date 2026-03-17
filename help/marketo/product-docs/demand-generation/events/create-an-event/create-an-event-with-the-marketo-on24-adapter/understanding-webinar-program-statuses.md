@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10096681
-description: "Understanding Webinar Program Statuses - Marketo Docs - Product Documentation"
+description: "Learn about webinar program statuses in the ON24 and Marketo integration. Understand registered, attended, and other status values."
 title: Understanding Webinar Program Statuses
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949844
-description: "Create a New Event Program - Marketo Docs - Product Documentation"
+description: "Learn how to create a new event program in Marketo. Set up your program, choose a channel, and configure event settings."
 title: Create a New Event Program
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events

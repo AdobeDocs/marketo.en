@@ -1,5 +1,5 @@
 ---
-description: "Send a List to an Ad Network - Marketo Docs - Product Documentation"
+description: "Learn how to send a static list to LinkedIn, Facebook, or Google. Use List Actions and Send to Ad Network to choose audience and sync options."
 title: Send a List to an Ad Network
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations

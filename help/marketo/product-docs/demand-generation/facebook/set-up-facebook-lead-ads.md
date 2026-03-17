@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11379622
-description: "Set up Facebook Lead Ads - Marketo Docs - Product Documentation"
+description: "Learn how to set up Facebook Lead Ads with Marketo. Connect your Facebook account and sync lead ad submissions to Marketo."
 title: Set up Facebook Lead Ads
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations

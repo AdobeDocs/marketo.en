@@ -1,5 +1,5 @@
 ---
-description: "Stream Designer - Marketo Docs - Product Documentation"
+description: "Learn about the Stream Designer for building chat conversations with cards. Shape dialogues with messages, questions, documents, and meeting booking."
 title: Stream Designer
 hide: yes
 hidefromtoc: yes

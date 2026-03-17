@@ -1,5 +1,5 @@
 ---
-description: "Callback Functions - Marketo Docs - Product Documentation"
+description: "Learn about Dynamic Chat widget callback functions to send conversation events to third-party platforms. Use events for triggered, engaged, and goal-reached actions."
 title: Callback Functions
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa

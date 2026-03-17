@@ -1,5 +1,5 @@
 ---
-description: "Routing - Marketo Docs - Product Documentation"
+description: "Learn about routing meetings and live chat in Dynamic Chat. Set up round robin or custom rules to assign visitors to specific agents or teams."
 title: Routing
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144

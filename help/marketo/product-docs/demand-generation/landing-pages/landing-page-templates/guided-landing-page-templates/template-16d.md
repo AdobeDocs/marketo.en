@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9437843
-description: "Template 16D - Marketo Docs - Product Documentation"
+description: "Learn about the Template 16D guided landing page template. Download and use it for your Marketo landing pages."
 title: Template 16D
 exl-id: 02e2cf8d-b993-44f7-8da3-469dfa39881e
 feature: Landing Pages, Guided Landing Page Templates

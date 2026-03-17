@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783932
-description: "Template 6C - Marketo Docs - Product Documentation"
+description: "Learn about the Template 6C guided landing page template. Download and use it for your Marketo landing pages."
 title: Template 6C
 exl-id: f8111083-24f5-42c9-82b5-290360d72e5a
 feature: Landing Pages, Guided Landing Page Templates

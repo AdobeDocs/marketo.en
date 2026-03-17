@@ -1,5 +1,5 @@
 ---
-description: "New Add Images Doc - Marketo Docs - Product Documentation"
+description: "Learn how to add images and files to Marketo Design Studio. Upload, organize, and use assets in campaigns and landing pages."
 title: New Add Images Doc
 hide: yes
 hidefromtoc: yes

@@ -1,5 +1,5 @@
 ---
-description: "Chatbot Behavior - Marketo Docs - Product Documentation"
+description: "Learn about Dynamic Chat chatbot behavior across dialogues, priorities, and visitors. Use this reference to understand how the chatbot behaves in different scenarios."
 title: Chatbot Behavior
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb

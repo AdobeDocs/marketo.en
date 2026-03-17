@@ -1,5 +1,5 @@
 ---
-description: "Dialogue Overview - Marketo Docs - Product Documentation"
+description: "Learn about Dialogues as individual chat conversations in Dynamic Chat. Define where they display, who sees them, and monitor effectiveness in reports."
 title: Dialogue Overview
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593

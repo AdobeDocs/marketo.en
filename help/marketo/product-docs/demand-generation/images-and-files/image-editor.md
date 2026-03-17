@@ -1,5 +1,5 @@
 ---
-description: "Image Editor - Marketo Docs - Product Documentation"
+description: "Learn about the image editor in Marketo Design Studio. Crop, resize, and make basic edits to images without leaving Marketo."
 title: Image Editor
 exl-id: fef96635-3011-4549-9c40-e92c3f33c398
 ---
