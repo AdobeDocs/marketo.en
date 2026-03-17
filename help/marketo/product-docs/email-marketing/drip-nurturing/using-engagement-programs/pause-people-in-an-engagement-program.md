@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359949
-description: "Pause People in an Engagement Program - Marketo Docs - Product Documentation"
+description: "Learn how to pause people in an engagement program so they stop receiving content."
 title: Pause People in an Engagement Program
 exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
 feature: Engagement Programs

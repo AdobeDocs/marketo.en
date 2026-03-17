@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12983291
-description: "Understanding Recipient Time Zone - Marketo Docs - Product Documentation"
+description: "Learn about recipient time zone scheduling for email programs. Deliver emails at the same local time for each recipient."
 title: Understanding Recipient Time Zone
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs

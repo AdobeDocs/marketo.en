@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359877
-description: "Disable and Enable Exhausted Content Notifications - Marketo Docs - Product Documentation"
+description: "Learn how to turn exhausted content notifications on or off. Use the Setup tab and Exhausted Content Notifications setting for your program."
 title: Disable and Enable Exhausted Content Notifications
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs

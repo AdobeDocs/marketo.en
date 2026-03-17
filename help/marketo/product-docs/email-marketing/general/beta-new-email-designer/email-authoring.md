@@ -1,5 +1,5 @@
 ---
-description: "Email authoring - Marketo Docs - Product Documentation"
+description: "Learn about email authoring in the new Email Designer. Create, personalize, and preview emails in Marketo Engage."
 title: Email authoring
 hide: yes
 hidefromtoc: yes

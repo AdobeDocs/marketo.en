@@ -1,6 +1,6 @@
 ---
 title: GenStudio Integration for Marketo Engage
-description: Learn how to use GenStudio in Marketo Engage.
+description: "Learn how to use GenStudio in Marketo Engage for content creation. Access GenStudio features within the Email Designer workflow."
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate

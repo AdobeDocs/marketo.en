@@ -2,7 +2,7 @@
 solution: Marketo Engage
 product: marketo
 title: Conditional content
-description: Use conditional content in your emails to dynamicly display content depending on the recipient.
+description: "Learn about conditional content to display different content by recipient. Use rules in the Email Designer to personalize emails."
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 979ef9db-920f-466f-8c7d-e9de1ee4cf00

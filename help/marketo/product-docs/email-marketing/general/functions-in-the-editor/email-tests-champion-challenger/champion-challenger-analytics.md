@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359567
-description: "Champion/Challenger -Configure Report Alerts - Marketo Docs - Product Documentation"
+description: "Learn how to view Champion/Challenger analytics and configure report alerts. Track test performance and get notified when a winner is ready."
 title: Champion/Challenger -Configure Report Alerts
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor

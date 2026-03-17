@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147354
-description: "Make an Email Operational - Marketo Docs - Product Documentation"
+description: "Learn how to make an email operational so it can reach unsubscribed people. Use for transactional or required communications."
 title: Make an Email Operational
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359502
-description: 'Use "Whole Email" A/B Testing - Marketo Docs - Product Documentation'
+description: "Learn how to run whole-email A/B tests. Test different email versions and choose a winner by your chosen criteria."
 title: Use "Whole Email" A/B Testing
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing

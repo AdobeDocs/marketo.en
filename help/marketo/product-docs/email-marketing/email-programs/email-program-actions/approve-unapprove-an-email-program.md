@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359462
-description: "Approve/Unapprove an Email Program - Marketo Docs - Product Documentation"
+description: "Learn how to approve or unapprove an email program. Complete the approval workflow so the program can be scheduled and sent."
 title: Approve/Unapprove an Email Program
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs

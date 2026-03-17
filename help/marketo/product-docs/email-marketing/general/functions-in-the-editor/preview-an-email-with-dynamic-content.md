@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900548
-description: "Preview an Email with Dynamic Content - Marketo Docs - Product Documentation"
+description: "Learn how to preview emails with dynamic content. See how variants render for different segments before sending."
 title: Preview an Email with Dynamic Content
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor

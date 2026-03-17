@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359453
-description: "Edit Your Email Header - Marketo Docs - Product Documentation"
+description: "Learn how to edit your email header (from name, from email, reply-to, subject). Set the header fields in the email editor."
 title: Edit Your Email Header
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor

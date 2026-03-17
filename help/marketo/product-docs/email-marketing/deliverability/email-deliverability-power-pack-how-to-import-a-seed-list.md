@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10099077
-description: Learn how to import a seed list into your Marketo Engage instance.
+description: "Learn how to import a seed list into Marketo Engage for inbox placement testing. Use Everest to download and add the list for deliverability campaigns."
 title: Email Deliverability Power Pack - How to Import a Seed List
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359782
-description: "Add People to an Engagement Program - Marketo Docs - Product Documentation"
+description: "Learn about ways people become members of engagement programs. Use flow steps, forms, imports, or Salesforce campaigns to add members."
 title: Add People to an Engagement Program
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs

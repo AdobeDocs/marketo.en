@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359947
-description: "Transition People Between Engagement Streams - Marketo Docs - Product Documentation"
+description: "Learn how to set up transition rules to move people between engagement streams. Define rules on the stream you want to pull into."
 title: Transition People Between Engagement Streams
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs

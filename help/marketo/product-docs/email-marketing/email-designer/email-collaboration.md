@@ -1,5 +1,5 @@
 ---
-description: Email collaboration - Marketo Docs - Product Documentation
+description: "Learn about email collaboration and commenting in the Email Designer. Review, comment, and resolve feedback with your team in real time."
 title: Email collaboration
 level: Beginner, Intermediate
 feature: Email Designer

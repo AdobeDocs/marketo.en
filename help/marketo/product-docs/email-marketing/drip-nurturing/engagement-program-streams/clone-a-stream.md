@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359789
-description: "Clone a Stream - Marketo Docs - Product Documentation"
+description: "Learn how to clone an engagement program stream for testing. Clone from the stream gear icon and set cadence on the new stream."
 title: Clone a Stream
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs

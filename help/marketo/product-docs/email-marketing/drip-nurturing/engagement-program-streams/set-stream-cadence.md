@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359665
-description: "Set Stream Cadence - Marketo Docs - Product Documentation"
+description: "Learn how to set stream cadence for engagement programs. Schedule weekly or monthly casts and optionally use recipient time zone."
 title: Set Stream Cadence
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs

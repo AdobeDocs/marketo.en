@@ -2,7 +2,7 @@
 solution: Marketo Engage
 product: marketo
 title: Lock content in email templates
-description: Learn how to lock content in your email templates.
+description: "Learn how to lock content in email templates so others cannot edit it. Protect sections in the Email Designer for consistency."
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18

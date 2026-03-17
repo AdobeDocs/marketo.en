@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900597
-description: "Define an Audience by Importing a List - Marketo Docs - Product Documentation"
+description: "Learn how to define an email program audience by importing a list. Use static or uploaded lists to target your send."
 title: Define an Audience by Importing a List
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs

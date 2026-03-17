@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359685
-description: "The Engagement Dashboard - Marketo Docs - Product Documentation"
+description: "Learn about the Engagement Dashboard and how it shows content performance. View exhaustion, engagement over time, and highest engagement widgets."
 title: The Engagement Dashboard
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting

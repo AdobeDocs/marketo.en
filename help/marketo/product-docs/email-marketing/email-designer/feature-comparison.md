@@ -2,7 +2,7 @@
 solution: Marketo Engage
 product: marketo
 title: Email Designer and Email Editor Feature Comparison
-description: Use this table to compare the availability of features in our previous email editor (Email Editor 2.0) and our new Email Designer.
+description: "Learn about feature differences between Email Editor 2.0 and the new Email Designer. Use the table to compare availability of capabilities."
 level: Beginner, Intermediate
 feature: Email Designer
 role: User

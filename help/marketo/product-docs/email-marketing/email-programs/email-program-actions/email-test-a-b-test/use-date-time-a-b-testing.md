@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359520
-description: 'Use "Date/Time" A/B Testing - Marketo Docs - Product Documentation'
+description: "Learn how to run date/time A/B tests for email programs. Test different send times and pick a winner by performance."
 title: Use "Date/Time" A/B Testing
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing

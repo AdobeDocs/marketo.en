@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359890
-description: "Understanding the Engagement Score - Marketo Docs - Product Documentation"
+description: "Learn about the engagement score (0 to 100) and how it measures content effectiveness. Use the dashboard to compare content performance."
 title: Understanding the Engagement Score
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting

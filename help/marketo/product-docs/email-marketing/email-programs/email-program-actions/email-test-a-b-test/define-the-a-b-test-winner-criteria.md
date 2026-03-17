@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359545
-description: "Define the A/B Test Winner Criteria - Marketo Docs - Product Documentation"
+description: "Learn how to define A/B test winner criteria. Set the metric and threshold that determine which variant wins the test."
 title: Define the A/B Test Winner Criteria
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing

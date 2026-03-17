@@ -1,5 +1,5 @@
 ---
-description: "Email templates - Marketo Docs - Product Documentation"
+description: "Learn how to create standalone email templates for reuse. Build custom templates in the Email Designer for faster design and consistency."
 title: Email templates
 level: Beginner, Intermediate
 feature: Email Designer

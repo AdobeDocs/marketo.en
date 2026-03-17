@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2952678
-description: "Use the Send Alert Info Token {{SP_Send_Alert_Info}} - Marketo Docs - Product Documentation"
+description: "Learn how to use the Send Alert Info token in emails. Insert send details such as time and program name dynamically."
 title: Use the Send Alert Info Token
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147352
-description: "Send a Sample Email - Marketo Docs - Product Documentation"
+description: "Learn how to send a sample email to test content before launch. Use the email editor to send yourself or others a test copy."
 title: Send a Sample Email
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor

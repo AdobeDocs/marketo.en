@@ -1,5 +1,5 @@
 ---
-description: "Email authoring - Marketo Docs - Product Documentation"
+description: "Learn how to create, personalize, and preview emails in the Email Designer. Use Design Studio or Email Programs to author emails."
 title: Email authoring
 level: Beginner, Intermediate
 feature: Email Designer

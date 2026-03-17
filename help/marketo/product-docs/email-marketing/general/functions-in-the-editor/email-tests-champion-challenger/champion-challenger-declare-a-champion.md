@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359584
-description: "Champion/Challenger -Declare a Champion - Marketo Docs - Product Documentation"
+description: "Learn how to declare a Champion for your email test. Choose the winning variant and send the rest of the audience the winner."
 title: Champion/Challenger -Declare a Champion
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor

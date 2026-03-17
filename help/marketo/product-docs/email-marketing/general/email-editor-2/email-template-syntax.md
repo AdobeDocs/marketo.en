@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11371040
-description: "Email Template Syntax - Marketo Docs - Product Documentation"
+description: "Learn about email template syntax in Email Editor 2.0. Use the correct syntax for modules and editable sections in templates."
 title: Email Template Syntax
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
