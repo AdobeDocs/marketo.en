@@ -2,7 +2,7 @@
 solution: Marketo Engage
 product: marketo
 title: Template import
-description: Learn how to import your existing email templates from the classic editor into the new Email Designer.
+description: "Learn how to import email templates from the classic editor into the Email Designer."
 level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta

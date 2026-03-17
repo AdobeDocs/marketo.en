@@ -1,7 +1,7 @@
 ---
 solution: Marketo Engage
 product: marketo
-description: Welcome to the new Adobe Marketo Engage Email Designer.
+description: "Learn about the Email Designer and its drag-and-drop editor. Create and customize email templates in Marketo Engage for better productivity."
 title: Overview
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb

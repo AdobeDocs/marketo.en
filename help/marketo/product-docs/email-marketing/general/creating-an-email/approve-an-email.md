@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147342
-description: "Approve an Email - Marketo Docs - Product Documentation"
+description: "Learn how to approve an email so it can be used in programs. Complete the approval workflow before scheduling or sending."
 title: Approve an Email
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor

@@ -2,7 +2,7 @@
 solution: Marketo Engage
 product: Marketo
 title: Manage brand
-description: Learn how to create and manage your brand guidelines
+description: "Learn how to create and manage brand guidelines in the Email Designer. Configure and update brand settings for your emails."
 role: User
 level: Beginner, Intermediate
 hide: yes

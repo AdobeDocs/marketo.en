@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359504
-description: 'Use "From Address" A/B Testing - Marketo Docs - Product Documentation'
+description: "Learn how to run from-address A/B tests. Test different sender addresses and choose a winner by performance."
 title: Use "From Address" A/B Testing
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 feature: Email Programs, A/B Testing

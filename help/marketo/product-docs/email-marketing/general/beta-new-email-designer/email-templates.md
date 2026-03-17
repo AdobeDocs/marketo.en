@@ -1,5 +1,5 @@
 ---
-description: "Email templates - Marketo Docs - Product Documentation"
+description: "Learn about email templates in the new Email Designer. Create and reuse templates for faster email creation in Marketo Engage."
 title: Email templates
 hide: yes
 hidefromtoc: yes

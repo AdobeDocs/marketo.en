@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900595
-description: "Define an Audience with a Smart List - Marketo Docs - Product Documentation"
+description: "Learn how to define an email program audience with a smart list. Use filters to target who receives your email program."
 title: Define an Audience with a Smart List
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs

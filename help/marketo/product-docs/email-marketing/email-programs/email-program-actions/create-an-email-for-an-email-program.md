@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900593
-description: "Create an Email for an Email Program - Marketo Docs - Product Documentation"
+description: "Learn how to create an email for an email program. Add a new email asset and choose a template or existing email."
 title: Create an Email for an Email Program
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs

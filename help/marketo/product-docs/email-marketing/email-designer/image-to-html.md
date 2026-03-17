@@ -1,6 +1,6 @@
 ---
 title: Convert images to HTML templates
-description: Use this no-code tool to transform an image into an editable email template.
+description: "Learn how to convert an image into an editable HTML email template. Use the no-code image-to-HTML tool in the Email Designer."
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate

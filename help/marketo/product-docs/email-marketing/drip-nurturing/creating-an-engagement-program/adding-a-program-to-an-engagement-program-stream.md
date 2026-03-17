@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10098134
-description: "Adding a Program to an Engagement Program Stream - Marketo Docs - Product Documentation"
+description: "Learn about nested programs in engagement streams and when to use them. Add programs for subgroups, multi-touch, and extra flow steps."
 title: Adding a Program to an Engagement Program Stream
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs

@@ -2,7 +2,7 @@
 solution: Marketo Engage
 product: marketo
 title: Brand Themes
-description: Learn how to create and manage your brand guidelines.
+description: "Learn how to create and manage brand guidelines in Marketo Engage. Set up brand themes for consistent email design."
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620

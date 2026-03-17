@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10098691
-description: "Move an Email - Marketo Docs - Product Documentation"
+description: "Learn how to move an email to a different program or folder. Relocate email assets while preserving the asset itself."
 title: Move an Email
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 feature: Email Programs

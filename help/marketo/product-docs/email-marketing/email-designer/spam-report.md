@@ -2,7 +2,7 @@
 solution: Marketo Engage
 product: marketo
 title: Email spam report
-description: Learn how to use SpamAssassin to test your email content and see the likelihood of it being marked as spam.
+description: "Learn how to use SpamAssassin to test email content for spam likelihood. Check your emails before sending to improve deliverability."
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e

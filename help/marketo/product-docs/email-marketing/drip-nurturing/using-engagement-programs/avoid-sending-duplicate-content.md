@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10096409
-description: "Avoid Sending Duplicate Content - Marketo Docs - Product Documentation"
+description: "Learn about scenarios that prevent or allow duplicate emails in engagement programs. Use program membership and CEE rules to avoid repeats."
 title: Avoid Sending Duplicate Content
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
 feature: Engagement Programs

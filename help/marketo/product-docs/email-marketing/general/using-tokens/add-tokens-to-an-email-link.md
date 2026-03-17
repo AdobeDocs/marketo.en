@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147360
-description: "Add Tokens to an Email Link - Marketo Docs - Product Documentation"
+description: "Learn how to add tokens to email links. Insert dynamic values into link URLs for personalization and tracking."
 title: Add Tokens to an Email Link
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens

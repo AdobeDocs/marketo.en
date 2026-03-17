@@ -2,7 +2,7 @@
 solution: Marketo Engage
 product: marketo
 title: Use AI Assistant
-description: Leverage Adobe's generative AI technology to add helpful text and/or images to your emails.
+description: "Learn how to use the AI assistant to add text and images to emails. Use Adobe generative AI in the Email Designer for content ideas."
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634

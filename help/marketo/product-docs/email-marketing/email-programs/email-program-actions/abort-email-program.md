@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504840
-description: "Abort Email Program - Marketo Docs - Product Documentation"
+description: "Learn how to abort an email program before or during send. Stop delivery and handle the remaining audience as needed."
 title: Abort Email Program
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs

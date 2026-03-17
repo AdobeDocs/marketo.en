@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10096400
-description: "Create an Email Template - Marketo Docs - Product Documentation"
+description: "Learn how to create an email template in Email Editor 2.0. Build reusable templates with modules and editable sections."
 title: Create an Email Template
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor

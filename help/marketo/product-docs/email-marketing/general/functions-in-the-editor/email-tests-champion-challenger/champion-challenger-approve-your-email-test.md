@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359581
-description: "Champion/Challenger -Approve Your Email Test - Marketo Docs - Product Documentation"
+description: "Learn how to approve your Champion/Challenger email test. Complete approval so the test can run and a winner can be declared."
 title: Champion/Challenger -Approve Your Email Test
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359469
-description: "View the Email Program Dashboard - Marketo Docs - Product Documentation"
+description: "Learn how to view the email program dashboard. See performance metrics and program status at a glance."
 title: View the Email Program Dashboard
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs

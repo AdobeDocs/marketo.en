@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359559
-description: "Champion/Challenger -From Address - Marketo Docs - Product Documentation"
+description: "Learn how to run Champion/Challenger from-address tests. Test different sender addresses and declare a winner by criteria."
 title: Champion/Challenger -From Address
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor

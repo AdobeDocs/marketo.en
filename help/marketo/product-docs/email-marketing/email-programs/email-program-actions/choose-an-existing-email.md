@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359451
-description: "Choose an Existing Email - Marketo Docs - Product Documentation"
+description: "Learn how to choose an existing email for an email program. Select from Design Studio or local emails for your program."
 title: Choose an Existing Email
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs

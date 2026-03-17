@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900579
-description: "Disable Tracking for an Email Link - Marketo Docs - Product Documentation"
+description: "Learn how to disable tracking for specific email links. Turn off click tracking when needed for privacy or redirect URLs."
 title: Disable Tracking for an Email Link
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor

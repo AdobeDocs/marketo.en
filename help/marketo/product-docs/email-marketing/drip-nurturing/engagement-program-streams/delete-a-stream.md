@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359936
-description: "Delete a Stream - Marketo Docs - Product Documentation"
+description: "Learn how to delete a stream from an engagement program. Move people out first if needed and confirm to avoid losing historical data."
 title: Delete a Stream
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 feature: Engagement Programs

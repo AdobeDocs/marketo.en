@@ -2,7 +2,7 @@
 solution: Marketo Engage
 product: marketo
 title: TITLE
-description: Learn how to streamline email creation with reusable themes and modules, ensuring design consistency and efficiency.
+description: "Learn how to apply brand themes to emails for consistent design. Use reusable themes and modules in the Email Designer."
 feature: Email Designer
 role: User
 level: Beginner, Intermediate

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359455
-description: "Schedule Your Email Program - Marketo Docs - Product Documentation"
+description: "Learn how to schedule your email program. Set the date and time for delivery and optionally use recipient time zone."
 title: Schedule Your Email Program
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs

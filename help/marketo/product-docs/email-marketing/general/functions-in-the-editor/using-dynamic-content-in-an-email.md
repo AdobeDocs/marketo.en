@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2950617
-description: "Using Dynamic Content in an Email - Marketo Docs - Product Documentation"
+description: "Learn how to use dynamic content in an email. Show different content to different segments based on rules and attributes."
 title: Using Dynamic Content in an Email
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 17727995
-description: "Email CC - Marketo Docs - Product Documentation"
+description: "Learn about email CC options in Marketo. Add CC recipients to emails when needed for compliance or visibility."
 title: Email CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor

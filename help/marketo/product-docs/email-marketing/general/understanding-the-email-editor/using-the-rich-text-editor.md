@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953419
-description: "Using the Rich Text Editor - Marketo Docs - Product Documentation"
+description: "Learn how to use the rich text editor for email content. Format text, add links, and style content in the email editor."
 title: Using the Rich Text Editor
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor

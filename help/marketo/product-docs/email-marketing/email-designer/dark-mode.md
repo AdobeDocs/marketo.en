@@ -1,5 +1,5 @@
 ---
-description: Dark Mode - Marketo Docs - Product Documentation
+description: "Learn how to design emails for dark mode in the Email Designer. Set custom dark mode display for supporting email clients."
 title: Dark Mode
 level: Beginner, Intermediate
 feature: Email Designer

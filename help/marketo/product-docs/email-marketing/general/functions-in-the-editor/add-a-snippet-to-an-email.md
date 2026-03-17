@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1147358
-description: "Add a Snippet to an Email - Marketo Docs - Product Documentation"
+description: "Learn how to add a snippet to an email. Insert reusable content blocks from the snippet library into your emails."
 title: Add a Snippet to an Email
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor

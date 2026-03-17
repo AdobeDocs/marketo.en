@@ -2,7 +2,7 @@
 solution: Marketo Engage
 product: marketo
 title: Customizable fragments
-description: Learn how to customize fragments by making some of their fields editable.
+description: "Learn how to customize fragments by making some fields editable. Create flexible reusable fragments in the Email Designer."
 level: Beginner, Intermediate
 feature: Email Designer
 role: User

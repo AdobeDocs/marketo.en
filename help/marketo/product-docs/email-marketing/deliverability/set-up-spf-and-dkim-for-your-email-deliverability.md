@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4720710
-description: "Set up SPF and DKIM for your Email Deliverability - Marketo Docs - Product Documentation"
+description: "Learn how to set up SPF and DKIM in your DNS to improve email deliverability. Authorize Marketo to send on your behalf and reduce spam flags."
 title: Set up SPF and DKIM for your Email Deliverability
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability

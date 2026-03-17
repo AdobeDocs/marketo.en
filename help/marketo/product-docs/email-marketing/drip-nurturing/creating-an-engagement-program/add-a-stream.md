@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359787
-description: "Add a Stream - Marketo Docs - Product Documentation"
+description: "Learn how to add a new stream to your engagement program in Marketo. Add up to 25 streams per program from the Streams tab."
 title: Add a Stream
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs

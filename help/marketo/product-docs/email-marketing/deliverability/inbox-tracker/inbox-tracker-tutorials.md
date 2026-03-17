@@ -1,5 +1,5 @@
 ---
-description: Test, monitor, and understand deliverability issues with Inbox Tracker.
+description: "Learn about Inbox Tracker for testing and monitoring email deliverability. Access training videos for navigation, dashboards, and campaign tracking."
 title: Inbox Tracker Tutorials
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55

@@ -1,6 +1,6 @@
 ---
 title: Work with Experience Manager Assets
-description: Learn how to use image assets from a connected AEM Assets repository when authoring content in Adobe Marketo Engage.
+description: "Learn how to use AEM Assets images in Marketo Engage emails. Link AEM Cloud Services and use Assets as a Cloud Service in the designer."
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4

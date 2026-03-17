@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1900560
-description: "Add a View as Web Page Link to an Email - Marketo Docs - Product Documentation"
+description: "Learn how to add a View as Web Page link to an email. Let recipients open the email in a browser with a persistent link."
 title: Add a View as Web Page Link to an Email
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor

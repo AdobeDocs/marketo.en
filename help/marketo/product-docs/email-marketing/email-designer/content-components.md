@@ -2,7 +2,7 @@
 solution: Marketo Engage
 product: marketo
 title: Content components
-description: DESCRIPTION.
+description: "Learn about content components for personalizing email layout. Add and style components inside structure components in the Email Designer."
 level: Beginner, Intermediate
 feature: Email Designer
 hide: yes

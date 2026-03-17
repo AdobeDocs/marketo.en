@@ -2,7 +2,7 @@
 solution: Marketo Engage
 product: marketo
 title: Test Email Rendering with Litmus
-description: Marketo Engage users can integrate their Litmus account to seemlessly test content rending in various email clients.
+description: "Learn how to test email rendering across clients with Litmus. Integrate your Litmus account to preview content in various email clients."
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
