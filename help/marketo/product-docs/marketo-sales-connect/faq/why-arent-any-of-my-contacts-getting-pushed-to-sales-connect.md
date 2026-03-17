@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352486
-description: "Why Aren't Any of My Contacts Getting Pushed to Sales Connect? - Marketo Docs - Product Documentation"
+description: "Get help when no contacts are getting pushed to Sales Connect from Salesforce. Troubleshoot connection and sync settings."
 title: Why Aren't Any of My Contacts Getting Pushed to Sales Connect?
 exl-id: a3659c14-356b-4b25-8aa7-251fd213290b
 feature: Marketo Sales Connect

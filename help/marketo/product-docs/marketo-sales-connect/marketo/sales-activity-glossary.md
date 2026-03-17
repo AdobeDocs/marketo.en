@@ -1,5 +1,5 @@
 ---
-description: "Sales Activity Glossary - Marketo Docs - Product Documentation"
+description: "Learn about Sales Connect sales activity terms. Use this glossary for activity types that sync to Marketo and Salesforce."
 title: Sales Activity Glossary
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352494
-description: "I Got Locked out of My Account. What Do I Do? - Marketo Docs - Product Documentation"
+description: "Get help when locked out of your Sales Connect account. Learn how to reset your password or contact support to regain access."
 title: I Got Locked out of My Account. What Do I Do?
 exl-id: ee6b61f8-24d5-4520-a111-00ece2ba02bc
 feature: Marketo Sales Connect

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37356587
-description: "Add an Attachment or Trackable Content to Your Email - Marketo Docs - Product Documentation"
+description: "Learn how to add an attachment or trackable content to your Sales Connect email. Attach files or add tracked links in the compose window."
 title: Add an Attachment or Trackable Content to Your Email
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect

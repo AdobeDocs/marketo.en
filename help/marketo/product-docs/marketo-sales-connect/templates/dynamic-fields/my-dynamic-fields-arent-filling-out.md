@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352602
-description: "My Dynamic Fields Aren't Filling Out - Marketo Docs - Product Documentation"
+description: "Get help when dynamic fields are not filling out in Sales Connect. Troubleshoot why merge fields show blank or incorrect data."
 title: My Dynamic Fields Aren't Filling Out
 exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 feature: Marketo Sales Connect

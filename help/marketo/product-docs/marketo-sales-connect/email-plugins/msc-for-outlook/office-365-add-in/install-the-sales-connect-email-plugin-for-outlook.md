@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352455
-description: "Install the Sales Connect Email Plugin for Outlook - Marketo Docs - Product Documentation"
+description: "Learn how to install the Sales Connect email plugin for Outlook. Add the plugin to send tracked emails and use templates from Outlook."
 title: Install the Sales Connect Email Plugin for Outlook
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect

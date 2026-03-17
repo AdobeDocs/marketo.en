@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37357306
-description: "Using Quick Actions to Speed Up Your Workflow - Marketo Docs - Product Documentation"
+description: "Learn how to use quick actions in Sales Connect to speed up your workflow. Complete common tasks from Command Center with one click."
 title: Using Quick Actions to Speed Up Your Workflow
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14746184
-description: "Unsubscribe History Card - Marketo Docs - Product Documentation"
+description: "Learn about the unsubscribe history card in Sales Connect. View when and how a contact unsubscribed in their person detail view."
 title: Unsubscribe History Card
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect

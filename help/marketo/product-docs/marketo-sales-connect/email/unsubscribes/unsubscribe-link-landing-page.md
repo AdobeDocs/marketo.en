@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14746176
-description: "Unsubscribe Link Landing Page - Marketo Docs - Product Documentation"
+description: "Learn about the unsubscribe link landing page in Sales Connect. Customize the page recipients see when they click unsubscribe."
 title: Unsubscribe Link Landing Page
 exl-id: 1ef22db5-56ca-47fb-894b-ef94ec4527ac
 feature: Marketo Sales Connect

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352451
-description: "How to Uninstall Sales Connect from Outlook - Marketo Docs - Product Documentation"
+description: "Learn how to uninstall the Sales Connect plugin from Outlook. Remove the add-in from Outlook desktop when needed."
 title: How to Uninstall Sales Connect from Outlook
 exl-id: 42e12144-665e-4560-84ad-1c0631ed0c9b
 feature: Marketo Sales Connect

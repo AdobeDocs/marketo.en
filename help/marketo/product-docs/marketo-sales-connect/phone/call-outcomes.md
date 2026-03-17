@@ -1,5 +1,5 @@
 ---
-description: "Call Outcomes - Marketo Docs - Product Documentation"
+description: "Understand call outcomes in Sales Connect. Log outcome after each call so activity and disposition sync to Salesforce."
 title: Call Outcomes
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect

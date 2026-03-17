@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352629
-description: "Customize Template View - Marketo Docs - Product Documentation"
+description: "Learn how to customize template view in Sales Connect. Change which columns and filters appear on the template list."
 title: Customize Template View
 exl-id: 893cb1ad-f0b9-4829-b1c7-8acda62986f9
 feature: Marketo Sales Connect

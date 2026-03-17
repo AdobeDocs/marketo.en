@@ -1,6 +1,6 @@
 ---
 unique-page-id: 13796475
-description: "Person Detail View - Marketo Docs - Product Documentation"
+description: "Learn about the Person Detail View in Sales Connect. Access contact profiles, history, and engagement from the People tab."
 title: Person Detail View
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect

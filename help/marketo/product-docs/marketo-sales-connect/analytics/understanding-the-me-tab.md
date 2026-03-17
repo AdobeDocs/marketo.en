@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352614
-description: "Understanding the [!UICONTROL Me] Tab - Marketo Docs - Product Documentation"
+description: "Understand the Me tab and your email engagement stats in Sales Connect. View emails sent, template usage, and your most engaging emails."
 title: Understanding the [!UICONTROL Me] Tab
 exl-id: 5ae0e091-e315-4182-81d3-134113c8288f
 feature: Marketo Sales Connect

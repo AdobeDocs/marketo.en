@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352521
-description: "CC or BCC in Emails - Marketo Docs - Product Documentation"
+description: "Learn how to use CC or BCC in Sales Connect emails. Add carbon copy or blind carbon copy recipients when sending tracked emails."
 title: CC or BCC in Emails
 exl-id: c4136fec-a85a-4927-9e1f-1e82274232a9
 feature: Marketo Sales Connect

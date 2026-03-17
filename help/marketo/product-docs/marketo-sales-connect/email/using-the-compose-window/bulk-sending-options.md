@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37356575
-description: "Bulk Sending Options - Marketo Docs - Product Documentation"
+description: "Learn about bulk sending options in Sales Connect. Choose how to send emails to multiple recipients and control timing or personalization."
 title: Bulk Sending Options
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect

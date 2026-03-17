@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352407
-description: "Delivery Channel Overview - Marketo Docs - Product Documentation"
+description: "Understand delivery channels in Sales Connect. Learn how emails are sent and the difference between connection and custom channels."
 title: Delivery Channel Overview
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect

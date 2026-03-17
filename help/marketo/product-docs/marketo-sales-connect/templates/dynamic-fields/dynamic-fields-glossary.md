@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352509
-description: "Dynamic Fields Glossary - Marketo Docs - Product Documentation"
+description: "Learn about dynamic fields in Sales Connect. Use this glossary to find available merge fields for templates and personalization."
 title: Dynamic Fields Glossary
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect

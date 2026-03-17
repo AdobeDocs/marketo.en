@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37356565
-description: "Sending a Tracked Email - Marketo Docs - Product Documentation"
+description: "Learn how to send a tracked email in Sales Connect. Send from the compose window and track opens, clicks, and replies."
 title: Sending a Tracked Email
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect

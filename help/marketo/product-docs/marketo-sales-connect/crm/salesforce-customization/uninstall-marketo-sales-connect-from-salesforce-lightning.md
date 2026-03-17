@@ -1,5 +1,5 @@
 ---
-description: "Uninstall Marketo Sales Connect from Salesforce Lightning - Marketo Docs - Product Documentation"
+description: "Learn how to uninstall Marketo Sales Connect from Salesforce Lightning. Remove Sales Connect customizations and buttons from Lightning."
 title: Uninstall Marketo Sales Connect from Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 ---

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14745823
-description: "Creating Workflow Rules in Salesforce - Marketo Docs - Product Documentation"
+description: "Learn how to create workflow rules in Salesforce for Sales Connect activities. Automate actions when Sales Connect logs emails or calls."
 title: Creating Workflow Rules in Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect

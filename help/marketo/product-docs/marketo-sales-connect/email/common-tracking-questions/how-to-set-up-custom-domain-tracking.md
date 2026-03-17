@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352539
-description: "How to Set up Custom Domain Tracking - Marketo Docs - Product Documentation"
+description: "Learn how to set up custom domain tracking in Sales Connect. Use your own domain for tracking links to improve deliverability."
 title: How to Set up Custom Domain Tracking
 exl-id: 55a9b5b7-214d-44e6-a52b-612d03835f01
 feature: Marketo Sales Connect

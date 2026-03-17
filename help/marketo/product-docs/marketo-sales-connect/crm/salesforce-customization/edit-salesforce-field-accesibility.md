@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352472
-description: "Edit Salesforce Field Accesibility - Marketo Docs - Product Documentation"
+description: "Learn how to edit Salesforce field accessibility for Sales Connect. Control which fields Sales Connect can read or write in Salesforce."
 title: Edit Salesforce Field Accesibility
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect

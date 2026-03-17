@@ -1,5 +1,5 @@
 ---
-description: "Call Reasons - Marketo Docs - Product Documentation"
+description: "Understand call reasons in Sales Connect. Set and log why you called so outcomes sync to Salesforce correctly."
 title: Call Reasons
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect

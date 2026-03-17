@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352597
-description: "Add Hyperlinked Text - Marketo Docs - Product Documentation"
+description: "Learn how to add hyperlinked text to a Sales Connect template. Insert trackable links and style them in the template editor."
 title: Add Hyperlinked Text
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect

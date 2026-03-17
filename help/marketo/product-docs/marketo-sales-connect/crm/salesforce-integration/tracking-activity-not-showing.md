@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352478
-description: "Tracking Activity Not Showing - Marketo Docs - Product Documentation"
+description: "Get help when Sales Connect tracking activity is not showing in Salesforce. Troubleshoot why emails or calls may not log to Salesforce."
 title: Tracking Activity Not Showing
 exl-id: 8f3f6506-9367-4f08-84ef-636adf06e00d
 feature: Marketo Sales Connect

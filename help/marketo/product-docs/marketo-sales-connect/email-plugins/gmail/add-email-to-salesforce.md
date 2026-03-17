@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352483
-description: "Add Email to Salesforce - Marketo Docs - Product Documentation"
+description: "Learn how to add an email to Salesforce from the Gmail plugin. Log sent or received emails to the correct Salesforce record."
 title: Add Email to Salesforce
 exl-id: bb2e964d-e5f8-495f-969b-9f75822a6211
 feature: Marketo Sales Connect

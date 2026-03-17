@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352470
-description: "Create a Salesforce Priority Call Report with Sales Connect Data - Marketo Docs - Product Documentation"
+description: "Learn how to create a Salesforce priority call report using Sales Connect data. Build reports that include call activity from Sales Connect."
 title: Create a Salesforce Priority Call Report with Sales Connect Data
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14746186
-description: "Customize Unsubscribe Link Message - Marketo Docs - Product Documentation"
+description: "Learn how to customize the unsubscribe link message in Sales Connect. Change the text recipients see for the unsubscribe link."
 title: Customize Unsubscribe Link Message
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect

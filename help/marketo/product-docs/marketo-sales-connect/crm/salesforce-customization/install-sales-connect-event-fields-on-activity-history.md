@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352475
-description: "Install Sales Connect Event Fields on Activity History - Marketo Docs - Product Documentation"
+description: "Learn how to install Sales Connect event fields on Salesforce Activity History. Add custom fields to track Sales Connect events."
 title: Install Sales Connect Event Fields on Activity History
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect

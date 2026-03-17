@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352436
-description: "Sales Phone Local Presence - Marketo Docs - Product Documentation"
+description: "Learn about Sales Phone local presence in Sales Connect. Display a local caller ID when making outbound calls to improve answer rates."
 title: Sales Phone Local Presence
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect

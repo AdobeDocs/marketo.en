@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352615
-description: "Understanding the Content Tab - Marketo Docs - Product Documentation"
+description: "Understand the Content tab and template engagement metrics in Sales Connect. View secret weapon, highest and lowest engagement templates, and top attachments."
 title: Understanding the Content Tab
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 feature: Marketo Sales Connect
