@@ -1,5 +1,5 @@
 ---
-description: "Why Didn't All of My Contacts Get Pushed to Sales Insight Actions? - Marketo Docs - Product Documentation"
+description: "Find out why some contacts did not sync to Sales Insight Actions. Learn about sales owner and sync requirements for leads and contacts."
 title: Why Didn't All of My Contacts Get Pushed to Sales Insight Actions?
 exl-id: 5f0a4a66-7650-43c6-a8ea-4f991f4048fd
 feature: Sales Insight Actions

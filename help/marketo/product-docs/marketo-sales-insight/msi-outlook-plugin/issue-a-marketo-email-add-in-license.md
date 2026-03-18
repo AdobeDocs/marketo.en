@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949281
-description: "Issue a Marketo Email Add-in License - Marketo Docs - Product Documentation"
+description: "Learn how to issue a Marketo Email Add-in license for Outlook. Grant licenses so users can install and use the add-in."
 title: Issue a Marketo Email Add-in License
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights

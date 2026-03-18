@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949285
-description: "Log Inbound Mail From Your Leads in Marketo - Marketo Docs - Product Documentation"
+description: "Learn how to log inbound mail from leads in Marketo. Capture and attribute replies and inbound emails to the right lead record."
 title: Log Inbound Mail From Your Leads in Marketo
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights

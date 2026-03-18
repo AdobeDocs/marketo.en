@@ -1,5 +1,5 @@
 ---
-description: "Reply Logging - Marketo Docs - Product Documentation"
+description: "Learn about reply logging so prospect replies are logged to Salesforce. Enable Log Replies when API logging is on and reply tracking is available."
 title: Reply Logging
 hide: yes
 hidefromtoc: yes

@@ -1,5 +1,5 @@
 ---
-description: "Doc - Marketo Docs - Product Documentation"
+description: "Salesforce customization for Sales Insight Actions."
 title: Doc
 hide: yes
 hidefromtoc: yes

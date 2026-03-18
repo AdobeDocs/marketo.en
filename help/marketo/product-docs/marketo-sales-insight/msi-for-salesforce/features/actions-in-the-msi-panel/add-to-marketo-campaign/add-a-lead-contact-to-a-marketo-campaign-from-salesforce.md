@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10099167
-description: "Choose an Action in Sales Insight - Marketo Docs - Product Documentation"
+description: "Learn how to add a lead or contact to a Marketo campaign from Salesforce. Use the MSI panel to add to campaign from the record."
 title: Choose an Action in Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 ---

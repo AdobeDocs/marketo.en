@@ -1,5 +1,5 @@
 ---
-description: "Why Do My Emails Get Marked as Spam? - Marketo Docs - Product Documentation"
+description: "Get help when your sales emails are marked as spam. Learn common causes and how to improve deliverability and sender reputation."
 title: Why Do My Emails Get Marked as Spam?
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
 ---

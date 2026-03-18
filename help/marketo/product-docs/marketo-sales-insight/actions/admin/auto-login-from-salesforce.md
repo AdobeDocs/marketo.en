@@ -1,5 +1,5 @@
 ---
-description: "Auto Login from Salesforce - Marketo Docs - Product Documentation"
+description: "Learn how to enable auto-login from Salesforce so users authenticate to Sales Insight Actions automatically. Set Login Management to Salesforce Only and connect accounts."
 title: Auto Login from Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions

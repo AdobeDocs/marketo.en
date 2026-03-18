@@ -1,5 +1,5 @@
 ---
-description: "Can I Track Multiple Recipients with CC/BCC - Marketo Docs - Product Documentation"
+description: "Learn whether you can track multiple recipients when using CC and BCC. Understand tracking limits and behavior for group emails."
 title: Can I Track Multiple Recipients with CC/BCC
 exl-id: cc14cbb5-6c1f-470c-9836-dd853ef7befc
 feature: Sales Insight Actions

@@ -1,5 +1,5 @@
 ---
-description: "View Template List as Another User - Marketo Docs - Product Documentation"
+description: "Learn how to view the template list as another user when you are an admin. Use View As to see another user's templates."
 title: View Template List as Another User
 hide: yes
 hidefromtoc: yes

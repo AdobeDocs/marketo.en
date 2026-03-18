@@ -1,5 +1,5 @@
 ---
-description: "Call Outcomes - Marketo Docs - Product Documentation"
+description: "Learn about call outcomes in Sales Insight Actions. Log outcome when ending a call so activity is recorded in Marketo and Salesforce."
 title: Call Outcomes
 exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
 feature: Sales Insight Actions

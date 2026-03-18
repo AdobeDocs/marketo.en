@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377005
-description: "Enable RSS for Sales Insight - Marketo Docs - Product Documentation"
+description: "Learn how to enable RSS for Marketo Sales Insight. Allow users to subscribe to lead feed updates via RSS in Salesforce."
 title: Enable RSS for Sales Insight
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights

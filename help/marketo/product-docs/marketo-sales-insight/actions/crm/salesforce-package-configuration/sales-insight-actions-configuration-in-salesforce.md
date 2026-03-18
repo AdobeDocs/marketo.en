@@ -1,5 +1,5 @@
 ---
-description: "Sales Insight Actions Configuration in Salesforce - Marketo Docs - Product Documentation"
+description: "Learn how to configure Sales Insight Actions in Salesforce. Add remote sites, enable MSI Actions, and enter API Secret Key."
 title: Sales Insight Actions Configuration in Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
 ---

@@ -1,5 +1,5 @@
 ---
-description: "Manage Your Profile - Marketo Docs - Product Documentation"
+description: "Learn how to manage your Sales Insight Actions profile. Update name, email, signature, and notification preferences in Settings."
 title: Manage Your Profile
 ---
 # Manage Your Profile {#manage-your-profile}

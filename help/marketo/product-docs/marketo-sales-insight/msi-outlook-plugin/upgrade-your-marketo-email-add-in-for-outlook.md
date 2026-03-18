@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949279
-description: "Upgrade your Marketo Email Add-In for [!DNL Outlook] - Marketo Docs - Product Documentation"
+description: "Learn how to upgrade the Marketo Email Add-in for Outlook. Get the latest version for new features and fixes."
 title: "Upgrade your Marketo Email Add-In for [!DNL Outlook]"
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights

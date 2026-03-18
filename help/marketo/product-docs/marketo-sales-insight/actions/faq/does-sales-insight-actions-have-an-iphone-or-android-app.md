@@ -1,5 +1,5 @@
 ---
-description: "Does Sales Insight Actions Have an iPhone or Android App? - Marketo Docs - Product Documentation"
+description: "Find out if Sales Insight Actions has a mobile app for iPhone or Android. Learn how to use Actions on mobile devices."
 title: Does Sales Insight Actions Have an iPhone or Android App?
 exl-id: 2789c76e-a26f-4efd-ae6b-e897197b9f55
 feature: Sales Insight Actions

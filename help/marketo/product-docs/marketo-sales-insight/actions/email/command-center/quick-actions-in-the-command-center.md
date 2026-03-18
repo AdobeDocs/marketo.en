@@ -1,5 +1,5 @@
 ---
-description: "Quick Actions in the Command Center - Marketo Docs - Product Documentation"
+description: "Learn about quick actions in the Command Center for sales emails and tasks. Use actions to reply, mark complete, or manage items quickly."
 title: Quick Actions in the Command Center
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions

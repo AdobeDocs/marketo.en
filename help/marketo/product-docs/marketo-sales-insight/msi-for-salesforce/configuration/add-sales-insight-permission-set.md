@@ -1,5 +1,5 @@
 ---
-description: "Add Sales Insight Permission Set - Marketo Docs - Product Documentation"
+description: "Learn how to add the Sales Insight permission set in Salesforce. Assign the set to users who need Marketo Sales Insight access."
 title: Add Sales Insight Permission Set
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights

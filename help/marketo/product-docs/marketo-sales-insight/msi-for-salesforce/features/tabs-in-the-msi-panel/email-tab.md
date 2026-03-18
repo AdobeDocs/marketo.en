@@ -1,5 +1,5 @@
 ---
-description: "Email Tab - Marketo Docs - Product Documentation"
+description: "Learn about the Email tab in the Marketo Sales Insight panel. View sent emails, opens, clicks, and replies for the lead or contact."
 title: Email Tab
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights

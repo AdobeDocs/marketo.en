@@ -1,5 +1,5 @@
 ---
-description: "Manage Template Categories - Marketo Docs - Product Documentation"
+description: "Learn how to manage template categories in Sales Insight Actions. Organize templates into categories and control sharing."
 title: Manage Template Categories
 hide: yes
 hidefromtoc: yes

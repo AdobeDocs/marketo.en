@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949718
-description: "Publish an Email to Sales Insight - Marketo Docs - Product Documentation"
+description: "Learn how to publish an email from Marketo to Sales Insight. Make a Marketo email template available for sales users in the MSI panel."
 title: Publish an Email to Sales Insight
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights

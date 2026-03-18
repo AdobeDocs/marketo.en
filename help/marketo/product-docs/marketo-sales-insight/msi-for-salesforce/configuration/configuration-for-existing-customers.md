@@ -1,6 +1,6 @@
 ---
 unique-page-id: 42762519
-description: "Configuration for Existing Customers - Marketo Docs - Product Documentation"
+description: "Learn how to configure Marketo Sales Insight for existing Salesforce customers. Update from older packages or add Actions."
 title: Configuration for Existing Customers
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights

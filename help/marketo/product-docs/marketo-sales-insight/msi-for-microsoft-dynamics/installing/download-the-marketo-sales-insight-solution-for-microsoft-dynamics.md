@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6849070
-description: "Download the Marketo Sales Insight Solution for Microsoft Dynamics - Marketo Docs - Product Documentation"
+description: "Learn how to download the Marketo Sales Insight solution for Microsoft Dynamics. Get the package before installing in your Dynamics instance."
 title: Download the Marketo Sales Insight Solution for Microsoft Dynamics
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
 feature: Marketo Sales Insights

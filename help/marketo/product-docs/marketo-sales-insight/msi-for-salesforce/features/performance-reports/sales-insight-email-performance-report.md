@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4720314
-description: "Sales Insight Email Performance Report - Marketo Docs - Product Documentation"
+description: "Learn about the Sales Insight email performance report in Salesforce. View email metrics and engagement for sales emails."
 title: Sales Insight Email Performance Report
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights

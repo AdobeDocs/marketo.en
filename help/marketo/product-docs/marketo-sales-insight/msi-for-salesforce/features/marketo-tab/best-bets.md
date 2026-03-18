@@ -1,5 +1,5 @@
 ---
-description: "Best Bets - Marketo Docs - Product Documentation"
+description: "Learn about Best Bets in the Marketo tab in Salesforce. See which leads are most engaged and ready for sales outreach."
 title: Best Bets
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights

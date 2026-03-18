@@ -1,5 +1,5 @@
 ---
-description: "Interesting Moments in Sales Insight Actions - Marketo Docs - Product Documentation"
+description: "Learn about interesting moments in Sales Insight Actions. Understand how key activities are logged and displayed in Marketo and Salesforce."
 title: Interesting Moments in Sales Insight Actions
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions

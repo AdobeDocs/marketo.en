@@ -1,5 +1,5 @@
 ---
-description: "Syncing Unsubscribes with Salesforce - Marketo Docs - Product Documentation"
+description: "Learn how to sync unsubscribes between Sales Insight Actions and Salesforce. Keep opt-out status consistent across systems."
 title: Syncing Unsubscribes with Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions

@@ -1,5 +1,5 @@
 ---
-description: "Field Prompts - Marketo Docs - Product Documentation"
+description: "Learn about field prompts in email templates. Add placeholders that prompt the sender to fill in custom content when sending."
 title: Field Prompts
 exl-id: c138b627-f853-4d35-b022-cc517d6b86d4
 ---

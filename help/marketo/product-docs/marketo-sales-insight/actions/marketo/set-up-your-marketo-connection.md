@@ -1,5 +1,5 @@
 ---
-description: "Set up Your Marketo Connection - Marketo Docs - Product Documentation"
+description: "Learn how to set up your Marketo connection for Sales Insight Actions. Connect from Marketo Admin to enable Actions for your instance."
 title: Set up Your Marketo Connection
 hide: yes
 hidefromtoc: yes

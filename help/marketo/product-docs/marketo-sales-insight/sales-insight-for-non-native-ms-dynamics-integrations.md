@@ -1,5 +1,5 @@
 ---
-description: "[!DNL Sales Insight] for Non-Native MS [!DNL Dynamics] Integrations - Marketo Docs - Product Documentation"
+description: "Learn how to configure Sales Insight for non-native MS Dynamics integrations. Set up MSI when Marketo connects to Dynamics via custom sync."
 title: "[!DNL Sales Insight] for Non-Native MS [!DNL Dynamics] Integrations"
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
 feature: Marketo Sales Insights

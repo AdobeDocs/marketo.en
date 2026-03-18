@@ -1,5 +1,5 @@
 ---
-description: "Email Connection Throttling - Marketo Docs - Product Documentation"
+description: "Understand email connection throttling and sending limits in Sales Insight Actions. Learn how throttling affects delivery and how to stay within limits."
 title: Email Connection Throttling
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions

@@ -1,5 +1,5 @@
 ---
-description: "Invite Users and Admins - Marketo Docs - Product Documentation"
+description: "Learn how to invite users and admins to Sales Insight Actions from User Management. Add users via email or CSV and assign teams and Marketo workspace."
 title: Invite Users and Admins
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions

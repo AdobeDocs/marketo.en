@@ -1,5 +1,5 @@
 ---
-description: "Bulk Emailing Options - Marketo Docs - Product Documentation"
+description: "Learn about bulk emailing options in Sales Insight Actions. Send to multiple recipients using group email, select and send, or campaigns."
 title: Bulk Emailing Options
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions

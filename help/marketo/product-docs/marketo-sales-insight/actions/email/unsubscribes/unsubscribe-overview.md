@@ -1,5 +1,5 @@
 ---
-description: "Unsubscribe Overview - Marketo Docs - Product Documentation"
+description: "Learn about unsubscribe handling in Sales Insight Actions. Understand how unsubscribes work and sync with Marketo and Salesforce."
 title: Unsubscribe Overview
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions

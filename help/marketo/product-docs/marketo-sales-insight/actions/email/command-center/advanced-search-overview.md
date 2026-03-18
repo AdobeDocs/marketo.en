@@ -1,5 +1,5 @@
 ---
-description: "Advanced Search Overview - Marketo Docs - Product Documentation"
+description: "Learn how to use advanced search in the Command Center to find emails and tasks. Filter by date, sender, status, and other criteria."
 title: Advanced Search Overview
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions

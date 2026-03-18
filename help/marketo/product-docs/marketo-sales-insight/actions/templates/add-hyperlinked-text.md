@@ -1,5 +1,5 @@
 ---
-description: "Add Hyperlinked Text - Marketo Docs - Product Documentation"
+description: "Learn how to add hyperlinked text in email templates. Insert trackable links and format link text in the template editor."
 title: Add Hyperlinked Text
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions

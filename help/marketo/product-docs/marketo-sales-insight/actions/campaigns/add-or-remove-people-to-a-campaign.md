@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352613
-description: "Add People to your Campaign - Marketo Docs - Product Documentation"
+description: "Learn how to add or remove people from Sales Campaigns from the web app, Salesforce, or inbox. Set reply and bounce options to end campaigns automatically."
 title: Add People to your Campaign
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 ---
