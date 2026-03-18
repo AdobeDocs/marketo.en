@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11370503
-description: "Schedule Your In-App Message - Marketo Docs - Product Documentation"
+description: "Learn how to schedule your in-app message. Set a future start date and time or run immediately, with optional end date."
 title: Schedule Your In-App Message
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing

@@ -1,5 +1,5 @@
 ---
-description: "Add a Flow Step for SMS - Marketo Docs - Product Documentation"
+description: "Learn how to add SMS flow steps to Smart Campaigns. Use Send SMS Message, Subscribe to Vibes List, or Unsubscribe from Vibes List."
 title: Add a Flow Step for SMS
 hide: yes
 hidefromtoc: yes

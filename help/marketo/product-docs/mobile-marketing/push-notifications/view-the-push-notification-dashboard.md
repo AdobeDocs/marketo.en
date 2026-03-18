@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10096523
-description: "View the Push Notification Dashboard - Marketo Docs - Product Documentation"
+description: "Learn how to view the push notification dashboard. See Total Sent, Total Taps, and Tap Decay for your push campaigns."
 title: View the Push Notification Dashboard
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing

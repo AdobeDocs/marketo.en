@@ -1,5 +1,5 @@
 ---
-description: "Create an SMS Message - Marketo Docs - Product Documentation"
+description: "Learn how to create an SMS message. Add text, tokens, and links in the editor and follow character limits and compliance requirements."
 title: Create an SMS Message
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670

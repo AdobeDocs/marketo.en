@@ -1,5 +1,5 @@
 ---
-description: "Create an In-App Message - Marketo Docs - Product Documentation"
+description: "Learn how to create an in-app message. Add it as a local asset in Marketing Activities, name it, then choose a layout and build your message."
 title: Create an In-App Message
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 feature: Mobile Marketing

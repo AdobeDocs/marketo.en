@@ -1,5 +1,5 @@
 ---
-description: "SMS Reporting - Marketo Docs - Product Documentation"
+description: "Learn about the SMS Message Dashboard and reporting. View sent, delivered, bounce rate, and activity over time for your SMS campaigns."
 title: SMS Reporting
 feature: Mobile Marketing
 exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa

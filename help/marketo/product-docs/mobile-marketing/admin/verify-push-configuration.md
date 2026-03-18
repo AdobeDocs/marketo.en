@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7512445
-description: "Verify Push Configuration - Marketo Docs - Product Documentation"
+description: "Learn how to verify push configuration so your mobile app is synced. Confirm platforms in Admin and start sending push notifications."
 title: Verify Push Configuration
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing

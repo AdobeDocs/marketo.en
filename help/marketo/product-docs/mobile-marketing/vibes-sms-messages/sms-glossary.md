@@ -1,5 +1,5 @@
 ---
-description: "SMS Glossary - Marketo Docs - Product Documentation"
+description: "Learn about common Vibes SMS terms used with Marketo Engage. Use this glossary for acquisition, subscription lists, short codes, and more."
 title: SMS Glossary
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94

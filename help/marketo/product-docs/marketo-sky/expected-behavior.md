@@ -1,5 +1,5 @@
 ---
-description: "Expected Behavior - Marketo Docs - Product Documentation"
+description: "Learn about expected behavior for Predictive Audiences in Marketo Sky. Understand data privacy, activation timing, and filter limits."
 title: Expected Behavior
 hide: yes
 hidefromtoc: yes

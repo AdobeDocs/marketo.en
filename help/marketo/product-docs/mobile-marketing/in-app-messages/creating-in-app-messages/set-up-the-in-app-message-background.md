@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10100649
-description: "Set Up the In-App Message Background - Marketo Docs - Product Documentation"
+description: "Learn how to set up the in-app message background. Choose color or image, set border and corner radius, and configure tap actions for each platform."
 title: Set Up the In-App Message Background
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
