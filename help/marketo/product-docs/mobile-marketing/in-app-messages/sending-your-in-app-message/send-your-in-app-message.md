@@ -1,5 +1,5 @@
 ---
-description: "Send Your In-App Message - Marketo Docs - Product Documentation"
+description: "Learn how to send your in-app message. Create a program, use the Control Panel to set audience and message, then approve to launch."
 title: Send Your In-App Message
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing

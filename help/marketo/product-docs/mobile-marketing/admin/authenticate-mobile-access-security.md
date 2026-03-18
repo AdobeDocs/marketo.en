@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10096158
-description: "Authenticate Mobile Access Security - Marketo Docs - Product Documentation"
+description: "Learn how to enable Access Key and Access Secret for mobile app security. Provide codes to IT so app logins are verified."
 title: Authenticate Mobile Access Security
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing

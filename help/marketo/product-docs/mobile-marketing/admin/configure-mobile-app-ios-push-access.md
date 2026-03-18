@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7512434
-description: "Configure Mobile App iOS Push Access - Marketo Docs - Product Documentation"
+description: "Learn how to configure iOS push access for your mobile app. Add certificate and password from your developer in Admin."
 title: Configure Mobile App iOS Push Access
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing

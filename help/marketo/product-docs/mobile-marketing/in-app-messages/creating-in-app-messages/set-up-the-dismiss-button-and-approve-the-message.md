@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10912178
-description: "Set Up the Dismiss Button and Approve the Message - Marketo Docs - Product Documentation"
+description: "Learn how to set up the dismiss button and approve your in-app message. Configure color, design, and tap actions, then preview and approve to launch."
 title: Set Up the Dismiss Button and Approve the Message
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing

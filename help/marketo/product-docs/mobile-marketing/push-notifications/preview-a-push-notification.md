@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10092730
-description: "Preview a Push Notification - Marketo Docs - Product Documentation"
+description: "Learn how to preview a push notification on Android and iOS. See how it looks on Home screen, Lock screen, and Notification Center."
 title: Preview a Push Notification
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing

@@ -1,5 +1,5 @@
 ---
-description: "Send an SMS Message - Marketo Docs - Product Documentation"
+description: "Learn how to send an SMS message via batch or trigger campaign. Define Smart List, add Send SMS flow step, then schedule or activate."
 title: Send an SMS Message
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831

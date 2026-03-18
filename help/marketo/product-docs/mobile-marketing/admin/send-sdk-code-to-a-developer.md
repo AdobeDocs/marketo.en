@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7512448
-description: "Send SDK Code to a Developer - Marketo Docs - Product Documentation"
+description: "Learn how to send SDK code to your developer. Use Mobile App Actions to email the code snippet for Android and iOS setup."
 title: Send SDK Code to a Developer
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
