@@ -1,5 +1,5 @@
 ---
-description: "Verify Your Email - Marketo Docs - Product Documentation"
+description: "Learn how to verify your email address in Sales Insight Actions. Complete verification so you can send tracked sales emails."
 title: Verify Your Email
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions

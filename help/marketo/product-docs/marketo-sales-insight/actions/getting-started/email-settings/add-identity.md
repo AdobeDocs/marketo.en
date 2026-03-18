@@ -1,5 +1,5 @@
 ---
-description: "Add Identity - Marketo Docs - Product Documentation"
+description: "Learn how to add an email identity in Sales Insight Actions. Add and verify sending addresses in Settings under Email."
 title: Add Identity
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions

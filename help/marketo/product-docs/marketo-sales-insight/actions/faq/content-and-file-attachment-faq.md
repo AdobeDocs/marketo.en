@@ -1,5 +1,5 @@
 ---
-description: "Content and File Attachment FAQ - Marketo Docs - Product Documentation"
+description: "Get answers to common questions about content and file attachments in sales emails. Learn size limits, tracking, and best practices."
 title: Content and File Attachment FAQ
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions

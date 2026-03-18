@@ -1,5 +1,5 @@
 ---
-description: "Which Browsers Does Sales Insight Actions Support? - Marketo Docs - Product Documentation"
+description: "Find out which browsers Sales Insight Actions supports. Use a supported browser for the best experience."
 title: Which Browsers Does Sales Insight Actions Support?
 exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 feature: Sales Insight Actions

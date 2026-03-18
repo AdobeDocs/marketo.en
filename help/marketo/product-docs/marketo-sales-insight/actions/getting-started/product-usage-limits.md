@@ -1,5 +1,5 @@
 ---
-description: "Product Usage Limits - Marketo Docs - Product Documentation"
+description: "Understand Sales Insight Actions product usage limits. Learn about email, call, and API limits for your account."
 title: Product Usage Limits
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions

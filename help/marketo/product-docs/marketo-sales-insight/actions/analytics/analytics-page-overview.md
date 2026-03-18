@@ -1,5 +1,5 @@
 ---
-description: "Analytics Page Overview - Marketo Docs - Product Documentation"
+description: "Learn about the Analytics tab and email engagement data for Sales Insight Actions. View individual and team stats in the Me, Team, and Content tabs."
 title: Analytics Page Overview
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions

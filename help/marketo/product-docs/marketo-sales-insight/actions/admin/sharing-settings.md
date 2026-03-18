@@ -1,5 +1,5 @@
 ---
-description: "Sharing Settings - Marketo Docs - Product Documentation"
+description: "Learn how to configure sharing settings to control who can share templates into categories."
 title: Sharing Settings
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions

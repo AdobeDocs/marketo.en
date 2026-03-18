@@ -1,5 +1,5 @@
 ---
-description: "Connect Your Sales Insight Actions Account to Salesforce - Marketo Docs - Product Documentation"
+description: "Learn how to connect your Sales Insight Actions account to Salesforce."
 title: Connect Your Sales Insight Actions Account to Salesforce
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions

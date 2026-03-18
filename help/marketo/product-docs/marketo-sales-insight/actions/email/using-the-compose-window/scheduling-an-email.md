@@ -1,5 +1,5 @@
 ---
-description: "Scheduling an Email - Marketo Docs - Product Documentation"
+description: "Learn how to schedule a sales email for later delivery. Set date and time when composing in Sales Insight Actions or your inbox."
 title: Scheduling an Email
 ---
 # Scheduling an Email {#scheduling-an-email}

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37355602
-description: "Install and Configure Marketo Sales Insight in Microsoft Dynamics Online - Marketo Docs - Product Documentation"
+description: "Learn how to install and configure Marketo Sales Insight in Microsoft Dynamics Online. Set up the solution for Dynamics Online."
 title: Install and Configure Marketo Sales Insight in Microsoft Dynamics Online
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 feature: Marketo Sales Insights

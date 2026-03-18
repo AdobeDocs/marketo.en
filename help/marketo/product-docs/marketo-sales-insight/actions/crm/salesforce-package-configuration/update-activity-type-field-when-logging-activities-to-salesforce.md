@@ -1,5 +1,5 @@
 ---
-description: "Update Activity Type Field When Logging Activities to Salesforce - Marketo Docs - Product Documentation"
+description: "Learn how to update the Activity Type field when logging activities to Salesforce. Add a Reply type to the Task Type picklist in Salesforce Setup."
 title: Update Activity Type Field When Logging Activities to Salesforce
 exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
 ---

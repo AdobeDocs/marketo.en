@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949711
-description: "Install the Marketo Email Add-in for [!DNL Outlook] with a Registration Code - Marketo Docs - Product Documentation"
+description: "Learn how to install the Marketo Email Add-in for Outlook with a registration code. Get the add-in for users who have a registration code."
 title: Install the Marketo Email Add-in for [!DNL Outlook] with a Registration Code
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights

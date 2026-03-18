@@ -1,5 +1,5 @@
 ---
-description: "Person Detail View - Marketo Docs - Product Documentation"
+description: "Understand the person detail view in Sales Insight Actions. See contact info, activity history, and quick actions for a lead or contact."
 title: Person Detail View
 hide: yes
 hidefromtoc: yes

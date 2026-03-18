@@ -1,5 +1,5 @@
 ---
-description: "Understanding the Team Tab - Marketo Docs - Product Documentation"
+description: "Understand the Team tab and team-wide email metrics in Sales Insight Actions. View template usage, peak engagement time, deals closed, and Rep Leaderboard."
 title: Understanding the Team Tab
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions

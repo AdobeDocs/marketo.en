@@ -1,5 +1,5 @@
 ---
-description: "Understanding the Me Tab - Marketo Docs - Product Documentation"
+description: "Understand the Me tab and your email engagement stats in Sales Insight Actions. View emails sent, template usage, and most engaging emails and contacts."
 title: Understanding the Me Tab
 exl-id: 7663f2f3-5266-4ef0-a719-f6630cc0f427
 feature: Sales Insight Actions

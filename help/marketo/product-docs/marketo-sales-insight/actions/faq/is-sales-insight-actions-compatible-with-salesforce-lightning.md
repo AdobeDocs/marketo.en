@@ -1,5 +1,5 @@
 ---
-description: "Is Sales Insight Actions Compatible with Salesforce Lightning? - Marketo Docs - Product Documentation"
+description: "Find out if Sales Insight Actions is compatible with Salesforce Lightning. Use Actions from the Lightning experience."
 title: Is Sales Insight Actions Compatible with Salesforce Lightning?
 hide: yes
 hidefromtoc: yes

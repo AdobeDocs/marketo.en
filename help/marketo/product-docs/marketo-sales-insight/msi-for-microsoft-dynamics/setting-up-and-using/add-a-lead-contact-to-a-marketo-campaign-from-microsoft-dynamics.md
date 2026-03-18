@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953342
-description: "Add a Lead/Contact to a Marketo Campaign from Microsoft Dynamics - Marketo Docs - Product Documentation"
+description: "Learn how to add a lead or contact to a Marketo campaign from Microsoft Dynamics. Use the MSI panel to add leads to campaigns."
 title: Add a Lead/Contact to a Marketo Campaign from Microsoft Dynamics
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights

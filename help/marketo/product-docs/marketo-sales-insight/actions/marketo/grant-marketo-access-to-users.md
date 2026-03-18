@@ -1,5 +1,5 @@
 ---
-description: "Grant Marketo Access to Users - Marketo Docs - Product Documentation"
+description: "Learn how to grant Marketo access to users in Sales Insight Actions. Allow users to see Marketo data and use Marketo-connected features."
 title: Grant Marketo Access to Users
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions

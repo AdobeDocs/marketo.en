@@ -1,5 +1,5 @@
 ---
-description: "Using Bulk Send Sales Email in Salesforce - Marketo Docs - Product Documentation"
+description: "Learn how to send bulk sales emails from Salesforce. Select leads or contacts in a list view and use the Send Sales Email button in Lightning or Classic."
 title: Using Bulk Send Sales Email in Salesforce
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
 ---

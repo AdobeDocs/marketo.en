@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37357050
-description: "Upgrading Your MSI Package - Marketo Docs - Product Documentation"
+description: "Learn how to upgrade your Marketo Sales Insight package in Salesforce. Get the latest version and apply the upgrade."
 title: Upgrading Your MSI Package
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights

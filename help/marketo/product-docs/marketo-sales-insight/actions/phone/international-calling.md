@@ -1,5 +1,5 @@
 ---
-description: "International Calling - Marketo Docs - Product Documentation"
+description: "Learn about international calling in Sales Insight Actions. Make and log calls to international numbers from the dialer."
 title: International Calling
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions

@@ -1,5 +1,5 @@
 ---
-description: "Email Marked as Spam - Marketo Docs - Product Documentation"
+description: "Get help when sales emails are marked as spam. Learn causes and steps to improve deliverability and avoid spam filters."
 title: Email Marked as Spam
 ---
 # Email Marked as Spam {#email-marked-as-spam}

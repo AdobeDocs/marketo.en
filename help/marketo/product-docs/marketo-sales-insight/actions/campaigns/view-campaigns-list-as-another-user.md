@@ -1,5 +1,5 @@
 ---
-description: "View Campaigns List as Another User - Marketo Docs - Product Documentation"
+description: "Learn how to view campaigns as another user when you are an admin. Use the View As drop-down on the Campaigns page to see any user's campaigns."
 title: View Campaigns List as Another User
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions

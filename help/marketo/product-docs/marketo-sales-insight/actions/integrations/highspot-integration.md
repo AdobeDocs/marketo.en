@@ -1,5 +1,5 @@
 ---
-description: "Highspot Integration - Marketo Docs - Product Documentation"
+description: "Learn about the Highspot integration with Sales Insight Actions. Use Highspot content in sales emails and track engagement."
 title: Highspot Integration
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions

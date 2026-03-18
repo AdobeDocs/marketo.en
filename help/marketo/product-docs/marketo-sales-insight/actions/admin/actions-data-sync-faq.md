@@ -1,5 +1,5 @@
 ---
-description: "Actions Data Sync FAQ - Marketo Docs - Product Documentation"
+description: "Learn about Actions data sync between Marketo Engage, Salesforce, and Sales Insight Actions. Get answers to common questions about people and activity data sync."
 title: Actions Data Sync FAQ
 feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca

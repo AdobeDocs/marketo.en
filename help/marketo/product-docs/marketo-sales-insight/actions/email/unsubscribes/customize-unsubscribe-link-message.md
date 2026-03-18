@@ -1,5 +1,5 @@
 ---
-description: "Customize Unsubscribe Link Message - Marketo Docs - Product Documentation"
+description: "Learn how to customize the unsubscribe link message in sales emails. Edit the text users see when they opt out."
 title: Customize Unsubscribe Link Message
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions

@@ -1,5 +1,5 @@
 ---
-description: "Dynamic Fields - Marketo Docs - Product Documentation"
+description: "Learn about dynamic fields in Sales Insight Actions templates. Use merge fields to personalize emails with contact and sender data."
 title: Dynamic Fields
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions

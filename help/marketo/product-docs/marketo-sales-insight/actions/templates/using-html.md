@@ -1,5 +1,5 @@
 ---
-description: "Using HTML - Marketo Docs - Product Documentation"
+description: "Learn how to use HTML in Sales Insight Actions email templates. Add custom HTML for formatting and advanced content."
 title: Using HTML
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
 feature: Sales Insight Actions

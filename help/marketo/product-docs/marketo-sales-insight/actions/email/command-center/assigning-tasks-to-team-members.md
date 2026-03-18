@@ -1,5 +1,5 @@
 ---
-description: "Assigning Tasks to Team Members - Marketo Docs - Product Documentation"
+description: "Learn how to assign tasks to team members from the Command Center. Reassign email, call, and other tasks to the right rep."
 title: Assigning Tasks to Team Members
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions

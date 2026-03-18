@@ -1,5 +1,5 @@
 ---
-description: "Make a Marketing Campaign Visible in Sales Insight Actions - Marketo Docs - Product Documentation"
+description: "Learn how to make a Marketo marketing campaign visible in Sales Insight Actions. Allow sales users to add leads to the campaign from Actions."
 title: Make a Marketing Campaign Visible in Sales Insight Actions
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions

@@ -1,5 +1,5 @@
 ---
-description: "Using Bulk Add to Sales Campaign in Salesforce - Marketo Docs - Product Documentation"
+description: "Learn how to bulk add leads and contacts to a Sales Campaign from Salesforce. Select a list view and use the Add to Sales Campaign button in Lightning or Classic."
 title: Using Bulk Add to Sales Campaign in Salesforce
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
 ---

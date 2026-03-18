@@ -1,5 +1,5 @@
 ---
-description: "Sales Insight Actions User Onboarding Guide - Marketo Docs - Product Documentation"
+description: "Learn how to get started as a new Sales Insight Actions user. Complete setup steps and connect email, Salesforce, and Marketo."
 title: Sales Insight Actions User Onboarding Guide
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions

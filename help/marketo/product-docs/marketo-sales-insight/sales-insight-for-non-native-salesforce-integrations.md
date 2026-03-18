@@ -1,6 +1,6 @@
 ---
 unique-page-id: 45417125
-description: "[!DNL Sales Insight] for Non-Native [!DNL Salesforce] Integrations - Marketo Docs - Product Documentation"
+description: "Learn how to configure Sales Insight for non-native Salesforce integrations. Set up MSI when Marketo connects to Salesforce via custom sync."
 title: "[!DNL Sales Insight] for Non-Native [!DNL Salesforce] Integrations"
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 feature: Marketo Sales Insights

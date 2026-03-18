@@ -1,5 +1,5 @@
 ---
-description: "Connect to Gmail - Marketo Docs - Product Documentation"
+description: "Learn how to connect Gmail to Sales Insight Actions. Send and track sales emails from Gmail with the Actions integration."
 title: Connect to Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
 ---

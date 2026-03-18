@@ -1,5 +1,5 @@
 ---
-description: "Template Engagement - Marketo Docs - Product Documentation"
+description: "Learn how to view template engagement in the Analytics Content tab. See Secret Weapon, Highest Engagement, and Lowest Engagement metrics by date range."
 title: Template Engagement
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions

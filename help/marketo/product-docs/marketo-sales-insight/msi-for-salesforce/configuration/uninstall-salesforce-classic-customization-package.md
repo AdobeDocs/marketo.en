@@ -1,5 +1,5 @@
 ---
-description: "Uninstall Salesforce Customization Package - Marketo Docs - Product Documentation"
+description: "Learn how to uninstall the Salesforce Classic customization package for Marketo Sales Insight. Remove the package when needed."
 title: Uninstall Salesforce Customization Package
 hide: yes
 hidefromtoc: yes

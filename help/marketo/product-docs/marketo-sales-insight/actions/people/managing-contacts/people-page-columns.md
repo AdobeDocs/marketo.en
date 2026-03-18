@@ -1,5 +1,5 @@
 ---
-description: "People Page Columns - Marketo Docs - Product Documentation"
+description: "Learn about People page columns and how to customize the view. Show or hide columns to see the contact data you need."
 title: People Page Columns
 hide: yes
 hidefromtoc: yes

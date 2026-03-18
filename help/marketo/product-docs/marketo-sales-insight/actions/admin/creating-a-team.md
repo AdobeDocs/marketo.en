@@ -1,5 +1,5 @@
 ---
-description: "Creating a Team - Marketo Docs - Product Documentation"
+description: "Learn how to create a team in Sales Insight Actions to share templates, campaigns, and groups."
 title: Creating a Team
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions

@@ -1,5 +1,5 @@
 ---
-description: "Setting up MSI Views - Marketo Docs - Product Documentation"
+description: "Learn how to set up MSI views in Microsoft Dynamics. Configure which Marketo Sales Insight tabs and data appear for users."
 title: Setting up MSI Views
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights

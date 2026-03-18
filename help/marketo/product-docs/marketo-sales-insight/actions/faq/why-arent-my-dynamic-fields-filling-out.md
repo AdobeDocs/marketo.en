@@ -1,5 +1,5 @@
 ---
-description: "Why Aren't My Dynamic Fields Filling Out? - Marketo Docs - Product Documentation"
+description: "Troubleshoot when dynamic fields do not fill in templates. Check Salesforce connection and field mapping for merge fields."
 title: Why Aren't My Dynamic Fields Filling Out?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions

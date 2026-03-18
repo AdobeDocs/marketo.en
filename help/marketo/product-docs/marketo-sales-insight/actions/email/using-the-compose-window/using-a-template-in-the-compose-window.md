@@ -1,5 +1,5 @@
 ---
-description: "Using a Template in the Compose Window - Marketo Docs - Product Documentation"
+description: "Learn how to use a template in the compose window when sending sales emails. Insert templates and pin categories for quick access."
 title: Using a Template in the Compose Window
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions

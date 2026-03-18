@@ -1,5 +1,5 @@
 ---
-description: "Connect to Outlook - Marketo Docs - Product Documentation"
+description: "Learn how to connect Outlook to Sales Insight Actions. Send and track sales emails from Outlook with the Actions integration."
 title: Connect to Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
 ---

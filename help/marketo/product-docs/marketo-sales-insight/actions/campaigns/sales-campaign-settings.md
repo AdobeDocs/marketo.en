@@ -1,5 +1,5 @@
 ---
-description: "Sales Campaign Settings - Marketo Docs - Product Documentation"
+description: "Learn how to configure Sales Campaign settings including Skip Weekends, Remove on Bounce, and reply behavior."
 title: Sales Campaign Settings
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions

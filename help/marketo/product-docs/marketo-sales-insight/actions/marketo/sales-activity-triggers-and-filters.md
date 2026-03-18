@@ -1,5 +1,5 @@
 ---
-description: "Sales Activity Triggers and Filters - Marketo Docs - Product Documentation"
+description: "Understand sales activity triggers and filters in Marketo. Use Actions activities to trigger smart campaigns and segment leads."
 title: Sales Activity Triggers and Filters
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions

@@ -1,5 +1,5 @@
 ---
-description: "Transactional Sales Email Templates - Marketo Docs - Product Documentation"
+description: "Learn about transactional sales email templates and when unsubscribe links are not required. Use for one-to-one transactional messages."
 title: Transactional Sales Email Templates
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177

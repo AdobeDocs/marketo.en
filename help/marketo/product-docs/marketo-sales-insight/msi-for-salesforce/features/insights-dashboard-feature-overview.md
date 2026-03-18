@@ -1,6 +1,6 @@
 ---
 unique-page-id: 42762514
-description: "Insights Dashboard Feature Overview - Marketo Docs - Product Documentation"
+description: "Learn about the Insights Dashboard in Marketo Sales Insight. View engagement velocity, upcoming campaigns, and tasks in the panel."
 title: Insights Dashboard Feature Overview
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights

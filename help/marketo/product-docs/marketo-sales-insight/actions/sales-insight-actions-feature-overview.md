@@ -1,5 +1,5 @@
 ---
-description: "Sales Insight Actions Feature Overview - Marketo Docs - Product Documentation"
+description: "Learn about Sales Insight Actions and marketing-powered intelligence and engagement tools for sales. Use sales email, campaigns, dialer, and tasks to accelerate prospecting."
 title: Sales Insight Actions Feature Overview
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions

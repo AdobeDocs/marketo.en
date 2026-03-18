@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12981050
-description: "Lock Sales Template - Marketo Docs - Product Documentation"
+description: "Learn how to lock a sales template in Marketo Sales Insight. Prevent changes to a template so sales uses the approved version."
 title: Lock Sales Template
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights

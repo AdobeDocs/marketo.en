@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11382815
-description: "Marketo [!DNL Outlook] Plugin Installation by IT - Marketo Docs - Product Documentation"
+description: "Learn how IT can install the Marketo Outlook plugin for the organization. Deploy the add-in at scale for Outlook users."
 title: Marketo [!DNL Outlook] Plugin Installation by IT
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights

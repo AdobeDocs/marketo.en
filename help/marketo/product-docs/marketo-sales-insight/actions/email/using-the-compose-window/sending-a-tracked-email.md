@@ -1,5 +1,5 @@
 ---
-description: "Sending a Tracked Email - Marketo Docs - Product Documentation"
+description: "Learn how to send a tracked sales email so you can see views, clicks, and replies. Use a delivery channel and track from Command Center."
 title: Sending a Tracked Email
 hide: yes
 hidefromtoc: yes

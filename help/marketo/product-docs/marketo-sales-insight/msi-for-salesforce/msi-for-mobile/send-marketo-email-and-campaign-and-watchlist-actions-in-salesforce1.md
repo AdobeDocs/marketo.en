@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7511931
-description: "Send Marketo Email and Campaign and Watchlist Actions in Salesforce1 - Marketo Docs - Product Documentation"
+description: "Learn how to send Marketo email and use campaign and watchlist actions in Salesforce Mobile. Use MSI actions on mobile."
 title: Send Marketo Email and Campaign and Watchlist Actions in Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
