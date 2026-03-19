@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11385942
-description: Learn how to enable approved predictive content for the Marketo Content Recommendation Bar. Open a title on the Predictive Content page, select Bar, check enable, and save.
+description: "Learn how to enable approved predictive content for the Content Recommendation Bar."
 title: Edit Predictive Content for the Recommendation Bar
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content

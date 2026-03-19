@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11384665
-description: Learn about approved Predictive Content titles, enabled sources, clicks, and conversion data. Use filters and dates to compare how recommendations perform on web and email.
+description: "Learn about approved Predictive Content titles, enabled sources, clicks, and conversion data. Use filters and dates to compare how recommendations perform on web and email."
 title: Understanding Predictive Content
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content

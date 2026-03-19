@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11384659
-description: Learn how to delete content from Predictive Content All Content when you no longer track it.
+description: "Learn how to delete content from the All Content page when you no longer need to track it. Remove content via Content Actions to keep your list current."
 title: Delete Content
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content

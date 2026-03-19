@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10097873
-description: Learn how to define smart lists with predictive content activities for rich media, the recommendation bar, and email. Trigger campaigns and filter people who click recommended content.
+description: "Learn how to define smart lists with predictive content activities for rich media, the recommendation bar, and email. Trigger campaigns and filter people who click recommended content."
 title: Define a Smart List for Predictive Content Activities
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content

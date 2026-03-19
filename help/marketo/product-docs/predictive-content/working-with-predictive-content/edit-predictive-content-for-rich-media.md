@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11385940
-description: Learn how to set descriptions, sRGB-safe images, and categories for Rich Media recommendations.
+description: "Learn how to set up predictive content for Rich Media with descriptions, sRGB images, and categories. Enable approved content for web recommendations."
 title: Edit Predictive Content for Rich Media
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content

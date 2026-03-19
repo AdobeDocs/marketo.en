@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14745750
-description: Learn how to set Predictive Content algorithm goals to maximize clicks or conversions by source. Navigate to Content Settings, select Algorithm, choose each goal, and save.
+description: "Learn how to set the Predictive Content algorithm goal to Clicks or Conversions in Content Settings. Align the AI with your business goals to maximize content performance."
 title: Algorithm Goal Settings
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content

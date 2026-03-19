@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12981204
-description: Understand Predictive Content Analytics dashboards for top views, conversion rate, trending pieces, and suggestions. Filter attributes, adjust dates, and export to refine strategy.
+description: "Learn about Predictive Content Analytics dashboards for top views, conversion rate, trending content, and suggestions. Filter by attributes, set date ranges, and export data to refine your content strategy."
 title: Predictive Content Analytics Overview
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content

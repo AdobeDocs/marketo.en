@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11385053
-description: Learn how to generate and place the RTP Web Personalization tag for Predictive Content. Copy it into your page head, verify coverage, and confirm the toggle stays on.
+description: "Learn how to generate and place the RTP Web Personalization tag for Predictive Content. Copy it into your page head, verify coverage, and confirm the toggle stays on."
 title: Deploy the JavaScript for Content-AI
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 feature: Predictive Content

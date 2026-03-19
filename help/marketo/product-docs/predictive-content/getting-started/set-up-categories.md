@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11385057
-description: Learn how to create Predictive Content category tags for grouping web and email outcomes. Open Content Settings, add or remove labels, and apply when editing or adding titles.
+description: "Set up categories in Predictive Content to group your predictive outcomes on web or email. Create category tags in Content Settings for easy filtering and search."
 title: Set up Categories
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
