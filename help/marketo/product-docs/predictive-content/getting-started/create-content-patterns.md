@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11385579
-description: "Create Content Patterns - Marketo Docs - Product Documentation"
+description: Learn how to define URL patterns so Predictive Content auto-discovers HTML pages visitors view or click. Add paths and categories under Content Settings URL Patterns.
 title: Create Content Patterns
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content

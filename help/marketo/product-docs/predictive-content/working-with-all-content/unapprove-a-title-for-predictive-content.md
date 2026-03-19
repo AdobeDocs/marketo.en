@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11384663
-description: "Unapprove a Title for Predictive Content - Marketo Docs - Product Documentation"
+description: Remove predictive approval from titles on All Content or inside Edit Content. Pick bulk Unapprove from Content Actions or uncheck Approve when you save edits.
 title: Unapprove a Title for Predictive Content
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content

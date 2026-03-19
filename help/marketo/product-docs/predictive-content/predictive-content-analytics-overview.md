@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12981204
-description: "Predictive Content Analytics Overview - Marketo Docs - Product Documentation"
+description: Understand Predictive Content Analytics dashboards for top views, conversion rate, trending pieces, and suggestions. Filter attributes, adjust dates, and export to refine strategy.
 title: Predictive Content Analytics Overview
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content

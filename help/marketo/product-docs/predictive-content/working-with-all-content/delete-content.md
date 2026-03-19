@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11384659
-description: "Delete Content - Marketo Docs - Product Documentation"
+description: Learn how to delete content from Predictive Content All Content when you no longer track it.
 title: Delete Content
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content

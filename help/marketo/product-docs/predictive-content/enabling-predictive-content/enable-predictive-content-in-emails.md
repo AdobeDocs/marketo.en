@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11385020
-description: "Enable Predictive Content in Emails - Marketo Docs - Product Documentation"
+description: Learn how to make email images predictive with ContentAI after titles are approved and edited. Open the Email 2.0 editor, enable each image, pick categories, preview, and finalize.
 title: Enable Predictive Content in Emails
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content

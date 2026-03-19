@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11384651
-description: "Add New Content - Marketo Docs - Product Documentation"
+description: Learn how to add manual content to the All Content page with title, URL, image, and categories. Click Add Content, fill the form, and approve the title to use it predictively.
 title: Add New Content
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content

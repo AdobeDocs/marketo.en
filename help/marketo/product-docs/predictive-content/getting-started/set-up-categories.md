@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11385057
-description: "Set up Categories - Marketo Docs - Product Documentation"
+description: Learn how to create Predictive Content category tags for grouping web and email outcomes. Open Content Settings, add or remove labels, and apply when editing or adding titles.
 title: Set up Categories
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
