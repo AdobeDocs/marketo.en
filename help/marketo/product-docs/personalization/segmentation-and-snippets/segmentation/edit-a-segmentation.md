@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359474
-description: "Edit a Segmentation - Marketo Docs - Product Documentation"
+description: "Learn how to edit a segmentation by creating a draft and changing segments or rules. Add, edit, or delete segments and define Smart List rules in the draft."
 title: Edit a Segmentation
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953417
-description: "Understanding Dynamic Content - Marketo Docs - Product Documentation"
+description: "Learn about Marketo dynamic content for personalizing landing pages and emails by segment. Understand segmentation, dynamic content blocks, and reusable snippets."
 title: Understanding Dynamic Content
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 feature: Dynamic Content

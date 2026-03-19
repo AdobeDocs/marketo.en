@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359488
-description: "Group Email Reports by Segmentations - Marketo Docs - Product Documentation"
+description: "Learn how to group your email performance report by segmentations. Use the Email Performance report Setup tab to apply one or two segmentations for grouping."
 title: Group Email Reports by Segmentations
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation

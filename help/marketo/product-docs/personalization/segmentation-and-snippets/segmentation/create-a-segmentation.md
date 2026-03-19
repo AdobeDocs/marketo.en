@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359447
-description: "Create a Segmentation - Marketo Docs - Product Documentation"
+description: "Learn how to create a segmentation to group people for reporting and dynamic content. Add segments in Database, set order, then define segment rules."
 title: Create a Segmentation
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation

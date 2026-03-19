@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359459
-description: "Create a Snippet - Marketo Docs - Product Documentation"
+description: "Learn how to create a snippet for dynamic content on emails and landing pages. Create a new snippet and add content for reuse across assets."
 title: Create a Snippet
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets

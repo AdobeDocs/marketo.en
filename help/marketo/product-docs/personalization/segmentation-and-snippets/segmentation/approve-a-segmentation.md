@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359457
-description: "Approve a Segmentation - Marketo Docs - Product Documentation"
+description: "Learn how to approve a segmentation so it can be used for dynamic content and reporting. Use Database and Segmentation Actions to approve after defining segment rules."
 title: Approve a Segmentation
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation

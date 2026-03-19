@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359463
-description: "Approve a Snippet - Marketo Docs - Product Documentation"
+description: "Learn how to approve a snippet so it can be used in emails and landing pages. Use Design Studio and Snippet Actions to change status from Draft to Approved."
 title: Approve a Snippet
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359500
-description: "Segmentation Order Priority - Marketo Docs - Product Documentation"
+description: "Learn about segmentation order priority and how it determines which segment a person belongs to. Edit segment order in Database to control evaluation of segments."
 title: Segmentation Order Priority
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation

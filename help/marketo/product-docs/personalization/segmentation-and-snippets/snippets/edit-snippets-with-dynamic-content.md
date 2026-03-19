@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359466
-description: "Edit Snippets with Dynamic Content - Marketo Docs - Product Documentation"
+description: "Learn how to edit snippets with dynamic content using segmentation. Add Segment By to a snippet and apply different content per segment in Design Studio."
 title: Edit Snippets with Dynamic Content
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
