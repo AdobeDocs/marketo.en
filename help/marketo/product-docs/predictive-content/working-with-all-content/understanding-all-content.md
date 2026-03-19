@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11384645
-description: "Understanding All Content - Marketo Docs - Product Documentation"
+description: "Learn about the All Content page, its metrics, and how categories organize predictive outcomes. Filter by category and dates, then add, approve, or remove content as needed."
 title: Understanding All Content
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content

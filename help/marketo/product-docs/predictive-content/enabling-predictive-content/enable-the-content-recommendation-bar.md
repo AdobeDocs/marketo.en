@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4720108
-description: "Enable the Content Recommendation Bar - Marketo Docs - Product Documentation"
+description: "Learn how to enable and style the Content Recommendation Bar with predictive analytics for each URL. Use Content Settings to toggle pages on and customize colors and paths."
 title: Enable the Content Recommendation Bar
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content

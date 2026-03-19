@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11384661
-description: "Approve a Title for Predictive Content - Marketo Docs - Product Documentation"
+description: "Learn how to approve a title for Predictive Content from the All Content page or Edit Content pop-up. Add approved content to the Predictive Content page for recommendations."
 title: Approve a Title for Predictive Content
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content

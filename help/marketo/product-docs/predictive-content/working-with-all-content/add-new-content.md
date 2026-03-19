@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11384651
-description: "Add New Content - Marketo Docs - Product Documentation"
+description: "Add new content manually to the All Content page in Predictive Content. Enter title, URL, image, and categories, then approve for recommendations."
 title: Add New Content
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content

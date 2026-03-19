@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11385938
-description: "Edit Predictive Content for Emails - Marketo Docs - Product Documentation"
+description: "Learn how to set up predictive content for emails with image, button label, and categories. Enable approved content for email in the Predictive Content editor."
 title: Edit Predictive Content for Emails
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
