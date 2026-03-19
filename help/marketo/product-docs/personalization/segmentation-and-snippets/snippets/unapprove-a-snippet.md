@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359516
-description: "Unapprove a Snippet - Marketo Docs - Product Documentation"
+description: "Learn how to unapprove a snippet to make changes or delete it. Remove asset associations, then use Snippet Actions to unapprove and set to draft status."
 title: Unapprove a Snippet
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets

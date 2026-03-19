@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359512
-description: "Use Segment Filters in a Smart List - Marketo Docs - Product Documentation"
+description: "Learn how to use Segment filters in a Smart List to optimize performance. Add the Segment filter to target people by segmentation in your smart lists."
 title: Use Segment Filters in a Smart List
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 feature: Segmentation

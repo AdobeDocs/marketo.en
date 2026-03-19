@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359510
-description: "Delete a Segmentation - Marketo Docs - Product Documentation"
+description: "Learn how to delete a segmentation you no longer need. Remove asset associations, unapprove the segmentation, then use Segmentation Actions to delete."
 title: Delete a Segmentation
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation

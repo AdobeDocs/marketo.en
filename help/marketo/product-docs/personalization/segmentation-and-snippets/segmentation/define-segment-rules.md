@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359449
-description: "Define Segment Rules - Marketo Docs - Product Documentation"
+description: "Learn how to define segment rules that categorize people into mutually exclusive groups. Add Smart List filters, preview People (Draft), and approve segments for dynamic content."
 title: Define Segment Rules
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation

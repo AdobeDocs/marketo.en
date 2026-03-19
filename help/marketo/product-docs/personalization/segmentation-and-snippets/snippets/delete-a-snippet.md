@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359518
-description: "Delete a Snippet - Marketo Docs - Product Documentation"
+description: "Learn how to delete a snippet you no longer need. Unapprove the snippet and remove asset associations, then use Snippet Actions in Design Studio to delete."
 title: Delete a Snippet
 exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
 feature: Snippets

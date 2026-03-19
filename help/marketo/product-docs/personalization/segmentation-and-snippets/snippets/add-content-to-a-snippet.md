@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359496
-description: "Add Content to a Snippet - Marketo Docs - Product Documentation"
+description: "Learn how to add tokens, images, files, or rich text to a snippet. Use the snippet editor in Design Studio to add Token, Image/File, and Text elements."
 title: Add Content to a Snippet
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
