@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359991
-description: "Manage Report Subscriptions - Marketo Docs - Product Documentation"
+description: "Learn how to manage all report subscriptions in one place from the Analytics Subscriptions tab. Edit frequency, recipients, and settings or delete subscriptions as needed."
 title: Manage Report Subscriptions
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting

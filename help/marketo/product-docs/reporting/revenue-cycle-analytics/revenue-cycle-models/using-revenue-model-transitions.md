@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718672
-description: "Using Revenue Model Transitions - Marketo Docs - Product Documentation"
+description: "Learn how to using revenue model transitions in Marketo Engage using using revenue model transitions. Use this guide to complete your next step."
 title: Using Revenue Model Transitions
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics

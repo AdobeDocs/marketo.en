@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360005
-description: "Company Web Activity Report - Marketo Docs - Product Documentation"
+description: "Learn about Company Web Activity reports that show which companies are visiting your website grouped by company. Display known or anonymous visitors and track page views, people, and geographic location."
 title: Company Web Activity Report
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting

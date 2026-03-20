@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360237
-description: "Tell the Marketing Story with an Opportunity Influence Analyzer - Marketo Docs - Product Documentation"
+description: "Learn about tell the marketing story with an opportunity influence analyzer in Marketo Engage, including tell the. Use this guide to complete your next step."
 title: Tell the Marketing Story with an Opportunity Influence Analyzer
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics

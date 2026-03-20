@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10097100
-description: "Schedule a Web Campaign - Marketo Docs - Product Documentation"
+description: "Learn about schedule a web campaign in Marketo Engage, including schedule a web campaign schedule-a-web-campaign. Use this guide to complete your next step."
 title: Schedule a Web Campaign
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 feature: Web Personalization

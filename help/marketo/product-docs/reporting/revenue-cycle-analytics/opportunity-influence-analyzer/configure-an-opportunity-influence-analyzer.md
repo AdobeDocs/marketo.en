@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360240
-description: "Configure an Opportunity Influence Analyzer - Marketo Docs - Product Documentation"
+description: "Learn how to configure an opportunity influence analyzer in Marketo Engage using configure an opportunity influence. Use this guide to complete your next step."
 title: Configure an Opportunity Influence Analyzer
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics

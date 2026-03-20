@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7511725
-description: "Understanding My Reports and Group Reports - Marketo Docs - Product Documentation"
+description: "Learn about the difference between My Reports, which are visible only to you, and Group Reports, which are visible to all workspace users. Organize your saved reports effectively."
 title: Understanding My Reports and Group Reports
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting

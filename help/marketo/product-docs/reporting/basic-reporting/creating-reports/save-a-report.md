@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7511980
-description: "Save a Report - Marketo Docs - Product Documentation"
+description: "Learn how to save default reports to view again later by selecting Save As from Report Actions. Organize saved reports in folders within My Reports or Group Reports."
 title: Save a Report
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4720224
-description: "Edit Regions - Marketo Docs - Product Documentation"
+description: "Learn how to edit regions in Marketo Engage using looking to change your user regional settings to. Use this guide to complete your next step."
 title: Edit Regions
 exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
 feature: Web Personalization

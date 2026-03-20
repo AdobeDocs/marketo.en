@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4720810
-description: "Personalized Remarketing in Google - Marketo Docs - Product Documentation"
+description: "Learn about personalized remarketing in google in Marketo Engage, including personalized remarketing in google. Use this guide to complete your next step."
 title: Personalized Remarketing in Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization

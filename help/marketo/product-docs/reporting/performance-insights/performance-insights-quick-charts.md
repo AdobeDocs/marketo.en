@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12980873
-description: "Performance Insights Quick Charts - Marketo Docs - Product Documentation"
+description: "Learn how to create and save Quick Charts in Performance Insights for frequently used chart views. Save up to 20 custom charts with specific filters and metrics for quick access."
 title: Performance Insights Quick Charts
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting

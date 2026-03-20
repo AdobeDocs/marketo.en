@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718651
-description: "Understanding the Email Analysis Area - Marketo Docs - Product Documentation"
+description: "Learn about understanding the email analysis area in Marketo Engage, including understanding the email analysis area. Use this guide to complete your next step."
 title: Understanding the Email Analysis Area
 exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics

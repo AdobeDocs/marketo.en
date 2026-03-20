@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718670
-description: "Using Revenue Model Gate Stages - Marketo Docs - Product Documentation"
+description: "Learn how to using revenue model gate stages in Marketo Engage using using revenue model gate stages. Use this guide to complete your next step."
 title: Using Revenue Model Gate Stages
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics

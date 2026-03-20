@@ -1,6 +1,6 @@
 ---
 unique-page-id: 13795534
-description: "Performance Insights Dashboards - Marketo Docs - Product Documentation"
+description: "Learn about Performance Insights dashboards including Engagement, Pipeline, and Revenue views. Measure audience engagement, new name acquisition, and channel performance with first-touch and multi-touch metrics."
 title: Performance Insights Dashboards
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting

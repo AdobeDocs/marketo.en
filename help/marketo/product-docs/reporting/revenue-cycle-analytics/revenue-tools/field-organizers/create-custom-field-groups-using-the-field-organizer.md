@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10094404
-description: "Create Custom Field Groups Using the Field Organizer - Marketo Docs - Product Documentation"
+description: "Learn how to create custom field groups using the field organizer in Marketo Engage using create custom field groups. Use this guide to complete your next step."
 title: Create Custom Field Groups Using the Field Organizer
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics

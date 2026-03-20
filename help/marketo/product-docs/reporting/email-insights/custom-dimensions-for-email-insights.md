@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11375276
-description: "Custom Dimensions for Email Insights - Marketo Docs - Product Documentation"
+description: "Learn how to add up to 10 custom dimensions to Email Insights using segmentations and program tags. Choose dimensions carefully as they cannot be deleted or replaced once added."
 title: Custom Dimensions for Email Insights
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting

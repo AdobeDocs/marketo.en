@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12978938
-description: "Archive a Web Campaign - Marketo Docs - Product Documentation"
+description: "Learn about archive a web campaign in Marketo Engage, including archive a web campaign archive-a-web-campaign. Use this guide to complete your next step."
 title: Archive a Web Campaign
 exl-id: de1ed9a6-bc3f-4cd8-b6c4-f84480cd9116
 feature: Web Personalization

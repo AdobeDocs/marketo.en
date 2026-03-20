@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719332
-description: "Deploy the RTP JavaScript - Marketo Docs - Product Documentation"
+description: "Learn about deploy the rtp javascript in Marketo Engage, including deploy the rtp javascript. Use this guide to complete your next step."
 title: Deploy the RTP JavaScript
 exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
 feature: Web Personalization

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10097747
-description: "Adding Custom Measures to a Revenue Explorer Report - Marketo Docs - Product Documentation"
+description: "Learn about adding custom measures to a revenue explorer report in Marketo Engage, including adding custom measures. Use this guide to complete your next step."
 title: Adding Custom Measures to a Revenue Explorer Report
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics

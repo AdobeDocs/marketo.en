@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2951877
-description: "Understanding the Program Opportunity Analysis Area - Marketo Docs - Product Documentation"
+description: "Learn about understanding the program opportunity analysis area in Marketo Engage, including understanding the. Use this guide to complete your next step."
 title: Understanding the Program Opportunity Analysis Area
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics

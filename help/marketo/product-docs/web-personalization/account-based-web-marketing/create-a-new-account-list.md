@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4720232
-description: "Create a New Account List - Marketo Docs - Product Documentation"
+description: "Learn how to create a new account list in Marketo Engage using create a new account list create-a-new-account-list. Use this guide to complete your next step."
 title: Create a New Account List
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization

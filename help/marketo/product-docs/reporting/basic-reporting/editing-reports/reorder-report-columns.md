@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359999
-description: "Reorder Report Columns - Marketo Docs - Product Documentation"
+description: "Learn how to reorder report columns by dragging and dropping them to new positions. Customize column order in the Report tab to prioritize the most important data."
 title: Reorder Report Columns
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting

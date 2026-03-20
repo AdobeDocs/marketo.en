@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7514224
-description: "Customize and Display Heat Grids - Marketo Docs - Product Documentation"
+description: "Learn about customize and display heat grids in Marketo Engage, including customize and display heat grids. Use this guide to complete your next step."
 title: Customize and Display Heat Grids
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics

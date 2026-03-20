@@ -1,5 +1,5 @@
 ---
-description: "Advanced BI Analytics Overview - Marketo Docs - Product Documentation"
+description: "Learn about Advanced BI Analytics, a flexible reporting interface with rich visualizations and faster performance for Marketo Engage data. Create custom reports with interactive dashboards and export options."
 title: Advanced BI Analytics Overview
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258

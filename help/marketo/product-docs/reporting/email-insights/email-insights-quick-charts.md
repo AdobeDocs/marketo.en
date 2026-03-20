@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10099415
-description: "Email Insights Quick Charts - Marketo Docs - Product Documentation"
+description: "Learn how to create and save Quick Charts as thumbnails for frequently used chart views in Email Insights. Save up to 20 custom charts and access them quickly from the Quick Charts icon."
 title: Email Insights Quick Charts
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting

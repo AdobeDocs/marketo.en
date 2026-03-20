@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718685
-description: "Merging Two Stages in the Revenue Modeler - Marketo Docs - Product Documentation"
+description: "Learn about merging two stages in the revenue modeler in Marketo Engage, including merging two stages in the revenue. Use this guide to complete your next step."
 title: Merging Two Stages in the Revenue Modeler
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics

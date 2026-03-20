@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359968
-description: "Change a Report Time Frame - Marketo Docs - Product Documentation"
+description: "Learn how to change the time period covered by your report to focus on specific activity dates. Set custom date ranges or use predefined time frames in the Setup tab."
 title: Change a Report Time Frame
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10099411
-description: "Email Insights Analytics Overview - Marketo Docs - Product Documentation"
+description: "Learn about Email Insights Analytics that explores aggregate time-series data for email delivery and engagement metrics. Use charts and guided insights to discover relevant performance drivers."
 title: Email Insights Analytics Overview
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting

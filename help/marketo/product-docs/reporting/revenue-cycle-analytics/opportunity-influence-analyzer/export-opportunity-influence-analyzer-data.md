@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360394
-description: "Export Opportunity Influence Analyzer Data - Marketo Docs - Product Documentation"
+description: "Learn how to export opportunity influence analyzer data in Marketo Engage using export opportunity influence analyzer. Take the next step confidently."
 title: Export Opportunity Influence Analyzer Data
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics

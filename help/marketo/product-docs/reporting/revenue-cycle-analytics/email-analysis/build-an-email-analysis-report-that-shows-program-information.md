@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360409
-description: "Build an Email Analysis Report that Shows Program Information - Marketo Docs - Product Documentation"
+description: "Learn how to build an email analysis report that shows program information in Marketo Engage using build an email. Use this guide to complete your next step."
 title: Build an Email Analysis Report that Shows Program Information
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics

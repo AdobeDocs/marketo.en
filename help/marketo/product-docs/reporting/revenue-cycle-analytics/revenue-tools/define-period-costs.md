@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953444
-description: "Define Period Costs - Marketo Docs - Product Documentation"
+description: "Learn how to define period costs in Marketo Engage using define period costs define-period-costs. Use this guide to complete your next step."
 title: Define Period Costs
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics

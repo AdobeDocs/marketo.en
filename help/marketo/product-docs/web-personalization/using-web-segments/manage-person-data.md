@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504051
-description: "Manage Person Data - Marketo Docs - Product Documentation"
+description: "Learn about manage person data in Marketo Engage, including manage person data manage-person-data. Use this guide to complete your next step."
 title: Manage Person Data
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization

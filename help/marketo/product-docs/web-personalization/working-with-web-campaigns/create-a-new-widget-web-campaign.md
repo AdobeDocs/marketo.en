@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719402
-description: "Create a New Widget Web Campaign - Marketo Docs - Product Documentation"
+description: "Create widget web campaigns that appear as fixed text or banners on the vertical side of web pages with expand and contract functionality. Customize position, color, animation, and display settings."
 title: Create a New Widget Web Campaign
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359996
-description: "Sort Report on Columns - Marketo Docs - Product Documentation"
+description: "Learn how to sort report data by columns to highlight the most important figures. Click column headings in the Report tab to select ascending or descending sort order."
 title: Sort Report on Columns
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting

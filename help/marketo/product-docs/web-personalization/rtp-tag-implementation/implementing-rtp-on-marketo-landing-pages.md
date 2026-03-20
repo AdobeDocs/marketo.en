@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4720151
-description: "Implementing RTP on Marketo Landing Pages - Marketo Docs - Product Documentation"
+description: "Learn about implementing rtp on marketo landing pages in Marketo Engage, including implementing rtp on marketo. Use this guide to complete your next step."
 title: Implementing RTP on Marketo Landing Pages
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 feature: Web Personalization

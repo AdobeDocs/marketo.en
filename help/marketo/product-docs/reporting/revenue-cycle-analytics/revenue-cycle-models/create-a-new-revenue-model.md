@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718656
-description: "Create a New Revenue Model - Marketo Docs - Product Documentation"
+description: "Learn how to create a new revenue model in Marketo Engage using create a new revenue model create-a-new-revenue-model. Take the next step confidently."
 title: Create a New Revenue Model
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics

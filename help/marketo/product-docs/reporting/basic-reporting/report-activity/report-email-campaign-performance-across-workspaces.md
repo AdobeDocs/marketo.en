@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360055
-description: "Report Email, Campaign Performance Across Workspaces - Marketo Docs - Product Documentation"
+description: "Learn about report email, campaign performance across workspaces in Marketo Engage, including report email, campaign. Use this guide to complete your next step."
 title: Report Email, Campaign Performance Across Workspaces
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting

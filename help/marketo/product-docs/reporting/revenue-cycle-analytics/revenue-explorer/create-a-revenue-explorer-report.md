@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504047
-description: "Create a Revenue Explorer Report - Marketo Docs - Product Documentation"
+description: "Learn how to create a revenue explorer report in Marketo Engage using create a revenue explorer report. Use this guide to complete your next step."
 title: Create a Revenue Explorer Report
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics

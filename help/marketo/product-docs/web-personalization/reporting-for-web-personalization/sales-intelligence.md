@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10096420
-description: "Sales Intelligence - Marketo Docs - Product Documentation"
+description: "Learn about Sales Intelligence features that provide valuable information about web visitors and organizations. Track, monitor, and receive alerts on key organizations and accounts by region."
 title: Sales Intelligence
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization

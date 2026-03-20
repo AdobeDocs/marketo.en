@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7514126
-description: "Attribution Example 1 - Marketo Docs - Product Documentation"
+description: "Learn about attribution example 1 in Marketo Engage, including attribution example 1 attribution-example. Use this guide to complete your next step."
 title: Attribution Example 1
 exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
 feature: Reporting, Revenue Cycle Analytics

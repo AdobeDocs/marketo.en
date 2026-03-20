@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719338
-description: "Email Reports - Marketo Docs - Product Documentation"
+description: "Learn about automated email reports for Web Personalization including Organizations, People, Top Performing Campaigns, and Summary reports. Customize which reports you receive in User Settings."
 title: Email Reports
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization

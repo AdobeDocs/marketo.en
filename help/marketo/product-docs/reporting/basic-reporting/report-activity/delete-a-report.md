@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360030
-description: "Delete a Report - Marketo Docs - Product Documentation"
+description: "Learn how to delete reports you no longer need by right-clicking them in the navigation tree. Keep your reporting workspace organized by removing outdated reports."
 title: Delete a Report
 exl-id: 6b98a2e4-13a4-4a85-8ccd-0f74e6dfcaa9
 feature: Reporting

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359987
-description: "Subscribe to a Basic Report - Marketo Docs - Product Documentation"
+description: "Learn how to subscribe email addresses to basic reports to receive automatic updates and share reports with your team. Set subscription frequency in the Subscriptions tab."
 title: Subscribe to a Basic Report
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting

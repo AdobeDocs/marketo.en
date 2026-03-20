@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360437
-description: "Explore Program & Channel Details with the Program Analyzer - Marketo Docs - Product Documentation"
+description: "Learn about explore program & channel details with the program analyzer in Marketo Engage, including explore program. Use this guide to complete your next step."
 title: Explore Program & Channel Details with the Program Analyzer
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics

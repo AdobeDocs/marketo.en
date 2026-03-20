@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360199
-description: "Group Person Reports by Attribute - Marketo Docs - Product Documentation"
+description: "Learn about group person reports by attribute in Marketo Engage, including group person reports by attribute. Use this guide to complete your next step."
 title: Group Person Reports by Attribute
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360002
-description: "Configure Report Size - Marketo Docs - Product Documentation"
+description: "Learn how to configure report size by changing the maximum row limit from the default 5,000 rows. Adjust Export Rows Available in the Setup tab to optimize report performance."
 title: Configure Report Size
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting

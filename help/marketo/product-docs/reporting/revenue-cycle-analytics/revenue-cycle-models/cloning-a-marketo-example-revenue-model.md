@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718677
-description: "Cloning a Marketo Example Revenue Model - Marketo Docs - Product Documentation"
+description: "Learn about cloning a marketo example revenue model in Marketo Engage, including cloning a marketo example revenue. Use this guide to complete your next step."
 title: Cloning a Marketo Example Revenue Model
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics

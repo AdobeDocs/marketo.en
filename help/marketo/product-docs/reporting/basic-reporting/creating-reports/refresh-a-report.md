@@ -1,6 +1,6 @@
 ---
 unique-page-id: 5472328
-description: "Refresh a Report - Marketo Docs - Product Documentation"
+description: "Learn how to manually refresh reports to get the latest data, even though reports auto-refresh every 24 hours. Use the refresh button or Report Actions menu to update results."
 title: Refresh a Report
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting

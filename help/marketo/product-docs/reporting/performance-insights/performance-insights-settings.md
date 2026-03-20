@@ -1,6 +1,6 @@
 ---
 unique-page-id: 13795492
-description: "Performance Insights Settings - Marketo Docs - Product Documentation"
+description: "Learn about Performance Insights settings including program success aggregation, previous period configuration, marketing-influenced opportunities, and cost calculation options. Configure settings based on your dashboard view."
 title: Performance Insights Settings
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting

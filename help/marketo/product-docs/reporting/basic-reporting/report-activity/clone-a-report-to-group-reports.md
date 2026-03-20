@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7512105
-description: "Clone a Report to Group Reports - Marketo Docs - Product Documentation"
+description: "Learn how to clone reports from My Reports to Group Reports to make them visible to all workspace users. Share reports with your team using the Clone To option."
 title: Clone a Report to Group Reports
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting

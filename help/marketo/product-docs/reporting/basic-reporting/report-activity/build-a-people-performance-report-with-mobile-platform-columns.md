@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2951220
-description: "Build a People Performance Report with Mobile Platform Columns - Marketo Docs - Product Documentation"
+description: "Learn how to build a people performance report with mobile platform columns in Marketo Engage using build a people. Use this guide to complete your next step."
 title: Build a People Performance Report with Mobile Platform Columns
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting

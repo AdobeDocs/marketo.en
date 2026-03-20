@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10097867
-description: "Define a Smart List for Web Personalization Activities - Marketo Docs - Product Documentation"
+description: "Learn how to define a smart list for web personalization activities in Marketo Engage using define a smart list for. Use this guide to complete your next step."
 title: Define a Smart List for Web Personalization Activities
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization

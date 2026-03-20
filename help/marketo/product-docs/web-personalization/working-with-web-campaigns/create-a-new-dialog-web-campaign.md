@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719398
-description: "Create a New Dialog Web Campaign - Marketo Docs - Product Documentation"
+description: "Create dialog web campaigns to personalize content in real-time with popup messages on your website. Customize dialog styles, positions, animations, and display settings to engage visitors."
 title: Create a New Dialog Web Campaign
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization

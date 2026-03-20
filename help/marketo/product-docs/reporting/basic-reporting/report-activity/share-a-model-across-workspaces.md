@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360205
-description: "Share a Model Across Workspaces - Marketo Docs - Product Documentation"
+description: "Learn about share a model across workspaces in Marketo Engage, including share a model across workspaces. Use this guide to complete your next step."
 title: Share a Model Across Workspaces
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting

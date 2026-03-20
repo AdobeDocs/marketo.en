@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9437340
-description: "Implementing RTP using Tealium Tag Manager - Marketo Docs - Product Documentation"
+description: "Learn about implementing rtp using tealium tag manager in Marketo Engage, including implementing rtp using dnl. Use this guide to complete your next step."
 title: Implementing RTP using Tealium Tag Manager
 exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
 feature: Web Personalization

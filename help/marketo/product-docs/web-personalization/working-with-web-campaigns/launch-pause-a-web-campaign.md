@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719406
-description: "Launch/Pause a Web Campaign - Marketo Docs - Product Documentation"
+description: "Learn about launch/pause a web campaign in Marketo Engage, including launchpause a web campaign. Use this guide to complete your next step."
 title: Launch/Pause a Web Campaign
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization

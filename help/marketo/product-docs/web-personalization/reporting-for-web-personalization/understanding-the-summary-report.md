@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9438258
-description: "Understanding the Summary Report - Marketo Docs - Product Documentation"
+description: "Learn about the Summary Report that provides a monthly view of campaign and recommended content performance. Track clicks, direct conversions, assisted conversions, and compare results to previous months."
 title: Understanding the Summary Report
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization

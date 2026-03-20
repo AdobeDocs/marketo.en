@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7505310
-description: "Subscribe to a Smart List - Marketo Docs - Product Documentation"
+description: "Learn how to subscribe to smart lists to receive reports sent directly to your inbox. Create subscriptions from Marketing Activities or Database with customizable frequency and format."
 title: Subscribe to a Smart List
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting

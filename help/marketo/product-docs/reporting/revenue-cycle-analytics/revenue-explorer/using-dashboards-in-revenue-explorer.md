@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10094959
-description: "Using Dashboards in Revenue Explorer - Marketo Docs - Product Documentation"
+description: "Learn how to using dashboards in revenue explorer in Marketo Engage using using dashboards in revenue explorer. Use this guide to complete your next step."
 title: Using Dashboards in Revenue Explorer
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949170
-description: "Save your Campaign as a Template - Marketo Docs - Product Documentation"
+description: "Learn about save your campaign as a template in Marketo Engage, including save your campaign as a template. Use this guide to complete your next step."
 title: Save your Campaign as a Template
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
