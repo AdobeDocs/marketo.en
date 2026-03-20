@@ -2,6 +2,7 @@
 description: Release Notes - February 2026 - Marketo Docs - Product Documentation
 title: Release Notes - February 2026
 feature: Release Information
+exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
 ---
 # Release Notes: February 2026 {#release-notes-feb-26}
 
