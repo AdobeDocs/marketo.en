@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10093041
-description: "Edit a Smart List Subscription - Marketo Docs - Product Documentation"
+description: "Learn how to edit smart list subscriptions by updating recipients, frequency, columns, end delivery date, and format. Make changes directly in the Subscriptions tab."
 title: Edit a Smart List Subscription
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting

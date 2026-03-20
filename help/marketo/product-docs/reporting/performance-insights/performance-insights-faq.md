@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12979858
-description: "Performance Insights FAQ - Marketo Docs - Product Documentation"
+description: "Find answers to frequently asked questions about Performance Insights including attribution settings, program visibility, opportunity mapping, and setup requirements. Understand how MPI works with your CRM and analytics."
 title: Performance Insights FAQ
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10100257
-description: "Email Insights FAQ - Marketo Docs - Product Documentation"
+description: "Find answers to frequently asked questions about Email Insights including metric calculations, custom dimensions, and device filtering. Understand how Email Insights differs from other reporting tools."
 title: Email Insights FAQ
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting

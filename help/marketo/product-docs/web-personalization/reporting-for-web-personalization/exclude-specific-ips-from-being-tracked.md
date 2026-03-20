@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719340
-description: "Exclude Specific IPs from Being Tracked - Marketo Docs - Product Documentation"
+description: "Learn how to exclude specific IP addresses or IP ranges from being tracked in Web Personalization. Exclude your employees and organization from tracking and reporting in Account Settings."
 title: Exclude Specific IPs from Being Tracked
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 feature: Web Personalization

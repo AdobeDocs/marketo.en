@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360418
-description: "People by Revenue Stage Report - Marketo Docs - Product Documentation"
+description: "Learn about people by revenue stage report in Marketo Engage, including people by revenue stage report. Use this guide to complete your next step."
 title: People by Revenue Stage Report
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719350
-description: "View Segments from a Specific Label - Marketo Docs - Product Documentation"
+description: "Learn about view segments from a specific label in Marketo Engage, including view segments from a specific label. Use this guide to complete your next step."
 title: View Segments from a Specific Label
 exl-id: 86a73898-1ad6-4edb-99cf-104f7ebb3ddd
 feature: Web Personalization

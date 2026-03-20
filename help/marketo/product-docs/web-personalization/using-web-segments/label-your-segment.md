@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719348
-description: "Label Your Segment - Marketo Docs - Product Documentation"
+description: "Learn how to label your segment in Marketo Engage using label your segment label-your-segment. Use this guide to complete your next step."
 title: Label Your Segment
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization

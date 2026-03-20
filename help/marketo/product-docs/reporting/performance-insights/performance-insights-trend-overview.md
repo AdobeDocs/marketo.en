@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12979010
-description: "Performance Insights Trend Overview - Marketo Docs - Product Documentation"
+description: "Learn about Performance Insights Trend view that shows channel performance trends over time with doughnut and line charts. Analyze 12-month trends to identify consistent winning strategies."
 title: Performance Insights Trend Overview
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting

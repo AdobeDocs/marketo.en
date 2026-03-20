@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7513771
-description: "Login and User Management - Marketo Docs - Product Documentation"
+description: "Learn how to login and user management in Marketo Engage using login and user management login-and-user-management. Use this guide to complete your next step."
 title: Login and User Management
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization

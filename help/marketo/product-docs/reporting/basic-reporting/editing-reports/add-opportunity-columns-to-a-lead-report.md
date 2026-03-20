@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360018
-description: "Add Opportunity Columns to a Lead Report - Marketo Docs - Product Documentation"
+description: "Learn how to add opportunity columns to lead reports to view opportunity statistics and metrics. Display opportunity data including amounts, conversion rates, and sales cycle information."
 title: Add Opportunity Columns to a Lead Report
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting

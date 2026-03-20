@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359963
-description: "Create a Report in a Program - Marketo Docs - Product Documentation"
+description: "Learn how to create a report within a program to analyze people, programs, landing pages, emails, and social assets. Run reports directly from Marketing Activities or the Analytics tab."
 title: Create a Report in a Program
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting

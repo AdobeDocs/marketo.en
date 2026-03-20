@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360020
-description: "Export a Report to [!DNL Excel] - Marketo Docs - Product Documentation"
+description: "Learn how to export reports to Excel files for analysis in other software. Click the Export button in the Report tab to download your data."
 title: Export a Report to [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting

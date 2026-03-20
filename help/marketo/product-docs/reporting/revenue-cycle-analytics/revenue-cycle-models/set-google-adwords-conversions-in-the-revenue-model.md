@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6095029
-description: "Set [!DNL Google AdWords] Conversions in the Revenue Model - Marketo Docs - Product Documentation"
+description: "Learn how to set [!dnl google adwords] conversions in the revenue model in Marketo Engage using set dnl google. Use this guide to complete your next step."
 title: Set [!DNL Google AdWords] Conversions in the Revenue Model
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics

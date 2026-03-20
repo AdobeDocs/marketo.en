@@ -1,6 +1,6 @@
 ---
 unique-page-id: 3571886
-description: "Using the Success Path Analyzer - Marketo Docs - Product Documentation"
+description: "Learn how to using the success path analyzer in Marketo Engage using using the success path analyzer. Use this guide to complete your next step."
 title: Using the Success Path Analyzer
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics

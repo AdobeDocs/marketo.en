@@ -1,5 +1,5 @@
 ---
-description: "Reporting Overview - Marketo Docs - Product Documentation"
+description: "Learn about Marketo Engage reporting modules including basic reports, email insights, performance insights, and advanced BI analytics. Discover which reporting solution fits your needs."
 title: Reporting Overview
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2951252
-description: "Sort Web Campaigns by Latest or Top Performing - Marketo Docs - Product Documentation"
+description: "Learn how to sort web campaigns by latest or top performing in Marketo Engage using sort web campaigns by latest or. Use this guide to complete your next step."
 title: Sort Web Campaigns by Latest or Top Performing
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization

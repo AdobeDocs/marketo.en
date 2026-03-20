@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504923
-description: "Set [!DNL Google AdWords] Conversions in the Revenue Model with a Manager Account - Marketo Docs - Product Documentation"
+description: "Learn how to set [!dnl google adwords] conversions in the revenue model with a manager account in Marketo Engage. Use this guide to complete your next step."
 title: Set [!DNL Google AdWords] Conversions in the Revenue Model with a Manager Account
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics

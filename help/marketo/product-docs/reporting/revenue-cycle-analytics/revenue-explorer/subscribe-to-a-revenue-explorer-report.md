@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360397
-description: "Subscribe to a Revenue Explorer Report - Marketo Docs - Product Documentation"
+description: "Learn about subscribe to a revenue explorer report in Marketo Engage, including subscribe to a revenue explorer. Use this guide to complete your next step."
 title: Subscribe to a Revenue Explorer Report
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics

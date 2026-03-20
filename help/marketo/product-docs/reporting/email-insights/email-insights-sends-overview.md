@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10099413
-description: "Email Insights Sends Overview - Marketo Docs - Product Documentation"
+description: "Learn about the Email Insights Sends page that examines characteristics of recent email communications. View delivery metrics, engagement metrics, and engagement scores for your sent emails."
 title: Email Insights Sends Overview
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting

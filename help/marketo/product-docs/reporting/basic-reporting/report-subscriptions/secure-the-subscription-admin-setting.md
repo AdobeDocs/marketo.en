@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10095347
-description: "Secure the Subscription Admin Setting - Marketo Docs - Product Documentation"
+description: "Learn how to secure subscription admin settings to require login before downloading reports. Configure this security option in Admin Login Settings for Smart List Report Settings."
 title: Secure the Subscription Admin Setting
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting

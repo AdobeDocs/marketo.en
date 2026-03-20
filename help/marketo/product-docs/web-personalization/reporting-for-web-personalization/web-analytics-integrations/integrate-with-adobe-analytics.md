@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949160
-description: "Integrate with Adobe Analytics - Marketo Docs - Product Documentation"
+description: "Learn how to integrate with adobe analytics in Marketo Engage using integrate with adobe analytics. Use this guide to complete your next step."
 title: Integrate with Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization

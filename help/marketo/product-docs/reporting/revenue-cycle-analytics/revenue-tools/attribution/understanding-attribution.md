@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953136
-description: "Understanding Attribution - Marketo Docs - Product Documentation"
+description: "Learn about understanding attribution in Marketo Engage, including what is attribution what-is-attribution. Use this guide to complete your next step."
 title: Understanding Attribution
 exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 feature: Reporting, Revenue Cycle Analytics

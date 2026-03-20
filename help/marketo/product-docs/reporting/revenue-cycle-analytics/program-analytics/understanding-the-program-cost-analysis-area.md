@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718636
-description: "Understanding the Program Cost Analysis Area - Marketo Docs - Product Documentation"
+description: "Learn about understanding the program cost analysis area in Marketo Engage, including understanding the program cost. Use this guide to complete your next step."
 title: Understanding the Program Cost Analysis Area
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics

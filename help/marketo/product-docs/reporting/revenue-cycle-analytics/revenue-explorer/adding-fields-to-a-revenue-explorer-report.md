@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504383
-description: "Adding Fields to a Revenue Explorer Report - Marketo Docs - Product Documentation"
+description: "Learn about adding fields to a revenue explorer report in Marketo Engage, including adding fields to a revenue. Use this guide to complete your next step."
 title: Adding Fields to a Revenue Explorer Report
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics

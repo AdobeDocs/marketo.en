@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360407
-description: "Build an Email Analysis Report that Lists Leads - Marketo Docs - Product Documentation"
+description: "Learn how to build an email analysis report that lists leads in Marketo Engage using build an email analysis report. Use this guide to complete your next step."
 title: Build an Email Analysis Report that Lists Leads
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics

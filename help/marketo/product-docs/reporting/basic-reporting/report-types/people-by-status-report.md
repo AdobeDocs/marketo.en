@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360012
-description: "People by Status Report - Marketo Docs - Product Documentation"
+description: "Learn about People by Status reports that show how many people appear in each Person Status value monthly. Track progress through your process and identify bottlenecks in your funnel."
 title: People by Status Report
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting

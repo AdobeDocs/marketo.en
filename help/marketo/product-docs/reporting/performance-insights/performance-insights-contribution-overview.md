@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12979008
-description: "Performance Insights Contribution Overview - Marketo Docs - Product Documentation"
+description: "Learn about Performance Insights Contribution view that evaluates marketing contribution to revenue through engagement, pipeline, and revenue metrics. View channel and program performance with doughnut and bar charts."
 title: Performance Insights Contribution Overview
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting

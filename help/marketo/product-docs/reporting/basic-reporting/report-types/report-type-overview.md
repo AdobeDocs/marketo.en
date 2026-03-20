@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359965
-description: "Report Type Overview - Marketo Docs - Product Documentation"
+description: "Learn about available report types including People Performance, Email Performance, Campaign Email Performance, and Web Activity reports. Choose the right report type for your analysis needs."
 title: Report Type Overview
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting

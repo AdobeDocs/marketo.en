@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718681
-description: "Start Tracking by Account in the Revenue Modeler - Marketo Docs - Product Documentation"
+description: "Learn about start tracking by account in the revenue modeler in Marketo Engage, including start tracking by account. Use this guide to complete your next step."
 title: Start Tracking by Account in the Revenue Modeler
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics

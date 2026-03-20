@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949162
-description: "Enable/Disable Report Subscriptions - Marketo Docs - Product Documentation"
+description: "Learn how to enable or disable report subscriptions for Web Personalization email reports. Select reports and frequencies in User Settings to customize your automated email notifications."
 title: Enable/Disable Report Subscriptions
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization

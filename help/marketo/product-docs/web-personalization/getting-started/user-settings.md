@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719336
-description: "User Settings - Marketo Docs - Product Documentation"
+description: "Learn how to configure User Settings including time zone, email reports, password, mobile notifications, and personal region settings. Customize your Web Personalization experience and export preferences."
 title: User Settings
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization

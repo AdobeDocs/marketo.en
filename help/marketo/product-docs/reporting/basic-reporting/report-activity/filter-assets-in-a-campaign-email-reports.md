@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360227
-description: "Filter Assets in a Campaign Email Reports - Marketo Docs - Product Documentation"
+description: "Learn how to filter assets in a campaign email reports in Marketo Engage using filter assets in a campaign email. Use this guide to complete your next step."
 title: Filter Assets in a Campaign Email Reports
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
