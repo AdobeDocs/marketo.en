@@ -1,18 +1,17 @@
 ---
-description: "Current Release Notes - Marketo Docs - Product Documentation"
-title: Current Release Notes
-exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
+description: Release Notes - February 2026 - Marketo Docs - Product Documentation
+title: Release Notes - February 2026
 feature: Release Information
 ---
-# Release Notes: March 2026 {#release-notes-mar-26}
+# Release Notes: February 2026 {#release-notes-feb-26}
 
-Below you'll find all the features included in the March '26 release. Check your Adobe Marketo Engage edition for feature availability.
+Below you'll find all the features included in the February '26 release. Check your Adobe Marketo Engage edition for feature availability.
 
 The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
-The following features fall under the standard release cycle and will start to be released on **March 27, 2026**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
+The following features fall under the standard release cycle and will start to be released on **February 20, 2026**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -22,17 +21,11 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>Email Designer - Manage Brands (beta)</strong>: Generate email content based on your organization/brand's specific copywriting guidelines.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Brand Alignment</strong>: Use the content quality checker for emails to gauge general readability and cohesiveness of your messaging.
+   <td><strong>Email Designer - Folder Actions</strong>: Parity with the old email editor.
+   <ul>
+   <li>Share and archive folder actions for Email Designer assets.</li>
+   <li>Share folders across workspaces, right-click on a folder to create a new asset, move assets via drag-and-drop.</li>
+   </ul>
    </td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
@@ -43,8 +36,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Outlook Rendering Fix</strong>: This update fixes rendering issues, especially in MS Outlook. "Expert mode" allows you to make minor HTML/CSS edits or add script tags to your email (best practice is to not make any other changes to the email's HTML in order to keep the visual elements as-is).
-   </td>
+   <td><strong>Email Designer - API</strong>: You can now use API calls for the Email Designer.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -54,8 +46,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Quick Actions</strong>: <i>Parity with the old email editor</i>. Quick actions are now available for all Email Designer assets (emails, email templates, fragments). Supported quick actions include: Duplicate, Delete, Move, Create/Edit Draft.
-   </td>
+   <td><strong>Email Designer - Brand Quality Checker</strong>: Assess general content quality to identify potential issues with readability, content cohesiveness, and effectiveness, independent of your brand guidelines.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
@@ -65,19 +56,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Picklist Management</strong>: You can now specify the values that can be used in fields in Marketo Engage.
-   </td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Push Notifications</strong>: Redirect URLs configured in Push notification messages now support Marketo Engage tokens (applicable to <i>Launch App URLs</i> only).
-   </td>
+   <td><strong>Email Designer - AI Assistant Image Generation</strong>: Now, in addition to Firefly, you can use Nano Banana models to generate images with the AI Assistant for email content.</td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
