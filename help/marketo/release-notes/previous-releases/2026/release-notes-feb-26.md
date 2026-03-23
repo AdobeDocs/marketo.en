@@ -58,8 +58,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - AI Assistant Image Generation</strong>: Now, in addition to Firefly, you can use Nano Banana models to generate images with the AI Assistant for email content.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Released</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">Create content for a specific section of your email</a></td>
   </tr>
   </tbody>
 </table>
