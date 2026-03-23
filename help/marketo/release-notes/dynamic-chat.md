@@ -12,9 +12,13 @@ The standard Release Notes page for Marketo Engage [can be found here](/help/mar
 
 ## March 2026 Release {#march-2026-release}
 
+### Visitor wait time limit {#visitor-wait-time}
+
+Set a maximum amount of time (between 10 and 500 seconds) a visitor will wait to be connected to a live agent before the visitor receives a fallback message. [Learn more](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+
 ### Download transcript {#download-transcript}
 
-You can now download a .txt file of your chat transcript after a live chat ends. [More info](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+You can now download a .txt file of your chat transcript after a live chat ends. [Learn more](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## June 2025 Release {#june-2025-release}
 

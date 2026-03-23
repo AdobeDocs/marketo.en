@@ -71,3 +71,17 @@ Select a standard (system) message or write a custom one for visitors to see whe
 >[!TIP]
 >
 >When creating a custom message, you can style the font, use links, even insert emojis! `:)`
+
+## Settings {#settings}
+
+### Concurrent live chat limit {#concurrent-live-chat}
+
+Set the number of concurrent active chats an agent can take at one time. Can set between 1 and 10.
+
+   ![](assets/agent-management-10.png)
+
+### Visitor wait time limit {#visitor-wait-time}
+
+Control the maximum amount of time a visitor will wait (in seconds) to be connected to a live agent before the visitor receives a fallback message. Can be set between 10 and 500 seconds.
+
+   ![](assets/agent-management-11.png)
