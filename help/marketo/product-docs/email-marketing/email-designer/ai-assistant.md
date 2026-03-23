@@ -19,6 +19,8 @@ AI Assistant in the Marketo Engage Email Designer helps you create contemporary,
 
 _After_ following the prerequisite above, Marketo admins must apply access to specific users/roles before users will see the GenAI buttons.
 
++++Learn how to set up permissions
+
 1. In Marketo Engage, click **Admin** and select **Users & Roles**.
 
    ![](assets/use-the-ai-assistant-0a.png)
@@ -38,6 +40,8 @@ _After_ following the prerequisite above, Marketo admins must apply access to sp
 1. Select the role you chose in Step 3 and the desired workspace (if applicable). Click **Save**. 
 
    ![](assets/use-the-ai-assistant-0e.png)
+
++++
 
 ## Use cases {#use-cases}
 
@@ -113,19 +117,27 @@ After the email is created, you have the option of modifying certain sections, i
 
    ![](assets/use-the-ai-assistant-7.png)
 
-In this example, we're using a healthcare template. If the existing image of the healthcare expert doesn't meet your needs, you can instruct AI assistant to create its own image of a healthcare expert. Just select the image content and then click AI assistant.
+In this example, we're using a financial template. If one or more of the existing images don't meet your needs, you can instruct AI assistant to create a new image based on your description. Select the desired image and click the AI assistant icon.
 
    ![](assets/use-the-ai-assistant-8.png)
 
-Enter the relevant details in the prompt, such as, "generate an image for a healthcare expert," and add any desired customization. You can also use the prompt library (to the right of the prompt) if you are not sure what to enter.
-
-After clicking **Generate**, multiple variants are created for you to choose from.
+Enter the relevant details in the prompt, such as, "A banker sitting at his or her desk with piles of cash." You can also use the prompt library (to the right of the prompt) if you are not sure what to enter. Click **Image Settings**.
 
    ![](assets/use-the-ai-assistant-9.png)
 
-Similar to image, text portions of the email can be modified as well.
+Click the toggle to enable _Generate images using AI_, then change any desired settings, including which model to use (Adobe Firefly or Gemini 2.5 Nano Banana). When done, click **Generate**.
 
    ![](assets/use-the-ai-assistant-10.png)
+
+Multiple variants are created. Choose your favorite and click **Apply**.
+
+   ![](assets/use-the-ai-assistant-11.png)
+
+>[!NOTE]
+>
+>If none of the images meet your needs, click **Generate** again to create new versions.
+
+Similar to image, text portions of the email can be modified as well.
 
 ## Create an entire email from a selected template {#create-an-entire-email}
 
@@ -133,18 +145,18 @@ This option is only available if the email is created using an existing template
 
 Select a template, without selecting any component within the template, and click the AI assistant button in the Email Designer.
 
-   ![](assets/use-the-ai-assistant-11.png)
+   ![](assets/use-the-ai-assistant-12.png)
 
 Enter the relevant prompt and choose the text settings, brand assets, and any image settings you want for your email.
 
-   ![](assets/use-the-ai-assistant-12.png)
+   ![](assets/use-the-ai-assistant-13.png)
 
 If you would like to generate images using Firefly, select the Image Settings and select the toggle for **Generate Images using AI**.
 
-   ![](assets/use-the-ai-assistant-13.png)
+   ![](assets/use-the-ai-assistant-14.png)
 
 Select the desired _Content Type_, _Color and Tone_, _Lighting_, and _Composition_ to create Gen-AI images for your email. Click **Generate** when done.
 
-   ![](assets/use-the-ai-assistant-14.png)
+   ![](assets/use-the-ai-assistant-15.png)
 
 See how a variation will look in your email by clicking **Preview**. Choose a variation by clicking **Apply**.
