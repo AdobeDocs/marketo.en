@@ -8,31 +8,44 @@ exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
 
 Are you starting a new job or taking over an existing instance from another admin and not sure where to start? While taking over a live instance that's been running for some time can seem a little intimidating, we've put together some resources for you to help you get up to speed in no time.
 
-## Get Set up in the Marketing Nation {#get-set-up-in-the-marketing-nation}
+## Get Set up in the Adobe Marketo Engage Community {#get-set-up}
 
-Make sure you're properly set up in the Marketing Nation Community.
+Make sure you're properly set up in the Marketo Engage Community.
 
-* [**Set up your profile**](https://nation.marketo.com/){target="_blank"}.
+* [**Set up your profile**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"} by filling out required fields (company, solution specializations, country, etc.)
 
-* Read up on the [**Marketing Community guidelines**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+* Read up on the [**Adobe Experience League Community guidelines**](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}.
 
-* Learn how to [**submit a support case**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
+* Learn how to [**submit a support case**](https://experienceleague.adobe.com/en/support#home){target="_blank"} and confirm you're set up as a [Support Admin](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
 
-## Merge Your Marketing Nation Profile {#merge-your-marketing-nation-profile}
+## Merge Your Marketo Engage Community Profiles {#merge-your-community-profiles}
 
-If you already have a Marketing Nation profile with a previous company, follow these steps to bring that history over to your new profile.
+If you already have a Marketo Engage Community profile with a previous company, follow these steps to bring that history over to your new profile.
 
-1. Create a username/Community profile with your email address that has access to your current Marketo Engage subscription.
+### Step one: Create a new Community profile {#create-a-new-profile}
 
-1. [After you create your profile](https://nation.marketo.com/){target="_blank"} with your new company info, submit a request to `ccare@marketo.com` to have the data from your old community profile merged with your new one.
+1. Create a username and Community profile using either your corporate email address that has access to your current Marketo Engage subscription, or a personal email address.
 
-1. In your request, please specify the following details:
+1. Fill out fields such as company, solution specializations, country, etc.
 
-* Your old corporate email associated with your old Community profile
-* Your new corporate email associated with the current Marketo Engage subscription
+### Step two: Submit a merge request {#submit-merge-request}
+
+After you create your profile with your new account info, submit a request to `exlcommunity@adobe.com` for merging the data from your old Community profile with your new one. In your request, specify the following details:
+
+* The old email address associated with your old Community profile
+* Your new corporate email address associated with the current Marketo Engage subscription, or your personal email (if used) to create your new profile
 * Your new username/Community profile URL
 
-Our Community team will merge your Community profiles in 4-6 business days. Once it's completed, you'll see your engagement history in your new Community Profile upon log in. If you don't, please log out of your account and log back in again to confirm.
+### Step three: Complete merge and re-log in {#complete-merge}
+
+The Adobe Community team will merge your Community profiles in 4-6 business days. Once it's completed, you'll see your engagement history in your new Community Profile upon log in. 
+
+If you don't see your engagement history, try the following:
+
+* Log out of your account and log back in to confirm
+* Clear your browser cache
+* Log in using an incognito/private browser
+* Wait about two hours for the account identities to refresh, then check again
 
 ## Jumpstart Your Inherited Marketo Engage Instance  {#jumpstart-your-inherited-marketo-engage-instance}
 
@@ -54,9 +67,9 @@ You can also [download the checklists](/help/marketo/getting-started/inheriting-
 
 Need more help? Connect with us or fellow Marketo Engage users via the links below.
 
-* For technical assistance with something that's not working properly, contact **[Marketo Engage Customer Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
+* For technical assistance with something that's not working properly, contact **[Marketo Engage Customer Support](https://experienceleague.adobe.com/en/support){target="_blank"}**.
 
-* Connect with and learn from fellow Marketo Engage users in the **[Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"}**.
+* Connect with and learn from fellow Marketo Engage users in the **[Adobe Marketo Engage Community](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**.
 
 * For hands-on assistance with getting the most out of your Marketo Engage instance, reach out to **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
