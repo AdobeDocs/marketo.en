@@ -10,6 +10,12 @@ Adobe Dynamic Chat releases operate on a continuous delivery model which allows 
 
 The standard Release Notes page for Marketo Engage [can be found here](/help/marketo/release-notes/current.md){target="_blank"}.
 
+## March 2026 Release {#march-2026-release}
+
+### Download transcript {#download-transcript}
+
+You can now download a .txt file of your chat transcript after a live chat ends. [More info](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+
 ## June 2025 Release {#june-2025-release}
 
 **Release date: June 30, 2025**
