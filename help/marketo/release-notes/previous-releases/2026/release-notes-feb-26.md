@@ -28,8 +28,8 @@ The following features fall under the standard release cycle and will start to b
    <li>Share folders across workspaces, right-click on a folder to create a new asset, move assets via drag-and-drop.</li>
    </ul>
    </td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Released</td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td>&nbsp;</td>
@@ -38,18 +38,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - API</strong>: You can now use API calls for the Email Designer.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Brand Quality Checker</strong>: Assess general content quality to identify potential issues with readability, content cohesiveness, and effectiveness, independent of your brand guidelines.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Released</td>
+   <td><a href="https://developer.adobe.com/marketo-apis/api/asset#">Marketo Asset API</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>

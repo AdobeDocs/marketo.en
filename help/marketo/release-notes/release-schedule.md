@@ -44,7 +44,7 @@ _Release dates/features are subject to change_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">February '26</a></td>
    <td>February 20, 2026</td>
-   <td>In progress</td>
+   <td>Complete</td>
   </tr>
   <tr>
   <td>March '26</td>
