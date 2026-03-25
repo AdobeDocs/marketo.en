@@ -30,7 +30,7 @@ If you already have a Marketo Engage Community profile with a previous company, 
 
 ### Step two: Submit a merge request {#submit-merge-request}
 
-After you create your profile with your new account info, submit a request to `exlcommunity@adobe.com` for merging the data from your old Community profile with your new one. In your request, specify the following details:
+After you create your profile with your new account info, submit a request to <a href="mailto:&#101;&#120;&#108;&#99;&#111;&#109;&#109;&#117;&#110;&#105;&#116;&#121;&#64;&#97;&#100;&#111;&#98;&#101;&#46;&#99;&#111;&#109;"> &#101;&#120;&#108;&#99;&#111;&#109;&#109;&#117;&#110;&#105;&#116;&#121;&#64;&#97;&#100;&#111;&#98;&#101;&#46;&#99;&#111;&#109;</a> for merging the data from your old Community profile with your new one. In your request, specify the following details:
 
 * The old email address associated with your old Community profile
 * Your new corporate email address associated with the current Marketo Engage subscription, or your personal email (if used) to create your new profile
