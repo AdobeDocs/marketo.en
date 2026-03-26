@@ -158,6 +158,7 @@ feature-set: Marketo Engage
       + [Hide and Unhide a Field](product-docs/administration/field-management/hide-and-unhide-a-field.md)
       + [HTML Encode Tokens in Emails](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
       + [Mark a Field as Sensitive](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
+      + [Picklist Management](product-docs/administration/field-management/picklist-management.md)
       + [Rename a Field](product-docs/administration/field-management/rename-a-field.md)
       + [Understanding System Managed Fields](product-docs/administration/field-management/understanding-system-managed-fields.md)
       + [View Field Mappings Between Marketo and Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
