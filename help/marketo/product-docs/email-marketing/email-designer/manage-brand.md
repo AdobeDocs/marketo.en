@@ -21,37 +21,33 @@ Manually input and organize your brand details or upload brand guideline documen
 
 ## Access brands {#generative-access}
 
-To access the **[!UICONTROL Brands]** menu in [!DNL Adobe Marketo Engage], users need to be granted the **[!UICONTROL Manage brand kit]** or **[!UICONTROL Enable AI assistant]** permissions.
+To access the **[!UICONTROL Brands]** menu in [!DNL Adobe Marketo Engage], users need to be granted the relevant permissions.
 
 +++  Learn how to assign brand related permissions
 
-To assign permissions for brands, follow these steps:
+### Users & Roles {#users-and-roles}
 
-1. In the **Permissions** product, go to the **Roles** tab and select the desired **Role**.
+1. In _Admin_, select **Users & Roles**.
 
-1. Click **Edit** to modify the permissions.
+1. Select the desired role.
 
-1. Add the **AI Assistant** resource, then select **Manage brand kit** or **[!UICONTROL Enable Ai assistant]** from the drop-down menu. 
+1. Click to expand the **Access Design Studio** menu.
 
-    Note that **[!UICONTROL Enable Ai assistant]** permission only provides read-only access to the **[!UICONTROL Brands]** menu.
+1. Select **Access AI Assistant** and click **Save**.
 
-   SCREENSHOT
+### Admin
 
-1. Click **Save** to apply changes.
+1. Back in the Admin area, click New Experience.
 
-    Any users already assigned to this role will have their permissions automatically updated.
+1. Next to _Manage your Brands_, click **Edit**.
 
-1. To assign this role to new users, navigate to the **Users** tab within the **Roles** dashboard and click **Add User**.
-
-1. Enter the user's name, email address, or choose from the list, then click **Save**.
-
-1. If the user was not previously created, refer to the [this documentation](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/users).
+OKAY WHAT NEXT???
 
 +++
 
 ## Create and manage your brand {#create-brand-kit}
 
-To create and manage your brand guideline, you can either enter the details yourself, or upload your brand guidelines document to have the information extracted automatically:
+To create and manage your brand guideline, you can either enter the details yourself, or upload your brand guidelines document to have the information extracted automatically.
 
 1. In the **[!UICONTROL Brands]** menu, click **[!UICONTROL Create brand]**.
 
