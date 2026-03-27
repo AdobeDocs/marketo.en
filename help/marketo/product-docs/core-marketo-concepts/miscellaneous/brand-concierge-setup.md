@@ -3,7 +3,7 @@ description: "Learn how to create a Brand Concierge and add knowledge sources. S
 title: Create a concierge
 hide: yes
 hidefromtoc: yes
-index: no
+index: false
 ---
 # Create a concierge {#create-a-concierge}
 
