@@ -1,9 +1,10 @@
 ---
-description: "Description goes here."
+description: Description goes here.
 title: Picklist Management
 hide: yes
 hidefromtoc: yes
 feature: Field Management
+exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
 ---
 # Picklist Management {#picklist-management}
 
