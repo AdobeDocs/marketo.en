@@ -38,16 +38,24 @@ Each picklist entry has a Display Value and a Submitted Value. The Display Value
 
 ## Autosuggest {#autosuggest}
 
+When the _Managed Picklist_ setting is enabled, Filters, Flow Step Choices, and Change Data Value steps will autosuggest values from your managed picklist. When this setting is disabled, only unmanaged values are suggested.
+
+   ![](assets/picklist-management-4.png)
+
+   ![](assets/picklist-management-5.png)
+
+   ![](assets/picklist-management-6.png)
+
 ### Switching Between Managed and Unmanaged Picklists {#switching}
 
 Most Marketo Engage subscriptions contain data from before the introduction of Managed Picklists. To use values in smart lists or flow steps from this unmanaged version picklist (e.g., from the full set of values that exist on records in your database), toggle the Managed Picklist setting in your Smart List or Campaign view. When toggled on, only the managed picklist values are shown. When toggled off, the unmanaged picklist is used and values are autosuggested based on existing values in the database.
 
-### Form Picklists (Select Type Fields) {#form-picklists}
+## Form Picklists (Select Type Fields) {#form-picklists}
 
 Like Seeded and CRM-managed picklists, the values for Managed Picklists propagate into Forms when using the Select field type. For a field with a managed picklist, select that field and set the Field Type to _Select_.
 
-   ![](assets/picklist-management-4.png)
+   ![](assets/picklist-management-7.png)
 
 This shows the set of managed picklist values defined for that field.
 
-   ![](assets/picklist-management-5.png)
+   ![](assets/picklist-management-8.png)
