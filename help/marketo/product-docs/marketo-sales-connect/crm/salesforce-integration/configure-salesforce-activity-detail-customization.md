@@ -62,33 +62,33 @@ Activity Dynamic Fields reference information about your sales activities to pop
   <th>Description</th>
  </tr>
  <tr>
-  <td>{{activity_type}}</td>
+  <td><code>{{activity_type}}</code></td>
   <td>Will populate the task type as Email, Call, InMail, or Custom.</td>
  </tr>
  <tr>
-  <td>{{activity_subject}}</td>
+  <td><code>{{activity_subject}}</code></td>
   <td><p>Will populate the subject of the task.</p>
       <p>In the case of an email it will populate the subject line of the email.</p>
       <p>In the case of call, inMail, or custom, it will populate a value if there was a reminder task created with a value in the task name/subject field.</p></td>
  </tr>
  <tr>
-  <td>{{sales_campaign_name}}</td>
+  <td><code>{{sales_campaign_name}}</code></td>
   <td>If the activity was initiated from a sales campaign, it will populate the name of the sales campaign.</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_day}}</td>
+  <td><code>{{sales_campaign_day}}</code></td>
   <td>If the activity was initiated from a sales campaign, it will populate the sales campaign day number this activity occurred on.</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_step}}</td>
+  <td><code>{{sales_campaign_step}}</code></td>
   <td>If the activity was initiated from a sales campaign, it will populate the step number within the sales campaign day this activity occurred on.</td>
  </tr>
  <tr>
-  <td>{{call_outcome}}</td>
+  <td><code>{{call_outcome}}</code></td>
   <td>If the activity is a call and a call outcome is selected, this will populate the call outcome value.</td>
  </tr>
  <tr>
-  <td>{{call_reason}}</td>
+  <td><code>{{call_reason}}</code></td>
   <td>If the activity is a call and a call reason is selected, this will populate the call reason value.</td>
  </tr>
 </table>

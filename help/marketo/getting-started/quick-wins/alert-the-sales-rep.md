@@ -55,7 +55,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} is a special token for alert emails. See [Use the Send Alert Info Token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} to learn more.
+   >`{{SP_Send_Alert_Info}}` is a special token for alert emails. See [Use the Send Alert Info Token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} to learn more.
 
 1. Click **[!UICONTROL Save]**.
 

@@ -16,9 +16,9 @@ Read the following scenario and try to determine the numbers that should be in t
 * April 25 | John and Michelle are associated to **both** Optys
 * April 29 | [Opty 1] is Closed-Won
 
-| Program Name |(Content) |(Webinar) |
-|---|---|---|
-|   |(Opty 1) |(Opty 2) |(Opty 1) |(Opty 2) |
+| Program Name |(Content) |(Webinar) | | |
+|---|---|---|---|---|
+|   |(Opty 1) |(Opty 2) |(Opty 1) | (Opty 2) |
 | (MT) Opty Created |`<pre>0.5</pre>` |`<pre>0.5</pre>` |`<pre>0.5</pre>` |`<pre>0.5</pre>` |
 | (MT) Pipeline Created |`<pre>$1,500</pre>` |`<pre>$2,500</pre>` |`<pre>$1,500</pre>` |`<pre>$2,500</pre>` |
 | (MT) Opty Won |`<pre>0.5</pre>` |`<pre>0</pre>` |`<pre>0.5</pre>` |`<pre>0</pre>` |

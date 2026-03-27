@@ -277,7 +277,8 @@ The screen readers read:
 
 <!--for Landing Pages-->
 
-<!--## Provide keyboard navigation and focus support {#keyboard}
+<!--
+## Provide keyboard navigation and focus support {#keyboard}
 
 Providing keyboard navigation and focus support allows people who cannot use a mouse to fully access and interact with content. It also improves overall usability by giving all users a clear and consistent way to move through information.
 
@@ -305,4 +306,5 @@ Providing keyboard navigation and focus support allows people who cannot use a m
     * Ensure checkboxes and buttons respond to the Enter and Space keys. 
     * Validate the interaction using the keyboard alone: 
         * Enter or Space should toggle checkboxes.
-        * Enter or Space should trigger the buttons.-->
+        * Enter or Space should trigger the buttons.
+-->
