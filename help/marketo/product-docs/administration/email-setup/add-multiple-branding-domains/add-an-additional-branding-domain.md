@@ -93,6 +93,10 @@ Follow these steps to enable SSL for your existing domains.
 
 * **Deletion of domains**: Automatically deleting a domain **does not** delete the SSL certificate. This guardrail prevents user errors that result in a website being without SSL certificates. If you do want to remove the SSL certificates, [contact Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
+>[!NOTE]
+>
+>If the domain you add is listed as anything other than a CNAME, the ability to add further branded tracking domains will be locked out. You will need to edit any existing domain and ensure it is a CNAME record and not, say, an A record. The Add button dynamically checks for CNAMES and CNAMES only.
+
 >[!MORELIKETHIS]
 >
 >[Edit Your Default Branding Domain](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"}
