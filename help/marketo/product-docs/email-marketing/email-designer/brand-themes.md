@@ -67,7 +67,7 @@ To edit a variant, click its pencil icon.
 
 >[!NOTE]
 >
->You can create up to six variants.
+>You can create up to four variants.
 
 Multiple elements are available to customize. Variant settings are grouped in the following categories:
 

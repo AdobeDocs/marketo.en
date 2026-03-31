@@ -214,7 +214,7 @@ feature-set: Marketo Engage
       + [Landing Page Headers](product-docs/administration/settings/landing-page-headers.md)
       + [Product Usage Dashboards](product-docs/administration/settings/product-usage-dashboards.md)
       + [Restrict Marketo Logins Based on IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
-      + [Select Your Language, Locale and Time Zone](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+      + [Change Your Time Zone](product-docs/administration/settings/change-time-zone.md)
       + [Set a Fallback Page](product-docs/administration/settings/set-a-fallback-page.md)
       + [Set Default Location Settings for a Subscription](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
       + [Understanding Privacy Settings](product-docs/administration/settings/understanding-privacy-settings.md)
