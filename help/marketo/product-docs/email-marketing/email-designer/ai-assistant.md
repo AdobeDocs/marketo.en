@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
 ---
-# Use AI Assistant {#use-ai-assistant}
+# AI Assistant for Email Designer {#ai-assistant-email-designer}
 
 AI Assistant in the Marketo Engage Email Designer helps you create contemporary, performant, and intuitive emails. This is achieved through Adobe's generative AI technology and prompt library along with Firefly for image generation that aids in creating suitable content for a particular persona/buying group, marketing journey stage, communication strategy, tone, etc. Specific brand assets can be also utilized to create content.
 
