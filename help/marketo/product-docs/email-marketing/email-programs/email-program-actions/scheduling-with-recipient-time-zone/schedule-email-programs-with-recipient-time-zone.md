@@ -30,7 +30,7 @@ This gives you two options:
 >
 >* **[!UICONTROL Deliver the following day in the recipient's time zone]**: if the email is scheduled to go out on Tuesday at 9:00am, qualified people who live in time zones where the scheduled time has already passed will receive the email on *Wednesday* at 9:00am.
 >
->* **[!UICONTROL Deliver using the program's default set time]**: if the email is scheduled to go out on Tuesday at 9:00am, qualified people who live in time zones where the scheduled time has already passed will receive the email *based on your subscription time zone settings*. So, if your [subscription time zone settings](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) are set to PDT America/Los Angeles, these recipients will still receive the email on Tuesday at 9:00am PDT (whatever time that may be in their own time zones).
+>* **[!UICONTROL Deliver using the program's default set time]**: if the email is scheduled to go out on Tuesday at 9:00am, qualified people who live in time zones where the scheduled time has already passed will receive the email *based on your subscription time zone settings*. So, if your [subscription time zone settings](/help/marketo/product-docs/administration/settings/change-time-zone.md) are set to PDT America/Los Angeles, these recipients will still receive the email on Tuesday at 9:00am PDT (whatever time that may be in their own time zones).
 
 >[!NOTE]
 >

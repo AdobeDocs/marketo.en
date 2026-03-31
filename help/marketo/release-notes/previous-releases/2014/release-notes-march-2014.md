@@ -29,7 +29,7 @@ When using the [program performance report](/help/marketo/product-docs/core-mark
 
 ## Inclusive and Operational Programs for Analytics {#inclusive-and-operational-programs-for-analytics}
 
-You can now [include programs without period costs](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) in [!UICONTROL Revenue Explorer] and Analyzers by setting the Analytics Behavior option to “Inclusive” when you edit Program Channels. You can also exclude operational programs from reporting all together by choosing “Operational”.
+You can now [include programs without period costs](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) in [!UICONTROL Revenue Explorer] and Analyzers by setting the Analytics Behavior option to "Inclusive" when you edit Program Channels. You can also exclude operational programs from reporting all together by choosing "Operational".
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 
@@ -45,7 +45,7 @@ As a reminder, this setting also changes program attribution metrics.
 
 ## Additional User Language {#additional-user-language}
 
-Select Your [Marketo Application Language](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). View the Marketo Lead Management interface in your preferred language -- now supporting Japanese.
+Select Your [Marketo Application Language](/help/marketo/product-docs/administration/settings/change-time-zone.md). View the Marketo Lead Management interface in your preferred language -- now supporting Japanese.
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 

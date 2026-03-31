@@ -119,7 +119,7 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
    >[!TIP]
    >
-   >Is the default time zone not yours? Learn how to [update it here](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
+   >Is the default time zone not yours? Learn how to [update it here](/help/marketo/product-docs/administration/settings/change-time-zone.md){target="_blank"}.
 
 1. Click **[!UICONTROL Approve Program]** under the [!UICONTROL Approval] tile and you're done!
 

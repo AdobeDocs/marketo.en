@@ -15,7 +15,7 @@ This article describes how an Admin would view and edit the default location set
 
 ## Set Default Location Settings for a Subscription {#set-default-location-settings-for-a-subscription-1}
 
-When an Admin changes the default location settings, newly created users inherit these settings. Users can always [change their language, locale, and time zone preferences](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) in their individual accounts.
+When an Admin changes the default location settings, newly created users inherit these settings. Users can [change their time zone](/help/marketo/product-docs/administration/settings/change-time-zone.md) in their individual accounts.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -59,4 +59,4 @@ If you are changing the default locale for your users, you may also want to chan
 
 >[!MORELIKETHIS]
 >
->* [Select Your Language, Locale and Time Zone](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+>* [Change Your Time Zone](/help/marketo/product-docs/administration/settings/change-time-zone.md)

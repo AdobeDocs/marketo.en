@@ -12,7 +12,7 @@ Please click the title links to view detailed articles for each feature. **Note*
 
 ## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) are a more direct way for a business to run lead generation campaigns on [!DNL LinkedIn]. People can fill out forms to express interest in a product or service, enabling the business to capture the person’s details and sync them to Marketo, where automated follow-up processes and lead routing activities can occur.
+[[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) are a more direct way for a business to run lead generation campaigns on [!DNL LinkedIn]. People can fill out forms to express interest in a product or service, enabling the business to capture the person's details and sync them to Marketo, where automated follow-up processes and lead routing activities can occur.
 
 The Marketo integration with [!UICONTROL LinkedIn Lead Gen] Forms automatically captures the information a lead provides within the Lead Gen form. Follow-up actions and notifications can then be automated using the new **Fills Out [!DNL LinkedIn Lead Gen] Form** trigger and filter.
 
@@ -60,7 +60,7 @@ New Web Campaign effects provide your web visitors with a more personalized expe
 
 **[Web Campaign Upon Exit Intent](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-Capture your visitor’s attention before they close your page. Set your personalized [!UICONTROL Web Campaigns] to display only when a mouse gesture indicates the visitor is leaving the page.
+Capture your visitor's attention before they close your page. Set your personalized [!UICONTROL Web Campaigns] to display only when a mouse gesture indicates the visitor is leaving the page.
 
 **[Animation Effects for [!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
@@ -80,13 +80,13 @@ Archive is a new Web Campaign status that allows you to archive [!UICONTROL Web 
 
 ![](assets/archive-campaign-5b2-5d.png)
 
-**[Localization](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Localization](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 Web Personalization is now offered in all Marketo-supported languages (English, Japanese, German, Spanish, French, and Portuguese).
 
 ## Predictive Enhancements {#predictive-enhancements}
 
-**[Localization](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Localization](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 Predictive Content is now offered in all Marketo-supported languages (English, Japanese, German, Spanish, French, and Portuguese).
 
