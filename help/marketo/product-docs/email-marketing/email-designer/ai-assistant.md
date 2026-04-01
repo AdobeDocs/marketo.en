@@ -45,17 +45,21 @@ _After_ following the prerequisite above, Marketo admins must apply access to sp
 
 ## Use cases {#use-cases}
 
-There are three primary use-cases for AI Assistant:
+There are a few primary use-cases for AI Assistant:
 
-* [Create a subject line](#create-a-subject-line) for your email
+* [Create a subject line and/or preheader](#create-a-subject-line-preheader) for your email
 * [Create content for a specific section](#create-content-for-a-specific-section) of your email
 * [Create an entire email](#create-an-entire-email) from a selected template
 
-## Create a subject line {#create-a-subject-line}
+## Create a subject line/preheader {#create-a-subject-line-preheader}
 
-When an email is created using the New Email Designer, enter a temporary subject line.
+You can use the AI Assistant to create a subject line, a preheader, or both.
 
    ![](assets/use-the-ai-assistant-1.png)
+
+The example below illustrates subject line. For a preheader, the same steps can be followed by clicking the _Preheader_ checkbox (seen in the image above).
+
+When an email is created using the New Email Designer, enter a temporary subject line.
 
 After the email has been created, the subject line is in the _Details_ column on the right. Click the AI assistant button ( ![Filter icon](assets/icon-ai-assistant.png) ) next to it to get assistance creating a new subject line using the Gen AI functionality.
 
