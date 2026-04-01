@@ -218,7 +218,6 @@ feature-set: Marketo Engage
       + [Set a Fallback Page](product-docs/administration/settings/set-a-fallback-page.md)
       + [Set Default Location Settings for a Subscription](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
       + [Understanding Privacy Settings](product-docs/administration/settings/understanding-privacy-settings.md)
-      + [Using a Universal ID for Subscription Login](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
     + Tags {#tags}
       + [Create a New Program Tag and Tag Values](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
       + [Create a Program Channel](product-docs/administration/tags/create-a-program-channel.md)

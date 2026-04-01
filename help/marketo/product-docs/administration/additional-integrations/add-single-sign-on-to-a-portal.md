@@ -109,6 +109,5 @@ SSO is disabled by default. Follow these steps to enable SAML and configure it.
 
 >[!MORELIKETHIS]
 >
->* [Using a Universal ID for Subscription Login](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
 >* [Restrict User Login to SSO Only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
 >* [Inviting Marketo Users to Two Instances with Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}

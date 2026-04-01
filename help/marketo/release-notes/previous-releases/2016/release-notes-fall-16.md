@@ -28,7 +28,7 @@ With [!DNL Facebook] Offline Conversions integration, conversion data in Marketo
 
 ![](assets/facebook.png)
 
-## [Universal ID](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## Universal ID {#universal-id}
 
 A Universal ID lets you access multiple Marketo subscriptions with a single login and switch between subscriptions quickly. You can use a single community profile for all of your subscriptions.
 
