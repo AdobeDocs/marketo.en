@@ -23,8 +23,19 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Manage Brands (beta)</strong>: Generate email content based on your organization/brand's specific copywriting guidelines.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Released</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md" target="_blank">Create and manage brands</a></td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Quick Actions</strong>: <i>Parity with the old email editor</i>. Quick actions are now available for all Email Designer assets (emails, email templates, fragments). Supported quick actions include: Duplicate, Delete, Move, Create/Edit Draft.
+   </td>
+   <td>Released</i></td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td>&nbsp;</td>
@@ -43,17 +54,6 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Outlook Rendering Fix</strong>: This update fixes rendering issues, especially in MS Outlook. "Expert mode" allows you to make minor HTML/CSS edits or add script tags to your email (best practice is to not make any other changes to the email's HTML in order to keep the visual elements as-is).
-   </td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Quick Actions</strong>: <i>Parity with the old email editor</i>. Quick actions are now available for all Email Designer assets (emails, email templates, fragments). Supported quick actions include: Duplicate, Delete, Move, Create/Edit Draft.
    </td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>

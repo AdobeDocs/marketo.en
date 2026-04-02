@@ -1029,9 +1029,6 @@ feature-set: Marketo Engage
       + [Convert Images to HTML Templates](product-docs/email-marketing/email-designer/image-to-html.md)
       + [Design Accessible Content](product-docs/email-marketing/email-designer/accessible-content.md)
       + [Custom CSS](product-docs/email-marketing/email-designer/custom-css.md)
-      + [Brand Themes](product-docs/email-marketing/email-designer/brand-themes.md)
-      + [Apply Brand](product-docs/email-marketing/email-designer/apply-brand.md)
-      + [Manage Brand](product-docs/email-marketing/email-designer/manage-brand.md)
       + [Dark Mode](product-docs/email-marketing/email-designer/dark-mode.md)
       + [Test Email Rendering with Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
       + [Personalization Tokens](product-docs/email-marketing/email-designer/personalization-tokens.md)
@@ -1044,6 +1041,12 @@ feature-set: Marketo Engage
       + [Email Collaboration](product-docs/email-marketing/email-designer/email-collaboration.md)
       + [AI Assistant for Email Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
       + [Email Spam Report with SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
+      + Brands {#brands}
+        + [Brand Themes](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+        + [Apply Brand](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+        + [Manage Brands](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+        + [Personalize your Brands](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+        + [Manage Brands](product-docs/email-marketing/email-designer/brands/manage-brands.md)
     + Email Programs {#email-programs}
       + Creating an Email Program {#creating-an-email-program}
         + [Create an Email Program](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

@@ -10,5 +10,3 @@ hide: yes
 hidefromtoc: yes
 ---
 # Brand alignment {#brand-alignment}
-
-Coming soon
