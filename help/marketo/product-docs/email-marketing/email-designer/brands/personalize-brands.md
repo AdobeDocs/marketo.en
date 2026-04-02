@@ -8,9 +8,9 @@ level: Beginner, Intermediate
 hide: yes
 hidefromtoc: yes
 ---
-## Personalize your brand {#personalize}
+# Personalize your brand {#personalize}
 
-### About the brand {#about-brand}
+## About the brand {#about-brand}
 
 Use the **[!UICONTROL About the brand]** tab to establish the core identity of your brand, outlining its purpose, personality, tagline, and other defining attributes.
 
@@ -54,9 +54,9 @@ Use the **[!UICONTROL About the brand]** tab to establish the core identity of y
 
    SCREENSHOT
 
-You can now further personalize your brand or [publish your brand](#create-brand-kit).
+You can now further personalize your brand or [publish your brand](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#create-brand-kit).
 
-### Writing style {#writing-style}
+## Writing style {#writing-style}
 
 The **[!UICONTROL Writing style]** section outlines the standards for writing content, detailing how language, formatting, and structure should be used to maintain clarity, coherence, and consistency across all materials.
 
@@ -165,9 +165,9 @@ To personalize your **[!UICONTROL Writing Style]**:
 
    SCREENSHOT
 
-You can now further personalize your brand or [publish your brand](#create-brand-kit).
+You can now further personalize your brand or [publish your brand](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#create-brand-kit).
 
-### Visual content {#visual-content}
+## Visual content {#visual-content}
 
 The **[!UICONTROL Visual Content]** section defines the standards for imagery and design, detailing the specifications needed to maintain a unified and consistent brand look.
 
@@ -236,4 +236,4 @@ To personalize your **[!UICONTROL Visual content]**:
 
    SCREENSHOT
 
-You can now further personalize your brand or [publish your brand](#create-brand-kit).
+You can now further personalize your brand or [publish your brand](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#create-brand-kit).
