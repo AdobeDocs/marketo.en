@@ -9,7 +9,7 @@ feature: SEO
 ---
 # SEO - Export Issues to CSV {#seo-export-issues-to-csv}
 
-You can export your [page issue](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) data to a CSV file if you'd like to share that information with people outside of Marketo. Here's how.
+You can export your page issue data to a CSV file if you'd like to share that information with people outside of Marketo. Here's how.
 
 >[!IMPORTANT]
 >
@@ -28,7 +28,7 @@ You can export your [page issue](/help/marketo/product-docs/additional-apps/seo/
 
    ![](assets/seo-export-issues-to-csv-2.png)
 
-   This is the [Page Detail Drill Down](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). **[!UICONTROL Page Optimization Results]** is a list of all the issues with that particular page.
+   This is the Page Detail Drill Down. **[!UICONTROL Page Optimization Results]** is a list of all the issues with that particular page.
 
    ![](assets/seo-export-issues-to-csv-3.png)
 
