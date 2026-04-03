@@ -1042,10 +1042,10 @@ feature-set: Marketo Engage
       + [AI Assistant for Email Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
       + [Email Spam Report with SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
       + Brands {#brands}
-        + [Brand Themes](product-docs/email-marketing/email-designer/brands/brand-themes.md)
-        + [Apply Brand](product-docs/email-marketing/email-designer/brands/apply-brand.md)
-        + [Manage Brands](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-        + [Personalize your Brands](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+        + [Brand themes](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+        + [Apply brand](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+        + [Create and manage your brands](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+        + [Personalize your brands](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
         + [Brand alignment](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
     + Email Programs {#email-programs}
       + Creating an Email Program {#creating-an-email-program}
