@@ -18,6 +18,10 @@ Notifications keep you up to date on system events happening in your Marketo Eng
 
    ![](assets/understanding-notifications-2.png){width="800" zoomable="yes"}
 
+   >[!NOTE]
+   >
+   >Notifications are available in your Marketo account for 60 days.
+
 ## Subscribe to Notifications {#subscribe-to-notifications}
 
 You can subscribe to notifications to receive them in your email.
@@ -34,7 +38,7 @@ You can subscribe to notifications to receive them in your email.
 >
 >The _[!UICONTROL Send to]_ box is only for you to enter an email address; it will not show a list of existing subscribers.
 
-In some cases, a notification provides a "See the full list" link to download a comma-separated-value (CSV) file, for example, the Microsoft Dynamics Sync Errors file. Marketo Engage retains these CSV files for 30 days. If you attempt to download the file after 30 days, you'll get a 404 error.
+In some cases, a notification provides a "See the full list" link to download a comma-separated-value (CSV) file, for example, the Microsoft Dynamics Sync Errors file. Marketo Engage retains these CSV files for 30 days. If you attempt to download the file after 30 days, you'll get an error.
 
 >[!TIP]
 >
