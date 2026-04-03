@@ -1045,8 +1045,8 @@ feature-set: Marketo Engage
         + [Brand Themes](product-docs/email-marketing/email-designer/brands/brand-themes.md)
         + [Apply Brand](product-docs/email-marketing/email-designer/brands/apply-brand.md)
         + [Manage Brands](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-        + [Personalize your Brands](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-        + [Manage Brands](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+        + [Personalize your Brands](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+        + [Brand alignment](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
     + Email Programs {#email-programs}
       + Creating an Email Program {#creating-an-email-program}
         + [Create an Email Program](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
