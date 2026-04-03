@@ -3,6 +3,8 @@ unique-page-id: 2949273
 description: "View how your site is ranked on keywords over time with the Keyword Rank Trends report."
 title: SEO - Use the Keyword Trends Report
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
+hide: yes
+hidefromtoc: yes
 feature: SEO
 ---
 # SEO - Use the Keyword Trends Report {#seo-use-the-keyword-trends-report}
@@ -11,7 +13,7 @@ In this report, you can see how you are ranked on keywords over time.
 
 >[!IMPORTANT]
 >
->On March 31, 2026, Marketo Engage will deprecate the Search Engine Optimization feature. Please export any relevant data on or before March 30. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>On March 31, 2026, Marketo Engage [deprecated the Search Engine Optimization](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"} feature. [seo.marketo.com](https://seo.marketo.com/) is still available for a limited time. Follow the steps in articles below to export any data.
 >
 >* [Export Issues](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
 >* [Export Keyword Results](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
@@ -56,9 +58,3 @@ In this report, you can see how you are ranked on keywords over time.
 1. Click **[!UICONTROL Export CSV]** or **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
-
-You can also see how you compare to your competitors in keyword ranking.
-
->[!NOTE]
->
->[Using the Competitive KW Rank Trends Report](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

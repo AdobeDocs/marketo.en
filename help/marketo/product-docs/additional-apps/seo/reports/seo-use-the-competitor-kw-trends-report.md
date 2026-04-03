@@ -3,6 +3,8 @@ unique-page-id: 2949270
 description: "Compare your and your competitors' keyword rankings over time."
 title: SEO - Use the Competitor KW Trends Report
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
+hide: yes
+hidefromtoc: yes
 feature: SEO
 ---
 # SEO - Use the Competitor KW Trends Report {#seo-use-the-competitor-kw-trends-report}
@@ -11,7 +13,7 @@ In this report, you can see how you and your competitors are ranked on keywords 
 
 >[!IMPORTANT]
 >
->On March 31, 2026, Marketo Engage will deprecate the Search Engine Optimization feature. Please export any relevant data on or before March 30. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>On March 31, 2026, Marketo Engage [deprecated the Search Engine Optimization](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"} feature. [seo.marketo.com](https://seo.marketo.com/) is still available for a limited time. Follow the steps in articles below to export any data.
 >
 >* [Export Issues](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
 >* [Export Keyword Results](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}

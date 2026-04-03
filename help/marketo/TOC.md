@@ -54,44 +54,10 @@ feature-set: Marketo Engage
 + Product Docs {#product-docs}
   + Additional Apps {#additional-apps}
     + SEO {#seo}
-      + Understanding SEO {#understanding-seo}
-        + [Understanding Search Engine Optimization](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-        + [Understanding the SEO Dashboard: SEO Recommendations](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
-        + [Understanding the SEO Dashboard: SEO Snapshot](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
-        + [SEO - Add a Site/Delete a Site](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
-        + [SEO - Add Competitors](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
-        + [SEO - Managing Lists](product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
-        + [SEO - Pick Region/Country for Your Search Engine](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
-        + [SEO - Set Your Email Alert Preferences](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
       + Keywords {#keywords}
-        + [SEO - Add Keywords](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-        + [SEO - Add/Remove Columns From Your Keywords View](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
-        + [SEO - Add/Remove Keywords from a List](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
         + [SEO - Exporting Keyword Results](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
-        + [SEO - Filter Keyword Results](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
-        + [SEO - Get Suggested Keywords](product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)
-        + [SEO - Importing Keywords with a CSV](product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)
-        + [SEO - Keyword Trends Chart](product-docs/additional-apps/seo/keywords/seo-keyword-trends-chart.md)
-        + [SEO - Optimize Specific Pages with Targeted Keywords](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-        + [SEO - Remove a Keyword](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
-        + [SEO - Understanding Keywords](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-        + [SEO - View Keyword Results in a Search Engine](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
       + Pages {#pages}
-        + [SEO - Add Notes to Page Issues](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
-        + [SEO - Add Pages](product-docs/additional-apps/seo/pages/seo-add-pages.md)
-        + [SEO - Add/Remove Page from List](product-docs/additional-apps/seo/pages/seo-add-remove-page-from-list.md)
-        + [SEO - Add/Remove Page Issue From a List](product-docs/additional-apps/seo/pages/seo-add-remove-page-issue-from-a-list.md)
         + [SEO - Export Issues to CSV](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
-        + [SEO - Remove/Delete a Page Issue](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page-issue.md)
-        + [SEO - Remove/Delete a Page](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page.md)
-        + [SEO - Understanding Pages](product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-        + [SEO - Using the Page Detail Drill Down](product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-      + Inbound Links {#inbound-links}
-        + [SEO - Add an Inbound Link URL Manually](product-docs/additional-apps/seo/inbound-links/seo-add-an-inbound-link-url-manually.md)
-        + [SEO - Add/Remove an Inbound Link URL From a List](product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)
-        + [SEO - Get Inbound Link Suggestions](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
-        + [SEO - Remove/Delete an Inbound Link URL](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
-        + [SEO - Understanding Inbound Links](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
       + Reports {#reports}
         + [SEO - Use the Competitor KW Trends Report](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
         + [SEO - Use the Keyword Trends Report](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
