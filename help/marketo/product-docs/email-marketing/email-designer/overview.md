@@ -48,7 +48,7 @@ In order to access the new Email Designer, your Marketo Engage subscription must
 
 * [Image to HTML converter](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Upload a compliant PNG/JPEG image file of an email and it will automatically be converted into HTML for use in the new Email Designer.
 
-* [Brand themes](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}: Define brand themes within Marketo Engage. Styling configurations can be reused and applied across email templates and other email assets for brand consistency.
+* [Brand themes](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md){target="_blank"}: Define brand themes within Marketo Engage. Styling configurations can be reused and applied across email templates and other email assets for brand consistency.
 
 * [Template importer](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}: Import email templates from the classic email editor to create templates compatible with the New Email Designer in the Design Studio.
 
@@ -78,7 +78,7 @@ Assets being edited via API is not supported in the new Email Designer at this t
 
 **Is there a way to enforce branding (fonts, logos, and colors)?**
 
-Yes! Create and manage your brand guidelines with [brand themes](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md).
+Yes! Create and manage your brand guidelines with [brand themes](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md).
 
 **Will making modules for templates be more customizable and scalable?**
 

@@ -38,7 +38,7 @@ The following features fall under the standard release cycle and will start to b
   <tr>
    <td><strong>Email Designer - Brand Themes</strong>: You can now define brand themes within Marketo Engage. Styling configurations can be reused and applied across email templates and other email assets for brand consistency.</td>
    <td>Released</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">Brand themes</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md" target="_blank">Brand themes</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>

@@ -227,7 +227,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
   </tr>
   <tr>
     <td>Brand Themes</td>
-    <td>Ability to <a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">apply approved themes</a> across the organization to ensure consistency in elements such as style, color, font size, etc.</td>
+    <td>Ability to <a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md" target="_blank">apply approved themes</a> across the organization to ensure consistency in elements such as style, color, font size, etc.</td>
     <td>Not Available</td>
     <td>Available</td>
   </tr>

@@ -127,7 +127,7 @@ The fragment status determines its availability for use in an email or email tem
 
    >[!INFO]
    >
-   >Learn more about [theme settings](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md#settings){target="_blank"}.
+   >Learn more about [theme settings](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md#settings){target="_blank"}.
 
 1. Click **[!UICONTROL Save]** at any time to save the draft fragment.
 
