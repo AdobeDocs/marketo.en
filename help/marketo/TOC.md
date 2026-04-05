@@ -52,6 +52,11 @@ feature-set: Marketo Engage
     + [Inherited Instance: Document Your Setup](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
     + [Reviewing Core Skills](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Product Docs {#product-docs}
+  + Marketo MCP {#marketo-mcp}
+    + [Overview](product-docs/marketo-mcp/overview.md)
+    + Agents {#agents}
+      + [Import leads](product-docs/marketo-mcp/agents/import-leads.md)
+      + [Program QA](product-docs/marketo-mcp/agents/program-qa.md)
   + Additional Apps {#additional-apps}
     + SEO {#seo}
       + Keywords {#keywords}
