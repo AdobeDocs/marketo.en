@@ -54,6 +54,7 @@ feature-set: Marketo Engage
 + Product Docs {#product-docs}
   + Marketo MCP {#marketo-mcp}
     + [Overview](product-docs/marketo-mcp/overview.md)
+    + [Settings and Setup](product-docs/marketo-mcp/settings-setup.md)
     + Agents {#agents}
       + [Import leads](product-docs/marketo-mcp/agents/import-leads.md)
       + [Program QA](product-docs/marketo-mcp/agents/program-qa.md)
