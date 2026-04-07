@@ -9,11 +9,23 @@ exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
 
 Intro text.
 
+## Settings {#settings}
+
+Follow the steps below to connect NAME to your Marketo Engage account.
+
+1. In My Marketo, click the **Build with AI** tile.
+
+SCREENSHOT
+
+1. Click the gear icon 
+
+WILL NEED INSTANCE NOT ALREADY CONNECTED
+
 ## Connection {#connection}
 
 In the Connection tab, follow the steps below for the initial setup of NAME OF MARKETO MCP.
 
-+++
++++Initial setup steps
 
 Text
 
