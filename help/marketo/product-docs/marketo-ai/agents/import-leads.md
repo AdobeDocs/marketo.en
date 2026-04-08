@@ -9,22 +9,52 @@ exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
 
 Import and deduplicate lead lists into your Marketo Engage database with field mapping assistance.
 
-Import a list of LEADS? PEOPLE? in csv format, applying some data normalization rules and save it to the Marketo Database.
+## How to use {#how-to-use}
 
-Clicking on this Agent takes you into the conversational AI. On the left pane there is an AI Assistant that provides a window for the Agent to post guidance, responses and options for what data normalization features to run.
+1. In your My Marketo, click the **Build with AI** tile.
 
-To initiate the Import process click on the attachment icon to upload a file.
+   ![](assets/import-leads-1.png)
 
-Type in Import list and click Send
+1. Click the **Import Leads** agent.
 
-Enter the business rule to apply and click on Send. Once entered, a window in the center console will provide the results of the applied rule.
+   ![](assets/import-leads-2.png)
 
-Enter another business rule if desired and click send.
+   You are taken to the conversational AI. In the left pane, the Agent posts guidance, responses, and options for what data normalization features to run.
 
-To view a list of mapped list fields to the database click on the mapping tab.
+   ![](assets/import-leads-3.png)
 
-When ready to save the list to the database, click on the Import to Marketo.
+1. To start importing your leads, click the attachment icon and upload them via .CSV file.
 
-Select the folder to save the List, enter a name for the Lead list and check the consent boxes and then click the "Approve & Import to Marketo" button. 
+   ![](assets/import-leads-4.png)
 
-Once the list is saved, a verification will be provided with a summary of records processed, failed or had warnings.
+1. Type _Import list_ and click **Send**.
+
+   ![](assets/import-leads-5.png)
+
+   Your list is previewed in the center console.
+
+   ![](assets/import-leads-6.png)
+
+1. Enter a desired business rule and click **Send**. 
+
+   ![](assets/import-leads-7.png)
+
+   The results appear in the center console.
+
+   ![](assets/import-leads-8.png)
+
+   If desired, enter additional business rules.
+
+1. To view the mapped fields, click the **Mappings** tab.
+
+1. If any fields were mapped incorrectly, fix them here.
+
+   ![](assets/import-leads-9.png)
+
+1. When ready to import your list, click the **Import to Marketo** tab.
+
+1. Select the destination folder and enter a name. Check each consent box and click **Approve & Import to Marketo**. 
+
+   ![](assets/import-leads-10.png)
+
+When the import is done, verification is provided with a summary of leads processed, rows failed, and any warnings.

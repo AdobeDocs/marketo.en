@@ -8,7 +8,7 @@ hidefromtoc: yes
 
 Discover why someone didn't MQL, qualify for a program, or progress through the lifecycle.
 
-To view the full list of investigation scenarios, click the down arrow on to right.
+To view the full list of investigation scenarios, click the down arrow on the right.
 
 SCREENSHOT
 
