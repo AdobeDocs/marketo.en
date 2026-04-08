@@ -1,5 +1,5 @@
 ---
-description: Coming soon.
+description: "Learn how to use the Import Leads agent to upload a CSV, apply business rules, map fields, and import leads directly into your Marketo Engage database."
 title: Import leads
 hide: yes
 hidefromtoc: yes

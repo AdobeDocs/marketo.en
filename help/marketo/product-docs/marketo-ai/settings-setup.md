@@ -1,5 +1,5 @@
 ---
-description: Coming soon.
+description: "Learn how to enable Marketo AI permissions, configure organizational rules, and manage settings like integrations and notifications."
 title: Settings and Setup
 hide: yes
 hidefromtoc: yes
@@ -7,7 +7,7 @@ exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
 ---
 # Settings and setup {#settings-setup}
 
-Intro text.
+Learn how to enable permissions and use the Settings area to view connection details, define organizational rules, and set up integrations and notifications.
 
 ## Permissions {#permissions}
 
