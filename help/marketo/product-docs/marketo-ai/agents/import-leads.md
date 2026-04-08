@@ -19,7 +19,7 @@ Import and deduplicate lead lists into your Marketo Engage database with field m
 
    ![](assets/import-leads-2.png)
 
-   You are taken to the conversational AI. In the left pane, the Agent posts guidance, responses, and options for what data normalization features to run.
+   You are taken to the conversational AI screen. In the left pane, the Agent posts guidance, responses, and options for what data normalization features to run.
 
    ![](assets/import-leads-3.png)
 
