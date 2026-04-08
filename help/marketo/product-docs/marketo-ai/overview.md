@@ -1,13 +1,13 @@
 ---
-description: Coming soon.
-title: Marketo AI Overview
+description: "Explore the Marketo Engage AI suite of agents designed to automate marketing tasks like program QA, lead import, data normalization, and more."
+title: Marketo Engage AI Overview
 hide: yes
 hidefromtoc: yes
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
 ---
-# Marketo AI Overview {#overview}
+# Marketo Engage AI Overview {#overview}
 
-Marketo Conversational AI provides a host of Agents designed to automate tedious but important Marketing functions.
+Marketo Engage AI provides a host of Agents designed to automate tedious but important marketing functions.
 
 ## How to access {#access}
 
@@ -15,7 +15,7 @@ On your My Marketo screen, click the **Build with AI** tile.
 
 ![](assets/overview-1.png)
 
-The Conversational AI UI interface provides a set of Agentic features that are designed to automate manual tasks in an effort to improve productivity.
+The conversational interface provides a set of Agentic features that are designed to automate manual tasks that significantly improve productivity.
 
 Click the **Get Started** button in the dialog prompt area ("_Get started with AI agents..._" is in the prompt by default).
 
@@ -31,19 +31,19 @@ Discover why someone didn't MQL, qualify for a program, or progress through the 
 
 ### Plan Program (Coming soon) {#plan-program} 
 
-Create a program setup document for others to use from a Campaign brief.
+Create a program setup document for others to use from a campaign brief.
 
 ### Create Program (Coming soon) {#create-program}
 
-Generate a whole Marketo Engage program using a Campaign brief, complete with email, landing page, and Smart Campaign.
+Generate an entire Marketo Engage program using a campaign brief, complete with email, landing page, and Smart Campaign.
 
 ### Program QA {#program-qa}
 
-Validate Marketo Engage programs against best practices and catch any issues before launch. [Learn more](/help/marketo/product-docs/marketo-ai/agents/program-qa.md)
+Validate Marketo Engage programs against best practices and catch any issues before launch. [Learn more](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
 
 ### Import leads {#import-leads}
 
-Import and deduplicate lead lists into your Marketo Engage database with field mapping assistance. [Learn more](/help/marketo/product-docs/marketo-ai/agents/import-leads.md)
+Import and deduplicate lead lists into your Marketo Engage database with field mapping assistance. [Learn more](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### Normalize data (Coming soon) {#normalize-data}
 
