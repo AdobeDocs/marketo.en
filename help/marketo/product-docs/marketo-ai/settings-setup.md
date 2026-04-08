@@ -13,7 +13,7 @@ Learn how to enable permissions and use the Settings area to view connection det
 
 >[!IMPORTANT]
 >
->In the Alpha phase of Marketo AI, _access is enabled by default_ for the following roles: Admin, Adobe Product Admin Marketing User, Standard User. So instead of turning it on for roles you want to have access, you must turn it off for roles you don't.
+>In the Alpha phase of Marketo AI, _access is enabled by default_ for the following roles: Admin, Adobe Product Admin, Marketing User, Standard User. So instead of turning it on for roles you want to have access, you must turn it off for roles you don't.
 
 ### Access for all {#access-for-all}
 
@@ -37,7 +37,7 @@ If you want to remove access for any roles, follow the steps below.
 
 ### Custom role {#custom-role}
 
-You also have the option to [create a new role](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} and customize its permissions, adding _Access Build with AI_ along with anything else you want, and [assigning that role](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} to specific users.
+You also have the option to [create a new role](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} and customize its permissions, adding _Access Build with AI_, along with anything else you want, and [assigning that role](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} to specific users.
 
 <!-- ## Permissions {#permissions}
 
