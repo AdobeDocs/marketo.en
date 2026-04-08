@@ -25,6 +25,14 @@ In the center console there are seven Agentic features to help you with various 
 
 ## Agents {#agents}
 
+### Program QA {#program-qa}
+
+Validate Marketo Engage programs against best practices and catch any issues before launch. [Learn more](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
+
+### Import leads {#import-leads}
+
+Import and deduplicate lead lists into your Marketo Engage database with field mapping assistance. [Learn more](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
+
 ### Investigate Lead (Coming soon) {#investigate-lead}
 
 Discover why someone didn't MQL, qualify for a program, or progress through the lifecycle.
@@ -36,14 +44,6 @@ Create a program setup document for others to use from a campaign brief.
 ### Create Program (Coming soon) {#create-program}
 
 Generate an entire Marketo Engage program using a campaign brief, complete with email, landing page, and Smart Campaign.
-
-### Program QA {#program-qa}
-
-Validate Marketo Engage programs against best practices and catch any issues before launch. [Learn more](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
-
-### Import leads {#import-leads}
-
-Import and deduplicate lead lists into your Marketo Engage database with field mapping assistance. [Learn more](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### Normalize data (Coming soon) {#normalize-data}
 

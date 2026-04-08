@@ -11,6 +11,36 @@ Learn how to enable permissions and use the Settings area to view connection det
 
 ## Permissions {#permissions}
 
+>[!IMPORTANT]
+>
+>In the Alpha phase of Marketo AI, _access is enabled by default_ for the following roles: Admin, Adobe Product Admin Marketing User, Standard User. So instead of turning it on for roles you want to have access, you must turn it off for roles you don't.
+
+### Access for all {#access-for-all}
+
+If you want Marketo AI enabled for all roles listed above, you don't have to do anything.
+
+### Access for some {#access-for-some}
+
+If you want to remove access for any roles, follow the steps below.
+
+1. In your My Marketo, click **Admin**, then **Users & Roles**.
+
+   ![](assets/settings-setup-1.png)
+
+1. In the _Roles_ tab, select the desired role (or roles) and click **Edit Role**.
+
+   ![](assets/settings-setup-2.png)
+
+1. Scroll down and _uncheck_ the **Access Build with AI** checkbox and click **Save**.
+
+   ![](assets/settings-setup-3.png)
+
+### Custom role {#custom-role}
+
+You also have the option to [create a new role](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} and customize its permissions, adding _Access Build with AI_ along with anything else you want, and [assigning that role](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} to specific users.
+
+<!-- ## Permissions {#permissions}
+
 In order to access Marketo AI, Admins must first enable role permissions. 
 
 1. In your My Marketo, click **Admin**, then **Users & Roles**.
@@ -24,6 +54,8 @@ In order to access Marketo AI, Admins must first enable role permissions.
 1. Scroll down and select the **Access Build with AI** checkbox and click **Save**.
 
    ![](assets/settings-setup-3.png)
+
+-->
 
 ## Settings {#settings}
 
