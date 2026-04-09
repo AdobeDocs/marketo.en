@@ -27,13 +27,15 @@ If you want to remove access for any roles, follow the steps below.
 
    ![](assets/settings-setup-1.png)
 
-1. In the _Roles_ tab, select the desired role (or roles) and click **Edit Role**.
+1. In the _Roles_ tab, select the desired role and click **Edit Role**.
 
    ![](assets/settings-setup-2.png)
 
 1. Scroll down and _uncheck_ the **Access Build with AI** checkbox and click **Save**.
 
    ![](assets/settings-setup-3.png)
+
+Repeat these steps for any other desired roles.
 
 ### Custom role {#custom-role}
 
