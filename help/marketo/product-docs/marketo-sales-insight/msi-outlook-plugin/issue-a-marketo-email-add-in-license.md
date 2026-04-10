@@ -28,19 +28,15 @@ Anyone who wants to use the Marketo Email [!DNL Outlook] Add-in must first be is
 
    ![](assets/image2016-7-22-10-3a20-3a15.png)
 
-1. Enter the sales reps' email addresses that need to be authorized to use the plugin and click **[!UICONTROL Issue License]**.
+1. Enter the sales reps' email addresses that need to be authorized to use the plugin and click **[!UICONTROL Issue License]**. To enter multiple email addresses, separate them with a comma.
 
-   ![](assets/image2016-8-31-9-3a37-3a8.png)>
-
-   >[!TIP]
-   >
-   >You can enter multiple email addresses, separated by a comma.
+   ![](assets/image2016-8-31-9-3a37-3a8.png)
 
    >[!NOTE]
    >
-   >To install the plugin remotely, leave the checkbox unchecked and send your IT team your [Enterprise Key](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
+   >* To install the plugin remotely, leave the _Send Registraiion email_ checkbox unchecked and send your IT team your [Enterprise Key](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
-   >If your sales reps have admin access to their computers, check the box and you're done!
+   >* If your sales reps have admin access to their computers, check the _Send Registraiion email_ checkbox and you're done. The recipents have **30 days** to click the link in the email before it expires.
 
 >[!MORELIKETHIS]
 >
