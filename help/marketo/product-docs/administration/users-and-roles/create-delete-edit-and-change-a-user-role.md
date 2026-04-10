@@ -15,13 +15,10 @@ feature: Users and Roles
 
 >[!IMPORTANT]
 >
->The following roles are system roles and cannot be edited or deleted:
+>The following roles are system roles and cannot be deleted:
 >
 >* Admin
 >* Adobe Product Admin
->* Standard User
->* RTP Editor
->* RTP Launcher
 
 ## Create a Role {#create-a-role}
 

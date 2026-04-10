@@ -18,16 +18,13 @@ For example, a marketing user typically needs broad access across the applicatio
 Marketo provides several built-in roles, with different levels of access:
 
 * **Admin** - all parts of the application, including the Admin section
+* **Adobe Product Admin** - all parts of the application, including the Admin section
 * **Standard User** - all parts of the application, except the Admin section
 * **Marketing User** - all parts of the application, except the Admin section
 * **Web Designer** - only the Design Studio
 * **Analytics User** - only the Analytics section
 
-You cannot edit the Admin and Standard User roles, but you can edit the others. You can also create new custom roles to match the particular organizational structures in your company.
-
-## Marketo with Adobe Identity {#marketo-with-adobe-identity}
-
-If you're using Marketo with Adobe Identity, the list of profile descriptions [can be found here](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
+You cannot delete the Admin or Adobe Product Admin roles, but you can edit/delete the others. You can also create new custom roles to match the particular organizational structures in your company.
 
 ## Assign Roles to a User {#assign-roles-to-a-user}
 

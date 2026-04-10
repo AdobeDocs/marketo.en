@@ -51,9 +51,9 @@ Yes. Those who've been onboarded to Adobe IMS cannot utilize all the existing Ma
 
 **Who do we contact for support if we are integrated with IMS?**
 
-* Pre-user Migration: file support cases in the [Marketing Nation Community](https://nation.marketo.com/t5/support/ct-p/Support) or email `customercare@marketo.com`.
+* Pre-user Migration: file support cases in the [Marketing Nation Community](https://nation.marketo.com/t5/support/ct-p/Support) or email `marketocares@adobe.com`.
 
-* Post-user Migration: file support cases in the [Marketing Nation Community](https://nation.marketo.com/t5/support/ct-p/Support) or email `customercare@marketo.com`.
+* Post-user Migration: file support cases in the [Marketing Nation Community](https://nation.marketo.com/t5/support/ct-p/Support) or email `marketocares@adobe.com`.
 
 * Post-Support Migration Completion: Product Support Administrators can file cases via the Experience League Support portal.
 
