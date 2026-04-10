@@ -157,7 +157,7 @@ Configure your domain settings so landing pages use your company's domain instea
 
    >[!NOTE]
    >
-   >Reach out to Marketo Support if you'd like an abbreviated list of IPs to allowlist specific to your environment.
+   >Reach out to Adobe Support if you'd like an abbreviated list of IPs to allowlist specific to your environment.
 
     * If our anti-spam system uses From domains, add these:
 

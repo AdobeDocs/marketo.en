@@ -38,7 +38,3 @@ Marketo Engage API Only Users must be created and managed in Marketo Engage.
 ## User Sign-in {#user-sign-in}
 
 [User Sign-in with Adobe ID](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
-
-## FAQ {#faq}
-
-[Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}

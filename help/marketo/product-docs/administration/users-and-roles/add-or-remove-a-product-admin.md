@@ -8,7 +8,7 @@ feature: Marketo with Adobe Identity
 
 >[!NOTE]
 >
->**System** Admins are only created at the Adobe Org level. If you think you need more than one, please contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+>**System** Admins are only created at the Adobe Org level. If you think you need more than one, please contact [Adobe Support](https://experienceleague.adobe.com/en/support).
 
 ## Add a Product Admin {#add-a-product-admin}
 

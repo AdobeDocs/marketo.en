@@ -92,7 +92,7 @@ Go to the **[!UICONTROL Admin]** area.
 
 ## Set Up Your Authorized Support Contacts {#set-up-your-authorized-support-contacts}
 
-   You might have received an email from Marketo Support stating that you are the Marketo Customer Support Administrator for your company. If so, you can set up **authorized support contacts** for your team. Only authorized support contacts can contact Marketo Customer Support directly through the [Marketo Support Portal](https://support.marketo.com){target="_blank"}.
+   You might have received an email from Adobe Support stating that you are the Marketo Customer Support Administrator for your company. If so, you can set up **authorized support contacts** for your team. Only authorized support contacts can contact Marketo Customer Support directly through the [Adobe Support Portal](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
    >[!NOTE]
    >
@@ -237,7 +237,7 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
    >[!NOTE]
    >
-   >Reach out to Marketo Support if you'd like an abbreviated list of IPs to allowlist specific to your environment.
+   >Reach out to Adobe Support if you'd like an abbreviated list of IPs to allowlist specific to your environment.
 
     * If our anti-spam system uses From domains, add these:
 

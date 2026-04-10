@@ -157,16 +157,7 @@ feature-set: Marketo Engage
       + [Adobe Identity Management Overview](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
       + [Admin Setup](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
       + [Product Admin Setup](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
-      + [Add API Only User for Adobe IMS Enabled Subscriptions](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
-      + [Add or Remove a Product Admin](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
-      + [Add or Remove a User](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-      + [FAQ](product-docs/administration/marketo-with-adobe-identity/faq.md)
       + [User Sign-in with Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
-      + Subscription and User Migration {#subscription-and-user-migration}
-        + [Migrating to Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
-        + [Understanding Marketo Subscription and User Migration to the Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
-        + [Marketo Engage Support Migration](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
-        + [Troubleshooting guide](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
     + Settings {#settings}
       + [Bulk Export API Information](product-docs/administration/settings/bulk-export-api-information.md)
       + [Campaign Inspector](product-docs/administration/settings/campaign-inspector.md)
@@ -199,7 +190,10 @@ feature-set: Marketo Engage
       + [Hide/Unhide a Program Channel](product-docs/administration/tags/hide-unhide-a-program-channel.md)
       + [Managing Tag Values](product-docs/administration/tags/managing-tag-values.md)
     + Users and Roles {#users-and-roles}
+      + [Add or Remove a Product Admin](product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md)
+      + [Add or Remove a User](product-docs/administration/users-and-roles/add-or-remove-a-user.md)
       + [Create an API Only User Role](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+      + [Create an API Only User](product-docs/administration/users-and-roles/create-api-only-user.md)
       + [Create, Delete, Edit and Change a User Role](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
       + [Email Verification](product-docs/administration/users-and-roles/email-verification.md)
       + [Export a List of Users and Roles](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)

@@ -257,7 +257,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
    <td><li>Which CRM are you syncing to? Salesforce? MS Dynamics? Veeva?</li>
 <li>Are you utilizing a <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">custom sync</a>?</li>
 <li>[Salesforce Only] Does your instance have Custom Sync Filters implemented?
-<p><img src="assets/note-icon.png" alt="note icon"> NOTE: Contact Marketo Support to identify Custom Sync Filters or request a Custom Sync Rule be implemented.</li></td>
+<p><img src="assets/note-icon.png" alt="note icon"> NOTE: Contact Adobe Support to identify Custom Sync Filters or request a Custom Sync Rule be implemented.</li></td>
   </tr>
   <tr>
    <td>Landing Pages</td>
