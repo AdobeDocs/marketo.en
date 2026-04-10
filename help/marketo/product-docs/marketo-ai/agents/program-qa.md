@@ -15,16 +15,24 @@ Audit your programs for best practices across all components, such as emails, la
 
    ![](assets/program-qa-1.png)
 
-1. Click the **Program QA** agent.
+1. Select the **Program QA** agent.
 
    ![](assets/program-qa-2.png)
 
    You are taken to the conversational AI screen.
 
-1. Select the desired program in the right pane.
+1. Select the program you want to QA in the right pane.
 
    ![](assets/program-qa-3.png){width="800" zoomable="yes"}
 
-A summary of the program appears in the center pane, providing an overview of the program.
+   A summary of the program appears in the center pane, providing an overview of the program.
 
    ![](assets/program-qa-4.png){width="450" zoomable="yes"}
+
+1. In the prompt window, enter "QA program" and click **Send**. 
+
+   ![](assets/program-qa-5.png)
+
+The AI Assistant provides a QA of the program selected showing you what passed and what failed.
+
+   ![](assets/program-qa-6.png)

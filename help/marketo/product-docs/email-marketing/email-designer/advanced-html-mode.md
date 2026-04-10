@@ -1,8 +1,8 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Add custom CSS to your email content
-description: Learn how to add custom CSS to email content in the Email Designer. Style your emails with custom code in Marketo Engage.
+title: Edit email templates with the advanced HTML editor
+description: "Learn how to view and edit raw HTML source code in the Marketo Engage Email Designer, including guardrails, access steps, and key limitations."
 level: Intermediate
 feature: Email Designer
 exl-id: b030e56a-de70-4b0d-9788-04a01235cffb
