@@ -42,19 +42,19 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
    <td>&nbsp;</td>
   </tr>
+   <tr>
+   <td><strong>Email Designer - Outlook Rendering Fix</strong>: This update fixes rendering issues, especially in MS Outlook. Advanced HTML Mode allows you to make minor HTML/CSS edits or add script tags to your email template.
+   </td>
+   <td>Released</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">Edit email templates with the advanced HTML editor</a></td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
   <tr>
    <td><strong>Email Designer - Brand Quality Checker</strong>: Assess general content quality to identify potential issues with readability, content cohesiveness, and effectiveness, independent of your brand guidelines.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Outlook Rendering Fix</strong>: This update fixes rendering issues, especially in MS Outlook. "Expert mode" allows you to make minor HTML/CSS edits or add script tags to your email (best practice is to not make any other changes to the email's HTML in order to keep the visual elements as-is).
-   </td>
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>

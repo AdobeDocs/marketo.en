@@ -256,22 +256,10 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Available</td>
   </tr>
   <tr>
-    <td>Content Approval Workflows</td>
-    <td>Ability to introduce approval workflows for emails within Marketo Engage.</td>
-    <td>Not Available</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>Emails in CRM</td>
-    <td>Ability to send information related to emails to your CRM.</td>
+    <td>HTML Editor</td>
+    <td>Ability to modify the HTML content of <a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md">email templates</a>.</td>
     <td>Available</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>Code Editor</td>
-    <td>Ability to modify the HTML content of emails, email templates, and fragments.</td>
     <td>Available</td>
-    <td>TBD</td>
   </tr>
   <tr>
     <td>Support for Move, Delete, and Import of Programs with email assets</td>
