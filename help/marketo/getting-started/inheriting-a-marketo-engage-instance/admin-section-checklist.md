@@ -34,7 +34,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
   <tr>
    <td>Product Profile</td>
    <td><li>Are all appropriate users assigned to Marketo Engage's product profile in Adobe Admin Console?
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, make sure to <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">add and/or remove users</a> from Marketo Engage product profiles in the Adobe Admin Console. You cannot assign users' roles in Marketo Engage > Admin > Users & Roles if they're added to a Product Profile.</li>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, make sure to <a href="/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md" target="_blank">add and/or remove users</a> from Marketo Engage product profiles in the Adobe Admin Console. You cannot assign users' roles in Marketo Engage > Admin > Users & Roles if they're added to a Product Profile.</li>
 <p><img src="assets/note-icon.png" alt="note icon"> NOTE: If an undesired user is added to multiple product profiles, you must remove the user from all product profiles. Otherwise, they'll still have access to Marketo Engage.</td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
    <td><img src="assets/note-icon.png" alt="note icon"> NOTE: If your subscription is on Adobe IMS already, proceed to the following user management review in Adobe Admin Console. Otherwise, go to Admin > Users & Roles > Users in Marketo Engage.
    <p>
    <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">How many users</a> are there?</li>
-<li>Are there any users that should be <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user" target="_blank">removed</a>?</li>
+<li>Are there any users that should be <a href="/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#remove-a-user" target="_blank">removed</a>?</li>
 <li>Does your company have policies around deleting users?</li>
 <li>How many users have <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Admin permissions</a>?</li>
 <li>Should any of those users be changed to <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">other roles?</a></li>

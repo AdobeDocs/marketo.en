@@ -50,4 +50,4 @@ After the System Admin accesses the Admin Console, it's time to create a product
 
 >[!MORELIKETHIS]
 >
->[Add or Remove a Product Admin](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
+>[Add or Remove a Product Admin](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md){target="_blank"}

@@ -14,4 +14,4 @@ feature: Marketo with Adobe Identity
 
    ![](assets/admin-setup-8.png)
 
-It's that simple! Product Admins are primarily responsible for adding users. [Learn how to do that here](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}.
+It's that simple! Product Admins are primarily responsible for adding users. [Learn how to do that here](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user){target="_blank"}.

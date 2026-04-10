@@ -48,5 +48,5 @@ Adobe Marketo Engage subscriptions onboarded to the Adobe Identity Management Sy
 >[!MORELIKETHIS]
 >
 >* [Admin Setup](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md){target="_blank"}
->* [Add or Remove a Product Admin](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
->* [Add or Remove a User](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}
+>* [Add or Remove a Product Admin](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md){target="_blank"}
+>* [Add or Remove a User](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md){target="_blank"}

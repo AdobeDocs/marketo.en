@@ -14,22 +14,22 @@ Product Profile and Product Admin Creation.
 
 [Create a Product Profile](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target="_blank"}
 
-[Add a Product Admin](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md#add-a-product-admin){target="_blank"}
+[Add a Product Admin](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md#add-a-product-admin){target="_blank"}
 
 ## User Management {#user-management}
 
 Adding and Removing users. Completed by Product Admin (or System
 Admin).
 
-[Add a User](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}
+[Add a User](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user){target="_blank"}
 
-[Remove a User](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user){target="_blank"}
+[Remove a User](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#remove-a-user){target="_blank"}
 
 ## API Only User in Marketo Engage {#api-only-user-in-marketo-engage}
 
 Marketo Engage API Only Users must be created and managed in Marketo Engage.
 
-[Add API Only User for Adobe IMS Enabled Subscriptions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
+[Add API Only User for Adobe IMS Enabled Subscriptions](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"}
 
 ## Add Users via CSV {#add-users-via-csv}
 
