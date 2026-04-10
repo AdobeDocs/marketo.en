@@ -8,7 +8,7 @@ feature: Email Designer
 hide: yes
 hidefromtoc: yes
 ---
-# Edit email templates with the advanced HTML editor {#email-template-expert-mode}
+# Edit email templates with the advanced HTML editor {#advanced-html-mode}
 
 Advanced HTML mode lets you view and edit the raw source code of email templates directly from the [!DNL Marketo Engage] Email Designer interface.
 
@@ -34,13 +34,13 @@ To open the advanced HTML editor and edit your template source, follow these ste
 
 1. Open or [create an email template](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) in the Email Designer.
 
-1. In the Edit email template screen, click the HTML button in the top-right corner.
+1. In the _Edit email template_ screen, click the HTML button in the top-right corner.
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-1.png){width="800" zoomable="yes"}
 
 1. The first time you open the advanced HTML editor, a warning message displays. Review it click **[!UICONTROL OK]** when done.
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-2.png)
 
     >[!NOTE]
     >
@@ -48,7 +48,7 @@ To open the advanced HTML editor and edit your template source, follow these ste
 
 1. The advanced HTML editor displays.
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-3.png){width="800" zoomable="yes"}
 
 1. Add the desired changes to your email content.
 
@@ -58,7 +58,7 @@ To open the advanced HTML editor and edit your template source, follow these ste
 
 1. Content simulation and saving are not available in advanced HTML view for compatibility reasons. Switch back to Desktop view to preview your content and save your changes.
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-4.png){width="800" zoomable="yes"}
 
     >[!NOTE]
     >
