@@ -163,7 +163,6 @@ feature-set: Marketo Engage
       + [Campaign Inspector](product-docs/administration/settings/campaign-inspector.md)
       + [Change Attribution Settings for Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
       + [Creating a Custom Tab for the Person Detail Page](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-      + [Edit Account Settings](product-docs/administration/settings/edit-account-settings.md)
       + [Edit "Do Not Track" Browser Support Settings](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
       + [Edit Landing Page Settings](product-docs/administration/settings/edit-landing-page-settings.md)
       + [Edit Link Expiration in Reports and Alerts](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)

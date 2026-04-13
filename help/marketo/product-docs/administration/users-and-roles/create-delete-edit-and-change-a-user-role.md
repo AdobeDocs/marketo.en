@@ -90,10 +90,6 @@ feature: Users and Roles
    >
    >The changes made to the role will affect every user associated to this role.
 
-   >[!TIP]
-   >
-   >Are you looking to update the account email address? [Learn how here](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
-
 ## Change a User's Role {#change-a-users-role}
 
 1. Go to the **[!UICONTROL Admin]** area.
