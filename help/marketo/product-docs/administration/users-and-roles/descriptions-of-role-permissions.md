@@ -26,10 +26,10 @@ When you [create or edit a role](/help/marketo/product-docs/administration/users
 View and make changes to settings in the My Account section of Admin.
 
 * Access Adobe Connect - Gives users access to the Adobe Connect screen
-* Access Adobe Experience Manager&#42; - Gives users access to the Adobe Experience Manager screen
-* Access Adobe Organization Mapping&#42; - Gives users access to the Adobe Organization Mapping screen
-* Access Admin Audit Trail&#42; - Gives users access to the Admin Audit Trail screen
-* Access Access Audit Trail&#42; - Gives users access to Access Audit Trail
+* Access Adobe Experience Manager - Gives users access to the Adobe Experience Manager screen
+* Access Adobe Organization Mapping - Gives users access to the Adobe Organization Mapping screen
+* Access Admin Audit Trail - Gives users access to the Admin Audit Trail screen
+* Access Access Audit Trail - Gives users access to Access Audit Trail
 * Access Audit Trail - Gives users access to both Asset Audit Trail and Admin Audit Trail
 * Access CAPTCHA - Access to the CAPTCHA screen
 * Access Channels - Gives users access only to modify the Channel tag, not other custom tags
@@ -45,11 +45,11 @@ View and make changes to settings in the My Account section of Admin.
 * Access Location - Gives users access to Location in Admin for setting default language, locale, time zone, and currency
 * Access Login History - Gives users access to User Login History in Audit Trail
 * Access Login Settings - Gives users access to Login Settings in Admin for Security, IP Restrictions, and Smart List Report settings
-* Access New Experience&#42; - Gives users access to the New Experience screen
+* Access New Experience - Gives users access to the New Experience screen
 * Access Marketo Custom Activity - Gives users access to Marketo Custom Activities in Admin
 * Access Marketo Custom Object - Gives users access to Marketo Custom Objects in Admin
 * Access [!DNL Munchkin] - GIves users access to [!DNL Munchkin] in Admin, for setting tracking code, person tracking, and enabling API configuration
-* Access Predictive Audiences&#42; - Gives users access to the Predictive Audiences screen
+* Access Predictive Audiences - Gives users access to the Predictive Audiences screen
 * Access Revenue Cycle Analytics - Gives users access to Revenue Cycle Analytics in Admin, for setting Sync Summary and Attribution
 * Access Roles - Gives users access to manage and edit roles, but not users
 * Access Sales Insight - Gives users access to manage Sales Insight in Admin, for setting Status, API Configuration, Person Scoring, and other settings
@@ -61,8 +61,6 @@ View and make changes to settings in the My Account section of Admin.
 * Access Users - Gives users access to edit and manage users (but not roles) in Admin
 * Access Webhooks - Gives users to Webhooks in Admin, for setting details and Response Mappings
 * Access Workspaces and Partitions - Gives users access to create, edit, and delete Workspaces and Partitions in Admin
-
-_&#42;To avoid disruption for existing users, this permission is being introduced in passive mode and is visible but not accessible at this time. We will communicate how to implement it when it becomes active in mid-2024._
 
 ## Access API  {#access-api}
 
@@ -96,11 +94,9 @@ Gives users with the **API Only** **Role** access to the individual APIs listed 
 Gives users access to the Analytics tabs, Email Insights, reports, and the three items below, unless they are unchecked.
 
 * Access Revenue Explorer - Unchecking removes user's access to Revenue Explorer
-* Create Report&#42; - Gives users access to create, clone, read, update, and move Report assets in Analytics and Marketing Activities, as well as Revenue Cycle Modeler assets
+* Create Report - Gives users access to create, clone, read, update, and move Report assets in Analytics and Marketing Activities, as well as Revenue Cycle Modeler assets
 * Delete Report - Unchecking removes user's ability to delete reports
 * Export Analytics Data - Unchecking removes user's ability to export Analytics data
-
-_&#42;To avoid disruption for existing users, this permission is being introduced in passive mode and is visible but not accessible at this time. We will communicate how to implement it when it becomes active in mid-2024._
 
 ## Access Calendar Presentations {#access-calendar-presentations}
 
@@ -172,7 +168,7 @@ View the database as well as view and edit smart/static lists.
   * Edit Segmentation
 
 * Delete Person
-* Create List&#42;
+* Create List
   * Access to create a list asset in Database and Marketing Activities
   * Access to create a Smart List asset in Database and Marketing Activities
 * Delete List
@@ -184,8 +180,6 @@ View the database as well as view and edit smart/static lists.
 * Run Single Flow Actions - Enables users to run **Change Data Value** flow step on people from the database
 
 * View Opportunity Data - Hides the opportunity info on the person detail page
-
-_&#42;To avoid disruption for existing users, this permission is being introduced in passive mode and is visible but not accessible at this time. We will communicate how to implement it when it becomes active in mid-2024._
 
 ## Access Marketing Activities {#access-marketing-activities}
 
@@ -219,8 +213,6 @@ Access SEO
 
 * Administer SEO
 * Standard SEO
-
-_&#42;To avoid disruption for existing users, this permission is being introduced in passive mode and is visible but not accessible at this time. We will communicate how to implement it when it becomes active in mid-2024._
 
 ## Targeting and Personalization {#targeting-and-personalization}
 
