@@ -28,7 +28,7 @@ You cannot delete the Admin or Adobe Product Admin roles, but you can edit/delet
 
 ## Assign Roles to a User {#assign-roles-to-a-user}
 
-You can assign roles to a user when you [create users for the first time](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) or by [editing an existing user](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+You can assign roles to a user when you [create users for the first time](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md).
 
 1. Go to the **[!UICONTROL Admin]** area.
 

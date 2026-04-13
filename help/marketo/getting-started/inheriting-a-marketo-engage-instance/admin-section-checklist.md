@@ -58,7 +58,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
    <td>Users</td>
    <td><img src="assets/note-icon.png" alt="note icon"> NOTE: If your subscription is on Adobe IMS already, proceed to the following user management review in Adobe Admin Console. Otherwise, go to Admin > Users & Roles > Users in Marketo Engage.
    <p>
-   <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">How many users</a> are there?</li>
+   <li>How many users are there?</li>
 <li>Are there any users that should be <a href="/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#remove-a-user" target="_blank">removed</a>?</li>
 <li>Does your company have policies around deleting users?</li>
 <li>How many users have <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Admin permissions</a>?</li>

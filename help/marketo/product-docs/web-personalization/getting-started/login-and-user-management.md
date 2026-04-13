@@ -25,7 +25,7 @@ feature: Web Personalization
 
    ![](assets/three-1.png)
 
-1. Enter a [!UICONTROL Role Name] and select [!UICONTROL Permissions]. Click **[!UICONTROL Create]** (this role must [apply to all workspaces](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
+1. Enter a [!UICONTROL Role Name] and select [!UICONTROL Permissions]. Click **[!UICONTROL Create]** (this role must [apply to all workspaces](/help/marketo/product-docs/administration/users-and-roles/edit-user-workspaces.md)).
 
    ![](assets/four.png)
 

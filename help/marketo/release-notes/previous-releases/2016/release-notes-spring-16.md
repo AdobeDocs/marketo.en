@@ -79,7 +79,7 @@ Today, it's hard to differentiate between Marketo instances, for example, sandbo
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
-## [Limited Time Access for Subscriptions](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
+## Limited Time Access for Subscriptions {#limited-time-access-for-subscriptions}
 
 Today, users are invited to Marketo subscription for an indefinite period of time. This feature enables admins to invite users to subscriptions for a limited period of time, for example, 2 weeks or 1 month.
 

@@ -21,7 +21,7 @@ No, you can't. The changes to any opportunity in [!DNL Salesforce] will be synce
 
 ## Does Marketo support more than one currency in the Opportunity Amount? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-No, Marketo supports only one currency. The opportunity amount will be synced from [!DNL Salesforce] but the currency will be the [default currency](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) in your Marketo subscription.
+No, Marketo supports only one currency. The opportunity amount will be synced from [!DNL Salesforce] but the currency will be the [default currency](/help/marketo/product-docs/administration/settings/set-default-currency.md) in your Marketo subscription.
 
 ## How does Marketo associate opportunities and contacts? {#how-does-marketo-associate-opportunities-and-contacts}
 
