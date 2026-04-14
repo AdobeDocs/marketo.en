@@ -982,6 +982,12 @@ feature-set: Marketo Engage
         + [Prioritize Stream Content](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
         + [Remove Stream Content](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
     + Email Designer {#email-designer}
+      + Brands {#brands}
+        + [Brand themes](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+        + [Apply brand](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+        + [Create and manage your brands](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+        + [Personalize your brands](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+        + [Brand alignment](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
       + [Overview](product-docs/email-marketing/email-designer/overview.md)
       + [Feature Comparison](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [Email Authoring](product-docs/email-marketing/email-designer/email-authoring.md)
@@ -1004,12 +1010,6 @@ feature-set: Marketo Engage
       + [Email Collaboration](product-docs/email-marketing/email-designer/email-collaboration.md)
       + [AI Assistant for Email Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
       + [Email Spam Report with SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
-      + Brands {#brands}
-        + [Brand themes](product-docs/email-marketing/email-designer/brands/brand-themes.md)
-        + [Apply brand](product-docs/email-marketing/email-designer/brands/apply-brand.md)
-        + [Create and manage your brands](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-        + [Personalize your brands](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
-        + [Brand alignment](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
     + Email Programs {#email-programs}
       + Creating an Email Program {#creating-an-email-program}
         + [Create an Email Program](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

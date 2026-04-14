@@ -100,7 +100,7 @@ Default value (optional)
 
 Example:
 
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### Option 2 - Use an \<img\> {#option-use-an-img}
 
@@ -122,7 +122,7 @@ Example:
 
 ## Snippets {#snippets}
 
-If you define a region as a Snippet, end users will be able to choose which approved [Snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)they'd like to insert in this region. Although Rich Text elements can be converted into Snippets from within the email editor, when you define a region specifically as a Snippet it cannot be converted to Rich Text. You can specify a Snippet region using a `<div>` with class="mktoSnippet"
+If you define a region as a Snippet, end users will be able to choose which approved [Snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) they'd like to insert in this region. Although Rich Text elements can be converted into Snippets from within the email editor, when you define a region specifically as a Snippet it cannot be converted to Rich Text. You can specify a Snippet region using a `<div>` with class="mktoSnippet"
 
 Required attributes
 
@@ -364,4 +364,4 @@ Required attributes
 
 >[!CAUTION]
 >
->Containers can only contain Modules-if there's anything else present, the Container is considered invalid! Only one container is allowed per template.
+>Containers can only contain Modules-if there's anything else present, the Container is considered invalid. Only one container is allowed per template.
