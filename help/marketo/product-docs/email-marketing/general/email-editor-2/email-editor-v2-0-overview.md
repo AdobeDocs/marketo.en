@@ -11,7 +11,7 @@ Overview of the classic email editor.
 
 >[!IMPORTANT]
 >
->While there is no exact date set, the classic email editor will likely be deprecated sometime in 2027 (we will announce an exact date when we have it). It is strongly recommended to begin adoption of the advanced [Email Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}, as it has many capabilities not available in the classic editor.
+>While there is no exact date, the classic email editor will eventually be deprecated (we will announce an exact date when we have one). It is highly recommended to begin adoption of the advanced [Email Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}, as it has many capabilities not available in the classic editor.
 
 **Email Template Picker**
 
