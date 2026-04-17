@@ -55,7 +55,7 @@ feature-set: Marketo Engage
   + Marketo AI {#marketo-ai}
     + [Overview](product-docs/marketo-ai/overview.md)
     + [Settings and Setup](product-docs/marketo-ai/settings-setup.md)
-    + [Settings and Setup](product-docs/marketo-ai/settings-setup-new.md)
+    + [Settings and Setup](product-docs/marketo-ai/settings-setup-old.md)
     + Agents {#agents}
       + [Import leads](product-docs/marketo-ai/agents/import-leads.md)
       + [Program QA](product-docs/marketo-ai/agents/program-qa.md)
