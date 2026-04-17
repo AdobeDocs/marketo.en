@@ -16,38 +16,14 @@ There is an _Access Build with AI_ permission and a _Build with AI User_ role, g
 >
 >The _Access Build with AI_ permission is not enabled by default for all roles. See the table below for details.
 
-<table><thead>
-  <tr>
-    <th>Role</th>
-    <th>Default status</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>Admin</td>
-    <td>Enabled</td>
-  </tr>
-  <tr>
-    <td>Adobe Product Admin</td>
-    <td>Enabled</td>
-  </tr>
-  <tr>
-    <td>Marketing User</td>
-    <td>Disabled</td>
-  </tr>
-  <tr>
-    <td>Standard User</td>
-    <td>Not available</td>
-  </tr>
-  <tr>
-    <td>Build with AI User</td>
-    <td>Enabled</td>
-  </tr>
-  <tr>
-    <td>Custom roles</td>
-    <td>Disabled</td>
-  </tr>
-</tbody>
-</table>
+| Role | Default status |
+| --- | --- |
+| Admin | Enabled |
+| Adobe Product Admin | Enabled |
+| Marketing User | Disabled |
+| Standard User | Not available |
+| Build with AI User | Enabled |
+| Custom roles | Disabled |
 
 ### Access Build with AI permission {#access-build-with-ai-permission}
 
@@ -75,7 +51,7 @@ Follows these steps to assign a specific user to the _Build with AI User_ role.
 
 >[!NOTE]
 >
->This role **only** contains _Access Build with AI_ permissions. If you want the user to have access to more than just Marketo AI, be sure to add additional permissions.
+>This role **only** contains _Access Build with AI_ permissions.
 
 1. In your My Marketo, click **Admin**, then **Users & Roles**.
 
