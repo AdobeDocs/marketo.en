@@ -97,12 +97,6 @@ You have the option of adding a [!UICONTROL Preheader]. A [!UICONTROL Preheader]
 >
 >Tokens do not work in the [!UICONTROL Preheader] when using the email editor. To use a token in the [!UICONTROL Preheader], it must be via your own HTML in an email template.
 
-Lots of great new features! Have fun!
-
->[!NOTE]
->
->If you want to delve even deeper, check out this [video](https://nation.marketo.com/videos/1463).
-
 >[!MORELIKETHIS]
 >
 >[Email Template Syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
