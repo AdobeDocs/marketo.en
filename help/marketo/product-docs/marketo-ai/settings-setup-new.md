@@ -10,7 +10,7 @@ Learn how to enable permissions and use the Settings area to view connection det
 
 ## Permissions and roles {#permission-and-role}
 
-There is an _Access Build with AI_ permission and a _Build with AI_ role, giving administrators greater control over which users can access the **Build with AI** feature. The permission is assigned at the role level. The _Build with AI_ role comes with the _Access Build with AI_ permission enabled by default.
+There is an _Access Build with AI_ permission and a _Build with AI User_ role, giving administrators greater control over which users can access the **Build with AI** feature. The permission is assigned at the role level. The _Build with AI User_ role comes with the _Access Build with AI_ permission enabled by default.
 
 >[!IMPORTANT]
 >
@@ -72,6 +72,10 @@ Follow the steps below to enable _Access Build with AI_ for qualifying roles tha
 ### Build with AI User role {#build-with-ai-user-role}
 
 Follows these steps to assign a specific user to the _Build with AI User_ role.
+
+>[!NOTE]
+>
+>This role **only** contains _Access Build with AI_ permissions. If you want the user to have access to more than just Marketo AI, be sure to add additional permissions.
 
 1. In your My Marketo, click **Admin**, then **Users & Roles**.
 
