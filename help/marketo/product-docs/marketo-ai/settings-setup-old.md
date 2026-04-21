@@ -41,7 +41,8 @@ Repeat these steps for any other desired roles.
 
 You also have the option to [create a new role](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} and customize its permissions, adding _Access Build with AI_, along with anything else you want, and [assigning that role](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} to specific users.
 
-<!-- ## Permissions {#permissions}
+<!-- 
+## Permissions {#permissions}
 
 In order to access Marketo AI, Admins must first enable role permissions. 
 
