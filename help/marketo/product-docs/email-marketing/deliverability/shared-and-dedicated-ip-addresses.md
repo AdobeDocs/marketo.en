@@ -34,7 +34,7 @@ _Pros_
 _Cons_
 
 **Volume changes** - Spikes in volume can negatively affect your reputation and need to be managed.
-**IP warm-up process** - Reputation is is built over time. Some Internet Service Providers (ISPs) throttle IP addresses with no volume history, so you will have to build a reputation over the first few weeks (Marketo can help guide you).
+**IP warm-up process** - Reputation is built over time. Some Internet Service Providers (ISPs) throttle IP addresses with no volume history, so you will have to build a reputation over the first few weeks (Marketo can help guide you).
 **Cost** - There is usually an additional charge to send from a Dedicated IP with any provider.
 
 **Pros and Cons of a Shared IP**

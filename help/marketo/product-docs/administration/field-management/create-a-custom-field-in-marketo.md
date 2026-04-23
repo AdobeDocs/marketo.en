@@ -51,6 +51,6 @@ If you need a new custom field in Marketo Engage to store/capture data, here's h
 
 >[!NOTE]
 >
->The API name is used by the SOAP API and other backend processes.
+>The API name is used by the REST API and other backend processes.
 
 You can now use this custom field in forms, flow steps, and Smart Lists!

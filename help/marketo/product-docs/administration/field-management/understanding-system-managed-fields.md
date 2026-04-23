@@ -123,7 +123,7 @@ Below are some possible values and what they mean.
   </tr>
   <tr>
     <td>Contact</td>
-    <td>Person was synced over from Webhook as a contact</td>
+    <td>Person was synced over from Salesforce as a contact</td>
   </tr>
   <tr>
     <td>Munchkin API</td>

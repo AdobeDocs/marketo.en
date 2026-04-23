@@ -186,8 +186,6 @@ Optional:
 
 Basic Example:
 
-`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
-
 `<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
 
 Example with all attributes:

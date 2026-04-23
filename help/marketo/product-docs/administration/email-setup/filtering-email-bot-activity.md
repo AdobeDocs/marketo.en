@@ -53,7 +53,7 @@ Against email link click and email open activity, new attributes will be populat
 >
 >* If you choose [!UICONTROL Filter Bot Activity], you may see a drop in email opens and clicks as false activities are weeded out.
 
-**OPTIONAL STEP**: To disable either feature, simply deselect the resective slider. If you do, the data does not reset.
+**OPTIONAL STEP**: To disable either feature, simply deselect the respective slider. If you do, the data does not reset.
 
 >[!TIP]
 >
