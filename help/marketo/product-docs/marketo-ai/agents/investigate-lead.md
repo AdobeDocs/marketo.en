@@ -1,6 +1,7 @@
 ---
 description: Coming soon.
 title: Investigate lead
+beta: yes
 hide: yes
 hidefromtoc: yes
 ---

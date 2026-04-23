@@ -1,6 +1,7 @@
 ---
 description: "Learn how to use the Import Leads agent to upload a CSV, apply business rules, map fields, and import leads directly into your Marketo Engage database."
 title: Import leads
+beta: yes
 hide: yes
 hidefromtoc: yes
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
@@ -8,6 +9,10 @@ exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
 # Import leads {#import-leads}
 
 Import and deduplicate lead lists into your Marketo Engage database with field mapping assistance.
+
+>[!NOTE]
+>
+>This feature is in open beta and is currently in a phased rollout over the next few months. You will know when it's been enabled for your subscription when you see a _Build with AI_ tile on your My Marketo screen.
 
 ## How to use {#how-to-use}
 

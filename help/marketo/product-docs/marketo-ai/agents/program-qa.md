@@ -1,6 +1,7 @@
 ---
 description: "Learn how to audit your programs for best practices across all components, such as emails, landing pages, campaigns, and more."
 title: Program QA
+beta: yes
 hide: yes
 hidefromtoc: yes
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
@@ -8,6 +9,10 @@ exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
 # Program QA {#program-qa}
 
 Audit your programs for best practices across all components, such as emails, landing pages, campaigns, and more.
+
+>[!NOTE]
+>
+>This feature is in open beta and is currently in a phased rollout over the next few months. You will know when it's been enabled for your subscription when you see a _Build with AI_ tile on your My Marketo screen.
 
 ## How to use {#how-to-use}
 
@@ -33,6 +38,32 @@ Audit your programs for best practices across all components, such as emails, la
 
    ![](assets/program-qa-5.png)
 
-The AI Assistant provides a QA of the program selected showing you what passed and what failed.
+   The AI Assistant provides a QA of the program selected showing you what passed and what failed.
 
    ![](assets/program-qa-6.png)
+
+<!--
+   You have three validation paths to choose from:
+
+   | Path | What You Provide | Verification Type | Best For |
+   | --- | --- | --- | --- |
+   | Rules Only | Nothing | Compliance checks | Org compliance & audits |
+   | + Test Plan | Your team's test document | Rules + Custom checks | Team or channel-specific checks |
+   | + Campaign Brief | Campaign brief document | Exact field matching | Pre-launch readiness |
+
+1. To Upload a Test Plan, a Campaign Brief, or both, click the upload icon, add your files and click **Send**. To proceed with rules only, enter "Proceed with Rules Only" in the prompt window and click **Send**. In this example, we are proceeding with rules only.
+
+PICC
+
+1. To start validation, click **Run QA Validation**.
+
+PICC
+
+1. The report generates. To see the full report, click View Full Report.
+
+PICC
+
+1. The report appears in the center console. Scroll down to view. You can also download the report via .docx file.
+
+PICC
+-->

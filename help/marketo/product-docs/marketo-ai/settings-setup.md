@@ -1,6 +1,7 @@
 ---
 description: Learn how to enable Marketo AI permissions, configure organizational rules, and manage settings like integrations and notifications.
 title: Settings and Setup
+beta: yes
 hide: yes
 hidefromtoc: yes
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
@@ -8,6 +9,10 @@ exl-id: faf642a1-25f0-4566-b35d-074b003835ed
 # Settings and setup {#settings-setup}
 
 Learn how to enable permissions and use the Settings area to view connection details, define organizational rules, and set up integrations and notifications.
+
+>[!NOTE]
+>
+>This feature is in open beta and is currently in a phased rollout over the next few months. You will know when it's been enabled for your subscription when you see a _Build with AI_ tile on your My Marketo screen.
 
 ## Permissions and roles {#permission-and-role}
 
