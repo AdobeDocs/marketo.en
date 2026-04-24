@@ -37,9 +37,9 @@ One really cool feature of Marketo forms is that you can dynamically hide/show f
 
 1. Select the operator.
 
-   >[!TIP]
+   >[!NOTE]
    >
-   >This is cool because you can choose fuzzy matches like "[!UICONTROL starts with]."
+   >Available operators are: **Is**, **Is Not**, **Is Empty**, **Is Not Empty**, **Contains**, **Not Contains**.
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
