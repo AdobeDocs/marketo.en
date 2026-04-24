@@ -13,9 +13,9 @@ Sometimes, you want to give API access only to a specific IP address or a range 
 >
 >**Admin Permissions Required**
 
->[!NOTE]
+>[!CAUTION]
 >
->This feature operates independently of Marketo Engage [IP-based login restrictions](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} that are being replaced by Admin Console's [IP-based access control](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. It will continue to function as-is after the Adobe IMS migration.
+>Enabling this feature prevents you from being able to access the [Marketo MCP Server](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"} at this time. This will be fixed in an upcoming release.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
