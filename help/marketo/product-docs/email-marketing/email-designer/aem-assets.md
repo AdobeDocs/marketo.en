@@ -15,6 +15,10 @@ Adobe Experience Manager _Assets as a Cloud Service_ offers an easy-to-use cloud
 >
 >* Licenses for _Assets as a Cloud Service_ and Dynamic Media are required for the integration. Ensure that [Dynamic Media with Open API is enabled](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis). Depending on your contract and configuration, Adobe Experience Manager _Assets as a Cloud Service_ can be accessed directly from Marketo Engage when designing visual content.
 
+>[!IMPORTANT]
+>
+>Assets in your AEM repository must have an **Approved** status before they will be available for use in Marketo Engage. If you've completed the integration setup but don't see any assets, verify that your assets have been approved in AEM.
+
 >[!NOTE]
 >
 >Currently, only image assets from _Adobe Experience Manager Assets_ are supported in Marketo Engage. Changes to the assets must be done from the Adobe Experience Manager Assets central repository. [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
