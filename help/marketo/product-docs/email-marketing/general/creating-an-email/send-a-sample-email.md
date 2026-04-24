@@ -28,7 +28,7 @@ It's quick and easy to send samples of an email. To send a dynamic content email
 
    >[!IMPORTANT]
    >
-   >If you enter multiple email addresses, they will all be visible to every recipient. The first one entered will the main recipient and each subsequent email address will be a CC recipient.
+   >If you enter multiple email addresses, they will all be visible to every recipient. The first one entered will be the main recipient and each subsequent email address will be a CC recipient.
 
    >[!TIP]
    >
