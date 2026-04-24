@@ -7,7 +7,7 @@ feature: Email Programs
 ---
 # Create an Email Program {#create-an-email-program}
 
-Use email programs to quickly and easily send an email to group of people.
+Use email programs to quickly and easily send an email to a group of people.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
