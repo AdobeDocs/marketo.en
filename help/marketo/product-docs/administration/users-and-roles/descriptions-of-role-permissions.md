@@ -209,7 +209,7 @@ View the Marketing Activities tab, campaigns, and campaign folders.
 * List Import
 * Schedule Batch Campaign
 
-Access SEO
+## Access SEO {#access-seo}
 
 * Administer SEO
 * Standard SEO
@@ -222,7 +222,7 @@ Access SEO
 * Web Campaign Editor
 * Web Campaign Launcher
 
-Workspace Administration
+## Workspace Administration {#workspace-administration}
 
 * Admin access for a specific Workspace (only if you have Workspaces enabled)
 * Move assets between Workspaces (only if you have Workspaces enabled)
