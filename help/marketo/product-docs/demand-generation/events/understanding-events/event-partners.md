@@ -20,3 +20,4 @@ See the instructions on integrating your online Marketo Events with your Event P
 * [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
 * [ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
 * [[!DNL GoToWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
+* [Zoom](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
