@@ -70,6 +70,8 @@ Add these IP addresses to your corporate allowlist:
 
 192.28.160.0/19
 
+94.236.119.0/26
+
 199.15.212.0/22
 
 Some anti-spam systems use the email Return-Path field instead of the IP address for allowisting. In those cases, the best approach is to allowlist '&#42;.mktomail.com', as Marketo Engage uses several mailbox subdomains. Other anti-spam systems allowlist based on the From address. In these situations, be sure to include all the sending ('From') domains that your Marketing group uses to communicate with people/leads.
