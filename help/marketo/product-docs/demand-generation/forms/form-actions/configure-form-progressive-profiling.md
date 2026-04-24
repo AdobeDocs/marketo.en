@@ -91,11 +91,3 @@ Short forms are good! When someone comes back to a form, you can present new fie
 Nice job! The work you just did will pay off.
 
 Experiment with this feature and be sure to test. It's advanced, but you can make your forms very dynamic this way.
-
->[!CAUTION]
->
->Progressive profiling relies on the Munchkin cookie to identify returning visitors. If the form is embedded on an external (non-Marketo) page where the Munchkin tracking code is not installed, progressive profiling will not function — all fields will display every time regardless of what data has already been captured. Make sure the Munchkin tracking snippet is present on every page that hosts a progressive profiling form.
-
->[!NOTE]
->
->Progressive profiling does not work in forms embedded within emails. Email clients strip the JavaScript required for progressive profiling to function. For email-embedded forms, all fields will always be shown.
