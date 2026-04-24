@@ -31,20 +31,4 @@ This status blocks a person from mailings for 24 hours after a hard bounce occur
 
 [Use this for people like competitors](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Anyone you want receiving **no** emails—operational, marketing, etc. They get nothing!
 
-## One-Click Unsubscribe (List-Unsubscribe) {#one-click-unsubscribe}
-
->[!IMPORTANT]
->
->As of February 2024, Gmail and Yahoo require bulk senders (5,000+ messages/day) to support one-click unsubscribe via the `List-Unsubscribe-Post` header (RFC 8058). This allows recipients to unsubscribe directly from the email client without visiting a landing page.
-
-Marketo Engage automatically includes the `List-Unsubscribe` header in outgoing emails. The `List-Unsubscribe-Post` header enables one-click unsubscribe directly in the inbox (the "Unsubscribe" button in Gmail, Yahoo, etc.). When a recipient uses this button, Marketo sets the person's **Unsubscribed** field to true.
-
->[!NOTE]
->
->One-click unsubscribe is separate from the unsubscribe link in your email body. Even if your email template includes an unsubscribe link, the List-Unsubscribe header provides an additional unsubscribe mechanism at the mail-client level that recipients may use instead.
-
->[!TIP]
->
->To verify that your emails include the proper headers, send a test email to a Gmail address and view the original message headers (three-dot menu > Show Original). Look for both `List-Unsubscribe` and `List-Unsubscribe-Post` headers.
-
 ![](assets/image2015-5-18-12-3a6-3a40.png)
