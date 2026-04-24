@@ -25,7 +25,7 @@ Pick a word to go at the beginning of the URL for your landing pages. It's just 
 
 The one word (plus YourCompany.com) is called a CNAME. You'll need this later so make a note of it.
 
-## Find your Munchkin ID {#find-your-munchkin-id}
+## Find your Account String {#find-your-account-string}
 
 1. Go to the **Admin** area.
 
@@ -39,15 +39,15 @@ The one word (plus YourCompany.com) is called a CNAME. You'll need this later so
    >
    >**Admin Permissions Required**
 
-1. Scroll down to "Support Information" and copy your Munchkin ID.
+1. Scroll down to "Support Information" and copy your Account String.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
 ## Send Request to IT {#send-request-to-it}
 
-Ask your IT staff to setup the following CNAME: (Replace the word [CNAME] and [Munchkin ID] with the text from the previous step.)
+Ask your IT staff to setup the following CNAME: (Replace the word [CNAME] and [Account String] with the text from the previous step.)
 
-[CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
+[CNAME].YourCompany.com > [Account String].mktoweb.com
 
 ## Complete CNAME Setup {#complete-cname-setup}
 
