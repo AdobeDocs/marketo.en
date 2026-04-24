@@ -75,6 +75,7 @@ In this example, the email will say "Greetings, (first name)" or "Greetings, ear
 * `{{lead.Registration Source Info}}`
 * `{{lead.Registration Source Type}}`
 * `{{lead.Salutation}}`
+* `{{lead.State}}`
 * `{{lead.SFDC Created Date}}`
 * `{{lead.SFDC Is Deleted}}`
 * `{{lead.SFDC Type}}`
@@ -102,7 +103,7 @@ In this example, the email will say "Greetings, (first name)" or "Greetings, ear
 * `{{Company.SFDC Type}}`
 * `{{Company.SIC Code}}`
 * `{{Company.Site}}`
-* `{{Company.State}}`
+* `{{Company.BillingState}}`
 * `{{Company.Website}}`
 * Custom company fields also work if you use their display name ex. `{{Company.Custom Field Name}}`
 
