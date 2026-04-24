@@ -10,7 +10,7 @@ Self-service Flow Steps is a framework and set of features for authoring, publis
 
 ## Onboarding and Managing Services {#onboarding-and-managing-services}
 
-Installing a custom flow step requires Admin permissions in Marketo. Apart from the Installation URL, all other aspects of a serviced may be edited after completing initial onboarding by drilling down into the service detail screen from the Service Providers grid.
+Installing a custom flow step requires Admin permissions in Marketo. Apart from the Installation URL, all other aspects of a service may be edited after completing initial onboarding by drilling down into the service detail screen from the Service Providers grid.
 
 ## Installation URL {#installation-url}
 
@@ -32,7 +32,7 @@ When you save your credentials, Marketo will attempt to call the status endpoint
 
 ## Onboarding Guide (Optional) {#onboarding-guide}
 
-Some service providers will including an optional Onboarding Guide step. This step will include any additional instructions to complete service onboarding which are specific to that service.
+Some service providers will include an optional Onboarding Guide step. This step will include any additional instructions to complete service onboarding which are specific to that service.
 
 ## Field Mapping {#field-mapping}
 
@@ -72,7 +72,7 @@ Some services have either optional or required global configuration options. If 
 
 ## Retiring a Service {#retiring-a-service}
 
-To facilitate transitions to new or alternative versions of a service, without disrupting active usage, services can be retired from the Service Providers menu. **Retiring a Service** removes the corresponding flow step from the Smart Campaign Flow Pallette, so that no new usages of it can be created. In most cases, you should have a replacement service ready to replace the existing one when you choose to retire a service.
+To facilitate transitions to new or alternative versions of a service, without disrupting active usage, services can be retired from the Service Providers menu. **Retiring a Service** removes the corresponding flow step from the Smart Campaign Flow Palette, so that no new usages of it can be created. In most cases, you should have a replacement service ready to replace the existing one when you choose to retire a service.
 
 ## Service Deprecation {#service-deprecation}
 
