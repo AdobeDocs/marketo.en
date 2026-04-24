@@ -29,8 +29,4 @@ Qualification rules control how many times someone can run through the flow in a
    >
    >Communication limits are not applied to Smart Campaigns by default. Learn how to [apply communication limits to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
 
-   >[!NOTE]
-   >
-   >[Apply Communication Limits to Smart Campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}
-
 Mission accomplished! You now know how to control qualification rules in a Smart Campaign.
