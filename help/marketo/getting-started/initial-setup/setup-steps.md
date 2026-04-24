@@ -40,6 +40,10 @@ There are several measures you can take to ensure that the emails reach as many 
 
 If you're using Google Apps to host your corporate email, you won't be able to create abuse@ or postmaster@ emails under your domain. To get around this, you need to create groups named "abuse" and "postmaster". Users that are members of these groups will receive emails sent to those addresses (e.g., <postmaster@domain.com>). Detailed instructions for creating groups can be found [here](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
+>[!IMPORTANT]
+>
+>Before completing the branded tracking link setup in Marketo, you must first submit a support case to Adobe to provision an SSL certificate for your tracking domain. The SSL certificate must be provisioned before the CNAME/tracking link configuration can be completed in Marketo. See [Configure Protocols for Marketo Engage](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) for more details on this process.
+
 Choose a CNAME for email tracking links (choose one that is _different_ from the landing page CNAME you chose in Step 3). Some examples:
 
 * go2.[CompanyDomain].com
