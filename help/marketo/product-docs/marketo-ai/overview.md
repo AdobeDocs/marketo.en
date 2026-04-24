@@ -2,8 +2,6 @@
 description: "Explore the Marketo Engage AI suite of agents designed to automate marketing tasks like program QA, lead import, data normalization, and more."
 title: Marketo Engage AI Overview
 beta: yes
-hide: yes
-hidefromtoc: yes
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
 ---
 # Marketo Engage AI Overview {#overview}
