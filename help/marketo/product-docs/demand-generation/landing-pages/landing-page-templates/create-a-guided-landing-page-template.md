@@ -186,11 +186,11 @@ Optional:
 
 Basic Example:
 
-`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
-
 `<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
 
 Example with all attributes:
+
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
 This example shows a common use case where a boolean variable controls the visibility of a css element by setting the value of css display property to either "block" or "none" to show/hide an element by id with CSS. The landing page editor will use the display name Show/Hide instead of OFF/ON.
 
