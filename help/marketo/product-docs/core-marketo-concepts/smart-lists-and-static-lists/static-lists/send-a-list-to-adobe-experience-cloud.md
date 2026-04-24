@@ -52,6 +52,10 @@ A static list is just that, static. No changes will occur to the list in Adobe E
 
 Syncing a list means any time you update a list in Marketo, that change automatically syncs over to its audience in Adobe Experience Cloud.
 
+>[!NOTE]
+>
+>The **Keep Audience Membership in Sync** option is only available when sending a **Static List** to Adobe Experience Cloud. Smart Lists can be sent as a one-time push, but continuous sync is not supported for Smart Lists.
+
 1. In Marketo, find the list you want to export. Right-click on it and select **[!UICONTROL Send to Experience Cloud]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
