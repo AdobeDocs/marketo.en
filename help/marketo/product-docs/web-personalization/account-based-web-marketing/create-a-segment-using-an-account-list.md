@@ -13,6 +13,10 @@ Here's how to create a segment using an Account List.
 >
 >[Create a New Account List](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
+>[!NOTE]
+>
+>The ability to see Account Lists within Web Personalization requires an additional module called "Web ABM". If you do not see Account Lists as an option, reach out to the Adobe Account Team (your account manager) for assistance. 
+
 1. Go to **[!UICONTROL Segments]**.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
