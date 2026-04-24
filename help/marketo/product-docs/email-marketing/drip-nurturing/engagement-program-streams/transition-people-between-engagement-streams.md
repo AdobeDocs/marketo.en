@@ -48,15 +48,3 @@ Engagement programs can have more than one stream. If you [add a stream](/help/m
    >[!NOTE]
    >
    >The steps outlined above *do* apply to people who are [on pause](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) as well.
-
->[!NOTE]
->
->Transition rules are evaluated at **cast time**, not in real time. If a person qualifies for a transition mid-cast, they still receive the current stream's content for that cast and move to the new stream before the next cast.
-
->[!NOTE]
->
->A person can only belong to **one stream at a time** within an engagement program. They are never in multiple streams simultaneously.
-
->[!IMPORTANT]
->
->When a person transitions to a new stream, they begin receiving content **from the top of that stream**. Even if they have exhausted all content in their current stream, the transition resets their position in the new stream.
