@@ -49,9 +49,9 @@ You can personalize the DKIM signature to reflect the domain(s) of your choice. 
 
    <p>
 
-   >[!TIP]
+   >[!IMPORTANT]
    >
-   >* We recommend a Key Size of 2048.
+   >* We recommend a Key Size of 2048. RSA-1024 keys are no longer accepted by most major ISPs.
    >* If you use a different domain in your From Address, we'll use the Marketo shared DKIM signature.
 
    >[!IMPORTANT]

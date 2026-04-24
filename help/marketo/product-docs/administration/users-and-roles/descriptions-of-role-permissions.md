@@ -48,7 +48,7 @@ View and make changes to settings in the My Account section of Admin.
 * Access New Experience - Gives users access to the New Experience screen
 * Access Marketo Custom Activity - Gives users access to Marketo Custom Activities in Admin
 * Access Marketo Custom Object - Gives users access to Marketo Custom Objects in Admin
-* Access [!DNL Munchkin] - GIves users access to [!DNL Munchkin] in Admin, for setting tracking code, person tracking, and enabling API configuration
+* Access [!DNL Munchkin] - Gives users access to [!DNL Munchkin] in Admin, for setting tracking code, person tracking, and enabling API configuration
 * Access Predictive Audiences - Gives users access to the Predictive Audiences screen
 * Access Revenue Cycle Analytics - Gives users access to Revenue Cycle Analytics in Admin, for setting Sync Summary and Attribution
 * Access Roles - Gives users access to manage and edit roles, but not users
