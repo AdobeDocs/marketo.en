@@ -192,7 +192,7 @@ Use the **[!UICONTROL Offer decision]** component to insert offers into your mes
 
    SCREENSHOT
 
-1. From the drop-down, select your **[!UICONTROL Placements]**.  Then, select the the **[!UICONTROL Offer decision]** you want to add to your content and click **[!UICONTROL Add]**.
+1. From the drop-down, select your **[!UICONTROL Placements]**.  Then, select the **[!UICONTROL Offer decision]** you want to add to your content and click **[!UICONTROL Add]**.
 
    SCREENSHOT
 

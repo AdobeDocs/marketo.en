@@ -33,7 +33,7 @@ You can keep tabs on the current throughput and backlog of the sync process on t
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
-   The display now shows the the number of records synced in the last full hour (for example, 1-2 p.m.).
+   The display now shows the number of records synced in the last full hour (for example, 1-2 p.m.).
 
    ![](assets/image2016-5-19-10-3a22-3a15.png)
 

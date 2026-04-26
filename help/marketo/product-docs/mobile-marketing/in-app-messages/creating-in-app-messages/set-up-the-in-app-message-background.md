@@ -29,7 +29,7 @@ Selecting a message background is an important step in finishing up your in-app 
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Choose from files uploaded to the the Design Studio. Click **[!UICONTROL Select]**.
+1. Choose from files uploaded to the Design Studio. Click **[!UICONTROL Select]**.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 

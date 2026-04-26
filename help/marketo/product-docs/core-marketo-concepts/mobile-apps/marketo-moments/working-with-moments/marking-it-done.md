@@ -21,7 +21,7 @@ Mark an email program, event, or analytics card as [!UICONTROL Done] to remove i
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
-1. Or, swipe the the card either way.
+1. Or, swipe the card either way.
 
    ![](assets/image2015-9-25-9-3a46-3a6.png)
 
