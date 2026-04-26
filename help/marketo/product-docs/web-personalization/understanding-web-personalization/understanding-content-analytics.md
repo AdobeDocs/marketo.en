@@ -43,7 +43,7 @@ The Analytics table provides the following details:
   </tr>
   <tr>
    <td colspan="1"><p><strong>Recommendation </strong><strong>Icon</strong></p><p><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
-   <td colspan="1">Denotes if the the content piece has been added for <a href="#">Content Recommendations</a>.</td>
+   <td colspan="1">Denotes if the content piece has been added for <a href="#">Content Recommendations</a>.</td>
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Views]</strong></p></td>

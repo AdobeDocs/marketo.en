@@ -88,4 +88,4 @@ Email Opt Out is a standard field in [!DNL Salesforce] that's available to insta
 
 The Marketo Sales Opt Out field is a custom field that is available to users that have installed the Marketo [!DNL Sales Connect] Customizations.
 
-Once you have successfully installed the the Marketo [!DNL Sales Connect] Customizations into [!DNL Salesforce] you will see the Marketo Sales Opt Out field available to you.
+Once you have successfully installed the Marketo [!DNL Sales Connect] Customizations into [!DNL Salesforce] you will see the Marketo Sales Opt Out field available to you.

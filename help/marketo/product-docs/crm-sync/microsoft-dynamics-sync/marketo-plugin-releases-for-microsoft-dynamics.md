@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Marketo Plugin Releases for [!DNL Microsoft Dynamics] {#marketo-plugin-releases-for-microsoft-dynamics}
 
-When you first sync to [!DNL Microsoft Dynamics], you download the latest version of the the plugins for Marketo. Periodically, Marketo updates these plugins, so you can return to the same place to download the new version.
+When you first sync to [!DNL Microsoft Dynamics], you download the latest version of the plugins for Marketo. Periodically, Marketo updates these plugins, so you can return to the same place to download the new version.
 
 [Download the latest plugin](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) corresponding to your [!DNL Dynamics] release.
 

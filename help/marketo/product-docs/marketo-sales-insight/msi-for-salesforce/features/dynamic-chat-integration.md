@@ -18,7 +18,7 @@ Learn more about the Dynamic Chat integration with Sales Insight.
 
 ## [!DNL Marketo Sales Insight] Configuration Tab {#marketo-sales-insight-configuration-tab}
 
-Follow the steps below to to enable the [!DNL Dynamic Chat] integration.
+Follow the steps below to enable the [!DNL Dynamic Chat] integration.
 
 1. Log in to your [!DNL Salesforce] account, click the + at the end of the tab bar and click **[!DNL Marketo Sales Insight Config]**.
 

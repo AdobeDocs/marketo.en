@@ -50,7 +50,7 @@ Click your profile icon to change your language or other Adobe-wide preferences.
 
 ## FAQ {#faq}
 
-**I can't log in to [!DNL Marketo Engage] through the the Experience Cloud Interface. What might the issue be?**
+**I can't log in to [!DNL Marketo Engage] through the Experience Cloud Interface. What might the issue be?**
 
 If you can log in to Adobe Experience Cloud, but then see "Failed to load page" error, the issue could be on the [!DNL Marketo Engage] side. Please contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) for assistance.
 

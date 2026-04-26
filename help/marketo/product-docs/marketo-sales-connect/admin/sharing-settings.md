@@ -17,7 +17,7 @@ When [!UICONTROL Sharing Settings] are enabled, only admins will be able to shar
 
 ## Configure Your Sharing Settings {#configure-your-sharing-settings}
 
-1. In the the [web application](https://toutapp.com/login), go to the [!UICONTROL Settings] page.
+1. In the [web application](https://toutapp.com/login), go to the [!UICONTROL Settings] page.
 
    ![](assets/one-2.png)
 
