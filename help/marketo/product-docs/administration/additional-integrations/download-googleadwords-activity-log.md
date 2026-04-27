@@ -7,7 +7,7 @@ feature: Administration
 ---
 # Download [!DNL Google Adwords] Activity Log {#download-googleadwords-activity-log}
 
-Stuff happens. Sometimes you need to download the activity log to troubleshoot issues.
+Learn how to download the activity log to troubleshoot issues.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -21,4 +21,4 @@ Stuff happens. Sometimes you need to download the activity log to troubleshoot i
 
    ![](assets/download-googleadwords-activity-log-3.png)
 
-1. A .zip file will be downloaded to your computer.
+1. A .zip file downloads to your computer.

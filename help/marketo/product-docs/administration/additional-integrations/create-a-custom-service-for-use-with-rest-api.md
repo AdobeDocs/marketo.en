@@ -7,7 +7,7 @@ feature: Administration
 ---
 # Create a Custom Service for Use with ReST API {#create-a-custom-service-for-use-with-rest-api}
 
-If you want to integrate with Marketo via the ReST API, you'll want to create a custom service. Here's how.
+If you want to integrate with Marketo via the ReST API, create a custom service.
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ If you want to integrate with Marketo via the ReST API, you'll want to create a 
 
 >[!TIP]
 >
->Check out our developers documentation for details on the [REST API](https://developer.adobe.com/marketo-apis/). We also have the [SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) if that's what you need.
+>See the Developers documentation for details on the [REST API](https://developer.adobe.com/marketo-apis/).
 
 ## Create Custom Service {#create-custom-service}
 
@@ -41,15 +41,11 @@ If you want to integrate with Marketo via the ReST API, you'll want to create a 
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
-   >[!NOTE]
-   >
-   >Notice that we already have native integration for popular webinar services.
-
 1. Click **[!UICONTROL Create]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
-   Oh yeah! The service is now created, let's go ahead and get all the credentials to provide for access.
+   The service is now created. Retrieve the credentials to provide for access.
 
 ## Credentials for API Access {#credentials-for-api-access}
 
@@ -75,4 +71,4 @@ If you want to integrate with Marketo via the ReST API, you'll want to create a 
 
 >[!CAUTION]
 >
->Don't share this information; it's the backdoor to your data. Keep it safe!
+>Do not share this information, as it provides access to your data.

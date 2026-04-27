@@ -2,14 +2,16 @@
 unique-page-id: 2360352
 description: "Set the SOAP API encryption key and get endpoint details in Admin Web Services for developers."
 title: Configuring Your SOAP API Settings
+hide: yes
+hidefromtoc: yes
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
 ---
 # Configuring Your SOAP API Settings {#configuring-your-soap-api-settings}
 
->[!NOTE]
+>[!IMPORTANT]
 >
->We suggest using the REST API. Learn more on [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
+>The SOAP API is [being deprecacted](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) on July 31, 2026. It is recommended to use the [REST API](https://developer.adobe.com/marketo-apis/) instead.
 
 >[!NOTE]
 >
@@ -29,8 +31,4 @@ feature: Administration
 
 >[!CAUTION]
 >
->Your SOAP endpoint and [!UICONTROL User ID] will be unique; do not send the screenshot in this article to your Developer.
-
->[!MORELIKETHIS]
->
->[SOAP API Documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)
+>Your SOAP endpoint and [!UICONTROL User ID] are unique; do not send the screenshot in this article to your Developer.

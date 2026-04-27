@@ -9,7 +9,7 @@ feature: SEO
 ---
 # SEO - Exporting Keyword Results {#seo-exporting-keyword-results}
 
-You can export your keyword results to share with your team or to create a report.
+Learn how to export keyword results to share with your team or create a report.
 
 >[!IMPORTANT]
 >

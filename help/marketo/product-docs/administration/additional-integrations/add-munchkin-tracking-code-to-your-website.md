@@ -11,7 +11,7 @@ Marketo's custom JavaScript tracking code, called [!DNL Munchkin], tracks all in
 
 >[!PREREQUISITES]
 >
->Please ensure that you have access to an experienced JavaScript developer. Marketo Technical Support is not set up to assist with troubleshooting custom JavaScript.
+>Ensure you have access to an experienced JavaScript developer. Marketo Technical Support is not set up to assist with troubleshooting custom JavaScript.
 
 ## Add Tracking Code to Your Website {#add-tracking-code-to-your-website}
 
@@ -35,13 +35,13 @@ Marketo's custom JavaScript tracking code, called [!DNL Munchkin], tracks all in
    >
    >In almost all cases, you should use the asynchronous code. [Learn more](#types-of-munchkin-tracking-codes).
 
-1. Click and copy the Javascript tracking code to put on your website.
+1. Copy the JavaScript tracking code to add to your website.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-4.png)
 
    >[!CAUTION]
    >
-   >Don't use the code shown in this screenshot - you must use the unique code that appears in your account!
+   >Do not use the code shown in this screenshot - you must use the unique code that appears in your account.
 
    >[!TIP]
    >
@@ -53,11 +53,11 @@ Marketo's custom JavaScript tracking code, called [!DNL Munchkin], tracks all in
 
    >[!TIP]
    >
-   >For sites that see a high volume of traffic (i.e., hundreds of thousands of visits per month), we recommend you opt not to track anonymous people. [Learn more](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+   >For sites that see a high volume of traffic (that is, hundreds of thousands of visits per month), it is recommended you opt not to track anonymous people. [Learn more](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Add Tracking Code When Using Multiple Workspaces {#add-tracking-code-when-using-multiple-workspaces}
 
-If you're using Workspaces in your Marketo account, you probably also have separate web presences that correspond to your workspaces. In that case, you can use the [!DNL Munchkin] tracking Javascript to assign your anonymous people to the correct workspace and partition.
+If you are using Workspaces in your Marketo account, you probably also have separate web presences that correspond to your workspaces. In that case, you can use the [!DNL Munchkin] tracking Javascript to assign your anonymous people to the correct workspace and partition.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -73,21 +73,21 @@ If you're using Workspaces in your Marketo account, you probably also have separ
 
    >[!NOTE]
    >
-   >If you don't use the special workspace [!DNL Munchkin] code, the people will be assigned to the default partition that was created when your account was set up. It's named "[!UICONTROL Default]" initially, but you might have changed that in your own Marketo account.
+   >If you do not use the special workspace [!DNL Munchkin] code, the people will be assigned to the default partition that was created when your account was set up. It is named '[!UICONTROL Default]' by default, but this name may have been changed.
 
 1. Select **[!UICONTROL Asynchronous]** for **[!UICONTROL Tracking Code Type]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
-1. Click and copy the JavaScript tracking code to put on your website.
+1. Copy the JavaScript tracking code to add to your website.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-10.png)
 
    >[!CAUTION]
    >
-   >Don't use the code shown in this screenshot - you must use the unique code that appears in your account!
+   >Do not use the code shown in this screenshot - you must use the unique code that appears in your account.
 
-1. Place the tracking code on your web pages in the `<head>` element. New people that visit this page will be assigned to this partition.
+1. Place the tracking code on your web pages in the `<head>` element. New people that visit this page are assigned to this partition.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-11.png)
 
@@ -97,7 +97,7 @@ If you're using Workspaces in your Marketo account, you probably also have separ
 
    >[!NOTE]
    >
-   >Landing pages created in Marketo automatically contain tracking code, so you don't need to put this code on them.
+   >Landing pages created in Marketo automatically contain tracking code. You do not need to add this code to them.
 
 ## Types of [!DNL Munchkin] Tracking Codes {#types-of-munchkin-tracking-codes}
 
@@ -109,7 +109,7 @@ There are three types of [!DNL Munchkin] tracking codes you can choose from. Eac
 
 ## Test if Your [!DNL Munchkin] Code is Working {#test-if-your-munchkin-code-is-working}
 
-To check that your [!DNL Munchkin] code is working after you've added it:
+To check your [!DNL Munchkin] code is working after you have added it:
 
 1. Visit your web page.
 
@@ -135,4 +135,4 @@ To check that your [!DNL Munchkin] code is working after you've added it:
 
    >[!NOTE]
    >
-   >If you don't see any data, wait a few minutes, then click the [!UICONTROL refresh] icon at the bottom.
+   >If you do not see any data, wait a few minutes, then click the [!UICONTROL refresh] icon at the bottom.

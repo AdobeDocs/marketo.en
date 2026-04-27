@@ -33,11 +33,11 @@ Marketo Engage manages your [!DNL Webex] webinar registration and attendance. Yo
 
    ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
-1. Webex will open in a new tab. Log in using your Webex credentials.
+1. Webex opens in a new tab. Log in using your Webex credentials.
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
-1. Upon successful login, the tab will close and the _New Service_ modal in Marketo Engage will read "Webex Webinars account is set." Click **[!UICONTROL Create]**.
+1. Upon successful login, the tab closes and the _New Service_ modal in Marketo Engage reads "Webex Webinars account is set." Click **[!UICONTROL Create]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-7.png)
 

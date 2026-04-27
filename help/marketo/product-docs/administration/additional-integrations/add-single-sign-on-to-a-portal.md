@@ -7,11 +7,11 @@ feature: Administration
 ---
 # Add Single Sign-On to a Portal {#add-single-sign-on-to-a-portal}
 
-If you have a directory service that authenticates users, you can allow single sign-on (SSO) into Marketo. We support this feature using [!DNL Security Assertion Markup Language] (SAML) version 2.0 and higher.
+If you have a directory service that authenticates users, you can allow single sign-on (SSO) into Marketo. Marketo supports this feature using [!DNL Security Assertion Markup Language] (SAML) version 2.0 and higher.
 
 Marketo functions as a SAML Service Provider (SP), and depends on an external Identity Provider (IdP) to authenticate users.
 
-Once SSO is enabled, the IdP can validate a user's credentials. When a user wishes to use Marketo software, the IdP then sends a signed SAML message to Marketo, acting as the SP. This message vouchsafes to Marketo that the user is authorized to use Marketo software.
+Once SSO is enabled, the IdP can validate a user's credentials. When a user wishes to use Marketo software, the IdP then sends a signed SAML message to Marketo, acting as the SP. This message confirms to Marketo that the user is authorized to use Marketo software.
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 
 >[!IMPORTANT]
 >
->This does **not** apply to subscriptions onboarded to Adobe Identity. Previous settings may appear (from prior to the IMS migration), but they no longer apply. For subscriptions onboarded to Adobe Identity, Single Sign On is set up at the Adobe Org level in Adobe Admin Console. [Learn more here](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+>This does **not** apply to subscriptions onboarded to Adobe Identity. Previous settings may appear (from prior to the IMS migration), but they no longer apply. For subscriptions onboarded to Adobe Identity, [Single Sign On is set up](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} at the Adobe Org level in Adobe Admin Console.
 
 >[!NOTE]
 >
->Are you a [!DNL Microsoft Azure] user? Check out their [integration tutorial](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. FYI, there is a typo in Step 5c of their tutorial. Please set the Relay State to `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`.
+>Are you a [!DNL Microsoft Azure] user? Check out their [integration tutorial](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Note that there is a typo in Step 5c of their tutorial. Set the Relay State to `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`.
 
 ## How to Send the Request {#how-to-send-the-request}
 
@@ -42,7 +42,7 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 * **User Provisioning** - Users are provisioned manually by Marketo.
 * **Authorization** - User permissions are maintained within Marketo.
 * **OAuth support** - Marketo does not currently support OAuth.
-* **Automatic User Propagation** - Also known as "Just in Time Provisioning," this is when a user's first SAML login is capable of creating the user in whatever web application they're accessing (e.g., Marketo) and no manual admin action is required. This is not supported by Marketo at this time.
+* **Automatic User Propagation** - Also known as "Just in Time Provisioning," this is when a user's first SAML login is capable of creating the user in whatever web application they are accessing (for example, Marketo) and no manual admin action is required. This is not supported by Marketo at this time.
 * **Encryption** - Marketo does not currently support encryption.
 
 >[!NOTE]
@@ -63,7 +63,7 @@ SSO is disabled by default. Follow these steps to enable SAML and configure it.
 
    >[!NOTE]
    >
-   >If you don't see **[!UICONTROL Single Sign-On]** under **[!UICONTROL Admin]**, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >If you do not see **[!UICONTROL Single Sign-On]** under **[!UICONTROL Admin]**, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Under the **[!UICONTROL SAML Settings]** section, click **[!UICONTROL Edit]**.
 

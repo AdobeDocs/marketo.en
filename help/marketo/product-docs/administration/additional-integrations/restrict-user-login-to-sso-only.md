@@ -7,7 +7,7 @@ feature: Administration
 ---
 # Restrict User Login to SSO Only {#restrict-user-login-to-sso-only}
 
-If you're [using SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) and want to ensure users cannot bypass the SSO security, follow these instructions.
+If you are [using SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) and want to ensure users cannot bypass the SSO security, follow these instructions.
 
 >[!IMPORTANT]
 >
@@ -39,13 +39,13 @@ If you're [using SSO](/help/marketo/product-docs/administration/additional-integ
 
 >[!TIP]
 >
->If you select **[!UICONTROL Require SSO]**, you can exclude a [user role](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) from this restriction by checking the **[!UICONTROL Bypass Single Sign-On]** option while setting up the role. This will allow users to sign in normally. For example, Admin users may still need to log into Marketo through the login screen. If both SSO and Universal ID are enabled, you must have the "Bypass Single Signed On" permission set to toggle between subscriptions.
+>If you select **[!UICONTROL Require SSO]**, you can exclude a [user role](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) from this restriction by checking the **[!UICONTROL Bypass Single Sign-On]** option while setting up the role. This allows users to sign in normally. For example, Admin users may still need to log into Marketo through the login screen. If both SSO and Universal ID are enabled, you must have the "Bypass Single Signed On" permission set to toggle between subscriptions.
 
 >[!CAUTION]
 >
->When new users are invited, they receive invite emails. However, if **[!UICONTROL Require SSO]** is selected, they won't receive these emails, unless they are assigned to a role which is set to **[!UICONTROL Bypass Single Sign-On]**.
+>When new users are invited, they receive invite emails. However, if **[!UICONTROL Require SSO]** is selected, they do not receive these emails, unless they are assigned to a role which is set to **[!UICONTROL Bypass Single Sign-On]**.
 
-That's it! Now all users (except users with permission to bypass single sign-on) will be restricted to using SSO login only.
+Now all users (except users with permission to bypass single sign-on) are restricted to using SSO login only.
 
 >[!MORELIKETHIS]
 >

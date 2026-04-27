@@ -9,7 +9,7 @@ feature: SEO
 ---
 # SEO - Use the Keyword Trends Report {#seo-use-the-keyword-trends-report}
 
-In this report, you can see how you are ranked on keywords over time.
+See how your keywords rank over time.
 
 >[!IMPORTANT]
 >
@@ -26,22 +26,20 @@ In this report, you can see how you are ranked on keywords over time.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Click on **[!UICONTROL Keyword Rank Trends]**.
+1. Click **[!UICONTROL Keyword Rank Trends]**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
-   Here it is:
-
    ![](assets/image2014-9-18-14-3a13-3a22.png)
 
-   Report Items Described:
+   **Report Items**
 
    | Item |Description |
    |---|---|
    | [!UICONTROL Keywords]  |The number of keywords you are tracking. |
-   | [!UICONTROL Ranking URLs]  |The number of URLs on your site ranking in the range you've set.  |
-   | [!UICONTROL Avg. rank]  |The average rank of keywords in the range you've set.  |
-   | [!UICONTROL Avg. searches]  |The average number of searches on those keywords that occurred during the range you set (in the last 30 days), on Google US search |
+   | [!UICONTROL Ranking URLs]  |The number of URLs on your site ranking in the range you have set.  |
+   | [!UICONTROL Avg. rank]  |The average rank of keywords in the range you have set.  |
+   | [!UICONTROL Avg. searches]  |The average number of searches on those keywords that occurred during the range you set (in the last 30 days) on the Google US search |
 
 ## Filtering Data {#filtering-data}
 
@@ -49,7 +47,7 @@ In this report, you can see how you are ranked on keywords over time.
 
    ![](assets/image2014-9-18-14-3a13-3a40.png)
 
-1. Click the Rank drop-down to chose which rank range you want to view keywords for.
+1. Click the Rank drop-down to choose which rank range you want to view keywords for.
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 

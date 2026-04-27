@@ -31,7 +31,7 @@ Use [!DNL Webhooks] to take advantage of third-party web services to send text m
 
    * **[!UICONTROL URL]**: Enter the URL you use in your request to the web service. To insert a token, such as the person's email address (**`{{lead.Email Address}}`**), in your request, click **[!UICONTROL Insert Token]**.
 
-   * **[!UICONTROL Template]**: If you wish to transmit information in the body of the request, enter via the payload template. Templates permitted for the following request types: POST, DELETE, PATCH, or PUT. You may use data formats such as JSON or XML. To insert a token in your template, click **[!UICONTROL Insert Token]**.
+   * **[!UICONTROL Template]**: If you want to transmit information in the body of the request, enter via the payload template. Templates permitted for the following request types: POST, DELETE, PATCH, or PUT. You may use data formats such as JSON or XML. To insert a token in your template, click **[!UICONTROL Insert Token]**.
 
    * **[!UICONTROL Request Token Encoding]**: If the token values include special characters (such as an ampersand, '&'), indicate the format of your request (**JSON** or **Form/Url**).
 

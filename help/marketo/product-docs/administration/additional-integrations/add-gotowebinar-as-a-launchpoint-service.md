@@ -53,7 +53,7 @@ Marketo manages your [!DNL GoToWebinar] registration and attendance.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 
-1. Great! Your **[!UICONTROL GoToWebinar]** account is now synced with Marketo.
+1. Your **[!UICONTROL GoToWebinar]** account is now synced with Marketo.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-8.png)
 

@@ -7,7 +7,7 @@ feature: Administration, Integrations
 ---
 # Add [!DNL Google AdWords] as a [!DNL LaunchPoint] Service {#add-google-adwords-as-a-launchpoint-service}
 
-Link your [!DNL Google AdWords] account to Marketo to automatically upload offline conversion data from Marketo to [!DNL Google AdWords]. Then, from the [!DNL AdWords] UI, you will be able to easily see which clicks resulted in qualified leads, opportunities, and new customers (or whatever revenue stages you want to track) after you [add custom columns](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. This information does not appear in the Marketo UI.
+Link your [!DNL Google AdWords] account to Marketo to automatically upload offline conversion data from Marketo to [!DNL Google AdWords]. Then, from the [!DNL AdWords] UI, you can see which clicks resulted in qualified leads, opportunities, and new customers (or whatever revenue stages you want to track) after you [add custom columns](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. This information does not appear in the Marketo UI.
 
 Learn more about [Google's offline conversion import feature](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
@@ -55,7 +55,7 @@ Learn more about [Google's offline conversion import feature](https://support.go
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-7.png)
 
-1. Status will display as **[!UICONTROL Success]**. Select **[!UICONTROL Next]**.
+1. Status displays as **[!UICONTROL Success]**. Select **[!UICONTROL Next]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-8.png)
 
@@ -84,7 +84,7 @@ Learn more about [Google's offline conversion import feature](https://support.go
    >
    >[Auto-tagging](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} must be selected for this feature to work. Deactivation must be done inside [!DNL AdWords].
 
-Great! Now see the Related Article below to learn how to map [!DNL AdWords] offline conversions in your revenue model.
+See the Related Article below to learn how to map [!DNL AdWords] offline conversions in your revenue model.
 
    >[!MORELIKETHIS]
    >

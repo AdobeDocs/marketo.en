@@ -47,11 +47,11 @@ Marketo manages your Adobe Connect webinar registration and attendance.
 
    >[!TIP]
    >
-   >When you create the participant password, the value you choose is included in a query string when the links are sent out for the event. So, we suggest that you make it customer-friendly.
+   >When you create the participant password, the value you choose is included in a query string when the links are sent out for the event. It is suggested that you make it customer-friendly.
 
    >[!NOTE]
    >
-   >Once you've logged into your Adobe Connect account, select the **[!UICONTROL Seminars]** tab. Without drilling down into any specific seminar, copy the URL from your browser bar into the **[!UICONTROL Meeting Folder URL]** setting.
+   >After you log in to your Adobe Connect account, select the **[!UICONTROL Seminars]** tab. Without drilling down into any specific seminar, copy the URL from your browser bar into the **[!UICONTROL Meeting Folder URL]** setting.
 
 Your Adobe Connect Service is now synced with Marketo!
 
