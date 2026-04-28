@@ -23,7 +23,7 @@ Filter by time frame, asset type, users, action taken, and more.
 
    >[!NOTE]
    >
-   >There are a multitude of possible search parameter combinations. In this example we locate: _all emails - edited by anyone - in the previous seven days_.
+   >There is a multitude of possible search parameter combinations. This example locates: _all emails - edited by anyone - in the previous seven days_.
 
 1. Click the **[!UICONTROL Period]** drop-down and select **[!UICONTROL Last 7 Days]**.
 
@@ -33,7 +33,7 @@ Filter by time frame, asset type, users, action taken, and more.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Click the **A[!UICONTROL ]ctions** drop-down and select **[!UICONTROL Edit]**.
+1. Click the **[!UICONTROL Actions]** drop-down and select **[!UICONTROL Edit]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
@@ -45,11 +45,9 @@ Filter by time frame, asset type, users, action taken, and more.
 
    ![](assets/filtering-in-audit-trail-8.png)
 
-   That's it!
-
    >[!NOTE]
    >
-   >If you have workspaces enabled, you will see audit data for all workspaces. If you apply a workspace filter, Marketo remembers the previous workspace value each time you use audit trail. Workspace permissions at the asset level are enforced.
+   >If you have workspaces enabled, you see audit data for all workspaces. If you apply a workspace filter, Marketo remembers the previous workspace value each time you use Audit Trail. Workspace permissions at the asset level are enforced.
 
    >[!MORELIKETHIS]
    >

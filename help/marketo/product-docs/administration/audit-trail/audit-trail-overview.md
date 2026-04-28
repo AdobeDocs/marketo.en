@@ -19,15 +19,15 @@ Audit Trail gives you the ability to obtain a complete history (six months' wort
 
 Audit Trail captures, in real-time, a comprehensive list of actions and events occurring within a Marketo subscription. It includes a self-serve way to access a six-month history of data to help answer questions such as:
 
-What happened to this asset or setting, and who last updated it?
+"What happened to this asset or setting, and who last updated it?"
 
-What has user X been up to?
+"What has user X been up to?"
 
-Who is logging into our account?
+"Who is logging into our account?"
 
 ## What We Audit {#what-we-audit}
 
-Marketo will audit the [create, edit and delete](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) actions for:
+Marketo audits the [create, edit, and delete](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) actions for:
 
 * Design studio assets
 * All Marketo programs
@@ -56,11 +56,11 @@ Monitor user-based details.
 
 **3) [User Login History](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
-See who's been logging into your subscription and when. Also includes failed login attempts.
+See who's been logging into your subscription and when (also includes failed login attempts).
 
 >[!TIP]
 >
->There's so much you can audit using Audit Trail, be sure to utilize [Filtering](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
+>Since there's so much you can audit using Audit Trail, [filtering](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) can be a big time-saver.
 
 ## Exporting Data {#exporting-data}
 
@@ -72,7 +72,7 @@ You can only view 30 days' worth of data in your instance. To obtain (up to) six
 >
 >**Definition**
 >
->**Unknown:** In [!DNL Webhook], you may see a user's name and email listed as "Unknown." This happens when you make a change to your picklist values in your CRM. These values appear in Marketo forms and landing pages. Doing this update on the CRM side will auto-draft your landing pages referencing the form. In [!DNL Webhook], we will capture that the landing page was drafted, but the user's name and email will show as "Unknown," as we are not able to capture the user info from the CRM side.
+>**Unknown:** In [!DNL Webhook], you may see a user's name and email listed as "Unknown." This happens when you make a change to your picklist values in your CRM. These values appear in Marketo forms and landing pages. Doing this update on the CRM side will auto-draft your landing pages referencing the form. In [!DNL Webhook], Marketo captures that the landing page was drafted, but the user's name and email will show as "Unknown," as Marketo is not able to capture the user info from the CRM side.
 
 >[!MORELIKETHIS]
 >

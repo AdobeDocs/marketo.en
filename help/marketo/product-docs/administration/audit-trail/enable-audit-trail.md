@@ -59,15 +59,15 @@ Audit Trail is available to all customers and controlled by two admin permission
 
    >[!NOTE]
    >
-   >This process also applies when you're creating a new user.
+   >This process also applies when you are creating a new user.
 
-1. Select the Audit Trail roles you created. In this example we created "Audit Trail - Asset and Admin," and "Audit Trail - With Login History."
+1. Select the Audit Trail roles you created. This example shows creating "Audit Trail - Asset and Admin," and "Audit Trail - With Login History."
 
    ![](assets/enable-audit-trail-7.png)
 
    >[!CAUTION]
    >
-   >If you have workspaces enabled, make sure to check the role's checkbox, which selects all workspaces. Deselecting an individual workspace will hide Audit Trail. This means you will see Audit Trail data for every workspace. You do have the option of hiding workspaces when [filtering](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
+   >If you have workspaces enabled, make sure to check the role's checkbox, which selects all workspaces. Deselecting an individual workspace hides Audit Trail. You do have the option of hiding workspaces when [filtering](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Click **[!UICONTROL Save]**.
 

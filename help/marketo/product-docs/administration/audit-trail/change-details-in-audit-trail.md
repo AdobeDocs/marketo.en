@@ -7,7 +7,7 @@ feature: Audit Trail
 ---
 # Change Details in Audit Trail {#change-details-in-audit-trail}
 
-Audit Trail offers a great deal of insight into who's doing what in your Marketo subscription. Here are the details.
+Audit Trail offers a great deal of insight into who is doing what in your Marketo subscription.
 
 ## Asset Audit Trail {#asset-audit-trail}
 
@@ -70,15 +70,15 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
   </tr>
   <tr>
    <td colspan="1">Modify program setup</td>
-   <td colspan="1">Add period cost value “#” program month “yyyy-mm”</td>
+   <td colspan="1">Add period cost value "#" program month "yyyy-mm"</td>
   </tr>
   <tr>
    <td colspan="1">Modify program setup</td>
-   <td colspan="1">Edit period cost New cost value “#”, New program month "yyyy-mm", Old cost value “#”, Old program month “yyyy-mm”</td>
+   <td colspan="1">Edit period cost New cost value "#", New program month "yyyy-mm", Old cost value "#", Old program month "yyyy-mm"</td>
   </tr>
   <tr>
    <td colspan="1">Modify program setup</td>
-   <td colspan="1">Delete period cost. Value “#” program month "yyyy-mm"</td>
+   <td colspan="1">Delete period cost. Value "#" program month "yyyy-mm"</td>
   </tr>
   <tr>
    <td>Export</td>
@@ -219,15 +219,15 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
   </tr>
   <tr>
    <td colspan="1">Modify program setup</td>
-   <td colspan="1">Add period cost value “#” program month “yyyy-mm”</td>
+   <td colspan="1">Add period cost value "#" program month "yyyy-mm"</td>
   </tr>
   <tr>
    <td colspan="1">Modify program setup</td>
-   <td colspan="1">Edit period cost New cost value “#”, New program month "yyyy-mm", Old cost value “#”, Old program month “yyyy-mm”</td>
+   <td colspan="1">Edit period cost New cost value "#", New program month "yyyy-mm", Old cost value "#", Old program month "yyyy-mm"</td>
   </tr>
   <tr>
    <td colspan="1">Modify program setup</td>
-   <td colspan="1">Delete period cost. Value “#” program month "yyyy-mm"</td>
+   <td colspan="1">Delete period cost. Value "#" program month "yyyy-mm"</td>
   </tr>
   <tr>
    <td rowspan="8">Email Template</td>
@@ -297,7 +297,7 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
   </tr>
   <tr>
    <td>Modify program stream</td>
-   <td>Add content<br>Steam name "stream name"<br>Type "Email" or "Program"<br>Name "email name" or "program name"<br>Smart Campaign "smart campaign name"</td>
+   <td>Add content<br>Stream name "stream name"<br>Type "Email" or "Program"<br>Name "email name" or "program name"<br>Smart Campaign "smart campaign name"</td>
   </tr>
   <tr>
    <td>Modify program stream</td>
@@ -341,15 +341,15 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
   </tr>
   <tr>
    <td colspan="1">Modify program setup</td>
-   <td colspan="1">Add period cost value “#” program month “yyyy-mm”</td>
+   <td colspan="1">Add period cost value "#" program month "yyyy-mm"</td>
   </tr>
   <tr>
    <td colspan="1">Modify program setup</td>
-   <td colspan="1">Edit period cost New cost value “#”, New program month "yyyy-mm", Old cost value “#”, Old program month “yyyy-mm”</td>
+   <td colspan="1">Edit period cost New cost value "#", New program month "yyyy-mm", Old cost value "#", Old program month "yyyy-mm"</td>
   </tr>
   <tr>
    <td colspan="1">Modify program setup</td>
-   <td colspan="1">Delete period cost. Value “#” program month "yyyy-mm"</td>
+   <td colspan="1">Delete period cost. Value "#" program month "yyyy-mm"</td>
   </tr>
   <tr>
    <td>Export</td>
@@ -406,23 +406,23 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
   </tr>
   <tr>
    <td>Modify program setup</td>
-   <td>Delete analytics Behavior "behavior name"</td>
+   <td>Delete analytics behavior "behavior name"</td>
   </tr>
   <tr>
    <td colspan="1">Modify program setup</td>
-   <td colspan="1">Add period cost value “#” program month “yyyy-mm”</td>
+   <td colspan="1">Add period cost value "#" program month "yyyy-mm"</td>
   </tr>
   <tr>
    <td colspan="1">Modify program setup</td>
-   <td colspan="1">Edit period cost New cost value “#”, New program month "yyyy-mm", Old cost value “#”, Old program month “yyyy-mm”</td>
+   <td colspan="1">Edit period cost New cost value "#", New program month "yyyy-mm", Old cost value "#", Old program month "yyyy-mm"</td>
   </tr>
   <tr>
    <td colspan="1">Modify program setup</td>
-   <td colspan="1">Delete period cost. Value “#” program month "yyyy-mm"</td>
+   <td colspan="1">Delete period cost. Value "#" program month "yyyy-mm"</td>
   </tr>
   <tr>
    <td colspan="1">Modify program setup</td>
-   <td colspan="1">Added event partner ‘partner_name’</td>
+   <td colspan="1">Added event partner 'partner_name'</td>
   </tr>
   <tr>
    <td>Export</td>
@@ -624,7 +624,7 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
    <td>Cloned to "Programs" into program "program name" <br>Cloned asset name "name"<br>or<br>Cloned to "Folder" into folder "folder name"<br>Cloned asset name "name"</td>
   </tr>
   <tr>
-   <td>Modify smartlist setup</td>
+   <td>Modify Smart List setup</td>
    <td>Shows snapshot of current state, including names and values of filters and triggers</td>
   </tr>
   <tr>
@@ -661,7 +661,7 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
    <td>Cloned to "Person Database" into folder "foldername" <br>Cloned asset name "name"<br>or<br>Cloned to "Marketing Activities" into program "program name" <br>Cloned asset name "name"</td>
   </tr>
   <tr>
-   <td>Modify smartlist setup</td>
+   <td>Modify Smart List setup</td>
    <td>Shows snapshot of current state, including names and values of filters and triggers </td>
   </tr>
   <tr>
@@ -743,7 +743,7 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
   <tr>
    <td>Password Strength</td>
    <td>Edit</td>
-   <td>Password security changed to template: Standard Security, min length: #, lower-upper: #, number: #, mixed case: # , expiration : #, session timeout: #</td>
+   <td>Password security changed to template: Standard Security, min length: #, lower-upper: #, number: #, mixed case: #, expiration: #, session timeout: #</td>
   </tr>
   <tr>
    <td rowspan="3">Role<br><br></td>
@@ -756,17 +756,17 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
   </tr>
   <tr>
    <td>Edit</td>
-   <td>Role Edited from "previous name" to "new name"  (NOTE: if you need details about permissions edited, please contact support) - <br>shows snapshot of permissions assigned to the role<br></td>
+   <td>Role edited from "previous name" to "new name"  (NOTE: if you need details about permissions edited, please contact support) - <br>shows snapshot of permissions assigned to the role<br></td>
   </tr>
   <tr>
-   <td>Smartlist Report</td>
+   <td>Smart List Report</td>
    <td>Edit</td>
-   <td>SmarList edited for login to download: "true or false"</td>
+   <td>Smart List edited for login to download: "true or false"</td>
   </tr>
   <tr>
    <td rowspan="7">User<br><br><br><br></td>
    <td>Create (invite)</td>
-   <td>User Invited with: Email "email address", Name "first and last name", Access Expires "blank or with a date", API User "true or false" - <br>shows snapshot of roles and workspaces assigned to the user</td>
+   <td>User invited with: Email "email address", Name "first and last name", Access Expires "blank or with a date", API User "true or false" - <br>shows snapshot of roles and workspaces assigned to the user</td>
   </tr>
   <tr>
    <td colspan="1">Delete</td>

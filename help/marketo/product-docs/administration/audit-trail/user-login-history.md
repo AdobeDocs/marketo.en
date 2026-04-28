@@ -16,7 +16,7 @@ The User Login History helps maintain accountability and security by showing you
 The User Login History identifies people who log in by:
 
 * Login Time and Date
-* User's name and email address
+* User's Name and Email Address
 * Role
 * Workspace
 * IP Address
@@ -43,7 +43,7 @@ To view the User Login History:
 
    ![](assets/user-login-history-5.png)
 
-1. Or, choose from the drop-down.
+1. Or choose from the drop-down.
 
    ![](assets/user-login-history-6.png)
 
@@ -61,7 +61,7 @@ To view the User Login History:
 
    >[!NOTE]
    >
-   >The user interface displays up to 30 days of data. If you need more, you can download the most recent six months of data to a csv file.
+   >The user interface displays up to 30 days of data. If you need more, you can download the most recent six months of data to a CSV file.
 
    >[!MORELIKETHIS]
    >
