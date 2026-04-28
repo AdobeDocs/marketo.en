@@ -1,7 +1,8 @@
 ---
-description: "Learn how to create, customize, share with your team, favorite, archive, and delete Marketo Sales Connect email templates, and add auto-unsubscribe links."
+description: Learn how to create, customize, share with your team, favorite, archive, and delete Marketo Sales Connect email templates, and add auto-unsubscribe links.
 title: Manage Templates
 feature: Marketo Sales Connect
+exl-id: 3b1a0a36-edd1-44f6-964e-4f46b684dba9
 ---
 # Manage Templates {#manage-templates}
 
@@ -82,4 +83,3 @@ Follow these simple steps to delete a template.
 1. Click the menu drop-down in the top right, then click **[!UICONTROL Delete]**.
 
 1. Click **[!UICONTROL Delete]** to confirm.
-
