@@ -39,7 +39,7 @@ There are two ways to create custom dynamic fields.
 
 Once your custom fields have been stored using the above methods, you'll be able to reference them in your templates.
 
-1. [Create a template](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) and click the **[!UICONTROL Dynamic Fields]** button like you normally would.
+1. [Create a template](/help/marketo/product-docs/marketo-sales-connect/templates/manage-templates.md#create-a-template) and click the **[!UICONTROL Dynamic Fields]** button like you normally would.
 
 1. Select **[!UICONTROL Custom Fields]** from the drop-down that appears.
 

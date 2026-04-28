@@ -34,7 +34,7 @@ When sending an email with [!DNL Marketo Sales Connect], views (email opens) and
 
    >[!NOTE]
    >
-   >If someone who's been CC’d or BCC’d opens the email, that open will be recorded as a view on the record of the person in the **[!UICONTROL To]** field.
+   >If someone who's been CC'd or BCC'd opens the email, that open will be recorded as a view on the record of the person in the **[!UICONTROL To]** field.
 
 1. Add a subject line.
 
@@ -51,4 +51,4 @@ When sending an email with [!DNL Marketo Sales Connect], views (email opens) and
    >[!MORELIKETHIS]
    >
    >* [Scheduling an Email](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
-   >* [Templates](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
+   >* [Templates](/help/marketo/product-docs/marketo-sales-connect/templates/manage-templates.md)
