@@ -7,7 +7,7 @@ feature: Field Management
 ---
 # Export a List of All Marketo API Field Names {#export-a-list-of-all-marketo-api-field-names}
 
-If you're using our [!DNL SOAP API] or [!DNL Munchkin API] you'll need a list of all your fields and their API Names. Here's how to get this list.
+If you are using the [!DNL SOAP API] or the [!DNL Munchkin API], you will need a list of all your fields and their API Names.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ If you're using our [!DNL SOAP API] or [!DNL Munchkin API] you'll need a list of
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-3.png)
 
-Nice! You now have a spreadsheet with a list of all your fields and their API Names.
+You now have a spreadsheet with a list of all your fields and their API Names.
 
 ![](assets/export-a-list-of-all-marketo-api-field-names-4.png)
 

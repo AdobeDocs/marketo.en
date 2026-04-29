@@ -1,5 +1,5 @@
 ---
-description: Description goes here.
+description: Learn how to define a fixed set of values for a field to simplify data and workflow management.
 title: Picklist Management
 hide: yes
 hidefromtoc: yes
@@ -18,7 +18,7 @@ You can see the status of a picklist from its Field Management page. A field may
 
 * **Seeded**: The field has a system-defined list of values that are suggested to the user.
 
-* **CRM**: The field has value that is defined by the CRM system, Salesforce.com or Microsoft Dynamics, which is synchronized to the instance.
+* **CRM**: The field has a value that is defined by the CRM system, Salesforce.com or Microsoft Dynamics, which is synchronized to the instance.
 
    ![](assets/picklist-management-1.png)
 
@@ -30,11 +30,11 @@ Click the _Field Actions_ drop-down and select **Manage Picklist**.
 
    ![](assets/picklist-management-2.png)
 
-In the _Manage Picklist_ dialog you can add, edit, or delete values. You can also delete the managed picklist to revert the field to its original picklist status, either _Unmanaged_ or _Seeded_.
+In the _Manage Picklist_ dialog, you can add, edit, or delete values. You can also delete the managed picklist to revert the field to its original picklist status, either _Unmanaged_ or _Seeded_.
 
    ![](assets/picklist-management-3.png)
 
-Each picklist entry has a Display Value and a Submitted Value. The Display Value is what is suggested to the user when building Smart Lists, Smart Campaigns, or forms, while the submitted value is the one that is stored. For example, your Territory Code use case may suggest the full name of a territory (e.g., Alberta), while storing the two-letter code (AB).
+Each picklist entry has a Display Value and a Submitted Value. The Display Value is what is suggested to the user when building Smart Lists, Smart Campaigns, or forms, while the Submitted Value is the one that is stored. For example, a Territory Code use case may suggest the full name of a territory (e.g., Alberta), while storing the two-letter code (AB).
 
 ## Autosuggest {#autosuggest}
 
@@ -48,7 +48,7 @@ When the _Managed Picklist_ setting is enabled, Filters, Flow Step Choices, and 
 
 ### Switching Between Managed and Unmanaged Picklists {#switching}
 
-Most Marketo Engage subscriptions contain data from before the introduction of Managed Picklists. To use values in smart lists or flow steps from this unmanaged version picklist (e.g., from the full set of values that exist on records in your database), toggle the Managed Picklist setting in your Smart List or Campaign view. When toggled on, only the managed picklist values are shown. When toggled off, the unmanaged picklist is used and values are autosuggested based on existing values in the database.
+Most Marketo Engage subscriptions contain data from before the introduction of Managed Picklists. To use values in smart lists or flow steps from this unmanaged version of the picklist (e.g., from the full set of values that exist on records in your database), toggle the Managed Picklist setting in your Smart List or Campaign view. When toggled on, only the managed picklist values are shown. When toggled off, the unmanaged picklist is used and values are autosuggested based on existing values in the database.
 
 ## Form Picklists (Select Type Fields) {#form-picklists}
 

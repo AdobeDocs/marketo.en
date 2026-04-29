@@ -7,7 +7,7 @@ feature: Field Management
 ---
 # Custom Field Type Glossary {#custom-field-type-glossary}
 
-When you create a custom field in Marketo you have a list of types to choose from.
+When you create a custom field in Marketo, you have a list of types to choose from.
 
 >[!PREREQUISITES]
 >
@@ -19,11 +19,11 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 >[!NOTE]
 >
->Most fields don't max out at number of characters, but instead at amount of bytes. Because of that, we're unable to provide a definitive character limit for each field. The exception is **String**, which maxes out at 255 characters.
+>Most fields do not max out at the number of characters, but instead at the amount of bytes. Because of that, Marketo is unable to provide a definitive character limit for each field. The exception is **String**, which maxes out at 255 characters.
 
 ## Boolean {#boolean}
 
-**Example Name:** Is Customer - Tag your people as customers
+**Example Name:** Is Customer - Tag people as customers
 
 **Example Values:** True (checked) / False (unchecked)
 
@@ -39,7 +39,7 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 ## Date {#date}
 
-**Example Name:** Renewal Date - Store your customers renewal dates
+**Example Name:** Renewal Date - Store your customers' renewal dates
 
 **Example Values:** 8/19/14
 
@@ -55,7 +55,7 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 ## Email {#email}
 
-**Example Name:** Alternate Email - Keep an alternate email address for your people (cannot actually send emails to this field like the default email address field, that one is special)
+**Example Name:** Alternate Email - Keep an alternate email address for people (cannot actually send emails to this field like the default email address field)
 
 **Example Values:** <name@company.com>
 
@@ -71,13 +71,13 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 ## Formula {#formula}
 
-**Example Name:** Salutations - use this special field in a [solution to get the right salutation](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) based on gender
+**Example Name:** Salutations - Use this special field in a [solution to get the right salutation](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) based on gender
 
-**Example Values:** check the linked solution
+**Example Values:** Check the linked solution
 
 ## Integer {#integer}
 
-**Example Name:** Number of Employees - store a number value that does not require decimals
+**Example Name:** Number of Employees - Store a number value that does not require decimals
 
 **Example Values:** 600
 
@@ -85,7 +85,7 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 ## Percent {#percent}
 
-**Example Name:** Likely To Buy - store a percentage value (perhaps calculated on the CRM side)
+**Example Name:** Likely To Buy - Store a percentage value (calculated in the CRM)
 
 **Example Values:** 85%
 
@@ -93,7 +93,7 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 ## Phone {#phone}
 
-**Example Name:** Alternate Phone - store an additional phone number for your people
+**Example Name:** Alternate Phone - Store an additional phone number for people
 
 **Example Value:** 650-555-5555
 
@@ -101,7 +101,7 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 ## Score {#score}
 
-**Example Name:** Behavioral Score / Demographic Score - create multiple score fields to keep track of different attributes
+**Example Name:** Behavioral Score / Demographic Score - Create multiple score fields to keep track of different attributes
 
 **Example Value:** 14
 
@@ -109,7 +109,7 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 ## String {#string}
 
-**Example Name:** Middle Name - store an additional text attribute
+**Example Name:** Middle Name - Store an additional text attribute
 
 **Example Value:** Rose
 
@@ -117,7 +117,7 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 ## Text Area {#text-area}
 
-**Example Name:** Comments - add a comments field to your forms to allow multi-line text entry
+**Example Name:** Comments - Add a comments field to your forms to allow multi-line text entry
 
 **Example Value:** This article is fantastic!
 
@@ -125,7 +125,7 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 ## URL {#url}
 
-**Example Name:** Blog - create a field to store person blog urls
+**Example Name:** Blog - Create a field to store person blog URLs
 
 **Example Value:** <www.myblog.com>
 

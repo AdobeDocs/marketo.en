@@ -7,7 +7,7 @@ feature: Field Management
 ---
 # Understanding System Managed Fields {#understanding-system-managed-fields}
 
-You might have noticed that the [person detail page](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} has a series of non-editable fields created by Marketo. This data comes from various sources, and there are countless values that could display.
+You might have noticed that the [person detail page](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} has a series of non-editable fields created by Marketo. This data comes from various sources, and there are countless values that could be displayed.
 
 ## Field Types {#field-types}
 
@@ -123,7 +123,7 @@ Below are some possible values and what they mean.
   </tr>
   <tr>
     <td>Contact</td>
-    <td>Person was synced over from Webhook as a contact</td>
+    <td>Person was synced over from Salesforce as a contact</td>
   </tr>
   <tr>
     <td>Munchkin API</td>

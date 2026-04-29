@@ -37,8 +37,8 @@ This feature allows you to export all objects and their metadata.
 
 >[!NOTE]
 >
->Make sure your browser isn't blocking pop-ups from Marketo.
+>Make sure your browser is not blocking pop-ups from Marketo.
 
-The data will export as a CSV.
+The data exports as a CSV.
 
    ![](assets/export-all-object-metadata-4.png)

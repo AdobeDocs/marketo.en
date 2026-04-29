@@ -7,7 +7,7 @@ feature: Field Management
 ---
 # Block Updates to a Field {#block-updates-to-a-field}
 
-Blocking updates to a field allows you to write to the field once and then retain the original value for the lifetime of the field. This can be useful for a field like [!UICONTROL Person Source].
+Blocking updates to a field allows you to write to the field once and then retain the original value for the lifetime of the record. This can be useful for a field like [!UICONTROL Person Source].
 
 >[!NOTE]
 >

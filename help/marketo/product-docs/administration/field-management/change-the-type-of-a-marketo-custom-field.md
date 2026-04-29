@@ -7,7 +7,7 @@ feature: Field Management
 ---
 # Change the Type of a Marketo Custom Field {#change-the-type-of-a-marketo-custom-field}
 
-Here's how to change the field type of a Custom Field.
+Learn how to change the field type of a custom field.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -39,7 +39,7 @@ Here's how to change the field type of a Custom Field.
 
    >[!NOTE]
    >
-   >The warning message you see will vary depending on what field type you're changing from/to.
+   >The warning message you see will vary depending on what field type you are changing from and to.
 
    >[!MORELIKETHIS]
    >

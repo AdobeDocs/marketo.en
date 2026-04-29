@@ -7,7 +7,7 @@ feature: Field Management
 ---
 # Create a Custom Field in Marketo {#create-a-custom-field-in-marketo}
 
-If you need a new custom field in Marketo Engage to store/capture data, here's how to create one.
+Learn how to create a custom field in Marketo Engage to store and capture data.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -33,7 +33,7 @@ If you need a new custom field in Marketo Engage to store/capture data, here's h
    >
    >While you are not able to select the _Company_ object yourself, you can request it by contacting [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-1. Choose the field _[!UICONTROL Type]_. This will change how it's rendered in Smart Lists and forms in Marketo.
+1. Choose the field _[!UICONTROL Type]_. This will change how it is rendered in Smart Lists and forms in Marketo.
 
    >[!TIP]
    >
@@ -53,4 +53,4 @@ If you need a new custom field in Marketo Engage to store/capture data, here's h
 >
 >The API name is used by the SOAP API and other backend processes.
 
-You can now use this custom field in forms, flow steps, and Smart Lists!
+You can now use this custom field in forms, flow steps, and Smart Lists.

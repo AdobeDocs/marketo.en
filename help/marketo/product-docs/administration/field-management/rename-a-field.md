@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360293
-description: "Steps to rename a custom field in Marketo after removing all of its use in forms, smart lists, and campaigns."
+description: "Steps to rename a custom field in Marketo after removing all of its use in forms, Smart Lists, and campaigns."
 title: Rename a Field
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
@@ -9,7 +9,7 @@ feature: Field Management
 
 >[!NOTE]
 >
->You can rename a custom field in Marketo, but there's one catch: you must remove all of its use in the system before you do so. This includes forms, smart lists, and smart campaigns.
+>You can rename a custom field in Marketo. However, you must remove all of its use in the system before doing so. This includes forms, Smart Lists, and Smart Campaigns.
 
 >[!NOTE]
 >
@@ -35,8 +35,8 @@ feature: Field Management
 
    ![](assets/rename-a-field-4.png)
 
-Nice job! You now know how to rename fields in Marketo.
+You now know how to rename fields in Marketo.
 
 >[!CAUTION]
 >
->If you rename the API name in [!DNL Salesforce], Marketo will create a brand new field and leave the old one behind!
+>If you rename the API name in [!DNL Salesforce], Marketo will create a brand new field and leave the old one behind.

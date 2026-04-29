@@ -7,7 +7,7 @@ feature: Field Management
 ---
 # Export Used By Data for a Field {#export-used-by-data-for-a-field}
 
-As an Admin, you have the ability to export related assets of a field so you can delegate their de-linking to your team.
+As an Admin, you can export related assets of a field so you can delegate their de-linking to your team.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ As an Admin, you have the ability to export related assets of a field so you can
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. An [!DNL Excel] file will export. Open it to view its content.
+1. An [!DNL Excel] file exports. Open it to view its content.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

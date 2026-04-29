@@ -6,7 +6,7 @@ feature: Field Management
 ---
 # Mark a Field as Sensitive {#mark-a-field-as-sensitive}
 
-As a Marketo Admin, you can mark a specific field as "sensitive" so its values never get pre-filled in forms, thereby protecting users' sensitive data.
+As a Marketo Admin, you can mark a specific field as "sensitive" so its values are never pre-filled in forms, thereby protecting users' sensitive data.
 
 1. Click **[!UICONTROL Admin]**.
 

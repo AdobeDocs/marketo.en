@@ -7,7 +7,7 @@ feature: Field Management
 ---
 # HTML Encode Tokens in Emails {#html-encode-tokens-in-emails}
 
-Enable/disable person and company tokens used in emails.
+Enable or disable person and company tokens used in emails.
 
 >[!NOTE]
 >
@@ -15,7 +15,7 @@ Enable/disable person and company tokens used in emails.
 
 >[!NOTE]
 >
->Encoding converts characters into their HTML code versions to prevent confusion when being transmitted (i.e. "&" is changed to `&amp;`). For more details, please consult your web developer.
+>Encoding converts characters into their HTML code versions to prevent confusion when being transmitted (i.e. "&" is changed to `&amp;`). For more details, consult a web developer.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -33,4 +33,4 @@ Enable/disable person and company tokens used in emails.
 
    ![](assets/html-encode-tokens-in-emails-4.png)
 
-   And that's it! You can do that for as many individual fields as you want.
+   Repeat for any additional fields as needed.

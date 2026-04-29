@@ -7,7 +7,7 @@ feature: Field Management
 ---
 # Block Field Updates During List Import from Untrusted Sources {#block-field-updates-during-list-import-from-untrusted-sources}
 
-You can trust the data in some lists more than others. Sometimes you have questionable data and want to take it if the field is blank, but not if there is an existing value. You can accomplish this by blocking field updates on key fields.
+You can trust the data in some lists more than others. Sometimes you have questionable data and want to accept the data if the field is blank, but not if there is an existing value. You can accomplish this by blocking field updates on key fields.
 
 >[!NOTE]
 >
@@ -45,4 +45,4 @@ Repeat the above steps for any other fields you want to keep safe from untrusted
 
 For detailed instructions on importing lists, see [Import a List of People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
-Nice work! Now you know how to keep key fields safe from untrusted lists.
+Key fields are now protected from untrusted list imports.

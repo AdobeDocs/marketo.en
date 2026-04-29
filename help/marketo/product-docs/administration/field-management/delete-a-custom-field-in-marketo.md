@@ -11,7 +11,7 @@ feature: Field Management
 >
 >**Admin Permissions Required**
 
-You may want to get rid of a field you created in the past if you no longer have a use for it. Unfortunately you can't delete fields in Marketo, but you _can_ hide them from the user interface.
+You may want to remove a field you created in the past if you no longer have a use for it. Unfortunately, you cannot delete fields in Marketo, but you _can_ hide them from the user interface.
 
 1. Go to the **[!UICONTROL Admin]** area.
 

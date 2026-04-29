@@ -7,7 +7,7 @@ feature: Field Management
 ---
 # View Field Mappings Between Marketo and [!DNL Salesforce] {#view-field-mappings-between-marketo-and-salesforce}
 
-You may want to know which [!DNL Salesforce] fields a specific Marketo field is tied to. Here's how to check.
+You may want to know which [!DNL Salesforce] fields a specific Marketo field is mapped to. Follow the steps below.
 
 >[!NOTE]
 >
@@ -27,8 +27,8 @@ You may want to know which [!DNL Salesforce] fields a specific Marketo field is 
 
 >[!NOTE]
 >
->This is displaying the [!DNL Salesforce] API name, not label name.
+>This displays the [!DNL Salesforce] API name, not the label name.
 
 >[!IMPORTANT]
 >
->The fields listed reflect data from the initial mapping only. They do not get updated after the Marketo/[!DNL Salesforce] sync.
+>The fields listed reflect data from the initial mapping only. They are not updated after the Marketo/[!DNL Salesforce] sync.

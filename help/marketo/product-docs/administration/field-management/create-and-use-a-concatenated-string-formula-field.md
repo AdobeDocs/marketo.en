@@ -47,6 +47,4 @@ You can combine values from multiple fields or build a conditional value using a
 
 >[!NOTE]
 >
->Formula fields can be used in Landing Pages, emails and Smart List columns. Emails with formula fields can _not_ be sent using a batch campaign. Please use an [email script token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in this scenario.
-
-Good work! Now you have a smart field that knows what salutation to include based on gender. Have fun with this and get creative.
+>Formula fields can be used in Landing Pages, emails, and Smart List columns. Emails with formula fields can _not_ be sent using a batch campaign. Use an [email script token](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in this scenario.
