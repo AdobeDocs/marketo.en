@@ -6,7 +6,7 @@ feature: Custom Objects
 ---
 # Custom Object Metadata Export {#custom-object-metadata-export}
 
-If you're using our SOAP API or [!DNL Munchkin] API, Custom Object Metadata Schema can be exported. Here's how to get it.
+If you are using the SOAP API or [!DNL Munchkin] API, Custom Object Metadata Schema can be exported. Follow the steps below.
 
 >[!AVAILABILITY]
 >
@@ -32,7 +32,7 @@ If you're using our SOAP API or [!DNL Munchkin] API, Custom Object Metadata Sche
 >
 >The Custom Object must be in Approved State to be exported.
 
-You now have a spreadsheet with the Schema of the Custom Object, across three tabs.
+You now have a spreadsheet with the schema of the Custom Object, across three tabs.
 
    ![](assets/custom-object-metadata-export-5.png)
 

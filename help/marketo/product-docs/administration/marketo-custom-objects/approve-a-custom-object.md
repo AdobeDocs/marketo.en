@@ -7,11 +7,11 @@ feature: Custom Objects
 ---
 # Approve a Custom Object {#approve-a-custom-object}
 
-You must approve a custom object before you can use it. The process is slightly different for new custom objects and ones that you've edited.
+You must approve a custom object before you can use it. The process is slightly different for new custom objects and ones that you have edited.
 
 ## Approve a New Custom Object {#approve-a-new-custom-object}
 
-You've created a brand new custom object. Here's how to approve it.
+A new custom object has been created. Follow the steps below to approve it.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -21,7 +21,7 @@ You've created a brand new custom object. Here's how to approve it.
 
    ![](assets/approve-a-custom-object-2.png)
 
-1. Select an object that's in a Draft state.
+1. Select an object that is in a Draft state.
 
    ![](assets/approve-a-custom-object-3.png)
 
@@ -37,13 +37,13 @@ You've created a brand new custom object. Here's how to approve it.
    >
    >A custom object used in a _one-to-many structure_ must have at least one dedupe field, a link field, a linked object name, and a linked field name to be approved.
    >
-   >A custom object used in a _many-to-many structure_ **doesn't** need a link field, linked object name, or a linked field name when you approve it (because they live in the intermediary object).
+   >A custom object used in a _many-to-many structure_ **does not** need a link field, linked object name, or a linked field name when you approve it (because they reside in the intermediary object).
    >
-   >A custom object used as an _intermediary object_ requires a link field, linked object name, and linked field name but **doesn't** require a dedupe field.
+   >A custom object used as an _intermediary object_ requires a link field, linked object name, and linked field name but **does not** require a dedupe field.
    >
    >See [Understanding Marketo Custom Objects](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) for more information.
 
-That's it! Now, you can select your custom object in the constraints of your filters and triggers to use in your campaigns.
+Now you can select your custom object in the constraints of your filters and triggers to use in your campaigns.
 
 ## Approve an Edited Custom Object {#approve-an-edited-custom-object}
 
@@ -53,7 +53,7 @@ After you edit an approved custom object, you must approve the draft to return t
 
    ![](assets/approve-a-custom-object-6.png)
 
-1. When you're ready to approve the draft, click the **[!UICONTROL Custom Object Actions]** drop-down and select **[!UICONTROL Approve Object]**.
+1. When you are ready to approve the draft, click the **[!UICONTROL Custom Object Actions]** drop-down and select **[!UICONTROL Approve Object]**.
 
    ![](assets/approve-a-custom-object-7.png)
 

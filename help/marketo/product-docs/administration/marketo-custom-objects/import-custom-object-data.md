@@ -7,7 +7,7 @@ feature: Custom Objects
 ---
 # Import Custom Object Data {#import-custom-object-data}
 
-It's easy to import custom object data into your database. If you're using custom objects with companies, see [Using Custom Objects with Companies](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) for more information.
+Follow the steps below to import custom object data into your database. If you are using custom objects with companies, see [Using Custom Objects with Companies](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) for more information.
 
 1. In My Marketo, go to **[!UICONTROL Database]**.
 
@@ -31,7 +31,7 @@ It's easy to import custom object data into your database. If you're using custo
 
    >[!NOTE]
    >
-   >Use Dedupe field(s) as unique identifiers when you create or update custom object records. This example uses the Dedupe field of the **car** custom object - vin (vehicle ID number). If you are only updating custom object records, you can select the [!UICONTROL Marketo Guid] as the [!UICONTROL Dedupe Mode].
+   >Use one or more Dedupe fields as unique identifiers when you create or update custom object records. This example uses the Dedupe field of the **car** custom object - vin (vehicle ID number). If you are only updating custom object records, you can select the [!UICONTROL Marketo Guid] as the [!UICONTROL Dedupe Mode].
 
 1. Map each column to a Marketo field, selecting it from the drop-down.
 
@@ -39,7 +39,7 @@ It's easy to import custom object data into your database. If you're using custo
 
    >[!NOTE]
    >
-   >Make sure the values in your file match the type of field you're matching them to (e.g., text, integer, etc.), otherwise the file will be rejected.
+   >Ensure the values in your file match the type of field you are matching them to (e.g., text, integer, etc.), otherwise the file will be rejected.
 
 1. Click **[!UICONTROL Next]**.
 
@@ -55,13 +55,11 @@ It's easy to import custom object data into your database. If you're using custo
 
    >[!TIP]
    >
-   >Enter your email address in the **[!UICONTROL Send Alert To]** field and Marketo will email you when your import is done!
+   >Enter your email address in the **[!UICONTROL Send Alert To]** field and Marketo will email you when the import is complete.
 
-1. In the upper right corner of your screen, you'll see a notification while the import is running, and the final results when it completes.
+1. In the upper right corner of your screen, you will see a notification while the import is running, and the final results when it completes.
 
    ![](assets/import-custom-object-data-9.png)
-
-   Yay!
 
 >[!MORELIKETHIS]
 >

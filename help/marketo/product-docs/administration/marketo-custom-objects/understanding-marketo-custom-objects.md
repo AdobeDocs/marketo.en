@@ -33,7 +33,7 @@ Many-to-many custom objects use two link fields, part of an intermediary object.
 
 >[!CAUTION]
 >
->You can't restore custom objects, so be sure you don't need them anymore before deleting them.
+>Custom objects cannot be restored, so ensure they are no longer needed before deleting them.
 
 ## Accessing Marketo Custom Objects {#accessing-marketo-custom-objects}
 
@@ -63,7 +63,7 @@ Many-to-many custom objects use two link fields, part of an intermediary object.
 
 ## View Custom Objects Associated to a Person {#view-custom-objects-associated-to-a-person}
 
-After you've created the custom object structure, when you upload the specific custom object data, the custom objects are automatically associated to people in the database using the link field in the custom object. You can view information from the [!UICONTROL Custom Objects] tab on the person details page.
+After you have created the custom object structure, when you upload the specific custom object data, the custom objects are automatically associated to people in the database using the link field in the custom object. You can view information from the [!UICONTROL Custom Objects] tab on the person details page.
 
 1. Go to **[!UICONTROL Database]**.
 
@@ -87,11 +87,11 @@ After you've created the custom object structure, when you upload the specific c
 
 ## Using Custom Objects with Companies {#using-custom-objects-with-companies}
 
-   A custom object that's linked to the company works best if you sync down companies from the CRM or if you explicitly create companies using the API. We also recommend that you use the Company ID as the link field.
+   A custom object that is linked to the company works best if you sync down companies from the CRM or if you explicitly create companies using the API. Marketo also recommends that you use the Company ID as the link field.
 
-   If you have multiple people in Marketo that are records in the CRM or Marketo-only records, a custom object linked to a company won't get associated with more than one individual record. This is because a company having multiple people underneath it is supported only when companies are synced down from the CRM or if you use an API to explicitly create companies.
+   If you have multiple people in Marketo that are records in the CRM or Marketo-only records, a custom object linked to a company will not get associated with more than one individual record. This is because a company having multiple people underneath it is supported only when companies are synced down from the CRM or if you use an API to explicitly create companies.
 
-   Custom Objects can only directly link to a single record. This means that when your custom object type is linked by company field, you should ensure that your person records are associated to a company either using contact conversion in your CRM, or using the externalCompanyId field, if you manage companies using Marketo's REST APIs. For person records that aren't linked explicitly to company records, custom objects linked using company will be randomly linked to a single record, even if the value of the company field is shared across many people.
+   Custom Objects can only directly link to a single record. This means that when your custom object type is linked by company field, you should ensure that your person records are associated to a company either using contact conversion in your CRM, or using the externalCompanyId field, if you manage companies using Marketo's REST APIs. For person records that are not linked explicitly to company records, custom objects linked using company will be randomly linked to a single record, even if the value of the company field is shared across many people.
 
    See [Import Custom Object Data](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) for more information.
 

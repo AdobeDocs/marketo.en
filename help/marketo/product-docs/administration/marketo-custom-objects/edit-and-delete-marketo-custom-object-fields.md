@@ -9,7 +9,7 @@ feature: Custom Objects
 
 ## Edit a Field {#edit-a-field}
 
-Sometimes you need to edit a field that's not approved yet.
+Sometimes you need to edit a field that is not approved yet.
 
 1. Click a custom object and the field you want to edit.
 
@@ -25,7 +25,7 @@ Sometimes you need to edit a field that's not approved yet.
 
    >[!NOTE]
    >
-   >You can't edit the API Name.
+   >You cannot edit the API Name.
 
 1. The changes appear in the **[!UICONTROL Fields]** listing.
 
@@ -33,17 +33,17 @@ Sometimes you need to edit a field that's not approved yet.
 
 ## Delete a Field {#delete-a-field}
 
-When you don't need a field in a custom object anymore, you can delete it.
+When a field in a custom object is no longer needed, you can delete it.
 
 1. In the Fields tab, click **[!UICONTROL Field Actions]** and **[!UICONTROL Delete Field]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-1. Make sure you really want to delete the field before you pull the trigger! Click **[!UICONTROL Delete]**.
+1. Confirm that you want to delete the field before proceeding. Click **[!UICONTROL Delete]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
-It's gone!
+The field is deleted.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 

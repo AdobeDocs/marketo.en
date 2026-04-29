@@ -35,11 +35,11 @@ Use the Custom Object Actions menu to edit or delete a custom object.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
-1. Be sure to approve [the edited object](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
+1. Approve [the edited object](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
 ## Delete a Custom Object {#delete-a-custom-object}
 
-It's easy to delete a custom object, but you need to be careful. Custom objects may be connected to other objects or to smart lists. So, Marketo warns you before letting you click **[!UICONTROL Delete]**.
+Deleting a custom object requires care. Custom objects may be connected to other objects or to smart lists. Marketo will warn you before letting you click **[!UICONTROL Delete]**.
 
 >[!CAUTION]
 >
@@ -65,11 +65,11 @@ It's easy to delete a custom object, but you need to be careful. Custom objects 
    >
    >You can also right-click the object and select **[!UICONTROL Delete Object]**.
 
-1. If the custom object is in draft form, not approved yet, you'll get this warning. If you're sure, click **[!UICONTROL Delete]**.
+1. If the custom object is in draft form, not approved yet, you will get this warning. If you are sure, click **[!UICONTROL Delete]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. If the custom object is already approved, there is greater risk if you delete it. So, you'll get this sterner warning. Enter **[!UICONTROL I understand]**, check the **[!UICONTROL Cannot Undo]** checkbox, and click **[!UICONTROL Delete]**.
+1. If the custom object is already approved, there is greater risk if you delete it. Therefore, you will get this sterner warning. Enter **[!UICONTROL I understand]**, check the **[!UICONTROL Cannot Undo]** checkbox, and click **[!UICONTROL Delete]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 

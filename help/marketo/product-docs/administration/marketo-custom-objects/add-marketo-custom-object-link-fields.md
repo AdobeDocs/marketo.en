@@ -14,11 +14,11 @@ When you create custom objects, you must provide link fields to connect the cust
 
 >[!IMPORTANT]
 >
->Marketo Engage only supports a single edge object for each bridge object in the Many to Many relationship. In the sample given below, each enrollment can only link to a single course. However, there can be many bridge objects for each edge object, just as there are many student enrollments to each course (Many-to-One relationship). If you have your custom object data structured so that there are more than one Edge object records for each Bridge object record (One-to-Many or Many-to-Many), you can create multiple Bridge object records that each refer to a single Edge object record to represent that data in Marketo.
+>Marketo Engage only supports a single edge object for each bridge object in the Many to Many relationship. In the sample given below, each enrollment can only link to a single course. However, there can be many bridge objects for each edge object, just as there are many student enrollments to each course (Many-to-One relationship). If you have your custom object data structured so that there is more than one Edge object record for each Bridge object record (One-to-Many or Many-to-Many), you can create multiple Bridge object records that each refer to a single Edge object record to represent that data in Marketo.
 
 ## Create a Link Field for a One-to-Many Structure {#create-a-link-field-for-a-one-to-many-structure}
 
-Here's how to create a link field in a custom object for a one-to-many structure.
+Follow the steps below to create a link field in a custom object for a one-to-many structure.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -36,13 +36,13 @@ Here's how to create a link field in a custom object for a one-to-many structure
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. Name the link field and add an optional [!UICONTROL Description]. Be sure to select the [!UICONTROL Link] data type.
+1. Name the link field and add an optional [!UICONTROL Description]. Select the [!UICONTROL Link] data type.
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >You won't be able to go back and create, edit, or delete a [!UICONTROL Link] or [!UICONTROL Dedupe Field] once the custom object is approved.
+   >It is not possible to go back and create, edit, or delete a [!UICONTROL Link] or [!UICONTROL Dedupe Field] once the custom object is approved.
 
 1. Select whether the [!UICONTROL Link Object] is for a [!UICONTROL lead] (person) or a [!UICONTROL company].
 
@@ -50,9 +50,9 @@ Here's how to create a link field in a custom object for a one-to-many structure
 
    >[!NOTE]
    >
-   >If you choose [!UICONTROL lead], you'll see Id, email Address, and any custom fields in the list.
+   >If you choose [!UICONTROL lead], you will see Id, Email Address, and any custom fields in the list.
    >
-   >If you choose [!UICONTROL company], you'll see Id and any custom fields in the list.
+   >If you choose [!UICONTROL company], you will see Id and any custom fields in the list.
 
 1. Select the [!UICONTROL Link Field] you want to connect to as the parent of the new field.
 
@@ -68,7 +68,7 @@ Here's how to create a link field in a custom object for a one-to-many structure
 
 ## Create a Link Field for a Many-to-Many Structure {#create-a-link-field-for-a-many-to-many-structure}
 
-Here's how to create a link field in an intermediary object for use in a many-to-many structure.
+Follow the steps below to create a link field in an intermediary object for use in a many-to-many structure.
 
 >[!PREREQUISITES]
 >
@@ -90,13 +90,13 @@ Here's how to create a link field in an intermediary object for use in a many-to
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. You need to create two link fields. Create them one at a time. First, name the field for the members of your database list (leadID, for example). Add an optional [!UICONTROL Description]. Be sure to select the [!UICONTROL link] [!UICONTROL Data Type].
+1. Create two link fields, one at a time. First, name the field for the members of your database list (leadID, for example). Add an optional [!UICONTROL Description]. Select the [!UICONTROL link] [!UICONTROL Data Type].
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >You won't be able to go back and create, edit, or delete a [!UICONTROL Link] or [!UICONTROL Dedupe Field] once the custom object is approved.
+   >It is not possible to go back and create, edit, or delete a [!UICONTROL Link] or [!UICONTROL Dedupe Field] once the custom object is approved.
 
 1. Select the [!UICONTROL Link Object] from your database; in this case, [!UICONTROL Lead].
 
@@ -122,7 +122,7 @@ Here's how to create a link field in an intermediary object for use in a many-to
 
 ## Using Custom Objects {#using-custom-objects}
 
-   The next step is to use these custom objects in filters in your smart campaigns. With a many-to-many relationship, you can select multiple people/companies and multiple custom objects. In the example below, anyone in your database who matches these criteria will be listed. The coursename field comes from the course custom object and the enrollment grade comes from the intermediate object.
+   The next step is to use these custom objects in filters in your smart campaigns. With a many-to-many relationship, you can select multiple people or companies and multiple custom objects. In the example below, anyone in your database who matches these criteria will be listed. The coursename field comes from the course custom object and the enrollment grade comes from the intermediate object.
 
    ![](assets/add-marketo-custom-object-link-fields-18.png)
 
