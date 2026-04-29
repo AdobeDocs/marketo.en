@@ -95,7 +95,7 @@ Let's tie your Marketo instance to [!DNL Sales Insight] in [!DNL Dynamics]. Here
    >
    >If any of these fields are missing, you will see an error message in Marketo with the name of the missing fields. To fix this, perform [this procedure](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
-1. Back in [!DNL Microsoft Dynamics], click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to [!UICONTROL Settings], then select **[!UICONTROL Marketo API Config]** in the dropdown.
+1. Back in [!DNL Microsoft Dynamics], click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to [!UICONTROL Settings], then select **[!UICONTROL Marketo API Config]** in the drop-down.
 
    ![](assets/image2015-5-13-16-3a4-3a1.png)
 
@@ -113,7 +113,7 @@ Let's tie your Marketo instance to [!DNL Sales Insight] in [!DNL Dynamics]. Here
 
 You need to give users permissions to use [!DNL Sales Insight].
 
-1. Click the ![](assets/image2015-5-13-10-3a5-3a8.png) menu. In the dropdown menu select **[!UICONTROL Settings]**, then select **[!UICONTROL Security]**.
+1. Click the ![](assets/image2015-5-13-10-3a5-3a8.png) menu. In the drop-down menu select **[!UICONTROL Settings]**, then select **[!UICONTROL Security]**.
 
    ![](assets/image2015-5-13-16-3a12-3a12.png)
 

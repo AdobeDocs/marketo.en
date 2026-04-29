@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360245
 description: "Remove the default unsubscribe content from Admin Email by using an HTML comment when building the link into templates."
-title: Remove Unsubscribe Text From the Admin Email Section
+title: Remove Unsubscribe Text
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
 ---
-# Remove Unsubscribe Text From the Admin > Email Section {#remove-unsubscribe-text-from-the-admin-email-section}
+# Remove Unsubscribe Text {#remove-unsubscribe-text}
 
-The only reason why you should ever completely remove the unsubscribe content from the **[!UICONTROL Admin]** > **[!UICONTROL Email]** area is if you're choosing to build the unsubscribe link into the email templates themselves. The text box has validation that does not allow you to save with no content. You can get around this by adding a small HTML comment. The HTML comment will not show up in the email client, because it is rendering the email in HTML and the comments are omitted. Here's how to do it.
+The only reason you should ever completely remove the unsubscribe content from the **[!UICONTROL Admin]** > **[!UICONTROL Email]** area is if you are choosing to build the unsubscribe link into the email templates themselves. The text box has validation that does not allow you to save with no content. You can get around this by adding a small HTML comment. The HTML comment will not show up in the email client, because it is rendering the email in HTML and the comments are omitted.
 
 1. Go to the **[!UICONTROL Admin]** area.
 

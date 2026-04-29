@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359614
-description: "Learn how to define values in a radio or dropdown field in a Marketo form. Set the options visitors can choose from."
+description: "Learn how to define values in a radio or drop-down field in a Marketo form. Set the options visitors can choose from."
 title: Define Values in a Radio or Selected Field in a Form
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms

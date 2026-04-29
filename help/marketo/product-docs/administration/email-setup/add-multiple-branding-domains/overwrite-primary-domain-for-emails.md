@@ -7,7 +7,7 @@ feature: Email Setup
 ---
 # Overwrite Primary Domain for Emails {#overwrite-primary-domain-for-emails}
 
-You can overwrite the primary branded domain on a per email basis. This will change how the links are branded when the email is sent.
+You can overwrite the primary branded domain on a per-email basis. This will change how the links are branded when the email is sent.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 

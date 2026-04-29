@@ -54,10 +54,10 @@ To implement your RTP tag please follow the installation instructions below:
 
 1. Click **[!UICONTROL Save Code]** in the script editor and **[!UICONTROL Save Rule]** in the rule editor.
 
-1. In the Rules panel, locate the Marketo RTP page load rule and within the **[!UICONTROL Actions]** dropdown select **[!UICONTROL Activate Rules]**.
+1. In the Rules panel, locate the Marketo RTP page load rule and within the **[!UICONTROL Actions]** drop-down select **[!UICONTROL Activate Rules]**.
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 
 1. **[!UICONTROL Verify]** that it appears on all pages including landing pages and sub-domains.
 
-    You can do it by right-clicking on your website’s pages. Go to **[!UICONTROL Inspect Element]**, click on **[!UICONTROL Network]**, Search: **RTP**.
+    You can do it by right-clicking on your website's pages. Go to **[!UICONTROL Inspect Element]**, click on **[!UICONTROL Network]**, Search: **RTP**.

@@ -73,8 +73,8 @@ Here are the features you'll find in an RTE.
 | ![--](assets/image2015-7-9-10-3a28-3a4.png)|[!UICONTROL Bold] |**Darker and thicker**. |
 | ![--](assets/image2015-7-9-10-3a29-3a1.png)|[!UICONTROL Italic] |*Angled, for emphasis or quotation*s. |
 | ![--](assets/image2015-7-9-10-3a30-3a56.png)|[!UICONTROL Underline] |Puts a line under your text. |
-| ![--](assets/image2015-7-9-10-3a31-3a57.png)|[!UICONTROL Alignment] |Use this dropdown to lay out your text and images. Center them, choose left or right alignment, or spread it edge to edge with full justification. |
-| ![--](assets/image2015-7-9-10-3a32-3a47.png)|List |Choose bullets or numbers from the dropdown. Bullets are good with lists and numbers with steps. |
+| ![--](assets/image2015-7-9-10-3a31-3a57.png)|[!UICONTROL Alignment] |Use this drop-down to lay out your text and images. Center them, choose left or right alignment, or spread it edge to edge with full justification. |
+| ![--](assets/image2015-7-9-10-3a32-3a47.png)|List |Choose bullets or numbers from the drop-down. Bullets are good with lists and numbers with steps. |
 | ![--](assets/image2015-7-9-10-3a38-3a0.png)|[!UICONTROL Indent] |Choose more or less indentation. Use for paragraphs or any text you want to stand out. |
 | ![--](assets/image2015-7-9-10-3a38-3a58.png)|[!UICONTROL Insert/Edit Link] |Put in a link to a website or other content; easily make changes to it. |
 | ![--](assets/image2015-7-9-10-3a39-3a42.png)|[!UICONTROL Insert/Edit Image] |A picture is worth a thousand words. Drop one in. Click the camera icon to browse your Design Studio. You can drop in images side by side. |

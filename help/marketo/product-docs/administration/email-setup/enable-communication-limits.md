@@ -7,7 +7,7 @@ feature: Email Setup
 ---
 # Enable Communication Limits {#enable-communication-limits}
 
-It's very important to not over-communicate with your people. Setting communication limits will help prevent your organization from sending too many emails.
+It is important not to over-communicate with your people. Setting communication limits will help prevent your organization from sending too many emails.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ It's very important to not over-communicate with your people. Setting communicat
    >
    >[!UICONTROL Per Day] is based on the calendar day in the subscription time zone (midnight-midnight).
 
-1. Click the **[!UICONTROL Per Day]** drop-down and select the desired limit. In this example we're choosing 1.
+1. Click the **[!UICONTROL Per Day]** drop-down and select the desired limit. In this example, 1 is being used.
 
    ![](assets/enable-communication-limits-4.png)
 
@@ -37,7 +37,7 @@ It's very important to not over-communicate with your people. Setting communicat
    >
    >You can also choose **[!UICONTROL Custom]** if none of the preset options work for you.
 
-1. Click the **[!UICONTROL Per 7 Days]** drop-down and select the desired limit. In this example we're choosing 5.
+1. Click the **[!UICONTROL Per 7 Days]** drop-down and select the desired limit. In this example, 5 is being used.
 
    ![](assets/enable-communication-limits-5.png)
 
@@ -57,7 +57,7 @@ It's very important to not over-communicate with your people. Setting communicat
    >
    >**Example**
    >
-   >The above settings mean that people won't receive more than **email per day** or more than **5 in any seven-day period**.
+   >The above settings mean that people won't receive more than **1 email per day** or more than **5 in any seven-day period**.
 
    >[!NOTE]
    >

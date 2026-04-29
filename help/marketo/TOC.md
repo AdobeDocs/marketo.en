@@ -115,7 +115,7 @@ feature-set: Marketo Engage
       + [Enable Person Restrictions for Smart Campaigns](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
       + [Email Open Tracking at Campaign Level](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
       + [Filtering Email Bot Activity](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-      + [Remove Unsubscribe Text](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+      + [Remove Unsubscribe Text](product-docs/administration/email-setup/remove-unsubscribe-text.md)
     + Field Management {#field-management}
       + [Block Field Updates During List Import from Untrusted Sources](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
       + [Block Updates to a Field](product-docs/administration/field-management/block-updates-to-a-field.md)

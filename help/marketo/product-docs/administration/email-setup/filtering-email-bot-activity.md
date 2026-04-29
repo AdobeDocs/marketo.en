@@ -6,9 +6,9 @@ feature: Email Setup
 ---
 # Filtering Email Bot Activity {#filtering-email-bot-activity}
 
-Sometimes, email bot activity can erroneously inflate your email opens and clicks data. Follow the steps below to fix that.
+Sometimes, email bot activity can erroneously inflate your email opens and clicks data. Follow the steps below to address this.
 
-We use two separate methods to confirm bot activity:
+Two separate methods are used to confirm bot activity:
 
 * Match with [Interactive Advertising Bureau bot list](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Activities that match with anything on the IAB UA/IP (User Agent/IP address) list will be marked as bots.
 * Match with proximity pattern: When two or more activities happen at the same time (in under a second), they're identified as bots. Attributes considered during comparison are:
@@ -21,7 +21,7 @@ Against email link click and email open activity, new attributes will be populat
 
 * Activities that are identified as bots will have "Bot Activity" as "True" and "Bot Activity Pattern" as the identified pattern/method
 * Activities that are identified as not bots will have "Bot Activity" as "False" and "Bot Activity Pattern" as "N/A"
-* Activities that happened before we introduced these attributes will have "Bot Activity" as " " (empty) and "Bot Activity Pattern" as " " (empty)
+* Activities that happened before these attributes were introduced will have "Bot Activity" as " " (empty) and "Bot Activity Pattern" as " " (empty)
 
 ## Select Filter Type {#select-filter-type}
 
@@ -41,27 +41,27 @@ Against email link click and email open activity, new attributes will be populat
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. If you enable **[!UICONTROL Match with Proximity Pattern]**, choose whether to [!UICONTROL log bot activity] _or_ [!UICONTROL filter bot activity]. You can also set the amount of seconds for **Duration Between Activities** (default is 0, max is 3).
+1. If you enable **[!UICONTROL Match with Proximity Pattern]**, choose whether to [!UICONTROL log bot activity] _or_ [!UICONTROL filter bot activity]. You can also set the number of seconds for **Duration Between Activities** (default is 0, max is 3).
 
    ![](assets/filtering-email-bot-activity-5.png)
 
 >[!NOTE]
 >
->With **Duration Between Activities** set to 0 seconds, we will identify email activities that are happening at the exact same second. If multiple email activities happen within the designated amount of seconds, it will be identified as bot activity.
+>With **Duration Between Activities** set to 0 seconds, email activities will be identified as occurring at the exact same second. If multiple email activities happen within the designated number of seconds, they will be identified as bot activity.
 
 >[!IMPORTANT]
 >
->* If you choose [!UICONTROL Filter Bot Activity], you may see a drop in email opens and clicks as false activities are weeded out.
+>* If you choose [!UICONTROL Filter Bot Activity], you may see a drop in email opens and clicks as false activities are removed.
 
-**OPTIONAL STEP**: To disable either feature, simply deselect the respective slider. If you do, the data does not reset.
+**OPTIONAL STEP**: To disable either feature, deselect the respective slider. If you do, the data does not reset.
 
 >[!TIP]
 >
->Leverage bot activity data in Smart Lists via "Is Bot Activity" boolean (yes/no) and "Bot Activity Pattern" in the "Clicked Link in Email" and "Open Email" filters, and "Clicks Link in Email" and "Opens Email" triggers.
+>Use bot activity data in Smart Lists via "Is Bot Activity" boolean (yes/no) and "Bot Activity Pattern" in the "Clicked Link in Email" and "Open Email" filters, and "Clicks Link in Email" and "Opens Email" triggers.
 
 ## IP Blocklist {#ip-blocklist}
 
-We've compiled a list of IP addresses that are responsible for generating millions of fake engagements, as such engagement received from any of the following IPs is automatically filtered out and not added to your Marketo Engage Instance. This may result in a reduction in email opens, clicks, and other related activities. The list below may be updated periodically.
+Marketo has compiled a list of IP addresses that are responsible for generating millions of fake engagements. As a result, any engagement received from the following IPs is automatically filtered out and not added to your Marketo Engage subscription. This may result in a reduction in email opens, clicks, and other related activities. The list below may be updated periodically.
 
 * 40.94.34.52
 * 40.94.34.86
@@ -117,4 +117,4 @@ We've compiled a list of IP addresses that are responsible for generating millio
 
 >[!NOTE]
 >
->We meticulously analyze and scrutinize every IP address before adding it to this list, ensuring only the most critical and harmful IPs are blocked.
+>Every IP address is carefully reviewed before being added to this list, ensuring only the most harmful IPs are blocked.

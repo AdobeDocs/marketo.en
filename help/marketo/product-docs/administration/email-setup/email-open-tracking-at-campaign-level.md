@@ -6,25 +6,25 @@ exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
 ---
 # Email Open Tracking at Campaign Level {#email-open-tracking-at-campaign-level}
 
-This feature allows you to control tracking email opens, either once for each open in a campaign, or just once for each email regardless of how many times it's used in different campaigns.
+This feature allows you to control email open tracking, either once for each open in a campaign, or just once for each email regardless of how many times it is used in different campaigns.
 
 >[!NOTE]
 >
 >**Admin Permissions Required**
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/email-open-tracking-at-campaign-level-1.png)
 
-1. Click **Smart Campaign**.
+1. Click **[!UICONTROL Smart Campaign]**.
 
    ![](assets/email-open-tracking-at-campaign-level-2.png)
 
-1. Next to _Settings for Email Opens_, click **Edit**.
+1. Next to _Settings for Email Opens_, click **[!UICONTROL Edit]**.
 
    ![](assets/email-open-tracking-at-campaign-level-3.png)
 
-1. Click the drop-down, choose your desired setting, and click **Save**.
+1. Click the drop-down, choose your desired setting, and click **[!UICONTROL Save]**.
 
    ![](assets/email-open-tracking-at-campaign-level-4.png)
 

@@ -13,7 +13,7 @@ Marketo tracks the number of page views and form completions on each tested page
 >
 >[Build two or more landing pages](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), preferably with a form.
 
-1. In the Design Studio, click **[!UICONTROL New]**. In the dropdown, select **[!UICONTROL New Test Group]**.
+1. In the Design Studio, click **[!UICONTROL New]**. In the drop-down, select **[!UICONTROL New Test Group]**.
 
    ![](assets/image2015-8-5-13-3a32-3a50.png)
 
@@ -36,7 +36,7 @@ Marketo tracks the number of page views and form completions on each tested page
 
    ![](assets/three-1.png)
 
-1. Click the **[!UICONTROL Test Group Actions]** dropdown and select **[!UICONTROL Approve Test Group]**.
+1. Click the **[!UICONTROL Test Group Actions]** drop-down and select **[!UICONTROL Approve Test Group]**.
 
    ![](assets/four-1.png)
 

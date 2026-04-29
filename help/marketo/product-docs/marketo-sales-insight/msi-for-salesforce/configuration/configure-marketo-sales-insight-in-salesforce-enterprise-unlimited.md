@@ -203,7 +203,7 @@ Marketo person fields must be mapped to Salesforce contact fields to ensure that
 
    ![](assets/image2015-6-1-9-3a58-3a48.png)
 
-1. Click the dropdown on the right for **[!UICONTROL Engagement]**.
+1. Click the drop-down on the right for **[!UICONTROL Engagement]**.
 
    ![](assets/image2015-6-1-10-3a9-3a53.png)
 

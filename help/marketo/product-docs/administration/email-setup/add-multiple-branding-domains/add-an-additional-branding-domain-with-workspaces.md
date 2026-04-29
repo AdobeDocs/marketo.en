@@ -11,9 +11,9 @@ If you have workspaces, you can add additional branding domains.
 
 >[!PREREQUISITES]
 >
->You must [edit your default branding domain](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) first.
+>* [Edit your default branding domain](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md).
 >
->You must first [replace the generic tracking link](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) with a branding domain before adding additional branding domains.
+>* [Replace the generic tracking link](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) with a branding domain before adding additional branding domains.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -33,7 +33,7 @@ If you have workspaces, you can add additional branding domains.
 
    >[!NOTE]
    >
-   >You can choose to make this your Primary Domain for one or more workspaces, and all existing unsent emails set to "Default" and all newly created emails will default to the primary domain. You can override this on a per-email basis.
+   >You can choose to make this your primary domain for one or more workspaces, and all existing unsent emails that are set to "Default" and all newly created emails will default to the primary domain. You can override this on a per-email basis.
 
 1. Select the new branding domain and click **[!UICONTROL Save]**.
 

@@ -57,7 +57,7 @@ When you select an Inventory icon you may edit the **[!UICONTROL Name]**, add a 
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. You may also delete a stage by clicking it, then in the **[!UICONTROL Stage Actions]** dropdown, select **[!UICONTROL Delete]**.
+1. You may also delete a stage by clicking it, then in the **[!UICONTROL Stage Actions]** drop-down, select **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 

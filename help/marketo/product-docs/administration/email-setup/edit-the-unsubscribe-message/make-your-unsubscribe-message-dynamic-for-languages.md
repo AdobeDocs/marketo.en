@@ -7,11 +7,11 @@ feature: Email Setup
 ---
 # Make Your Unsubscribe Message Dynamic for Languages {#make-your-unsubscribe-message-dynamic-for-languages}
 
-The default unsubscribe message and link are in English. You can use dynamic content to display it in different languages.
+The default unsubscribe message and link are in English. You can use dynamic content to display them in different languages.
 
 >[!NOTE]
 >
->This article represents a best practice, but can be accomplished other ways.
+>This article represents a best practice, but it can be accomplished in other ways.
 
 ## Prepare Your Data {#prepare-your-data}
 
@@ -65,7 +65,7 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. In the **[!UICONTROL New]** dropdown, click **[!UICONTROL New Snippet]**.
+1. In the **[!UICONTROL New]** drop-down, click **[!UICONTROL New Snippet]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
@@ -89,7 +89,7 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. Select a segment from the tree. Click on your unsubscribe then the link icon.
+1. Select a segment from the tree. Click your unsubscribe text, then click the link icon.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
@@ -101,11 +101,9 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
-Awesome. Almost there!
+## Use a Snippet in an Email {#use-a-snippet-in-an-email}
 
-## Use Snippet in an Email {#use-snippet-in-an-email}
-
-1. Inside the email editor, click the editable element. Then click the gear icon and select **[!UICONTROL Replace with Snippet]**. If you're selecting an editable snippet element, click the gear icon and select **[!UICONTROL Edit]**.
+1. Inside the email editor, click the editable element. Then click the gear icon and select **[!UICONTROL Replace with Snippet]**. If you select an editable snippet element, click the gear icon and select **[!UICONTROL Edit]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
@@ -113,7 +111,7 @@ Awesome. Almost there!
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
-1. To test it out, click **[!UICONTROL Back]**...
+1. To test, click **[!UICONTROL Back]**...
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 
@@ -127,9 +125,9 @@ Awesome. Almost there!
 
    >[!TIP]
    >
-   >Of course, you can edit the rest of your email for dynamic language too. While you are at it, do the same technique on the unsubscribe page.
+   >You can edit the rest of your email for dynamic language too. Use the same technique on the unsubscribe page.
 
-## Customizing Your Unsubscribe Page with Dynamic Content {#customizing-your-unsubscribe-page-with-dynamic-content}
+## Customize Your Unsubscribe Page with Dynamic Content {#customize-your-unsubscribe-page-with-dynamic-content}
 
 If you want your people to come to an unsubscribe page in their preferred language, you can use dynamic content on the landing page and the confirmation page.
 
@@ -153,8 +151,6 @@ If you want your people to come to an unsubscribe page in their preferred langua
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
-   Edit your content for each landing page, approve, and you're good to go!
-
    >[!NOTE]
    >
-   >Learn more about [dynamic content](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) and all the cool stuff you can do.
+   >Learn more about [dynamic content](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md).

@@ -21,7 +21,7 @@ Editing your default branding domain is the first step in working with branding 
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. In the [!UICONTROL Branding Domains] table, select the generic domain and click Edit to change it to your company's branded domain.
+1. In the [!UICONTROL Branding Domains] table, select the generic domain and click **[!UICONTROL Edit]** to change it to your company's branded domain.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -29,7 +29,7 @@ Editing your default branding domain is the first step in working with branding 
    >
    >You can't add an additional domain until you've first edited the generic domain.
 
-1. Enter the name of the your default domain and click **[!UICONTROL Save]**.
+1. Enter the name of your default domain and click **[!UICONTROL Save]**.
 
    ![](assets/edit-your-default-branding-domain-4.png)
 
@@ -37,4 +37,4 @@ Now, you can [add any additional branding domains](/help/marketo/product-docs/ad
 
 >[!NOTE]
 >
->If you need to update or remove an existing SSL, please reach out to [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+>If you need to update or remove an existing SSL, contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.

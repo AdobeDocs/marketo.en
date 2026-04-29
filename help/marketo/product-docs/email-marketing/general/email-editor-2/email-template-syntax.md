@@ -193,7 +193,7 @@ Required attributes
 
 Optional attributes
 
-* **default:** Default value of the select dropdown. If omitted, the first value from the "values" attribute is used.
+* **default:** Default value of the select drop-down. If omitted, the first value from the "values" attribute is used.
 * **mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. Defaults to False if omitted.
 
 Example Declaration:

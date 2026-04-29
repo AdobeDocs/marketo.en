@@ -22,8 +22,6 @@ feature: Email Setup
    >[!NOTE]
    >
    >**[!UICONTROL Add]** doesn't work until you've edited the generic domain. **[!UICONTROL Delete]** doesn't work until you add a second domain.
-   >
-   >You can't add an additional domain until you first edit the generic domain.
 
 1. Enter the name of your default domain and click **[!UICONTROL Next]**.
 
@@ -35,6 +33,6 @@ feature: Email Setup
 
 >[!NOTE]
 >
->When adding additional branding domains, you can choose to make this your primary domain for one or more workspaces, and all existing unsent emails set to "Default" and all newly created emails will default to the primary domain. You can override this on a per-email basis.
+>When adding additional branding domains, you can choose to make this your primary domain for one or more workspaces, and all existing unsent emails that are set to "Default" and all newly created emails will default to the primary domain. You can override this on a per-email basis.
 
 Now, you can [add additional branding domains](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) you need for the workspaces.

@@ -7,7 +7,7 @@ feature: Email Setup
 ---
 # Edit the "View as Web Page" Message {#edit-the-view-as-web-page-message}
 
-If you need to edit the "[View as a Webpage](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)" text, here's how.
+Learn how to edit the "[View as a Webpage](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)" text.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ If you need to edit the "[View as a Webpage](/help/marketo/product-docs/email-ma
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >The second part `##MKT_TOK##` is the [!UICONTROL munchkin] cookie of that person. It makes sure they get cookied appropriately when they click the link.
+   >The second part `##MKT_TOK##` is the [!UICONTROL Munchkin] cookie of that person. It ensures they are tracked appropriately when they click the link.
 
 1. Edit the **[!UICONTROL View as Web Page HTML]** and **[!UICONTROL View as Web Page Text]** versions to your liking and click **[!UICONTROL Save Changes]**.
 
@@ -42,11 +42,11 @@ If you need to edit the "[View as a Webpage](/help/marketo/product-docs/email-ma
 >* Adding additional URLs to either of the HTML boxes
 >* Putting HTML in the text version
 
-There you have it. Send out test emails to ensure formatting.
+Send test emails to verify the formatting.
 
 ## Default "View as Web Page" Text {#default-view-as-web-page-text}
 
-If you ever need to revert to default system "[!UICONTROL View as Web Page]", copy/paste the following:
+If you ever need to revert to the default system "[!UICONTROL View as Web Page]", copy/paste the following:
 
 **[!UICONTROL View as Web Page HTML]**:
 
@@ -56,5 +56,3 @@ If you ever need to revert to default system "[!UICONTROL View as Web Page]", co
 
 To view this email as a web page, go to the following address:
 `%mkt_webview_url%?mkt_tok=##MKT_TOK##`
-
-That's it!

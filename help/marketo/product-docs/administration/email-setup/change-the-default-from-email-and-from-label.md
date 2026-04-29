@@ -7,7 +7,7 @@ feature: Email Setup
 ---
 # Change the Default From Email and From Label {#change-the-default-from-email-and-from-label}
 
-Each Admin user has the ability to change the default values for **[!UICONTROL From Email]** and **[!UICONTROL From Label]** so that when they create new emails, those defaults are used.
+Each Admin user can change the default values for **[!UICONTROL From Email]** and **[!UICONTROL From Label]** so that when they create new emails, those defaults are used.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Each Admin user has the ability to change the default values for **[!UICONTROL F
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Enter the default values you want for **[!UICONTROL From Email]** and **[!UICONTROL From Label]** then click **[!UICONTROL Save Changes]**.
+1. Enter the default values you want for **[!UICONTROL From Email]** and **[!UICONTROL From Label]**, then click **[!UICONTROL Save Changes]**.
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 
@@ -29,4 +29,4 @@ Each Admin user has the ability to change the default values for **[!UICONTROL F
 >
 >The change is only applicable to you and not to other Marketo users.
 
-Good job! Every time you create a new email the default values you set will be used.
+Now every time you create a new email, the default values you set will be used.

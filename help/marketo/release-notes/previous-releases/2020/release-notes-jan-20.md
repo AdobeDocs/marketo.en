@@ -28,7 +28,7 @@ The following features will be released on **January 17, 2020**.
 * **[!DNL Microsoft Dynamics] - Sync Lead to CRM in Real Time**: Real-time syncing of leads and contacts between Marketo Engage and [!DNL Microsoft Dynamics]. Create leads or contacts and see them in [!DNL Microsoft Dynamics] immediately with the "Sync Person to Microsoft" flow action.
 * **[!DNL LinkedIn] Lead Gen Forms Additional Field Mapping**: Capture lead data from [!DNL LinkedIn] Lead Gen Forms to create more relevant experiences for both sales and marketing touchpoints. Pull in hidden fields, consent fields, and the test leads field into Marketo Engage.
 * **Email Template Dependencies API**: Get a list of assets that depend on an email template to understand scope of potential changes and address dependencies to templates can be altered and deleted faster.
-* **Multi-Instance Management Enhancements**: Navigate to the instance you need quickly with a scrollable and alphabetical dropdown menu of your subscriptions.
+* **Multi-Instance Management Enhancements**: Navigate to the instance you need quickly with a scrollable and alphabetical drop-down menu of your subscriptions.
 
 ## Account-Based Marketing {#account-based-marketing}
 

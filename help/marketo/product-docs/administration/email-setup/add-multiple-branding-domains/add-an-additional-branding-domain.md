@@ -31,9 +31,9 @@ Add an additional branding domain when you're running multiple brands out of a s
 
 >[!NOTE]
 >
->* _Make Primary Domain_: Make this your primary domain, and all existing unsent emails set to "Default" and all newly created emails will default to the primary domain. You can [overwrite this on a per-email basis](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md){target="_blank"}.
+>* _Make Primary Domain_: Make this your primary domain, and all existing unsent emails that are set to "Default" and all newly created emails will default to the primary domain. You can [overwrite this on a per-email basis](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md){target="_blank"}.
 >
->* _Generate SSL Certificate_: You can create a Secure Sockets Layer (SSL) with the creation of the domain. The first tracking domain will initiate a one-time set up of infrastructure that may take a few hours. You will be notified upon completion, and you can then set up the first domain. To add SSL to your existing domains, please reach out to [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+>* _Generate SSL Certificate_: You can create a Secure Sockets Layer (SSL) with the creation of the domain. The first tracking domain will initiate a one-time setup of infrastructure that may take a few hours. You will be notified upon completion, and you can then set up the first domain. To add SSL to your existing domains, contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 ## Edit SSLs for existing domains
 
@@ -59,15 +59,15 @@ Follow these steps to enable SSL for your existing domains.
 <tbody>
 <tr>
     <td><i>Domain already exists.</i></td>
-    <td>A domain with same name already exists.</td>
+    <td>A domain with the same name already exists.</td>
   </tr>
   <tr>
     <td><i>Domain is not mapped to the default domain.</i></td>
-    <td>The custom domain is not correctly mapped to the default domain. Please verify the domain mapping settings and ensure the DNS configuration points to the correct default domain.</td>
+    <td>The custom domain is not correctly mapped to the default domain. Verify the domain mapping settings and ensure the DNS configuration points to the correct default domain.</td>
   </tr>
   <tr>
     <td><i>SSL certificates could not be issued due to unsupported CAA records. Request your IT to update your CAA records.</i></td>
-    <td>The CAA records are not up to date. For those using Marketo Engage managed SSL certificates, CAA records need to be updated to certificates recommended by our vendor. Please contact your IT department to update the CAA records. See <a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246">this page</a> for additional details.</td>
+    <td>The CAA records are not up to date. For those using Marketo Engage managed SSL certificates, CAA records need to be updated to certificates recommended by the Marketo vendor. Contact your IT department to update the CAA records. See <a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246">this page</a> for additional details.</td>
   </tr>
   <tr>
     <td><i>SSL certificate has already been issued.</i></td>
@@ -75,25 +75,25 @@ Follow these steps to enable SSL for your existing domains.
   </tr>
   <tr>
     <td><i>The default domain was not found. Please contact Support for assistance.</i></td>
-    <td>There was an issue when trying to locate the default domain. Please reach out to Support so they can investigate.</td>
+    <td>There was an issue when trying to locate the default domain. Contact Support for investigation.</td>
   </tr>
   <tr>
     <td><i>Unexpected error encountered while creating a domain. Please contact Support for assistance.</i></td>
-    <td>An unexpected error has occurred. Please gather logs and error details, and escalate the issue to <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo Support</a>.</td>
+    <td>An unexpected error has occurred. Gather logs and error details, and escalate the issue to <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo Support</a>.</td>
   </tr>
 </tbody></table>
 
 ## Things to Note {#things-to-note}
 
-* **DNS mapping for domain to Marketo Engage**: Before adding adding domains in the UI, you must [map CNAMEs to a Marketo-provided domain](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **DNS mapping for domain to Marketo Engage**: Before adding domains in the UI, you must [map CNAMEs to a Marketo-provided domain](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
-* **Custom SSLs**: If you need a custom SSL, please submit a [Support ticket](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Do not use the self-service checkbox for SSL creation.
+* **Custom SSLs**: If you need a custom SSL, submit a [Support ticket](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Do not use the self-service checkbox for SSL creation.
 
-* **Pre-existing SSLs**: While adding a domain, the system checks for pre-existing SSLs, which may have been manually created prior. If you encounter this validation, create your domain without selecting SSL creation, and we will connect them for you. [Contact Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} more additional details/options.
+* **Pre-existing SSLs**: While adding a domain, the system checks for pre-existing SSLs, which may have been manually created previously. If you encounter this validation, create your domain without selecting SSL creation and contact [Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} to have them connected.
 
 * **Deletion of domains**: Automatically deleting a domain **does not** delete the SSL certificate. This guardrail prevents user errors that result in a website being without SSL certificates. If you do want to remove the SSL certificates, [contact Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-* If the domain you add is listed as anything other than a CNAME, the ability to add further branded tracking domains will be locked out. You will need to edit any existing domain and ensure it is a CNAME record and not, say, an A record. The Add button dynamically checks for CNAMES and CNAMES only.
+* If the domain you add is listed as anything other than a CNAME, the ability to add further branded tracking domains will be locked out. You will need to edit any existing domain and ensure it is a CNAME record and not, for example, an A record. The Add button dynamically checks for CNAMEs only.
 
 >[!MORELIKETHIS]
 >

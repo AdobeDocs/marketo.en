@@ -125,7 +125,7 @@ To rename a pod, simply double-click the name in the pod title and type in a new
 
 ### Switching pods {#switching-pods}
 
-There is an easy way for hosts to switch between pods while staying in the same layout. To switch layout, click on the dropdown icon in the pod title and make a selection. The change will be reflected instantly to the participants. This option will be available on all pods which support multiple instances - Chat, Notes, Poll, Share, File share, Weblinks, and Quiz.
+There is an easy way for hosts to switch between pods while staying in the same layout. To switch layout, click on the drop-down icon in the pod title and make a selection. The change will be reflected instantly to the participants. This option will be available on all pods which support multiple instances - Chat, Notes, Poll, Share, File share, Weblinks, and Quiz.
 
 SCREENSHOT
 

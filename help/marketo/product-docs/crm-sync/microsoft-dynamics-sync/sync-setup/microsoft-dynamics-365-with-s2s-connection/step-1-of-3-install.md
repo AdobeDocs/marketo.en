@@ -28,7 +28,7 @@ Before you can sync [!DNL Microsoft Dynamics 365] and Marketo, you need to first
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. Click ![](assets/image2015-5-13-10-3a5-3a8.png) menu. In the dropdown menu select **[!UICONTROL Settings]** then select **[!UICONTROL Solutions]**.
+1. Click ![](assets/image2015-5-13-10-3a5-3a8.png) menu. In the drop-down menu select **[!UICONTROL Settings]** then select **[!UICONTROL Solutions]**.
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
