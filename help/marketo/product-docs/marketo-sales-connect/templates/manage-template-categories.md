@@ -1,7 +1,8 @@
 ---
-description: "Learn how to create, edit, merge duplicates, and delete Marketo Sales Connect template categories to keep your email templates organized and easy to find."
+description: Learn how to create, edit, merge duplicates, and delete Marketo Sales Connect template categories to keep your email templates organized and easy to find.
 title: Manage Template Categories
 feature: Marketo Sales Connect
+exl-id: 60836705-1e9a-422b-86c5-e8be1d58380a
 ---
 # Manage Template Categories {#manage-template-categories}
 
