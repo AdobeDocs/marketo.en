@@ -29,7 +29,7 @@ In this example, we'll choose open rate for the first three weeks of February, 2
 
    ![](assets/four.png)
 
-1. Click the first drop-down. Click to select your criteria (if it isn't selected already) and deselect any undesired criteria.
+1. Click the first drop-down. Click to select your criteria (if it is not selected already) and deselect any undesired criteria.
 
    ![](assets/5.png)
 

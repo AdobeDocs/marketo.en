@@ -7,7 +7,7 @@ feature: Events
 ---
 # Understanding Marketo On24 Adapter Events {#understanding-marketo-on-adapter-events}
 
-If your ON24 webinar isn't connected to Marketo, you have to take attendee information that’s already in Marketo and enter it into ON24. After the webinar, you have to take attendance information that’s already in ON24 and enter it back into Marketo.
+If your ON24 webinar is not connected to Marketo, you have to take attendee information that’s already in Marketo and enter it into ON24. After the webinar, you have to take attendance information that’s already in ON24 and enter it back into Marketo.
 
 The ON24 adapter does all the information transfer for you. It pushes registration information captured on a Marketo landing page to ON24 and pulls attendance information automatically into a Marketo Event.
 

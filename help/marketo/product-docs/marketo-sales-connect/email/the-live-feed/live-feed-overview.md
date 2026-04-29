@@ -23,7 +23,7 @@ People marked with a blue line represent engagement with emails sent through MSE
 
 >[!NOTE]
 >
->Overall, we determine locations as accurately as we can based on IP tracking. Unfortunately, it isn't an exact science. If we get the location wrong for one of your recipients, here are a couple of options as to what may have happened:
+>Overall, we determine locations as accurately as we can based on IP tracking. Unfortunately, it is not an exact science. If we get the location wrong for one of your recipients, here are a couple of options as to what may have happened:
 >
 >* If your recipient was logged-in to the wireless network for a company that has its IT headquarters in another city or country, we'd log that location rather than the recipient's current locale.
 >* If your email was forwarded or opened by someone in the CC/BCC field, we try to accurately display the location of those people.

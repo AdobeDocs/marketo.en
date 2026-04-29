@@ -235,7 +235,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
     <div>
      <p><strong> Default Program</strong></p>
     </div></td>
-   <td colspan="1">A program type in Marketo. A generic program you'll use when an email, event, or engagement program isn't relevant. <br></td>
+   <td colspan="1">A program type in Marketo. A generic program you'll use when an email, event, or engagement program is not relevant. <br></td>
   </tr>
   <tr>
    <td colspan="1"><strong>Deliverability</strong></td>

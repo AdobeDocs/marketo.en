@@ -19,7 +19,7 @@ When [adding fields to a form](/help/marketo/product-docs/demand-generation/form
 
    >[!NOTE]
    >
-   >If your form isn't approved, click **Edit draft**.
+   >If your form is not approved, click **Edit draft**.
 
 1. Select the field you want to make required and check **[!UICONTROL Is Required]**.
 

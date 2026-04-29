@@ -30,7 +30,7 @@ Here's how to export all roles and their permissions.
 
 >[!NOTE]
 >
->Make sure your browser isn't blocking pop-ups from Marketo.
+>Make sure your browser is not blocking pop-ups from Marketo.
 
 The data will export as a CSV and contain roles, permissions, and a count of how many permissions have been enabled per group.
 

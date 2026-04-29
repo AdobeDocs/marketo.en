@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 ---
 # Verify Your Email {#verify-your-email}
 
-If you have an email identity that isn't verified, follow the steps below.
+If you have an email identity that is not verified, follow the steps below.
 
 1. Click the gear icon on the top right and choose **[!UICONTROL Settings]**.
 

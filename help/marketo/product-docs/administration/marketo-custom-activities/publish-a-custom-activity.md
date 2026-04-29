@@ -7,7 +7,7 @@ feature: Custom Activities
 ---
 # Publish a Custom Activity {#publish-a-custom-activity}
 
-You have your custom activity exactly as you want it. Now, it's time to publish it!
+Learn how to publish your custom activity.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -25,12 +25,10 @@ You have your custom activity exactly as you want it. Now, it's time to publish 
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   You'll see your custom activity's [!UICONTROL state] go from [!UICONTROL Draft]...
+   The custom activity's [!UICONTROL State] changes from [!UICONTROL Draft]...
 
    ![](assets/publish-a-custom-activity-5.png)
 
    ...to [!UICONTROL Published].
 
    ![](assets/publish-a-custom-activity-6.png)
-
-   Nicely done!

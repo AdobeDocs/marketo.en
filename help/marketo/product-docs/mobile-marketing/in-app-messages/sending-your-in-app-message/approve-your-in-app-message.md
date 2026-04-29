@@ -15,7 +15,7 @@ You need to approve the send before the in-app message goes out.
 
    >[!NOTE]
    >
-   >If any part of the send process is incomplete, for example, the in-app message isn't approved, a warning message appears, indicating which area needs your attention. Go fix that and you should see the message in step 2.
+   >If any part of the send process is incomplete, for example, the in-app message is not approved, a warning message appears, indicating which area needs your attention. Go fix that and you should see the message in step 2.
 
 1. Click **[!UICONTROL Approve and Launch]**.
 

@@ -121,7 +121,7 @@ Learn more about Prepare Mode [in this video](https://www.youtube.com/watch?v=kU
 >[!NOTE]
 >
 >* Any changes made to the live pods are instantly reflected to the participants.
->* [Chat Panel](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} isn't part of Prepare mode and any changes to it will reflect instantly to the participants.
+>* [Chat Panel](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} is not part of Prepare mode and any changes to it will reflect instantly to the participants.
 
 ### Accessibility {#accessibility}
 

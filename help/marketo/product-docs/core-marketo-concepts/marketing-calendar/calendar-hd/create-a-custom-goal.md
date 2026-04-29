@@ -35,7 +35,7 @@ Like presentations, goals are [workspace](/help/marketo/product-docs/administrat
 
    ![](assets/image2015-3-24-12-3a36-3a0.png)
 
-1. Enter a value for the **[!UICONTROL Goal Target]** and the **[!UICONTROL Current Value]** (if there isn't one, enter **0**). Then click **[!UICONTROL Create]**.
+1. Enter a value for the **[!UICONTROL Goal Target]** and the **[!UICONTROL Current Value]** (if there is not one, enter **0**). Then click **[!UICONTROL Create]**.
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 

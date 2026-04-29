@@ -11,7 +11,7 @@ If your Adobe Marketo Engage account is connected to [!DNL Salesforce] through a
 
 >[!PREREQUISITES]
 >
->* The "MSI Non-Native" feature enabled for your Marketo instance before you start setting up MSI. If it isn't and you already purchased the feature, please contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. If you have not yet purchased this feature, contact the Adobe Account Team (your Account Manager).
+>* The "MSI Non-Native" feature enabled for your Marketo instance before you start setting up MSI. If it is not and you already purchased the feature, please contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. If you have not yet purchased this feature, contact the Adobe Account Team (your Account Manager).
 >* A Salesforce account with [MSI Package set up](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 >* Marketo REST API [successfully set up](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. The exposed CRUD APIs will be the basis of performing the non-native sync.
 >* Read [this blog post](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} in order to get an understanding of the object and relationships.

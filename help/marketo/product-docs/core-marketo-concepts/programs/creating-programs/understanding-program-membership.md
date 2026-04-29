@@ -46,7 +46,7 @@ The purpose of a program is to create a meaningful interaction with the person o
 
 >[!NOTE]
 >
->For a webinar, registering isn't a meaningful interaction if they don't actually watch the webinar. Attending is success in this case.
+>For a webinar, registering is not a meaningful interaction if they don't actually watch the webinar. Attending is success in this case.
 
 ## Acquisition Program {#acquisition-program}
 

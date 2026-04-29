@@ -6,6 +6,6 @@ feature: Sales Insight Actions
 ---
 # Why Is Tracking Activity Not Showing in [!DNL Salesforce] Activity? {#why-is-tracking-activity-not-showing-in-salesforce-activity}
 
-If your tracking activity isn't showing, make sure the custom activity fields that [!DNL Sales Insight Actions] provides are visible/editable in [!DNL Salesforce]. If you've installed the fields but they are not populating, there might be Field-Level Security preventing information from populating. Please check with your [!DNL Salesforce] Admin.
+If your tracking activity is not showing, make sure the custom activity fields that [!DNL Sales Insight Actions] provides are visible/editable in [!DNL Salesforce]. If you've installed the fields but they are not populating, there might be Field-Level Security preventing information from populating. Please check with your [!DNL Salesforce] Admin.
 
 Learn more about [Field-Level Security](https://help.salesforce.com/articleView?id=admin_fls.htm&type=5) in [!DNL Salesforce].

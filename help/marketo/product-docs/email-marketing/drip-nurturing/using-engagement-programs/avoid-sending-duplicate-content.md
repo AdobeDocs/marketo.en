@@ -7,7 +7,7 @@ feature: Engagement Programs
 ---
 # Avoid Sending Duplicate Content {#avoid-sending-duplicate-content}
 
-Have you ever received the same email twice? Annoying, isn't it?
+Have you ever received the same email twice? Annoying, is not it?
 
 Here are seven possible scenarios and results to be aware of to prevent sending someone the same message twice with engagement programs.
 

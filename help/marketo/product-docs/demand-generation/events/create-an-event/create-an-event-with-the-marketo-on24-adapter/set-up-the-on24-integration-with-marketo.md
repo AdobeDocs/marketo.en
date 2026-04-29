@@ -46,7 +46,7 @@ Here's how to set up your ON24 event integration.
 
 >[!NOTE]
 >
->An invitation isn't required for API Only users.
+>An invitation is not required for API Only users.
 
 ## Set up ON24 Connection {#set-up-on24-connection}
 

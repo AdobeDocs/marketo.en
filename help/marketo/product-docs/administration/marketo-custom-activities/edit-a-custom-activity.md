@@ -7,7 +7,7 @@ feature: Custom Activities
 ---
 # Edit a Custom Activity {#edit-a-custom-activity}
 
-Need to make changes to a custom activity you've already created? Here's how.
+To make changes to a custom activity that has already been created, follow the steps below.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -25,15 +25,15 @@ Need to make changes to a custom activity you've already created? Here's how.
 
    ![](assets/edit-a-custom-activity-4.png)
 
-   Edit Activity Type appears. In this example, we're fixing a typo.
+   Edit Activity Type appears. In this example, a typo is being corrected.
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. Enter your new info and click **[!UICONTROL Submit]**.
+1. Enter the updated information and click **[!UICONTROL Submit]**.
 
    ![](assets/edit-a-custom-activity-6.png)
 
-   Your custom activity is now edited!
+   The custom activity has been updated.
 
    >[!NOTE]
    >

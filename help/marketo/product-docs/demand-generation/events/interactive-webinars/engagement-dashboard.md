@@ -297,7 +297,7 @@ Understand the criteria for classifying the engagement level for each participan
   <tr>
     <td>Medium</td>
     <td>Participants who meet all of the following criteria:
-    <li>The attendee's engagement level isn't determined to be high.</li>
+    <li>The attendee's engagement level is not determined to be high.</li>
     <li>The duration of attendance is at least 60% of the total event time.</li>
     <li>At least one of the following actions has been performed by the attendee:
     <ul>

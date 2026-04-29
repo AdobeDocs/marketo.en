@@ -46,7 +46,7 @@ Easily create SMS messages right within Marketo. Personalize and target your mes
 
 **Module-level Variables**
 
-Previously, all variables specified in Email 2.0 Templates were "global" in scope. When using variables within modules, this isn't always desirable if you plan to use multiple instances of the module. With this release, variables can now be specified as "module level," which allows you to indicate that the user should be able to set unique values for each module they're used in.
+Previously, all variables specified in Email 2.0 Templates were "global" in scope. When using variables within modules, this is not always desirable if you plan to use multiple instances of the module. With this release, variables can now be specified as "module level," which allows you to indicate that the user should be able to set unique values for each module they're used in.
 
 ![](assets/module-level-variables.png)
 

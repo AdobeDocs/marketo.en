@@ -146,7 +146,7 @@ Organize your Marketing Activities section properly to help others find and mana
   <tr>
    <td>Email Deliverability</td>
    <td><li>Pull an <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Email Performance Report</a> for sends in the past few months. How does email deliverability look?</li>
-<li>If your email deliverability isn't as strong as you'd like, consider investigating and implementing email deliverability best practices such as <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF and DKIM</a>.</li>
+<li>If your email deliverability is not as strong as you'd like, consider investigating and implementing email deliverability best practices such as <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF and DKIM</a>.</li>
 <li>Are you reaching out to your full marketable audience?</li></td>
   </tr>
   <tr>

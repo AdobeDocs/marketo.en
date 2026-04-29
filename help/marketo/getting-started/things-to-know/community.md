@@ -62,7 +62,7 @@ SCREENSHOT
 
 ## Marketo User Groups {#marketo-user-groups}
 
-Marketo User Groups (MUGs) are meetups that occur in different areas around the world. They provide you with the opportunity to network, discuss latest trends, learn about new features, and more. Check to see if there's one in your area. If there isn't, you can join a virtual user group!
+Marketo User Groups (MUGs) are meetups that occur in different areas around the world. They provide you with the opportunity to network, discuss latest trends, learn about new features, and more. Check to see if there's one in your area. If there is not, you can join a virtual user group!
 
 SCREENSHOT
 

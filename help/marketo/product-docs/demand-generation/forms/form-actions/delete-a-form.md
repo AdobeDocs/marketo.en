@@ -23,7 +23,7 @@ If you have a form that you don't need and is not being used, you can delete it.
 
    >[!NOTE]
    >
-   >Remember to remove the form from any/all landing pages using it. Also, confirm that the form isn't being used on a public website.
+   >Remember to remove the form from any/all landing pages using it. Also, confirm that the form is not being used on a public website.
 
 1. Confirm by clicking **[!UICONTROL Delete]**.
 

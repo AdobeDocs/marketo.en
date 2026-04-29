@@ -174,7 +174,7 @@ Part of our [!DNL Salesforce] integration includes a [!DNL Salesforce] Diagnosti
 
 **Error:** TXN_SECURITY_NO_ACCESS
 **Category:** Access/Validation
-**Message:** The operation you requested isn't allowed due to a security policy in your organization. Contact your administrator.
+**Message:** The operation you requested is not allowed due to a security policy in your organization. Contact your administrator.
 **What is Happening:** Some kind of security restriction has been set up - see <https://developer.salesforce.com/forums/?id="record> ID"
 **Troubleshooting Steps:** Talk to your [!DNL Salesforce] Admin and see what the specific restriction might be.
 

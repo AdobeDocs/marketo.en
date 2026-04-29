@@ -28,4 +28,4 @@ Follow the steps below to export your Custom Activity Metadata Schema.
 >
 >The Custom Activity must be in the Approved state to be exported.
 
-You now have a spreadsheet with the Schema of the Custom Activty, across three tabs.
+You now have a spreadsheet with the schema of the Custom Activity, across three tabs.

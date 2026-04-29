@@ -13,7 +13,7 @@ In the navigation tree, right-click the file for the notification you want to pr
 
 >[!NOTE]
 >
->If push notification is enabled for only one platform, the tab for the other platform isn't displayed.
+>If push notification is enabled for only one platform, the tab for the other platform is not displayed.
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
@@ -39,7 +39,7 @@ On the Lock screen, it pops up partway down, under the time.
 
 >[!NOTE]
 >
->There isn't a Notification Center view in Android.
+>There is not a Notification Center view in Android.
 
 ## iOS Previews {#ios-previews}
 

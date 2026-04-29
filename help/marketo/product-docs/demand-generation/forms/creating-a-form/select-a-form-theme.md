@@ -20,7 +20,7 @@ We made a bunch of nice themes for your forms. Which do you like best?
 
    >[!NOTE]
    >
-   >If your form isn't approved, click **Edit draft**.
+   >If your form is not approved, click **Edit draft**.
 
 1. Go to **[!UICONTROL Form Settings]**.
 

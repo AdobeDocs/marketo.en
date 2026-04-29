@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # Before You Create Push Notifications and In-App Messages {#before-you-create-push-notifications-and-in-app-messages}
 
-Creating push notifications and in-app messages isn't difficult, but you need to have everything ready before you can start. The Marketo Admin and mobile app developer should follow the steps below to prepare the necessary integrations.
+Creating push notifications and in-app messages is not difficult, but you need to have everything ready before you can start. The Marketo Admin and mobile app developer should follow the steps below to prepare the necessary integrations.
 
 1. First, the Marketo Admin [adds a mobile app](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md).
 

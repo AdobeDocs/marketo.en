@@ -29,7 +29,7 @@ First check that you have the correct picklist values in place. You'll need the 
 1. Click **[!UICONTROL Activities]**.
 1. Click **[!UICONTROL Task Fields]**.
 1. Click **[!UICONTROL Type]**.
-1. You are now at the Task Type Picklist. Make sure there isn't a 'Default' selected.
+1. You are now at the Task Type Picklist. Make sure there is not a 'Default' selected.
 1. Make sure there's a [!UICONTROL Type] value listed for [!UICONTROL Email], [!UICONTROL Call], and [!UICONTROL Reply].
 
 Now that this is in place, you will begin to see the Type field populate the corresponding value for logged Emails, Calls, and Replies. These values will _not_ be populated on Sales Connect reminder tasks.
