@@ -6,21 +6,21 @@ feature: Marketo with Adobe Identity
 ---
 # Admin Setup {#admin-setup}
 
-After you're added as an Adobe System Admin to Marketo Engage in an Adobe org, there are a few steps you'll need to take to complete the initial setup.
+After you are added as an Adobe System Admin to Marketo Engage in an Adobe org, there are a few steps you will need to take to complete the initial setup.
 
 ## Initial Setup {#initial-setup}
 
-1. After you've been added as a designated System Admin for Marketo Engage (in a new or established org), you'll receive a welcome email. In that email, click **[!UICONTROL Get Started]**.
+1. After you have been added as a designated System Admin for Marketo Engage (in a new or established org), you will receive a welcome email. In that email, click **[!UICONTROL Get Started]**.
 
    ![](assets/admin-setup-1.png)
 
-1. If you've previously accessed an application with an Adobe ID, you'll be taken straight to the Adobe Admin Console. If not, [set up your Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. If you have previously accessed an application with an Adobe ID, you will be taken straight to the Adobe Admin Console. If not, [set up your Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 
 ## Create a Product Profile {#create-a-product-profile}
 
-After the System Admin accesses the Admin Console, it's time to create a product profile. This is how your users/Admins get access to Marketo Engage.
+After the System Admin accesses the Admin Console, it is time to create a product profile. This is how your users and Admins get access to Marketo Engage.
 
 1. In the **[!UICONTROL Overview]** page, under **[!UICONTROL Products and Services]**, click **Marketo Engage**.
 
@@ -46,7 +46,7 @@ After the System Admin accesses the Admin Console, it's time to create a product
 
 >[!NOTE]
 >
->If you set up multiple product profiles, users will have the same access to Marketo, regardless of which profile they're added to.
+>If you set up multiple product profiles, users will have the same access to Marketo, regardless of which profile they are added to.
 
 >[!MORELIKETHIS]
 >

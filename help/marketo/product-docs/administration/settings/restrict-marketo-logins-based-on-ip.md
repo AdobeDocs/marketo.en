@@ -7,7 +7,7 @@ feature: Administration
 ---
 # Restrict Marketo Logins Based on IP {#restrict-marketo-logins-based-on-ip}
 
-You can restrict or enable users from accessing Marketo based on their IP addresses. Here's how.
+You can restrict or enable users from accessing Marketo based on their IP addresses. Follow the steps below.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ You can restrict or enable users from accessing Marketo based on their IP addres
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. Choose whether you want to **Allow** or **Block** specific addresses, enter the address(es), then click **[!UICONTROL Save]**.
+1. Choose whether you want to **Allow** or **Block** specific addresses, enter one or more addresses, then click **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
@@ -46,6 +46,6 @@ You can restrict or enable users from accessing Marketo based on their IP addres
 
    >[!NOTE]
    >
-   >You can add multiple restrictions, but they can only be ALL allowed or ALL blocked. You cannot mix and match allowed and blocked.
+   >You can add multiple restrictions, but they can only be ALL allowed or ALL blocked. You cannot combine allowed and blocked addresses.
 
    ![](assets/restrict-marketo-logins-based-on-ip-4.png)

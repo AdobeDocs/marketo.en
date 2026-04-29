@@ -7,7 +7,7 @@ feature: Administration
 ---
 # Edit Subscription Settings {#edit-subscription-settings}
 
-If you have access to multiple Marketo subscriptions and want to be sure which one you're using, try giving each one a unique name. That name then displays at the top of your subscription page.
+If you have access to multiple Marketo subscriptions and want to confirm which one you are using, give each one a unique name. That name then displays at the top of your subscription page.
 
 For example, if you work in both production and sandbox instances, you can name one subscription **Marketo Production** and the other **Marketo Sandbox**.
 

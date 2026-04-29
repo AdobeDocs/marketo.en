@@ -7,7 +7,7 @@ feature: Administration, Landing Pages
 ---
 # Edit Landing Page Settings {#edit-landing-page-settings}
 
-You can edit your domain name and fallback page, enable or disable form prefill, prevent misuse of your landing page, and more. Here's how.
+You can edit your domain name and fallback page, enable or disable form prefill, prevent misuse of your landing page, and more. Follow the steps below.
 
 >[!NOTE]
 >
@@ -31,8 +31,8 @@ You can edit your domain name and fallback page, enable or disable form prefill,
 
    | Term |Definition |
    |---|---|
-   | [!UICONTROL Domain name for landing pages] |This is your CNAME. A CNAME is the first part of the URL you give people for landing pages. For example, in `https://go.yourCompany.com`, the word "go" is the CNAME. You can have multiple, but most people just use the one. |
-   | [!UICONTROL Fallback page] |This is where to go if the landing page doesn't exist or is down. Learn more about [fallback pages](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | [!UICONTROL Domain name for landing pages] |This is your CNAME. A CNAME is the first part of the URL you give people for landing pages. For example, in `https://go.yourCompany.com`, the word "go" is the CNAME. You can have multiple, but most people use only one. |
+   | [!UICONTROL Fallback page] |This is where to go if the landing page does not exist or is down. Learn more about [fallback pages](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | [!UICONTROL Homepage] |Enter your corporate site URL. |
 
 1. Check the **[!UICONTROL Form Prefill]** checkbox to allow forms to prefill information for known (cookied) people. Uncheck to block.
@@ -49,4 +49,4 @@ You can edit your domain name and fallback page, enable or disable form prefill,
 
    ![](assets/edit-landing-page-settings-6.png)
 
-   Great job! Your landing pages now have the right information and should start working right away.
+   Your landing pages now have the right information and should start working immediately.

@@ -6,7 +6,7 @@ feature: Campaign Inspector
 ---
 # Campaign Inspector {#campaign-inspector}
 
-Use the Campaign Inspector to view/search all of your Smart Campaigns in one place.
+Use the Campaign Inspector to view and search all of your Smart Campaigns in one place.
 
 ## Enable Campaign Inspector {#enable-campaign-inspector}
 
@@ -28,7 +28,7 @@ Use the Campaign Inspector to view/search all of your Smart Campaigns in one pla
 
    >[!NOTE]
    >
-   >The desired workspace needs to be selected in the tree in order to see the Campaign Inspector tab after it's been enabled.
+   >The desired workspace needs to be selected in the tree in order to see the Campaign Inspector tab after it has been enabled.
 
 ## Using Campaign Inspector {#using-campaign-inspector}
 

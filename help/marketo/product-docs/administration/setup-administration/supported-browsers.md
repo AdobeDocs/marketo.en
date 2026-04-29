@@ -20,4 +20,4 @@ Marketo currently supports the following browsers:
 >
 >For users who have been migrated to [Marketo with Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, all browsers are supported on both Mac and Windows, with the exception of Microsoft Edge in Strict mode.
 
-For the best experience, **keep your browser updated**!
+For the best experience, **keep your browser updated**.

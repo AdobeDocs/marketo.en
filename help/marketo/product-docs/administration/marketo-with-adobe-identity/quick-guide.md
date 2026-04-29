@@ -18,8 +18,7 @@ Product Profile and Product Admin Creation.
 
 ## User Management {#user-management}
 
-Adding and Removing users. Completed by Product Admin (or System
-Admin).
+Adding and removing users. Completed by Product Admin (or System Admin).
 
 [Add a User](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user){target="_blank"}
 

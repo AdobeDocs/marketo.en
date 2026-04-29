@@ -25,7 +25,7 @@ These settings will impact [!UICONTROL Revenue Explorer] reports under the [Prog
 
    >[!TIP]
    >
-   >Changing this setting does not modify any Marketo data; it simply changes the way your reports run. This can be reverted at any time.
+   >Changing this setting does not modify any Marketo data; it changes the way your reports run. This can be reverted at any time.
 
 1. Select an option and click **[!UICONTROL Save]**.
 

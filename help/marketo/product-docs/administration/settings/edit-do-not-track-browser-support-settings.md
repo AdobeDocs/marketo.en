@@ -15,7 +15,7 @@ feature: Administration
 
 >[!NOTE]
 >
->"Do Not Track" will be set to **[!UICONTROL Ignore]** by default, so if that's what you want, you won't need to take any steps.
+>"Do Not Track" will be set to **[!UICONTROL Ignore]** by default, so if that is what you want, you will not need to take any steps.
 
 1. Click **[!UICONTROL Admin]**.
 
@@ -33,14 +33,14 @@ feature: Administration
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
-   After saving the changes, you'll see the update.
+   After saving the changes, you will see the update.
 
    ![](assets/edit-do-not-track-browser-support-settings-5.png)
 
    >[!NOTE]
    >
-   >Best practice is to support the "Do Not Track" feature. In Europe, it's the law!
+   >Best practice is to support the "Do Not Track" feature. In Europe, it is the law.
 
    >[!TIP]
    >
-   >To learn more about "Do Not Track" and how it works, please visit [this page](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >To learn more about "Do Not Track" and how it works, visit [this page](https://en.wikipedia.org/wiki/Do_Not_Track).

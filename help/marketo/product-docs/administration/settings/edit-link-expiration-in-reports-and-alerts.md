@@ -7,7 +7,7 @@ feature: Administration
 ---
 # Edit Link Expiration in Reports and Alerts {#edit-link-expiration-in-reports-and-alerts}
 
-Links in your report subscription emails expire after three days. In order to change the expiration time for these links, follow these steps.
+Links in your report subscription emails expire after three days. To change the expiration time for these links, follow these steps.
 
 >[!NOTE]
 >

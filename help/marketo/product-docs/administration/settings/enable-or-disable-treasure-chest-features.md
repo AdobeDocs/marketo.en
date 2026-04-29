@@ -7,7 +7,7 @@ feature: Administration
 ---
 # Enable or Disable Treasure Chest Features {#enable-or-disable-treasure-chest-features}
 
-The Treasure Chest holds fun experimental features that are not fully supported.
+The Treasure Chest contains experimental features that are not fully supported.
 
 >[!NOTE]
 >
@@ -31,4 +31,4 @@ The Treasure Chest holds fun experimental features that are not fully supported.
 
    >[!TIP]
    >
-   >You may need to log out then back into Marketo to see the changes take effect.
+   >You may need to log out and back in to Marketo to see the changes take effect.

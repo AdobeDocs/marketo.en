@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359902
-description: "How admins view and edit default the default currency for their Marketo Engage subscription."
+description: "How admins view and edit the default currency for their Marketo Engage subscription."
 title: Set the Default Currency
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration

@@ -7,7 +7,7 @@ feature: Administration
 ---
 # Minimum System Requirements {#minimum-system-requirements}
 
-If you are wondering what you need to log in and use Marketo Engage, here's the information you're looking for.
+If you are wondering what you need to log in and use Marketo Engage, here is the information you are looking for.
 
 >[!NOTE]
 >

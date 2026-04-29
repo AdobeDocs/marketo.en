@@ -7,7 +7,7 @@ feature: Administration
 ---
 # Enable Personalized URLs for Your Account {#enable-personalized-urls-for-your-account}
 
-Personalized URLs are great for print mail campaigns.
+Personalized URLs are useful for print mail campaigns.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Personalized URLs are great for print mail campaigns.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-Great job! Now that you have enabled PURLs for your account, you can [enable them for individual landing pages](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
+Now that you have enabled PURLs for your account, you can [enable them for individual landing pages](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >

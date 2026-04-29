@@ -31,10 +31,10 @@ Follow the steps below to customize some of the HTTP headers on your Landing Pag
  </tr>
  <tr>
   <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
-  <td>Lets you define whether or not Marketo Engage hosted assets can be embedded in external web pages</td>
+  <td>Allows you to define whether or not Marketo Engage hosted assets can be embedded in external web pages</td>
  </tr>
 </table>
 
 >[!CAUTION]
 >
->It's important to review these settings with your IT team to determine what your organization's policy should be set to. Incorrect settings can prevent some visitors from accessing your Landing Pages.
+>It is important to review these settings with your IT team to determine what your organization's policy should be set to. Incorrect settings can prevent some visitors from accessing your Landing Pages.

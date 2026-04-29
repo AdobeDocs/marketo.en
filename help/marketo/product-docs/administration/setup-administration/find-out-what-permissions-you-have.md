@@ -7,7 +7,7 @@ feature: Administration
 ---
 # Find Out What Permissions You Have {#find-out-what-permissions-you-have}
 
-If you're wondering what permissions you have or don't have in Marketo, there's an easy way for you to find out.
+Follow the steps below to view what permissions you have in Marketo.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -17,7 +17,7 @@ If you're wondering what permissions you have or don't have in Marketo, there's 
 
    ![](assets/find-out-what-permissions-you-have-2.png)
 
-You'll see the permissions listed out.
+You will see the permissions listed out.
 
    ![](assets/find-out-what-permissions-you-have-3.png)
 

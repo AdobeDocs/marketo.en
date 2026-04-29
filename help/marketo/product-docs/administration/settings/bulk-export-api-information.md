@@ -10,7 +10,7 @@ Learn how to check how much [Bulk Extract API](https://experienceleague.adobe.co
 
 >[!NOTE]
 >
->If you need additional capacity, please contact your Account Representative.
+>If you need additional capacity, contact your Account Representative.
 
 1. Go to the **[!UICONTROL Admin]** area.
 

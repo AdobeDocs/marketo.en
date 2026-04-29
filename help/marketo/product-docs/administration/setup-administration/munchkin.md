@@ -7,6 +7,6 @@ feature: Administration, Munchkin Tracking Code
 ---
 # [!DNL Munchkin] {#munchkin}
 
-[!DNL Munchkin] is the JavaScript snippet you put on your website. It tracks visits, clicks, and form fill outs. It also has a rich API to do all sorts of cool stuff.
+[!DNL Munchkin] is the JavaScript snippet you put on your website. It tracks visits, clicks, and form fill outs. It also has a rich API with additional capabilities.
 
-Check out the [developer page on [!DNL Munchkin]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"} to learn more.
+See the [developer page on [!DNL Munchkin]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"} to learn more.

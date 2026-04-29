@@ -29,4 +29,4 @@ Follow the steps below to customize your email tracking link headers.
 
 >[!CAUTION]
 >
->It's important to review these settings with your IT team to determine what your organization's policy should be set to. Incorrect settings can prevent some visitors from accessing your Email links.
+>It is important to review these settings with your IT team to determine what your organization's policy should be set to. Incorrect settings can prevent some visitors from accessing your Email links.

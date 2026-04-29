@@ -7,7 +7,7 @@ feature: Administration
 ---
 # Creating a Custom Tab for the Person Detail Page {#creating-a-custom-tab-for-the-person-detail-page}
 
-If you find yourself looking for a specific set of fields in the person detail over and over again, consider creating a custom layout to make things easier.
+If you frequently need to access a specific set of fields in the person detail page, consider creating a custom layout.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -37,6 +37,6 @@ If you find yourself looking for a specific set of fields in the person detail o
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
-   Awesome work! Now when you load a person's details, you can use your custom layout to access the information important to you.
+   When you load a person's details, you can use your custom layout to access the information important to you.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

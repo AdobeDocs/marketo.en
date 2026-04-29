@@ -7,7 +7,7 @@ feature: Administration
 ---
 # Set a Fallback Page {#set-a-fallback-page}
 
-Fallback pages are the last line of defense if your landing page is offline or not found. Make sure you have one.
+Fallback pages are the last line of defense if your landing page is offline or not found. Ensure you have one set up.
 
 >[!NOTE]
 >

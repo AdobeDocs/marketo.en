@@ -16,7 +16,7 @@ Marketo provides marketers with a way to get web visitors' consent to track them
 
 Or, the marketer can track users, but use an anonymized IP.
 
-These methods might affect Marketo's value and functionality in specific areas. However, if the marketer _doesn't_ change anything in Marketo's configuration, Marketo functionality remains the same.
+These methods might affect Marketo's value and functionality in specific areas. However, if the marketer _does not_ change anything in Marketo's configuration, Marketo functionality remains the same.
 
 ## Browser Settings for Do Not Track {#browser-settings-for-do-not-track}
 
@@ -34,9 +34,9 @@ In order to do this, you must add a parameter to an opt out link on a webpage th
 
 ?marketo_opt_out=true
 
-Below are examples of a webpage with an opt-out link and a landing page for after the link is clicked. Yours will vary.
+Below are examples of a webpage with an opt-out link and a landing page for after the link is clicked. These will vary.
 
-Here's a webpage with a button with the "?marketo_opt_out=true" parameter in the opt-out link.
+Here is a webpage with a button with the "?marketo_opt_out=true" parameter in the opt-out link.
 
 ![](assets/understanding-privacy-settings-1.png)
 
@@ -60,9 +60,9 @@ Marketers can enable users to opt in by using Marketo's capabilities in emails, 
 
 ## Tracking Using an Anonymized IP {#tracking-using-an-anonymized-ip}
 
-Marketers can preserve privacy by tracking users with an anonymized IP address. To do that, add this code to the RTP or [!DNL Munchkin] Javascript that's embedded in the website.
+Marketers can preserve privacy by tracking users with an anonymized IP address. To do that, add this code to the RTP or [!DNL Munchkin] JavaScript that is embedded in the website.
 
-* For [!DNL Munchkin], just add `{"anonymizeIP",true}` to the [init function](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* For [!DNL Munchkin], add `{"anonymizeIP",true}` to the [init function](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * For Web Personalization (RTP), add this to the javascript:
 

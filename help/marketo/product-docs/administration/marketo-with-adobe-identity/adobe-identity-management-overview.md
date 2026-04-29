@@ -15,11 +15,11 @@ For subscriptions onboarded to Adobe identity, the Adobe Admin Console is used f
 
 >[!NOTE]
 >
->If you want to implement Single Sign-On and your subscription has been onboarded to Adobe Identity without SSO implemented in the Adobe Org, please submit a ticket to [Marketo Support](https://nation.marketo.com/){target="_blank"} and specify the topic as "Marketo on Admin Console, implementing SSO."
+>If you want to implement Single Sign-On and your subscription has been onboarded to Adobe Identity without SSO implemented in the Adobe Org, submit a ticket to [Marketo Support](https://nation.marketo.com/){target="_blank"} and specify the topic as "Marketo on Admin Console, implementing SSO."
 
 ## Profile Levels {#profile-levels}
 
-Adobe Marketo Engage subscriptions onboarded to the Adobe Identity Management System supports various profiles. The following are the types of user profiles relevant in this integration.
+Adobe Marketo Engage subscriptions onboarded to the Adobe Identity Management System support various profiles. The following are the types of user profiles relevant in this integration.
 
 <table>
  <tr>
@@ -32,12 +32,12 @@ Adobe Marketo Engage subscriptions onboarded to the Adobe Identity Management Sy
  </tr>
  <tr>
   <td><strong>Adobe Admin Console Product Profile Admin</strong></td>
-  <td>Responsible for administering users within a product profile. They cannot manage users outside of that specific profile. A product profile admin does not have access to the Marketo application unless added to the product profile as a user. Their role would be still a standard user (default workspace if have more than one workspace).
+  <td>Responsible for administering users within a product profile. They cannot manage users outside of that specific profile. A product profile admin does not have access to the Marketo application unless added to the product profile as a user. Their role would still be a standard user (default workspace if have more than one workspace).
 </td>
  </tr>
  <tr>
   <td><strong>Marketo Engage Admin</strong></td>
-  <td>A person who has been given access to Marketo Engage with Administrative privileges. Granted role in Marketo Engage, not Adobe Admin Console (appears as just "Admin" in the <b>Edit User</b> modal).</td>
+  <td>A person who has been given access to Marketo Engage with Administrative privileges. Granted role in Marketo Engage, not Adobe Admin Console (appears only as "Admin" in the <b>Edit User</b> modal).</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage User</strong></td>

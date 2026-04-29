@@ -6,7 +6,7 @@ feature: Marketo with Adobe Identity
 ---
 # User Sign-in with Adobe ID {#user-sign-in-with-adobe-id}
 
-When a user with Adobe Identity needs to log in to the Marketo Engage Application, they must log in through the AdobeID login link versus the typical login on the Marketo Engage Login page. Upon clicking the link, the user will be directed to the Marketo Engage Application.
+When a user with Adobe Identity needs to log in to the Marketo Engage Application, they must log in through the AdobeID login link rather than the typical login on the Marketo Engage Login page. Upon clicking the link, the user will be directed to the Marketo Engage Application.
 
 1. Click **[!UICONTROL Continue with AdobeID]** on the Marketo Engage login page.
 
@@ -16,4 +16,4 @@ When a user with Adobe Identity needs to log in to the Marketo Engage Applicatio
 
    ![](assets/user-sign-in-with-adobe-id-2.png)
 
-Upon successful sign-in, you'll be directed to the Marketo Engage application.
+Upon successful sign-in, you will be directed to the Marketo Engage application.

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359904
-description: "Quickly and easily update the time zone in your Marketo Engage subscription."
+description: "How to update the time zone in your Marketo Engage subscription."
 title: Change Your Time Zone
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
