@@ -31,7 +31,7 @@ Tags are attributes that describe your programs and are used to group program ty
 
    ![](assets/use-tags-in-a-program-4.png)
 
-1. Right on. You'll see the new tag in the canvas.
+1. The new tag now appears in the canvas.
 
    ![](assets/use-tags-in-a-program-5.png)
 
@@ -49,7 +49,7 @@ Tags are attributes that describe your programs and are used to group program ty
 
    ![](assets/use-tags-in-a-program-8.png)
 
-1. Great! You should see the edits reflected in the canvas.
+1. The edits should now be reflected in the canvas.
 
    ![](assets/use-tags-in-a-program-9.png)
 
@@ -63,4 +63,4 @@ Tags are attributes that describe your programs and are used to group program ty
 
    ![](assets/use-tags-in-a-program-11.png)
 
-Nice work! Programs with consistent tags make things much easier when you run your reports.
+Programs with consistent tags make reporting more efficient.

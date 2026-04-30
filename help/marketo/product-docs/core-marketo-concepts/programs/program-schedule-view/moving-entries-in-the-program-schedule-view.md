@@ -17,7 +17,7 @@ Moving entries in the schedule view will automatically reschedule them.
 
    ![](assets/image2014-9-18-17-3a47-3a23.png)
 
-1. Our data retriever then unapproves, changes the date, and reapproves the asset. He's cool like that.
+1. Marketo unapproves, changes the date, and reapproves the asset automatically.
 
    ![](assets/image2014-9-18-17-3a47-3a35.png)
 

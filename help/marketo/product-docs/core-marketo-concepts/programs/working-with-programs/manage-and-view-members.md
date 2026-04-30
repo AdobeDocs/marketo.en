@@ -73,11 +73,9 @@ You can change the status of your people inside the members grid.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
-   This may take a moment. You'll see the message below when it is all done!
+   This may take a moment. The message below appears when the process is complete.
 
    ![](assets/changestatusconfirm.png)
-
-So many features, but they're all pretty straightforward. Enjoy!
 
 >[!MORELIKETHIS]
 >

@@ -165,4 +165,4 @@ For further strategy assistance or help customizing a program, please contact th
 
 >[!TIP]
 >
->Don't forget to activate the "04 - Engaged (Program Success)" campaign for tracking success! Do this _before_ your emails are sent.
+>Activate the "04 - Engaged (Program Success)" Campaign for tracking success before your form is live and emails are sent. 

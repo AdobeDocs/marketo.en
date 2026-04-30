@@ -35,7 +35,7 @@ Cloning a program clones _everything_. Sometimes, you just want to clone one ass
    >
    >You can also clone an asset to a different program. Use the **[!UICONTROL Program]** drop-down to make your selection.
 
-1. Great! You should now see the new cloned asset.
+1. The new cloned asset should now be visible.
 
    ![](assets/report.jpg)
 

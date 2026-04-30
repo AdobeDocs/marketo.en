@@ -53,7 +53,7 @@ You can import a list of people who automatically become members of a program. H
 
    ![](assets/image2014-9-18-15-3a44-3a37.png)
 
-   Great! You should see the new members you imported.
+   The new members should now appear.
 
    ![](assets/image2014-9-18-15-3a45-3a16.png)
 

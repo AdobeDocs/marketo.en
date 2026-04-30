@@ -202,7 +202,7 @@ SCREENSHOT OF CONFLICT RULES
 
 >[!TIP]
 >
->Don't forget to activate the "02 - Engaged (Program Success)" Campaign for tracking success! Do this _before_ your form is live and emails are sent.
+>Activate the "02 - Engaged (Program Success)" Campaign for tracking success before your form is live and emails are sent.
 
 >[!IMPORTANT]
 >

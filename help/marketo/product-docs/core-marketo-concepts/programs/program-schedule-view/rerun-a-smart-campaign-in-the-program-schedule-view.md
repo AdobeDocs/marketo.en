@@ -7,7 +7,7 @@ feature: Programs, Smart Campaigns
 ---
 # Rerun a Smart Campaign in the Program Schedule View {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
-You can easily create new runs of an existing Smart Campaign directly from the program schedule view.
+New runs of an existing Smart Campaign can be created directly from the program schedule view.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -17,11 +17,11 @@ You can easily create new runs of an existing Smart Campaign directly from the p
 
    ![](assets/image2015-4-16-14-3a40-3a11.png)
 
-1. In the schedule view, click the day you want to set your new run for, and give your entry a name that's easily understood (e.g., "Second Invite").
+1. In the schedule view, click the day you want to set your new run for, and give your entry a name that is easy to understand (e.g., "Second Invite").
 
    ![](assets/image2015-4-16-14-3a42-3a0.png)
 
-1. Select the entry type menu drop-down, and pick the Smart Campaign you'd like to rerun.
+1. Select the entry type menu drop-down, and pick the Smart Campaign to rerun.
 
    ![](assets/image2015-4-16-15-3a26-3a33.png)
 
@@ -29,4 +29,4 @@ You can easily create new runs of an existing Smart Campaign directly from the p
    >
    >You can also do this from the [program focus](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
-Boom! Just like that, you've scheduled another run for that Smart Campaign. If that Smart Campaign contained send email steps, you'll see those too!
+The Smart Campaign is now scheduled for another run. If it contains send email steps, those will appear here as well.

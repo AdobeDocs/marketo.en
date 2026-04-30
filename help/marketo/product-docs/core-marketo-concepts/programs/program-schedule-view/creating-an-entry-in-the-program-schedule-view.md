@@ -57,7 +57,7 @@ You can create entries from within the program schedule view to supplement an ex
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
-   Cool! You should see the changes immediately.
+   The changes should be visible immediately.
 
    ![](assets/image2014-9-16-9-3a27-3a21.png)
 

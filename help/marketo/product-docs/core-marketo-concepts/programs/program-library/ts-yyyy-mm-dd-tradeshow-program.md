@@ -205,7 +205,7 @@ For further strategy assistance or help customizing a program, please contact th
 
 >[!TIP]
 >
->Don't forget to activate the "03 - Engaged by Follow-up Email (Program Success)" campaign for tracking success! Do this _before_ your emails are sent.
+>Activate the "03 - Engaged by Follow-up Email (Program Success)" campaign for tracking success before your emails are sent.
 
 >[!IMPORTANT]
 >

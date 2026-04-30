@@ -19,7 +19,7 @@ Here are the basics to help you navigate the program schedule view.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   Now you'll be looking at the schedule view of your program.
+   The schedule view of your program now appears.
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
@@ -32,8 +32,6 @@ Here are the basics to help you navigate the program schedule view.
 1. In the entry details, click the arrows to move to the next scheduled entry.
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
-
-   Pretty cool, huh?
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
@@ -54,8 +52,6 @@ Here are the basics to help you navigate the program schedule view.
 1. You can click the screen icon in the upper-right hand corner to view your program schedule in full screen mode.
 
    ![](assets/image2014-9-17-11-3a40-3a45.png)
-
-Great! Now that you know how to view your program, let's learn the other cool things it can do.
 
 >[!MORELIKETHIS]
 >

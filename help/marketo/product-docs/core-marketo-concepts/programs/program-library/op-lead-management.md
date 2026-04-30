@@ -12,7 +12,7 @@ This is an example of lead management best practice workflows, utilizing a Marke
 >
 >In Marketo Engage, records in your database are referred to as people/person. Lead management in this example is in reference to the records in your CRM.
 
-For further strategy assistance or help customizing a program, please contact the Adobe Account Team or visit the [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) page.
+For further strategy assistance or help customizing a program, contact the Adobe Account Team or visit the [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) page.
 
 ## Channel Summary {#channel-summary}
 

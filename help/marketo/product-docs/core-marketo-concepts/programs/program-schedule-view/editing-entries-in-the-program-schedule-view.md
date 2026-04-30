@@ -33,7 +33,7 @@ You can make edits to the different elements of your program in the schedule vie
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
-1. Great! Your description is now changed.
+1. The description has been updated.
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
@@ -43,7 +43,7 @@ You can make edits to the different elements of your program in the schedule vie
 
    ![](assets/image2014-9-18-18-3a4-3a39.png)
 
-You rock! Now the date of your entry has been moved to a new date.
+The date of your entry has been updated.
 
 >[!NOTE]
 >

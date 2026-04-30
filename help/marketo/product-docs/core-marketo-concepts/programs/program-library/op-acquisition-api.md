@@ -80,4 +80,4 @@ This example program is for operational processes to track the acquisition of re
 
 * Consider utilizing similar programs to ensure alignment to best practices across all input sources to include your CRM or Data Integrations.
 
-* Within channel specific channel marketing initiatives, be sure to capture acquisition when needed.
+* Within channel specific channel marketing initiatives, ensure acquisition is captured when needed.

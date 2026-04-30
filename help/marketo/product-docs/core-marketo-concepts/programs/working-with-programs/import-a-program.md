@@ -56,7 +56,7 @@ A program can be imported from one Marketo Engage subscription to another. For i
 
    ![](assets/import-a-program-6.png)
 
-You'll receive an email confirmation once the import has finished.
+An email confirmation is sent once the import has finished.
 
    >[!NOTE]
    >

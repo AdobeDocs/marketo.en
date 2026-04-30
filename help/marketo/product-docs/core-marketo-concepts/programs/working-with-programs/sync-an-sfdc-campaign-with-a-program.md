@@ -43,4 +43,4 @@ Marketo Engage allows you to sync your programs with [!DNL Salesforce] campaigns
 
    ![](assets/image2015-7-22-8-3a59-3a33.png)
 
-   Excellent! Now any program status changes in Marketo are synced to the SFDC campaign and vice versa.
+   Program status changes in Marketo are now synced to the SFDC campaign and vice versa.

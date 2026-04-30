@@ -41,7 +41,7 @@ You can set the [analytics behavior at the admin level on channels](/help/market
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-Nicely done! Now you know how to override the analytics behavior at the program level.
+The analytics behavior has been overridden at the program level.
 
 >[!NOTE]
 >

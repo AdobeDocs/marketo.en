@@ -12,7 +12,7 @@ Some of the starter programs in the Marketo Engage Reference Library contain a s
 >
 >Learn more about [Guided Landing Page Templates](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-For further strategy assistance or help customizing a program, please contact the Adobe Account Team or visit the [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
+For further strategy assistance or help customizing a program, contact the Adobe Account Team or visit the [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
 
 ## Sections Summary {#sections-summary}
 

@@ -7,7 +7,7 @@ feature: Programs
 ---
 # Clone a Program {#clone-a-program}
 
-Quickly and easily clone an entire program and all its assets instead of manually rebuilding everything.
+Clone an entire program and all its assets instead of manually rebuilding everything.
 
 1. Find and select the program you want to clone. In the **[!UICONTROL Program Actions]** drop-down, click **[!UICONTROL Clone]**.
 
@@ -17,7 +17,7 @@ Quickly and easily clone an entire program and all its assets instead of manuall
 
    >[!NOTE]
    >
-   >Programs can be cloned into [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [folders](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) or [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Make sure you share all underlying dependent assets (emails, snippets, landing page templates, etc.) with the destination workspace before cloning.
+   >Programs can be cloned into [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [folders](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) or [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Ensure all underlying dependent assets (emails, snippets, landing page templates, etc.) are shared with the destination workspace before cloning.
 
    ![](assets/cloneto.png)
 
@@ -29,18 +29,18 @@ Quickly and easily clone an entire program and all its assets instead of manuall
 
    ![](assets/cloneprogramname.png)
 
-1. Choose the folder you'd like to clone your program to.
+1. Choose the destination folder.
 
    ![](assets/choosefolderclone.png)
 
-1. Add an optional description, then click **[!UICONTROL Create]**. Look how quickly you were able to create a new program with all its assets ready to go!
+1. Add an optional description, then click **[!UICONTROL Create]**.
 
    ![](assets/createclone.png)
 
    >[!TIP]
    >
-   >Use this technique along with tokens to make new program creation a snap.
+   >Use this technique along with tokens to make new program creation faster.
 
    >[!CAUTION]
    >
-   >Period costs will not transfer over, so be sure to add that to your cloned program if you had one set in the original.
+   >Period costs will not transfer over, so ensure that is added to the cloned program if one was set in the original.

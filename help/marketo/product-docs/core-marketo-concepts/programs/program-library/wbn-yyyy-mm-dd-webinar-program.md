@@ -304,7 +304,7 @@ For further strategy assistance or help customizing a program, please contact th
 
 ## Best Practices {#best-practices}
 
-* If you are using an integrated webinar provider, don't forget to connect the Marketo Engage program to your webinar in the hosting system.
+* If you are using an integrated webinar provider, connect the Marketo Engage program to your webinar in the hosting system.
 
 * After import of the webinar program, move the form from a local asset to a global asset located in the Design Studio.
   * Decreasing the number of forms and utilizing more global assets from the Design Studio allows more scalability in your program design and administrative governance. It also provides flexibility in regular compliance updates for fields, opt-in language, etc.
@@ -319,7 +319,7 @@ For further strategy assistance or help customizing a program, please contact th
 
 >[!TIP]
 >
->Don't forget to activate the "05 - Attended (Program Success)" campaign for tracking success! Do this _before_ your emails are sent.
+>Activate the "05 - Attended (Program Success)" campaign for tracking success before your emails are sent.
 
 >[!IMPORTANT]
 >
