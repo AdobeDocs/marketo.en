@@ -7,7 +7,7 @@ feature: Users and Roles
 ---
 # Create, Delete, Edit and Change a User Role {#create-delete-edit-and-change-a-user-role}
 
-**Roles** group together a bunch of permissions. **Permissions** allow you to do stuff in Marketo. You assign a **role** to a user. Easy as pie.
+**Roles** group together a set of permissions. **Permissions** allow you to perform actions in Marketo. You assign a **role** to a user.
 
 >[!NOTE]
 >
@@ -64,7 +64,7 @@ feature: Users and Roles
 
 >[!NOTE]
 >
->To edit your own user role, you'll have to log in as another user with Admin rights.
+>To edit your own user role, you will have to log in as another user with Admin rights.
 
 1. Go to the **[!UICONTROL Admin]** area.
 

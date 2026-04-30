@@ -7,7 +7,7 @@ feature: Workspaces
 ---
 # Allow User Access to a Workspace {#allow-user-access-to-a-workspace}
 
-Workspaces can be for any reason (such as business unit or geography separation). They separate the assets (smart lists, programs, etc.) of each team. Here's how to give a user access to one or more workspaces.
+Workspaces can be for any reason (such as business unit or geography separation). They separate the assets (smart lists, programs, etc.) of each team.
 
 >[!NOTE]
 >

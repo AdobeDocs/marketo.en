@@ -57,7 +57,7 @@ When using person partitions, set up assignment rules to route people created fr
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 
-And there you have it! You have assigned rules for filling your person partitions with people!
+The assignment rules for your person partitions have been configured.
 
 >[!NOTE]
 >

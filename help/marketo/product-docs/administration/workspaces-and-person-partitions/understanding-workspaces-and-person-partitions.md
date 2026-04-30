@@ -11,7 +11,7 @@ feature: Partitions, Workspaces
 
 >[!CAUTION]
 >
->Workspaces can be complex to set up. Contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to find out if they're right for you.
+>Workspaces can be complex to set up. Contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to find out if they are right for you.
 
 Workspaces are separate areas in Marketo that hold marketing assets like programs, landing pages, emails and more. They can be used by multiple people. Each user has access to one or more workspaces.
 
@@ -28,11 +28,11 @@ Workspaces are separate areas in Marketo that hold marketing assets like program
 
 >[!NOTE]
 >
->Learn how to create [create a new workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
+>Learn how to [create a new workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Sharing across Workspaces {#sharing-across-workspaces}
 
-Here's how to share assets across workspaces. It works the same for anything you want to share; this example shows segmentations.
+The following steps explain how to share assets across workspaces. It works the same for anything you want to share; this example shows segmentations.
 
 >[!NOTE]
 >
@@ -64,7 +64,7 @@ Here's how to share assets across workspaces. It works the same for anything you
 
    >[!NOTE]
    >
-   >The originating folder will now have a little green arrow, indicating it was shared. In the workspace shared, the folder will have a padlock, indicating read-only.
+   >The originating folder will now have a small green arrow, indicating it was shared. In the workspace shared, the folder will have a padlock, indicating read-only.
 
 You can share these items across workspaces.
 
@@ -78,7 +78,7 @@ You can share these items across workspaces.
 
 ## Cloning across Workspaces {#cloning-across-workspaces}
 
-For assets that aren't templates, it's best to clone them as local assets inside of a program. With the proper access level, you can drag and drop these assets into another workspace:
+For assets that are not templates, cloning them as local assets inside a program is recommended. With the proper access level, you can drag and drop these assets into another workspace:
 
 * Programs
 * Emails
@@ -99,11 +99,11 @@ To move assets to a new workspace, put them into a folder and drag the folder ov
 
 >[!NOTE]
 >
->You can't move a program that contains members from one workspace to another.
+>A program that contains members cannot be moved from one workspace to another.
 
 ## Person Partitions {#person-partitions}
 
-Person partitions act like separate databases. Each partition has its own people that do not de-dupe or mix with other partitions. If you feel you have a business use case that may necessitate having duplicate records with the same email address, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+Person partitions act like separate databases. Each partition has its own people that do not de-dupe or mix with other partitions. If your business use case requires duplicate records with the same email address, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 You can assign person partitions to  [workspaces](create-a-new-workspace.md) in the following configurations:
 
@@ -115,7 +115,7 @@ You can assign person partitions to  [workspaces](create-a-new-workspace.md) in 
 >
 >Reasons you would use a person partition:
 >
->* Your workspaces not only have different assets, but also don't share any people
+>* Your workspaces not only have different assets, but also do not share any people
 >* You want duplicates for other business reasons
 
 >[!CAUTION]

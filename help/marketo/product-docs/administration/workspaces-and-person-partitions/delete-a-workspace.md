@@ -27,6 +27,6 @@ feature: Workspaces
 
    ![](assets/delete-a-workspace-3.png)
 
-1. Confirm the number of assets you're about to delete (it's listed for you next to "[!UICONTROL total assets]"), select the **[!UICONTROL Cannot Undo]** checkbox, then click **[!UICONTROL Delete]**.
+1. Confirm the number of assets to be deleted (listed next to "[!UICONTROL total assets]"), select the **[!UICONTROL Cannot Undo]** checkbox, then click **[!UICONTROL Delete]**.
 
    ![](assets/delete-a-workspace-4.png)

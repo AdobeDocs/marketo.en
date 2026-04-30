@@ -15,11 +15,11 @@ feature: Workspaces
 >
 >[Create a New Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
-Users can change the name of a workspace. It's pretty simple.
+Users can change the name of a workspace.
 
 >[!NOTE]
 >
->Understand first with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>For more information, see [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Go to the **[!UICONTROL Admin]** area.
 

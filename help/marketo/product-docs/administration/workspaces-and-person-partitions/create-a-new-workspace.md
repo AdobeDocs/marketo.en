@@ -12,19 +12,17 @@ Workspaces are useful for subdividing your company. Reasons for setting up works
 * Geography: Europe Marketing Operations vs. North America Marketing Operations
 * Business Unit A vs. Business Unit B
 
-Here's how to create a new workspace.
-
 >[!NOTE]
 >
 >**Admin Permissions Required**
 
 >[!NOTE]
 >
->Understand first with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>For more information, see [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 >[!TIP]
 >
->To learn more about Workspace best practices, please contact [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>To learn more about Workspace best practices, contact [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -38,7 +36,7 @@ Here's how to create a new workspace.
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. Enter a **[!UICONTROL Name]**, and select the **[!UICONTROL Person Partitions]** you want to use. Choose a **[!UICONTROL Primary Person Partition]**. Make sure to [create person partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} if you haven't already.
+1. Enter a **[!UICONTROL Name]**, and select the **[!UICONTROL Person Partitions]** you want to use. Choose a **[!UICONTROL Primary Person Partition]**. Ensure [person partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} have been created if they have not already been.
 
    ![](assets/create-a-new-workspace-4.png)
 

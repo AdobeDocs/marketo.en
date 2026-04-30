@@ -7,7 +7,7 @@ feature: Partitions
 ---
 # Edit an Existing Person Partition {#edit-an-existing-person-partition}
 
-A person partition is like having a second (or third) database. A partition can be hooked up to one or more workspaces. Here's how to edit the partition details.
+A person partition is like having a second (or third) database. A partition can be hooked up to one or more workspaces.
 
 >[!NOTE]
 >
@@ -33,6 +33,6 @@ A person partition is like having a second (or third) database. A partition can 
 
    ![](assets/edit-an-existing-person-partition-4.png)
 
-After saving the changes, you should see the update!
+After saving the changes, the update appears.
 
    ![](assets/edit-an-existing-person-partition-5.png)

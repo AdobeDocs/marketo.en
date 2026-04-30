@@ -6,11 +6,11 @@ feature: Users and Roles
 ---
 # Export Roles and Permissions {#export-roles-and-permissions}
 
-Here's how to export all roles and their permissions.
+The following steps explain how to export all roles and their permissions.
 
 >[!NOTE]
 >
->Admin Permissions Required
+>**Admin Permissions Required**
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -30,7 +30,7 @@ Here's how to export all roles and their permissions.
 
 >[!NOTE]
 >
->Make sure your browser is not blocking pop-ups from Marketo.
+>Ensure your browser is not blocking pop-ups from Marketo.
 
 The data will export as a CSV and contain roles, permissions, and a count of how many permissions have been enabled per group.
 

@@ -8,7 +8,7 @@ feature: Marketo with Adobe Identity
 
 >[!NOTE]
 >
->**System** Admins are only created at the Adobe Org level. If you think you need more than one, please contact [Adobe Support](https://experienceleague.adobe.com/en/support).
+>**System** Admins are only created at the Adobe Org level. If you think you need more than one, contact [Adobe Support](https://experienceleague.adobe.com/en/support).
 
 ## Add a Product Admin {#add-a-product-admin}
 
@@ -36,7 +36,7 @@ feature: Marketo with Adobe Identity
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. Enter the email address or username of the Admin you'd like to add. First and last name are optional. Click **[!UICONTROL Save]**.
+1. Enter the email address or username of the Admin you want to add. First and last name are optional. Click **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -56,7 +56,7 @@ feature: Marketo with Adobe Identity
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
-The user will then receive two emails. The first email notifies them they've been granted Product Admin rights to Marketo Engage. The second email invites them to sign in to Marketo Engage.
+The user will then receive two emails. The first email notifies them they have been granted Product Admin rights to Marketo Engage. The second email invites them to sign in to Marketo Engage.
 
 >[!NOTE]
 >

@@ -28,7 +28,7 @@ feature: Marketo with Adobe Identity
 
    ![](assets/add-or-remove-a-user-5.png)
 
-1. Enter the name, user group, or email address of the user you'd like to add. First and last name are optional.
+1. Enter the name, user group, or email address of the user you want to add. First and last name are optional.
 
    ![](assets/add-or-remove-a-user-6.png)
 
@@ -48,7 +48,7 @@ The user will then receive an email to sign in to Marketo Engage.
 
 >[!NOTE]
 >
->When the user is added to Marketo Engage via the Adobe Admin Console, they're granted the "Standard User" role within the Default workspace of the subscription. If the user's role within the workspace needs to be adjusted, that's done in Marketo Engage, [as described here](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>When the user is added to Marketo Engage via the Adobe Admin Console, they are granted the "Standard User" role within the Default workspace of the subscription. If the user's role within the workspace needs to be adjusted, this is done in Marketo Engage, [as described here](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## Remove a User {#remove-a-user}
 

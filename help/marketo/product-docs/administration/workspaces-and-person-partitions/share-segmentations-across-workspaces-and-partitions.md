@@ -11,9 +11,9 @@ feature: Partitions, Workspaces
 >
 >This article is only for customers who have Workspaces and Partitions.
 
-## What's a segmentation? {#whats-a-segmentation}
+## What Is a Segmentation? {#whats-a-segmentation}
 
-Marketo is great at picking out just the right people for a program or smart campaign. However, for more permanent personas, you should use segmentations. They are needed to use advanced dynamic content in Marketo.
+Marketo identifies the right people for a program or smart campaign. However, for more permanent personas, you should use segmentations. They are needed to use advanced dynamic content in Marketo.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Once you have these personas set up (_and_ you use workspaces), you will want to
 
 * Each Marketo subscription can contain up to 20 Segmentations "total" across multiple workspaces (**not 20 per workspace**).
 * You can only share a Segmentation with workspaces that you have access to.
-* Make sure to create and utilize a **Default workspace that has visibility into all partitions**.
+* Create and utilize a **Default workspace that has visibility into all partitions**.
 
 * Segmentation processing only runs on the people in the workspace where the Segmentation is created.
 
@@ -35,12 +35,12 @@ Once you have these personas set up (_and_ you use workspaces), you will want to
     * The shared version cannot be edited. You can only edit the original Segmentation where it was created.
 
   * When you click on a Segment (e.g. Healthcare) within a shared Segmentation, the people you see will only be people in the partition associated with the workspace you are viewing.
-    * If you create a Segmentation in Workspace 1 (WS1) and share it with WS2 and WS1 doesn't have access to the partition for WS2, it WILL NOT recalculate the Segmentation.
+    * If you create a Segmentation in Workspace 1 (WS1) and share it with WS2 and WS1 does not have access to the partition for WS2, it WILL NOT recalculate the Segmentation.
     * If you create a Segmentation in a workspace that has limited partitions, and then share it with another workspace, that workspace that received the shared Segmentation will only see people if they have overlap.
 
 >[!NOTE]
 >
->Some of these rules are a little complex. The easiest way to get started is to test with specific people. You can always make new segmentations and get rid of the old ones.
+>Some of these rules are complex. Testing with specific people is recommended. New segmentations can be created and old ones deleted as needed.
 
 ## Example Scenarios {#example-scenarios}
 
@@ -58,7 +58,7 @@ Once you have these personas set up (_and_ you use workspaces), you will want to
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Name the folder you're going to share across workspaces (example: Share Segmentations) and click **[!UICONTROL Create]**.
+1. Name the folder to share across workspaces (example: Share Segmentations) and click **[!UICONTROL Create]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 

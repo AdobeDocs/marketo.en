@@ -13,7 +13,7 @@ Some additional information about permissions:
 
 * The "Access" permission gives a role permission to view and sometimes edit that part of the application.
 * For a role to have access to the sub-permissions ("Create", "Delete", etc.), that role must have "Access" permission to that part of the application. For example, if you want to give someone permission for Edit Campaigns, they must have overall permission to Access Marketing Activities.
-* You may be able to see actions or assets that you do not have permission to use. However, if you try to access them, you'll see a message warning you about your limited access.
+* You may be able to see actions or assets that you do not have permission to use. However, if you try to access them, you will see a message warning you about your limited access.
 
 ## Available Permissions {#available-permissions}
 
@@ -48,7 +48,7 @@ View and make changes to settings in the My Account section of Admin.
 * Access New Experience - Gives users access to the New Experience screen
 * Access Marketo Custom Activity - Gives users access to Marketo Custom Activities in Admin
 * Access Marketo Custom Object - Gives users access to Marketo Custom Objects in Admin
-* Access [!DNL Munchkin] - GIves users access to [!DNL Munchkin] in Admin, for setting tracking code, person tracking, and enabling API configuration
+* Access [!DNL Munchkin] - Gives users access to [!DNL Munchkin] in Admin, for setting tracking code, person tracking, and enabling API configuration
 * Access Predictive Audiences - Gives users access to the Predictive Audiences screen
 * Access Revenue Cycle Analytics - Gives users access to Revenue Cycle Analytics in Admin, for setting Sync Summary and Attribution
 * Access Roles - Gives users access to manage and edit roles, but not users
@@ -59,7 +59,7 @@ View and make changes to settings in the My Account section of Admin.
 * Access Tags - Gives users access to all custom tags except the Channel tag
 * Access Treasure Chest - Gives users access to the experimental features in the Treasure Chest in Admin
 * Access Users - Gives users access to edit and manage users (but not roles) in Admin
-* Access Webhooks - Gives users to Webhooks in Admin, for setting details and Response Mappings
+* Access Webhooks - Gives users access to Webhooks in Admin, for setting details and Response Mappings
 * Access Workspaces and Partitions - Gives users access to create, edit, and delete Workspaces and Partitions in Admin
 
 ## Access API  {#access-api}
@@ -173,7 +173,7 @@ View the database as well as view and edit smart/static lists.
   * Access to create a Smart List asset in Database and Marketing Activities
 * Delete List
 * Edit Person - Prevents manual editing and running single flow steps; you can still edit people by running campaigns against them
-* Export Person - Export spreadsheets with from your database lists
+* Export Person - Export spreadsheets from your database lists
 * Import Custom Object
 * Import List
 * Merge People

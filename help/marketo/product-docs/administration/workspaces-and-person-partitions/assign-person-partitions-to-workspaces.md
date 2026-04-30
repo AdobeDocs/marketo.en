@@ -7,7 +7,7 @@ feature: Workspaces
 ---
 # Assign Person Partitions to Workspaces {#assign-person-partitions-to-workspaces}
 
-Here's how to edit the person partition / workspace assignments:
+Follow the steps below to edit person partition and workspace assignments:
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ Here's how to edit the person partition / workspace assignments:
 
 >[!CAUTION]
 >
->Workspaces and Person Partitions can be complex. Please contact  [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} for help in setting them up.
+>Workspaces and Person Partitions can be complex. Contact [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} for help in setting them up.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -41,7 +41,7 @@ Here's how to edit the person partition / workspace assignments:
    >
    >* The "[!UICONTROL All Person Partitions]" checkbox indicates that this workspace has access to all person partitions in the system.
    >
-   >* Primary person partitions are the default where all peoples will be entered. Use [flow steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) or [assignment rules](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} to move people around.
+   >* Primary person partitions are the default where all people will be entered. Use [flow steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) or [assignment rules](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} to move people between partitions.
 
 1. Click **[!UICONTROL Save]**.
 
@@ -50,8 +50,6 @@ Here's how to edit the person partition / workspace assignments:
 After saving, you should see the changes.
 
    ![](assets/assign-person-partitions-to-workspaces-6.png)
-
-You have successfully edited your workspace!
 
 >[!MORELIKETHIS]
 >

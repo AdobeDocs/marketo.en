@@ -11,7 +11,7 @@ feature: Users and Roles
 >
 >**Admin Permissions Required**
 
-It's pretty easy to export a full list of your users and user roles. Here's how.
+Follow the steps below to export a full list of users and user roles.
 
 1. Go to **[!UICONTROL Admin]**.
 
@@ -33,6 +33,6 @@ It's pretty easy to export a full list of your users and user roles. Here's how.
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 
-   And that's all, folks! You should be downloading the new Excel file.
+   The Excel file begins downloading.
 
    ![](assets/export-a-list-of-users-and-roles-5.png)

@@ -7,7 +7,7 @@ feature: Workspaces
 ---
 # Edit a Workspace {#edit-a-workspace}
 
-Sometimes you need to make changes in a Workspace. It's easy.
+Sometimes you need to make changes in a Workspace.
 
 >[!NOTE]
 >
@@ -15,7 +15,7 @@ Sometimes you need to make changes in a Workspace. It's easy.
 
 >[!NOTE]
 >
->Brush up on workspaces with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>For more information on workspaces, see [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -51,7 +51,7 @@ Sometimes you need to make changes in a Workspace. It's easy.
 
    >[!NOTE]
    >
-   >You can't change the workspace language.
+   >The workspace language cannot be changed.
 
 >[!MORELIKETHIS]
 >
