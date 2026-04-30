@@ -11,7 +11,7 @@ Tags will help you organize your programs while channels will assist in gatherin
 
 >[!NOTE]
 >
->Check out [Understanding Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) for more information.
+>See [Understanding Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) for more information.
 
 >[!NOTE]
 >
@@ -56,7 +56,7 @@ To create a new tag type:
 
    >[!TIP]
    >
-   >If you want to make a similar tag required for some program types but optional for others, you'll need to set up two separate tags, each applying to different program types with one with "[!UICONTROL Required]" selected, and the other with "[!UICONTROL Required]" not selected.
+   >If you want to make a similar tag required for some program types but optional for others, you will need to set up two separate tags, each applying to different program types with one with "[!UICONTROL Required]" selected, and the other with "[!UICONTROL Required]" not selected.
 
 1. Click **[!UICONTROL Create]**.
 

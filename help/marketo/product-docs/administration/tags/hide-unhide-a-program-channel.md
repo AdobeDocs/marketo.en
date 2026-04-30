@@ -11,7 +11,7 @@ feature: Tags
 >
 >**Admin Permissions Required**
 
-You can [delete a program channel](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) if it is not being used by any programs.  However, once it is used, we need to keep it around.  However, you can hide it if you no longer need it.
+You can [delete a program channel](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) if it is not being used by any programs.  However, once it is in use, it must remain in the system. You can hide it if you no longer need it.
 
 ## Hide a Program Channel {#hide-a-program-channel}
 
@@ -30,8 +30,6 @@ You can [delete a program channel](/help/marketo/product-docs/administration/tag
 1. Under **[!UICONTROL Tag Actions]**, click on **[!UICONTROL Hide]**.
 
    ![](assets/hide-unhide-a-program-channel-4.png)
-
-Easy come, easy go!
 
 ## Unhide a Program Channel {#unhide-a-program-channel}
 

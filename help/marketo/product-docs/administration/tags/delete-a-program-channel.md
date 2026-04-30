@@ -23,7 +23,7 @@ If you make one by accident or no longer need one, you can delete it.
 
    >[!TIP]
    >
-   >If the channel is associated with any program(s), you can't delete, only hide.
+   >If the channel is associated with any program(s), you cannot delete, only hide.
 
    ![](assets/delete-a-program-channel-3.png)
 

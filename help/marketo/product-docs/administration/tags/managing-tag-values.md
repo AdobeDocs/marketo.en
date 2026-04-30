@@ -7,7 +7,7 @@ feature: Tags
 ---
 # Managing Tag Values {#managing-tag-values}
 
-[Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) are used to describe programs. You can make as many as you need, each with unique values. Here's how to manage those values.
+[Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) are used to describe programs. You can make as many as you need, each with unique values. The steps below explain how to manage those values.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ feature: Tags
 
    ![](assets/managing-tag-values-4.png)
 
-1. Enter a **[!UICONTROL Value]** and click **[!UICONTROL Add Another]**. You can add as many values as you'd like.
+1. Enter a **[!UICONTROL Value]** and click **[!UICONTROL Add Another]**. You can add as many values as needed.
 
    ![](assets/managing-tag-values-5.png)
 
@@ -43,7 +43,7 @@ feature: Tags
 
    ![](assets/managing-tag-values-6.png)
 
-You should see the changes immediately!
+The changes appear immediately.
 
    ![](assets/managing-tag-values-7.png)
 

@@ -55,4 +55,4 @@ You can create custom [tags](/help/marketo/product-docs/core-marketo-concepts/pr
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 
-Now when your users create a program, they will have to set the custom value for the tag created.
+When your users create a program, they will have to set the custom value for the tag created.

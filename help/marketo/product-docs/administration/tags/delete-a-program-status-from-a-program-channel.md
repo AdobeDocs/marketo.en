@@ -7,7 +7,7 @@ feature: Tags
 ---
 # Delete a Program Status From a Program Channel {#delete-a-program-status-from-a-program-channel}
 
-Program statuses are the checkpoints through a programs path (channel). If you make a status by mistake or no longer need it, feel free to delete it.
+Program statuses are the checkpoints through a program's path (channel). If you make a status by mistake or no longer need it, you can delete it.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -27,6 +27,6 @@ Program statuses are the checkpoints through a programs path (channel). If you m
 
    >[!TIP]
    >
-   >If any person is currently assigned to the status in question, you cannot delete it, you can however hide it.
+   >If any person is currently assigned to the status in question, you cannot delete it, but you can hide it.
 
-Nicely done! You can also [delete an entire channel](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) if you need to.
+You can also [delete an entire channel](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) if you need to.

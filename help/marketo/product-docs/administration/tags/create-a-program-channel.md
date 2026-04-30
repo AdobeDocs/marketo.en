@@ -27,7 +27,7 @@ A program is one specific marketing initiative. The channel is intended to be th
 
    >[!NOTE]
    >
-   >Why tags? A channel is a way of describing a program, just like other tags. The channel just has special extra features.
+   >Why tags? A channel is a way of describing a program, just like other tags. The channel has special extra features.
 
 1. Click the **+** sign next to [!UICONTROL Channel] to expand and see existing channels.
 
@@ -44,7 +44,7 @@ A program is one specific marketing initiative. The channel is intended to be th
    >Channel: Billboard
    >
    >* Apply to: Default
-   >* Progression: Member, Engaged (If in doubt, these work fine)
+   >* Progression: Member, Engaged (these are suitable defaults)
    >* Success: Engaged
    >
    >Channel: Party
@@ -53,15 +53,15 @@ A program is one specific marketing initiative. The channel is intended to be th
    >* Progression: Invited, Registered, No Show and Attended
    >* Success: Attended
    >
-   >Check out the Progressions of existing channels to get an idea of how to use them.
+   >Review the Progressions of existing channels for guidance on how to use them.
 
-1. Let's go with the Party channel example. Name your new **[!UICONTROL Channel]** and select the program type it will apply to.
+1. Using the Party channel as an example, name your new **[!UICONTROL Channel]** and select the program type it will apply to.
 
    ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
-   >Apply to what? There are several types of programs. Match the channel to the right type. If in doubt, choose **[!UICONTROL Default]**.
+   >There are several types of programs. Match the channel to the right type. If unsure, choose **[!UICONTROL Default]**.
 
    >[!NOTE]
    >
@@ -77,7 +77,7 @@ A program is one specific marketing initiative. The channel is intended to be th
 
    >[!TIP]
    >
-   >The **[!UICONTROL Step]** number is used for sorting of program statuses. Keep in mind that people cannot go backwards in these progression steps. They can only change status to a higher or equal value status. Use the equal values when statuses are intended to switch back and forth as opposed to a progression.
+   >The **[!UICONTROL Step]** number is used for sorting of program statuses. Note that people cannot go backwards in these progression steps. They can only change status to a higher or equal value status. Use the equal values when statuses are intended to switch back and forth as opposed to a progression.
 
 1. Enter the last program **[!UICONTROL Status]** and **[!UICONTROL Step]** number.
 
@@ -111,4 +111,4 @@ A program is one specific marketing initiative. The channel is intended to be th
 
    ![](assets/create-a-program-channel-11.png)
 
-   Nicely done! When you make a new program of that type, this new channel will be one of the choices.
+   When you make a new program of that type, this new channel will be one of the choices.
