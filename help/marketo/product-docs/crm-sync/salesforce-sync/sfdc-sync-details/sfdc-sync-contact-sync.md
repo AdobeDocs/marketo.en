@@ -15,7 +15,7 @@ The contact sync is bidirectional. If you make changes to a contact in either [!
 
 ## What if changes are made in both systems at the same time? {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
-We are nice and let [!DNL Salesforce] win. It's rare that this sort of collision of data occurs.
+We are nice and let [!DNL Salesforce] win. It is rare that this sort of collision of data occurs.
 
 ## Can I convert a person into a contact in Marketo? {#can-i-convert-a-person-into-a-contact-in-marketo}
 

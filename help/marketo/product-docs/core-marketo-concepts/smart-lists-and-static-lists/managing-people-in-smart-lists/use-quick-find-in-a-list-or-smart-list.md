@@ -23,12 +23,12 @@ Find a person from the results of a list or Smart List using the quick find.
 
    ![](assets/searchpeople.png)
 
-1. Press Enter or click the search icon and you're done.
+1. Press Enter or click the search icon and you are done.
 
 ## Find People Using a Company Name {#find-people-using-a-company-name}
 
-1. To find a company, type `[company]` in the Quick Find box, followed by any part of the company name you're looking for.
+1. To find a company, type `[company]` in the Quick Find box, followed by any part of the company name you are looking for.
 
    ![](assets/supersmartlistsearch.jpg)
 
-1. Press Enter or click the search icon and you're done.
+1. Press Enter or click the search icon and you are done.

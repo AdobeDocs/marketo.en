@@ -11,7 +11,7 @@ You have a few pre-built [themes you can just choose from](/help/marketo/product
 
 >[!NOTE]
 >
->Make sure you know CSS if you want to try this, as Marketo Support is not set up to assist with custom coding. Also, any changes made will apply only to the form you're currently editing.
+>Make sure you know CSS if you want to try this, as Marketo Support is not set up to assist with custom coding. Also, any changes made will apply only to the form you are currently editing.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -33,7 +33,7 @@ You have a few pre-built [themes you can just choose from](/help/marketo/product
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
-1. Feel free to cut/paste this CSS to your own editor. It's read-only, so you will only need the override CSS.
+1. Feel free to cut/paste this CSS to your own editor. It is read-only, so you will only need the override CSS.
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
@@ -49,7 +49,7 @@ You have a few pre-built [themes you can just choose from](/help/marketo/product
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 
-1. When you're done, click **[!UICONTROL Save]**.
+1. When you are done, click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 

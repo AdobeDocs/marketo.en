@@ -25,7 +25,7 @@ The Marketing Calendar gives you a bird's-eye view of things, but it also allows
    >
    >Focusing on a program allows you to interact only with entries that belong to it and create new entries that will be housed by it.
 
-1. Once you're done, release focus to interact with other programs/entries.
+1. Once you are done, release focus to interact with other programs/entries.
 
    ![](assets/image2014-10-20-13-3a24-3a24.png)
 

@@ -15,9 +15,9 @@ You can publish your landing pages to [!DNL Facebook], meeting your audience whe
 
 >[!PREREQUISITES]
 >
->Your page must have at least 2,000 likes before you're able to publish to [!DNL Facebook].
+>Your page must have at least 2,000 likes before you are able to publish to [!DNL Facebook].
 
-Say you're launching a new book, you might reach some of your audience via email and web site. Publishing a Marketo landing page additionally to your [!DNL Facebook] Brand Page reaches a larger audience and encourages sharing of your offer.
+Say you are launching a new book, you might reach some of your audience via email and web site. Publishing a Marketo landing page additionally to your [!DNL Facebook] Brand Page reaches a larger audience and encourages sharing of your offer.
 
 1. Select an approved landing page.
 

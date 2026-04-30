@@ -29,12 +29,12 @@ With the Revenue Stage Modeler and [!UICONTROL Revenue Explorer], you gain insig
 
    ![](assets/image2015-4-29-17-3a16-3a1.png)
 
-1. When you're done setting up your report, right click on **[!UICONTROL Is Track Company]** and select **[!UICONTROL Filter]**. We'll use this to limit the report to only stages where **Tracking by Account** is selected.
+1. When you are done setting up your report, right click on **[!UICONTROL Is Track Company]** and select **[!UICONTROL Filter]**. We'll use this to limit the report to only stages where **Tracking by Account** is selected.
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 
-1. In the dialog that appears, select **[!UICONTROL Yes]** and click the right-pointing arrow in the middle. This will filter only those stages with "Tracking by Account" enabled. Click **[!UICONTROL OK]** when you're done.
+1. In the dialog that appears, select **[!UICONTROL Yes]** and click the right-pointing arrow in the middle. This will filter only those stages with "Tracking by Account" enabled. Click **[!UICONTROL OK]** when you are done.
 
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
-1. Your report should now show only those stages you're tracking by account. Make sure to save your report so you can use it in the future. Now you can use this as another measure of the success of your marketing efforts.
+1. Your report should now show only those stages you are tracking by account. Make sure to save your report so you can use it in the future. Now you can use this as another measure of the success of your marketing efforts.

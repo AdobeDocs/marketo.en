@@ -15,7 +15,7 @@ Email Insights is a brand new historical aggregate data email analytics experien
 
 >[!NOTE]
 >
->We are launching Email Insights to customers in batches, beginning June 3rd. Our goal is to complete this over the next several months. We'll notify you by email when you're enabled.
+>We are launching Email Insights to customers in batches, beginning June 3rd. Our goal is to complete this over the next several months. We'll notify you by email when you are enabled.
 
 ![](assets/two.png)
 
@@ -43,7 +43,7 @@ Create stunning in-app messages for your app right within Marketo. Define exactl
 
 ## [No Draft Snippets](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
-Gone are the days where you have to re-approve everything each time a snippet is updated! With No-Draft, all emails and landing pages using a snippet will get the snippet updates and maintain their prior statuses. Each time you approve a snippet, you'll have a choice to run No-Draft and update everything, or create drafts. It's up to you! No-Draft will be available to all customers and controlled by a new permission in Admin.
+Gone are the days where you have to re-approve everything each time a snippet is updated! With No-Draft, all emails and landing pages using a snippet will get the snippet updates and maintain their prior statuses. Each time you approve a snippet, you'll have a choice to run No-Draft and update everything, or create drafts. It is up to you! No-Draft will be available to all customers and controlled by a new permission in Admin.
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
@@ -75,7 +75,7 @@ The new, high-speed Dynamics connector provides speeds up to 20 times faster for
 
 ## [Friendly Instance Name](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
-Today, it's hard to differentiate between Marketo instances, for example, sandbox and production instances. This feature lets you know which instances you're currently working on.
+Today, it is hard to differentiate between Marketo instances, for example, sandbox and production instances. This feature lets you know which instances you are currently working on.
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 

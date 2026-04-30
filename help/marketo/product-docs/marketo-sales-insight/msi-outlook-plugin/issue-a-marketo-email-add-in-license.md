@@ -36,7 +36,7 @@ Anyone who wants to use the Marketo Email [!DNL Outlook] Add-in must first be is
    >
    >* To install the plugin remotely, leave the _Send Registration email with download link_ checkbox unchecked and send your IT team your [Enterprise Key](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
-   >* If your sales reps have admin access to their computers, check the _Send Registration email with download link_ checkbox and you're done. The recipients have **30 days** to click the link in the email before it expires.
+   >* If your sales reps have admin access to their computers, check the _Send Registration email with download link_ checkbox and you are done. The recipients have **30 days** to click the link in the email before it expires.
 
 >[!MORELIKETHIS]
 >

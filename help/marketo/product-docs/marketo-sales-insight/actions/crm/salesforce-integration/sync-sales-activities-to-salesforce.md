@@ -19,7 +19,7 @@ This functionality requires you to be on the Enterprise/Unlimited edition of Sal
 
    ![](assets/sync-sales-activities-to-salesforce-1.png)
 
-1. Under Admin Settings (or "My Account" if you're not an Admin), click **Salesforce**.
+1. Under Admin Settings (or "My Account" if you are not an Admin), click **Salesforce**.
 
    ![](assets/sync-sales-activities-to-salesforce-2.png)
 
@@ -49,7 +49,7 @@ Once you activate "Email to Salesforce (BCC)", you'll receive a BCC of your sale
 
    ![](assets/sync-sales-activities-to-salesforce-6.png)
 
-1. Under Admin Settings (or "My Account" if you're not an Admin), click **Salesforce**.
+1. Under Admin Settings (or "My Account" if you are not an Admin), click **Salesforce**.
 
    ![](assets/sync-sales-activities-to-salesforce-7.png)
 
@@ -93,7 +93,7 @@ If you don't see My Email to Salesforce under your Settings, your Admin may not 
 
    ![](assets/sync-sales-activities-to-salesforce-10.png)
 
-1. Under Admin Settings (or "My Account" if you're not an Admin), click **Salesforce**.
+1. Under Admin Settings (or "My Account" if you are not an Admin), click **Salesforce**.
 
    ![](assets/sync-sales-activities-to-salesforce-11.png)
 

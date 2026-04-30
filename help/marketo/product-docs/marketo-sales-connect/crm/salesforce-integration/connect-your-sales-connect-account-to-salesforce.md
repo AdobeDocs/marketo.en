@@ -27,7 +27,7 @@ Follow these simple steps to connect [!DNL Sales Connect] to [!DNL Salesforce].
 
    ![](assets/four.png)
 
-1. If you’re already logged in to Salesforce, you'll be connected. If you're not, you’ll be asked to log in.
+1. If you’re already logged in to Salesforce, you'll be connected. If you are not, you’ll be asked to log in.
 
 ## How to Connect as a non-Admin {#how-to-connect-as-a-non-admin}
 
@@ -47,4 +47,4 @@ Follow these simple steps to connect [!DNL Sales Connect] to [!DNL Salesforce].
 
    ![](assets/four.png)
 
-1. If you’re already logged in to Salesforce, you'll be connected. If you're not, you’ll be asked to log in.
+1. If you’re already logged in to Salesforce, you'll be connected. If you are not, you’ll be asked to log in.

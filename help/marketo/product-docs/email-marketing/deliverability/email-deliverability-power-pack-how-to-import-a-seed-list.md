@@ -49,6 +49,6 @@ A Seed List is a list of email accounts at multiple mailbox providers, including
 
 ## Acquiring New Seedlists {#acquiring-new-seedlists}
 
-   Your Seed List can change as often as every month. It's important to log in to the Email Deliverabilty Power Pack regularly and check the status of your Seed List. When new addresses are added or an update is required on your end, you will be alerted via the Notification Icon on the lower left hand side of the application.
+   Your Seed List can change as often as every month. It is important to log in to the Email Deliverabilty Power Pack regularly and check the status of your Seed List. When new addresses are added or an update is required on your end, you will be alerted via the Notification Icon on the lower left hand side of the application.
 
 After your static list in Marketo is created, you can begin sending to it to test your email's inbox placement.

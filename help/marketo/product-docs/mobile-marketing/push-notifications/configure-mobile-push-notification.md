@@ -32,7 +32,7 @@ feature: Mobile Marketing
 
    >[!NOTE]
    >
-   >If a platform is enabled, it appears on the left side of the phone screen display. It displays in color when it's selected.
+   >If a platform is enabled, it appears on the left side of the phone screen display. It displays in color when it is selected.
 
    >[!NOTE]
    >

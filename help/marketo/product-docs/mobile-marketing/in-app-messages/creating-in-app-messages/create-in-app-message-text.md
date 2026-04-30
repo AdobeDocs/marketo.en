@@ -75,7 +75,7 @@ Click the text area to work on your text style and content.
 
    Any changes you make to tokens used in an approved in-app message program will not take effect in the in-app message until the program is paused and then resumed.
 
-You're golden. Next, you need to [set up your in-app message button](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
+You are golden. Next, you need to [set up your in-app message button](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >

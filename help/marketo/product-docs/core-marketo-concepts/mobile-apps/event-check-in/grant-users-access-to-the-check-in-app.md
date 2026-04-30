@@ -43,7 +43,7 @@ Marketo Engage has a special user role for the event check-in app. Here's how to
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Enter the information of the new user. Select the checkboxes for all appropriate roles and the new role with the permission to access the mobile app. Click **[!UICONTROL Invite]** when you're done.
+1. Enter the information of the new user. Select the checkboxes for all appropriate roles and the new role with the permission to access the mobile app. Click **[!UICONTROL Invite]** when you are done.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 

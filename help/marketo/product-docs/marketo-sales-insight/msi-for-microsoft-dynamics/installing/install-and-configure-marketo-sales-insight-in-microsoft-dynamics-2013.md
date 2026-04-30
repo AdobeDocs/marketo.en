@@ -17,7 +17,7 @@ feature: Marketo Sales Insights
 
 ## Import Solution {#import-solution}
 
-OK, now it's time to import the [!DNL Marketo Sales Insight] solution into [!DNL Microsoft Dynamics].
+OK, now it is time to import the [!DNL Marketo Sales Insight] solution into [!DNL Microsoft Dynamics].
 
 1. Under **[!UICONTROL Microsoft Dynamics CRM]** click **[!UICONTROL Settings]**.
 
@@ -63,7 +63,7 @@ OK, now it's time to import the [!DNL Marketo Sales Insight] solution into [!DNL
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 
-1. Awesome! You should see the solution now. If it's not there, refresh your screen.
+1. Awesome! You should see the solution now. If it is not there, refresh your screen.
 
    ![](assets/image2014-12-12-9-3a6-3a40.png)
 

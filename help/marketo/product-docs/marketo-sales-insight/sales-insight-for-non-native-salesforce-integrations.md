@@ -42,7 +42,7 @@ If your Adobe Marketo Engage account is connected to [!DNL Salesforce] through a
      <tr>
       <td>externalSalesPersonId</td>
         <td><span class="dnl">Salesforce</span> Sales User case-insensitive globally unique identifier</td>
-      <td><p>Identifies the Marketo Sales Person record to an external <span class="dnl">Salesforce</span> Sales User object.</p><p>It's mandated that the Sales Person be synced first before syncing the other objects so that the proper relationships will be created.</p></td>
+      <td><p>Identifies the Marketo Sales Person record to an external <span class="dnl">Salesforce</span> Sales User object.</p><p>it is mandated that the Sales Person be synced first before syncing the other objects so that the proper relationships will be created.</p></td>
      </tr>
     </tbody>
    </table>

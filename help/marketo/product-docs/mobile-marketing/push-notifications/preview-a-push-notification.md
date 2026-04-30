@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # Preview a Push Notification {#preview-a-push-notification}
 
-It's easy to preview what your push notification will look like, for either Android or iOS. There are four ways to do it.
+It is easy to preview what your push notification will look like, for either Android or iOS. There are four ways to do it.
 
 In the navigation tree, right-click the file for the notification you want to preview and click **[!UICONTROL Preview]**.
 
@@ -21,7 +21,7 @@ Or, on the Push Notification view page, click **[!UICONTROL Push Notifications A
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Finally, in the editor, you can click the **[!UICONTROL Preview Draft]** tab in the upper right while you're working on the notification.
+Finally, in the editor, you can click the **[!UICONTROL Preview Draft]** tab in the upper right while you are working on the notification.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 
@@ -53,7 +53,7 @@ On the Lock screen, it shows partway down.
 
 ![](assets/image2015-9-17-17-3a2-3a1.png)
 
-On the Notification Center screen, it's up near the top,
+On the Notification Center screen, it is up near the top,
 
 ![](assets/image2015-9-17-17-3a3-3a15.png)
 

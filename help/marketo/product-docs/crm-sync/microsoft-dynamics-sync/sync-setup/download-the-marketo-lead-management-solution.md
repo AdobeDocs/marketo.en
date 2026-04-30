@@ -15,7 +15,7 @@ You will need to download and install a Marketo Solution into your [!DNL Microso
 
 >[!CAUTION]
 >
->It's imperative you download the latest Marketo Solution _before_ performing any upgrade.
+>it is imperative you download the latest Marketo Solution _before_ performing any upgrade.
 
 >[!NOTE]
 >

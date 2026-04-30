@@ -51,13 +51,13 @@ Follow the steps below to learn how to grant the mecessary consent/permissions.
 
    ![](assets/grant-consent-for-client-id-app-registration-1.png)
 
-1. Log in as the Sync User you're granting permissions for.
+1. Log in as the Sync User you are granting permissions for.
 
    ![](assets/grant-consent-for-client-id-app-registration-2.png)
 
    >[!NOTE]
    >
-   >If you're already logged in to Azure as an Admin in another tab, you'll need to use a different browser or Incognito mode to log in as the Sync User.
+   >If you are already logged in to Azure as an Admin in another tab, you'll need to use a different browser or Incognito mode to log in as the Sync User.
 
 1. Click **[!UICONTROL Accept]**.
 

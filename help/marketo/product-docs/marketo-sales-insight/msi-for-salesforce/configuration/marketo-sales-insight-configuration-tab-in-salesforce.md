@@ -71,7 +71,7 @@ Choosing to do so will wipe all your configurations in SFDC and they cannot be r
 
 >[!IMPORTANT]
 >
->Do not select the "Enable MSI Actions" checkbox unless you're using Sales Insights Actions features.
+>Do not select the "Enable MSI Actions" checkbox unless you are using Sales Insights Actions features.
 
 >[!MORELIKETHIS]
 >

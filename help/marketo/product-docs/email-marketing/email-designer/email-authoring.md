@@ -61,7 +61,7 @@ Emails from the email designer can only be created in the Design Studio and refe
 
 >[!ENDTABS]
 
-That's it. Now it's time to design your email.
+That's it. Now it is time to design your email.
 
 ## Choose your content type {#choose-your-content-type}
 
@@ -344,7 +344,7 @@ Errors prevent you from sending or testing the email until they are resolved:
 
 ## Test your email {#test-your-email}
 
-When your message content is defined, you can use test profiles to preview it, send proofs, and control how it renders in popular desktop, mobile, and web-based clients. If you inserted personalized content, you can check how it's displayed in the message using test profile data.
+When your message content is defined, you can use test profiles to preview it, send proofs, and control how it renders in popular desktop, mobile, and web-based clients. If you inserted personalized content, you can check how it is displayed in the message using test profile data.
 
 To preview your email content, click **Simulate content**, then add a test profile to check your message using the test profile data.
 

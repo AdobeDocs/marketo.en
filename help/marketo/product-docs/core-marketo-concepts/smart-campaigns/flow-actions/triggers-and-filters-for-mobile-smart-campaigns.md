@@ -69,7 +69,7 @@ Use this filter to find out all people who have ever had your app installed. Thi
 
 >[!TIP]
 >
->It's a best practice to specify Has Mobile App = true and Is Push Enabled = true, as well as the name of your mobile app when defining the smart list of who should receive a push notification.
+>it is a best practice to specify Has Mobile App = true and Is Push Enabled = true, as well as the name of your mobile app when defining the smart list of who should receive a push notification.
 
 Mobile App Is/Was Installed
 

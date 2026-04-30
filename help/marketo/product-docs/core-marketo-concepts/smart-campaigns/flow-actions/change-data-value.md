@@ -19,7 +19,7 @@ You can use Marketo to update the value of a field. For this, you will use the *
 
    ![](assets/change-data-value-2.png)
 
-1. Enter the value you want, and you're done!
+1. Enter the value you want, and you are done!
 
    ![](assets/change-data-value-3.png)
 

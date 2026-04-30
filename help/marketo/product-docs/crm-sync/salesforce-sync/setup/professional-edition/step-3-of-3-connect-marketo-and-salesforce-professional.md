@@ -58,7 +58,7 @@ In this article, you'll configure Marketo Engage to sync with your configured Sa
 
    >[!CAUTION]
    >
-   >If you want to look over the [mappings and customize them](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md){target="_blank"}, this is your only chance to do so! Once you click Start Salesforce Sync, it's done.
+   >If you want to look over the [mappings and customize them](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md){target="_blank"}, this is your only chance to do so! Once you click Start Salesforce Sync, it is done.
 
 ## Start [!DNL Salesforce] Sync {#start-salesforce-sync}
 

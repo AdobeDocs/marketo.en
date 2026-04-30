@@ -37,13 +37,13 @@ Once Actions is enabled for your Marketo Sandbox, you'll need to follow the step
 
    >[!IMPORTANT]
    >
-   >An email address can only be used for one Actions instance across both Sandbox and Production instances. If you're an admin who will need access to multiple instances across Production and Sandbox, you must use a different email address for each.
+   >An email address can only be used for one Actions instance across both Sandbox and Production instances. If you are an admin who will need access to multiple instances across Production and Sandbox, you must use a different email address for each.
 
 1. In the provisioning card, select the user you want to invite to your Sales Insight Actions instance.
 
 ## Activate Your Actions Instance {#activate-your-actions-instance}
 
-Your Actions instance will need to be activated with a Salesforce production account. After it's activated, it can be switched to a Salesforce Sandbox account.
+Your Actions instance will need to be activated with a Salesforce production account. After it is activated, it can be switched to a Salesforce Sandbox account.
 
 1. Locate the invite sent.
 
@@ -59,7 +59,7 @@ Actions requires you to activate a new instance with a Salesforce production use
 
 1. Update login settings to "All Login Methods," so you can log in with a username and password if needed. If preferred, this can be switched back to "Salesforce Only" after everything is configured. [See how to do this here](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
 
-1. Disconnect from Salesforce Production and connect to your Salesforce Sandbox. [See how to connect here](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}. For step 3, select "Sandbox" instead of "Salesforce". If you're already connected, you should see an option to disconnect on the Salesforce Connections and Customizations tab.
+1. Disconnect from Salesforce Production and connect to your Salesforce Sandbox. [See how to connect here](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}. For step 3, select "Sandbox" instead of "Salesforce". If you are already connected, you should see an option to disconnect on the Salesforce Connections and Customizations tab.
 
 >[!NOTE]
 >

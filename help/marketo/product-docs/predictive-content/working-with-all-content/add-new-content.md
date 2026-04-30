@@ -25,7 +25,7 @@ You can easily add content manually to the [!UICONTROL All Content] page.
 
    ![](assets/all-content-add-hand.png)
 
-1. The new title now appears on the **[!UICONTROL All Content]** page. Note that it's not approved for predictive content yet.
+1. The new title now appears on the **[!UICONTROL All Content]** page. Note that it is not approved for predictive content yet.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 

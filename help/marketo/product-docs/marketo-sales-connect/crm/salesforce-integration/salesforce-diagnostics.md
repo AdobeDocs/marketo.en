@@ -68,7 +68,7 @@ Part of our [!DNL Salesforce] integration includes a [!DNL Salesforce] Diagnosti
 **Category:** Intermittent
 **Message:** end of file reached
 **What is Happening:** Performance issue with [!DNL Salesforce], likely due to sub-optimal triggers on the customer side.
-**Troubleshooting Steps:** Retry logic should handle this. If it's still not working, work with your [!DNL Salesforce] admin to troubleshoot a problematic trigger.
+**Troubleshooting Steps:** Retry logic should handle this. If it is still not working, work with your [!DNL Salesforce] admin to troubleshoot a problematic trigger.
 
 <br>&nbsp;
 
@@ -156,7 +156,7 @@ Part of our [!DNL Salesforce] integration includes a [!DNL Salesforce] Diagnosti
 **Category:** Intermittent
 **Message:** Your query request was running too long
 **What is Happening:** See above.
-**Troubleshooting Steps:** Retry logic should handle this. If it's still not working, work with your [!DNL Salesforce] Admin to troubleshoot a problematic trigger.
+**Troubleshooting Steps:** Retry logic should handle this. If it is still not working, work with your [!DNL Salesforce] Admin to troubleshoot a problematic trigger.
 
 **Error:** REQUEST_LIMIT_EXCEEDED
 **Category:** Intermittent
@@ -181,7 +181,7 @@ Part of our [!DNL Salesforce] integration includes a [!DNL Salesforce] Diagnosti
 **Category:** Intermittent
 **Message:** server too busy
 **What is Happening:** Performance issue with [!DNL Salesforce], likely due to sub-optimal triggers by the customer
-**Troubleshooting Steps:** Retry logic should handle this. If it's still not working, work with your [!DNL Salesforce] Admin to trouble shoot a problematic trigger.
+**Troubleshooting Steps:** Retry logic should handle this. If it is still not working, work with your [!DNL Salesforce] Admin to trouble shoot a problematic trigger.
 
 **Error:** TXN_SECURITY_NO_ACCESS
 **Category:** Access/Validation
@@ -193,7 +193,7 @@ Part of our [!DNL Salesforce] integration includes a [!DNL Salesforce] Diagnosti
 **Category:** Intermittent
 **Message:** unable to obtain exclusive access to this record or 1 records: "record ID"
 **What is Happening:** Likely there is a trigger that is causing multiple attempts to access the same record, possibly in the case of a group email.
-**Troubleshooting Steps:** Retry logic should handle this. If it's still not working, work with your [!DNL Salesforce] Admin to troubleshoot a problematic trigger.
+**Troubleshooting Steps:** Retry logic should handle this. If it is still not working, work with your [!DNL Salesforce] Admin to troubleshoot a problematic trigger.
 
 **Error:** UNKNOWN_EXCEPTION
 **Category:** Other

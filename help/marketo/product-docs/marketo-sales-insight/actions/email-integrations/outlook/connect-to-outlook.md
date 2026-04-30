@@ -35,7 +35,7 @@ Connecting to Outlook means you'll receive reply tracking, access to the Outlook
 
    ![](assets/connect-to-outlook-5.png)
 
-1. Select the version of Outlook you're using and click **Next**. In this example we're choosing Outlook Online.
+1. Select the version of Outlook you are using and click **Next**. In this example we're choosing Outlook Online.
 
    ![](assets/connect-to-outlook-6.png)
 
@@ -60,7 +60,7 @@ Connecting to Outlook means you'll receive reply tracking, access to the Outlook
 
    ![](assets/connect-to-outlook-7.png)
 
-1. If you're not logged in to Outlook, enter your log-in info and click **Next**. If you are, choose the account you'd like to connect to and click **Next**. In this example, we're already logged in.
+1. If you are not logged in to Outlook, enter your log-in info and click **Next**. If you are, choose the account you'd like to connect to and click **Next**. In this example, we're already logged in.
 
    ![](assets/connect-to-outlook-8.png)
 
@@ -98,7 +98,7 @@ Connecting to Exchange On-Premise means you'll receive reply tracking, access to
 
    ![](assets/connect-to-outlook-14.png)
 
-1. Select the version of Outlook you're using and click **Next**. In this example we're choosing Exchange On-premise.
+1. Select the version of Outlook you are using and click **Next**. In this example we're choosing Exchange On-premise.
 
    ![](assets/connect-to-outlook-15.png)
 
@@ -137,7 +137,7 @@ You may need to work with your IT team to get permission to allow Marketo Sales 
 >
 >Inform the IT team that manages your Microsoft 365 account that the application that needs access is "Marketo Sales Connect."
 
-Depending on your IT team's preferences and current configuration, it's best to consult with them about how to grant access. Below are some articles that can help guide the conversation.
+Depending on your IT team's preferences and current configuration, it is best to consult with them about how to grant access. Below are some articles that can help guide the conversation.
 
 * Global Consent: [Integrated apps and Azure AD for Microsoft 365 administrators](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
 * User Consent: [Configure how users consent to applications](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}

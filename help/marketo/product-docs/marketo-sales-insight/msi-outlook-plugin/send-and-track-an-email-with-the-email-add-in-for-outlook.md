@@ -49,7 +49,7 @@ You can send and track emails with Marketo directly from [!DNL Outlook].
 
    ![](assets/was-sent-sales-email.png)
 
-It's that easy! Even though this email was sent by a salesperson's [!DNL Outlook], it will be tracked in Marketo.
+It is that easy! Even though this email was sent by a salesperson's [!DNL Outlook], it will be tracked in Marketo.
 
 >[!MORELIKETHIS]
 >

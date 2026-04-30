@@ -135,7 +135,7 @@ The information will be updated when you sync the app with Marketo.
 
 ## Sync the App with Marketo {#sync-the-app-with-marketo}
 
-The Marketo Events app works independently until you sync your activity back to the Marketo Database. It's best to sync as soon as possible after the last check-in. Your tablet must be connected to the Internet.
+The Marketo Events app works independently until you sync your activity back to the Marketo Database. It is best to sync as soon as possible after the last check-in. Your tablet must be connected to the Internet.
 
 >[!CAUTION]
 >
@@ -147,7 +147,7 @@ The Marketo Events app works independently until you sync your activity back to 
 
    Your event is updated with new check-ins in the Marketo database. The red counter on the Sync button clears, until you check someone else in.
 
-   For security reasons, you should quit the Marketo Events app after you're done syncing.
+   For security reasons, you should quit the Marketo Events app after you are done syncing.
 
 ## Working with Limited Internet Access {#working-with-limited-internet-access}
 
@@ -158,7 +158,7 @@ Some venues have lousy Internet access. You need a good connection to:
 * Select an event
 * Sync the app with Marketo
 
-If you're concerned about Internet access at the venue, you may want to log in to the Marketo Events app and select your event in advance, at a location with strong Internet access. That way, you still can use the app offline. Then, when you regain an Internet connection, sync right away to the Marketo database.
+If you are concerned about Internet access at the venue, you may want to log in to the Marketo Events app and select your event in advance, at a location with strong Internet access. That way, you still can use the app offline. Then, when you regain an Internet connection, sync right away to the Marketo database.
 
 >[!TIP]
 >

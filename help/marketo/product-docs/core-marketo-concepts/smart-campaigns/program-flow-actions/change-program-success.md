@@ -11,7 +11,7 @@ If you ever have a group of people that are marked with Program Success incorrec
 
 ![](assets/change-program-success-1.png)
 
-1. When you drag in this flow step, the program will automatically be set to the program that contains the smart campaign you're editing.
+1. When you drag in this flow step, the program will automatically be set to the program that contains the smart campaign you are editing.
 
    >[!NOTE]
    >

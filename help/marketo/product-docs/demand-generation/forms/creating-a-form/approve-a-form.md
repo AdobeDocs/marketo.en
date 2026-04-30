@@ -25,7 +25,7 @@ Here's how to approve an existing form that's ready to go.
 
    ![](assets/approve-a-form-3.png)
 
-   It's approved and ready to be [added to a Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}.
+   It is approved and ready to be [added to a Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}.
 
    >[!NOTE]
    >

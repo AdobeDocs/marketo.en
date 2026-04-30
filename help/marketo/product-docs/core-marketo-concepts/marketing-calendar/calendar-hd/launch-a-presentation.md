@@ -7,7 +7,7 @@ feature: Marketing Calendar
 ---
 # Launch a Presentation {#launch-a-presentation}
 
-Once you've set the views and rotation frequency for your presentation, it's time for blast off!
+Once you've set the views and rotation frequency for your presentation, it is time for blast off!
 
 >[!AVAILABILITY]
 >

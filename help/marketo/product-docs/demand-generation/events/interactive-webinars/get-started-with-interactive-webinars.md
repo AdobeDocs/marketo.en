@@ -16,9 +16,9 @@ So, you've read the [Interactive Webinars Overview](/help/marketo/product-docs/d
 
 **Step Two**: [Create an Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}{target="_blank"} &mdash; Learn how to create an Event Program and set initial parameters for your webinar.
 
-**Step Three (optional)**: [Add a Webinar Team](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}{target="_blank"} &mdash; If you're not planning to host the webinar by yourself, learn how to add presenters and co-hosts to share hosting/presenting duties.
+**Step Three (optional)**: [Add a Webinar Team](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}{target="_blank"} &mdash; If you are not planning to host the webinar by yourself, learn how to add presenters and co-hosts to share hosting/presenting duties.
 
-**Step Four**: [Design Your Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} &mdash; After the webinar is created and an optional team has been added, it's time to tailor the event to suit your specific needs.
+**Step Four**: [Design Your Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} &mdash; After the webinar is created and an optional team has been added, it is time to tailor the event to suit your specific needs.
 
 **Step Five**: [Promote Your Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"} &mdash; Learn valuable tips on how to promote your upcoming event.
 

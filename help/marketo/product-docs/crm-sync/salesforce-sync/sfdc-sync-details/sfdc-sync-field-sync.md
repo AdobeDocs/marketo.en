@@ -15,7 +15,7 @@ We sync most standard fields in SFDC and any custom field that the sync user has
 
 ## How do you determine if a record in Marketo is a lead or a contact in [!DNL Salesforce]? {#how-do-you-determine-if-a-record-in-marketo-is-a-lead-or-a-contact-in-salesforce}
 
-We have a field in Marketo called SFDC Type. It has three possible values: lead, contact, or it's empty. If it's empty, it means that this Marketo lead does not exist in SFDC.
+We have a field in Marketo called SFDC Type. It has three possible values: lead, contact, or it is empty. If it is empty, it means that this Marketo lead does not exist in SFDC.
 
 ## How do you determine if a lead or contact is deleted in SFDC? {#how-do-you-determine-if-a-lead-or-contact-is-deleted-in-sfdc}
 

@@ -30,4 +30,4 @@ If you have an email identity that is not verified, follow the steps below.
 
 >[!NOTE]
 >
->If you don't receive the verification email, check your spam folder. If it's not there, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>If you don't receive the verification email, check your spam folder. If it is not there, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).

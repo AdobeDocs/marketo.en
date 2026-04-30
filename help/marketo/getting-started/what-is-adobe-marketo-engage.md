@@ -37,7 +37,7 @@ Marketo Engage has a ton of great features to help you achieve your marketing go
 
 ## Do I need to learn all of that? {#do-i-need-to-learn-all-of-that}
 
-You do not. It's easy to get started in Marketo Engage, and it will evolve with you. You can learn everything if you'd like, or just use the pieces that suit your needs.
+You do not. It is easy to get started in Marketo Engage, and it will evolve with you. You can learn everything if you'd like, or just use the pieces that suit your needs.
 
 ## Do I need to do any setup? {#do-i-need-to-do-any-setup}
 

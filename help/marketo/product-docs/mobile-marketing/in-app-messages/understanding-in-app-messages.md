@@ -34,4 +34,4 @@ You [create an in-app message](/help/marketo/product-docs/mobile-marketing/in-ap
 
 You create a program to [send the message](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
-You're on your way.
+You are on your way.

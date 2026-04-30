@@ -23,4 +23,4 @@ Stars and Flames on lead/contact records are dependent upon: [!UICONTROL Lead Sc
 
 1. Drag and drop the following: [!UICONTROL Lead Score], [!UICONTROL Relative Score], [!UICONTROL Urgency], and [!UICONTROL Priority] fields. Arrange them in a manner that works best for you. You can also format any field by double-clicking on it.
 
-1. When you're done, click **[!UICONTROL Save and Close]**.
+1. When you are done, click **[!UICONTROL Save and Close]**.

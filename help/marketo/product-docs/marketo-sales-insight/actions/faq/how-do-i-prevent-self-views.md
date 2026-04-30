@@ -14,7 +14,7 @@ Getting false positives on your view tracking can lead to reporting inconsistenc
 
 * Ensure that you have cookies enabled on your computer.
 
-* If you're using a new computer or mobile device, make sure you've logged in to the web application. This will allow us to recognize your computer/device going forward.
+* If you are using a new computer or mobile device, make sure you've logged in to the web application. This will allow us to recognize your computer/device going forward.
 
 ## Desktop (Windows) {#desktop-windows}
 

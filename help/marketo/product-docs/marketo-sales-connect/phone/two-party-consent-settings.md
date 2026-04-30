@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 ---
 # Two-Party Consent Settings {#two-party-consent-settings}
 
-In order to ensure compliance with U.S. two-party consent laws when recording calls, as an Admin you can enable a prerecorded message of your choice to play at the beginning of your calls when it's being recorded.
+In order to ensure compliance with U.S. two-party consent laws when recording calls, as an Admin you can enable a prerecorded message of your choice to play at the beginning of your calls when it is being recorded.
 
 >[!PREREQUISITES]
 >

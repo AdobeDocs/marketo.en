@@ -29,7 +29,7 @@ feature: Marketo Sales Connect
 
    >[!NOTE]
    >
-   >If you are already logged in to your [!DNL Salesforce Sandbox] account, you will be taken to an Authorization page where you'll need to allow access. If you're not already logged in, proceed to Step 5.
+   >If you are already logged in to your [!DNL Salesforce Sandbox] account, you will be taken to an Authorization page where you'll need to allow access. If you are not already logged in, proceed to Step 5.
 
 1. Enter your [!DNL Salesforce Sandbox] account's username and password.
 

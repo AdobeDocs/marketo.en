@@ -11,7 +11,7 @@ A token is a variable that can be used in Marketo smart campaign flow steps, ema
 
 ## Understanding Default Values {#understanding-default-values}
 
-When you use a token, you also want to provide a default value. This is the text that shows if a person doesn't have a value for the field you're referencing.
+When you use a token, you also want to provide a default value. This is the text that shows if a person doesn't have a value for the field you are referencing.
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 

@@ -78,7 +78,7 @@ To create and manage your brand guideline, you can either enter the details your
 
     >[!NOTE]
     >
-    >This creates a temporary copy in edit mode, replacing the live version after it's published.
+    >This creates a temporary copy in edit mode, replacing the live version after it is published.
 
    ![](assets/create-and-manage-brands-11.png)
 

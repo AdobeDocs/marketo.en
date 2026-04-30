@@ -12,7 +12,7 @@ A **file attachment** is just like a file attachment you would use in your regul
 
 **Content** is what we use to describe any files (PPT, PDF, Word doc, etc.) that you'd like to be tracked by [!DNL Sales Insight Actions].
 
-After you click that button, you're able to choose a file already uploaded or upload a new file to be tracked. We then insert a link in the email or template you're using.
+After you click that button, you are able to choose a file already uploaded or upload a new file to be tracked. We then insert a link in the email or template you are using.
 
 On the receiving end, the recipient clicks the link and the content will be populated in the browser. This allows us to track each page view and report them to the [!DNL Sales Insight Actions] user in the Live Feed.
 

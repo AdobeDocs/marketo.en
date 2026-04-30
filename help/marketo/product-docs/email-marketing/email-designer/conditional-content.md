@@ -53,7 +53,7 @@ Conditional content allows you dynamically control what content is seen by which
 
    ![](assets/conditional-content-8.png)
 
-1. When you're done, each variant displays the content you selected.
+1. When you are done, each variant displays the content you selected.
 
    ![](assets/conditional-content-9.gif)
 

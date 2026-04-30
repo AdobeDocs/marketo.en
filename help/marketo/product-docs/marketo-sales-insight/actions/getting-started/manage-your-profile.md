@@ -32,7 +32,7 @@ On the right side of the page, the Your Integrations section provides the status
 
 >[!NOTE]
 >
->If you're using Exchange On Prem with Marketo Sales, it will not update the Delivery Channel (1st line item) or Reply Tracking (2nd line item) integration health checks. We are working to support this in a future release.
+>If you are using Exchange On Prem with Marketo Sales, it will not update the Delivery Channel (1st line item) or Reply Tracking (2nd line item) integration health checks. We are working to support this in a future release.
 
 ## Time Zone {#time-zone}
 

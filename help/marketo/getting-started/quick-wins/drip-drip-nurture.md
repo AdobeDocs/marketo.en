@@ -80,7 +80,7 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
 ## Step 3: Add Content to Your Stream {#step-add-content-to-your-stream}
 
-Now it's time to create a stream of content for your engagement program using the emails you created.
+Now it is time to create a stream of content for your engagement program using the emails you created.
 
 1. Select your engagement program and click the **[!UICONTROL Streams]** tab.
 
@@ -124,7 +124,7 @@ Now it's time to create a stream of content for your engagement program using th
 
    >[!NOTE]
    >
-   >The test person is the person who checks your engagement program to test that it's correct before sending to customers.
+   >The test person is the person who checks your engagement program to test that it is correct before sending to customers.
 
 ## Step 6: Add a Test Person to Your Engagement Program {#step-add-a-test-person-to-your-engagement-program}
 

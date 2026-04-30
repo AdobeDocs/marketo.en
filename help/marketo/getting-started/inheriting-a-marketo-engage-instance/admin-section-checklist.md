@@ -10,7 +10,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
 
 >[!TIP]
 >
->If you're a new(er) Marketo Engage user and are not familiar with many of the terms, please check out the [Marketo Engage Glossary](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}.
+>If you are a new(er) Marketo Engage user and are not familiar with many of the terms, please check out the [Marketo Engage Glossary](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
 
@@ -27,7 +27,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
   <tr>
    <td>Subscription & Marketo Engage Product Admin</td>
    <td><li>Has your Marketo Engage subscription been migrated to <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> yet?
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If so, have you been granted an 'Adobe Admin Console Product Admin' role by your 'Adobe Admin Console System Admin'? If you're not sure who in your organization has admin privileges in the console, contact <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe Customer Care</a>.</li>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If so, have you been granted an 'Adobe Admin Console Product Admin' role by your 'Adobe Admin Console System Admin'? If you are not sure who in your organization has admin privileges in the console, contact <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe Customer Care</a>.</li>
 <li>Have you accepted the 'Marketo Engage Product Admin' invite? The email is sent when the role is assigned in the Adobe Admin Console.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, look for the <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">welcome email</a> in your inbox and accept the invite to activate your Adobe ID.</li></td>
   </tr>
@@ -267,7 +267,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
 <li>Is form prefill enabled?</li>
 <li>Are <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">personalized URLs</a> enabled?</li>
 <li>Are there rules set up for <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">redirects</a>?</li>
-<li>Do you have domain aliases in place? Are you tracking how you're utilizing your domain aliases?</li>
+<li>Do you have domain aliases in place? Are you tracking how you are utilizing your domain aliases?</li>
 <li>Is <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Secured Domains for Landing Pages</a> enabled?
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Confirm if your landing page assets contain a 'http' URL.</li></td>
   </tr>
@@ -276,7 +276,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
    <td><li>Is your <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin tracking code</a> on your website (not a Marketo Engage Landing Page)?</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track</a> Browser Request enabled?</li>
 <li>Is your <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin API</a> configured?
-<p><img src="assets/tip-icon.png" alt="tip icon">TIP: If you're missing documentation on where the munchkin code is on your website, you can view all URLs by creating a <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Web Page Activity Report</a>.</li></td>
+<p><img src="assets/tip-icon.png" alt="tip icon">TIP: If you are missing documentation on where the munchkin code is on your website, you can view all URLs by creating a <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Web Page Activity Report</a>.</li></td>
   </tr>
   <tr>
    <td>Web Services</td>
@@ -289,7 +289,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
    <td>Adobe Dynamic Chat (if applicable)</td>
 <td>Following the steps below will require access to the <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. If you haven't set up an Adobe ID yet, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">learn how to do that here</a>.
 <br/>
-<li>Have you accepted the <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat Product Admin</a> invite? The email is sent when Dynamic Chat is enabled in your Marketo Engage instance, and you're designated as a System Admin.
+<li>Have you accepted the <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat Product Admin</a> invite? The email is sent when Dynamic Chat is enabled in your Marketo Engage instance, and you are designated as a System Admin.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, look for the welcome email in your inbox and accept the invitation to set up your Adobe ID.</li>
 <li>Have you added the <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">desired users</a> to the Dynamic Chat product profile in Adobe Admin Console?
 <li>Make sure your eligible users have the Dynamic Chat Product Profile added to their Adobe Identity. You cannot assign 'Access Dynamic Chat' roles in Marketo Engage > Admin > Users & Roles if they're added to a Product Profile.</li>

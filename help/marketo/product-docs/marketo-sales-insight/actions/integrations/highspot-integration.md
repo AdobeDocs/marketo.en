@@ -46,7 +46,7 @@ Access Highspot and add content to your emails from the Sales Insight Actions co
 
    ![](assets/highspot-integration-7.png)
 
-1. Log in to your Highspot account (if you're not logged in already).
+1. Log in to your Highspot account (if you are not logged in already).
 
    ![](assets/highspot-integration-8.png)
 

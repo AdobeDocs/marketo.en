@@ -44,7 +44,7 @@ Before you can sync [!DNL Microsoft Dynamics 365] and Marketo, you need to first
 
    ![](assets/image2015-10-9-15-3a4-3a16.png)
 
-1. When you're done checking all the details, click **[!UICONTROL Close]**.
+1. When you are done checking all the details, click **[!UICONTROL Close]**.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 

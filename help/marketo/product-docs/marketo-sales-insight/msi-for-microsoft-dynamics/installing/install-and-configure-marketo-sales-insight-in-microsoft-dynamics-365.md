@@ -53,7 +53,7 @@ feature: Marketo Sales Insights
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 
-1. Awesome! You should see the solution now. If it's not there, refresh your screen.
+1. Awesome! You should see the solution now. If it is not there, refresh your screen.
 
    ![](assets/image2015-5-13-15-3a42-3a29.png)
 

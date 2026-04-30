@@ -9,7 +9,7 @@ feature: Mobile Marketing
 
 >[!NOTE]
 >
->In-App messaging is an add-on application. Confirm with your Marketo account manager to be sure it's activated.
+>In-App messaging is an add-on application. Confirm with your Marketo account manager to be sure it is activated.
 
 Marketo mobile engagement allows you to create, configure, and send a notification just like you'd create an email.  Before you can create and send push notifications from your mobile app, you'll need your Marketo Admin and mobile apps developer to perform some setups.
 
@@ -23,7 +23,7 @@ The Marketo Admin and mobile apps developer work together to set you up. See [Be
 
 ## Step 2: Create a Push Notification {#step-create-a-push-notification}
 
-[Craft your messaging](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) and preview how it's displayed on Android and iOS devices.
+[Craft your messaging](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) and preview how it is displayed on Android and iOS devices.
 
 ## Step 3: Send! {#step-send}
 

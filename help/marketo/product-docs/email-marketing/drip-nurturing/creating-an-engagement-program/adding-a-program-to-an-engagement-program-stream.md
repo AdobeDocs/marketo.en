@@ -9,7 +9,7 @@ feature: Engagement Programs
 
 ## Why use a nested program in an engagement program stream? {#why-use-a-nested-program-in-an-engagement-program-stream}
 
-It's easy to add an email to a stream in an engagement program, and it works fine. However, if your business needs are more complex, it may make sense to place the email inside a program. For example, you might want to:
+It is easy to add an email to a stream in an engagement program, and it works fine. However, if your business needs are more complex, it may make sense to place the email inside a program. For example, you might want to:
 
 * Send an email to a subgroup of people in the stream
 * Send *different* emails to subgroups within the stream
@@ -21,8 +21,8 @@ It's easy to add an email to a stream in an engagement program, and it works fin
 
 When using a nested program, the decision to send an email to a person is based on the program membership and program ID.
 
-* If you're not a member of a program, you will receive any emails that are part of the program once
-* If you're a member of the program, you won't receive the email
+* If you are not a member of a program, you will receive any emails that are part of the program once
+* If you are a member of the program, you won't receive the email
 * If you are no longer a member but received the email earlier through that program, you won't receive the email
 
 When you use a program in a stream, it doesn't matter if you’ve received that specific email before. As long as the email was not sent out before *in that specific program*, you can receive it again.
@@ -47,7 +47,7 @@ Reporting changes with email location. So, for example, if the email is in the [
 
 >[!CAUTION]
 >
->If you want to resend something, it's safest to create a new program and smart campaign.
+>If you want to resend something, it is safest to create a new program and smart campaign.
 
 >[!MORELIKETHIS]
 >

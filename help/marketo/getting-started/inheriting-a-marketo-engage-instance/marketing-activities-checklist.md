@@ -37,7 +37,7 @@ Organize your Marketing Activities section properly to help others find and mana
    <td>Archive</td>
    <td><li>Are older programs <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archived</a>?</li>
 <li>How often does your company review and archive old programs?</li>
-<p><img src="assets/tip-icon.png" alt="tip icon">TIP: It's good to perform a review every year.</td>
+<p><img src="assets/tip-icon.png" alt="tip icon">TIP: it is good to perform a review every year.</td>
   </tr>
   <tr>
    <td>Notifications</td>
@@ -134,7 +134,7 @@ Organize your Marketing Activities section properly to help others find and mana
   </tr>
   <tr>
    <td>Privacy & Compliance</td>
-   <td><li>Do you have programs to ensure you're compliant with data privacy and spam laws?
+   <td><li>Do you have programs to ensure you are compliant with data privacy and spam laws?
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consider <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA, etc.</li>
 <p><img src="assets/tip-icon.png" alt="tip icon">TIP: Remember to always consult your Legal team on these issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
   </tr>

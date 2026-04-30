@@ -30,7 +30,7 @@ So, how do you set up a Campaign?
    >
    >Create a new category by clicking the **+** next to **[!UICONTROL Categories]**.
 
-1. The category you chose will be selected. If you change your mind, click the drop-down and select a different one. When you're done, click **[!UICONTROL  Continue]**.
+1. The category you chose will be selected. If you change your mind, click the drop-down and select a different one. When you are done, click **[!UICONTROL  Continue]**.
 
    ![](assets/three-1.png)
 
@@ -54,4 +54,4 @@ So, how do you set up a Campaign?
 
    ![](assets/seven.png)
 
-   Now it's time to start Adding People to your Campaign!
+   Now it is time to start Adding People to your Campaign!

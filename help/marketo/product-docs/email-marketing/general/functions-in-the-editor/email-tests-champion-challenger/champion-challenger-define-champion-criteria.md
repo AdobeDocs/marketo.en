@@ -49,7 +49,7 @@ Once you've set up your test type, you need to define the champion criteria. Her
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 
-   Great! Now it's time to schedule the report.
+   Great! Now it is time to schedule the report.
 
    >[!MORELIKETHIS]
    >

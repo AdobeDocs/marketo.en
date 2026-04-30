@@ -35,7 +35,7 @@ You can easily A/B test your emails. One of the most common tests is the **[!UIC
 
    >[!CAUTION]
    >
-   >**We recommend you avoid setting the sample size to 100%**. If you're using a static list, setting the sample size to 100% would send the email to everyone in the audience and the winner would go to no one. If you're using a smart list, setting the sample size to 100% would send the email to everyone in the audience _at that time_. And when the email program runs again at a later date, any new people who qualify for the smart list would also receive the email since they are now included in the audience.
+   >**We recommend you avoid setting the sample size to 100%**. If you are using a static list, setting the sample size to 100% would send the email to everyone in the audience and the winner would go to no one. If you are using a smart list, setting the sample size to 100% would send the email to everyone in the audience _at that time_. And when the email program runs again at a later date, any new people who qualify for the smart list would also receive the email since they are now included in the audience.
 
    >[!NOTE]
    >

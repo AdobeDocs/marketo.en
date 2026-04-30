@@ -25,7 +25,7 @@ Get a visual representation of velocity and flow through your Revenue Cycle Mode
    >
    >If you receive a warning that no data was found in the specified time frame, just click **[!UICONTROL Close]** to change your time frame. If you aren't prompted, but you want to change your time frame, go to **[!UICONTROL Setup]** and double-click **[!UICONTROL Time Frame]**.
 
-1. If you had no data, or you're changing your time frame, select one from the drop-down and click **[!UICONTROL Save]**.
+1. If you had no data, or you are changing your time frame, select one from the drop-down and click **[!UICONTROL Save]**.
 
    ![](assets/timeframe.png)
 

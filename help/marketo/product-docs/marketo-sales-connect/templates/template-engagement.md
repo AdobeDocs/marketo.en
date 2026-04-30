@@ -23,4 +23,4 @@ Follow the steps below to view your template engagement.
 
    **Lowest Engagement** - A template that needs some re-tinkering to its engagement rate (this template can either be shared or unshared across the team)
 
-   From there, scroll down and see all templates created across your team based on their view rates within that selected date range. On an individual template level you can see: who created it, whether or not it's shared, number of emails it was used with it, and tracking data (views, clicks, replies).
+   From there, scroll down and see all templates created across your team based on their view rates within that selected date range. On an individual template level you can see: who created it, whether or not it is shared, number of emails it was used with it, and tracking data (views, clicks, replies).

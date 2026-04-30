@@ -37,7 +37,7 @@ Connecting to [!DNL Outlook] means you'll receive reply tracking, access to the 
 
    ![](assets/five-a.png)
 
-1. Select the version of [!DNL Outlook] you're using and click **[!UICONTROL Next]**. In this example we're choosing [!DNL Outlook Online].
+1. Select the version of [!DNL Outlook] you are using and click **[!UICONTROL Next]**. In this example we're choosing [!DNL Outlook Online].
 
    ![](assets/six-a.png)
 
@@ -62,7 +62,7 @@ Connecting to [!DNL Outlook] means you'll receive reply tracking, access to the 
 
    ![](assets/seven-a.png)
 
-1. If you're not logged in to [!DNL Outlook], enter your log-in info and click **[!UICONTROL Next]**. If you are, choose the account you’d like to connect to and click **[!UICONTROL Next]**. In this example, we're already logged in.
+1. If you are not logged in to [!DNL Outlook], enter your log-in info and click **[!UICONTROL Next]**. If you are, choose the account you’d like to connect to and click **[!UICONTROL Next]**. In this example, we're already logged in.
 
    ![](assets/eight-a.png)
 
@@ -100,7 +100,7 @@ Connecting to [!DNL Exchange On-Premise] means you'll receive reply tracking, ac
 
    ![](assets/five-a.png)
 
-1. Select the version of [!DNL Outlook] you're using and click **[!UICONTROL Next]**. In this example we're choosing [!DNL Exchange On-premise].
+1. Select the version of [!DNL Outlook] you are using and click **[!UICONTROL Next]**. In this example we're choosing [!DNL Exchange On-premise].
 
    ![](assets/six-b.png)
 

@@ -59,7 +59,7 @@ Learn how to send bulk emails in Salesforce to help scale your outbound communic
 
    >[!TIP]
    >
-   >You can create a new view by clicking Create New View and configuring the available filters to narrow down the list of who you're adding to a Sales Campaign.
+   >You can create a new view by clicking Create New View and configuring the available filters to narrow down the list of who you are adding to a Sales Campaign.
 
 1. Choose the desired leads or contacts list and click the **Send Sales Email** button.
 

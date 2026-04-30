@@ -52,7 +52,7 @@ The following features began a phased rollout on **August 26, 2022**.
 
 ## Marketing Data Environment {#marketing-data-environment}
 
-* **Fix UI truncation of Custom Object "[!UICONTROL Used By]" fields**: It's now easier to identify custom object fields that are "in use" so you can delete fields from a Custom Object when necessary.
+* **Fix UI truncation of Custom Object "[!UICONTROL Used By]" fields**: it is now easier to identify custom object fields that are "in use" so you can delete fields from a Custom Object when necessary.
 
 ## API Enhancements {#api-enhancements}
 

@@ -111,11 +111,11 @@ For DMARC to function, you must have at least one of the following DNS TXT recor
 
 In addition, you must have a DMARC-specific DNS TXT record for your FROM: Domain. Optionally, an email address of your choosing can be defined to indicate where DMARC reports should go within your organization, so you can monitor reports.
 
-As a best practice, it's recommended to slowly roll out DMARC implementation by escalating your DMARC policy from p=none, to p=quarantine, to p=reject as you gain understanding of DMARC's potential impact, and set your DMARC policy to relaxed alignment on SPF and DKIM.
+As a best practice, it is recommended to slowly roll out DMARC implementation by escalating your DMARC policy from p=none, to p=quarantine, to p=reject as you gain understanding of DMARC's potential impact, and set your DMARC policy to relaxed alignment on SPF and DKIM.
 
 ### DMARC Example Workflow {#dmarc-example-workflow}
 
-1. If you're configured to receive DMARC reports, you should do the following...
+1. If you are configured to receive DMARC reports, you should do the following...
 
    I. Analyze the feedback and reports you receive and use (p=none), which tells the receiver to perform no actions against messages that fail authentication, but still send email reports to the sender.
 
@@ -129,11 +129,11 @@ As a best practice, it's recommended to slowly roll out DMARC implementation by 
 
    I. Review reports to ensure that the results are what you expect.
 
-1. If you're satisfied with the behavior of messages at the p=quarantine level, you can adjust policy to (p=reject). The p=reject policy tells the receiver to completely deny (bounce) any email for the domain that fails authentication. With this policy enabled, only email that's verified as 100% authenticated by your domain will even have a chance at inbox placement.
+1. If you are satisfied with the behavior of messages at the p=quarantine level, you can adjust policy to (p=reject). The p=reject policy tells the receiver to completely deny (bounce) any email for the domain that fails authentication. With this policy enabled, only email that's verified as 100% authenticated by your domain will even have a chance at inbox placement.
 
 >[!CAUTION]
 >
->Use this policy with caution and determine if it's appropriate for your organization.
+>Use this policy with caution and determine if it is appropriate for your organization.
 
 ### DMARC Reporting {#dmarc-reporting}
 
@@ -141,7 +141,7 @@ DMARC offers the ability to receive reports regarding emails that fail SPF/DKIM.
 
 * Aggregate Reports (RUA): Does not contain any PII (Personally Identifiable Information) that would be GDPR (General Data Protection Regulation) sensitive.
 
-* Forensic Reports (RUF): Contains email addresses which are GDPR sensitive. Before utilizing, it's best to check internally how to deal with information that needs to be GDPR compliant.
+* Forensic Reports (RUF): Contains email addresses which are GDPR sensitive. Before utilizing, it is best to check internally how to deal with information that needs to be GDPR compliant.
 
 The main use of these reports is to receive an overview of emails that are attempted spoofing. These are highly technical reports that are best digested through a third-party tool.
 
@@ -243,7 +243,7 @@ There are two types of alignment for DMARC&mdash;DKIM alignment and SPF alignmen
 
 >[!NOTE]
 >
->It's recommended to do DMARC alignment on DKIM vs SPF for Marketo Engage.
+>it is recommended to do DMARC alignment on DKIM vs SPF for Marketo Engage.
 
 * DKIM-aligned DMARC&mdash;To set up DKIM aligned DMARC you must:
 
@@ -258,19 +258,19 @@ There are two types of alignment for DMARC&mdash;DKIM alignment and SPF alignmen
 
   * Configure DMARC for the Branded Return-Path Domain
 
-* If you're sending mail from Marketo Engage through a dedicated IP and have not already implemented branded return-path, or aren't sure if you have, please open a ticket with [Adobe Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* If you are sending mail from Marketo Engage through a dedicated IP and have not already implemented branded return-path, or aren't sure if you have, please open a ticket with [Adobe Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-* If you're sending mail from Marketo Engage through a shared pool of IPs, you can see if you qualify for Trusted IPs by [applying here](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Branded return-path is offered for free to those sending from Marketo Engage Trusted IPs. If approved for this program, reach out to Adobe Support to set up branded return-path.
+* If you are sending mail from Marketo Engage through a shared pool of IPs, you can see if you qualify for Trusted IPs by [applying here](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Branded return-path is offered for free to those sending from Marketo Engage Trusted IPs. If approved for this program, reach out to Adobe Support to set up branded return-path.
 
   * Trusted IPs: A shared pool of IPs reserved for lower volume users sending <75K/month who do not qualify for a dedicated IP. These users must also meet best practice requirements as well.
 
-* If you're sending mail from Marketo Engage through shared IPs and you do not qualify for Trusted IPs and send more than 100,000 messages per month, you'll need to contact the Adobe Account Team (your account manager) to purchase a dedicated IP.
+* If you are sending mail from Marketo Engage through shared IPs and you do not qualify for Trusted IPs and send more than 100,000 messages per month, you'll need to contact the Adobe Account Team (your account manager) to purchase a dedicated IP.
 
 * Strict SPF alignment is not supported nor recommended within Marketo Engage.
 
 ## Step 5: Set up MX Records for Your Domain {#step-set-up-mx-records-for-your-domain}
 
-An MX record allows you to receive mail to the domain that you're sending email from to process replies and auto-responders. If you're sending from your corporate domain, you likely already have this configured. If not, you can usually set it up to map to your corporate domain's MX record.
+An MX record allows you to receive mail to the domain that you are sending email from to process replies and auto-responders. If you are sending from your corporate domain, you likely already have this configured. If not, you can usually set it up to map to your corporate domain's MX record.
 
 ## Outbound IP Addresses {#outbound-ip-addresses}
 
@@ -286,7 +286,7 @@ Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesfo
 
 **Marketo Engage Outbound IP Address Blocks**
 
-The following tables cover all Marketo Engage servers that make outbound calls. Use the lists below if you're configuring any IP allowlist, server, firewall, access control list, security group, or third-party service to receive outgoing connections from Marketo Engage.
+The following tables cover all Marketo Engage servers that make outbound calls. Use the lists below if you are configuring any IP allowlist, server, firewall, access control list, security group, or third-party service to receive outgoing connections from Marketo Engage.
 
 <table>
  <tbody>

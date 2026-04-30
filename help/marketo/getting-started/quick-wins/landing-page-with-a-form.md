@@ -53,7 +53,7 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
    >[!NOTE]
    >
-   >Be sure the **[!UICONTROL Open in editor]** box is checked. If it's not, you'll need to click the **[!UICONTROL Edit Form]** tab.
+   >Be sure the **[!UICONTROL Open in editor]** box is checked. If it is not, you'll need to click the **[!UICONTROL Edit Form]** tab.
 
    >[!TIP]
    >
@@ -111,7 +111,7 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
    >[!NOTE]
    >
-   >You may have a different template than the one in our screenshot, it's okay, just pick one and keep going.
+   >You may have a different template than the one in our screenshot, it is okay, just pick one and keep going.
 
    ![](assets/landing-page-with-a-form-17.png)
 

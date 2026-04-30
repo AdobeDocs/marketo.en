@@ -6,7 +6,7 @@ exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
 ---
 # Best Practices for Interactive Webinars {#best-practices-for-interactive-webinars}
 
-When running virtual events, whether aimed at a small or large audience, it's critical that things go as planned. With various steps required to plan and execute an event, from preparation, promotion, delivery, and follow-up, it can sometimes feel like a lot.
+When running virtual events, whether aimed at a small or large audience, it is critical that things go as planned. With various steps required to plan and execute an event, from preparation, promotion, delivery, and follow-up, it can sometimes feel like a lot.
 
 To help with that, we've compiled a list of best practices that can aid in planning, designing, and producing successful and engaging webinars. These tips will help you get the most out of Interactive Webinars powered by Adobe Connect.
 
@@ -54,7 +54,7 @@ To help with that, we've compiled a list of best practices that can aid in plann
 
 * Upload content to a Share Pod instead of screen sharing, whenever possible. Supported file types that can be shared and presented in a Share Pod include: PPT, PPTX, PDF, MP3, MP4, JPG, PNG, POD (for custom pods) and compressed packages (ZIP) containing valid content. The content will persist within the room and be readily available. This will also reduce the internet bandwidth required to share the screen.
 
-* If you're anticipating over 100 participants, consider switching from an open dialog (Chat pod) to a moderated one (Q&A pod). With larger audiences, a lively chat can be difficult for a host to monitor.
+* If you are anticipating over 100 participants, consider switching from an open dialog (Chat pod) to a moderated one (Q&A pod). With larger audiences, a lively chat can be difficult for a host to monitor.
 
 * Add a Files pod on the last layout to share any files (e.g., brochures, whitepapers) that you want participants to download.
 
@@ -93,7 +93,7 @@ To help with that, we've compiled a list of best practices that can aid in plann
   * Decide who will moderate the Q&A and Chat pods.
   * Populate the Q&A and Chat Pods with any seed questions/chat.
 
-* Have programs that you're screen-sharing open to the appropriate window and ready to demonstrate. Avoid launching and logging in to programs while screen-sharing.
+* Have programs that you are screen-sharing open to the appropriate window and ready to demonstrate. Avoid launching and logging in to programs while screen-sharing.
 
 * Participants can enter the room 15 min prior to the scheduled start. Switch to the lobby layout 15 min before the scheduled start for participants who arrive early.
 

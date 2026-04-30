@@ -12,7 +12,7 @@ A Marketo Engage sandbox is an additional instance used for testing purposes bef
 >
 >Not everyone has purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
-A Marketo sandbox cannot be synced to your regular CRM if it's already synced to your production instance. Use your CRM's sandbox for the sync, and follow all the same steps as the original sync.
+A Marketo sandbox cannot be synced to your regular CRM if it is already synced to your production instance. Use your CRM's sandbox for the sync, and follow all the same steps as the original sync.
 
 ## Things to Know About Sandboxes {#things-to-know-about-sandboxes}
 
@@ -31,4 +31,4 @@ You can submit a Support case requesting a one-time instance copy to fill your s
 
 >[!NOTE]
 >
->If you're changing your native CRM, a new Marketo instance would be needed, and an instance copy to the new Marketo instance would not be possible. Instead, please work with Marketo Support to explore the Import Program functionality.
+>If you are changing your native CRM, a new Marketo instance would be needed, and an instance copy to the new Marketo instance would not be possible. Instead, please work with Marketo Support to explore the Import Program functionality.

@@ -27,10 +27,10 @@ Snippets are little bits of HTML that can follow rules and hold personalized con
 
    >[!TIP]
    >
-   >If you cannot find your snippet, make sure it's approved first.
+   >If you cannot find your snippet, make sure it is approved first.
 
    >[!NOTE]
    >
-   >If you're looking to add a snippet to a Guided Landing Page, see [this article](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >If you are looking to add a snippet to a Guided Landing Page, see [this article](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 Awesome job! Now you know how to add snippets to your landing pages.

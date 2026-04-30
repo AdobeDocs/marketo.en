@@ -43,11 +43,11 @@ You can remove a filter at any time by clicking the X next to it. Remove all fil
  <tbody>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">ABM Account List</span></strong></td>
-   <td colspan="1">If you're using Marketo ABM, all of your account lists will be synced to MPI and be visible via the ‘ABM Account List’ filter. You can select an account list to filter results to those accounts.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">Learn more about ABM account lists.</a></td>
+   <td colspan="1">If you are using Marketo ABM, all of your account lists will be synced to MPI and be visible via the ‘ABM Account List’ filter. You can select an account list to filter results to those accounts.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">Learn more about ABM account lists.</a></td>
   </tr>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">ABM Named Account</span></strong></td>
-   <td colspan="1">If you're using Marketo ABM, all of your named accounts will be synced to MPI and be visible via the ‘ABM Named Account’ filter. You can select a named account to filter results to those accounts.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Learn more about ABM named accounts.</a></td>
+   <td colspan="1">If you are using Marketo ABM, all of your named accounts will be synced to MPI and be visible via the ‘ABM Named Account’ filter. You can select a named account to filter results to those accounts.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Learn more about ABM named accounts.</a></td>
   </tr>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">Custom Attribute</span></strong></td>

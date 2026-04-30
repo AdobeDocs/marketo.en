@@ -11,7 +11,7 @@ The [!UICONTROL Unsubscribe History] Card helps admins and users get contextual 
 
 >[!NOTE]
 >
->To get here, click the [!UICONTROL People] tab and select a person. It's at the bottom of the [!UICONTROL About] tab in the Person Details View (if they're unsubscribed).
+>To get here, click the [!UICONTROL People] tab and select a person. It is at the bottom of the [!UICONTROL About] tab in the Person Details View (if they're unsubscribed).
 
 ![](assets/1-1.jpg)
 

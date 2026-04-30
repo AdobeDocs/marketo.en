@@ -86,7 +86,7 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
    SCREENSHOT
 
-1. Click Save & New to go back and create each of the other two custom fields. Click Save with you're done with all three.
+1. Click Save & New to go back and create each of the other two custom fields. Click Save with you are done with all three.
 
    SCREENSHOT
 

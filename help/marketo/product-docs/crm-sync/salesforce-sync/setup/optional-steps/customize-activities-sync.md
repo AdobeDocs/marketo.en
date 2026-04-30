@@ -98,4 +98,4 @@ If you don't use Marketo Sales Insight, Marketo Engage can create Salesforce Act
 
    >[!TIP]
    >
-   >If you're interested in getting more Marketo information into Salesforce, check out our [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} product.
+   >If you are interested in getting more Marketo information into Salesforce, check out our [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} product.

@@ -25,4 +25,4 @@ If, at any point, you decide you don't want to continue running your email test,
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   You're done! If you ever decide you want to set up a test again, go ahead and [add an email champion/challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).
+   You are done! If you ever decide you want to set up a test again, go ahead and [add an email champion/challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).

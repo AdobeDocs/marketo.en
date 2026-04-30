@@ -29,11 +29,11 @@ From the [!UICONTROL Design Studio], you can find and duplicate a landing page t
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 
-1. When you're done, click **[!UICONTROL Create]**.
+1. When you are done, click **[!UICONTROL Create]**.
 
    ![](assets/image2015-4-27-16-3a7-3a50.png)
 
-1. When you're ready to launch the test group, right click the group in the tree and pick **[!UICONTROL Approve Test Group]**.
+1. When you are ready to launch the test group, right click the group in the tree and pick **[!UICONTROL Approve Test Group]**.
 
    ![](assets/image2015-4-27-16-3a19-3a10.png)
 

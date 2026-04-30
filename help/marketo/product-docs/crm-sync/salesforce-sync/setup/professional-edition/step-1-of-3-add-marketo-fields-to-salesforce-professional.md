@@ -120,7 +120,7 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Click **[!UICONTROL Save & New]** to go back and create each of the other two custom fields. Click **[!UICONTROL Save]** with you're done with all three.
+1. Click **[!UICONTROL Save & New]** to go back and create each of the other two custom fields. Click **[!UICONTROL Save]** with you are done with all three.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
@@ -246,7 +246,7 @@ A custom field on the lead object in [!DNL Salesforce] should be mapped to a con
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Repeat the above steps for any other fields you've created.
-1. Click **[!UICONTROL Save]** when you're done.
+1. Click **[!UICONTROL Save]** when you are done.
 
 Easy enough, right?
 

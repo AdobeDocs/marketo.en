@@ -30,7 +30,7 @@ Create a presentation to project your team's calendar views and goals on an HDTV
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 
-   Nice job! Now you're ready to customize your presentation.
+   Nice job! Now you are ready to customize your presentation.
 
 >[!MORELIKETHIS]
 >

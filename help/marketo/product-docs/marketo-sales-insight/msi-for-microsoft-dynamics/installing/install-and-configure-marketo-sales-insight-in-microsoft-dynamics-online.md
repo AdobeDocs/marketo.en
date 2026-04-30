@@ -19,7 +19,7 @@ feature: Marketo Sales Insights
 
 >[!NOTE]
 >
->If you're using the Unified Interface, prior to Step 1 below, click the Settings icon in the top-right corner and select **[!UICONTROL Advanced Settings]**.
+>If you are using the Unified Interface, prior to Step 1 below, click the Settings icon in the top-right corner and select **[!UICONTROL Advanced Settings]**.
 
 1. Under Microsoft Dynamics CRM click **[!UICONTROL Settings]**.
 
@@ -63,7 +63,7 @@ feature: Marketo Sales Insights
 
    ![](assets/image2014-12-12-9-3a6-3a29-1.png)
 
-1. Awesome! You should see the solution now. If it's not there, refresh your screen.
+1. Awesome! You should see the solution now. If it is not there, refresh your screen.
 
    ![](assets/eleven.png)
 

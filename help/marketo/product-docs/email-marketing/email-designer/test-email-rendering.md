@@ -51,7 +51,7 @@ The following steps are for users on the [Litmus Enterprise Plan](https://www.li
     >
     >Learn how to [customize your default email client list](https://help.litmus.com/article/227-change-your-default-email-clients-list).
 
-1. When you're done testing, click the back arrow on the upper-left to return to the _Simulate Content_ screen.
+1. When you are done testing, click the back arrow on the upper-left to return to the _Simulate Content_ screen.
 
     ![](assets/test-email-rendering-with-litmus-6.png)
 

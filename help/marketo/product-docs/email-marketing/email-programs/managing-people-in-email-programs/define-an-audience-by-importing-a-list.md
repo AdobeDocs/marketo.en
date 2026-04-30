@@ -71,7 +71,7 @@ Once you've created an email program, you'll want to tell it who to send the ema
 >
 >You don't have to wait for the list import to finish. You can keep working if you'd like.
 
-Fantastic! Now it's time to choose an already existing email or to create a new email to send to these people.
+Fantastic! Now it is time to choose an already existing email or to create a new email to send to these people.
 
 >[!MORELIKETHIS]
 >

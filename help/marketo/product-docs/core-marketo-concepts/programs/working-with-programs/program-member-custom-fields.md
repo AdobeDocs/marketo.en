@@ -45,7 +45,7 @@ Program Member custom fields allow you to collect program-specific data for each
 |---|---|
 | Company |The name of the company associated with the person. |
 | Opportunity |An opportunity can be associated with a person or account as a potential future sale. They usually enter Marketo through a CRM, or via API. |
-| Person |An individual in your Marketo database that you're engaging with through marketing campaigns. |
+| Person |An individual in your Marketo database that you are engaging with through marketing campaigns. |
 | Program Member |Person who is also a member of a program |
 
 ## Triggers and Filters {#triggers-and-filters}

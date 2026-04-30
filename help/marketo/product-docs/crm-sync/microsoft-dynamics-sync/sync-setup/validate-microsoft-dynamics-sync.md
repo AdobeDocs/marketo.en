@@ -13,7 +13,7 @@ feature: Microsoft Dynamics
 
 ## Run Validate Sync in Marketo {#run-validate-sync-in-marketo}
 
-It's very important to run the Validate Sync tool to make sure your [!DNL Microsoft Dynamics] Sync with Marketo is set up correctly before making the final connection between them. The process generates a checklist of seven setup steps that pinpoint where issues exist. Verifying these were done correctly can save a lot of time later.
+It is very important to run the Validate Sync tool to make sure your [!DNL Microsoft Dynamics] Sync with Marketo is set up correctly before making the final connection between them. The process generates a checklist of seven setup steps that pinpoint where issues exist. Verifying these were done correctly can save a lot of time later.
 
 1. Click the **[!UICONTROL Admin]** tab and then the **[!DNL Microsoft Dynamics]** link in the Integration area.
 

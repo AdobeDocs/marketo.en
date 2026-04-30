@@ -46,7 +46,7 @@ Let's get started by creating a user account.
    >
    >The Sync User should have read permission to the Marketo Config.
 
-1. Enter all of your information. When you're done, click **[!UICONTROL Add]**.
+1. Enter all of your information. When you are done, click **[!UICONTROL Add]**.
 
    ![](assets/eight.png)
 

@@ -348,13 +348,13 @@ So, when a visitor with cookie abc lands on a page and provides an email ID as `
     <td>Known person</td>
     <td>xyz</td>
     <td>Different from existing person</td>
-    <td>this scenario not possible as if it's a new cookie by   default considered as a new anonymous profile</td>
+    <td>this scenario not possible as if it is a new cookie by   default considered as a new anonymous profile</td>
   </tr>
 </tbody></table>
 
 ### Option to inherit font {#option-to-inherit-font}
 
-You can now enable the chatbot to directly inherit the font from the web page where it's being hosted rather than managing the brand font in Dynamic Chat. When you enable this option, the chatbot will take the font that is defined on `<body>` tag of the page.
+You can now enable the chatbot to directly inherit the font from the web page where it is being hosted rather than managing the brand font in Dynamic Chat. When you enable this option, the chatbot will take the font that is defined on `<body>` tag of the page.
 
 ![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
@@ -418,7 +418,7 @@ Previously, when the Marketo Engage sync was activated, Dynamic Chat only synced
 
 ### Pass additional visitor data to Conversational Flows {#pass-additional-visitor-data}
 
-If you're capturing visitor information through other channels like forms or login, you can now pass this information directly to Dynamic Chat.
+If you are capturing visitor information through other channels like forms or login, you can now pass this information directly to Dynamic Chat.
 
 ![](assets/dynamic-chat-aug-2024-release-5.png)
 
@@ -528,7 +528,7 @@ We released conditional branching for Dialogues earlier this year, and now you c
 
 ### Live chat for Conversational Flows {#live-chat-for-conversational-flows}
 
-We released live chat functionality for Dialogues in 2023, and now you can add live chat engagements to your Conversational Flows as well. If you're using Conversational Flows with your Marketo Engage forms, you can now allow qualified visitors to chat with a live agent immediately after form submission!
+We released live chat functionality for Dialogues in 2023, and now you can add live chat engagements to your Conversational Flows as well. If you are using Conversational Flows with your Marketo Engage forms, you can now allow qualified visitors to chat with a live agent immediately after form submission!
 
 ### Recent Marketo Engage activities in Agent Inbox {#recent-marketo-engage-activities-in-agent-inbox}
 

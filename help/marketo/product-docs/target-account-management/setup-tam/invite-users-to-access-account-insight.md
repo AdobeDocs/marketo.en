@@ -31,7 +31,7 @@ Follow these steps to provide users access to [!UICONTROL Account Insight].
    >
    >If you choose **[!UICONTROL Invite User by email]**, simply enter their first name, last name, and email address, and continue to step 4.
 
-1. To set an expiration date for the user's access (optional), click the calendar icon. It's set to "never" by default.
+1. To set an expiration date for the user's access (optional), click the calendar icon. It is set to "never" by default.
 
    ![](assets/four-5.png)
 

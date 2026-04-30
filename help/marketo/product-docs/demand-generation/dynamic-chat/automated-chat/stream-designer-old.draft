@@ -41,7 +41,7 @@ The Stream Designer contains multiple cards you can add to shape the chat conver
  </tr>
  <tr>
   <td style="width:25%"><strong>Goal</strong></td>
-  <td>This is the only card the visitors won't see. It's for you to determine at which point a goal is achieved within the specific chat (ex: if collecting the visitor's email is your goal, place the Goal card immediately after Info Capture in the stream).</td>
+  <td>This is the only card the visitors won't see. it is for you to determine at which point a goal is achieved within the specific chat (ex: if collecting the visitor's email is your goal, place the Goal card immediately after Info Capture in the stream).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Action&#42;</strong></td>
@@ -52,7 +52,7 @@ The Stream Designer contains multiple cards you can add to shape the chat conver
   <td style="width:25%"><strong>Live Chat</strong></td>
   <td>Use the live chat card when you want visitors to chat with a live agent.
   <li>The live chat card must be the last card in the branch.</li>
-  <li>Visitors will be routed to an agent as soon as they reach this card in the stream, so it's recommended to precede this card with a question card asking visitors if they'd like to chat with a live agent.</li></td>
+  <li>Visitors will be routed to an agent as soon as they reach this card in the stream, so it is recommended to precede this card with a question card asking visitors if they'd like to chat with a live agent.</li></td>
  </tr>
 </table>
 
@@ -194,7 +194,7 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
 
    ![](assets/stream-designer-23.png)
 
-1. When you're ready to activate your Dialogue, click **[!UICONTROL Publish]**.
+1. When you are ready to activate your Dialogue, click **[!UICONTROL Publish]**.
 
    ![](assets/stream-designer-24.png)
 

@@ -41,7 +41,7 @@ Once you [create an email program](/help/marketo/product-docs/email-marketing/em
 
    ![](assets/myemailprogram.jpg)
 
-   Excellent work! Now it's time to [choose an existing email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) or [create an email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) to send to these people.
+   Excellent work! Now it is time to [choose an existing email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) or [create an email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) to send to these people.
 
 >[!NOTE]
 >

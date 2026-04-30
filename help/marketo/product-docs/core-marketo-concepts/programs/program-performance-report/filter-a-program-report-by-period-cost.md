@@ -25,7 +25,7 @@ Focus your [program performance report](/help/marketo/product-docs/core-marketo-
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. You're done! Click the **[!UICONTROL Report]** tab to see just the programs that fall within the specified period cost timeframe.
+1. You are done! Click the **[!UICONTROL Report]** tab to see just the programs that fall within the specified period cost timeframe.
 
    ![](assets/lm-86194-report-tab.png)
 

@@ -11,7 +11,7 @@ feature: Reporting, Revenue Cycle Analytics
 >
 >[Create a New Revenue Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-When you create your model and select and organize your inventory stages, it's time to set the transitions.
+When you create your model and select and organize your inventory stages, it is time to set the transitions.
 
 ![](assets/one-2.png)
 
@@ -31,7 +31,7 @@ When you create your model and select and organize your inventory stages, it's t
 
    >[!TIP]
    >
-   >Because the revenue modeler is setting you up for reporting, it's recommended that the transitions always include triggers. That way your reports will reflect the true velocity of your model/stage flow. Filters can be added with the triggers for additional constraints.
+   >Because the revenue modeler is setting you up for reporting, it is recommended that the transitions always include triggers. That way your reports will reflect the true velocity of your model/stage flow. Filters can be added with the triggers for additional constraints.
 
    ![](assets/four-2.png)
 

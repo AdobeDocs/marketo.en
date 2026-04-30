@@ -6,7 +6,7 @@ exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
 ---
 # Send an SMS Message {#send-a-vibes-sms-message}
 
-You've [created your SMS message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, now it's time to send it. You can send it via Batch or Trigger Campaign.
+You've [created your SMS message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, now it is time to send it. You can send it via Batch or Trigger Campaign.
 
 >[!NOTE]
 >

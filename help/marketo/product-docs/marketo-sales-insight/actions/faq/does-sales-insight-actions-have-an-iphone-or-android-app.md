@@ -6,4 +6,4 @@ feature: Sales Insight Actions
 ---
 # Does [!DNL Sales Insight Actions] Have an iPhone or Android App? {#does-sales-insight-actions-have-an-iphone-or-android-app}
 
-[!DNL Sales Insight Actions] does not have an iPhone or Android App at this time. It's something we're hoping to add in the future.
+[!DNL Sales Insight Actions] does not have an iPhone or Android App at this time. It is something we're hoping to add in the future.

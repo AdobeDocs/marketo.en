@@ -37,7 +37,7 @@ In [!DNL Email Editor 2.0], a module is a section of your email that is defined 
 
 There are two ways to move a module.
 
-1. Identify the module you want to move. If you're not sure what it's called, hover over it and it will be highlighted on the right.
+1. Identify the module you want to move. If you are not sure what it is called, hover over it and it will be highlighted on the right.
 
    ![](assets/six-2.png)
 

@@ -8,7 +8,7 @@ exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
 
 ## Connecting Dynamic Chat {#connecting-dynamic-chat}
 
-After you've completed the [initial setup](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"}, it's time to perform the one-time sync connecting Dynamic Chat to your Adobe Marketo Engage subscription.
+After you've completed the [initial setup](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"}, it is time to perform the one-time sync connecting Dynamic Chat to your Adobe Marketo Engage subscription.
 
 >[!NOTE]
 >
@@ -66,7 +66,7 @@ After the initial sync, here's how to remove an attribute.
 
 >[!NOTE]
 >
->You'll only see the option to remove an attribute  if it's not currently in use by any Dialogues.
+>You'll only see the option to remove an attribute  if it is not currently in use by any Dialogues.
 
 1. In **[!UICONTROL Integrations]**, make sure the **[!UICONTROL Adobe Marketo Engage]** tab is selected and click on the attribute you want to remove.
 

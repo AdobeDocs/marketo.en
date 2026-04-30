@@ -17,7 +17,7 @@ Get Marketo Engage TAM added to your instance? Great! Let's take a look at what 
 
 **Step Four: [Create a Custom Field for CRM Discovery](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md){target="_blank"}** - Map an existing CRM Account field to a new Named Account custom field (if you don't use a CRM, skip this step).
 
-**Step Five:** **_Create Named Accounts_** - Named Accounts hold the people from the companies you're targeting. There are four ways to create a named account:
+**Step Five:** **_Create Named Accounts_** - Named Accounts hold the people from the companies you are targeting. There are four ways to create a named account:
 
 * [Import Named Accounts](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md){target="_blank"} - Upload a list of potential target accounts directly into TAM (this can be a list that you exported from your CRM)
 * [Discover CRM Accounts](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts){target="_blank"} - View a list of all CRM accounts synced into Marketo and filter using key attributes (i.e. industry) to create named accounts

@@ -9,7 +9,7 @@ Connecting to Gmail means you'll receive reply tracking, access to the Gmail del
 
 >[!CAUTION]
 >
->If you're [using filters](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} or rules in your Gmail account to automatically mark emails as read, this can cause issues with reply tracking. We recommend disabling any rules that automatically mark emails as read when using reply tracking with Gmail.
+>If you are [using filters](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} or rules in your Gmail account to automatically mark emails as read, this can cause issues with reply tracking. We recommend disabling any rules that automatically mark emails as read when using reply tracking with Gmail.
 
 1. In Marketo Sales, click the gear icon and select **Settings**.
 

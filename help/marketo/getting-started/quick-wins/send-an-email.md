@@ -7,7 +7,7 @@ feature: Getting Started
 ---
 # Send an Email {#send-an-email}
 
-It's the first thing everyone wants to do. Let's send an email out of Marketo!
+It is the first thing everyone wants to do. Let's send an email out of Marketo!
 
 >[!PREREQUISITES]
 >
@@ -121,7 +121,7 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
    >
    >Is the default time zone not yours? Learn how to [update it here](/help/marketo/product-docs/administration/settings/change-time-zone.md){target="_blank"}.
 
-1. Click **[!UICONTROL Approve Program]** under the [!UICONTROL Approval] tile and you're done!
+1. Click **[!UICONTROL Approve Program]** under the [!UICONTROL Approval] tile and you are done!
 
    ![](assets/send-an-email-18.png)
 

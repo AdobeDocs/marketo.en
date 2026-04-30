@@ -6,14 +6,14 @@ feature: Sales Insight Actions
 ---
 # How Do I Fix "We Were Unable to Authenticate Your Request" When Connecting to [!DNL Salesforce] {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
-If you're trying to connect your Marketo Sales instance to Salesforce and you're seeing the "We are unable to authenticate your request" error, it's likely related to how your Salesforce instance is configured.
+If you are trying to connect your Marketo Sales instance to Salesforce and you are seeing the "We are unable to authenticate your request" error, it is likely related to how your Salesforce instance is configured.
 
 There are two types of errors that could be producing this failed authentication page.
 
 * Login error restricted Domain
 * Oauth App Blocked
 
-You can identify which type you're getting by checking the URL.
+You can identify which type you are getting by checking the URL.
 
 ![](assets/how-do-i-fix-we-were-unable-to-authenticate-1.png)
 
@@ -23,7 +23,7 @@ You can identify which type you're getting by checking the URL.
 
 This error typically indicates you have a custom domain that we're not able to route to. To resolve this error, try signing in to the Salesforce instance you want to connect to first. Then, go through the steps to connect to Salesforce.
 
-If the instance you're trying to connect to is a Salesforce Sandbox domain and you're getting an error, you'll need to go through additional steps to update your instance to be Salesforce Sandbox compatible. [Learn more](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
+If the instance you are trying to connect to is a Salesforce Sandbox domain and you are getting an error, you'll need to go through additional steps to update your instance to be Salesforce Sandbox compatible. [Learn more](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
 ## Resolve Oauth App Blocked {#resolve-oauth-app-blocked}
 

@@ -55,7 +55,7 @@ Example:
 
 ### Option 2 - mktoText {#option-mktotext}
 
-It's recommended to specify Rich Text elements using the class="mktoText" syntax. This ensures there is always a proper display name for the element.
+It is recommended to specify Rich Text elements using the class="mktoText" syntax. This ensures there is always a proper display name for the element.
 
 Required attributes
 

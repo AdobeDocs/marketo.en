@@ -7,7 +7,7 @@ feature: Web Personalization
 ---
 # Define a Smart List for [!DNL Web Personalization] Activities {#define-a-smart-list-for-web-personalization-activities}
 
-You can use [!DNL Web Personalization] activities in filters and triggers when you're defining a smart list in a smart campaign. Here, you want to capture anyone who clicked a [!DNL Web Personalization] call to action (campaign).
+You can use [!DNL Web Personalization] activities in filters and triggers when you are defining a smart list in a smart campaign. Here, you want to capture anyone who clicked a [!DNL Web Personalization] call to action (campaign).
 
 Use a trigger to send an email or alert, or change a value or a score based on visitors who clicked and engaged with a [!DNL Web Personalization] call to action. You can also filter and view those leads that clicked on a [!DNL Web Personalization] call to action.
 

@@ -27,7 +27,7 @@ Marketo has a special user role for the event check-in app. [Create a new Market
 
 ## Specify the Event Dates {#specify-the-event-dates}
 
-It's a snap to set your event dates.
+It is a snap to set your event dates.
 
 1. Click the event on the schedule and set the start and end date and time.
 
@@ -43,7 +43,7 @@ It's a snap to set your event dates.
 
 ## Add People to Your Event {#add-people-to-your-event}
 
-Now that you know the _when_, it's time to add the _who_.
+Now that you know the _when_, it is time to add the _who_.
 
 1. If you already have a list of people, in My Marketo, click the **[!UICONTROL Database]** tile.
 

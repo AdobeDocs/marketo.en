@@ -15,7 +15,7 @@ Before you can sync [!DNL Microsoft Dynamics] 2015 On-Premises with Marketo, you
 
 >[!PREREQUISITES]
 >
->If you're using [!DNL Microsoft Dynamics] On-Premise, you must have [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) configured. Note: The IFD document downloads automatically when you click the link.
+>If you are using [!DNL Microsoft Dynamics] On-Premise, you must have [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) configured. Note: The IFD document downloads automatically when you click the link.
 >
 >[Download the Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} before you start.
 
@@ -45,7 +45,7 @@ Before you can sync [!DNL Microsoft Dynamics] 2015 On-Premises with Marketo, you
 
    ![](assets/image2015-11-18-11-12-8.png)
 
-1. When you're done checking all the details, click **[!UICONTROL Close]**.
+1. When you are done checking all the details, click **[!UICONTROL Close]**.
 
    ![](assets/step6.png)
 

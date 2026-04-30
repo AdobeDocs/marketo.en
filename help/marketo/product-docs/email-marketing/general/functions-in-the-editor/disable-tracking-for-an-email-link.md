@@ -33,7 +33,7 @@ Also, if an email was sent over 365 days ago **and** no one has clicked on any o
 
    >[!TIP]
    >
-   >Unchecking just **Include mkt_tok** will still allow the link to be tracked, but after redirect, the destination URL will not include the mkt_tok query string parameter. This parameter is used by Marketo Landing Pages and Munchkin to ensure proper tracking of person activities (like when a person unsubscribes from an email). You should avoid using this feature unless you're seeing weird behavior on your website due to the parameter being present.
+   >Unchecking just **Include mkt_tok** will still allow the link to be tracked, but after redirect, the destination URL will not include the mkt_tok query string parameter. This parameter is used by Marketo Landing Pages and Munchkin to ensure proper tracking of person activities (like when a person unsubscribes from an email). You should avoid using this feature unless you are seeing weird behavior on your website due to the parameter being present.
 
 1. Click **[!UICONTROL Save]**.
 

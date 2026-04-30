@@ -6,11 +6,11 @@ feature: Mobile Marketing
 ---
 # Send Your In-App Message {#send-your-in-app-message}
 
-After you've created your in-app message, it's time to send it out. Here are the steps:
+After you've created your in-app message, it is time to send it out. Here are the steps:
 
 >[!NOTE]
 >
->When you're testing an in-app message triggered by [!UICONTROL App Open], be sure you download the app onto the phone, open it and close it. This initializes the SDK code. The next time you open the app, the in-app message will display. Custom events trigger the first time the app is opened.
+>When you are testing an in-app message triggered by [!UICONTROL App Open], be sure you download the app onto the phone, open it and close it. This initializes the SDK code. The next time you open the app, the in-app message will display. Custom events trigger the first time the app is opened.
 
 1. In [!UICONTROL Marketing Activities], click the folder where you want the program to live and choose **[!UICONTROL New Program]**.
 
@@ -24,7 +24,7 @@ After you've created your in-app message, it's time to send it out. Here are the
 
    ![Image Three](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
 
-1. Use the [!UICONTROL Control Panel] to define the who, what, and when of the in-app message, and when you're done, approve it. There's a separate article for each step.
+1. Use the [!UICONTROL Control Panel] to define the who, what, and when of the in-app message, and when you are done, approve it. There's a separate article for each step.
 
    ![Image Four](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 

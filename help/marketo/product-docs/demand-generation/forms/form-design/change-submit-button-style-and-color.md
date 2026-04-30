@@ -23,7 +23,7 @@ If you find the standard submit button dull, or if you need something more fancy
 
    >[!TIP]
    >
-   >Did you know you can drag the submit button to the left or right to change its position? It's that easy. Try it out!
+   >Did you know you can drag the submit button to the left or right to change its position? It is that easy. Try it out!
 
 1. Pick a button style you like (scroll up/down).
 
@@ -55,4 +55,4 @@ If you find the standard submit button dull, or if you need something more fancy
 
    >[!NOTE]
    >
-   >Like many graphical elements, the button may look different depending on which browser you're using.
+   >Like many graphical elements, the button may look different depending on which browser you are using.

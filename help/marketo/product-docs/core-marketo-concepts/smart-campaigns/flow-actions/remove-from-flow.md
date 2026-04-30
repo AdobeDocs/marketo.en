@@ -7,7 +7,7 @@ feature: Smart Campaigns
 ---
 # Remove from Flow {#remove-from-flow}
 
-Imagine you have a Smart Campaign flow that uses "Send Alert" to remind a sales rep to call a hot prospect. It sends one message every day until the rep makes the call. You could use "Remove from Flow" in a trigger campaign once the prospect has been contacted to stop further alerts. It's like a Smart Campaign ejector seat for a person.
+Imagine you have a Smart Campaign flow that uses "Send Alert" to remind a sales rep to call a hot prospect. It sends one message every day until the rep makes the call. You could use "Remove from Flow" in a trigger campaign once the prospect has been contacted to stop further alerts. It is like a Smart Campaign ejector seat for a person.
 
 ![](assets/remove-from-flow-1.png)
 
@@ -21,7 +21,7 @@ Imagine you have a Smart Campaign flow that uses "Send Alert" to remind a sales 
 
 >[!NOTE]
 >
->You can choose a specific smart campaign, or choose "this campaign" in the **[!UICONTROL Campaign]** drop-down to select the campaign you're physically in at the time.
+>You can choose a specific smart campaign, or choose "this campaign" in the **[!UICONTROL Campaign]** drop-down to select the campaign you are physically in at the time.
 
 >[!NOTE]
 >

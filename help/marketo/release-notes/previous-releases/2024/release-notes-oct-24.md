@@ -26,7 +26,7 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documention</th>
   </tr>
     <tr>
-   <td><strong>Tokenization for Interactive Webinars</strong>: You're now able to use tokens to promote Interactive Webinars in emails and Landing Pages without having to manually add the webinar details.</td>
+   <td><strong>Tokenization for Interactive Webinars</strong>: you are now able to use tokens to promote Interactive Webinars in emails and Landing Pages without having to manually add the webinar details.</td>
    <td>Released</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Promoting an Interactive Webinar</a></td>
   </tr>
@@ -92,6 +92,6 @@ The following features fall under the standard release cycle and will start to b
 
 * **Munchkin Changes**
 
-  * **New Version**: On September 17, 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 will begin rolling out to Marketo Engage instances that have the "Munchkin Beta" setting enabled in **Admin** > **Treasure Chest**. It's scheduled to begin rollout to all other instances on October 29. This version updates Munchkin cookie creation. There are no changes in functionality.
+  * **New Version**: On September 17, 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 will begin rolling out to Marketo Engage instances that have the "Munchkin Beta" setting enabled in **Admin** > **Treasure Chest**. It is scheduled to begin rollout to all other instances on October 29. This version updates Munchkin cookie creation. There are no changes in functionality.
 
   * **Characters from URL Removed**: 'Visits Web Page' and 'Clicks Link' activities created by Munchkin JS will now remove non-URL encoded control characters from all URL fields. This change is designed to prevent errors related to propagation of those types of characters into systems that don't support them, and don't have a valid use within Marketo Engage.

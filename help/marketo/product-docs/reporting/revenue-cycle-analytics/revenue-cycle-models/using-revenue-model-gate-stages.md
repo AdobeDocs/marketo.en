@@ -11,7 +11,7 @@ A gate stage serves as a qualification check.
 
 >[!TIP]
 >
->It's a great idea to create a practice model in a graphics or presentation program and confirm it with your colleagues.
+>it is a great idea to create a practice model in a graphics or presentation program and confirm it with your colleagues.
 
 ## Add A Gate Stage {#add-a-gate-stage}
 

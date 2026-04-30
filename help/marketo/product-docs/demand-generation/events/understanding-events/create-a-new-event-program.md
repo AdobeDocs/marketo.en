@@ -41,7 +41,7 @@ Events allow you to automate online and offline events! Capture the status of yo
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. Slide the bar to **[!UICONTROL Confirmed]** when you're done.
+1. Slide the bar to **[!UICONTROL Confirmed]** when you are done.
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 

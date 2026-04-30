@@ -7,7 +7,7 @@ feature: Landing Pages
 ---
 # Add a Mobile View for Your Free-Form Landing Page {#add-a-mobile-view-for-your-free-form-landing-page}
 
-It's easy to make your free-form landing pages look great on a smartphone.
+It is easy to make your free-form landing pages look great on a smartphone.
 
 >[!NOTE]
 >

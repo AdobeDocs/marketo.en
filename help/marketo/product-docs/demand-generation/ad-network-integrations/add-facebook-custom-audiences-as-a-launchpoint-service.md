@@ -33,7 +33,7 @@ With this integration you can send audience data from Marketo static and smart l
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. After you're logged into [!DNL Facebook], return to Marketo. Click **[!UICONTROL Authorize]**.
+1. After you are logged into [!DNL Facebook], return to Marketo. Click **[!UICONTROL Authorize]**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
@@ -45,7 +45,7 @@ With this integration you can send audience data from Marketo static and smart l
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. You're now authorized! Select a matching mode and click **[!UICONTROL Create]**.
+1. You are now authorized! Select a matching mode and click **[!UICONTROL Create]**.
 
    >[!NOTE]
    >

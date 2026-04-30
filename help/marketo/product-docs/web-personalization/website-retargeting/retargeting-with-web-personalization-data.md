@@ -80,7 +80,7 @@ A Segmented Audience allows you to select an existing Segment as an audience to 
 
 >[!TIP]
 >
->There is no need to create a Segmented Audience for industry or other data that has already been sent through in the Domain Configuration. It's best to use Segmented Audiences for segments based on known person data.
+>There is no need to create a Segmented Audience for industry or other data that has already been sent through in the Domain Configuration. It is best to use Segmented Audiences for segments based on known person data.
 
 1. Click **[!UICONTROL Create Segmented Audience]**.
 

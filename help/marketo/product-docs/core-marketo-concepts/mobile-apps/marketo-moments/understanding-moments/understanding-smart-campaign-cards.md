@@ -59,7 +59,7 @@ For future Smart Campaigns that are scheduled but have not yet run, the Marketo 
 
 ## Creating Email Samples and Previews {#creating-email-samples-and-previews}
 
-It's a good idea to get a look at an email before it goes out. Or, send a sample to someone else to get a second set of eyes on it.
+It is a good idea to get a look at an email before it goes out. Or, send a sample to someone else to get a second set of eyes on it.
 
 1. Tap the three-dot action menu on an email.
 

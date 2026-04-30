@@ -33,7 +33,7 @@ Use Dynamic Content in Emails to send your leads targeted information.
 
    >[!NOTE]
    >
-   >You can also make an element inside the email dynamic. To do this, select the area, click the gear icon, and select **Make Dynamic** (or [Replace with Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), depending on what you're doing).
+   >You can also make an element inside the email dynamic. To do this, select the area, click the gear icon, and select **Make Dynamic** (or [Replace with Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), depending on what you are doing).
 
 1. Enter the Segmentation name, select it, and click **[!UICONTROL Save]**.
 

@@ -36,7 +36,7 @@ feature: Landing Pages
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 
-   And you're done! You now have a list of leads and personalized URLs.
+   And you are done! You now have a list of leads and personalized URLs.
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 

@@ -26,7 +26,7 @@ The powerful global search gives you plenty of options with no limit on displaye
 
    ![](assets/using-the-global-search-4.png)
 
-You're taken directly to the desired email.
+You are taken directly to the desired email.
 
    ![](assets/using-the-global-search-5.png)
 

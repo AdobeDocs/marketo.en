@@ -10,7 +10,7 @@ After you [create an SMS message](/help/marketo/product-docs/mobile-marketing/vi
 
 >[!NOTE]
 >
->If you're looking to send an SMS message, we have a [specific article](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} for that.
+>If you are looking to send an SMS message, we have a [specific article](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} for that.
 
 >[!PREREQUISITES]
 >

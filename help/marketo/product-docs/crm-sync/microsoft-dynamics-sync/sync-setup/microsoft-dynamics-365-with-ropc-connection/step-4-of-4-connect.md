@@ -6,7 +6,7 @@ feature: Microsoft Dynamics
 ---
 # Step 4 of 4: Connect the Marketo Solution with Resource Owner Password Control Connection {#step-4-of-4-connect-the-marketo-solution-ropc}
 
-This is the last step of the sync. You're almost there!
+This is the last step of the sync. You are almost there!
 
 >[!PREREQUISITES]
 >

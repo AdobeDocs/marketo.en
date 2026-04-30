@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 ---
 # Clone a Program Analyzer {#clone-a-program-analyzer}
 
-After you've saved an analyzer, it's easy to clone it to create a new one. Then, go in and edit the new one if it needs any changes.
+After you've saved an analyzer, it is easy to clone it to create a new one. Then, go in and edit the new one if it needs any changes.
 
 1. Click the **[!UICONTROL Analytics]** tile.
 

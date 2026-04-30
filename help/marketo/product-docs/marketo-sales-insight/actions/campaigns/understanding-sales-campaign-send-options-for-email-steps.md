@@ -10,7 +10,7 @@ When you are creating a Sales Campaign, you have several options on how your ema
 
 ## First Step Send Options {#first-step-send-options}
 
-If it's your first step and the first day in your Sales Campaign, you will have the following options:
+If it is your first step and the first day in your Sales Campaign, you will have the following options:
 
 ![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 

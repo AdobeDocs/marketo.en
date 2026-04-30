@@ -28,4 +28,4 @@ Focus your Email Performance report on emails in your programs ('local assets'),
 
    ![](assets/filter-deleted-merged-records-in-an-email-performance-report-4.png)
 
-You're done! Click the Report tab to see your filtered report.
+You are done! Click the Report tab to see your filtered report.

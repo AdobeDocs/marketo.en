@@ -27,4 +27,4 @@ Emails start in draft state. They are generally unavailable in the system until 
 
    ![](assets/three.png)
 
-After it's approved, your email's ready for use!
+After it is approved, your email's ready for use!

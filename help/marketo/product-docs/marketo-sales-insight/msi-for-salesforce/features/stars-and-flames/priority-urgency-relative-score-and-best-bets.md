@@ -19,7 +19,7 @@ These are derived from the lead score -- a measure of the person's interest in y
 
 ## Urgency {#urgency}
 
-The flames represent urgency -- how much this person's lead score has changed recently. A high urgency (more flames) means that this lead's score has increased lots lately; it's a good sign that this lead is interested in your offer. You should follow up with this person quickly!
+The flames represent urgency -- how much this person's lead score has changed recently. A high urgency (more flames) means that this lead's score has increased lots lately; it is a good sign that this lead is interested in your offer. You should follow up with this person quickly!
 
 For example, a lead who requested a demo and visited several web pages will probably have a very high urgency. A lead who didn't visit your web page or open your emails will have a low urgency. Use urgency to prioritize who needs to be contacted next.
 

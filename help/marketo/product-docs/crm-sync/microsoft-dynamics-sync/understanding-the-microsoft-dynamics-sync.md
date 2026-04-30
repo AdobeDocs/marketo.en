@@ -15,7 +15,7 @@ Marketo and [!DNL Microsoft Dynamics] go together. We keep your sales and market
 
 ## How Sync Works {#how-sync-works}
 
-Marketo continuously syncs data with [!DNL Microsoft Dynamics] all day, every day. It's done using background sync, in batches, not in real time.
+Marketo continuously syncs data with [!DNL Microsoft Dynamics] all day, every day. It is done using background sync, in batches, not in real time.
 
 >[!NOTE]
 >

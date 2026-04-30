@@ -45,7 +45,7 @@ If you want to run a one-time only flow step, you can use a single flow step wit
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-6.png)
 
-1. If you're changing data values for a large number of people, you may need to confirm the change by typing in the number. Click **[!UICONTROL Go For It]**.
+1. If you are changing data values for a large number of people, you may need to confirm the change by typing in the number. Click **[!UICONTROL Go For It]**.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-7.png)
 
@@ -53,4 +53,4 @@ Awesome work! You will see the status of the single flow step in the top right h
 
 ![](assets/run-a-single-flow-step-from-a-smart-list-8.png)
 
-When it's finished, refresh the list and you will see the updated info.
+When it is finished, refresh the list and you will see the updated info.

@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 ---
 # Send an Email to Multiple Records in [!DNL Marketo Sales Insight] {#send-an-email-to-multiple-records-in-marketo-sales-insight}
 
-It's super easy to send a Marketo email to multiple people using [!DNL Marketo Sales Insight]. Let's get started.
+It is super easy to send a Marketo email to multiple people using [!DNL Marketo Sales Insight]. Let's get started.
 
 1. In [!DNL Salesforce], click **[!UICONTROL Leads]** or **[!UICONTROL Contacts]**.
 
@@ -23,7 +23,7 @@ It's super easy to send a Marketo email to multiple people using [!DNL Marketo S
 
    >[!NOTE]
    >
-   >If you're using [!DNL Salesforce Lightning], the button will say **[!UICONTROL Send Marketo Email (lightning)]**.
+   >If you are using [!DNL Salesforce Lightning], the button will say **[!UICONTROL Send Marketo Email (lightning)]**.
 
    >[!TIP]
    >

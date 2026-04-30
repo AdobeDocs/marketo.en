@@ -106,7 +106,7 @@ When you initiate a list export in Marketo, you'll notice the following changes 
 
 **Why is the list size in Marketo different than the one in Adobe?**
 
-Under the hood, the audience integration works by syncing Marketo Munchkin cookies with the corresponding Adobe ECID cookie. Marketo can only share membership data for people that Marketo has synced an ECID for. For the best possible results, it's recommended that you load Marketo's munchkin.js tracking script in parallel with Adobe's visitor.js tracking code on all of the pages you're interested in tracking for marketing purposes.
+Under the hood, the audience integration works by syncing Marketo Munchkin cookies with the corresponding Adobe ECID cookie. Marketo can only share membership data for people that Marketo has synced an ECID for. For the best possible results, it is recommended that you load Marketo's munchkin.js tracking script in parallel with Adobe's visitor.js tracking code on all of the pages you are interested in tracking for marketing purposes.
 
 **How does the cookie sync work?**
 

@@ -25,7 +25,7 @@ Create a duplicate of your report to customize it further without changing the o
 
    ![](assets/image2014-9-16-14-3a23-3a57.png)
 
-   That's it - you're ready to start customizing your clone!
+   That's it - you are ready to start customizing your clone!
 
    >[!MORELIKETHIS]
    >

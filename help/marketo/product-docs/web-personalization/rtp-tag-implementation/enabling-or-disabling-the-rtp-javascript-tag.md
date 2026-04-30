@@ -11,7 +11,7 @@ The RTP JavaScript tag controls whether or not Web Personalization tracks web ac
 
 >[!NOTE]
 >
->**It's not necessary to remove the tag from your html code on your website.** Control it through [!UICONTROL Account Settings].
+>**it is not necessary to remove the tag from your html code on your website.** Control it through [!UICONTROL Account Settings].
 
 ## Enable or Disable the Tag {#enable-or-disable-the-tag}
 

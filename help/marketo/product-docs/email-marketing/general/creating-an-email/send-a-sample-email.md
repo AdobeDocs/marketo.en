@@ -7,7 +7,7 @@ feature: Email Editor
 ---
 # Send a Sample Email {#send-a-sample-email}
 
-It's quick and easy to send samples of an email. To send a dynamic content email, see [Preview an Email with Dynamic Content](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
+It is quick and easy to send samples of an email. To send a dynamic content email, see [Preview an Email with Dynamic Content](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >

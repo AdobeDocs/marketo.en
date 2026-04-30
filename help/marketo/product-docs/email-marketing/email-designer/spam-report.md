@@ -11,7 +11,7 @@ exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
 
 Using SpamAssassin in Marketo Engage, you can test your email content and see the likelihood of ISPs/Mailbox providers marking it as spam.
 
-SpamAssassin analyzes your content and assigns a score based on various criteria. The lower the score, the better. It's important to maintain a low score as sending emails with a high score can negatively impact your overall deliverability.
+SpamAssassin analyzes your content and assigns a score based on various criteria. The lower the score, the better. It is important to maintain a low score as sending emails with a high score can negatively impact your overall deliverability.
 
 ## Access the spam report {#access-the-spam-report}
 
@@ -41,7 +41,7 @@ SpamAssassin analyzes your content and assigns a score based on various criteria
 
    ![](assets/email-spam-report-4.png){width="800" zoomable="yes"}
 
-When the score is to your liking, it's ready to be sent.
+When the score is to your liking, it is ready to be sent.
 
    ![](assets/email-spam-report-5.png){width="800" zoomable="yes"}
 

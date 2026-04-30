@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # View the Push Notification Dashboard {#view-the-push-notification-dashboard}
 
-It's easy to see how your push notifications are doing.
+It is easy to see how your push notifications are doing.
 
 1. Go to the **[!UICONTROL Marketing Activities]** area.
 
@@ -27,7 +27,7 @@ It's easy to see how your push notifications are doing.
 
    >[!NOTE]
    >
-   >The _Sent_ metric may reflect more sends than the exact number of people to whom the the push notification was sent. That's because it's calculated based on the _number of devices_ that qualify to receive your push. For example, if a single person has three devices, the dashboard registers three sends, not one.
+   >The _Sent_ metric may reflect more sends than the exact number of people to whom the the push notification was sent. That's because it is calculated based on the _number of devices_ that qualify to receive your push. For example, if a single person has three devices, the dashboard registers three sends, not one.
 
    >[!MORELIKETHIS]
    >

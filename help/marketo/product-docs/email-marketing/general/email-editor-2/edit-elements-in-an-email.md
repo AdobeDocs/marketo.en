@@ -33,7 +33,7 @@ Emails can contain four different elements: Rich text, Images, Snippets, and Vid
 
    >[!CAUTION]
    >
-   >Avoid copying and pasting text from a rich text source, such as a website or a Word document. Instead, paste rich text into a plain text editor first, such as [!DNL Notepad] (Windows) or [!DNL TextEdit] (Mac). Once it's "clean," you can then copy it from the plain text editor and paste it into your email.
+   >Avoid copying and pasting text from a rich text source, such as a website or a Word document. Instead, paste rich text into a plain text editor first, such as [!DNL Notepad] (Windows) or [!DNL TextEdit] (Mac). Once it is "clean," you can then copy it from the plain text editor and paste it into your email.
 
 ## How to Edit the Image Element {#how-to-edit-the-image-element}
 
@@ -81,7 +81,7 @@ Emails can contain four different elements: Rich text, Images, Snippets, and Vid
 
    >[!NOTE]
    >
-   >If you're replacing an image, you'll need to check the **[!UICONTROL Overwrite existing image]** box that appears below the Image URL/name.
+   >If you are replacing an image, you'll need to check the **[!UICONTROL Overwrite existing image]** box that appears below the Image URL/name.
 
    **Design Studio**
 

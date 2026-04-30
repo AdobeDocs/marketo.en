@@ -64,7 +64,7 @@ When [adding an A/B test](/help/marketo/product-docs/email-marketing/email-progr
 
 1. Close the new window (or tab) that opened. The Smart List auto-saves.
 
-Now it's time to decide how the winner is determined.
+Now it is time to decide how the winner is determined.
 
 ## Declare Winner {#declare-winner}
 

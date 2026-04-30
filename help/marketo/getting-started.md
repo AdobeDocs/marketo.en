@@ -119,6 +119,6 @@ Complete these missions to learn the core features of Marketo Engage.
 </tr>
 </table>
 
-## STEP 4 Congrats! You're ready for the Nation  {#congrats-youre-ready-for-the-nation}
+## STEP 4 Congrats! You are ready for the Nation  {#congrats-youre-ready-for-the-nation}
 
 Check out the [Marketing Nation](https://nation.marketo.com){target="_blank"}!

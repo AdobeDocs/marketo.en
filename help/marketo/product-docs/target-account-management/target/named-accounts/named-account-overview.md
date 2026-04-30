@@ -7,7 +7,7 @@ feature: Target Account Management
 ---
 # [!UICONTROL Named Account] Overview {#named-account-overview}
 
-[!UICONTROL Named Accounts] hold the people from the companies you're targeting. The dashboard provides current data of each attribute for all your named accounts.
+[!UICONTROL Named Accounts] hold the people from the companies you are targeting. The dashboard provides current data of each attribute for all your named accounts.
 
 ## [!UICONTROL Named Accounts] Dashboard {#named-accounts-dashboard}
 

@@ -9,11 +9,11 @@ feature: Email Editor
 
 Email CC allows specified emails being sent through Marketo to include CC recipients.
 
-This feature is available on all Marketo email assets, regardless of how the email is sent (batch or trigger campaign). The CC recipient will receive an exact copy of the email sent to the chosen Marketo person. As such, any engagement activity (opens, clicks, etc.) will be logged to the activity log of the Marketo Person in the "To" line of the email. However, delivery activity (sent, delivered, hard bounce, etc.) _other than "soft bounce"_ will **not** register, as Marketo is not able to distinguish delivery events for the Marketo Person from the CC recipients'. Marketo will only CC up to 100k People at a time. If your smart list exceeds 100k and it's imperative every person on it gets CC'd, we recommend breaking your list up.
+This feature is available on all Marketo email assets, regardless of how the email is sent (batch or trigger campaign). The CC recipient will receive an exact copy of the email sent to the chosen Marketo person. As such, any engagement activity (opens, clicks, etc.) will be logged to the activity log of the Marketo Person in the "To" line of the email. However, delivery activity (sent, delivered, hard bounce, etc.) _other than "soft bounce"_ will **not** register, as Marketo is not able to distinguish delivery events for the Marketo Person from the CC recipients'. Marketo will only CC up to 100k People at a time. If your smart list exceeds 100k and it is imperative every person on it gets CC'd, we recommend breaking your list up.
 
 >[!NOTE]
 >
->Email CC wasn't designed to be used with A/B Tests. You can use it anyway if you'd like, however as it's technically not supported, Marketo Support wouldn't be able to assist with any troubleshooting.
+>Email CC wasn't designed to be used with A/B Tests. You can use it anyway if you'd like, however as it is technically not supported, Marketo Support wouldn't be able to assist with any troubleshooting.
 
 ## Set Up Email CC {#set-up-email-cc}
 
@@ -47,7 +47,7 @@ This feature is available on all Marketo email assets, regardless of how the ema
 
    ![](assets/seven.png)
 
-   It's as simple as that! In the above example, when you send the email, the Lead Owner of the recipients you chose will be CC'd.
+   It is as simple as that! In the above example, when you send the email, the Lead Owner of the recipients you chose will be CC'd.
 
    >[!NOTE]
    >

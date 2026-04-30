@@ -35,10 +35,10 @@ There are several measures you can take to ensure that the emails reach as many 
 * **Brand your tracking links**. You can choose a CNAME to use your own domain (instead of Marketo's) in the links you include in emails from Marketo. This reinforces your domain branding and increases trust and deliverability with your recipients.
 * **Add Marketo to your corporate email allowlist**. It is a common best practice to send test emails to your test accounts before sending emails to actual people. By allowlisting Marketo, you can prevent those test emails from being blocked or flagged as spam.
 * **Set up SPF and DKIM**. These technologies assure your recipients that your Marketo emails are not spam. To help prevent recipients' spam filters from rejecting you Marketo emails, follow these steps to [Setup a SPF and DKIM for Your Email Deliverability](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
-* **Set up an MX record for your domain.** An MX record allows you to receive mail to the domain that you are sending email from to process replies and auto responders. If you're sending from your corporate domain, you likely already have this configured. If not, you can usually set up to map to your corporate domain's MX record.
+* **Set up an MX record for your domain.** An MX record allows you to receive mail to the domain that you are sending email from to process replies and auto responders. If you are sending from your corporate domain, you likely already have this configured. If not, you can usually set up to map to your corporate domain's MX record.
 * **Recommended Settings for the From Address.** You must use a valid, existing and working email domain in the From Address in all email campaigns. It may be beneficial to configure a subdomain of your corporate domain rather than sending from your corporate domain. This will ensure issues from your corporate mailstream do not impact your Marketo mailstream and vice versa. Furthermore, sending mail from `something@nonexistentdomain.com` will cause email to be filtered or blocked. Any domain used in the sender's From Address must have a valid and working postmaster@ and abuse@ account.
 
-If you're using Google Apps to host your corporate email, you won't be able to create abuse@ or postmaster@ emails under your domain. To get around this, you need to create groups named "abuse" and "postmaster". Users that are members of these groups will receive emails sent to those addresses (e.g., <postmaster@domain.com>). Detailed instructions for creating groups can be found [here](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
+If you are using Google Apps to host your corporate email, you won't be able to create abuse@ or postmaster@ emails under your domain. To get around this, you need to create groups named "abuse" and "postmaster". Users that are members of these groups will receive emails sent to those addresses (e.g., <postmaster@domain.com>). Detailed instructions for creating groups can be found [here](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
 Choose a CNAME for email tracking links (choose one that is _different_ from the landing page CNAME you chose in Step 3). Some examples:
 
@@ -118,7 +118,7 @@ Configure your domain settings so landing pages use your company's domain instea
    >
    >Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with an IT setup instructions document during your kickoff call.
 
-   Once you have collected all the necessary information, you're ready to send a request to IT. You can use the text below as a template, replacing the bold text with your own information.
+   Once you have collected all the necessary information, you are ready to send a request to IT. You can use the text below as a template, replacing the bold text with your own information.
 
    [Include a link to this article](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
 
@@ -237,7 +237,7 @@ Configure your domain settings so landing pages use your company's domain instea
 
 ## Integrate Your CRM {#integrate-your-crm}
 
-   This is probably the most exciting part of your setup. It's time to fill up Marketo with all those leads and contacts you have stored in your CRM!
+   This is probably the most exciting part of your setup. It is time to fill up Marketo with all those leads and contacts you have stored in your CRM!
 
    Choose from the following, depending on the CRM your company uses.
 

@@ -14,7 +14,7 @@ Follow these easy steps to schedule an email.
 
    ![](assets/scheduling-an-email-1.png)
 
-1. When you're done composing your email, click **Schedule** on the bottom right
+1. When you are done composing your email, click **Schedule** on the bottom right
 
    ![](assets/scheduling-an-email-2.png)
 

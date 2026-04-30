@@ -7,7 +7,7 @@ exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 ---
 # User Setup Checklist {#user-setup-checklist}
 
-Now that you've completed all of the [initial setup steps](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}, it's time to establish some foundational elements to ensure smooth ongoing usage. This will lay the groundwork for your journey with Marketo Engage and help you make the most of its features. Let's get started!
+Now that you've completed all of the [initial setup steps](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}, it is time to establish some foundational elements to ensure smooth ongoing usage. This will lay the groundwork for your journey with Marketo Engage and help you make the most of its features. Let's get started!
 
 >[!NOTE]
 >

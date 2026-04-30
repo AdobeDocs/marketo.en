@@ -32,7 +32,7 @@ feature: Integrations
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. For the destination, you can select an existing list, or type the name of a new one. In this example, we're creating a new one. Click **[!UICONTROL Sync]** when done.
+1. For the destination, you can select an existing list, or type the name of a new one. In this example, a new list is being created. Click **[!UICONTROL Sync]** when done.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
@@ -50,7 +50,7 @@ A further step is required to associate the anonymous user profile with a Lead P
 
 **Why is the list size in Marketo different than the one in Adobe?**
 
-A person will also not sync over if we are unable to tie an ECID cookie ID to a known person in Marketo.
+A person will also not sync over if an ECID cookie ID cannot be tied to a known person in Marketo.
 
 **Is this a one-time sync?**
 

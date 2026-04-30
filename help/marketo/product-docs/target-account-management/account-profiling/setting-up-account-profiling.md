@@ -40,7 +40,7 @@ Follow these steps to start using Account Profiling.
 
    ![](assets/setting-up-account-profiling-4.png)
 
-1. Your model will begin its build. It may take a while, but don't worry, you'll be notified when it's done.
+1. Your model will begin its build. It may take a while, but don't worry, you'll be notified when it is done.
 
    ![](assets/five.png)
 

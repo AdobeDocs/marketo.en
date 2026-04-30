@@ -7,7 +7,7 @@ feature: Email Setup
 ---
 # Add an Additional Branding Domain {#add-an-additional-branding-domain}
 
-Add an additional branding domain when you're running multiple brands out of a single Marketo instance and want them each to have their own branded tracking links.
+Add an additional branding domain when you are running multiple brands out of a single Marketo instance and want them each to have their own branded tracking links.
 
 >[!PREREQUISITES]
 >

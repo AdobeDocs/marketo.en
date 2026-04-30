@@ -9,15 +9,15 @@ feature: Marketo Sales Connect
 
 From our experience, here are some things to try if your toolbar is not appearing.
 
-- Verify that our extension downloaded properly. If you're in [!DNL Chrome], pull up your list of extensions. Is [!DNL Sales Connect] (Tout) listed?
+- Verify that our extension downloaded properly. If you are in [!DNL Chrome], pull up your list of extensions. Is [!DNL Sales Connect] (Tout) listed?
 
-- What's your language set as in Gmail? If it's something other than English, try changing it to English.
+- What's your language set as in Gmail? If it is something other than English, try changing it to English.
 
 - This may be obvious, but try exiting out of your browser and opening an entirely new window.
 
-- Head over to the [web application](https://toutapp.com/login) and make sure you're logged in there.
+- Head over to the [web application](https://toutapp.com/login) and make sure you are logged in there.
 
-- Make sure you have cookies enabled. If you're using [!DNL Chrome], go to [!UICONTROL Settings] > [!UICONTROL Show advanced settings] > [!UICONTROL Content settings] > Uncheck "[!UICONTROL Block third-party cookies and site data]."
+- Make sure you have cookies enabled. If you are using [!DNL Chrome], go to [!UICONTROL Settings] > [!UICONTROL Show advanced settings] > [!UICONTROL Content settings] > Uncheck "[!UICONTROL Block third-party cookies and site data]."
 
 - Try disconnecting then reconnecting the [!DNL Sales Connect] browser extension.
 

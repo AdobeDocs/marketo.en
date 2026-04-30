@@ -7,7 +7,7 @@ feature: Smart Campaigns
 ---
 # Run a Batch Smart Campaign Now | Schedule Tab {#run-a-batch-smart-campaign-now-schedule-tab}
 
-Once you're done building your Batch Campaign, you can choose to run it now or later. Here's how to run it immediately.
+Once you are done building your Batch Campaign, you can choose to run it now or later. Here's how to run it immediately.
 
 1. Select the Batch Campaign, go to the **[!UICONTROL Schedule]** tab, and click **[!UICONTROL Run Once]**.
 

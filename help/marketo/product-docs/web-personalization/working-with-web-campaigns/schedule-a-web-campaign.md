@@ -7,7 +7,7 @@ feature: Web Personalization
 ---
 # Schedule a Web Campaign {#schedule-a-web-campaign}
 
-If you know when you want your web campaign to run, you can schedule it in advance. It's easy to set up start and stop dates, repeats, and multiple days.
+If you know when you want your web campaign to run, you can schedule it in advance. It is easy to set up start and stop dates, repeats, and multiple days.
 
 You can schedule the web campaign based on the web visitor's time or a selected time zone.
 

@@ -30,7 +30,7 @@ The GDPR applies to any organization inside or outside the EU who is marketing g
 
 ## Implications for Marketing {#implications-for-marketing}
 
-Marketers aim to create customer experiences that feel personal and human, founded on trust and delivered with care. Though the GDPR doesn’t use these terms, the goals are the same—to respect the rights of customers and to earn their trust. To build and maintain that trust, marketers must be attuned to the how, when, and why their customers want to be engaged. It's critical that customer preferences are respected, not only as a legal requirement, but as the foundation of customer-focused engagement practices.
+Marketers aim to create customer experiences that feel personal and human, founded on trust and delivered with care. Though the GDPR doesn’t use these terms, the goals are the same—to respect the rights of customers and to earn their trust. To build and maintain that trust, marketers must be attuned to the how, when, and why their customers want to be engaged. It is critical that customer preferences are respected, not only as a legal requirement, but as the foundation of customer-focused engagement practices.
 
 How marketers address these higher expectations around the collection, use, and security of the personal data that are routinely used in the course of their work is key, and Marketo can help with meeting those expectations.
 

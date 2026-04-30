@@ -7,7 +7,7 @@ feature: Email Editor
 ---
 # Add an Email Champion/Challenger {#add-an-email-champion-challenger}
 
-It's a good idea to test any emails that you use frequently to make sure they're working. One way is to compare an email's effectiveness with other versions, or challengers. In a champion/challenger test, you can test the whole email, the subject line, or the from address.
+It is a good idea to test any emails that you use frequently to make sure they're working. One way is to compare an email's effectiveness with other versions, or challengers. In a champion/challenger test, you can test the whole email, the subject line, or the from address.
 
 The existing email you are testing is considered the champion. Any variants you create within a test are considered the challengers. You determine the percentage of people that receive either the champion content or the challenger content. If you've defined multiple challengers, they will be equally distributed amongst the challenger group.
 

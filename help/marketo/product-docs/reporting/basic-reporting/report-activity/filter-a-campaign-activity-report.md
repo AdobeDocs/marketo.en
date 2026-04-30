@@ -29,7 +29,7 @@ Focus your [Campaign Activity Report](/help/marketo/product-docs/reporting/basic
    >
    >If you select a folder, your report will include everything that folder contains at the time the report runs.
 
-1. You're done! Click the **[!UICONTROL Report]** tab to see _just_ the selected smart campaigns in your report.
+1. You are done! Click the **[!UICONTROL Report]** tab to see _just_ the selected smart campaigns in your report.
 
    ![](assets/filter-a-campaign-activity-report-4.png)
 

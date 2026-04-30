@@ -94,7 +94,7 @@ Interactive Webinars offers specific licenses to create events powered by Adobe 
 
 ### Things to Note {#things-to-note}
 
-* Every time an event is created, it counts as "consumed" from its respective license (unless it's a Shared Room License). Preference is given to "Shared Event License" if there are both "Shared Event License" and "Shared Room License" of the same capacity. If the event has not been delivered and the Event Program is deleted before the scheduled time, the event count is replenished. If the event is not delivered and the Event Program is not deleted before the scheduled time, the event is not replenished.
+* Every time an event is created, it counts as "consumed" from its respective license (unless it is a Shared Room License). Preference is given to "Shared Event License" if there are both "Shared Event License" and "Shared Room License" of the same capacity. If the event has not been delivered and the Event Program is deleted before the scheduled time, the event count is replenished. If the event is not delivered and the Event Program is not deleted before the scheduled time, the event is not replenished.
 
 * The type "Additional Storage License" just provides storage, therefore the value in every field _besides_ Storage Capacity will be listed simply as "-".
 

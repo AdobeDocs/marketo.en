@@ -15,7 +15,7 @@ Marketo Engage tracks "Visited Web Page" and "Click Link on Web Page" by default
 
 >[!IMPORTANT]
 >
->Before adding an SSL, be sure to check your contract for the total number of domains you're permitted to add. Otherwise, you may incur a fee. If you cannot find the information, please reach out to the Adobe Account Team (your account manager) for details.
+>Before adding an SSL, be sure to check your contract for the total number of domains you are permitted to add. Otherwise, you may incur a fee. If you cannot find the information, please reach out to the Adobe Account Team (your account manager) for details.
 
 ## Enable SSL certification {#enable-ssl-certification}
 

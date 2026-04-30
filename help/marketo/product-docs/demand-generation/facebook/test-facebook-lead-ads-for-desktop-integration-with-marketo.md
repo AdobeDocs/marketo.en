@@ -31,7 +31,7 @@ After you create your Lead Ad, you should test it! Here's how to do it on your d
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
-1. Congratulations. You're done with submitting the Lead Ad form.
+1. Congratulations. You are done with submitting the Lead Ad form.
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 

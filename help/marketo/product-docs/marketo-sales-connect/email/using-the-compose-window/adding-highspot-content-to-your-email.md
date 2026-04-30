@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 ---
 # Adding [!DNL Highspot] Content to Your Email {#adding-highspot-content-to-your-email}
 
-If you're a [!DNL Highspot] customer, you can easily insert [!DNL Highspot] content into your [!DNL Sales Connect] emails.
+If you are a [!DNL Highspot] customer, you can easily insert [!DNL Highspot] content into your [!DNL Sales Connect] emails.
 
 1. Create your email draft (there are multiple ways to do this, in this example we're choosing **[!UICONTROL Compose]** in the header).
 

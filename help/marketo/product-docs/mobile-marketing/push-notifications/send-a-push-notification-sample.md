@@ -11,7 +11,7 @@ You can send a sample to verify that your push notification is working correctly
 
 >[!PREREQUISITES]
 >
->Make sure the app is installed on the device you're sending the sample to.
+>Make sure the app is installed on the device you are sending the sample to.
 
 1. You can send a sample three ways:
 

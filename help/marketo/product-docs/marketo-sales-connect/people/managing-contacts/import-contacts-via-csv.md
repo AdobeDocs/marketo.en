@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 ---
 # Import Contacts via CSV {#import-contacts-via-csv}
 
-Having contacts in the [!UICONTROL People] page is important because it's where we pull from to auto-fill personalized information in the dynamic fields in your templates. Make sure you have at least a name and an email address for each contact in your CSV and that you map to those fields.
+Having contacts in the [!UICONTROL People] page is important because it is where we pull from to auto-fill personalized information in the dynamic fields in your templates. Make sure you have at least a name and an email address for each contact in your CSV and that you map to those fields.
 
 1. Select your group (or create a new one) in the [!UICONTROL People] tab.
 

@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # Adding a New Test Device {#adding-a-new-test-device}
 
-It's easy to add a new test device to push notifications to.
+It is easy to add a new test device to push notifications to.
 
 >[!NOTE]
 >

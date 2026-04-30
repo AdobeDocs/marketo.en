@@ -60,7 +60,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 * **Enhanced Sales Activity Insights**: A new email reply tracking activity, Sales Email Replied, tracks recipients' interactions with an email which is automatically synchronized with Marketo Engage. Additionally, the Source attribute has been updated from “Tout” to “Sales App.” This activity can be exported and reported through the Marketo Engage REST API or Bulk Export and is available on filters and triggers as additional constraints for smart lists, expanding personalization options in Smart Campaigns.
 
-* **Streamlined User Experience**: This update introduces new fonts, colors, buttons, and modals for [!DNL Sales Connect] that are based on the Adobe Spectrum design system. With these updates, we are delivering a more efficient experience, where sellers can focus on what's needed, when it's needed.
+* **Streamlined User Experience**: This update introduces new fonts, colors, buttons, and modals for [!DNL Sales Connect] that are based on the Adobe Spectrum design system. With these updates, we are delivering a more efficient experience, where sellers can focus on what's needed, when it is needed.
 
 ## [!DNL Bizible] {#bizible}
 

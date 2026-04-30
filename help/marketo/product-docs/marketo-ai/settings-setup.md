@@ -10,7 +10,7 @@ Learn how to enable permissions and use the Settings area to view connection det
 
 >[!NOTE]
 >
->This feature is in open beta and is currently in a phased rollout over the next few months. You will know when it's been enabled for your subscription when you see a _Build with AI_ tile on your My Marketo screen.
+>This feature is in open beta and is currently in a phased rollout over the next few months. You will know when it is been enabled for your subscription when you see a _Build with AI_ tile on your My Marketo screen.
 
 ## Permissions and roles {#permission-and-role}
 

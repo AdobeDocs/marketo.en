@@ -11,9 +11,9 @@ Account Scoring is a vital part of [!UICONTROL Target Account Management]. It he
 
 ## What is Account Scoring? {#what-is-account-scoring}
 
-It's a systematic approach designed to help Sales and Marketing teams identify and prioritize the companies (including prospects) that are most likely to make a purchase.
+It is a systematic approach designed to help Sales and Marketing teams identify and prioritize the companies (including prospects) that are most likely to make a purchase.
 
-In the complex world of B2B buying processes, it's rare that a single individual makes a purchase decision. There are often various roles involved, each with their own needs. Account-based scoring takes this into account by aggregating the lead scores from multiple leads and providing a score at an account level.
+In the complex world of B2B buying processes, it is rare that a single individual makes a purchase decision. There are often various roles involved, each with their own needs. Account-based scoring takes this into account by aggregating the lead scores from multiple leads and providing a score at an account level.
 
 ## Common Examples {#common-examples}
 

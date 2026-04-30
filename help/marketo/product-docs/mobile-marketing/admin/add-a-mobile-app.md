@@ -28,7 +28,7 @@ Apps normally start out in a sandbox environment, where initial development and 
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Enter a name. In the **[!UICONTROL Type]** drop-down, select the type of environment you're using--[!UICONTROL Sandbox] or [!UICONTROL Production]. Click **[!UICONTROL Save]**.
+1. Enter a name. In the **[!UICONTROL Type]** drop-down, select the type of environment you are using--[!UICONTROL Sandbox] or [!UICONTROL Production]. Click **[!UICONTROL Save]**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 

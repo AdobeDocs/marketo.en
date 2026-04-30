@@ -100,7 +100,7 @@ Decimal Places 0</td>
 
 1. Click **[!UICONTROL Save & New]** to go back and create each of the other two custom fields.
 
-1. Click **[!UICONTROL Save]** when you're done with all three.
+1. Click **[!UICONTROL Save]** when you are done with all three.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 

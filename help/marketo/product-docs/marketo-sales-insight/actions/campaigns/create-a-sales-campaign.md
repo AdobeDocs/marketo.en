@@ -28,7 +28,7 @@ So, how do you set up a Sales Campaign?
    >
    >Create a new category by clicking the **+** next to **[!UICONTROL Categories]**.
 
-1. The category you chose will be selected. If you change your mind, click the drop-down and select a different one. When you're done, click **[!UICONTROL Continue]**.
+1. The category you chose will be selected. If you change your mind, click the drop-down and select a different one. When you are done, click **[!UICONTROL Continue]**.
 
    ![](assets/create-a-sales-campaign-3.png)
 
@@ -40,7 +40,7 @@ So, how do you set up a Sales Campaign?
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. When you're [done with your email](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}, click **[!UICONTROL Add]**.
+1. When you are [done with your email](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}, click **[!UICONTROL Add]**.
 
    ![](assets/create-a-sales-campaign-6.png)
 
@@ -56,7 +56,7 @@ So, how do you set up a Sales Campaign?
 
    ![](assets/create-a-sales-campaign-8.png)
 
-Now it's time to start adding people!
+Now it is time to start adding people!
 
 >[!MORELIKETHIS]
 >

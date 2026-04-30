@@ -30,7 +30,7 @@ You can also make the field dynamic by using segments.
 
 ![](assets/three-2.png)
 
-The key icon to the far right in the [!UICONTROL From Address] field lets you know if you're using a custom DKIM signature.
+The key icon to the far right in the [!UICONTROL From Address] field lets you know if you are using a custom DKIM signature.
 
 ![](assets/four-2.png)
 

@@ -50,7 +50,7 @@ To learn more about installing the Sales Connect Customization [click here](/hel
 
 ## Testing in Sandbox {#testing-in-sandbox}
 
-For teams who want to test Marketo Sales Connect with their Marketo Sandbox, an additional Sales Connect account can be provisioned upon request. This is only for customers who have purchased a Marketo Sandbox, or those who have it as part of their Marketo bundle. If you're interested in acquiring a Sandbox, please contact your Marketo Account Manager.
+For teams who want to test Marketo Sales Connect with their Marketo Sandbox, an additional Sales Connect account can be provisioned upon request. This is only for customers who have purchased a Marketo Sandbox, or those who have it as part of their Marketo bundle. If you are interested in acquiring a Sandbox, please contact your Marketo Account Manager.
 
 >[!NOTE]
 >

@@ -29,7 +29,7 @@ Put videos with social sharing options on your landing pages.
 
    >[!NOTE]
    >
-   >The **[!UICONTROL Create New]** feature appears only in [!UICONTROL Marketing Activities]; it's not available in [!UICONTROL Design Studio]. Only already-created videos are available in Design Studio. However, you can create a video share _inside a program_ by selecting **[!UICONTROL New]** > **[!UICONTROL New Local Asset]**. You can then select it from the drop-down, as shown here.
+   >The **[!UICONTROL Create New]** feature appears only in [!UICONTROL Marketing Activities]; it is not available in [!UICONTROL Design Studio]. Only already-created videos are available in Design Studio. However, you can create a video share _inside a program_ by selecting **[!UICONTROL New]** > **[!UICONTROL New Local Asset]**. You can then select it from the drop-down, as shown here.
 
 1. Enter the URL of the YouTube video, then name your video. Under the **[!UICONTROL Clone From]** drop-down select **[!UICONTROL None]**, then click **[!UICONTROL Insert]**.
 
@@ -43,4 +43,4 @@ Congratulations! You have added a video share to your free-form landing page. Ap
 
 >[!MORELIKETHIS]
 >
->You're done, but you can change the settings of your video share if necessary. Start with _customizing the share flow_ (when and where the share prompt opens).
+>you are done, but you can change the settings of your video share if necessary. Start with _customizing the share flow_ (when and where the share prompt opens).

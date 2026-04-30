@@ -38,7 +38,7 @@ SCREENSHOT
 
 SCREENSHOT
 
-1. The configured repository is displayed below along with status and expiration. Click the ellipsis button (**...**) to view the certificate. Otherwise, you're done.
+1. The configured repository is displayed below along with status and expiration. Click the ellipsis button (**...**) to view the certificate. Otherwise, you are done.
 
 SCREENSHOT
 

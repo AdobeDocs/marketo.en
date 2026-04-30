@@ -11,7 +11,7 @@ feature: Marketo Sales Insights
 
 Use the contextual Marketo Insights pane to see account information and recent activities.
 
-The pane appears in the normal Google Mail reading pane for Inbox and Sent items and shows information and activities for the person who sent you the email you're reading (or who you sent the email to for items in the Sent folder).
+The pane appears in the normal Google Mail reading pane for Inbox and Sent items and shows information and activities for the person who sent you the email you are reading (or who you sent the email to for items in the Sent folder).
 
 The Person Activity tab displays relevant information about the person, such as name, title, picture, and so on. You can also see the most recent activities that have occurred after you sent an email, such as visit a webpage, fill out a form, click a link, attend an event, and open an email.
 

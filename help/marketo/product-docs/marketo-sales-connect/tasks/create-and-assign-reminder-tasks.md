@@ -28,7 +28,7 @@ Reminder tasks are a great way to stay on top of your customer and prospect enga
 
    ![](assets/create-and-assign-reminder-tasks-5.png)
 
-1. Add the person you're following up with, with this reminder task.
+1. Add the person you are following up with, with this reminder task.
 
    ![](assets/create-and-assign-reminder-tasks-6.png)
 

@@ -13,7 +13,7 @@ Learn about the different Settings options in MPI.
 
 >[!NOTE]
 >
->Depending on which dashboard you're in, you'll see different setting options.
+>Depending on which dashboard you are in, you'll see different setting options.
 
 ## View Program Success By {#view-program-success-by}
 

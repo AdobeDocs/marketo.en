@@ -55,7 +55,7 @@ Before you can use this capability, you must first link AEM Cloud Services with 
 
    ![Locate the certificate on your machine](assets/access-the-ai-assistant-content-accelerator-5.png){width="600" zoomable="yes"}
 
-1. The configured repository is displayed below along with status and expiration. Click the ellipsis button (**...**) to view the certificate. Otherwise, you're done.
+1. The configured repository is displayed below along with status and expiration. Click the ellipsis button (**...**) to view the certificate. Otherwise, you are done.
 
    ![The certificate has been added](assets/access-the-ai-assistant-content-accelerator-6.png){width="700" zoomable="yes"}
 

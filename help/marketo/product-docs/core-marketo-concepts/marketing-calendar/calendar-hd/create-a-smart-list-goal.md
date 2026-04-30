@@ -7,7 +7,7 @@ feature: Marketing Calendar
 ---
 # Create a Smart List Goal {#create-a-smart-list-goal}
 
-Goals are ways to track progress and motivate your team. They can be combined with smart lists to track all sorts of things in Marketo. Plus, after you've set up a smart list goal, it'll automatically update every 2 hours when it's used in a presentation.
+Goals are ways to track progress and motivate your team. They can be combined with smart lists to track all sorts of things in Marketo. Plus, after you've set up a smart list goal, it'll automatically update every 2 hours when it is used in a presentation.
 
 Like presentations, goals are [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specific.
 

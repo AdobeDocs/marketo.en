@@ -39,7 +39,7 @@ Learn how to manage your groups in [!DNL Sales Connect].
 
    ![](assets/five-3.png)
 
-   And you're done!
+   And you are done!
 
    >[!NOTE]
    >

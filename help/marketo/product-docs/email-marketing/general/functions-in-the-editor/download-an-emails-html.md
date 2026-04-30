@@ -13,4 +13,4 @@ For backups and other purposes, Marketo allows you to download the HTML content 
 
    ![](assets/one-4.png)
 
-It's that easy!
+It is that easy!

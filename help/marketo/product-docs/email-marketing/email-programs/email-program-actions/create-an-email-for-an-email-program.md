@@ -12,7 +12,7 @@ feature: Email Programs
 >* [Create an Email Program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Define an Audience with a Smart List](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) or [Define an Audience by Importing a List](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
-Once you have created your email program and defined your audience, you'll want to decide what email you're sending. You can [choose an existing email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) or create one from scratch. Here's how to create a new email.
+Once you have created your email program and defined your audience, you'll want to decide what email you are sending. You can [choose an existing email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) or create one from scratch. Here's how to create a new email.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 

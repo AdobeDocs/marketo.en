@@ -25,7 +25,7 @@ You can archive a program, but sometimes you just want to get rid of it permanen
 
 ![](assets/2017-05-05-15-04-15.png)
 
-Done. It's like the program never existed.
+Done. It is like the program never existed.
 
 ## Why Can't I Delete My Program? {#why-cant-i-delete-my-program}
 

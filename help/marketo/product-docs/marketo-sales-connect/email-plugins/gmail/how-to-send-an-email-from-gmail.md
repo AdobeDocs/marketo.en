@@ -9,7 +9,7 @@ feature: Marketo Sales Connect
 
 >[!CAUTION]
 >
->Using the "Undo Send" functionality in Gmail will prevent the email from sending when using the Gmail extension, but you may still see an activity in the web application as well as in Salesforce if you're logging activities to Salesforce.
+>Using the "Undo Send" functionality in Gmail will prevent the email from sending when using the Gmail extension, but you may still see an activity in the web application as well as in Salesforce if you are logging activities to Salesforce.
 
 1. In Gmail, click **Compose**.
 

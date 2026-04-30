@@ -28,7 +28,7 @@ You'll need to invite users to [[!DNL Sales Insight Actions]](/help/marketo/prod
 
    >[!NOTE]
    >
-   >You can only do the workspace assignment once at the time of granting access to users. After it's set, you'll have to disconnect the user in order to change it.
+   >You can only do the workspace assignment once at the time of granting access to users. After it is set, you'll have to disconnect the user in order to change it.
 
 1. If your Marketo subscription has workspaces enabled, you'll be able to assign workspaces to each user or set of users in bulk. If no workspaces are selected, we’ll assign them to the Default Marketo workspace.
 

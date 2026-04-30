@@ -23,7 +23,7 @@ We allow you to personalize your email templates with predefined attributes like
    >
    >When emailing contacts who exist in [!DNL Sales Connect], you can use the basic dynamic fields. These will pull directly from the contact.
 
-If you're emailing contacts who exist in [!DNL Salesforce], you can take advantage of the [!DNL Salesforce] dynamic fields. These all begin with "sfdc". As long as you have a connection to [!DNL Salesforce], these fields will call directly to the lead/contact in [!DNL Salesforce] to populate information in the template.
+If you are emailing contacts who exist in [!DNL Salesforce], you can take advantage of the [!DNL Salesforce] dynamic fields. These all begin with "sfdc". As long as you have a connection to [!DNL Salesforce], these fields will call directly to the lead/contact in [!DNL Salesforce] to populate information in the template.
 
 ## Insert Dynamic Fields in a Subject Line {#insert-dynamic-fields-in-a-subject-line}
 

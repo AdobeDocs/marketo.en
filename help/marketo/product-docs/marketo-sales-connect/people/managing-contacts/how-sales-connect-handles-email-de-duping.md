@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 ---
 # How [!DNL Sales Connect] Handles Email De-Duping {#how-sales-connect-handles-email-de-duping}
 
-When you're [uploading a CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) file into [!DNL Sales Connect], we merge all like contacts in the CSV before the import takes place.
+When you are [uploading a CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) file into [!DNL Sales Connect], we merge all like contacts in the CSV before the import takes place.
 
 We do this based on like email address. So, if there are two identical email addresses, we merge them into one contact.
 

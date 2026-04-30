@@ -59,7 +59,7 @@ Identify the right companies for targeting.
    >
    >In [!UICONTROL Discover Marketo Companies] and Discover CRM, Marketo automatically:
    >
-   >* Finds people from your Marketo database that have that company listed in their record. If you see multiple values for some of the attributes (e.g., Industry), it's because Marketo found different values listed for those individual people. The attribute with the most hits wins
+   >* Finds people from your Marketo database that have that company listed in their record. If you see multiple values for some of the attributes (e.g., Industry), it is because Marketo found different values listed for those individual people. The attribute with the most hits wins
    >
    >In **Discover CRM** only, Marketo automatically:
    >
@@ -101,7 +101,7 @@ Identify the right companies for targeting.
 
 >[!NOTE]
 >
->If you're seeing a mismatch between CRM accounts you've selected and what's in the Discover CRM Grid, it's likely due to one or more of the following:
+>If you are seeing a mismatch between CRM accounts you've selected and what's in the Discover CRM Grid, it is likely due to one or more of the following:
 >
 >* Having different CRM accounts with similar names that got de-duped
 >* The next scheduled sync hasn't occurred yet

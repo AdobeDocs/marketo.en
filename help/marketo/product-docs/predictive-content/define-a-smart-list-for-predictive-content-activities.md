@@ -41,7 +41,7 @@ You can use predictive content activities in triggers and filters when you defin
 
    ![](assets/pc-add-constraint.png)
 
-1. If you're using the email source for your predictive content, add the **[!UICONTROL Clicks Link in Email]** trigger. Select your email and add the **[!UICONTROL Is Predictive]** constraint, defined as **[!UICONTROL true]**.
+1. If you are using the email source for your predictive content, add the **[!UICONTROL Clicks Link in Email]** trigger. Select your email and add the **[!UICONTROL Is Predictive]** constraint, defined as **[!UICONTROL true]**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 

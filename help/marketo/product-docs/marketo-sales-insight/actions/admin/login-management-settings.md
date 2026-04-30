@@ -34,7 +34,7 @@ The update your login management preferences, follow these steps.
 
 ## Salesforce Only FAQ {#salesforce-only-faq}
 
-Salesforce Only means that users can only authenticate to use [!DNL Sales Insight Actions] with [!DNL Salesforce]. It's the default selection for [!DNL Sales Insight Actions] instances, and is recommended because of its ability to allow users to authenticate seamlessly without having to manage a username and password.
+Salesforce Only means that users can only authenticate to use [!DNL Sales Insight Actions] with [!DNL Salesforce]. It is the default selection for [!DNL Sales Insight Actions] instances, and is recommended because of its ability to allow users to authenticate seamlessly without having to manage a username and password.
 
 ### How does a new user to my instance activate their account when “[!UICONTROL Salesforce Only]” is selected? {#activate-when-salesforce-only-is-selected}
 

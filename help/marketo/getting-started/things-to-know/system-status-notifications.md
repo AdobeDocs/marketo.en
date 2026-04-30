@@ -46,7 +46,7 @@ After [identifying your data center and pod/server](#identify), follow the steps
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 
-1. Sign in (if you're not already) using your Adobe credentials, or click **Create an account** if you don't have one.
+1. Sign in (if you are not already) using your Adobe credentials, or click **Create an account** if you don't have one.
 
    ![](assets/subscribe-to-system-status-notifications-4.png)
  

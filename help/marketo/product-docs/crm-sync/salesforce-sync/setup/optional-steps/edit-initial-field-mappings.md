@@ -15,7 +15,7 @@ During the initial sync to Salesforce, Marketo Engage automatically combines sim
 
 ## Map Unmapped Fields {#map-unmapped-fields}
 
-When you see a field in the [!UICONTROL Unmapped Fields] folder, it means that it's not mapped to a similar field on the Lead or Contact in Salesforce. You can fix that.
+When you see a field in the [!UICONTROL Unmapped Fields] folder, it means that it is not mapped to a similar field on the Lead or Contact in Salesforce. You can fix that.
 
 1. Click **[!UICONTROL Edit Mappings]**.
 
@@ -49,11 +49,11 @@ If you have similarly named fields on the lead and contact object Marketo will m
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
-1. Click **[!UICONTROL Finish Mappings]** when you're done.
+1. Click **[!UICONTROL Finish Mappings]** when you are done.
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
-   Nice! You're almost done with the initial sync.
+   Nice! You are almost done with the initial sync.
 
 ## Reset Schema {#reset-schema}
 

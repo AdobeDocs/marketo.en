@@ -51,7 +51,7 @@ Flow Steps: If a Flow Step does _not_ include any choices, this card shows the a
   * Campaign the Flow Step belongs to
   * Edit Flow Step
   * List of attributes associated with the Flow Step
-  * "View List" button, which opens a list of campaigns that use the specific Request/Execute Campaign
+  * "View List" button, which opens a list of campaigns that use the specific Request or Execute Campaign
 
 >[!NOTE]
 >
@@ -68,7 +68,7 @@ Flow Steps: If a Flow Step does _not_ include any choices, this card shows the a
   * Campaign the choice belongs to
   * Edit choice
   * List of choice conditions associated with the Flow Step
-  * View list, which opens a list of campaigns that use the specific Request/Execute Campaign
+  * View list, which opens a list of campaigns that use the specific Request or Execute Campaign
 
    ![](assets/engagement-map-tab-10.png)
 
@@ -95,7 +95,7 @@ You can click on the Execute Campaign Flow Step in "Campaign B" which will expan
 
 Request campaigns run in parallel with the parent campaign. People that qualify for a request campaign complete all the Flow Steps from the campaign and then exit the campaign. Concurrently, the same set of people go through the Flow Steps from the primary campaign.
 
-Here's an example of a Smart Campaign, "Campaign A," which includes a request campaign Flow Step. Think of "Campaign A" as your primary campaign.
+Below is an example of a Smart Campaign, "Campaign A," which includes a request campaign Flow Step. Think of "Campaign A" as your primary campaign.
 
    ![](assets/engagement-map-tab-14.png)
 
@@ -110,7 +110,7 @@ You can dive deeper into your nested campaigns if any of the Flow Steps include 
 
    ![](assets/engagement-map-tab-16.png)
 
-Here's an example of a request campaign with choices.
+Below is an example of a request campaign with choices.
 
    ![](assets/engagement-map-tab-17.png)
 
@@ -140,4 +140,4 @@ Below is an example of a warning in a Choice card which shows in the Execute Cam
 
 >[!NOTE]
 >
->Errors within a nested campaign won't be visible until you've clicked to expand the nested campaign.
+>Errors within a nested campaign will not be visible until you have clicked to expand the nested campaign.

@@ -11,7 +11,7 @@ See how many people filled out the forms in your landing pages, and how many of 
 
 >[!NOTE]
 >
->If you see a discrepancy in numbers between your Smart List and Landing Page Performance Report, it's likely because Smart Lists only filter data on People, whereas Landing Page Performance Reports include social (Facebook, Google Ads, etc.) and anonymous activities, in addition to People data.
+>If you see a discrepancy in numbers between your Smart List and Landing Page Performance Report, it is likely because Smart Lists only filter data on People, whereas Landing Page Performance Reports include social (Facebook, Google Ads, etc.) and anonymous activities, in addition to People data.
 
 1. [Create a report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select the [!UICONTROL Landing Page Performance] [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. [Set the time frame of your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the [!UICONTROL Report] tab.

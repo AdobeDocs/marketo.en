@@ -57,7 +57,7 @@ Great! To specify how new leads are assigned to stages, create assignment rules.
 
 >[!NOTE]
 >
->If your model is in the Approved Stages state, you will not see any Change Revenue Stage events in the leads' activity logs. If your model is fully approved, this flow step will be skipped if you move a lead into the same stage it's currently in.
+>If your model is in the Approved Stages state, you will not see any Change Revenue Stage events in the leads' activity logs. If your model is fully approved, this flow step will be skipped if you move a lead into the same stage it is currently in.
 
 ## New Leads: Create Assignment Rules  {#new-leads-create-assignment-rules}
 

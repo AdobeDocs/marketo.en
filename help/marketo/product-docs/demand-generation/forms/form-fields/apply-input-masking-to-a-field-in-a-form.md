@@ -45,7 +45,7 @@ You can restrict input from your visitor using an input mask. For example, you m
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
-   Check it out! Now you're asking the visitor to enter numbers in a specific format.
+   Check it out! Now you are asking the visitor to enter numbers in a specific format.
 
    ![](assets/image2014-9-15-13-3a41-3a39.png)
 

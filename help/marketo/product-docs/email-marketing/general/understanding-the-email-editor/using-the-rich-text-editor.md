@@ -80,7 +80,7 @@ Here are the features you'll find in an RTE.
 | ![--](assets/image2015-7-9-10-3a39-3a42.png)|[!UICONTROL Insert/Edit Image] |A picture is worth a thousand words. Drop one in. Click the camera icon to browse your Design Studio. You can drop in images side by side. |
 | ![--](assets/image2015-7-9-10-3a40-3a36.png)|[!UICONTROL Insert Token] |A powerful tool, great for email personalization and data tracking. Be sure to enter a default value. |
 | ![--](assets/image2015-7-9-10-3a41-3a21.png)|[!UICONTROL Undo] |Oops! Let's you go back a step and try it again. |
-| ![--](assets/image2015-7-9-10-3a42-3a13.png)|[!UICONTROL Redo] |If it's really OK as it is, return to the original. |
+| ![--](assets/image2015-7-9-10-3a42-3a13.png)|[!UICONTROL Redo] |If it is really OK as it is, return to the original. |
 | ![--](assets/image2015-7-9-10-3a43-3a29.png)|[!UICONTROL Table] |Build your own, like this one. A drop-down menu lets you configure it. |
 | ![--](assets/image2015-7-9-10-3a45-3a1.png)|[!UICONTROL Insert Anchor] |Drop anchor! |
 | ![--](assets/image2015-7-9-10-3a45-3a48.png)|[!UICONTROL Horizontal Line] |Many uses - Great for dividing sections. |

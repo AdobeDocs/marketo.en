@@ -153,7 +153,7 @@ feature: Marketo Sales Insights
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 
-Phew! You're finally done installing [!DNL Marketo Sales Insight] for [!DNL Salesforce1]! Go ahead and give yourself a pat on the back.
+Phew! You are finally done installing [!DNL Marketo Sales Insight] for [!DNL Salesforce1]! Go ahead and give yourself a pat on the back.
 
 >[!MORELIKETHIS]
 >

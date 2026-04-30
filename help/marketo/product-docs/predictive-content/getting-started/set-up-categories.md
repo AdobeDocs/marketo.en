@@ -39,7 +39,7 @@ Here's how to create category tags.
 
    ![](assets/remove-category-tag-updated.png)
 
-1. Click **[!UICONTROL Save]** when you're done.
+1. Click **[!UICONTROL Save]** when you are done.
 
    ![](assets/save-new.png)
 

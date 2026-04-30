@@ -51,13 +51,13 @@ You need to approve the send before the in-app message goes out.
 
    ![](assets/image2016-5-24-13-3a29-3a35.png)
 
-1. If you're sure you want to stop the program, click **[!UICONTROL Stop]**.
+1. If you are sure you want to stop the program, click **[!UICONTROL Stop]**.
 
    ![](assets/image2016-5-24-13-3a31-3a22.png)
 
    >[!NOTE]
    >
-   >When you stop a program, it no longer runs and can't be resumed. If you want to run it again, you'll have to rebuild it. So, make sure you're done with a program before you click **[!UICONTROL Stop Program]**!
+   >When you stop a program, it no longer runs and can't be resumed. If you want to run it again, you'll have to rebuild it. So, make sure you are done with a program before you click **[!UICONTROL Stop Program]**!
 
 ## In-App Dashboard {#in-app-dashboard}
 

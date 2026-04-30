@@ -28,7 +28,7 @@ When a picklist value is removed from a field in [!DNL Salesforce], you will hav
 If a lead field and a contact field in [!DNL Salesforce] have different values:
 
 1. Adding an additional value in SFDC to a picklist will get a notification.
-1. The notification will tell you where it's used. You can now add this new value as an option on the form if you want.
+1. The notification will tell you where it is used. You can now add this new value as an option on the form if you want.
 
 If a picklist of an SFDC lead has different values than a picklist for an SFDC contact, the common values will be used as default value options in the form.
 

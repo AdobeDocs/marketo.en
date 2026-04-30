@@ -92,14 +92,14 @@ Identify reports that should be shared with different user groups within your or
   </tr>
   <tr>
     <td>People Performance Report</td>
-    <td><img src="assets/note-icon.png" alt="note icon"> NOTE: It's recommended to have a proper <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">channel and tag strategy</a> for every Marketo Engage implementation before you can track the people acquired and the ROI of your marketing investments by channel.
+    <td><img src="assets/note-icon.png" alt="note icon"> NOTE: it is recommended to have a proper <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">channel and tag strategy</a> for every Marketo Engage implementation before you can track the people acquired and the ROI of your marketing investments by channel.
     <p>
     <li>Determine the criteria you will use to measure the performance of your lead acquisition programs and create your time-based (current year, last rolling 12 months view, or 180 days) standard reports based on these metrics: <ul><li>Acquisition Program: Marketo Engage program that is credited for acquiring the person.</li>
     <li>Person Source: The source category for how the record came to be known to your database (based on the source list of values in your CRM)
     </li></ul>
     <li>Measure people created by week or month. This report will provide you with a measure of your Database growth rate and whether you are approaching your Database size limit.</li>
     <li>Filter the metrics in People Performance Reports by <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">using your Smart Lists as custom columns.</a></li>
-    <p><img src="assets/tip-icon.png" alt="note icon"> TIP: Create Smart Lists for the custom columns you want to add to the People Performance Report in the Database instead of Marketing Activities so you can see the Smart List name properly and clearly when it's selected in the report.</td>
+    <p><img src="assets/tip-icon.png" alt="note icon"> TIP: Create Smart Lists for the custom columns you want to add to the People Performance Report in the Database instead of Marketing Activities so you can see the Smart List name properly and clearly when it is selected in the report.</td>
   </tr>
   <tr>
     <td>Program Performance Report</td>

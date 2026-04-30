@@ -46,7 +46,7 @@ Use the Opportunity Influence Analyzer to show marketing's contribution to an im
    >
    >In most cases, **[!UICONTROL All Time]** is the simplest choice.
 
-1. You're there! Click the main tab to see the interesting moments and successes involved in the opportunity.
+1. You are there! Click the main tab to see the interesting moments and successes involved in the opportunity.
 
    ![](assets/image2014-9-17-8-3a57-3a42.png)
 

@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 ---
 # Sales Insight Actions User Onboarding Checklist {#sales-insight-actions-user-onboarding-checklist}
 
-If you're looking for resources on how to get started with Marketo Sales Insight Actions, please [download the onboarding checklist](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
+If you are looking for resources on how to get started with Marketo Sales Insight Actions, please [download the onboarding checklist](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
 
 >[!NOTE]
 >

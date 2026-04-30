@@ -17,7 +17,7 @@ The way it should look:
 
 ## Choose a CNAME {#choose-a-cname}
 
-Pick a word to go at the beginning of the URL for your landing pages. It's just one word and should be relatively short. Examples:
+Pick a word to go at the beginning of the URL for your landing pages. It is just one word and should be relatively short. Examples:
 
 * go.YourCompany.com/NameOfPage.html
 * info.YourCompany.com/NameOfPage.html

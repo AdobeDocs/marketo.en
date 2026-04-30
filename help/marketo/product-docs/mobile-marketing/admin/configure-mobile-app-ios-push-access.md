@@ -25,7 +25,7 @@ feature: Mobile Marketing
 
    >[!NOTE]
    >
-   >You will need a **[!UICONTROL Certificate]** and **[!UICONTROL Password]** from your mobile apps developer. The developer receives these by logging into the Apple Developer Member Center, setting up and downloading a push notification certificate for your app, and exporting the content. The developer sets the password when making the export. **IMPORTANT**: The certificate should be appropriate for the kind of environment you're using — Sandbox or Production. Verify this with your Marketo Admin or mobile apps developer.
+   >You will need a **[!UICONTROL Certificate]** and **[!UICONTROL Password]** from your mobile apps developer. The developer receives these by logging into the Apple Developer Member Center, setting up and downloading a push notification certificate for your app, and exporting the content. The developer sets the password when making the export. **IMPORTANT**: The certificate should be appropriate for the kind of environment you are using — Sandbox or Production. Verify this with your Marketo Admin or mobile apps developer.
 
 1. Select your [!UICONTROL Certificate], enter your [!UICONTROL Password], and click **[!UICONTROL Save]**.
 

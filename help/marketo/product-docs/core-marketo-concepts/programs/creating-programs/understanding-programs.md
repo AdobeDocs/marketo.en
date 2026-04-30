@@ -7,7 +7,7 @@ feature: Programs
 ---
 # Understanding Programs {#understanding-programs}
 
-Programs represent a single marketing initiative. You can think of it as a container with all the stuff that you need to make the program work - these are called local assets and include **Landing Pages**, **email**, **Smart Campaigns**, and more. Programs do a lot, but it's easy to get started.
+Programs represent a single marketing initiative. You can think of it as a container with all the stuff that you need to make the program work - these are called local assets and include **Landing Pages**, **email**, **Smart Campaigns**, and more. Programs do a lot, but it is easy to get started.
 
 There are four types of programs:
 

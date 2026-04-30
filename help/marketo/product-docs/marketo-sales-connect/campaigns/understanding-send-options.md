@@ -9,7 +9,7 @@ feature: Marketo Sales Connect
 
 When you are creating a Campaign, you have several options on how your email steps get created in [!DNL Sales Connect]. And, depending on where your email falls in your Campaign, your options also differ.
 
-If it's your first step and the first day in your Campaign, you will have the following options:
+If it is your first step and the first day in your Campaign, you will have the following options:
 
 ![](assets/image2019-10-25-10-43-19.png)
 

@@ -21,7 +21,7 @@ When you use Marketo [!UICONTROL Web Personalization] and [!UICONTROL Target Acc
 
 ## For Existing ABWM Customers {#for-existing-abwm-customers}
 
-If you're already using ABWM:
+If you are already using ABWM:
 
 * You can create [!UICONTROL Account Lists] in ABWM _and_ in TAM
 * You can create, edit, and delete [!UICONTROL Account Lists] in TAM _and_ in ABWM

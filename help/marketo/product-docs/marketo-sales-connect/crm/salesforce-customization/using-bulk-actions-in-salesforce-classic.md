@@ -15,7 +15,7 @@ Learn how to perform bulk actions, like adding leads to a campaign, send a bulk 
 
 >[!NOTE]
 >
->Before following the steps outlined, make sure you're logged in to your Marketo Sales Connect account.
+>Before following the steps outlined, make sure you are logged in to your Marketo Sales Connect account.
 
 ## Bulk Email {#bulk-email}
 

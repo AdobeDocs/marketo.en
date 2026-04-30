@@ -59,7 +59,7 @@ You can choose from a presets or individually configure each color in the set. C
 
    ![](assets/brand-themes-8.png)
 
-When you're done editing, click the back arrow (![back arrow icon](assets/icon-back-arrow.png)) to return.
+When you are done editing, click the back arrow (![back arrow icon](assets/icon-back-arrow.png)) to return.
 
 To edit a variant, click its pencil icon.
 

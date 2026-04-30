@@ -17,7 +17,7 @@ Provides information on when leads will exhaust the content within the Stream. T
 
 ## Communication Limits {#communication-limits}
 
-Want to stop over-emailing leads? Now it's easy to automatically limit frequency to each individual. Simply set a daily and weekly communication limit, and the system will do the rest. Available in Select, Enterprise, and with the Add-On package for Standard customers.
+Want to stop over-emailing leads? Now it is easy to automatically limit frequency to each individual. Simply set a daily and weekly communication limit, and the system will do the rest. Available in Select, Enterprise, and with the Add-On package for Standard customers.
 
 ![](assets/image2014-9-22-16-3a31-3a13.png)
 

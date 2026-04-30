@@ -21,4 +21,4 @@ When making major changes to your sync or field settings, you should disable the
 
    ![](assets/image2014-12-10-13-3a24-3a58.png)
 
-1. Make your changes and re-enable the sync. It's the same button.
+1. Make your changes and re-enable the sync. It is the same button.

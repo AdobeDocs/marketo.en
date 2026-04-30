@@ -34,7 +34,7 @@ Enable skip weekends so any steps that would have fallen on a weekend day (Satur
 
 ## Remove on Bounce {#remove-on-bounce}
 
-If you're using email connection, we will detect bounces based off the bounce message sent to the users inbox. Additionally, we can remove people from Sales Campaigns when a bounce is detected.
+If you are using email connection, we will detect bounces based off the bounce message sent to the users inbox. Additionally, we can remove people from Sales Campaigns when a bounce is detected.
 
 1. Click **[!UICONTROL Campaigns]**.
 

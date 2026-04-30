@@ -6,7 +6,7 @@ feature: Marketo Sales Connect
 ---
 # Sales Activity Triggers and Filters {#sales-activity-triggers-and-filters}
 
-If you're looking to better coordinate engagement with your sales team, or trying to get a better view of how they're engaging with customers across the buyer journey, Sales Activity Insights in Marketo will be useful for you.
+If you are looking to better coordinate engagement with your sales team, or trying to get a better view of how they're engaging with customers across the buyer journey, Sales Activity Insights in Marketo will be useful for you.
 
 Follow the steps below to learn how to utilize sales activity filters and triggers in your smart campaigns.
 

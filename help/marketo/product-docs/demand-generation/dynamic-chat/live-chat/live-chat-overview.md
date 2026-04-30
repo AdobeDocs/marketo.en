@@ -35,7 +35,7 @@ Use the live chat card in the [Stream Designer](/help/marketo/product-docs/deman
 ### Best Practices {#best-practices}
 
 * Use a question card before the live chat card asking the visitor if they'd like to connect.
-* After the visitor agrees to connect, use the information capture card to collect some of their info, like first/last name, email address, job title, etc. (it's recommended to at least request first name and email address).
+* After the visitor agrees to connect, use the information capture card to collect some of their info, like first/last name, email address, job title, etc. (it is recommended to at least request first name and email address).
 
 ## Live Chat Card Options {#live-chat-card-options}
 
@@ -94,7 +94,7 @@ When a live chat is routed to an agent, they'll see a blue banner across the top
 
 >[!TIP]
 >
->You also have the option to set up browser notifications, which will alert you in case you're not logged in to Dynamic Chat.
+>You also have the option to set up browser notifications, which will alert you in case you are not logged in to Dynamic Chat.
 >
 >* Enable browser notifications in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}
 >* Enable browser notifications in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
@@ -110,7 +110,7 @@ When an action such as a meeting booking or a live chat fails, users are notifie
 * Agents have 100 seconds to respond before the "Accept chat" message times out. After that, visitors will receive the [fallback message](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. For Dynamic Chat Prime subscribers who have the routing option set to **Team**, one more agent will be tried before the fallback message appears.
 * There is a limit of 10 live chats per agent at this time.
 * Agent Inbox is just for Live Chat conversations. If the chat is not accepted by an agent, it will not appear in the Agent Inbox, as it doesn't qualify as a Live Chat.
-* The Conversation tab displays all the conversation, both Live and Automated chat. So if a conversation is not accepted by the agent, that will be listed in the Conversation Tab. There is up to a 24-hour delay in the Conversation tab, as it's not realtime. Agent Inbox, however, is realtime.
+* The Conversation tab displays all the conversation, both Live and Automated chat. So if a conversation is not accepted by the agent, that will be listed in the Conversation Tab. There is up to a 24-hour delay in the Conversation tab, as it is not realtime. Agent Inbox, however, is realtime.
 * If there is no chat activity after 10 minutes (by either the agent or the visitor), the chat will timeout.
 * If an agent changes their profile image (in account.adobe.com) _during_ a Live Chat, the visitor will still see the old image until the chat ends. The visitor will see the new image the next time they chat in and get that agent.
 

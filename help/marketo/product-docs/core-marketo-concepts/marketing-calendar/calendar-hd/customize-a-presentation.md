@@ -68,7 +68,7 @@ The calendar display can be changed to a 3-week or monthly view.
 
 ## Preview a Presentation {#preview-a-presentation}
 
-Once the presentation has been configured, it's ready to be previewed and launched.
+Once the presentation has been configured, it is ready to be previewed and launched.
 
 1. Select **[!UICONTROL Preview]**.
 

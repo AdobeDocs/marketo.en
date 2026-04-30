@@ -223,7 +223,7 @@ Marketo person fields must be mapped to Salesforce contact fields to ensure that
    |`Last Interesting Moment Source`|`Contact.Last Interesting Moment Source`|
    |`Last Interesting Moment Type`|`Contact.Last Interesting Moment Type`|
 
-1. Click **[!UICONTROL Save]** when you're done.
+1. Click **[!UICONTROL Save]** when you are done.
 
 ## Marketo Sales Insight configuration tab {#marketo-sales-insight-configuration-tab}
 

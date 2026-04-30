@@ -53,7 +53,7 @@ You can quickly and easily delete some/all people that are in a list or a Smart 
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
-1. If you are deleting more than 50 people you will see this. Type the number of people you're deleting, check the **[!UICONTROL Cannot Undo]** box, then click **[!UICONTROL Delete]**.
+1. If you are deleting more than 50 people you will see this. Type the number of people you are deleting, check the **[!UICONTROL Cannot Undo]** box, then click **[!UICONTROL Delete]**.
 
    ![](assets/seven.png)
 

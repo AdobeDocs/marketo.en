@@ -35,7 +35,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Account Score</a></strong></td>
-   <td colspan="1">In <strong>TAM</strong>, it's a score assigned to an account to help you determine its level of engagement.</td>
+   <td colspan="1">In <strong>TAM</strong>, it is a score assigned to an account to help you determine its level of engagement.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Acquisition Date</strong></td>
@@ -255,7 +255,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr>
   <tr>
    <td colspan="1"><strong>Docs</strong></td>
-   <td colspan="1">Short for documents, docs are help articles for customers to better understand the product. Marketo has several different types of docs: Product docs (the site you're currently on), <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">Developer</a> docs, and <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a> docs.</td>
+   <td colspan="1">Short for documents, docs are help articles for customers to better understand the product. Marketo has several different types of docs: Product docs (the site you are currently on), <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">Developer</a> docs, and <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a> docs.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Domain-based Message Authentication, Reporting &amp; Conformance (DMARC)</strong></td>
@@ -464,7 +464,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr>
   <tr>
    <td><strong>Lead</strong></td>
-   <td>In <strong>Adobe Marketo Engage</strong>, lead is the previous term (replaced by <strong>person</strong>) used to describe an individual in your Marketo <strong>database</strong> that you're engaging with through your marketing campaigns. In your <strong>CRM</strong>, a lead may represent a different concept (i.e., an individual associated with an <strong>opportunity</strong>) independent of Marketo's functionality.</td>
+   <td>In <strong>Adobe Marketo Engage</strong>, lead is the previous term (replaced by <strong>person</strong>) used to describe an individual in your Marketo <strong>database</strong> that you are engaging with through your marketing campaigns. In your <strong>CRM</strong>, a lead may represent a different concept (i.e., an individual associated with an <strong>opportunity</strong>) independent of Marketo's functionality.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Lead Database</strong></td>
@@ -475,7 +475,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
     <div>
      <p><strong> List</strong></p>
     </div></td>
-   <td colspan="1">A collection of people. In Marketo there are smart lists and static lists. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">smart list</a> is dynamic list of people that can constantly change, as it's based on filters you define (e.g., everyone in your database who lives in California). When new people qualify for the criteria (or existing people no longer qualify) the list changes. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">static list</a> is, well, static. It doesn't change unless you manually add/delete someone.</td>
+   <td colspan="1">A collection of people. In Marketo there are smart lists and static lists. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">smart list</a> is dynamic list of people that can constantly change, as it is based on filters you define (e.g., everyone in your database who lives in California). When new people qualify for the criteria (or existing people no longer qualify) the list changes. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">static list</a> is, well, static. It doesn't change unless you manually add/delete someone.</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Local Assets</strong></a></td>
@@ -618,7 +618,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr>
   <tr>
    <td><strong>Person</strong></td>
-   <td>An individual in your Marketo <strong>database</strong> that you're engaging with through marketing campaigns.</td>
+   <td>An individual in your Marketo <strong>database</strong> that you are engaging with through marketing campaigns.</td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">Person Partition</a></strong></td>

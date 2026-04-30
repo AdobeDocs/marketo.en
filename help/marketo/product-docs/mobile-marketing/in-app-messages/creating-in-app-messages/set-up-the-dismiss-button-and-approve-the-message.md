@@ -41,7 +41,7 @@ The Dismiss button has many options to let you configure it the way you want.
 
 ## Wrap it Up {#wrap-it-up}
 
-All of your selections for the graphics, text, and buttons have been auto saved. Now, you're ready to finish the job.
+All of your selections for the graphics, text, and buttons have been auto saved. Now, you are ready to finish the job.
 
 1. To preview your in-app message, click the **[!UICONTROL Message Actions]** drop-down and select **[!UICONTROL Preview]**.
 
@@ -51,7 +51,7 @@ All of your selections for the graphics, text, and buttons have been auto saved.
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. If you're happy with the in-app message, click **[!UICONTROL Approve & Close]**.
+1. If you are happy with the in-app message, click **[!UICONTROL Approve & Close]**.
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
@@ -59,13 +59,13 @@ All of your selections for the graphics, text, and buttons have been auto saved.
    >
    >You can also select **[!UICONTROL Approve & Close]** directly from the [!UICONTROL Message Actions] drop-down (see step 1), but why not preview the message first, just to be safe?
 
-1. To close the editor without approving, simply close the tab. It's auto-saved, so you can return and approve it later.
+1. To close the editor without approving, simply close the tab. It is auto-saved, so you can return and approve it later.
 
    ![](assets/image2016-5-9-11-3a9-3a46.png)
 
 So many choices, but now you've got a great-looking in-app message, ready to go!
 
-Now it's time to [send your message](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+Now it is time to [send your message](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >

@@ -29,7 +29,7 @@ Free-form landing pages require less technical knowledge than their guided count
    >
    >Marketo Support is not set up to assist with troubleshooting custom HTML. For HTML assistance, please consult a web developer.
 
-1. When you're done making edits, click **[!UICONTROL Template Actions]**, then select **[!UICONTROL Approve and Close]**.
+1. When you are done making edits, click **[!UICONTROL Template Actions]**, then select **[!UICONTROL Approve and Close]**.
 
    ![](assets/five.png)
 

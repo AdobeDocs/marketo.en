@@ -26,7 +26,7 @@ Great! Now you have a new folder to store your local assets.
 
 ## Rename a Folder {#rename-a-folder}
 
-It's okay to change your mind.
+It is okay to change your mind.
 
 1. Right-click the folder and select **[!UICONTROL Rename Folder]**.
 
@@ -62,6 +62,6 @@ When you archive a folder:
 Functionality that will **not** change when archiving:
 
 * Global search still finds results in archived folders
-* An asset that's in use will continue to work even after it's archived
+* An asset that's in use will continue to work even after it is archived
 * You can use a filter to select archived assets for use in reports
 * Archived assets are not deactivated. They must also be deactivated if you want them to stop running

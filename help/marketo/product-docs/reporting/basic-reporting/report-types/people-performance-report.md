@@ -13,7 +13,7 @@ Use a [!UICONTROL People Performance] Report to measure database growth over tim
 
 1. [Set the time frame of your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the **[!UICONTROL Report]** tab.
 
-1. Great! Now you're ready to explore your [!UICONTROL People Performance] report. Learn how to get even more from it in the list below.
+1. Great! Now you are ready to explore your [!UICONTROL People Performance] report. Learn how to get even more from it in the list below.
 
    >[!NOTE]
    >

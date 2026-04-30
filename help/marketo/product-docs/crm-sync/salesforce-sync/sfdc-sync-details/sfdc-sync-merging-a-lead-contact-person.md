@@ -7,7 +7,7 @@ feature: Salesforce Integration
 ---
 # SFDC Sync: Merging a Lead/Contact/Person {#sfdc-sync-merging-a-lead-contact-person}
 
-Sometimes it's best to just list the rules. Here we go:
+Sometimes it is best to just list the rules. Here we go:
 
 * When you merge two leads in **[!DNL Salesforce]**, the normal sync tells Marketo and the leads are merged automatically as people in Marketo.
 * Merging two people in **Marketo** actually invokes the same process as merging them as leads in [!DNL Salesforce]. It still works automatically.

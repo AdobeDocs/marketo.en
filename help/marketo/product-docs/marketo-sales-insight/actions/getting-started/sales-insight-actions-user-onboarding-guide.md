@@ -25,7 +25,7 @@ New users will need to follow the steps below.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-2.png)
 
-1. If you're already logged in to your [!DNL Salesforce] account, you'll automatically be directed to the next screen. If you're not logged in, do so now.
+1. If you are already logged in to your [!DNL Salesforce] account, you'll automatically be directed to the next screen. If you are not logged in, do so now.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-3.png)
 
@@ -81,7 +81,7 @@ New users will need to follow the steps below.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-14.png)
 
-1. When you're done with the tour, or if you skipped it, choose whether to log in directly to the web application or your [!DNL Salesforce] account where you can access all the features from the MSI panel (in this example we're choosing **[!UICONTROL Launch Salesforce]**).
+1. When you are done with the tour, or if you skipped it, choose whether to log in directly to the web application or your [!DNL Salesforce] account where you can access all the features from the MSI panel (in this example we're choosing **[!UICONTROL Launch Salesforce]**).
 
    ![](assets/sales-insight-actions-user-onboarding-guide-15.png)
 

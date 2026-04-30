@@ -60,7 +60,7 @@ Following these steps will allow the Marketo sync user to update the custom fiel
    >
    >Create two columns for the fields by dragging down to the right side of the page. You can move fields from one side to the other to balance the column lengths.
 
-1. When you're done with the [!UICONTROL HCP-Professional] Layout, click **[!UICONTROL Save]**.
+1. When you are done with the [!UICONTROL HCP-Professional] Layout, click **[!UICONTROL Save]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-6.png)
 

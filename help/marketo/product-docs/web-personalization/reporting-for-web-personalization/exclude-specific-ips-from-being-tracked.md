@@ -19,7 +19,7 @@ You can exclude individual IPs and all or part of a range of IPs.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Scroll down to the **[!UICONTROL IP Exclude]** area. If you're excluding IP addresses for the first time, click in the empty **[!UICONTROL Exclude IP Addresses]** field.
+1. Scroll down to the **[!UICONTROL IP Exclude]** area. If you are excluding IP addresses for the first time, click in the empty **[!UICONTROL Exclude IP Addresses]** field.
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 

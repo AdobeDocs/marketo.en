@@ -7,7 +7,7 @@ feature: Target Account Management
 ---
 # TAM Main Dashboard {#tam-main-dashboard}
 
-The main dashboard provides a summary of your [!UICONTROL Target Account Management] efforts. You're able to see the target accounts or account lists that are showing success, and the ones that need more attention.
+The main dashboard provides a summary of your [!UICONTROL Target Account Management] efforts. You are able to see the target accounts or account lists that are showing success, and the ones that need more attention.
 
 ![](assets/one.png)
 

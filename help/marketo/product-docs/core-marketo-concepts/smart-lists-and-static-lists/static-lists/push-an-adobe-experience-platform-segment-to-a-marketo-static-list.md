@@ -45,7 +45,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    >[!NOTE]
    >
-   >If you are choosing New Account, you can find your Munchkin ID by going to **[!UICONTROL Admin]** > **[!UICONTROL Munchkin]** (it's also part of your Marketo URL once logged in). Client ID/Secret you should have from following the prerequisites at the top of this article.
+   >If you are choosing New Account, you can find your Munchkin ID by going to **[!UICONTROL Admin]** > **[!UICONTROL Munchkin]** (it is also part of your Marketo URL once logged in). Client ID/Secret you should have from following the prerequisites at the top of this article.
 
 1. Choose the destination account and click **[!UICONTROL Select]**.
 
@@ -99,7 +99,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
-1. Now it's time to map the email address. Click **[!UICONTROL Add New Mapping]** again.
+1. Now it is time to map the email address. Click **[!UICONTROL Add New Mapping]** again.
 
    ![](assets/push-an-adobe-experience-platform-segment-17.png)
 
@@ -115,7 +115,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
    >
    >Mapping Email and/or ECID from the **[!UICONTROL Identity Namespace]** tab is the most important thing to do to ensure the person is matched in Marketo. Mapping Email will ensure the highest match rate.
 
-1. Now it's time to choose the source fields. For email, click the cursor icon.
+1. Now it is time to choose the source fields. For email, click the cursor icon.
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
 

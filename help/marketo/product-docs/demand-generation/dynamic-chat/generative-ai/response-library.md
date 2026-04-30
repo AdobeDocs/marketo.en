@@ -79,7 +79,7 @@ Instructions on how to make bulk edits in the [downloaded Excel file](/help/mark
 </tbody>
 </table>
 
-1. After you're done making the edits in your file, go back to the **[!UICONTROL Response library]** tab and click **[!UICONTROL Upload responses]**.
+1. After you are done making the edits in your file, go back to the **[!UICONTROL Response library]** tab and click **[!UICONTROL Upload responses]**.
 
    ![](assets/response-library-9.png)
 
@@ -87,12 +87,12 @@ Instructions on how to make bulk edits in the [downloaded Excel file](/help/mark
 
    ![](assets/response-library-10.png)
 
-1. The confirmation appears and you're all set.
+1. The confirmation appears and you are all set.
 
    ![](assets/response-library-11.png)
 
 ## Filter Your Questions {#filter-your-questions}
 
-By default, questions are listed in order by time/date of creation, with the newest ones showing first. If you're looking for a specific question, apply filters to narrow your search. Filter by topics, task name, and/or approval status.
+By default, questions are listed in order by time/date of creation, with the newest ones showing first. If you are looking for a specific question, apply filters to narrow your search. Filter by topics, task name, and/or approval status.
 
    ![](assets/response-library-12.png)

@@ -6,23 +6,23 @@ feature: Integrations
 ---
 # Adobe Experience Cloud Interface Overview {#adobe-experience-cloud-interface-overview}
 
-Adobe Experience Cloud Interface aligns the "shell" look and feel of Adobe Experience Cloud applications and services. But, it's more than just a new design. It's a single-page application that delivers user experience in a single instance.
+Adobe Experience Cloud Interface aligns the "shell" look and feel of Adobe Experience Cloud applications and services. But, it is more than a new design. It is a single-page application that delivers user experience in a single instance.
 
 ## User Flow {#user-flow}
 
-If you're not already logged in to an Adobe Experience Cloud product, log in directly to [!DNL Marketo Engage] here: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
+If you are not already logged in to an Adobe Experience Cloud product, log in directly to [!DNL Marketo Engage] here: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-If you _are_ already logged in to an Adobe Experience Cloud product, simply click the menu icon and select **[!DNL Marketo Engage]**.
+If you _are_ already logged in to an Adobe Experience Cloud product, click the menu icon and select **[!DNL Marketo Engage]**.
 
    ![](assets/unified-shell-overview-1.png)
 
 >[!NOTE]
 >
->Your drop-down menu may look different depending on which Adobe Experience Cloud products you're subscribed to.
+>Your drop-down menu may look different depending on which Adobe Experience Cloud products you are subscribed to.
 
 ## New Features {#new-features}
 
-In addition to the updated look and feel, you'll notice the following features:
+In addition to the updated look and feel, the following features are available:
 
 **Integrated Help Center**
 
@@ -50,9 +50,9 @@ Click your profile icon to change your language or other Adobe-wide preferences.
 
 ## FAQ {#faq}
 
-**I can't log in to [!DNL Marketo Engage] through the the Experience Cloud Interface. What might the issue be?**
+**I can't log in to [!DNL Marketo Engage] through the Experience Cloud Interface. What might the issue be?**
 
-If you can log in to Adobe Experience Cloud, but then see "Failed to load page" error, the issue could be on the [!DNL Marketo Engage] side. Please contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) for assistance.
+If you can log in to Adobe Experience Cloud, but then see "Failed to load page" error, the issue could be on the [!DNL Marketo Engage] side. Contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) for assistance.
 
 **Where did User History, Global Search, Marketo Notifications, and the Task Tray go?**
 

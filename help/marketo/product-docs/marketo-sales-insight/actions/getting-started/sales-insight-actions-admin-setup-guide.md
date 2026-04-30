@@ -58,7 +58,7 @@ feature: Sales Insight Actions
 
    >[!NOTE]
    >
-   >If you're not seeing a Client ID and Client Secret on the Integration Information card, activate your Actions instance by inviting the first user, and you'll see the Client ID and Client Secret appear.
+   >If you are not seeing a Client ID and Client Secret on the Integration Information card, activate your Actions instance by inviting the first user, and you'll see the Client ID and Client Secret appear.
 
 1. Click **Sales Insight**, then **Actions Config**. Select from a list of Marketo admins to invite and click **Send Invite**.
 
@@ -88,7 +88,7 @@ The user will receive an email with steps to get access to the account.
 
    ![](assets/msi-actions-admin-guide-6.png)
 
-If you're already logged in to Salesforce, you'll be connected. If you're not, you'll be asked to log in.
+If you are already logged in to Salesforce, you'll be connected. If you are not, you'll be asked to log in.
 
 ## Connect Marketo to Your Sales Apps Account {#connect-marketo-to-your-sales-apps-account}
 

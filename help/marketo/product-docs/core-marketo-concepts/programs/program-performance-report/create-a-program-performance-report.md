@@ -11,7 +11,7 @@ See great stats on your programs with this report.
 
 1. [Create a report in a program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} and select the **[!UICONTROL Program Performance]** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 1. Click the **[!UICONTROL Report]** tab.
-1. You're there! Explore your report to see how your programs are doing.
+1. You are there! Explore your report to see how your programs are doing.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 

@@ -19,7 +19,7 @@ New Account Discovery can help you find new accounts to target by using AI-power
 
 >[!TIP]
 >
->It's recommended to press the **Update Existing Accounts** button before performing a new account search to ensure you are looking at the most recent data. This update can take up to 24 hours.
+>it is recommended to press the **Update Existing Accounts** button before performing a new account search to ensure you are looking at the most recent data. This update can take up to 24 hours.
 
 1. In My Marketo, click **[!UICONTROL Target Account Management]**.
 

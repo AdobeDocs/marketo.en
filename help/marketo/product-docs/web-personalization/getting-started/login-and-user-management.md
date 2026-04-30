@@ -19,7 +19,7 @@ feature: Web Personalization
 
    >[!NOTE]
    >
-   >If the Web Personalization (WP) user role already exists, make sure it's configured as shown in Step 4.
+   >If the Web Personalization (WP) user role already exists, make sure it is configured as shown in Step 4.
 
 1. Click **[!UICONTROL New Role]**.
 

@@ -42,7 +42,7 @@ Create an Interactive Webinar in a few easy steps.
 
    >[!NOTE]
    >
-   >* The webinar's title **is** visible to participants when they join. It's important that the title is different from the name of the Interactive Webinars Event Program in your Marketo Engage instance, as well as the name of the webinar room.
+   >* The webinar's title **is** visible to participants when they join. It is important that the title is different from the name of the Interactive Webinars Event Program in your Marketo Engage instance, as well as the name of the webinar room.
    >
    >* You cannot reuse a webinar title. Each one must be unique in your Marketo instance.
    >
@@ -58,4 +58,4 @@ Create an Interactive Webinar in a few easy steps.
 >
 >It is recommended that two consecutive events are spaced out by 30 minutes (unless the license supports concurrent webinars) as a buffer in case the previous webinar runs beyond its scheduled time.
 
-Now, it's time to [design your webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+Now, it is time to [design your webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.

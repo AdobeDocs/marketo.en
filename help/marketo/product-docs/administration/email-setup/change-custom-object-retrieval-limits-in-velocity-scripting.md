@@ -6,7 +6,7 @@ feature: Email Setup
 ---
 # Change Custom Object Retrieval Limits in [!DNL Velocity Scripting] {#change-custom-object-retrieval-limits-in-velocity-scripting}
 
-If you use [!DNL Velocity Script] to display Custom Object data in emails, this feature may apply to your use case. By default, you're allowed access to 10 parent custom objects from Velocity Script. If you need to access more, see the steps below.
+If you use [!DNL Velocity Script] to display Custom Object data in emails, this feature may apply to your use case. By default, you are allowed access to 10 parent custom objects from Velocity Script. If you need to access more, see the steps below.
 
 ## What is [!DNL Velocity] {#what-is-velocity}
 

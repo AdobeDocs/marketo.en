@@ -41,6 +41,6 @@ Limit the amount of people who can register for your event with an event cap.
 
    ![](assets/setting-an-event-cap-5.png)
 
-   You're all set. If you decide you want to edit the event cap details, click the blue text next to [!UICONTROL Event Cap].
+   You are all set. If you decide you want to edit the event cap details, click the blue text next to [!UICONTROL Event Cap].
 
    ![](assets/setting-an-event-cap-6.png)

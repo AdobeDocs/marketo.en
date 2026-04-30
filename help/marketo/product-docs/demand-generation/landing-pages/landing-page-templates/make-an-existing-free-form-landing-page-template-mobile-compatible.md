@@ -61,7 +61,7 @@ If you make any changes to the template, Click [!UICONTROL Template Actions] and
 
 ## Upgrading a Template from the Free-form Landing Page Editor {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
-When you're editing a landing page and you click on the mobile tab, you'll sometimes notice the template has not been upgraded. Fear not! You can upgrade it right there.
+When you are editing a landing page and you click on the mobile tab, you'll sometimes notice the template has not been upgraded. Fear not! You can upgrade it right there.
 
 1. Click the **[!UICONTROL Mobile]** tab.
 

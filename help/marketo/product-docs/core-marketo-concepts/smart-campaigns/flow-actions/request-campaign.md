@@ -11,7 +11,7 @@ You can place people into a specific campaign by using the "[!UICONTROL Request 
 
 >[!NOTE]
 >
->The campaign you're placing the person into must be active and have the [Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"} trigger.
+>The campaign you are placing the person into must be active and have the [Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"} trigger.
 
 1. In the **[!UICONTROL Database]**, find and select the desired person/people.
 
@@ -25,7 +25,7 @@ You can place people into a specific campaign by using the "[!UICONTROL Request 
 
    ![](assets/request-campaign-3.png)
 
-1. On the upper-right of the screen, you'll see when it's done. Click **[!UICONTROL View Results]**.
+1. On the upper-right of the screen, you'll see when it is done. Click **[!UICONTROL View Results]**.
 
    ![](assets/request-campaign-4.png)
 

@@ -17,7 +17,7 @@ The following features will start to be released on **May 6, 2022**, with a phas
 
 ## Native CRM Integration {#native-crm-integration}
 
-**[Native Veeva CRM Integration](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (limited availability)**: Improve engagement with healthcare professionals by syncing activity between Veeva CRM and Marketo Engage via native integration. This integration allows marketers to create more personalized and seamless cross-channel experiences for healthcare professionals. Please contact your Customer Success Manager if you're interested in participating.
+**[Native Veeva CRM Integration](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (limited availability)**: Improve engagement with healthcare professionals by syncing activity between Veeva CRM and Marketo Engage via native integration. This integration allows marketers to create more personalized and seamless cross-channel experiences for healthcare professionals. Please contact your Customer Success Manager if you are interested in participating.
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
@@ -35,7 +35,7 @@ The following features will start to be released on **May 6, 2022**, with a phas
 
 ## Next-Generation Experience {#modern-ux}
 
-**Toggle Switch Defaulted to the Next-Generation Experience**: The toggle switch will be default to the new experience in all screens where it's available, making it easier for users to discover the updated designs and usability enhancements.
+**Toggle Switch Defaulted to the Next-Generation Experience**: The toggle switch will be default to the new experience in all screens where it is available, making it easier for users to discover the updated designs and usability enhancements.
 
 **Updated Screen in the Next-Generation Experience**:
 

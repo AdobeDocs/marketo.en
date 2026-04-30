@@ -7,7 +7,7 @@ feature: Smart Campaigns
 ---
 # Change Revenue Stage {#change-revenue-stage}
 
-If you're using Revenue Cycle Modeler and have an approved model, you may decide to move people manually from one stage to another. This flow step will help.
+If you are using Revenue Cycle Modeler and have an approved model, you may decide to move people manually from one stage to another. This flow step will help.
 
 ![](assets/change-revenue-stage-1.png)
 
@@ -15,7 +15,7 @@ If you're using Revenue Cycle Modeler and have an approved model, you may decide
 
    ![](assets/change-revenue-stage-2.png)
 
-1. Select the **[!UICONTROL New Stage]** you want to assign and you're done!
+1. Select the **[!UICONTROL New Stage]** you want to assign and you are done!
 
    ![](assets/change-revenue-stage-3.png)
 

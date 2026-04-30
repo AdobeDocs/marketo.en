@@ -47,7 +47,7 @@ If you want to capture URL Parameters (Query Strings) from the page the person i
 
 ## Cookie Value {#cookie-value}
 
-If you're storing data in cookies, you can use **[!UICONTROL Cookie Value]** to pick up data when the form is submitted.
+If you are storing data in cookies, you can use **[!UICONTROL Cookie Value]** to pick up data when the form is submitted.
 
 1. Select **[!UICONTROL Cookie Value]** for **[!UICONTROL Get Value From]**.
 

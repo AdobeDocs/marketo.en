@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 ---
 # My Dynamic Fields Aren't Filling Out {#my-dynamic-fields-arent-filling-out}
 
-Dynamic fields will only work when you're using a template. Individual one-off emails that you write won't fill these out.
+Dynamic fields will only work when you are using a template. Individual one-off emails that you write won't fill these out.
 
 ## What to Check {#what-to-check}
 
@@ -17,7 +17,7 @@ There are three types of dynamic fields in [!DNL Sales Connect]: Basic, Custom, 
 
 [!DNL Salesforce] Fields: e.g. `{{sfdc_account_name}}`
 
-* Make sure it's properly hooked up with [!DNL Sales Connect]. Go to the [Settings](https://toutapp.com/login) page and click **[!UICONTROL Manage]** next to your CRM.
+* Make sure it is properly hooked up with [!DNL Sales Connect]. Go to the [Settings](https://toutapp.com/login) page and click **[!UICONTROL Manage]** next to your CRM.
 
 **Troubleshooting Basic and Custom Fields**
 
@@ -25,7 +25,7 @@ Tout Basic Fields: e.g. `{{company}}`
 
 Tout Custom Fields: e.g. `{{custom_field_favorite_movie}}`
 
-* The corresponding field needs to be saved for your contact in the [People page](https://toutapp.com/next#relationships) for our dynamic field to reference. For example, if you're sending an email to Mary and using the `{{company}}` field, but her contact record doesn't list a company, we won't be able to fill that out.
+* The corresponding field needs to be saved for your contact in the [People page](https://toutapp.com/next#relationships) for our dynamic field to reference. For example, if you are sending an email to Mary and using the `{{company}}` field, but her contact record doesn't list a company, we won't be able to fill that out.
 
 ## Why Did My Email Send Without Populating All Dynamic Fields? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 

@@ -39,7 +39,7 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/lead
 
    ![](assets/set-up-facebook-lead-ads-4.png)
 
-1. After you're logged into [!DNL Facebook], return to Marketo and click **[!UICONTROL Authorize]**.
+1. After you are logged into [!DNL Facebook], return to Marketo and click **[!UICONTROL Authorize]**.
 
    ![](assets/set-up-facebook-lead-ads-5.png)
 
@@ -55,7 +55,7 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/lead
 
    >[!TIP]
    >
-   >If you don't see a page you're expecting, ensure that the [!DNL Facebook] account used to authenticate is added to the page on [!DNL Facebook] and try again.
+   >If you don't see a page you are expecting, ensure that the [!DNL Facebook] account used to authenticate is added to the page on [!DNL Facebook] and try again.
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 

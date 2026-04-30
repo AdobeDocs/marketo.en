@@ -24,7 +24,7 @@ Here's how to create a new Conversational Flow.
    >
    >This will change the language of the system text only. You are responsible for translating content.
 
-1. Just like in Dialogues, at this point it's time to [create a stream](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+1. Just like in Dialogues, at this point it is time to [create a stream](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

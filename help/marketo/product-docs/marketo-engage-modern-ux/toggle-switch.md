@@ -8,7 +8,7 @@ feature: Modern UX
 ---
 # Toggle Switch {#toggle-switch}
 
-The Toggle Switch allows you to switch between Marketo's classic interface and the Modern UX. It's available in all of the areas highlighted below.
+The Toggle Switch allows you to switch between Marketo's classic interface and the Modern UX. It is available in all of the areas highlighted below.
 
 >[!NOTE]
 >

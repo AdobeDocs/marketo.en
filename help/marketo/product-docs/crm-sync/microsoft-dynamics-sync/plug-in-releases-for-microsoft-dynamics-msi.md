@@ -9,7 +9,7 @@ feature: Microsoft Dynamics
 
 When you first sync to [!DNL Microsoft Dynamics], you download and install the latest version of the plug-ins for Marketo Sales Insight (MSI). Periodically, Marketo updates these plug-ins, so you can return to the same place to download the new version.
 
-If you're using Marketo's native CRM sync solution to [!DNL Dynamics], please [download the latest plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your [!DNL Dynamics] release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+If you are using Marketo's native CRM sync solution to [!DNL Dynamics], please [download the latest plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your [!DNL Dynamics] release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ And that's it! After the upgrade you will only see one MSI Solution.
    <p>
    Encrypt Secret key info from user view. The password needs to be changed after importing the new package in order for encryption to occur.
    <p>
-   When updating the MSI for Dynamics plug-in, it's recommended to update both the SOAP API secret key and the MSI credentials as a form of refresh to ensure no access permissions take place with the new package being installed.</td>
+   When updating the MSI for Dynamics plug-in, it is recommended to update both the SOAP API secret key and the MSI credentials as a form of refresh to ensure no access permissions take place with the new package being installed.</td>
   </tr>
   <tr>
    <td>10/18/23</td>

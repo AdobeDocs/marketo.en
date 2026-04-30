@@ -78,6 +78,6 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
 
    ![](assets/fourteen.png)
 
-   And you're done!
+   And you are done!
 
    ![](assets/fifteen.png)

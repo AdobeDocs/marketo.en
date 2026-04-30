@@ -34,7 +34,7 @@ Below are some common terms you'll encounter when using Vibes SMS messages with 
   </tr>
   <tr>
     <td>Custom Short Domain</td>
-    <td>If you're using the Vibes link shortener, the shortened URL will, by default, appear under the Vibes short URL: https://vbs.cm/xxxxxx. A custom short domain is a domain unique to your brand. <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain">Learn more about custom short domains</a>.<p>
+    <td>If you are using the Vibes link shortener, the shortened URL will, by default, appear under the Vibes short URL: https://vbs.cm/xxxxxx. A custom short domain is a domain unique to your brand. <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain">Learn more about custom short domains</a>.<p>
     This only applies to messages sent from the Vibes platform, specifically the acquisition campaign messages and short code default messages.<p>
     The Marketo URL shortener is recommended in order to have click data in your Marketo program.</td>
   </tr>

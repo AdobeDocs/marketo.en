@@ -29,11 +29,11 @@ Individual runs can be used to either run a campaign immediately, or to set up s
 
 >[!TIP]
 >
->It's easier to use the recurrence modal if you're scheduling a series of campaigns.
+>It is easier to use the recurrence modal if you are scheduling a series of campaigns.
 
    ![](assets/settings-tab-3.png)
 
-The recurrence modal includes the ability to set up a recurring schedule on a daily, weekly, or monthly basis. Once set up, you'll be able to see the next three runs in the Settings tab.
+The recurrence modal includes the ability to set up a recurring schedule on a daily, weekly, or monthly basis. Once set up, you will be able to see the next three runs in the Settings tab.
 
    ![](assets/settings-tab-4.png)
 
@@ -50,11 +50,11 @@ The Settings tab also includes a quick overview of your Smart Campaign. It inclu
 
 Permission sets and Errors in Settings tab:
 
-All existing permission sets will be applicable in the Settings tab. If the Edit button is grayed out, please click the help icon to find out why.
+All existing permission sets will be applicable in the Settings tab. If the Edit button is grayed out, click the help icon to find out why.
 
 >[!NOTE]
 >
->If after clicking the help icon you see "Additional Permission Required," please reach out to your Marketo Admin.
+>If after clicking the help icon you see "Additional Permission Required," contact the Adobe Account Team (your account manager).
 
    ![](assets/settings-tab-5.png)
 

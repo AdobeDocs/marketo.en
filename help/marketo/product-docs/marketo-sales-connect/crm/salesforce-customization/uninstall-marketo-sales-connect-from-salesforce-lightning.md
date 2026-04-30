@@ -81,9 +81,9 @@ Here's how to uninstall the Marketo Sales Connect package from your Salesforce a
 
    >[!NOTE]
    >
-   >The abbrevation MSE _is_ Sales Connect. It's just the previous name, "Marketo Sales Engage."
+   >The abbrevation MSE _is_ Sales Connect. It is just the previous name, "Marketo Sales Engage."
 
-1. Click **Save** when you're done with the Leads page.
+1. Click **Save** when you are done with the Leads page.
 
 ## Remove Sales Connect Bulk Action Buttons from Lead List View {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
@@ -177,7 +177,7 @@ Once you've removed all the objects from your Salesforce Account, follow the ste
 
 1. Click **Delete** next to all "MarketoSalesConnectionCustomization" or "MarketoSalesEngageCustomization" entries on your list.
 
-You're all set!
+You are all set!
 
 Here's a list of all the objects that need to be removed from your Salesforce instance:
 

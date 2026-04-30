@@ -53,6 +53,6 @@ What if you want to send an email to a lead on behalf of the Lead Owner?  Here's
 
    ![](assets/ten.png)
 
-1. Make sure the **[!UICONTROL Reply-to]** and **[!UICONTROL Subject]** fields are populated, and you're done!
+1. Make sure the **[!UICONTROL Reply-to]** and **[!UICONTROL Subject]** fields are populated, and you are done!
 
    ![](assets/eleven.png)

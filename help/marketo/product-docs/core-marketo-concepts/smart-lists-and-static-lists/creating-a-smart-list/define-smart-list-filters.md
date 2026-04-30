@@ -38,6 +38,6 @@ Continuing our example, let's define these filters to find all people in Califor
 
 >[!TIP]
 >
->If you think you may have some records in your database that contain incomplete email addresses (e.g., just "@adobe.com"), use two Email Address filters when you're using the "contains" operator. One filter with "contains @adobe.com," and a separate filter with "contains adobe.com" (leaving out the @ symbol).
+>If you think you may have some records in your database that contain incomplete email addresses (e.g., just "@adobe.com"), use two Email Address filters when you are using the "contains" operator. One filter with "contains @adobe.com," and a separate filter with "contains adobe.com" (leaving out the @ symbol).
 
 Now you know how to create a Smart List and add/define filters.

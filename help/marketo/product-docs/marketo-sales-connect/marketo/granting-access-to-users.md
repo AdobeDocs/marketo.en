@@ -18,7 +18,7 @@ You will need to invite users to [!DNL Sales Connect] [here](/help/marketo/produ
 
    >[!NOTE]
    >
-   >You can only do the workspace assignment once at the time of granting access to users. After it's set, you'll have to disconnect the user in order to change it.
+   >You can only do the workspace assignment once at the time of granting access to users. After it is set, you'll have to disconnect the user in order to change it.
 
    ![](assets/granting-access-to-users-1.png)
 

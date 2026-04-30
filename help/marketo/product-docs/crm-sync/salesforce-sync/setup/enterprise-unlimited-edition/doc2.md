@@ -125,7 +125,7 @@ In this article, you will set up user permissions in Salesforce profile, and cre
 
    SCREENSHOT
 
-1. Fill out the required fields. Then, select the User License: Salesforce and the Profile that you previously created. Click Save when you're done.
+1. Fill out the required fields. Then, select the User License: Salesforce and the Profile that you previously created. Click Save when you are done.
 
    SCREENSHOT
 

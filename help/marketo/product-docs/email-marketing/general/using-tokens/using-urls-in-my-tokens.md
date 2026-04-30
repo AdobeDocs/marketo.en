@@ -69,4 +69,4 @@ Follow the steps below to use [!UICONTROL My Tokens] to insert URLs into your em
 
    ![](assets/twelve.png)
 
-   And you're done! Your URL will populate after sending, and thanks to you putting https:// in front of the token, it will produce a trackable link.
+   And you are done! Your URL will populate after sending, and thanks to you putting https:// in front of the token, it will produce a trackable link.

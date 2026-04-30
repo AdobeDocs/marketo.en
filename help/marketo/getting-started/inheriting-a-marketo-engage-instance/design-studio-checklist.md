@@ -156,7 +156,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
   <tr>
    <td>Asset Sharing</td>
    <td><li>Which assets are <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">shared across Workspaces</a>?</li>
-   <p><img src="assets/note-icon.png" alt="note icon"> NOTE: It's important to know this as actions taken in one Workspace might lead to an inaccessible asset in a different Workspace for another user.</td>
+   <p><img src="assets/note-icon.png" alt="note icon"> NOTE: it is important to know this as actions taken in one Workspace might lead to an inaccessible asset in a different Workspace for another user.</td>
   </tr>
  </tbody>
 </table>

@@ -58,7 +58,7 @@ Learn how to design your webinar to suit your needs.
 
 1. For detailed information on rooms and templates, check out the "Meeting room templates and layouts" section of [this Adobe help article](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
-1. When you're done designing your webinar, click **Exit Room**.
+1. When you are done designing your webinar, click **Exit Room**.
 
    ![](assets/designing-interactive-webinars-9.png)
 

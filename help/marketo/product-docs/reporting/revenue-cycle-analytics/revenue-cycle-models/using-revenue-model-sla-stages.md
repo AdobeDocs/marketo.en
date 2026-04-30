@@ -11,7 +11,7 @@ SLA stands for “service level agreement.” These stages are used when there i
 
 >[!TIP]
 >
->It's a great idea to create a practice model in a graphics or presentation program and confirm it with your colleagues.
+>it is a great idea to create a practice model in a graphics or presentation program and confirm it with your colleagues.
 
 ## Add An SLA Stage {#add-an-sla-stage}
 

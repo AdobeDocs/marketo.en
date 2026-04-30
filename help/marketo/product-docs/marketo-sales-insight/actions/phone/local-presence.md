@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 ---
 # Local Presence {#local-presence}
 
-Local Presence gives you the option of making it look like you're calling from your recipient's same area code.
+Local Presence gives you the option of making it look like you are calling from your recipient's same area code.
 
 ## Select Local Presence {#select-local-presence}
 

@@ -30,7 +30,7 @@ Learn how to make changes to your Interactive Webinar.
 
    ![](assets/modify-or-delete-an-interactive-webinar-4.png)
 
-1. When you're done making your modifications, click **Exit Room**.
+1. When you are done making your modifications, click **Exit Room**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 

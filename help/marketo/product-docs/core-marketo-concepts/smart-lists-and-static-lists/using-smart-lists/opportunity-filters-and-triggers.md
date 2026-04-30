@@ -21,7 +21,7 @@ Opportunity filters let you drill into your Salesforce leads who have opportunit
 * Opportunity was Removed
 * Opportunity was Updated
 
-If you're looking for your Opportunity fields (custom or standard), use the **Has Opportunity** filter or **Opportunity was `[Added/Removed/Updated]`** filters or triggers.
+If you are looking for your Opportunity fields (custom or standard), use the **Has Opportunity** filter or **Opportunity was `[Added/Removed/Updated]`** filters or triggers.
 
 **Number of Optys, Total Opty Amount, Total Opty Expected Revenue**
 
@@ -31,7 +31,7 @@ With these filters, you can find leads based on the total number, amount, or exp
 
 **Has Opportunity, Was Added to Opportunity, Was Removed from Opportunity**
 
-If you're looking for leads who have opportunities based on a combination of criteria, use the **Has Opportunity**, **Was Added to Opportunity**, or **Was Removed from Opportunity** filter. They tell you:
+If you are looking for leads who have opportunities based on a combination of criteria, use the **Has Opportunity**, **Was Added to Opportunity**, or **Was Removed from Opportunity** filter. They tell you:
 
 * **Has Opportunity**: If this lead currently has any matching opportunity
 * **Was Added to Opportunity**: If this lead was ever added to a matching opportunity

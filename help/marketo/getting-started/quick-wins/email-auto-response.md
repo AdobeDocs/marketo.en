@@ -102,7 +102,7 @@ feature: Getting Started
 
 >[!NOTE]
 >
->Once active, this campaign will run every time a person fills out the specified form. The campaign will keep running until it's deactivated.
+>Once active, this campaign will run every time a person fills out the specified form. The campaign will keep running until it is deactivated.
 
 ## Step 3: Fill Out the Form {#step-fill-out-the-form}
 

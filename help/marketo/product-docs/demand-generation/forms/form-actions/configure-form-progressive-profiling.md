@@ -90,4 +90,4 @@ Short forms are good! When someone comes back to a form, you can present new fie
 
 Nice job! The work you just did will pay off.
 
-Experiment with this feature and be sure to test. It's advanced, but you can make your forms very dynamic this way.
+Experiment with this feature and be sure to test. It is advanced, but you can make your forms very dynamic this way.

@@ -11,7 +11,7 @@ Tags are attributes that describe your programs and are used to group program ty
 
 >[!NOTE]
 >
->If you use the Revenue Cycle Explorer, a period cost must be defined (even if it's 0) in order for reporting to be available for the program.
+>If you use the Revenue Cycle Explorer, a period cost must be defined (even if it is 0) in order for reporting to be available for the program.
 
 ## Use a Tag in a Program {#use-a-tag-in-a-program}
 

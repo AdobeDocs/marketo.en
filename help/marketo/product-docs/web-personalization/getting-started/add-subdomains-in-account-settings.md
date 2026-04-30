@@ -21,7 +21,7 @@ Here's how to add subdomains to your primary domains in [!UICONTROL Account Sett
 
    ![](assets/add.png)
 
-1. Enter the subdomain URL. Click **[!UICONTROL Add]** or **[!UICONTROL Delete]** to manage your list of subdomains, then click **[!UICONTROL OK]** when you're done.
+1. Enter the subdomain URL. Click **[!UICONTROL Add]** or **[!UICONTROL Delete]** to manage your list of subdomains, then click **[!UICONTROL OK]** when you are done.
 
    ![](assets/newsubdomain.png)
 

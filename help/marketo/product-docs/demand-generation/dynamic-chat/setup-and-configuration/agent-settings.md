@@ -80,11 +80,11 @@ Set your time zone and time/day of week availabilty to receive live chats.
 
    ![](assets/agent-settings-5.png)
 
-If you're logged in to the app, you'll receive an in-app notification of an incoming chat. If you're not logged in, you'll receive a browser notification (if you've [set that up](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
+If you are logged in to the app, you'll receive an in-app notification of an incoming chat. If you are not logged in, you'll receive a browser notification (if you've [set that up](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->* The [availability toggle](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} in the Agent Inbox **will override** what is entered in the _Live chat availability_ tab. So if the agent is scheduled as available from 1p-5p but needs to take a quick break at 3p, they don't need to alter their agent settings. Availability toggle status will remain until it's manually changeed, until the next block of time in the agent's availability is reached, or until midnight of the agent's specified time zone (see the next bullet for more info).
+>* The [availability toggle](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} in the Agent Inbox **will override** what is entered in the _Live chat availability_ tab. So if the agent is scheduled as available from 1p-5p but needs to take a quick break at 3p, they don't need to alter their agent settings. Availability toggle status will remain until it is manually changeed, until the next block of time in the agent's availability is reached, or until midnight of the agent's specified time zone (see the next bullet for more info).
 >
 >* When the agent uses the availability toggle to change their status to "available," their status automatically resets (switches to not available) at midnight of the time zone specified in their availabilty schedule. If no time zone is specified, it defaults to UTC (Coordinated Universal Time).
 

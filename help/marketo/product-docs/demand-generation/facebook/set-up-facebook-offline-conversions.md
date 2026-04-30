@@ -44,7 +44,7 @@ By sending offline conversion data back to [!DNL Facebook] for people created vi
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   Sweet! You're halfway done enabling [!DNL Facebook] Offline Conversions. Let's hop over to the Revenue Cycle Modeler to map the stages.
+   Sweet! You are halfway done enabling [!DNL Facebook] Offline Conversions. Let's hop over to the Revenue Cycle Modeler to map the stages.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
@@ -77,11 +77,11 @@ By sending offline conversion data back to [!DNL Facebook] for people created vi
 
    ![](assets/1-1.png)
 
-1. When you're done mapping, close the model.
+1. When you are done mapping, close the model.
 
    ![](assets/2.png)
 
-1. Approve your model and you're done!
+1. Approve your model and you are done!
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 

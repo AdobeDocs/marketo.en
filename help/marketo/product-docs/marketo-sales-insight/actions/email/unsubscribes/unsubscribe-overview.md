@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 ---
 # Unsubscribe Overview {#unsubscribe-overview}
 
-It's becoming increasingly important for organizations to be in compliance with email privacy laws. To help with this, we've made some enhancements to our unsubscribe experience.
+It is becoming increasingly important for organizations to be in compliance with email privacy laws. To help with this, we've made some enhancements to our unsubscribe experience.
 
 * Unsubscribe links are placed on all emails sent from [!DNL Marketo Sales] and [!DNL Salesforce] (this does not apply to custom emails sent from [!DNL Outlook] or Gmail)
 * Admins can edit unsubscribe messaging for their entire team
@@ -32,13 +32,13 @@ Use the search bar to look up any unsubscribed people.
 
 ![](assets/unsubscribe-overview-3.png)
 
-If you're an Admin, you can go to the unsubscribe group to filter by [!UICONTROL Account Unsubscribes] and see all of the unsubscribes that have been collected in your people database.
+If you are an Admin, you can go to the unsubscribe group to filter by [!UICONTROL Account Unsubscribes] and see all of the unsubscribes that have been collected in your people database.
 
 ![](assets/unsubscribe-overview-4.png)
 
 ## Unsubscribe History Card {#unsubscribe-history-card}
 
-The [!UICONTROL Unsubscribe History] Card helps admins and users get contextual information about their contacts' unsubscribe history. Navigate there by going to the [!UICONTROL People] tab and selecting a person. It's at the bottom of the [!UICONTROL About] tab in the Person Details View.
+The [!UICONTROL Unsubscribe History] Card helps admins and users get contextual information about their contacts' unsubscribe history. Navigate there by going to the [!UICONTROL People] tab and selecting a person. It is at the bottom of the [!UICONTROL About] tab in the Person Details View.
 
 >[!NOTE]
 >

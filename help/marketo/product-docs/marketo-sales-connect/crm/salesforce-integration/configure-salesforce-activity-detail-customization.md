@@ -15,7 +15,7 @@ Activity Detail Customization allows Admins to configure the information that wi
 
 >[!NOTE]
 >
->* Updates made to the subject field in [!DNL Sales Connect] of a reminder task will be reflected in the corresponding [!DNL Salesforce] task's subject field, if you're using the `{{activity_subject}}` dynamic field in your Activity Detail Customization.
+>* Updates made to the subject field in [!DNL Sales Connect] of a reminder task will be reflected in the corresponding [!DNL Salesforce] task's subject field, if you are using the `{{activity_subject}}` dynamic field in your Activity Detail Customization.
 >* Line breaks are not supported when logging information to the [!DNL Salesforce] subject field. Any line breaks in the Activity Detail Customization editor will be removed when a sales task subject is updated.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
@@ -46,7 +46,7 @@ The feature can be used to unlock the following benefits:
 
 >[!NOTE]
 >
->If you're logging email replies as activities to [!DNL Salesforce], they will not use the [!DNL Salesforce] Activity Detail Customization settings. Instead they, will log as "Reply: Email Subject."
+>If you are logging email replies as activities to [!DNL Salesforce], they will not use the [!DNL Salesforce] Activity Detail Customization settings. Instead they, will log as "Reply: Email Subject."
 
 ## Activity Dynamic Fields Supported {#activity-dynamic-fields-supported}
 
@@ -119,7 +119,7 @@ When configuring your activity details, consider what data would be most relevan
 
    >[!TIP]
    >
-   >Although not required, wrapping added text in straight brackets can make it easier for some people to discern between the data when it's populated to a subject field in Salesforce. Example: `[Sales Connect] - {{Activity_type}}`
+   >Although not required, wrapping added text in straight brackets can make it easier for some people to discern between the data when it is populated to a subject field in Salesforce. Example: `[Sales Connect] - {{Activity_type}}`
 
 1. Add any additional dynamic fields you'd like by clicking the **[!UICONTROL Add Dynamic Field]** button.
 

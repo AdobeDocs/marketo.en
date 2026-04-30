@@ -48,7 +48,7 @@ Click the star next to a template to favorite it. You can do this from the templ
 
 ### How to Share a Template {#how-to-share-a-template}
 
-If you're using one of our team accounts, all of your templates are still private by default. Click the green **[!UICONTROL Share]** button at the top of your template to share it with the rest of your team.
+If you are using one of our team accounts, all of your templates are still private by default. Click the green **[!UICONTROL Share]** button at the top of your template to share it with the rest of your team.
 
 ### How to Find Shared Templates {#how-to-find-shared-templates}
 

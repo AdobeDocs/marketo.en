@@ -9,7 +9,7 @@ feature: Reporting, Revenue Cycle Analytics
 
 Each opportunity is a story. Where did you meet the lead? What marketing opportunities affected them during the marketing/sales process?
 
-The Opportunity Influence Analyzer lets you see the whole story. It's even available in Sales Insight!
+The Opportunity Influence Analyzer lets you see the whole story. It is even available in Sales Insight!
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 

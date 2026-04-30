@@ -19,7 +19,7 @@ Utilizing Gmail or [!DNL Exchange] comes with some distinct advantages over othe
 * Authentication methods such as SPF and DKIM are already configured and managed by your IT team, so there is no additional setup.
 * Sending emails within a given email network (i.e., sending an email as an [!DNL Exchange] user to a company that receives emails through [!DNL Exchange]) can help further increase deliverability.
 
-It's important to note that these delivery channels have their own sending limits which are enforced by Microsoft and Google. To combat this, we utilize a throttling mechanism to help users stay within those limits. Learn more about [email throttling here](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+It is important to note that these delivery channels have their own sending limits which are enforced by Microsoft and Google. To combat this, we utilize a throttling mechanism to help users stay within those limits. Learn more about [email throttling here](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >

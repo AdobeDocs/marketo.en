@@ -33,7 +33,7 @@ Yes and No. With the initial release of [!UICONTROL Email Insights], all email e
 
 ## Why do many metrics show zero when I filter by Device Type or Device OS? {#why-do-many-metrics-show-zero-when-i-filter-by-device-type-or-device-os}
 
-With the exception of Click-to-Open-Rate, Opens, Clicks, and Unsubscribes, all other supported metrics are either delivery events or ratios derived from delivery events. Since Device Type and Device OS only apply to Engagement metrics, we simply do not have the information to display. For example, it's an undefined query to ask for the Delivery Rate when filtered by Device Type = mobile, since Marketo would not have received any Engagement metrics for either the underlying Delivery and Sent events. We are exploring ways to apply the Device Type and Device OS from Engagement metrics for ratios comprised both of Engagement and Delivery metrics.
+With the exception of Click-to-Open-Rate, Opens, Clicks, and Unsubscribes, all other supported metrics are either delivery events or ratios derived from delivery events. Since Device Type and Device OS only apply to Engagement metrics, we simply do not have the information to display. For example, it is an undefined query to ask for the Delivery Rate when filtered by Device Type = mobile, since Marketo would not have received any Engagement metrics for either the underlying Delivery and Sent events. We are exploring ways to apply the Device Type and Device OS from Engagement metrics for ratios comprised both of Engagement and Delivery metrics.
 
 ## What does [!UICONTROL Email Insights] do when certain Email clients block images? {#what-does-email-insights-do-when-certain-email-clients-block-images}
 

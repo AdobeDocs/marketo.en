@@ -13,7 +13,7 @@ feature: Web Personalization
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 
-1. Select the report you want to subscribe to and it's frequency. Click **[!UICONTROL Save]**.
+1. Select the report you want to subscribe to and it is frequency. Click **[!UICONTROL Save]**.
 
    ![](assets/email-settings.png)
 

@@ -19,7 +19,7 @@ Follow the below steps to ensure smooth running of the Smart Campaign and preven
    >
    >Red squiggly lines indicate errors or missing information. If not corrected, the campaign will be invalid and won't run.
    >
-   >Also, keep things simple. If you have dozens or hundreds of filters, it's hard to maintain it and keep track. Fewer filters are also faster to load.
+   >Also, keep things simple. If you have dozens or hundreds of filters, it is hard to maintain it and keep track. Fewer filters are also faster to load.
 
    >[!NOTE]
    >

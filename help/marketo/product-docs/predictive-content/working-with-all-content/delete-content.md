@@ -7,7 +7,7 @@ feature: Predictive Content
 ---
 # Delete Content {#delete-content}
 
-When you don't need a piece of content anymore, it's easy to get rid of it.
+When you don't need a piece of content anymore, it is easy to get rid of it.
 
 1. Check the box next to the piece of content you want to remove.
 

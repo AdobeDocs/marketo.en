@@ -10,13 +10,13 @@ Are you starting a new job or taking over an existing instance from another admi
 
 ## Get Set up in the Adobe Marketo Engage Community {#get-set-up}
 
-Make sure you're properly set up in the Marketo Engage Community.
+Make sure you are properly set up in the Marketo Engage Community.
 
 * [**Set up your profile**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"} by filling out required fields (company, solution specializations, country, etc.)
 
 * Read up on the [**Adobe Experience League Community guidelines**](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}.
 
-* Learn how to [**submit a support case**](https://experienceleague.adobe.com/en/support#home){target="_blank"} and confirm you're set up as a [Support Admin](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
+* Learn how to [**submit a support case**](https://experienceleague.adobe.com/en/support#home){target="_blank"} and confirm you are set up as a [Support Admin](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
 
 ## Merge Your Marketo Engage Community Profiles {#merge-your-community-profiles}
 
@@ -38,7 +38,7 @@ After you create your profile with your new account info, submit a request to <a
 
 ### Step three: Complete merge and re-log in {#complete-merge}
 
-The Adobe Community team will merge your Community profiles in 4-6 business days. Once it's completed, you'll see your engagement history in your new Community Profile upon log in. 
+The Adobe Community team will merge your Community profiles in 4-6 business days. Once it is completed, you'll see your engagement history in your new Community Profile upon log in. 
 
 If you don't see your engagement history, try the following:
 

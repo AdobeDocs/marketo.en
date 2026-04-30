@@ -173,7 +173,7 @@ Now all you need to do is add meeting booking and select the intents for which y
 They can select any number of them.
 
 7:44
-And then once you're done with this, you go back to configuring the concierge.
+And then once you are done with this, you go back to configuring the concierge.
 
 7:51
 And the last step would be is to configure the brand expression.

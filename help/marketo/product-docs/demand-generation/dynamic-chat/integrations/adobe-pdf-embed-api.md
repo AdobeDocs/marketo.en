@@ -24,7 +24,7 @@ The Document card allows you to embed PDF documents in Dialogues and track docum
 
    >[!IMPORTANT]
    >
-   >You'll need to use the domain on which you'll be hosting the chatbot (e.g., if you're hosting the chatbot on mycompany.com, make sure you enter that in Step 4).
+   >You'll need to use the domain on which you'll be hosting the chatbot (e.g., if you are hosting the chatbot on mycompany.com, make sure you enter that in Step 4).
 
 1. Click **[!UICONTROL Copy]** to copy your Client ID.
 

@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 ---
 # Adding Custom Measures to a Revenue Explorer Report {#adding-custom-measures-to-a-revenue-explorer-report}
 
-Sometimes, you want a custom measure in a report. It's easy to create your own.
+Sometimes, you want a custom measure in a report. It is easy to create your own.
 
 In the example below, you are creating a calculated measure for soft bounces, which takes metrics already in the report and uses basic math to create a new metric. You can create other types of measures, too.
 
@@ -33,7 +33,7 @@ In the example below, you are creating a calculated measure for soft bounces, wh
    >
    >You can type the math symbols yourself or use the selection box.
 
-1. When you're done, click **[!UICONTROL OK]**.
+1. When you are done, click **[!UICONTROL OK]**.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 

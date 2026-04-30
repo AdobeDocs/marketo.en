@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Understanding Anonymous Activity and People {#understanding-anonymous-activity-and-people}
 
-The first time someone visits a Marketo landing page (or a page on your website that has the [Munchkin Tracking Code](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}), Marketo creates an *anonymous activity* and uses a browser cookie to track it. Once it's identified, it becomes a person and the history associated with their browser cookie is merged in.
+The first time someone visits a Marketo landing page (or a page on your website that has the [Munchkin Tracking Code](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}), Marketo creates an *anonymous activity* and uses a browser cookie to track it. Once it is identified, it becomes a person and the history associated with their browser cookie is merged in.
 
 >[!IMPORTANT]
 >

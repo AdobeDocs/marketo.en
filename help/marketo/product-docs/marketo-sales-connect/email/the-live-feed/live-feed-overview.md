@@ -95,4 +95,4 @@ See your top people (ordered from highest to lowest) ranked by lead score. The l
 
 >[!NOTE]
 >
->If you're seeing someone view your email over and over in your Live Feed, they could have forwarded the email to additional recipients. This is most likely the case if you notice the location start to change for those views.
+>If you are seeing someone view your email over and over in your Live Feed, they could have forwarded the email to additional recipients. This is most likely the case if you notice the location start to change for those views.

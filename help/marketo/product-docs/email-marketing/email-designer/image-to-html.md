@@ -82,7 +82,7 @@ The image to HTML converter is ideal for:
 **Before you start**
 
 * **Save existing content**: Converting an image to HTML will replace all existing content in your email. Always save your current work before using this feature.
-* **Plan your workflow**: Use the image to HTML converter at the beginning of your email creation process, or ensure you're ready to replace all current content.
+* **Plan your workflow**: Use the image to HTML converter at the beginning of your email creation process, or ensure you are ready to replace all current content.
 
 **Image preparation**
 
@@ -131,7 +131,7 @@ Be aware of the following limitations when using the Image to HTML converter.
 
 +++What happens to my existing email content when I use the image to HTML converter?
 
-All existing content in your email will be deleted and replaced with the newly generated template when you upload an image for conversion. Make sure to save any important content before using this feature. It's best to use the image to HTML converter at the beginning of your email creation process.
+All existing content in your email will be deleted and replaced with the newly generated template when you upload an image for conversion. Make sure to save any important content before using this feature. It is best to use the image to HTML converter at the beginning of your email creation process.
 
 +++
 

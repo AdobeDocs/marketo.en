@@ -10,7 +10,7 @@ Similar to Marketo Engage Smart Lists, Audience Criteria attributes allow you to
 
 ## Priority {#priority}
 
-Priority determines which Dialogue a lead receives in the case they qualify for more than one. It's established when you first [create your Dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. You can change the priority for an exisiting Dialogue by opening it and going to **[!UICONTROL Dialogue Details]** in the Audience Criteria tab.
+Priority determines which Dialogue a lead receives in the case they qualify for more than one. It is established when you first [create your Dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. You can change the priority for an exisiting Dialogue by opening it and going to **[!UICONTROL Dialogue Details]** in the Audience Criteria tab.
 
    ![](assets/audience-criteria-1.png)
 

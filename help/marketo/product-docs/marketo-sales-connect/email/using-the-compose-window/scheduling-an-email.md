@@ -17,7 +17,7 @@ Follow these easy steps to schedule an email.
 
    ![](assets/one-1.png)
 
-1. When you're done composing your email, click **[!UICONTROL Schedule]** on the bottom right
+1. When you are done composing your email, click **[!UICONTROL Schedule]** on the bottom right
 
    ![](assets/two-1.png)
 

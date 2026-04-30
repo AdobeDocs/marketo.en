@@ -17,11 +17,11 @@ feature: Reporting, Revenue Cycle Analytics
 
    ![](assets/two.png)
 
-1. Choose the new stage for leads currently in the one selected, or select **[!UICONTROL None]** to remove the leads from your model. When you're done, click **[!UICONTROL Merge]**.
+1. Choose the new stage for leads currently in the one selected, or select **[!UICONTROL None]** to remove the leads from your model. When you are done, click **[!UICONTROL Merge]**.
 
    ![](assets/three.png)
 
-1. When you're done making changes to the model, re-approve it by selecting **[!UICONTROL Approve Model Draft]** in the **[!UICONTROL Model Actions]** menu.
+1. When you are done making changes to the model, re-approve it by selecting **[!UICONTROL Approve Model Draft]** in the **[!UICONTROL Model Actions]** menu.
 
    ![](assets/four.png)
 

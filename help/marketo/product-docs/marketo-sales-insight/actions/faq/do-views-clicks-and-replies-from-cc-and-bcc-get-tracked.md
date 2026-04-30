@@ -7,4 +7,4 @@ exl-id: 9a839c61-7fcc-4a7f-a99e-ec5a4c2cc4f9
 
 You can CC and BCC individuals like you normally would on your emails.
 
-When it comes to tracking, however, our service is unable to differentiate between who opened your email (whether it was the original recipient or the person copied). You can occasionally guess this based on the user's location and browser, but it's not an exact science.
+When it comes to tracking, however, our service is unable to differentiate between who opened your email (whether it was the original recipient or the person copied). You can occasionally guess this based on the user's location and browser, but it is not an exact science.

@@ -21,7 +21,7 @@ You can unapprove any title for predictive content on your [!UICONTROL All Conte
 
 ## [!UICONTROL Edit Content] Pop-up {#edit-content-pop-up}
 
-You can unapprove a title while you're editing it.
+You can unapprove a title while you are editing it.
 
 1. Hover over a piece of content, then click the edit icon at the end of the row.
 

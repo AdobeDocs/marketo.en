@@ -73,7 +73,7 @@ Using tokens can simplify your efforts in Marketo Engage. You can use [My Tokens
 
 >[!CAUTION]
 >
->When you delete a My Token, make sure it is not currently referenced in any asset. A blank space will display in any place it's referenced if deleted.
+>When you delete a My Token, make sure it is not currently referenced in any asset. A blank space will display in any place it is referenced if deleted.
 
 1. Select the token you wish to delete and click **[!UICONTROL Delete Token]**.
 

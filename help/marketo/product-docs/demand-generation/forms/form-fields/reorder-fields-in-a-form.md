@@ -7,7 +7,7 @@ feature: Forms
 ---
 # Reorder Fields in a Form {#reorder-fields-in-a-form}
 
-It's easy to re-order fields on a Marketo form. Here's how.
+It is easy to re-order fields on a Marketo form. Here's how.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 

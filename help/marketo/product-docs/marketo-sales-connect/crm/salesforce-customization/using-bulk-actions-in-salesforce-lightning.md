@@ -18,7 +18,7 @@ Learn how to perform bulk actions, like adding leads to a campaign, send a bulk 
 
 >[!NOTE]
 >
->Before following the steps below, make sure you're logged in to your [!DNL Marketo Sales Connect] account.
+>Before following the steps below, make sure you are logged in to your [!DNL Marketo Sales Connect] account.
 
 ## Bulk Email {#bulk-email}
 
@@ -28,7 +28,7 @@ Learn how to perform bulk actions, like adding leads to a campaign, send a bulk 
 
    >[!NOTE]
    >
-   >If you're already on the list you'll be using, you'll have to execute it again by choosing it from the drop-down in order to make sure the MSC bulk action buttons show up. This is [!DNL Salesforce] behavior that cannot be changed.
+   >If you are already on the list you'll be using, you'll have to execute it again by choosing it from the drop-down in order to make sure the MSC bulk action buttons show up. This is [!DNL Salesforce] behavior that cannot be changed.
 
 1. Click the arrow drop-down (on the far right of the screen) and select **[!UICONTROL Email with MSC]**.
 

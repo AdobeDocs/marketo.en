@@ -11,11 +11,11 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
 >[!AVAILABILITY]
 >
->Not everyone has purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
+>Not everyone has purchased this feature. Contact the Adobe Account Team (your Account Manager) for details.
 
 >[!PREREQUISITES]
 >
->Make sure you've already performed the [AEM Configuration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>Ensure the [AEM Configuration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) has already been performed.
 
 >[!IMPORTANT]
 >
@@ -33,7 +33,7 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
    ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
-1. Log in to Adobe Experience Manager (if you haven't already).
+1. Log in to Adobe Experience Manager (if not already logged in).
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
@@ -49,7 +49,7 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   And that's it! Click **[!UICONTROL Close]** to return to the Design Studio.
+   Click **[!UICONTROL Close]** to return to the Design Studio.
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
@@ -57,6 +57,6 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
 * Marketo currently supports Adobe Experience Manager versions 6.4 and 6.5.
 
-* All users in your instance will be able to view/access the images you import.
+* All users in your instance will be able to view and access the images you import.
 
 * Images are not automatically updated. If an image you imported into the Marketo [!DNL Design Studio] is updated in AEM, you must manually re-import it into Marketo.

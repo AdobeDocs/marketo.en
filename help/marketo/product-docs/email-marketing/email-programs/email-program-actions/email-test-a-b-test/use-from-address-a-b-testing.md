@@ -47,6 +47,6 @@ You can easily A/B test your emails. One interesting test is the **[!UICONTROL F
 
    >[!CAUTION]
    >
-   >**We recommend you avoid setting the sample size to 100%**. If you're using a static list, setting the sample size to 100% sends the email to everyone in the audience and the winner goes to no one. If you're using a **smart** list, setting the sample size to 100% sends the email to everyone in the audience _at that time_. When the email program runs again at a later date, any new people who qualify for the smart list will also receive the email since they're now included in the audience.
+   >**We recommend you avoid setting the sample size to 100%**. If you are using a static list, setting the sample size to 100% sends the email to everyone in the audience and the winner goes to no one. If you are using a **smart** list, setting the sample size to 100% sends the email to everyone in the audience _at that time_. When the email program runs again at a later date, any new people who qualify for the smart list will also receive the email since they're now included in the audience.
 
    OK, we're almost there. Now we need to [define the A/B test winner criteria](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).

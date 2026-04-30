@@ -172,6 +172,6 @@ Click **[!UICONTROL Refresh Model]** in order for those changes to take effect.
 
 ![](assets/refresh-button.png)
 
-When you're done tuning your model (after you refresh it), go back to the Model Results tab and click **[!UICONTROL Save & Apply Ranks]**.
+When you are done tuning your model (after you refresh it), go back to the Model Results tab and click **[!UICONTROL Save & Apply Ranks]**.
 
 ![](assets/ranks.png)

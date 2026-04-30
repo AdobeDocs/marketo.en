@@ -37,4 +37,4 @@ Marketo gives you the ability to share a model(s) across workspaces. Here's how.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-It's that easy! Now people from other workspaces can move through the shared model.
+It is that easy! Now people from other workspaces can move through the shared model.

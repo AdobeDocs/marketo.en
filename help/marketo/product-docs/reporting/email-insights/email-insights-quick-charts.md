@@ -57,7 +57,7 @@ In this example, we'll choose open rate for the first three weeks of February, 2
 
 ## Delete a Quick Chart {#delete-a-quick-chart}
 
-Want to delete one of your Quick Charts? It's easy!
+Want to delete one of your Quick Charts? It is easy!
 
 1. Click the **[!UICONTROL Quick Charts]** icon.
 

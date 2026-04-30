@@ -9,7 +9,7 @@ exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 
 Modern demand marketing strategies require end-to-end engagement to deliver the best possible customer experiences. Learn how to achieve this with Marketo Engage&mdash;part of Adobe Experience Cloud&mdash;by viewing our range of docs, guides, and tutorials.
 
-Whether you're just getting started and want an introductory Marketo Engage tutorial, or you're an experienced user looking to get more out of your subscription, you'll find all the answers you need in the Marketo Engage Product Docs.
+Whether you are just getting started and want an introductory Marketo Engage tutorial, or you are an experienced user looking to get more out of your subscription, you'll find all the answers you need in the Marketo Engage Product Docs.
 
 ## Get started
 

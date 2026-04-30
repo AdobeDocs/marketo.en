@@ -11,7 +11,7 @@ Predictive content engages your web visitors with the most relevant content, pow
 
 >[!NOTE]
 >
->It's recommended that you enable over five pieces of content per category and per source (email, rich media, bar) before testing and using Predictive Content. More content gives you a better predictive outcome.
+>it is recommended that you enable over five pieces of content per category and per source (email, rich media, bar) before testing and using Predictive Content. More content gives you a better predictive outcome.
 
 >[!PREREQUISITES]
 >

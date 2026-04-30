@@ -107,7 +107,7 @@ In this tutorial, you learn how to import people from a spreadsheet file into Ma
 
    >[!TIP]
    >
-   >Column headers should always match the field exactly (case sensitive) to achieve the best auto-mapping results. If you're using custom fields and don't see them in the drop-down, go back and [create them](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} so they can become options.
+   >Column headers should always match the field exactly (case sensitive) to achieve the best auto-mapping results. If you are using custom fields and don't see them in the drop-down, go back and [create them](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} so they can become options.
 
    >[!NOTE]
    >

@@ -36,7 +36,7 @@ This gives you two options:
 >
 >[Learn more](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) about how Marketo calculates time zones for recipients.
 
-Let's consider this scenario in more detail. Say you're in San Francisco, scheduling an email at 7:00am for a **9:00am** send. In your smart list, there are people from the following regions:
+Let's consider this scenario in more detail. Say you are in San Francisco, scheduling an email at 7:00am for a **9:00am** send. In your smart list, there are people from the following regions:
 
 * San Francisco
 * Texas
@@ -67,7 +67,7 @@ In this second scenario, you approve an email program with **[!UICONTROL Recipie
 
 Now, let's talk about how [[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) works with **[!UICONTROL Recipient Time Zone]**. Our existing Head Start feature requires the program to be scheduled at least 12 hours in advance. So what does that mean for the Recipient Time Zone? Recall that when Recipient Time Zone is enabled, we start running the email program at the scheduled time in the earliest time zone (UTC +14:00). So, to enable **both** Head Start and Recipient Time Zone, email programs need to be scheduled **at least 12 hours ahead of the scheduled time in UTC +14:00.**
 
-This means that if you're in America/Los Angeles and want to enable both Head Start and Recipient Time Zone, you need to schedule the program **34 hours** in advance. How did we get to this number?
+This means that if you are in America/Los Angeles and want to enable both Head Start and Recipient Time Zone, you need to schedule the program **34 hours** in advance. How did we get to this number?
 
 ![](assets/image2017-12-5-13-3a11-3a38.png)
 
@@ -81,7 +81,7 @@ In short, email programs scheduled with Recipient Time Zone need to start runnin
 
 >[!CAUTION]
 >
->Anyone who unsubscribes between the time you start your email send and when it's actually delivered will still receive the email. We recommend adjusting your unsubscribe notification to explain that unsubscribes may take 1-2 business days to process.
+>Anyone who unsubscribes between the time you start your email send and when it is actually delivered will still receive the email. We recommend adjusting your unsubscribe notification to explain that unsubscribes may take 1-2 business days to process.
 
 >[!MORELIKETHIS]
 >

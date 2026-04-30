@@ -34,7 +34,7 @@ feature: Sales Insight Actions
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. Since you're adding to a Marketing campaign, skip selecting a "from" address. You can however choose to add more contacts. If you choose to, click [!UICONTROL Individuals] and type them in. Click **[!UICONTROL Next]** when done.
+1. Since you are adding to a Marketing campaign, skip selecting a "from" address. You can however choose to add more contacts. If you choose to, click [!UICONTROL Individuals] and type them in. Click **[!UICONTROL Next]** when done.
 
    ![](assets/add-to-marketing-campaign-5.png)
 
@@ -54,7 +54,7 @@ PICC
 
 PICC
 
-1. You're shown the contacts that qualify. Click **[!UICONTROL Start]** to get them added.
+1. You are shown the contacts that qualify. Click **[!UICONTROL Start]** to get them added.
 
 PICC
 
@@ -72,7 +72,7 @@ PICC
 
 PICC
 
-1. Since you're adding to a Marketing campaign, skip selecting a "from" address. You can however choose to add more contacts. If you choose to, click [!UICONTROL Individuals] and type them in. Click **[!UICONTROL Next]** when done.
+1. Since you are adding to a Marketing campaign, skip selecting a "from" address. You can however choose to add more contacts. If you choose to, click [!UICONTROL Individuals] and type them in. Click **[!UICONTROL Next]** when done.
 
 PICC
 
@@ -96,6 +96,6 @@ PICC
 
 PICC
 
-1. You're shown the contacts that qualify. Click **[!UICONTROL Start]** to get them added.
+1. You are shown the contacts that qualify. Click **[!UICONTROL Start]** to get them added.
 
 PICC

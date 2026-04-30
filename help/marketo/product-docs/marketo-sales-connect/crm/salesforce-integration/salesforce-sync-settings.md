@@ -19,7 +19,7 @@ This functionality requires you to be on the Enterprise/Unlimited edition of Sal
 
    ![](assets/one-2.png)
 
-1. Under [!UICONTROL My Account] ([!UICONTROL Admin Settings] if you're an Admin), click **[!UICONTROL Salesforce]**.
+1. Under [!UICONTROL My Account] ([!UICONTROL Admin Settings] if you are an Admin), click **[!UICONTROL Salesforce]**.
 
    ![](assets/two-2.png)
 
@@ -49,7 +49,7 @@ Once you activate “Email to Salesforce (BCC)”, you'll receive a BCC of your 
 
    ![](assets/one-3.png)
 
-1. Under [!UICONTROL My Account] ([!UICONTROL Admin Settings] if you're an Admin), click **[!UICONTROL Salesforce]**.
+1. Under [!UICONTROL My Account] ([!UICONTROL Admin Settings] if you are an Admin), click **[!UICONTROL Salesforce]**.
 
    ![](assets/two-3.png)
 
@@ -93,7 +93,7 @@ If you don't see My Email to Salesforce under your Settings, your Admin may not 
 
    ![](assets/one-3.png)
 
-1. Under [!UICONTROL My Account] ([!UICONTROL Admin Settings] if you're an Admin), click **[!UICONTROL Salesforce]**.
+1. Under [!UICONTROL My Account] ([!UICONTROL Admin Settings] if you are an Admin), click **[!UICONTROL Salesforce]**.
 
    ![](assets/two-2.png)
 

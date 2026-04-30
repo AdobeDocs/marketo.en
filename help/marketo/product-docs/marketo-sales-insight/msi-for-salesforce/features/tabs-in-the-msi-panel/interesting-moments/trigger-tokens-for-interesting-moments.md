@@ -1061,4 +1061,4 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
 >
 >Always test out your interesting moments to ensure they render the way you intend.
 >
->Also, make sure it's interesting to the Sales person, not just to you!
+>Also, make sure it is interesting to the Sales person, not just to you!

@@ -21,6 +21,6 @@ If a lead does not exist in Salesforce or is not a member of the campaign yet, i
 
    ![](assets/change-status-in-sfdc-campaign-2.png)
 
-1. Then select the **[!UICONTROL New Status]** you want to set, and you're done!
+1. Then select the **[!UICONTROL New Status]** you want to set, and you are done!
 
    ![](assets/change-status-in-sfdc-campaign-3.png)

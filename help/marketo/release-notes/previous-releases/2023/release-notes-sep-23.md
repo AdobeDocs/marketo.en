@@ -44,7 +44,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
    <tr>
-   <td><strong>Used By Tab Enhancements for Design Studio Assets</strong>: The Used By Enhancement tab provides a more detailed view of the type and name of an asset, along with where it's being used. This is applicable for Email Details and Images & Files Details.</td>
+   <td><strong>Used By Tab Enhancements for Design Studio Assets</strong>: The Used By Enhancement tab provides a more detailed view of the type and name of an asset, along with where it is being used. This is applicable for Email Details and Images & Files Details.</td>
    <td>Released</td>
    <td>n/a</td>
   </tr>

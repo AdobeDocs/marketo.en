@@ -33,7 +33,7 @@ In this article, you'll configure Marketo Engage to sync with your configured [!
 
    >[!NOTE]
    >
-   >Check [!UICONTROL Sandbox] if you're syncing a Marketo Sandbox to a [!DNL Veeva] CRM Sandbox.
+   >Check [!UICONTROL Sandbox] if you are syncing a Marketo Sandbox to a [!DNL Veeva] CRM Sandbox.
 
 1. Click **[!UICONTROL Confirm Credentials]**.
 

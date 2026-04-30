@@ -33,6 +33,6 @@ Focus your [landing page performance report](/help/marketo/product-docs/demand-g
    >
    >If you select a folder, your report will include everything that folder contains at the time the report runs.
 
-1. You're done! Click the **[!UICONTROL Report]** tab to see your filtered report.
+1. You are done! Click the **[!UICONTROL Report]** tab to see your filtered report.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)

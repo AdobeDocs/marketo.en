@@ -18,8 +18,8 @@ As a company, we work hard to ensure that our deliverability rates remain high. 
 
 * Keep your emails short and informal, and paste your templates as an email you've written before.
 
-* Avoid over-formatted emails, or messages where you're using transnational words.
+* Avoid over-formatted emails, or messages where you are using transnational words.
 
 * Make sure you have a fully completed email signature with a physical address.
 
-* Read up and make sure you're complying with [CAN-SPAM laws](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business){target="_blank"}.
+* Read up and make sure you are complying with [CAN-SPAM laws](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business){target="_blank"}.

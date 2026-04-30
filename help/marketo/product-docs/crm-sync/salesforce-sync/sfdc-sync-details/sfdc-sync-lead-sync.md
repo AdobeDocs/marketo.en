@@ -15,7 +15,7 @@ The lead (person) and contact sync is bidirectional. If you make changes to a re
 
 ## What if changes are made in both systems at the same time? {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
-Marketo wins. It's rare that this sort of collision of data occurs.
+Marketo wins. It is rare that this sort of collision of data occurs.
 
 ## Can I create a lead in [!DNL Salesforce] using Marketo? {#can-i-create-a-lead-in-salesforce-using-marketo}
 

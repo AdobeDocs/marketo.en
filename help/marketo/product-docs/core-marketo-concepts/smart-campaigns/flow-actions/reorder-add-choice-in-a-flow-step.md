@@ -29,4 +29,4 @@ Since only the first matching choice applies to a person, order matters. If you 
 
    ![](assets/reorder-add-choice-in-a-flow-step-4.png)
 
-It's that easy to re-organize the order of your flow step choices.
+It is that easy to re-organize the order of your flow step choices.

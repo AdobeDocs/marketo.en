@@ -36,7 +36,7 @@ Remember to [download the checklists](/help/marketo/getting-started/implementing
   <tr>
     <td>Archive</td>
     <td><li>Determine a policy on when to <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder" target="_blank">archive programs and assets</a>.
-    <p><img src="assets/note-icon.png" alt="note icon"> NOTE: After an item is archived, it's removed from select lists as well as reporting.</li></td>
+    <p><img src="assets/note-icon.png" alt="note icon"> NOTE: After an item is archived, it is removed from select lists as well as reporting.</li></td>
   </tr>
   <tr>
     <td>Notifications</td>
@@ -133,7 +133,7 @@ Remember to [download the checklists](/help/marketo/getting-started/implementing
   </tr>
   <tr>
     <td>Privacy & Compliance</td>
-    <td><li>Create programs to ensure you're compliant with data privacy and spam laws such as <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR, CASL, CAN-SPAM, CCPA, etc.</a></li>
+    <td><li>Create programs to ensure you are compliant with data privacy and spam laws such as <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR, CASL, CAN-SPAM, CCPA, etc.</a></li>
     <p><img src="assets/note-icon.png" alt="note icon"> NOTE: Always remember to consult your legal team on these issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
   </tr>
   <tr>
@@ -148,7 +148,7 @@ Remember to [download the checklists](/help/marketo/getting-started/implementing
   <tr>
     <td>Subscription Center</td>
     <td><li>Learn the benefits of setting up a <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">Subscription/Preference Center</a>.</li>
-    <p><img src="assets/tip-icon.png" alt="tip icon">TIP: As there is no one way to set this up, it's recommended to visit the <a href="https://nation.marketo.com/" target="_blank">Marketing Nation Community</a> and search "Subscription Center" to see the different methods your peers are using and choose the one best suited to your needs.</td></td>
+    <p><img src="assets/tip-icon.png" alt="tip icon">TIP: As there is no one way to set this up, it is recommended to visit the <a href="https://nation.marketo.com/" target="_blank">Marketing Nation Community</a> and search "Subscription Center" to see the different methods your peers are using and choose the one best suited to your needs.</td></td>
   </tr>
   <tr>
     <td>Email Deliverability</td>

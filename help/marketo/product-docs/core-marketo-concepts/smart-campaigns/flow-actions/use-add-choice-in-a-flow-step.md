@@ -11,7 +11,7 @@ feature: Smart Campaigns
 >
 >[Add a Flow Step to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
-"Add Choice" lets you use a flow step and say 'it depends' when you're choosing the details.
+"Add Choice" lets you use a flow step and say 'it depends' when you are choosing the details.
 
 1. Under the **[!UICONTROL Flow]** tab of the Smart Campaign, add any flow step and then click on **[!UICONTROL Add Choice]**.
 

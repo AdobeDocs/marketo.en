@@ -22,7 +22,7 @@ Actions can automatically sync your email and call activities to Salesforce to b
 
 First check that you have the correct picklist values in place. You'll need the help of your Salesforce Admin to make any changes to your picklist.
 
-First check which values you're missing in your Task Type Picklist (out of Email, Call, and Reply). You may need the help of your Salesforce Admin to review this and make changes to your Activity Type picklist. To make these changes, your Salesforce Admin can follow the steps below.
+First check which values you are missing in your Task Type Picklist (out of Email, Call, and Reply). You may need the help of your Salesforce Admin to review this and make changes to your Activity Type picklist. To make these changes, your Salesforce Admin can follow the steps below.
 
 ### In Salesforce Lightning {#salesforce-lightning}
 

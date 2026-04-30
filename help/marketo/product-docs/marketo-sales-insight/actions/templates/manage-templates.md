@@ -55,7 +55,7 @@ The Template Details area contains multiple tabs.
 
 ## Share a Template {#share-a-template}
 
-If you're using one of our team accounts, all of your templates are still private by default.
+If you are using one of our team accounts, all of your templates are still private by default.
 
 1. Navigate to the **[!UICONTROL Templates]** tab.
 
@@ -93,7 +93,7 @@ You can add templates from any category to your Favorites list. This automatical
 
    ![](assets/manage-templates-11.png)
 
-   After it's favorited, the star will remain.
+   After it is favorited, the star will remain.
 
    ![](assets/manage-templates-12.png)
 

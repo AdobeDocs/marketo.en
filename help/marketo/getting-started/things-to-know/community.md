@@ -44,7 +44,7 @@ SCREENSHOT
 
 ## Submit a question {#submit-a-question}
 
-This is where you'll typically go for help. Start a discussion thread (or search for an existing one) when you're looking for feedback on a particular issue, or jump into someone else's thread to assist them with an issue you're knowledgeable about.
+This is where you'll typically go for help. Start a discussion thread (or search for an existing one) when you are looking for feedback on a particular issue, or jump into someone else's thread to assist them with an issue you are knowledgeable about.
 
 SCREENSHOT
 
@@ -78,7 +78,7 @@ SCREENSHOT
 >
 >This is only applicable to those who have multiple Marketo Engage subscriptions and inadvertantly created multiple profiles upon logging in to the Marketing Nation Community.
 
-Follow the steps below to merge history across multiple community profiles. It's recommended you overwrite the Community profile that has less Community activity on it, as overwritten profile data cannot be retrieved.
+Follow the steps below to merge history across multiple community profiles. It is recommended you overwrite the Community profile that has less Community activity on it, as overwritten profile data cannot be retrieved.
 
 Send an email to `ccare@marketo.com` to request the data from your different community profiles be merged into the profile associated with your primary production subscription. When the profiles merge, you will lose the historical activity of the overwritten profile of your choice.
 
@@ -88,7 +88,7 @@ In your request, please specify the following details:
 * Your primary Community profile URL that is associated with the Marketo Engage production subscription
 * The Community profile URL that you would like to overwrite and merge.
 
-Our Community team will merge your Community profiles in 4-6 business days. Once it's completed, you'll see your engagement history in the main Community profile upon login. If you don't, please log out of your account and log back in again to confirm.
+Our Community team will merge your Community profiles in 4-6 business days. Once it is completed, you'll see your engagement history in the main Community profile upon login. If you don't, please log out of your account and log back in again to confirm.
 
 <br>
 

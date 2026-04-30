@@ -29,7 +29,7 @@ _Pros_
 
 **Reputation** - You wholly own your reputation and deliverability.
 **Monitoring** - Monitoring your deliverability reporting enables you to respond quickly to changes in your delivery metrics.
-**Issue resolution** - It's easier to research, understand, and resolve delivery issues.
+**Issue resolution** - it is easier to research, understand, and resolve delivery issues.
 
 _Cons_
 
@@ -41,13 +41,13 @@ _Cons_
 
 _Pros_
 
-**Good roommates** - If the folks you're sharing your IP with follow best sending practices, you would benefit.
+**Good roommates** - If the folks you are sharing your IP with follow best sending practices, you would benefit.
 **Mailing frequency** - There is no minimum mailing frequency needed to qualify for a shared IP, unlike with Dedicated IPs.
 **Cost** - There is never an additional charge to send from a Shared IP.
 
 _Cons_
 
-**Bad roommates** - If the folks you're sharing your IP with engage in poor sending practices, your email campaigns could be adversely affected.
+**Bad roommates** - If the folks you are sharing your IP with engage in poor sending practices, your email campaigns could be adversely affected.
 **Control** - You have much less control over your sender reputation.
 **Issue Resolution** - It can often be more difficult to resolve an issue when sending from Shared IPs.
 

@@ -122,7 +122,7 @@ Use the following diagram to understand the difference between the date operator
 >
 >**Example**
 >
->Date fields can get tricky when you're working with past and future events. Here are a couple of examples.
+>Date fields can get tricky when you are working with past and future events. Here are a couple of examples.
 >
 >**[!UICONTROL In past before]**
 >

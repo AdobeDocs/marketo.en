@@ -7,7 +7,7 @@ feature: Reporting
 ---
 # People by Status Report {#people-by-status-report}
 
-Review how well you're moving people through the process by checking how many of them appear in each _[!UICONTROL Person Status]_ value every month.
+Review how well you are moving people through the process by checking how many of them appear in each _[!UICONTROL Person Status]_ value every month.
 
 1. [Create a report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select the **[!UICONTROL People by Status]** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 

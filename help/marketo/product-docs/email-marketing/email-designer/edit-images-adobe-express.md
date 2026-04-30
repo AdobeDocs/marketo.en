@@ -135,7 +135,7 @@ The features are accessible on the left side of the image page.
 
 >[!TIP]
 >
->If you're not satisfied with the result, simply click the **X** to close the window.
+>If you are not satisfied with the result, simply click the **X** to close the window.
 
 #### Crop image {#crop-image}
 
@@ -159,7 +159,7 @@ Convert a PNG file to a JPEG file, or a JPEG file to a PNG file.
 
 ## Save your work {#save-your-work}
 
-When you're done with all your edits, click **Save** to save your work.
+When you are done with all your edits, click **Save** to save your work.
 
 ![Save button](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 

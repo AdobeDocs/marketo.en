@@ -51,7 +51,7 @@ If you ever want to send text only emails, here's how to create an email that wi
 
    >[!NOTE]
    >
-   >Any content added to the HTML section of the email will be ignored when it's sent.
+   >Any content added to the HTML section of the email will be ignored when it is sent.
 
 1. Double-click the text area.
 
@@ -61,4 +61,4 @@ If you ever want to send text only emails, here's how to create an email that wi
 
    ![](assets/nine.png)
 
-It's as easy as that.
+It is as easy as that.

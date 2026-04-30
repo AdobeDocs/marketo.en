@@ -37,7 +37,7 @@ Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads f
 
    ![](assets/set-up-linkedin-lead-gen-forms-4.png)
 
-1. After you're logged into LinkedIn, return to Marketo and click **[!UICONTROL Authorize]**.
+1. After you are logged into LinkedIn, return to Marketo and click **[!UICONTROL Authorize]**.
 
    ![](assets/set-up-linkedin-lead-gen-forms-5.png)
 
@@ -57,7 +57,7 @@ Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads f
 
    >[!TIP]
    >
-   >If you don't see the Business Accounts that you're expecting, make sure that the user's LinkedIn account that is being authorized has Lead Gen Form Manager Permissions to the Business Account in LinkedIn.
+   >If you don't see the Business Accounts that you are expecting, make sure that the user's LinkedIn account that is being authorized has Lead Gen Form Manager Permissions to the Business Account in LinkedIn.
 
    ![](assets/set-up-linkedin-lead-gen-forms-8.png)
 

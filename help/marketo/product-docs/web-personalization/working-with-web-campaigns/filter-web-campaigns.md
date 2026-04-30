@@ -7,7 +7,7 @@ feature: Web Personalization
 ---
 # Filter Web Campaigns {#filter-web-campaigns}
 
-After you've created hundreds of [!DNL Web Personalization] campaigns, it really helps to be able to use filters to view only the ones you're interested in.
+After you've created hundreds of [!DNL Web Personalization] campaigns, it really helps to be able to use filters to view only the ones you are interested in.
 
 1. Go to **[!UICONTROL Web Campaigns]**.
 

@@ -11,7 +11,7 @@ Make one or more images in your email predictive, tailoring the experience for e
 
 >[!NOTE]
 >
->It's recommended that you enable over five pieces of content per category and per source (email, rich media, bar) before testing and using Predictive Content. More content gives you a better predictive outcome.
+>it is recommended that you enable over five pieces of content per category and per source (email, rich media, bar) before testing and using Predictive Content. More content gives you a better predictive outcome.
 
 >[!PREREQUISITES]
 >
@@ -63,7 +63,7 @@ Make one or more images in your email predictive, tailoring the experience for e
    >
    >The image is not selected **_until the recipient opens the email_**. So what you see in the preview is just an example, and will not necessarily be the image the recipient sees.
 
-1. Once you're done previewing your email, click the **[!UICONTROL Preview Actions]** drop-down and select **[!UICONTROL Approve and Close]**. Or if you still have editing to do, click **[!UICONTROL Edit Draft]** on the right.
+1. Once you are done previewing your email, click the **[!UICONTROL Preview Actions]** drop-down and select **[!UICONTROL Approve and Close]**. Or if you still have editing to do, click **[!UICONTROL Edit Draft]** on the right.
 
    ![](assets/eight.png)
 

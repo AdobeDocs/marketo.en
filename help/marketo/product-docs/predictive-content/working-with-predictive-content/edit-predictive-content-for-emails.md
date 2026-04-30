@@ -68,4 +68,4 @@ Here's how to set up your predictive content for emails.
 
    >[!NOTE]
    >
-   >In Marketo Email Editor v2.0, you can also [view the layout templates](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) you use while you're enabling the content.
+   >In Marketo Email Editor v2.0, you can also [view the layout templates](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) you use while you are enabling the content.

@@ -11,7 +11,7 @@ To see how well your emails are performing with stats like delivered, opened, cl
 
 1. [Create a Report in a Program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select the **[!UICONTROL Email Performance]** [Report Type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. [Change the Report Time Frame](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the **[!UICONTROL Report]** tab.
-1. You're there! Now explore the report to see how your email(s) performed.
+1. You are there! Now explore the report to see how your email(s) performed.
 
    >[!NOTE]
    >

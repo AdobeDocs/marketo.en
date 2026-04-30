@@ -79,7 +79,7 @@ Follow these steps to create a People Performance Report with mobile platform (i
 
    ![](assets/fourteen.png)
 
-   You're doing great! Now on to the next section.
+   You are doing great! Now on to the next section.
 
 ## Add Mobile Smart Lists as Columns {#add-mobile-smart-lists-as-columns}
 

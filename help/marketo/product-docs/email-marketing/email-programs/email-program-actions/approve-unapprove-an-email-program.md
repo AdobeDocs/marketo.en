@@ -39,7 +39,7 @@ Now that your program is ready to go, the final step is to approve it. Here is h
 
    ![](assets/image2014-9-12-13-3a43-3a44.png)
 
-   Perfect! You're done. Your email will go out at the scheduled time.
+   Perfect! You are done. Your email will go out at the scheduled time.
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 

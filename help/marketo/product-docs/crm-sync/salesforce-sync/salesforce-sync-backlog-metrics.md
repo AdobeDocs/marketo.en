@@ -98,4 +98,4 @@ When a large amount of updates are made (like from a field value changing), many
 
 **Review Sync errors**: Exception handling may slow down the sync. Reviewing user notifications and resolving errors can improve sync health.
 
-**Contact Support**: If you're following all of the above best practices and are still experiencing significant backlogs, contact [Marketo Engage Support](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}.
+**Contact Support**: If you are following all of the above best practices and are still experiencing significant backlogs, contact [Marketo Engage Support](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}.

@@ -54,7 +54,7 @@ Select the slider to enable "Poke,"&mdash;which displays the opening question ne
    >
    >Poke is only available on the first [card](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"} in the conversation.
 
-When you're done making changes, remember to click **Save**.
+When you are done making changes, remember to click **Save**.
 
    ![](assets/configuration-7.png)
 
@@ -66,7 +66,7 @@ Click the **Privacy** tab to add/edit the URL of your site's privacy policy (opt
 
 ## Installation Tab {#installation-tab}
 
-In order for the chatbot to show up on your website, you'll first need to install the Dynamic Chat JavaScript snippet. Click this tab to find/copy the necessary code. If you're not familiar with this operation, please contact your web team or IT department for assistance.
+In order for the chatbot to show up on your website, you'll first need to install the Dynamic Chat JavaScript snippet. Click this tab to find/copy the necessary code. If you are not familiar with this operation, please contact your web team or IT department for assistance.
 
    ![](assets/configuration-9.png)
 

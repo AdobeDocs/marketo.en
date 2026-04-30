@@ -15,7 +15,7 @@ Overview of the classic email editor.
 
 **Email Template Picker**
 
-When you create a new email, you're taken to the [Email Template Picker](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+When you create a new email, you are taken to the [Email Template Picker](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/email-editor-v2-overview-1.png)
 
@@ -39,7 +39,7 @@ Switching between the HTML version and Text versions of your email is now in a h
 
 **Email Header**
 
-Want more design space? The email header can be hidden after you're done [editing it](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Simply click on this icon...
+Want more design space? The email header can be hidden after you are done [editing it](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Simply click on this icon...
 
 ![](assets/email-editor-v2-overview-5.png)
 

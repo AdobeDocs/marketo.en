@@ -81,7 +81,7 @@ Here's where you choose and customize your in-app message images.
    >
    >For tap actions for images, buttons, or backgrounds, you can set up different actions for Apple and Android platforms. For example, deep links are handled differently for Apple and Android. If your message is going only to one platform or the other, leave the other one in the default setting or select **[!UICONTROL None]**.
 
-Great work! Now, it's time to [create the text for your in-app message](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
+Great work! Now, it is time to [create the text for your in-app message](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 
 >[!MORELIKETHIS]
 >

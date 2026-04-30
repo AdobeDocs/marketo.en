@@ -36,7 +36,7 @@ With your email program created, audience defined, and email selected, you will 
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   How easy was that? The only thing left is to [approve an email program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) and you're good to go.
+   How easy was that? The only thing left is to [approve an email program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) and you are good to go.
 
 >[!MORELIKETHIS]
 >

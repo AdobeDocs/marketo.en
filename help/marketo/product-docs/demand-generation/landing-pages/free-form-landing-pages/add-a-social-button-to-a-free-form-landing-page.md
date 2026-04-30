@@ -51,4 +51,4 @@ Congratulations! You have added a social button to your landing page. Be sure to
 
 >[!MORELIKETHIS]
 >
->You're done, but you can change the settings of your social button if necessary. Start with _customizing the button style_ or _editing the share messages_ it presents.
+>you are done, but you can change the settings of your social button if necessary. Start with _customizing the button style_ or _editing the share messages_ it presents.

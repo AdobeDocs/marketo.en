@@ -15,4 +15,4 @@ If you are using [workspaces and partitions](/help/marketo/product-docs/administ
 
 ![](assets/change-person-partition-2.png)
 
-It's that easy!
+It is that easy!

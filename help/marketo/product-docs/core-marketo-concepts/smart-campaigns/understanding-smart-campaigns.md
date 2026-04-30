@@ -7,7 +7,7 @@ feature: Smart Campaigns
 ---
 # Understanding Smart Campaigns {#understanding-smart-campaigns}
 
-If Marketo Engage is a car, the Smart Campaign is its engine. Smart Campaigns can do more than you can imagine, and it's easy to get started using them.
+If Marketo Engage is a car, the Smart Campaign is its engine. Smart Campaigns can do more than you can imagine, and it is easy to get started using them.
 
 The Smart Campaign has 3 main areas: The [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} tabs.
 

@@ -11,7 +11,7 @@ feature: Marketo Sales Insights
 >
 >**Admin Permissions Required**
 
-If Marketo users want to view their lead feed not only in [!DNL Salesforce], but also in an RSS feed, a Marketo Admin must enable it first. It's easy.
+If Marketo users want to view their lead feed not only in [!DNL Salesforce], but also in an RSS feed, a Marketo Admin must enable it first. It is easy.
 
 1. In My Marketo, click **[!UICONTROL Admin]** and then **[!DNL Sales Insight]**.
 

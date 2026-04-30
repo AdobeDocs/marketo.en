@@ -7,7 +7,7 @@ feature: Email Editor
 ---
 # Champion/Challenger: Declare a Champion {#champion-challenger-declare-a-champion}
 
-When you're ready, you can declare a champion for your email test.
+When you are ready, you can declare a champion for your email test.
 
 >[!MORELIKETHIS]
 >

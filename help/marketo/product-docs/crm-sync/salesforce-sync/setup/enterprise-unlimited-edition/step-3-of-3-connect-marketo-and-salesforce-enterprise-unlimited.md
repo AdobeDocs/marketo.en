@@ -44,7 +44,7 @@ In this article, you will configure Marketo to sync with your configured [!DNL S
    >
    >Be sure to [hide all fields you do not need](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo from the sync user before clicking **[!UICONTROL Sync Fields]**. Once you click [!UICONTROL Sync Fields] all fields the user can see will be created in Marketo permanently and cannot be deleted.
 
-1. Enter the [!DNL Salesforce] Sync User credentials created in part 2 of the [!DNL Salesforce] configuration ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) or [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) and click **[!UICONTROL Sync Fields]** (check **[!UICONTROL Sandbox]** only if you're syncing a Marketo Sandbox to a [!DNL Salesforce] Sandbox).
+1. Enter the [!DNL Salesforce] Sync User credentials created in part 2 of the [!DNL Salesforce] configuration ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) or [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) and click **[!UICONTROL Sync Fields]** (check **[!UICONTROL Sandbox]** only if you are syncing a Marketo Sandbox to a [!DNL Salesforce] Sandbox).
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
@@ -58,7 +58,7 @@ In this article, you will configure Marketo to sync with your configured [!DNL S
 
    >[!CAUTION]
    >
-   >If you want to look over the [mappings and customize them](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md), this is your only chance to do so! Once you click [!UICONTROL Start  Salesforce Sync], it's done.
+   >If you want to look over the [mappings and customize them](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md), this is your only chance to do so! Once you click [!UICONTROL Start  Salesforce Sync], it is done.
 
 ## Start [!DNL Salesforce] Sync {#start-salesforce-sync}
 

@@ -39,7 +39,7 @@ You can keep tabs on the current throughput and backlog of the sync process on t
 
    >[!NOTE]
    >
-   >When you're looking at the [!UICONTROL Last Hour] view, the [!UICONTROL Inserts] and [!UICONTROL Updates] columns display N/A. This is expected behavior.
+   >When you are looking at the [!UICONTROL Last Hour] view, the [!UICONTROL Inserts] and [!UICONTROL Updates] columns display N/A. This is expected behavior.
 
 ## [!UICONTROL Sync Errors] Tab {#sync-errors-tab}
 

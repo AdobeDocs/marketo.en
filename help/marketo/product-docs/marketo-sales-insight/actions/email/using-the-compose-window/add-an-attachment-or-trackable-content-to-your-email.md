@@ -92,7 +92,7 @@ Within the content viewer leads can do the following things.
 
 **Trackable Content Events in Live Feed**
 
-When a lead clicks on the link of our doc you will see a click event. You can click on that link to view the content. As long as you're logged in to your Actions account in the browser, we will not count these clicks as events.
+When a lead clicks on the link of our doc you will see a click event. You can click on that link to view the content. As long as you are logged in to your Actions account in the browser, we will not count these clicks as events.
 
 ![](assets/add-an-attachment-or-trackable-content-15.png)
 

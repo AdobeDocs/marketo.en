@@ -38,7 +38,7 @@ OK, now that we've got that out of the way, let's take a peek at Marketo Moments
 
 Marketo Moments gives you three different cards to follow the progress of your email:
 
-**[!UICONTROL On-Deck]** - This email is about to go out. It's your last chance to preview it, send a sample or, even cancel it if you have to.
+**[!UICONTROL On-Deck]** - This email is about to go out. It is your last chance to preview it, send a sample or, even cancel it if you have to.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
@@ -76,11 +76,11 @@ Great! Now, you can make something happen by tapping:
 >
 >**Definition**
 >
->* [!UICONTROL Favorite]: It's easy to pay attention to the stuff that's most timely and important if you make them favorites.
+>* [!UICONTROL Favorite]: it is easy to pay attention to the stuff that's most timely and important if you make them favorites.
 >* [!UICONTROL Done]: Done gets it off your Marketo Moments view (but leaves it in Marketo, safe and sound).
 >* [!UICONTROL Share]: Send an image to motivate or congratulate your team.
 >* [!UICONTROL Send Sample] (email only): Use this to let others check out how your emails look before you send them out.
->* [!UICONTROL Preview Email] (emails only): It's always a good idea to check out your emails in advance.
+>* [!UICONTROL Preview Email] (emails only): it is always a good idea to check out your emails in advance.
 
 ## Later Moments {#later-moments}
 
@@ -100,7 +100,7 @@ The Later section shows upcoming activities.
 
 ## Email Program Cards {#email-program-cards}
 
-Email program cards show important stuff like schedule, audience, status, and other useful things, even when you're out at lunch.
+Email program cards show important stuff like schedule, audience, status, and other useful things, even when you are out at lunch.
 
 ![](assets/image2015-6-29-15-3a31-3a57.png)
 

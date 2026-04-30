@@ -23,7 +23,7 @@ You can manually approve your registrants before sending them a confirmation ema
 
 ## Handling People with a Registration Error {#handling-people-with-a-registration-error}
 
-If a person ends up not being registered but rather set to the status [!UICONTROL Registration Error], it's not too late to recover.
+If a person ends up not being registered but rather set to the status [!UICONTROL Registration Error], it is not too late to recover.
 
 1. From the [!UICONTROL Members] tab, filter the list of people with the status **[!UICONTROL Registration Error]**.
 1. Before continuing, make sure you have determined and fixed the issue with integration (check to make sure there are no errors under **[!UICONTROL Event Partners]** in Admin).

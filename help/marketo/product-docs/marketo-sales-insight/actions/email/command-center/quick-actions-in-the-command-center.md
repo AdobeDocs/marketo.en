@@ -10,7 +10,7 @@ There are two types of quick action columns that exist in the email grid. Email 
 
 ## Quick Actions {#quick-actions}
 
-Email quick actions are dynamic and update depending on the most relevant actions for the status of the email you're looking at. There are a maximum of two email quick actions visible for each email status. You can see what email quick actions will be available for each status below.
+Email quick actions are dynamic and update depending on the most relevant actions for the status of the email you are looking at. There are a maximum of two email quick actions visible for each email status. You can see what email quick actions will be available for each status below.
 
 **[!UICONTROL Delivered]**
 

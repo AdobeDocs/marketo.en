@@ -6,7 +6,7 @@ exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
 ---
 # Create New Campaign Folder {#create-new-campaign-folder}
 
-Campaign folders help you keep a tidy workspace. Follow these simple steps and you're on your way to automation magic.
+Campaign folders help you keep a tidy workspace. Follow these simple steps and you are on your way to automation magic.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 

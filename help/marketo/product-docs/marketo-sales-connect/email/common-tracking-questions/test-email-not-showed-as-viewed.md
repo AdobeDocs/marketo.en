@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 ---
 # Test Email Not Showed as Viewed {#test-email-not-showed-as-viewed}
 
-Even if you sent your message to another email address, we won't log you viewing any emails you’ve sent to yourself in the Live Feed. Our tracking is device-based; as long as you're using a computer you've logged into [!DNL Sales Connect] with, we'll filter out that activity.
+Even if you sent your message to another email address, we won't log you viewing any emails you’ve sent to yourself in the Live Feed. Our tracking is device-based; as long as you are using a computer you've logged into [!DNL Sales Connect] with, we'll filter out that activity.
 
 The reason? [!DNL Sales Connect] is smart, and our active users would never forgive us if their own info popped up in the Live Feed Activity every time they looked at an email they sent.
 

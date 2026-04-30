@@ -50,7 +50,7 @@ Favorite **up to five** specific template categories to gain quick access to you
 
    >[!TIP]
    >
-   >We recommend pinning the "All" category to give you quick access to searching your entire template library, since you may often need to search through all your Templates to find what you're looking for. When you have a pinned category selected and click the search icon, the search will default to the search within the pinned category selected.
+   >We recommend pinning the "All" category to give you quick access to searching your entire template library, since you may often need to search through all your Templates to find what you are looking for. When you have a pinned category selected and click the search icon, the search will default to the search within the pinned category selected.
 
 1. Click **Save Changes** when done (optional: repeat Step 3 to add more).
 

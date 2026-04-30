@@ -28,7 +28,7 @@ In the [!UICONTROL Me] and [!UICONTROL Team] tabs you will see information about
 
 ## [!UICONTROL Me] Tab {#me-tab}
 
-The [Me tab](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} is a great place to check on the engagement of your emails, templates, and links. If you're an admin in Sales Insight Actions, you can filter by any user on your team to see their stats.
+The [Me tab](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} is a great place to check on the engagement of your emails, templates, and links. If you are an admin in Sales Insight Actions, you can filter by any user on your team to see their stats.
 
 ## [!UICONTROL Team] Tab {#team-tab}
 

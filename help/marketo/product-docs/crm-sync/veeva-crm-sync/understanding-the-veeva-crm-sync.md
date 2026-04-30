@@ -6,7 +6,7 @@ feature: Veeva CRM
 ---
 # Understanding the [!DNL Veeva] CRM Sync {#understanding-the-veeva-crm-sync}
 
-In a few easy steps, it's easy to run a sync between Adobe Marketo Engage and the [!DNL Veeva] CRM.
+In a few easy steps, it is easy to run a sync between Adobe Marketo Engage and the [!DNL Veeva] CRM.
 
 ## How the Sync Works {#how-the-sync-works}
 

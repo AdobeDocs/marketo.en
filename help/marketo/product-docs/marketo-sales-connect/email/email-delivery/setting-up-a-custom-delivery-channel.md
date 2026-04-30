@@ -37,7 +37,7 @@ Users can set up a custom SMTP server for their own individual usage, or Admins 
 
    >[!NOTE]
    >
-   >If this is your only delivery channel, it's automatically assigned to all of your email identities, and you're done here. If this is not your only delivery channel, please continue to Step 5.
+   >If this is your only delivery channel, it is automatically assigned to all of your email identities, and you are done here. If this is not your only delivery channel, please continue to Step 5.
 
 1. While still in [!UICONTROL Email Settings], click **[!UICONTROL Address and Signature]**.
 

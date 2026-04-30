@@ -49,7 +49,7 @@ To view the list of all your rooms, select **[!UICONTROL Rooms]** from the top m
 You can perform the following actions from this centralized interface:
 
 * Click the Launch room icon to launch and enter the room.
-* Use the search bar to find the room you're looking for (will only search the rooms that you created).
+* Use the search bar to find the room you are looking for (will only search the rooms that you created).
 * Click the Delete room icon to remove the room. Doing so will delete all recordings and files related to the room.
 
 When you select a room, you can view content or recordings available in that room. On this screen, the information is available within two tabs: the **Content** tab and the **Recordings** tab.
@@ -83,7 +83,7 @@ The Content tab lets you view the uploaded files, their type, size, last accesse
 You can perform the following actions in the Content tab:
 
 * Click the **[!UICONTROL Launch room]** button to launch and enter the room.
-* Use the search bar to find the file you're looking for.
+* Use the search bar to find the file you are looking for.
 * Click the Download file icon to download a file on your device. Select two or more files to download in bulk.
 * Click the Delete room icon to remove the room. When a file is deleted, it cannot be retrieved.
 * Select any file from the listed content to view it on the device.
@@ -97,7 +97,7 @@ The Recordings tab allows you to view all recordings available in this room. Eac
 You can perform the following actions from this centralized hub:
 
 * Click the **[!UICONTROL Launch room]** button to launch and enter the room.
-* Use the search bar to find the recording you're looking for.
+* Use the search bar to find the recording you are looking for.
 * Click the Download file icon to download a file on your device. Select two or more files to download in bulk.
 * Click the Copy recording link icon to copy the recording URL.
 * Click the Edit Recording icon to make changes to your recording.
@@ -116,7 +116,7 @@ Under **[!UICONTROL My recordings]**, you can find all the recordings available 
 
 You can perform the following actions from this centralized hub:
 
-* Use the search bar to find the recording you're looking for. You can also search within a timeline by selecting a Date range.
+* Use the search bar to find the recording you are looking for. You can also search within a timeline by selecting a Date range.
 * Click the Copy recording link icon to copy the recording URL.
 * Click the Edit Recording icon to make changes to your recording.
 * Click the Show linked page icon to view the information about the room where the selected recording is available.
