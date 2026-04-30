@@ -25,7 +25,7 @@ Configure Adobe Experience Manager (AEM) so you can access, select, and import A
 
    ![](assets/one.png)
 
-1. You can sign in with Adobe or sign in locally. In this example, we'll sign in locally.
+1. You can sign in with Adobe or sign in locally. This example uses local sign-in.
 
    ![](assets/two.png)
 

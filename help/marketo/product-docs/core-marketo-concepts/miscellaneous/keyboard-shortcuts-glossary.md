@@ -1,12 +1,14 @@
 ---
 unique-page-id: 1147318
 description: "Get help on Marketo keyboard shortcuts for area navigation, calendar, and more. Use shortcuts to move faster in Marketo Engage."
+hide: yes
+hidefromtoc: yes
 title: Keyboard Shortcuts Glossary
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
 ---
 # Keyboard Shortcuts Glossary {#keyboard-shortcuts-glossary}
 
-Are you a keyboard shortcuts person? We've got you covered!
+Use these keyboard shortcuts to navigate Marketo more quickly.
 
 ## Area Navigation {#area-navigation}
 
@@ -35,4 +37,4 @@ Are you a keyboard shortcuts person? We've got you covered!
 |---|---|
 | ESC |Close pop-up |
 | Return/Enter |Submit pop-up |
-| Ctrl + Alt/Opt + H |Hide/Unhide a field in the form editor |
+| Ctrl + Alt/Opt + H |Hide or Unhide a field in the form editor |

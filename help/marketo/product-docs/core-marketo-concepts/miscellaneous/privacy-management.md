@@ -15,7 +15,7 @@ Marketo Engage offers a set of tools to help you comply with Privacy regulations
 >
 >**-or-**
 >
->* Marketo Engage users utilizing another Experience Cloud product that's already on the Adobe Identity Management System (e.g., RT-CDP, B2B and B2P Editions, Audience Manager).
+>* Marketo Engage users utilizing another Experience Cloud product that is already on the Adobe Identity Management System (e.g., RT-CDP, B2B and B2P Editions, Audience Manager).
 
 ## Regulations on Privacy Management {#regulations-on-privacy-management}
 
@@ -34,6 +34,6 @@ All of the above regulations apply to Marketo Engage customers who hold data for
 In order to help you facilitate your Privacy readiness, Marketo Engage allows you to handle **access** and **delete** requests.
 
 * The **Right to Access** is the right for the Data Subject to obtain from the Data Controller confirmation as to whether or not personal data concerning them is being processed, where and for what purpose. The Data Controller shall provide a copy of the personal data, free of charge, in an electronic format.
-* Also known as Data Erasure, the **Right to be Forgotten** (delete request) entitles the Data Subject to have the Data Controller erase his/her personal data, cease further dissemination of the data, and potentially have third parties halt processing of the data.
+* Also known as Data Erasure, the **Right to be Forgotten** (delete request) entitles the Data Subject to have the Data Controller erase their personal data, cease further dissemination of the data, and potentially have third parties halt processing of the data.
 
-To learn how you can create access/delete requests and how we process them, refer to [this article](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+To learn how you can create access or delete requests and how they are processed, refer to [this article](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).

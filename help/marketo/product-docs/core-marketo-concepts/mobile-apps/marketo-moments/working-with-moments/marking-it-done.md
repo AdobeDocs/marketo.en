@@ -27,4 +27,4 @@ Mark an email program, event, or analytics card as [!UICONTROL Done] to remove i
 
    >[!NOTE]
    >
-   >Marking a card as Done doesn't delete the email, event, or smart campaign. It only moves it from the Moments/Later stream into the Done stream.
+   >Marking a card as Done does not delete the email, event, or smart campaign. It only moves it from the Moments/Later stream into the Done stream.

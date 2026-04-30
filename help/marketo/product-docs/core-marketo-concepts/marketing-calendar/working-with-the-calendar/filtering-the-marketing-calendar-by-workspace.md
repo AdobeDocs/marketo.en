@@ -17,7 +17,7 @@ The Marketing Calendar can be filtered by objects in specific workspaces.
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
-   Great! You will now only see objects built in that particular workspace.
+   Only objects built in that workspace will now be visible.
 
    >[!NOTE]
    >

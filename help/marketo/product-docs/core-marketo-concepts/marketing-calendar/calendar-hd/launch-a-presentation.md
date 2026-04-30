@@ -7,7 +7,7 @@ feature: Marketing Calendar
 ---
 # Launch a Presentation {#launch-a-presentation}
 
-Once you've set the views and rotation frequency for your presentation, it is time for blast off!
+After the views and rotation frequency have been set, the presentation is ready to launch.
 
 >[!AVAILABILITY]
 >
@@ -21,7 +21,7 @@ Once you've set the views and rotation frequency for your presentation, it is ti
 
 >[!TIP]
 >
->Make sure to _Preview a Presentation_ before you launch.
+>Preview the presentation before launching.
 
 1. Click **[!UICONTROL Launch]**.
 

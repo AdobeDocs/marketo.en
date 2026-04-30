@@ -6,7 +6,7 @@ exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
 ---
 # Create New Campaign Folder {#create-new-campaign-folder}
 
-Campaign folders help you keep a tidy workspace. Follow these simple steps and you are on your way to automation magic.
+Campaign folders help you keep a tidy workspace. Follow these steps to get started.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -32,11 +32,11 @@ Campaign folders help you keep a tidy workspace. Follow these simple steps and y
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
-   Awesome! You just built a campaign folder. Check it out in the tree.
+   The campaign folder appears in the tree.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Now when [creating a new program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), you'll see this campaign folder as an option.
+   Now when [creating a new program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), this campaign folder appears as an option.
 
 >[!MORELIKETHIS]
 >

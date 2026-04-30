@@ -27,11 +27,11 @@ Tap an Analytics card to show:
 * A month-over month comparison
 * A bar chart of the most or top three (depending on the card)
 
-For example, let's take a look at the details for the [!UICONTROL Acquired Leads] Analytics card:
+For example, here are the details for the [!UICONTROL Acquired Leads] Analytics card:
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
-In this example, red indicates the value has decreased over the selected date range (uh oh!). Green indicates the value has increased (yay!).
+In this example, red indicates the value has decreased over the selected date range. Green indicates the value has increased.
 
 ## [!UICONTROL Acquired Leads] {#acquired-leads}
 

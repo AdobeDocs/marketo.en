@@ -7,9 +7,7 @@ feature: Marketing Calendar
 ---
 # Deleting a Filter in the Marketing Calendar {#deleting-a-filter-in-the-marketing-calendar}
 
-If you are looking to delete a filter in the Marketing Calendar, you've come to the right place.
-
-1. Select the filter you'd like to delete.
+1. Select the filter to delete.
 
    ![](assets/image2014-9-24-11-3a27-3a32.png)
 

@@ -10,7 +10,7 @@ A Marketo Engage sandbox is an additional instance used for testing purposes bef
 
 >[!AVAILABILITY]
 >
->Not everyone has purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
+>Not everyone has purchased this feature. Contact the Adobe Account Team (your Account Manager) for details.
 
 A Marketo sandbox cannot be synced to your regular CRM if it is already synced to your production instance. Use your CRM's sandbox for the sync, and follow all the same steps as the original sync.
 
@@ -19,16 +19,16 @@ A Marketo sandbox cannot be synced to your regular CRM if it is already synced t
 * If you wish to add users, the process is the same as [adding users in production](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user). Again, they must use a different email address if they already have a Marketo login.
 * Your Marketo sandbox will start out empty, but have the same features available as your production instance.
 * If you create a program in your sandbox and want to move it to production, you can perform a [program import](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
-* Sandboxes are throttled so production instances aren't adversely affected by testing environments. You can send up to 20 emails per campaign run.
+* Sandboxes are throttled so production instances are not adversely affected by testing environments. You can send up to 20 emails per campaign run.
 
 >[!CAUTION]
 >
->We do not support sandbox refresh for the Marketo Dynamics _or_ Salesforce Sync at this time. If you need to refresh your CRM sandbox, a new Marketo sandbox is required. Please contact the Adobe Account Team (your Account Manager) for details.
+>Sandbox refresh for the Marketo Dynamics _or_ Salesforce Sync is not supported at this time. If you need to refresh your CRM sandbox, a new Marketo sandbox is required. Contact the Adobe Account Team (your Account Manager) for details.
 
 ## Instance Copy {#instance-copy}
 
-You can submit a Support case requesting a one-time instance copy to fill your sandbox. The instance copy will not bring over _everything_, however. Please consult [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) for details.
+You can submit a Support case requesting a one-time instance copy to fill your sandbox. The instance copy will not bring over _everything_, however. Contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) for details.
 
 >[!NOTE]
 >
->If you are changing your native CRM, a new Marketo instance would be needed, and an instance copy to the new Marketo instance would not be possible. Instead, please work with Marketo Support to explore the Import Program functionality.
+>If you are changing your native CRM, a new Marketo instance would be needed, and an instance copy to the new Marketo instance would not be possible. Instead, work with Marketo Support to explore the Import Program functionality.

@@ -7,7 +7,7 @@ feature: Marketing Calendar
 ---
 # Confirm Entries Directly In the Marketing Calendar {#confirm-entries-directly-in-the-marketing-calendar}
 
-Smart campaigns and email programs can be created as tentative entries and must be confirmed for anything to actually happen. Here's how.
+Smart campaigns and email programs can be created as tentative entries and must be confirmed for anything to actually happen.
 
 1. Go to the **[!UICONTROL Calendar]**.
 
@@ -17,7 +17,7 @@ Smart campaigns and email programs can be created as tentative entries and must 
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 
-1. Go ahead and confirm the entry.
+1. Confirm the entry.
 
    ![](assets/image2014-10-20-13-3a22-3a26.png)
 

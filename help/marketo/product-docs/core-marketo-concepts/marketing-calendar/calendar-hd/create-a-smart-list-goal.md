@@ -7,7 +7,7 @@ feature: Marketing Calendar
 ---
 # Create a Smart List Goal {#create-a-smart-list-goal}
 
-Goals are ways to track progress and motivate your team. They can be combined with smart lists to track all sorts of things in Marketo. Plus, after you've set up a smart list goal, it'll automatically update every 2 hours when it is used in a presentation.
+Goals are ways to track progress and motivate your team. They can be combined with smart lists to track a variety of metrics in Marketo. Plus, after a smart list goal has been set up, it will automatically update every 2 hours when it is used in a presentation.
 
 Like presentations, goals are [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specific.
 
@@ -31,14 +31,14 @@ Like presentations, goals are [workspace](/help/marketo/product-docs/administrat
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [Define the smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md). The possibilities are endless!
+1. [Define the smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
 
    ![](assets/mql.png)
 
-1. Once the smart list is all set, click the **[!UICONTROL Close]** button and go back to the previous tab.
+1. Once the smart list is configured, click the **[!UICONTROL Close]** button and go back to the previous tab.
 
    ![](assets/mql2.png)
 
-   Look at that! Your smart list goal has been created.
+   The smart list goal has been created.
 
    ![](assets/image2015-3-24-13-3a0-3a35.png)

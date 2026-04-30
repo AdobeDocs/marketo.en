@@ -6,7 +6,7 @@ exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
 ---
 # Rename a Marketo Asset {#rename-a-marketo-asset}
 
-Folders, programs, and local assets can all be easily renamed.
+Folders, programs, and local assets can all be renamed.
 
 1. Select any asset you wish to rename and click the right-hand panel name block.
 
@@ -18,4 +18,4 @@ Folders, programs, and local assets can all be easily renamed.
 
    >[!NOTE]
    >
-   >You cannot rename files and images that have been uploaded, or an asset that's currently being referenced in a Smart List or Smart Campaign (in filters, triggers, flow steps, etc.).
+   >You cannot rename files and images that have been uploaded, or an asset that is currently being referenced in a Smart List or Smart Campaign (in filters, triggers, flow steps, etc.).

@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # Understanding Marketo Moments {#understanding-marketo-moments}
 
-The power of Marketo is now in your hands, literally! Preview and reschedule emails right from your phone or iPad.
+The power of Marketo is now in your hands. Preview and reschedule emails right from your phone or iPad.
 
 >[!IMPORTANT]
 >
@@ -32,7 +32,7 @@ Here are the different streams in Moments.
 >* [!UICONTROL Later]: Anything taking place later than this moment goes in here.
 >* [!UICONTROL Done]: Anything that finished running or you marked as done goes here.
 
-OK, now that we've got that out of the way, let's take a peek at Marketo Moments on a phone!
+Here is a look at Marketo Moments on a phone.
 
 ## Three Kinds of Cards {#three-kinds-of-cards}
 
@@ -42,11 +42,11 @@ Marketo Moments gives you three different cards to follow the progress of your e
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL Heart-beat]** - Hey - this email is being delivered now! And here are stats, too. Go ahead and share it.
+**[!UICONTROL Heart-beat]** - This email is being delivered now, including stats. Share it with your team.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**[!UICONTROL Results]** - Here's how the email did. After the email finishes running, the Results card displays the engagement score and other stats.
+**[!UICONTROL Results]** - Shows how the email performed. After the email finishes running, the Results card displays the engagement score and other stats.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
@@ -68,7 +68,7 @@ Tapping the three dots opens a card action menu.
 
 ![](assets/image2015-7-15-10-3a47-3a34.png)
 
-Great! Now, you can make something happen by tapping:
+Tap any of the following to take action:
 
 ![](assets/image2015-7-15-10-3a49-3a20.png)
 
@@ -76,11 +76,11 @@ Great! Now, you can make something happen by tapping:
 >
 >**Definition**
 >
->* [!UICONTROL Favorite]: it is easy to pay attention to the stuff that's most timely and important if you make them favorites.
+>* [!UICONTROL Favorite]: it is easy to pay attention to the items that are most timely and important if you make them favorites.
 >* [!UICONTROL Done]: Done gets it off your Marketo Moments view (but leaves it in Marketo, safe and sound).
 >* [!UICONTROL Share]: Send an image to motivate or congratulate your team.
->* [!UICONTROL Send Sample] (email only): Use this to let others check out how your emails look before you send them out.
->* [!UICONTROL Preview Email] (emails only): it is always a good idea to check out your emails in advance.
+>* [!UICONTROL Send Sample] (email only): Use this to let others review how your emails look before you send them out.
+>* [!UICONTROL Preview Email] (emails only): it is always a good idea to review your emails in advance.
 
 ## Later Moments {#later-moments}
 
@@ -100,13 +100,13 @@ The Later section shows upcoming activities.
 
 ## Email Program Cards {#email-program-cards}
 
-Email program cards show important stuff like schedule, audience, status, and other useful things, even when you are out at lunch.
+Email program cards show key details like schedule, audience, status, and other useful information, even when you are out at lunch.
 
 ![](assets/image2015-6-29-15-3a31-3a57.png)
 
 ## Event Cards {#event-cards}
 
-For events, you'll see the total number of members and their status.
+For events, the card shows the total number of members and their status.
 
 ![](assets/image2015-6-29-15-3a39-3a12.png)
 
@@ -128,7 +128,7 @@ Smart campaign cards represent a single run of a  campaign. A new card appears e
 
 ## Confirm or Cancel an Action {#confirm-or-cancel-an-action}
 
-Every step of the way, you can confirm or cancel an action. If you change your mind, just tap **[!UICONTROL Never Mind]**.
+Every step of the way, you can confirm or cancel an action. If you change your mind, tap **[!UICONTROL Never Mind]**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -137,9 +137,7 @@ Every step of the way, you can confirm or cancel an action. If you change your m
 Marketo Moments supports these operating system versions:
 
 * [!DNL Apple] iOS 8.0 and higher.
-* [!DNL Android] version 4.1 and higher (basically Jellybean and up).
-
-Ready to learn more?
+* [!DNL Android] version 4.1 and higher.
 
 >[!MORELIKETHIS]
 >

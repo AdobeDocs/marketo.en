@@ -21,7 +21,7 @@ When you tap any Email Program card you can:
 * [Mark an email as done](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Share an email moment card](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-On an email program card for an email that's not sent yet, you'll find information about that email program's status and audience.
+On an email program card for an email that has not been sent yet, you will find information about that email program's status and audience.
 
 ![](assets/image2015-7-2-9-3a33-3a47.png)
 
@@ -45,7 +45,7 @@ After the email has been sent, the card displays other valuable information, inc
 
    >[!NOTE]
    >
-   >Now your card will turn to orange!
+   >The card will turn orange.
 
 ## Canceling an Email Card Send {#canceling-an-email-card-send}
 
@@ -77,7 +77,7 @@ You can reschedule confirmed or unconfirmed email cards.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
-   As long as you've got wireless service, you can reschedule from anywhere!
+   With a wireless connection, rescheduling is possible from any location.
 
 ## Sending a Sample {#sending-a-sample}
 
@@ -103,7 +103,7 @@ Right click on an email card to preview it.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   This way, you know your email's perfect before you pull the trigger!
+   This allows verification that the email looks correct before sending.
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 

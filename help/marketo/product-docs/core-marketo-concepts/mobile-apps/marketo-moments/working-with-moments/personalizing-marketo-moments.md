@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # Personalizing Marketo Moments {#personalizing-marketo-moments}
 
-When you've got lots of marketing programs and smart campaigns going, it is great to see everything, but you may want to focus only on your own work.
+When there are many marketing programs and smart campaigns going, it is helpful to focus only on your own work.
 
 >[!IMPORTANT]
 >

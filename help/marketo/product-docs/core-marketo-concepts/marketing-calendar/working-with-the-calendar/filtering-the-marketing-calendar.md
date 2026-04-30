@@ -21,13 +21,13 @@ Use entry types, program tags, or workspaces to filter the information displayed
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
-1. Choose additional entry types you'd like to see in your filter.
+1. Choose additional entry types to add to your filter.
 
    ![](assets/image2014-9-24-10-3a47-3a0.png)
 
    >[!TIP]
    >
-   >For descriptions of the standard entry types, check out [Program Schedule View Entry Types](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
+   >For descriptions of the standard entry types, see [Program Schedule View Entry Types](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
 
 1. Select the program tags that interest you.
 
@@ -37,7 +37,7 @@ Use entry types, program tags, or workspaces to filter the information displayed
 
    ![](assets/image2014-9-24-10-3a47-3a9.png)
 
-   Awesome! You will now only see entries that apply to the filter you just defined.
+   Only entries that match the defined filter will now be visible.
 
    >[!NOTE]
    >

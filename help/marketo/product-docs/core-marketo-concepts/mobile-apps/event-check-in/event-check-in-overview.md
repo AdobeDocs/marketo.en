@@ -16,8 +16,6 @@ This article outlines the complete process. The headings are linked to the separ
 
 Some activities happen before the event, such as creating a new role and inviting attendees. Some happen during the event, such as checking in attendees. After the event, you sync your data with Marketo, updating the person's status.
 
-Have a great event!
-
 ## Prepare for Your Event
 
 Before the event:

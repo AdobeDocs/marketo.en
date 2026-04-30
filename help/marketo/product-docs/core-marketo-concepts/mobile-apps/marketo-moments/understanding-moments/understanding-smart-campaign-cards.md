@@ -13,7 +13,7 @@ Use Marketo Moments to view each run of your Smart Campaigns from your smart pho
 >
 >On October 2, 2023, Adobe removed the Marketo Moments App from all App Stores. If you already have the app installed on your tablet/mobile device, you can continue using it for the time being. Once your Marketo Engage instance is migrated to Adobe Identity for authentication of Marketo, you will no longer be able to access the app. [Learn more](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-For future Smart Campaigns that are scheduled but have not yet run, the Marketo Moments card doesn't display any campaign stats yet. They'll appear in a future release.
+For future Smart Campaigns that are scheduled but have not yet run, the Marketo Moments card does not display any campaign stats yet. They will appear in a future release.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -37,7 +37,7 @@ For future Smart Campaigns that are scheduled but have not yet run, the Marketo 
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
-1. Now, you'll see the flow of the Smart Campaign. This campaign has only one flow step, but there can be multiple ones.
+1. The flow of the Smart Campaign is shown here. This campaign has only one flow step, but there can be multiple ones.
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
@@ -49,7 +49,7 @@ For future Smart Campaigns that are scheduled but have not yet run, the Marketo 
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. See those two dots at the bottom? They indicate that there are two emails connected to this Smart Campaign. To view results for the other email, swipe the screen to the left. Here are the results for the second email.
+1. The two dots at the bottom indicate there are two emails connected to this Smart Campaign. To view results for the other email, swipe the screen to the left. Here are the results for the second email.
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -87,7 +87,7 @@ Cards for unconfirmed Smart Campaigns are gray until you confirm them. Then, the
 
    >[!NOTE]
    >
-   >Now your card will turn to orange!
+   >The card will turn orange.
 
 ## Canceling a Smart Campaign Run {#canceling-a-smart-campaign-run}
 
@@ -107,7 +107,7 @@ You can cancel a confirmed, scheduled Smart Campaign run.
 
 ## Rescheduling a Smart Campaign {#rescheduling-a-smart-campaign}
 
-You can reschedule a confirmed Smart Campaign that hasn't run yet.
+You can reschedule a confirmed Smart Campaign that has not run yet.
 
 1. Tap the three dot action menu.
 
@@ -120,8 +120,6 @@ You can reschedule a confirmed Smart Campaign that hasn't run yet.
 1. Select a date on the calendar and tap **[!UICONTROL Reschedule]**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
-
-   Piece of cake!
 
 ## Other Smart Campaign Actions {#other-smart-campaign-actions}
 
@@ -139,4 +137,4 @@ As with other Marketo Moments cards, you can tap the three dots on any Smart Cam
 
 ## Quickly Delete a Smart Campaign Card {#quickly-delete-a-smart-campaign-card}
 
-If you have a card that you no longer need, perhaps one you used for testing, you can get rid of it with a quick swipe left or right.
+If you have a card that you no longer need, perhaps one you used for testing, it can be removed with a quick swipe left or right.

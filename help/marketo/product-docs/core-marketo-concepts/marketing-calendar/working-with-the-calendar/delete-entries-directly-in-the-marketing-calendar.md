@@ -7,7 +7,7 @@ feature: Marketing Calendar
 ---
 # Delete Entries Directly In the Marketing Calendar {#delete-entries-directly-in-the-marketing-calendar}
 
-In addition to [creating](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} and [editing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} entries, you can delete them directly in the Marketing Calendar. Here's how.
+In addition to [creating](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} and [editing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} entries, you can delete them directly in the Marketing Calendar.
 
 1. Click the **MU** tile.
 
@@ -21,7 +21,7 @@ In addition to [creating](/help/marketo/product-docs/core-marketo-concepts/marke
 
    ![](assets/image2014-10-20-13-3a20-3a42.png)
 
-Depending on the entry, you may have to confirm the deletion. But that's it!
+Depending on the entry, you may have to confirm the deletion.
 
 >[!MORELIKETHIS]
 >

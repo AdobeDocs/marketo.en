@@ -7,7 +7,7 @@ feature: Marketing Calendar
 ---
 # Edit Entries Directly In the Marketing Calendar {#edit-entries-directly-in-the-marketing-calendar}
 
-Once in program focus mode, you can quickly make changes to calendar entries. Here's how.
+Once in program focus mode, you can quickly make changes to calendar entries.
 
 ## Enable Program Focus {#enable-program-focus}
 
@@ -21,7 +21,7 @@ Once in program focus mode, you can quickly make changes to calendar entries. He
 
 ## Reschedule Entry {#reschedule-entry}
 
-1. Simply drag and drop an entry to reschedule it.
+1. Drag and drop an entry to reschedule it.
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
@@ -57,7 +57,7 @@ You can quickly get access to different areas of your entries for editing.
 
    ![](assets/image2014-10-20-13-3a18-3a48.png)
 
-That's it! As you can see there are a lot of things you can do directly from the Marketing Calendar.
+There are many things you can do directly from the Marketing Calendar.
 
 >[!MORELIKETHIS]
 >

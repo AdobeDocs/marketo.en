@@ -39,6 +39,6 @@ Like presentations, goals are [workspace](/help/marketo/product-docs/administrat
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 
-   Your custom goal has been created!
+   Your custom goal has been created.
 
    ![](assets/image2015-3-24-12-3a41-3a43.png)

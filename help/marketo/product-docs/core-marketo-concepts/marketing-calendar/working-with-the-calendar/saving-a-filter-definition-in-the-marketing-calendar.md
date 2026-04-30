@@ -29,7 +29,7 @@ Saving a filter lets you switch back and forth between different filter definiti
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   If you want, you can [send a copy](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} of the definition to other Marketo users.
+   Optionally, [send a copy](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} of the definition to other Marketo users.
 
    >[!NOTE]
    >

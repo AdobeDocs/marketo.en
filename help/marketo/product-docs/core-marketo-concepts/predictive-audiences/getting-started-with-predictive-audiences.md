@@ -24,7 +24,7 @@ The performance of the AI/ML models relies on the data in your subscription. The
 
 ## Availability
 
-Predictive Audiences is automatically included and activated for instances utilizing Prime or Ultimate pricing bundles. To learn more about getting access to this feature, please contact the Adobe Account Team (your Account Manager).
+Predictive Audiences is automatically included and activated for instances utilizing Prime or Ultimate pricing bundles. To learn more about getting access to this feature, contact the Adobe Account Team (your Account Manager).
 
 1. Once the feature has been added to your instance, navigate to the **[!UICONTROL Predictive Audiences]** page in the **[!UICONTROL Admin]** area of Marketo.
 

@@ -7,7 +7,7 @@ feature: Marketing Calendar
 ---
 # Delete a Presentation {#delete-a-presentation}
 
-Sometimes you can have too much of a good thing. Delete old presentations to make room for new ones!
+Delete old presentations to make room for new ones.
 
 1. Select a presentation.
 

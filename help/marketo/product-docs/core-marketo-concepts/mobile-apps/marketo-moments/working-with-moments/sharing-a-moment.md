@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # Sharing a Moment {#sharing-a-moment}
 
-Want to give an update to your team? You've got two choices to select sharing.
+There are two ways to share a moment.
 
 >[!IMPORTANT]
 >
@@ -23,11 +23,11 @@ Want to give an update to your team? You've got two choices to select sharing.
 
    ![](assets/image2015-7-14-16-3a8-3a18.png)
 
-1. Select the way you want to share. Let's go with email.
+1. Select the way you want to share. In this example, email is selected.
 
    >[!NOTE]
    >
-   >Sharing depends on the apps installed on your phone. So, if you don't have [!DNL Facebook], you won't see it in Moments.
+   >Sharing depends on the apps installed on your phone. If [!DNL Facebook] is not installed, it will not appear in Moments.
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 

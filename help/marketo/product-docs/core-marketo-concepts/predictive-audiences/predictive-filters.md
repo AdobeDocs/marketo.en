@@ -42,7 +42,7 @@ These two filters help you expand your current audience by targeting additional 
 
 Click **[!UICONTROL Add Constraint]** to choose success criteria for members of the selected program(s).
 
-Click the **+** icon to easily add multiple programs/Smart Lists to one filter.
+Click the **+** icon to add multiple programs/Smart Lists to one filter.
 
    ![Image Five](assets/predictive-filters-5.png)
 
@@ -52,6 +52,6 @@ Click the **+** icon to easily add multiple programs/Smart Lists to one filter.
 * Predictive filters are not available for Trigger Campaigns.
 * Cloning or moving campaigns that contain predictive filters is not supported.
 * You can use up to 5 predictive filters in a Smart List.
-* If Marketo Engage encounters an error in the evaluation of predictive filters, the campaign run will automatically abort and you'll receive a notification in the Marketo notification center.
+* If Marketo Engage encounters an error in the evaluation of predictive filters, the campaign run will automatically abort and a notification will be sent to the Marketo notification center.
 * Predictive filters currently have an input limit of 1 million qualified people.
 * You can have up to 50 active programs with predictive filters.

@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # Previewing an Email {#previewing-an-email}
 
-Right-click on an email card to preview it, before you pull the trigger.
+Right-click on an email card to preview it before sending.
 
 >[!IMPORTANT]
 >

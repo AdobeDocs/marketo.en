@@ -16,9 +16,9 @@ Filters can be shared amongst different users.
 
 >[!NOTE]
 >
-> If you make a change to a saved filter, be sure to re-share it; your edits will not be reflected for other users until you do.
+> If you make a change to a saved filter, re-share it; your edits will not be reflected for other users until you do.
 
-1. Select the filter you'd like to share.
+1. Select the filter to share.
 
    ![](assets/image2014-9-24-11-3a31-3a19.png)
 

@@ -30,7 +30,7 @@ If you use [!DNL Salesforce], sync error notifications look something like the o
 
 ## Engagement {#engagement}
 
-When people become exhausted in a stream, we send a notification. The notification includes the number of people who became exhausted and some other information.
+When people become exhausted in a stream, a notification is sent. The notification includes the number of people who became exhausted and some other information.
 
 ![](assets/image2014-10-14-10-3a57-3a9.png)
 
@@ -54,4 +54,4 @@ You will be notified when you reach your daily quota. The quota resets each nigh
 
 >[!NOTE]
 >
->Some of the error codes you may receive are outlined in our [Developer Documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
+>Some of the error codes you may receive are outlined in the [Developer Documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

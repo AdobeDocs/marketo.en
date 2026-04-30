@@ -27,7 +27,7 @@ Marketo has a special user role for the event check-in app. [Create a new Market
 
 ## Specify the Event Dates {#specify-the-event-dates}
 
-It is a snap to set your event dates.
+Setting event dates is straightforward.
 
 1. Click the event on the schedule and set the start and end date and time.
 

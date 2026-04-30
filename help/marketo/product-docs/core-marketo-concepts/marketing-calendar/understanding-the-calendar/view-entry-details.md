@@ -7,8 +7,6 @@ feature: Marketing Calendar
 ---
 # View Entry Details {#view-entry-details}
 
-When you view entry details in the Marketing Calendar, you can see all sorts of cool stuff about an entry.
-
 1. Select an entry from the calendar.
 
    ![](assets/image2014-9-26-10-3a30-3a44.png)
@@ -19,4 +17,4 @@ When you view entry details in the Marketing Calendar, you can see all sorts of 
 
 >[!TIP]
 >
->Try right-clicking on the details on the right. You can see menus to navigate or pop up the editors. Nice, right?
+>Right-click on the details panel to access navigation menus or open editors.

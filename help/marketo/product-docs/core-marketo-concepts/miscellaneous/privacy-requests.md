@@ -15,7 +15,7 @@ This document provides an overview of managing individual data privacy requests 
 >
 >**-or-**
 >
->* Marketo Engage users utilizing another Experience Cloud product that's already on the Adobe Identity Management System (e.g., RT-CDP, B2B and B2P Editions, Audience Manager).
+>* Marketo Engage users utilizing another Experience Cloud product that is already on the Adobe Identity Management System (e.g., RT-CDP, B2B and B2P Editions, Audience Manager).
 
 You can submit individual requests to access and delete consumer data from Marketo Engage in two ways:
 
@@ -23,8 +23,6 @@ You can submit individual requests to access and delete consumer data from Marke
 * Through the Privacy Service API. See the documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
 The [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} supports two types of requests: data access and data deletion.
-
-Let's see how you can create Access and Delete requests.
 
 ## Required setup to send requests for Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
@@ -35,7 +33,7 @@ To make requests to Access and Delete data for Marketo Engage, you must:
    a. IMS Org ID<br/>
    b. Email Address of the person you want to act on
 
-   An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, contact Adobe Customer Care at `gdprsupport@adobe.com`. You need the IMS Org ID to submit requests to the Privacy API.
+   An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. If your marketing team or internal Adobe system administrator does not know your organization's IMS Org ID, contact Adobe Support at `gdprsupport@adobe.com`. You need the IMS Org ID to submit requests to the Privacy API.
 
 1. In Privacy Service, you can submit Access and Delete requests to Marketo Engage, and check the status of existing requests.
 

@@ -29,12 +29,11 @@ Customize a presentation by selecting a background image.
 
    >[!TIP]
    >
-   >For the cleanest look, use an image that's **1920 x 1080** or **1280 x 720**.
+   >For the cleanest look, use an image that is **1920 x 1080** or **1280 x 720**.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. Click **[!UICONTROL Preview]** to check it out.
+1. Click **[!UICONTROL Preview]** to preview it.
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 
-   And that's it!

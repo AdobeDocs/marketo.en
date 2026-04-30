@@ -7,11 +7,11 @@ feature: Marketing Calendar
 ---
 # Navigating the Marketing Calendar {#navigating-the-marketing-calendar}
 
-Navigating around the Marketing Calendar is easy. Here's how.
+Learn how to navigate the Marketing Calendar.
 
 >[!PREREQUISITES]
 >
->Make sure you have a [Marketing Calendar license](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - otherwise the Marketing Calendar tile won't show up in My Marketo.
+>Ensure you have a [Marketing Calendar license](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}, otherwise the Marketing Calendar tile will not show up in My Marketo.
 
 >[!NOTE]
 >
@@ -43,13 +43,13 @@ Agenda view displays all of your entries as a list.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   Awesome! This is a great view for seeing everything that's planned.
+   This view shows everything that is planned.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
 ## Navigate Through Time {#navigate-through-time}
 
-Without a DeLorean! Just click the navigation buttons.
+Click the navigation buttons.
 
 ![](assets/image2014-9-26-10-3a31-3a25.png)
 
@@ -61,7 +61,7 @@ You can also use these keyboard shortcuts.
 | Forward in time |alt/opt + down |
 | Go to "today" |alt/opt + t |
 
-Awesome! These are the basics. You can also customize your view using filters.
+These are the basics. You can also customize your view using filters.
 
 >[!MORELIKETHIS]
 >

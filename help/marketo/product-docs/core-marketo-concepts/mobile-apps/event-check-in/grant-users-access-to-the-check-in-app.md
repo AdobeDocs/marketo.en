@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # Grant Users Access to the Check-in App {#grant-users-access-to-the-check-in-app}
 
-Marketo Engage has a special user role for the event check-in app. Here's how to create a new role with permission to use the app.
+Marketo Engage has a special user role for the event check-in app. Follow the steps below to create a new role with permission to use the app.
 
 >[!IMPORTANT]
 >
@@ -49,7 +49,7 @@ Marketo Engage has a special user role for the event check-in app. Here's how to
 
    >[!CAUTION]
    >
-   >Users who don't have access to the Database can't see any people in the app.
+   >Users who do not have access to the Database cannot see any people in the app.
 
    >[!TIP]
    >

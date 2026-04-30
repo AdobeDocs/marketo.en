@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2953364
 description: "Understand how Program Focus lets you interact with Marketing Calendar entries. Enable focus on a program to create, edit, delete, or confirm entries."
-title: Understand/Enable Program Focus
+title: Understand and Enable Program Focus
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
 ---
-# Understand/Enable Program Focus {#understand-enable-program-focus}
+# Understand and Enable Program Focus {#understand-enable-program-focus}
 
 The Marketing Calendar gives you a bird's-eye view of things, but it also allows some interactions. You can [create](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [edit](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [delete](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}, and [confirm](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"} entries. In order to interact with entries, you must focus on a program first.
 
@@ -17,7 +17,7 @@ The Marketing Calendar gives you a bird's-eye view of things, but it also allows
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
-1. Notice we are now focused on our program named "Press Release."
+1. The program is now focused on "Press Release."
 
    ![](assets/image2014-10-20-13-3a24-3a15.png)
 
@@ -25,11 +25,11 @@ The Marketing Calendar gives you a bird's-eye view of things, but it also allows
    >
    >Focusing on a program allows you to interact only with entries that belong to it and create new entries that will be housed by it.
 
-1. Once you are done, release focus to interact with other programs/entries.
+1. Once you are done, release focus to interact with other programs or entries.
 
    ![](assets/image2014-10-20-13-3a24-3a24.png)
 
-Awesome! Now go ahead and learn to interact with entries.
+Use the links below to learn how to interact with entries.
 
 >[!MORELIKETHIS]
 >

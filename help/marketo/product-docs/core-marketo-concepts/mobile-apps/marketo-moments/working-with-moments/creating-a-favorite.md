@@ -20,5 +20,3 @@ Favorite a card for easy future reference.
 1. Tap **[!UICONTROL Favorite]**.
 
    ![](assets/image2015-7-14-16-3a36-3a22.png)
-
-   That's all there is to it!

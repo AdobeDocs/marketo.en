@@ -30,7 +30,7 @@ Presentations cycle through different [filter definitions](/help/marketo/product
 
 ## Add a Goal {#add-a-goal}
 
-Presentations are the most awesome when they display your team goals. Just drag over different [custom goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} or [smart list goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. You can use up to 10.
+Presentations are most effective when they display team goals. Drag over different [custom goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} or [smart list goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. You can use up to 10.
 
 1. From the right tree, drag in different goals you want displayed in your presentation.
 
@@ -38,7 +38,7 @@ Presentations are the most awesome when they display your team goals. Just drag 
 
 ## Set the Frequency of Rotation {#set-the-frequency-of-rotation}
 
-Once you've pulled in the views that you want in the presentation, set the frequency at which it rotates between the different views.
+Once the views have been pulled in, set the frequency at which it rotates between the different views.
 
 1. Click **[!UICONTROL 5 minutes]** (this is the default cadence).
 
@@ -60,11 +60,9 @@ The calendar display can be changed to a 3-week or monthly view.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
-   Awesome! Ready to see your presentation?
-
 >[!TIP]
 >
->Set a [background image](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} for your presentation. We suggest kittens or rainbows.
+>Set a [background image](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} for your presentation.
 
 ## Preview a Presentation {#preview-a-presentation}
 
@@ -74,11 +72,11 @@ Once the presentation has been configured, it is ready to be previewed and launc
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
-   Ta-da! This is what your presentation might look like.
+   This is what your presentation might look like.
 
    ![](assets/image2015-3-24-14-3a29-3a29.png)
 
-   Don't like what you see? Go back and use different filter definitions to create the view you like.
+   To adjust the view, use different filter definitions.
 
 >[!MORELIKETHIS]
 >

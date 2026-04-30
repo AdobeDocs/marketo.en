@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # Check People into Your Event from Your Tablet {#check-people-into-your-event-from-your-tablet}
 
-When people show up at your event, you can find their information on the app. After check-in, they're promoted to Attended status when you sync to Marketo.
+When people show up at your event, you can find their information on the app. After check-in, they are promoted to Attended status when you sync to Marketo.
 
 >[!IMPORTANT]
 >
@@ -75,11 +75,11 @@ The guest now has an Attended status, and receives a check mark. The person reco
 
 >[!TIP]
 >
->If a person is invited but hasn't registered, you can search for the name by clicking **[!UICONTROL Search on Server]**, just below the Search box. The Invited status changes to **[!UICONTROL Attended]** for the event.
+>If a person is invited but has not registered, you can search for the name by clicking **[!UICONTROL Search on Server]**, below the Search box. The Invited status changes to **[!UICONTROL Attended]** for the event.
 
 ## Create a New Person on the Tablet {#create-a-new-person-on-the-tablet}
 
-You can manually add guests who aren't existing people in your Marketo database. They'll be automatically checked in and added to your Database when you sync with Marketo.
+You can manually add guests who are not existing people in your Marketo database. They will be automatically checked in and added to your Database when you sync with Marketo.
 
 1. Click **[!UICONTROL Add]**.
 
@@ -97,7 +97,7 @@ You can manually add guests who aren't existing people in your Marketo database.
 
    >[!NOTE]
    >
-   >You can only use the existing fields. You can't create custom ones.
+   >Only the existing fields are available. Custom fields cannot be created.
 
    >[!CAUTION]
    >
@@ -113,11 +113,10 @@ If you checked in a person by mistake, _before you synced with Marketo_, you can
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
-   All fixed!
 
 ## Edit a Person Record at Check-In {#edit-a-person-record-at-check-in}
 
-You can add and modify guest information, right at the event!
+You can add and modify guest information at the event.
 
 1. Tap the name in the people list and tap **[!UICONTROL Edit]**.
 
@@ -139,7 +138,7 @@ The Marketo Events app works independently until you sync your activity back to 
 
 >[!CAUTION]
 >
->After you sync, you can't reverse a check-in from the app.
+>After syncing, it is not possible to reverse a check-in from the app.
 
 1. On your tablet, open the app and navigate to your event.
 
@@ -151,7 +150,7 @@ The Marketo Events app works independently until you sync your activity back to 
 
 ## Working with Limited Internet Access {#working-with-limited-internet-access}
 
-Some venues have lousy Internet access. You need a good connection to:
+Some venues have poor Internet access. You need a good connection to:
 
 * Download and install the app
 * Log in
@@ -162,7 +161,7 @@ If you are concerned about Internet access at the venue, you may want to log in 
 
 >[!TIP]
 >
->If you don't have an Internet connection, you still can create a new person for a person checking in. It'll reconcile with the existing person when you sync the app.
+>If there is no Internet connection, a new person can still be created for a person checking in. It will reconcile with the existing person when you sync the app.
 
 >[!NOTE]
 >
