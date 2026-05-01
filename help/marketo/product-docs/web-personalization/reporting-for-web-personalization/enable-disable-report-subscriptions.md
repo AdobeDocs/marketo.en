@@ -17,4 +17,4 @@ feature: Web Personalization
 
    ![](assets/email-settings.png)
 
-   That's it! To unsubscribe from the report simply uncheck and click **[!UICONTROL Save]**.
+   To unsubscribe from the report, uncheck and click **[!UICONTROL Save]**.

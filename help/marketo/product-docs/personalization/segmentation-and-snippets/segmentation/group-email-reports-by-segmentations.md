@@ -29,7 +29,7 @@ Segmentations are not just for Dynamic Content. You can group your email perform
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. That's it! Click the **[!UICONTROL Report]** tab. If you use one segmentation, your report shows one row for each segment.
+1. Click the **[!UICONTROL Report]** tab. If you use one segmentation, your report shows one row for each segment.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 

@@ -45,4 +45,4 @@ After you've [created your email script](/help/marketo/product-docs/email-market
 >
 >Don't forget to [approve the email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
-That's it! When this email is sent out, the script behind the token will run and populate content.
+When this email is sent out, the script behind the token will run and populate content.

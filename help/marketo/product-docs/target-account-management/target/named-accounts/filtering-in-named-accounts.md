@@ -33,7 +33,7 @@ Filtering is a great way to narrow down data quickly.
 
    ![](assets/four-2.png)
 
-   And that's it! Your filtered results appear on the left side of the screen.
+   Your filtered results appear on the left side of the screen.
 
    >[!NOTE]
    >

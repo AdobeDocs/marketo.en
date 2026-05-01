@@ -41,7 +41,7 @@ Not every field in Salesforce is useful for Marketing. You can optimize the sync
    >
    >If the field you hide in [!DNL Salesforce] has already been synced with Marketo, you'll need to hide it in Marketo, too if you don't want to use it.
 
-   That's it! You will no longer see this field in Marketo after the next sync is finished.
+   This field no longer appears in Marketo after the next sync is finished.
 
    >[!MORELIKETHIS]
    >

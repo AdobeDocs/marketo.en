@@ -19,8 +19,6 @@ Learn how to manage your groups in [!DNL Sales Connect].
 
    ![](assets/two-3.png)
 
-   That's it!
-
 ## Add Contacts to a Group {#add-contacts-to-a-group}
 
 1. In the [!UICONTROL People] page, find and select the group you want to add people to.

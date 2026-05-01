@@ -23,7 +23,7 @@ If you no longer want to use a piece of content in a stream you can either [remo
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
-   That's it! Remember, archive if you want to preserve history.
+   Archive if you want to preserve history.
 
 ## Unarchive Stream Content {#unarchive-stream-content}
 

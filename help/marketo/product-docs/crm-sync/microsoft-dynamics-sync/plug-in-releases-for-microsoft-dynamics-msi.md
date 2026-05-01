@@ -41,7 +41,7 @@ If you are using Marketo's native CRM sync solution to [!DNL Dynamics], please [
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
 
-And that's it! After the upgrade you will only see one MSI Solution.
+After the upgrade you will only see one MSI Solution.
 
 ## Version Updates {#version-updates}
 

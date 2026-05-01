@@ -21,7 +21,7 @@ Create a [Web Page Activity report](/help/marketo/product-docs/reporting/basic-r
 
 1. [Set the time frame of your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the **[!UICONTROL Report]** tab.
 
-1. That's it! Review your report to see which companies are visiting your site.
+1. Review your report to see which companies are visiting your site.
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 

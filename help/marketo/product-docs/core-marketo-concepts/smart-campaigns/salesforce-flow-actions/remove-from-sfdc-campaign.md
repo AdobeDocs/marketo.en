@@ -23,4 +23,4 @@ Just like how you can [Add to SFDC Campaign](/help/marketo/product-docs/core-mar
    >
    >If the person or lead is not a member of the campaign you selected, they will be skipped.
 
-That's it! When people or leads flow through, they will be removed from the [!DNL Salesforce] campaign you chose.
+When people or leads flow through, they will be removed from the [!DNL Salesforce] campaign you chose.

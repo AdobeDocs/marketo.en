@@ -29,7 +29,7 @@ In the [[!UICONTROL Web Page Activity]](/help/marketo/product-docs/reporting/bas
    >
    >Including ISPs for anonymous visitors generates a longer report, but excluding them provides a clearer view of where your visitors are coming from besides the standard sources, such as Google.
 
-1. That's it. Click the **[!UICONTROL Report]** tab to go back and view your report with known or anonymous people.
+1. Click the **[!UICONTROL Report]** tab to go back and view your report with known or anonymous people.
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 

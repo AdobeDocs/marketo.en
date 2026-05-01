@@ -33,7 +33,7 @@ You can group your person reports by any person or company attribute.
    >
    >If you choose an attribute that has a numeric value, such as _[!UICONTROL Created At]_ or _[!UICONTROL Annual Revenue]_, select the metrics from the **[!UICONTROL Units]** drop-down on the right.
 
-   That's it! Click the **[!UICONTROL Report]** tab to see your report grouped accordingly.
+   Click the **[!UICONTROL Report]** tab to see your report grouped accordingly.
 
    ![](assets/image2017-3-28-11-3a35-3a0.png)
 

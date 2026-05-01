@@ -71,7 +71,7 @@ Here's how the container will look.
 >
 >Creating a container of filters creates an "and" rule, meaning it will only return all of the results combined. In this example, accounts with an industry of healthcare, along with being located in California _and_ with someone listed as the CFO. If you don't want to utilize containers simply drop the filter below/above the existing one.
 
-And that's it! Check out the section below to see how you can leverage your [!UICONTROL Account Smart List].
+View the section below to see how you can leverage your [!UICONTROL Account Smart List].
 
 >[!TIP]
 >

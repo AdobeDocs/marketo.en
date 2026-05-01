@@ -60,8 +60,6 @@ There are _many_ attribute combinations to choose from. In the example below, we
 
    ![](assets/audience-criteria-11.png)
 
-And that's it!
-
 **Anonymous People**
 
 There's an easy way to specifically target people who are not in your database yet. In this example, we're targeting all anonymous people located in the New York area.

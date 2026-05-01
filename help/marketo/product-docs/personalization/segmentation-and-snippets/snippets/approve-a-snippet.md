@@ -21,7 +21,7 @@ A Snippet needs to be approved before use.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
-That's it! Your snippet's status changes from Draft to Approved.
+Your snippet's status changes from Draft to Approved.
 
 >[!MORELIKETHIS]
 >

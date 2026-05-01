@@ -59,7 +59,7 @@ One really cool feature of Marketo forms is that you can dynamically hide/show f
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
-And that's it! Now when people fill out this form and select United States for Country, the State field will dynamically appear with the choices specified.
+Now when people fill out this form and select United States for Country, the State field will dynamically appear with the choices specified.
 
 >[!IMPORTANT]
 >

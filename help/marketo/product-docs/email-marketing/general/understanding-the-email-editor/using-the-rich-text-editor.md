@@ -125,5 +125,3 @@ The root block element setting defines which tags wrap your content. By default,
 1. In the **[!UICONTROL Landing Page Editor]** drop-down, select `<p>` or [!UICONTROL None] and click **[!UICONTROL Save]**. `<p>` is used in this example.
 
    ![](assets/five.png)
-
-   And that's it!

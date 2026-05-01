@@ -30,5 +30,3 @@ A segmentation can be deleted by following the steps below.
 1. Once unapproved, click **[!UICONTROL Segmentation Actions]** and [!UICONTROL Delete] the segmentation.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
-
-That's it. You can't get it back, so make sure you don't need it anymore.

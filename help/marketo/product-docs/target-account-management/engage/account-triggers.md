@@ -33,7 +33,7 @@ Click the named account drop-down...
 
 ![](assets/six-1.png)
 
-That's it! After you finish the rest of your smart campaign, remember to activate it.
+After you finish the rest of your smart campaign, be sure to activate it.
 
 >[!MORELIKETHIS]
 >

@@ -29,8 +29,6 @@ To insert extra and person-specific parameters into your links, you can use toke
 
    ![](assets/five.png)
 
-   And that's it!
-
 >[!MORELIKETHIS]
 >
 >[Using URLs in My Tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)

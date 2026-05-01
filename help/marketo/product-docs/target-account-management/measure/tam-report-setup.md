@@ -43,8 +43,6 @@ The TAM Sales Report is a weekly, personalized email sent to the account team.
 
    ![](assets/seven-2.png)
 
-And that's it!
-
 ## How to Unsubscribe {#how-to-unsubscribe}
 
 Each report comes with the option to opt out. To do so simply click **[!UICONTROL Unsubscribe]** at the bottom of the email.

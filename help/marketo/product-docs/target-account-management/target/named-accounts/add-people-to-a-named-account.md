@@ -45,7 +45,7 @@ There are three different ways to manually add people to a named account in TAM.
 
    ![](assets/eight.png)
 
-   That's it! Next just schedule (or activate) your smart campaign, and the flow step will start adding qualifying people to the designated named account.
+   Next, schedule (or activate) your smart campaign, and the flow step will start adding qualifying people to the designated named account.
 
 ## List Import {#list-import}
 

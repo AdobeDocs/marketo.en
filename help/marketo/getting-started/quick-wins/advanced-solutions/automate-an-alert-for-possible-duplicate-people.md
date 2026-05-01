@@ -38,7 +38,7 @@ Want an alert every time possible duplicate person is created? Here is how to se
 
    ![](assets/automate-an-alert-3.png)
 
-That's it! This smart campaign will trigger every time a new person with an existing full name is created in Marketo.
+This smart campaign will trigger every time a new person with an existing full name is created in Marketo.
 
 >[!MORELIKETHIS]
 >

@@ -37,8 +37,6 @@ To receive automatic updates of a basic report, or to share them, you can subscr
    >
    >Anyone can unsubscribe from the report in the email they receive.
 
-   That's it! Check your inbox!
-
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
    >[!MORELIKETHIS]

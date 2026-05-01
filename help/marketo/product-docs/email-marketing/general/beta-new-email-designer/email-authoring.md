@@ -38,7 +38,7 @@ Learn how to create, personalize, and preview emails in the new Marketo Engage E
 
    ![](assets/create-an-email-4.png)
 
-That's it. Now it is time to design your email.
+Now it is time to design your email.
 
 ## Choose your content type {#choose-your-content-type}
 

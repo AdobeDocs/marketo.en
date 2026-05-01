@@ -15,7 +15,7 @@ See how many people filled out the forms in your landing pages, and how many of 
 
 1. [Create a report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select the [!UICONTROL Landing Page Performance] [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. [Set the time frame of your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the [!UICONTROL Report] tab.
-1. That's it! Explore your report to assess how well your landing pages are doing.
+1. Explore your report to assess how well your landing pages are doing.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
 

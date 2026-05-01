@@ -40,4 +40,4 @@ Give your events specific goals and see how they perform.
 >
 >You can't set goals for an event after it started.
 
-And that's it! Check your event goal status by clicking on the [!UICONTROL Reports] tab.
+Check your event goal status by clicking on the [!UICONTROL Reports] tab.

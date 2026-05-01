@@ -40,10 +40,10 @@ Marketo tracks the number of page views and form completions on each tested page
 
    ![](assets/four-1.png)
 
-   That's it! You will now be able to compare stats of your selected Landing Pages.
+   You are now be able to compare stats of your selected Landing Pages.
 
    ![](assets/five.png)
 
    >[!TIP]
    >
-   >If you ever want to delete the Test Group, simply click **[!UICONTROL Test Group Actions]** and select **[!UICONTROL Delete test group]**.
+   >If you ever want to delete the Test Group, click **[!UICONTROL Test Group Actions]** and select **[!UICONTROL Delete test group]**.

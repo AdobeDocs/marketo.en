@@ -25,8 +25,6 @@ Adding a named account to an account list is simple.
 
    ![](assets/six-1.png)
 
-   That's it!
-
 >[!MORELIKETHIS]
 >
 >[Create a [!UICONTROL Named Account]](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)

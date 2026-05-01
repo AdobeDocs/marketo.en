@@ -59,8 +59,6 @@ If you created an email you'd like to save as a template for future use, follow 
 
    ![](assets/five-1.png)
 
-   And that's it!
-
    >[!CAUTION]
    >
    >When saving an email as a template, variable values will not carry over. Variables will continue to use the defaults specified in the underlying template. Available modules in the email will also not carry over unless they have been inserted into the email body.

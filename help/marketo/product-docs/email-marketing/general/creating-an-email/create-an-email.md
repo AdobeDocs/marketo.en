@@ -39,8 +39,6 @@ Simple! Now for the other way...
 
    ![](assets/create-an-email-5.png)
 
-   And that's it!
-
 Whichever method you choose brings you to the template picker.
 
 1. Give your email a name, click on the template you want to use, then click **[!UICONTROL Create]**.

@@ -137,11 +137,9 @@ Set up user roles to give specific users access to [!DNL Sales Insight].
 
    ![](assets/image2015-5-4-11-3a36-3a59.png)
 
-   And that's it! All the users have access will now be able to see the sales insight section in the lead/contact detail view.
+   All the users that have access will now be able to see the sales insight section in the lead/contact detail view.
 
    ![](assets/image2015-5-4-11-3a39-3a23.png)
-
-   Congrats. You have now unleashed the power of [!DNL Marketo Sales Insight].
 
 >[!MORELIKETHIS]
 >

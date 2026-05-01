@@ -32,9 +32,9 @@ Learn how to send a Static List to [!DNL LinkedIn], [!DNL Facebook], or Google.
 
    >[!NOTE]
    >
-   >If you select "[!UICONTROL Enable continuous audience sync]," Marketo keeps the list up-to-date in the chosen Ad Network as the list changes in your Marketo instance. We both add **and** remove people from the audience if they’re added to/removed from the static list.
+   >If you select "[!UICONTROL Enable continuous audience sync]," Marketo keeps the list up-to-date in the chosen Ad Network as the list changes in your Marketo instance. We both add **and** remove people from the audience if they're added to/removed from the static list.
 
-1. And that's it! Click **[!UICONTROL OK]** to exit.
+1. Click **[!UICONTROL OK]** to exit.
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 

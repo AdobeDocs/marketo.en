@@ -25,4 +25,4 @@ You can either remove or archive a piece of content. Unlike removing stream cont
    >
    >Remove content only if you don't care about history. If you want to preserve history, [archive](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) it instead.
 
-   That's it! Now you know how to remove a piece of content.
+   Now you know how to remove a piece of content.

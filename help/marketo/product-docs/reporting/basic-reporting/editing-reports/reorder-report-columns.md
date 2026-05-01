@@ -21,7 +21,7 @@ You can change the order of the columns in a report.
 
    ![](assets/image2014-9-16-10-3a50-3a34.png)
 
-1. That's it! The columns now appear in the new order.
+1. The columns now appear in the new order.
 
    ![](assets/image2014-9-16-10-3a50-3a37.png)
 

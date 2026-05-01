@@ -49,8 +49,6 @@ Learn how to manage your groups in [!DNL Sales Insight Actions].
 
    ![](assets/manage-groups-2.png)
 
-   That's it!
-
 ## Add Contacts to a Group {#add-contacts-to-a-group}
 
 1. Under _Groups_, select **All People**.

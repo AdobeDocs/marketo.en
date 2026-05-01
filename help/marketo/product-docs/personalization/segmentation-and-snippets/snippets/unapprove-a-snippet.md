@@ -23,4 +23,4 @@ An unapproved Snippet cannot be used in emails or landing pages.
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
-That's it! Your snippet is in draft status now for you to make changes or delete it.
+Your snippet is in draft status now for you to make changes or delete it.

@@ -25,6 +25,6 @@ Have you ever spent time creating the perfect web campaign? You can now save it 
 
    ![](assets/image2015-2-25-19-3a56-3a58.png)   ![](assets/image2015-2-25-19-3a56-3a37.png)
 
-1. That's it! Next time you create a campaign and select template, check [!UICONTROL My Templates] in the Set Campaigns page to see the templates you saved.
+1. Next time you create a campaign and select template, check [!UICONTROL My Templates] in the Set Campaigns page to see the templates you saved.
 
    ![](assets/image2014-9-17-20-3a55-3a31.png)

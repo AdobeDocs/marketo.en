@@ -49,11 +49,9 @@ In this example, we'll choose open rate for the first three weeks of February, 2
 
    ![](assets/8.png)
 
-   And that's it!
-
    >[!TIP]
    >
-   >To move any quick chart, simply click and drag it to the desired position.
+   >To move any quick chart, click and drag it to the desired position.
 
 ## Delete a Quick Chart {#delete-a-quick-chart}
 

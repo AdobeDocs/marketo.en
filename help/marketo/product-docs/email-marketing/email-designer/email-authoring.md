@@ -61,7 +61,7 @@ Emails from the email designer can only be created in the Design Studio and refe
 
 >[!ENDTABS]
 
-That's it. Now it is time to design your email.
+Now it is time to design your email.
 
 ## Choose your content type {#choose-your-content-type}
 

@@ -17,7 +17,7 @@ You can use the Wait flow step to pause a person's journey through a Smart Campa
 
    ![](assets/use-a-duration-in-a-wait-flow-step-2.png)
 
-1. That's it! The flow will pause for your specified duration. For advanced options, click the gear icon to the right.
+1. The flow pauses for your specified duration. For advanced options, click the gear icon to the right.
 
    ![](assets/use-a-duration-in-a-wait-flow-step-3.png)
 

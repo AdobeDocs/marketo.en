@@ -52,7 +52,7 @@ feature: Integrations
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   And that's it! In Facebook you'll see the new audience in **Ads Manager** > **Audiences**.
+   In Facebook you will see the new audience in **Ads Manager** > **Audiences**.
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 

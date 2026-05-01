@@ -16,5 +16,3 @@ When you don't need a piece of content anymore, it is easy to get rid of it.
 1. Click the **[!UICONTROL Content Actions]** drop-down and select **[!UICONTROL Delete Content]**.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
-
-   That's it.

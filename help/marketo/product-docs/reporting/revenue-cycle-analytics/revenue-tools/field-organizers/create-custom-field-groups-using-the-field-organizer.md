@@ -177,5 +177,3 @@ The next three sections describe how to create a custom field group for a string
    The example below shows an entry for Q1 2015 leads through Q3.
 
    ![](assets/16.5.png)
-
-   And that's it! Good job.
