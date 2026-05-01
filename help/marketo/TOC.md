@@ -24,6 +24,7 @@ feature-set: Marketo Engage
     + [New Instance Best Practices: Document Your Setup](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
   + Things to Know {#things-to-know}
     + [Marketo Engage glossary](getting-started/things-to-know/marketo-engage-glossary.md)
+    + [New glossary](getting-started/things-to-know/new-glossary.md)
     + [Icon glossary](getting-started/things-to-know/icon-glossary.md)
     + [Classic icon glossary](getting-started/things-to-know/classic-icon-glossary.md)
     + [Help center](getting-started/things-to-know/help-center.md)
