@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Create a Smart List {#create-a-smart-list}
 
-Smart Lists allow you to find specific groups of people using simple filters. Here's how to create one.
+Smart Lists allow you to find specific groups of people using simple filters.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -29,7 +29,7 @@ Smart Lists allow you to find specific groups of people using simple filters. He
 
    ![](assets/create-a-smart-list-5.png)
 
-   Ta-da, great job! Now let's add and define some filters.
+   Now add and define some filters.
 
    >[!MORELIKETHIS]
    >

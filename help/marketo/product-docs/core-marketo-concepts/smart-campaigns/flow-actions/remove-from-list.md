@@ -15,4 +15,3 @@ Since you have the ability to [Add to List](/help/marketo/product-docs/core-mark
 
    ![](assets/remove-from-list-2.png)
 
-That's it!

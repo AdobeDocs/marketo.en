@@ -7,7 +7,7 @@ feature: Smart Campaigns
 ---
 # Run a Batch Smart Campaign Now | Schedule Tab {#run-a-batch-smart-campaign-now-schedule-tab}
 
-Once you are done building your Batch Campaign, you can choose to run it now or later. Here's how to run it immediately.
+Once you are done building your Batch Campaign, you can choose to run it now or later.
 
 1. Select the Batch Campaign, go to the **[!UICONTROL Schedule]** tab, and click **[!UICONTROL Run Once]**.
 
@@ -21,7 +21,7 @@ Once you are done building your Batch Campaign, you can choose to run it now or 
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
-   Easy peasy! You can also [schedule runs for later](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} if you prefer.
+   You can also [schedule runs for later](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} if you prefer.
 
    >[!NOTE]
    >

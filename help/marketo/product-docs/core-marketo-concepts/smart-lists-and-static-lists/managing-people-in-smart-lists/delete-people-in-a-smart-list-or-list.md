@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Delete People in a Smart List or List {#delete-people-in-a-smart-list-or-list}
 
-You can quickly and easily delete some/all people that are in a list or a Smart List.
+You can delete some or all people that are in a list or a Smart List.
 
 >[!PREREQUISITES]
 >
@@ -61,4 +61,4 @@ You can quickly and easily delete some/all people that are in a list or a Smart 
    >
    >To view the results of the mass deletion, click **[!UICONTROL View Results]** in the Single Flow Action pop-up box in the upper-right corner of the screen. Deletion times can vary greatly, depending on multiple factors.
 
-   This is a great feature, just be careful when using it!
+   Use this feature with caution.

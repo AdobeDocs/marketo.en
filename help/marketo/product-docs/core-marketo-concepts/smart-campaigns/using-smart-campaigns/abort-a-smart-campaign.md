@@ -11,7 +11,7 @@ feature: Smart Campaigns
 >
 >For Emergency Use Only
 
-Sometimes you launch a Smart Campaign and immediately realize it was a mistake. Here's how to pull the emergency brake and stop the Smart Campaign mid-run.
+Sometimes you launch a Smart Campaign and immediately realize it was a mistake. Follow the steps below to stop a Smart Campaign mid-run.
 
 1. Choose the desired Smart Campaign and click the **[!UICONTROL Schedule]** tab.
 
@@ -27,7 +27,7 @@ Sometimes you launch a Smart Campaign and immediately realize it was a mistake. 
 
    >[!NOTE]
    >
-   >Aborting does not undo steps already finished, it just stops more from happening (example: emails can't be undelivered).
+   >Aborting does not undo steps already finished, it stops more from happening (example: emails cannot be undelivered).
 
    ![](assets/abort-a-smart-campaign-4.png)
 

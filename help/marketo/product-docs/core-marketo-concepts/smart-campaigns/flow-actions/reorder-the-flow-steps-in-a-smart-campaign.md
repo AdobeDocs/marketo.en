@@ -7,7 +7,7 @@ feature: Smart Campaigns
 ---
 # Reorder the Flow Steps in a Smart Campaign {#reorder-the-flow-steps-in-a-smart-campaign}
 
-The flow steps execute from top to bottom. Here's how to reorder the flow steps to suit your needs.
+Flow steps execute from top to bottom.
 
 >[!PREREQUISITES]
 >

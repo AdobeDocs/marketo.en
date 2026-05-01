@@ -11,7 +11,7 @@ There are many ways to organize the tree in Marketing Activities as well as the 
 
 >[!TIP]
 >
->One day (when you get promoted!), someone else will be trying to make sense of your programs. Good organization will help them be productive quickly.
+>One day, someone else may need to make sense of your programs. Good organization will help them be productive quickly.
 
 ## Folders {#folders}
 
@@ -99,20 +99,20 @@ These are used for data cleanup purposes. Have folders for the dates that the pr
 
 ## Nesting Email Programs {#nesting-email-programs}
 
-Email Programs are designed to be your tool for mail blasting. You can put them inside Events or other programs for promotions, invitations and reminders. They come with a cool dashboard and other A/B testing features. Additionally, they are easily manipulated in the program schedule view.
+Email Programs are designed to be your tool for mail blasting. You can put them inside Events or other programs for promotions, invitations and reminders. They come with a dashboard and other A/B testing features. They can also be managed in the program schedule view.
 
-You can also make an email program as a stand-alone program. Email programs are not allowed inside other email programs. That would be crazy!
+You can also make an email program as a stand-alone program. Email programs are not allowed inside other email programs.
 
 ## Cloning {#cloning}
 
-One of the coolest features in Marketo is the ability to clone programs. This means you can setup a program "template" that has all the smart campaigns and emails you want. Set it up in advance and then clone it for your next marketing initiative.
+One of the most useful features in Marketo is the ability to clone programs. This means you can setup a program "template" that has all the smart campaigns and emails you want. Set it up in advance and then clone it for your next marketing initiative.
 
 >[!TIP]
 >
 >Notice the Event Templates in the example at the top. Put your different types of events in there for easy cloning.
 
-Some people even abstract most of the text in the emails and landing pages into tokens. This allows you to clone and then edit the tokens. Finally, go to the program schedule view and adjust the dates and you are finished. Voila!
+Some people even abstract most of the text in the emails and landing pages into tokens. This allows you to clone and then edit the tokens. Finally, go to the program schedule view and adjust the dates and you are finished.
 
 ## Summary {#summary}
 
-As you can see, there is a lot of power in Marketo. We covered the basics here, but consider additional services from [Marketo Engage experts](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} to fine-tune and set yourself up for success.
+As you can see, there is a lot of power in Marketo. The basics are covered here, but consider additional services from [Marketo Engage experts](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} to fine-tune and set yourself up for success.

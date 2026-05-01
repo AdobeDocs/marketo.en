@@ -29,7 +29,7 @@ View people who qualify to go through the flow when you run a Smart Campaign.
    >
    >The number of qualified people also depends on the Smart Campaign qualification rules. Learn how to [edit qualification rules](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}.
 
-Nice! You can use this list to check which people might go through the flow before you run a Smart Campaign.
+Use this list to check which people might go through the flow before you run a Smart Campaign.
 
 >[!MORELIKETHIS]
 >

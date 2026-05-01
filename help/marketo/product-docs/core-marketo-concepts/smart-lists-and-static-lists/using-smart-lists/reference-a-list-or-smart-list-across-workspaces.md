@@ -43,7 +43,7 @@ Lists and Smart Lists can be shared and referenced across workspaces for easy re
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 
-   Awesome! This list will now be available in both workspaces.
+   This list will now be available in both workspaces.
 
    >[!NOTE]
    >

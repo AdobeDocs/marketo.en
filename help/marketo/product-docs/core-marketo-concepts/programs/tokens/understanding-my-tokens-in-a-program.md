@@ -9,7 +9,7 @@ feature: Tokens
 
 A token is a variable that you can use in emails, Landing Pages, and Smart Campaigns to make your life easier.
 
-In addition to My Tokens, you can also use any of the built-in tokens in your programs. Check out the [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+In addition to My Tokens, you can also use any of the built-in tokens in your programs. See the [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## My Tokens  {#my-tokens}
 

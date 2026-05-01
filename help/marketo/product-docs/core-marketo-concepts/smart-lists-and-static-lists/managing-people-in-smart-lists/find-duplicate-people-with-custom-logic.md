@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Find Duplicate People with Custom Logic {#find-duplicate-people-with-custom-logic}
 
-Marketo Engage has a System Smart List that finds duplicate people by matching their email addresses. If you want to use another field to find duplicates with, here's how.
+Marketo Engage has a System Smart List that finds duplicate people by matching their email addresses. If you want to use another field to find duplicates with, follow the steps below.
 
 >[!PREREQUISITES]
 >
@@ -38,4 +38,4 @@ Marketo Engage has a System Smart List that finds duplicate people by matching t
 
    ![](assets/four-2.png)
 
-   Done! Run the Smart List to find people with the same value in the previously selected field.
+   Run the Smart List to find people with the same value in the previously selected field.

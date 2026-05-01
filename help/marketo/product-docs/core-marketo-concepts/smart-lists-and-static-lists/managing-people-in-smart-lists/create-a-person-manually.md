@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Create a Person Manually {#create-a-person-manually}
 
-There are many ways to get a person into Marketo Engage. If you need to create one manually, here's how to do it.
+There are many ways to get a person into Marketo Engage. To create one manually, follow the steps below.
 
    >[!CAUTION]
    >

@@ -21,7 +21,7 @@ Since only the first matching choice applies to a person, order matters. If you 
    >
    >When reordering, you can **[!UICONTROL Move Up]**, **[!UICONTROL Move Down]**, or **[!UICONTROL Move To]**.
 
-   Nice job! Now you know how to move a choice up/down by single increments.
+   You can move a choice up or down by single increments.
 
    ![](assets/reorder-add-choice-in-a-flow-step-3.png)
 
@@ -29,4 +29,3 @@ Since only the first matching choice applies to a person, order matters. If you 
 
    ![](assets/reorder-add-choice-in-a-flow-step-4.png)
 
-It is that easy to re-organize the order of your flow step choices.

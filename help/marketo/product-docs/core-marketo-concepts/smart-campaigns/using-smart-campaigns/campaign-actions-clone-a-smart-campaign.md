@@ -20,5 +20,3 @@ Cloning campaigns can save you time. No need to build everything from scratch - 
 1. Choose a **[!UICONTROL Program]**. Enter a **[!UICONTROL Campaign Name]** and click **[!UICONTROL Clone]**.
 
    ![](assets/campaign-actions-clone-a-smart-campaign-3.png)
-
-And done!

@@ -7,7 +7,7 @@ feature: Smart Campaigns
 ---
 # Append Data to a Field {#append-data-to-a-field}
 
-There's an easy way to append data to a field. Here's how.
+Appending data to a field is straightforward.
 
 >[!PREREQUISITES]
 >
@@ -33,4 +33,4 @@ There's an easy way to append data to a field. Here's how.
 
    ![](assets/append-data-to-a-field-4.png)
 
-That's it! You can get creative and add multiple tokens in there.
+You can add multiple tokens in the same field.

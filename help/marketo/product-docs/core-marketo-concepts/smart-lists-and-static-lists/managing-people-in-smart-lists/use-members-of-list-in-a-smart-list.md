@@ -11,7 +11,7 @@ feature: Smart Lists
 >
 >You can add people to a list using [Import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) or the [Add to List flow step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
 
-With this filter, you can pull members from another list by referring to it in your Smart List rules. Here's how.
+With this filter, you can pull members from another list by referring to it in your Smart List rules.
 
 1. Select a Smart List and click the **[!UICONTROL Smart List]** tab.
 
@@ -25,4 +25,4 @@ With this filter, you can pull members from another list by referring to it in y
 
    ![](assets/memberoflist.png)
 
-   Done! In this example, the Smart List will now target only members of that list and evaluate them based on any other rules you include.
+   In this example, the Smart List will now target only members of that list and evaluate them based on any other rules you include.

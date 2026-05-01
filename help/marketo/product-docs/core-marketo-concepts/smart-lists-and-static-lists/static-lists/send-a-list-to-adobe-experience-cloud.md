@@ -26,7 +26,7 @@ feature: Static Lists
 
 ## How to Send a Static List {#how-to-send-a-static-list}
 
-A static list is just that, static. No changes will occur to the list in Adobe Experience Cloud unless you manually make them.
+A static list is static. No changes will occur to the list in Adobe Experience Cloud unless you manually make them.
 
 1. In Marketo, find the list you want to export. Right-click on it and select **[!UICONTROL Send to Experience Cloud]**.
 
@@ -96,7 +96,7 @@ You can stop your list from syncing at any time.
 
 ### Trait Usage for Adobe Audience Manager Customers {#trait-usage-aam}
 
-When you initiate a list export in Marketo, you'll notice the following changes reflected in your Adobe Audience Manager instance:
+When you initiate a list export in Marketo, you will notice the following changes reflected in your Adobe Audience Manager instance:
 
 * For all of the People in the exported List, Marketo will write a trait using their hashed emails as a Cross-Device Identifier. The name of the trait will match the Destination Audience Name that you specified during the export.
 * For all of the ECIDs that Marketo has managed to match to the People in the exported List, Marketo will write a trait using the ECID Device Identifier. The name of the trait will match the Destination Audience Name that you specified during the export.

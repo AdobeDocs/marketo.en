@@ -7,7 +7,7 @@ feature: Smart Campaigns
 ---
 # View Blocked People in a Smart Campaign {#view-blocked-people-in-a-smart-campaign}
 
-Blocked people in the Marketo Engage database are marked blocklisted, unsubscribed, marketing suspended, and/or have an invalid or empty email.
+Blocked people in the Marketo Engage database are marked blocklisted, unsubscribed, marketing suspended, or have an invalid or empty email.
 
 1. In your Smart Campaign, click **[!UICONTROL Schedule]**. Under **[!UICONTROL Smart List Status]**, click the second link.
 

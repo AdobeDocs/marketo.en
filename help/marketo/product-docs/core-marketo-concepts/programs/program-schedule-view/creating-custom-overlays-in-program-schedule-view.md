@@ -25,6 +25,6 @@ You can create custom overlays to view entries relevant to your needs.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
-   Awesome. Now your overlay will only display the entries you've defined.
+   Now your overlay will only display the entries you have defined.
 
    ![](assets/image2014-9-24-10-3a20-3a37.png)

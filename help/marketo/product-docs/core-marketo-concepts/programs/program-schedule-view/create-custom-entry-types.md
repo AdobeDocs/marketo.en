@@ -33,7 +33,7 @@ You can create custom entry types to use in your Program Schedule View. This wil
 
    ![](assets/image2014-9-15-16-3a4-3a14.png)
 
-Great! Now when you create a new entry in your schedule view, this type will be an option.
+Now when you create a new entry in your schedule view, this type will be an option.
 
 >[!NOTE]
 >

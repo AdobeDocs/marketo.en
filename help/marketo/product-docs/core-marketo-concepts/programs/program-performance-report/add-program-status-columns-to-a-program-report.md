@@ -33,7 +33,7 @@ Add stats about program status to your [program performance report](/help/market
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. You did it! Click the [!UICONTROL Report] tab to see your report with the program status columns.
+1. Click the [!UICONTROL Report] tab to see your report with the program status columns.
 
    ![](assets/programreport.jpg)
 

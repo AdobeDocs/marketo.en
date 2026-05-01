@@ -33,7 +33,7 @@ Flow steps tell Marketo Engage what you want to have happen to a group of people
 >
 >A red squiggly line appears in case of an invalid entry. Hover over the line to see how to correct it.
 
-Awesome! Be sure to [review and validate the Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} before you schedule or activate it.
+[Review and validate the Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} before you schedule or activate it.
 
 >[!MORELIKETHIS]
 >

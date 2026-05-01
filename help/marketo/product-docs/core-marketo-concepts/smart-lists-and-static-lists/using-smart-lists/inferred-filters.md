@@ -7,11 +7,11 @@ feature: Smart Lists
 ---
 # Inferred Filters {#inferred-filters}
 
-When someone visits your website, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} cookies them and puts them into the system. We look up their IP in a special database and infer all kinds of info.
+When someone visits your website, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} cookies them and puts them into the system. The system looks up their IP in a special database and infers all kinds of info.
 
 >[!NOTE]
 >
->To ensure inferred field values stay current, we periodically update the database that's used for IP address lookups. Database updates can introduce new inferred field values that you may need to add to Smart List filter definitions.
+>To ensure inferred field values stay current, the database used for IP address lookups is periodically updated. Database updates can introduce new inferred field values that you may need to add to Smart List filter definitions.
 >
 >Database updates can occur during a [Marketo Engage product release](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"} will contain an explanation of any changes to inferred field values.
 

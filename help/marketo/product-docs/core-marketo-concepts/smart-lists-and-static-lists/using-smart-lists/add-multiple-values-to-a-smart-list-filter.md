@@ -12,7 +12,7 @@ feature: Smart Lists
 >* [Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [Find and Add Filters to a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-Let's say you want to find everyone in California, but you might be storing both "California" and "CA" in your Database. To include all applicable people, you could use two [!UICONTROL State] filters, but it is easier with one.
+Suppose you want to find everyone in California, but you might be storing both "California" and "CA" in your Database. To include all applicable people, you could use two [!UICONTROL State] filters, but it is easier with one.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -26,11 +26,10 @@ Let's say you want to find everyone in California, but you might be storing both
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-3.png)
 
-1. You can choose values from the left or just type them on the right then click **[!UICONTROL OK]**.
+1. You can choose values from the left or type them on the right then click **[!UICONTROL OK]**.
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-4.png)
 
-Quick work!
 
 >[!MORELIKETHIS]
 >

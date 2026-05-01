@@ -7,7 +7,7 @@ feature: Smart Campaigns
 ---
 # Edit Qualification Rules in a Smart Campaign {#edit-qualification-rules-in-a-smart-campaign}
 
-Qualification rules control how many times someone can run through the flow in a Smart Campaign. By default, even if someone triggers a Smart Campaign multiple times, they will only be sent through the flow once. Here's how to modify these settings.
+Qualification rules control how many times someone can run through the flow in a Smart Campaign. By default, even if someone triggers a Smart Campaign multiple times, they will only be sent through the flow once.
 
 1. In your Smart Campaign, click the **[!UICONTROL Schedule]** tab and then **[!UICONTROL Edit Settings]**.
 

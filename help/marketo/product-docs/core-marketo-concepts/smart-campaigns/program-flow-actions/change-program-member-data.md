@@ -28,7 +28,7 @@ You can use Marketo to update the value of a field by utilizing the Change Data 
 >
 >You can also use tokens in [!UICONTROL New Value].
 
-Now just run the Smart Campaign, and you are done!
+Run the Smart Campaign when ready.
 
 >[!TIP]
 >

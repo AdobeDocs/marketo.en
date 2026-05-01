@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Clone a List or Smart List {#clone-a-list-or-smart-list}
 
-Instead of creating a Smart List from scratch, save some time by cloning a similar one and making changes. Here's how.
+Instead of creating a Smart List from scratch, save some time by cloning a similar one and making changes.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -21,4 +21,4 @@ Instead of creating a Smart List from scratch, save some time by cloning a simil
 
    ![](assets/clone-a-list-or-smart-list-3.png)
 
-Nice job! You can also clone regular lists in the same manner.
+You can also clone regular lists in the same manner.

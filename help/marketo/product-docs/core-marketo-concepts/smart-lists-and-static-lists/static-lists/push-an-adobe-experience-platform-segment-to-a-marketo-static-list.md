@@ -10,10 +10,10 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
 >[!PREREQUISITES]
 >
->* [Edit the API Role](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} to make sure it has the **Read-Write Person** permission (found under the Access API drop-down).
+>* [Edit the API Role](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} to confirm it has the **Read-Write Person** permission (found under the Access API drop-down).
 >* [Create an API User](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"} in Marketo.
->* Go to **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Find the name of the role you just created and click **[!UICONTROL View Details]**. Copy and save the info in **[!UICONTROL Client ID]** and **[!UICONTROL Client Secret]**, as you could need it for Step 7.
->* In Marketo, create a static list, or find and select one you've already created. You'll need its ID.
+>* Go to **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Find the name of the role you created and click **[!UICONTROL View Details]**. Copy and save the info in **[!UICONTROL Client ID]** and **[!UICONTROL Client Secret]**, as you could need it for Step 7.
+>* In Marketo, create a static list, or find and select one you have already created. You will need its ID.
 
 1. Log in to [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"}.
 
@@ -57,7 +57,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    >[!NOTE]
    >
-   >If you choose "[!UICONTROL Match Existing Marketo People Only]" you'll only need to map the Email and/or ECID, so you can skip Steps 13-16.
+   >If you choose "[!UICONTROL Match Existing Marketo People Only]" you will only need to map the Email or ECID, so you can skip Steps 13-16.
 
 1. This section is optional. Click **[!UICONTROL Create]** to skip.
 
@@ -73,11 +73,11 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    >[!NOTE]
    >
-   >If you choose multiple segments, you'll have to map each segment to a specified static list in the [!UICONTROL Segment Schedule] tab.
+   >If you choose multiple segments, you will have to map each segment to a specified static list in the [!UICONTROL Segment Schedule] tab.
 
    >[!IMPORTANT]
    >
-   >After a segment has been activated to the Marketo destination for the first time, backfilling profiles that already existed in the segment prior to Marketo destination activation can take _up to 24 hours_. Going forward, any time profiles are added to the segment, they'll be added to Marketo immediately.
+   >After a segment has been activated to the Marketo destination for the first time, backfilling profiles that already existed in the segment prior to Marketo destination activation can take _up to 24 hours_. Going forward, any time profiles are added to the segment, they will be added to Marketo immediately.
 
 1. Click **[!UICONTROL Add New Mapping]**.
 
@@ -113,7 +113,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    >[!IMPORTANT]
    >
-   >Mapping Email and/or ECID from the **[!UICONTROL Identity Namespace]** tab is the most important thing to do to ensure the person is matched in Marketo. Mapping Email will ensure the highest match rate.
+   >Mapping Email or ECID from the **[!UICONTROL Identity Namespace]** tab is the most important thing to do to ensure the person is matched in Marketo. Mapping Email will ensure the highest match rate.
 
 1. Now it is time to choose the source fields. For email, click the cursor icon.
 

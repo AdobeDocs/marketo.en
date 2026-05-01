@@ -19,4 +19,4 @@ feature: Smart Campaigns
 
    >[!CAUTION]
    >
-   >Leaving the new value blank or simply entering a SPACE will not truly empty the field. You have to type in NULL. Also, remember, flow steps can't be undone after running.
+   >Leaving the new value blank or entering a SPACE will not truly empty the field. You have to type in NULL. Also, remember, flow steps cannot be undone after running.

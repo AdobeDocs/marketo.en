@@ -7,9 +7,9 @@ feature: Smart Lists
 ---
 # Find and Add Filters to a Smart List {#find-and-add-filters-to-a-smart-list}
 
-Once you've [created a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}, you need to add and [define](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"} filters. Here's how to find and add filters.
+After you have [created a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}, you need to add and [define](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"} filters.
 
-In this example, let's find all people in California with a score over 50.
+In this example, the goal is to find all people in California with a score over 50.
 
 >[!TIP]
 >
@@ -31,7 +31,7 @@ In this example, let's find all people in California with a score over 50.
 
    ![](assets/find-and-add-filters-to-a-smart-list-4.png)
 
-Perfect! Let's go ahead and define these filters.
+Define these filters.
 
 >[!MORELIKETHIS]
 >

@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Find and Merge Duplicate People {#find-and-merge-duplicate-people}
 
-Marketo Engage automatically de-duplicates when new people enter the system. However, your CRM may have initially sent over duplicates. Here's how to merge them.
+Marketo Engage automatically de-duplicates when new people enter the system. However, your CRM may have initially sent over duplicates.
 
 >[!CAUTION]
 >
@@ -29,7 +29,7 @@ Marketo Engage automatically de-duplicates when new people enter the system. How
 
    >[!CAUTION]
    >
-   >Merging people in Marketo may not work if you use a [!DNL Salesforce] Person Account. Please merge the records in [!DNL Salesforce] if possible.
+   >Merging people in Marketo may not work if you use a [!DNL Salesforce] Person Account. Merge the records in [!DNL Salesforce] if possible.
 
 1. Select the **[!UICONTROL Possible Duplicates]** System Smart List and click on the **[!UICONTROL People]** tab.
 
@@ -43,7 +43,7 @@ Marketo Engage automatically de-duplicates when new people enter the system. How
 
    >[!CAUTION]
    >
-   >When merging people, if the losing person has a Marketo custom object, it will _not_ get re-associated to the winning person. Please re-parent the custom object prior to performing the merge.
+   >When merging people, if the losing person has a Marketo custom object, it will _not_ get re-associated to the winning person. Re-parent the custom object prior to performing the merge.
 
 1. Select the duplicates by holding Ctrl/Cmd and clicking, then click **[!UICONTROL Merge People]**.
 
@@ -74,7 +74,7 @@ If you have Salesforce integration, there are a few notes about the effect of me
 * When merging only Leads or only Contacts, they merge per normal [!DNL Salesforce] rules.
 * When merging Leads and Contacts together, all Leads are converted to Contacts prior to merging per normal [!DNL Salesforce] rules.
 
-For specifics of Salesforce behavior when merging Leads or Contacts, please check the following [!DNL Salesforce] documents:
+For specifics of Salesforce behavior when merging Leads or Contacts, check the following [!DNL Salesforce] documents:
 
 * [Merging Duplicate Leads](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
 * [Merging Duplicate Contacts](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}

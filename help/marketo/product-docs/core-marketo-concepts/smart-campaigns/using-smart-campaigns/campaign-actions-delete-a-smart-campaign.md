@@ -7,7 +7,7 @@ feature: Smart Campaigns
 ---
 # Campaign Actions: Delete a Smart Campaign {#campaign-actions-delete-a-smart-campaign}
 
-If you have an old Smart Campaign that you don't need anymore, you can delete it. Here's how.
+If you have an old Smart Campaign that you do not need anymore, you can delete it.
 
 >[!CAUTION]
 >

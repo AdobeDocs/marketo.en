@@ -27,8 +27,8 @@ Move a Smart Campaign between different programs or folders by using drag-and-dr
 
    >[!NOTE]
    >
-   >In this example we're moving the Smart Campaign to another program, but you can also move it to a campaign folder.
+   >In this example the Smart Campaign is being moved to another program, but you can also move it to a campaign folder.
 
-Well done! The Smart Campaign has been moved.
+The Smart Campaign has been moved.
 
    ![](assets/move-a-smart-campaign-4.png)

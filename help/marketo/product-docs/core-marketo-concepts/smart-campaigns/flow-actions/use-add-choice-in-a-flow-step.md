@@ -45,7 +45,7 @@ feature: Smart Campaigns
    >
    >Only the first matching choice is applied to the flow step. Learn how to [reorder "Add Choice" in a flow action](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}.
 
-   Great! You can now create a single Smart Campaign with flow step choices instead of creating multiple Smart Campaigns for each choice.
+   You can now create a single Smart Campaign with flow step choices instead of creating multiple Smart Campaigns for each choice.
 
    >[!MORELIKETHIS]
    >

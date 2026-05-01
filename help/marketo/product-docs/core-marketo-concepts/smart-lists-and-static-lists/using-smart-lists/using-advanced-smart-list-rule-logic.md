@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Using Advanced Smart List Rule Logic {#using-advanced-smart-list-rule-logic}
 
-You can find the exact people you need by applying Smart List rule logic to multiple filters within a Smart List. Here's how.
+You can find the exact people you need by applying Smart List rule logic to multiple filters within a Smart List.
 
 >[!PREREQUISITES]
 >
@@ -62,4 +62,4 @@ Depending on your intention, you may need to add nested parentheses when using f
 
 >[!TIP]
 >
->If you enter an invalid rule, you'll see a red line displayed under the rule. Scroll over the text to see the related error message.
+>If you enter an invalid rule, you will see a red line displayed under the rule. Scroll over the text to see the related error message.

@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Refresh a List or Smart List {#refresh-a-list-or-smart-list}
 
-If you've run a Smart List and a few minutes have passed, the results could be different now - refresh to find out.
+If you have run a Smart List and a few minutes have passed, the results could be different now - refresh to find out.
 
 ## Refresh Results {#refresh-results}
 

@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Create and Change Views for Lists and Smart List {#create-and-change-views-for-lists-and-smart-list}
 
-A Smart List displays a default set of columns. Did you know you could edit those columns to your heart's content? Here's how.
+A Smart List displays a default set of columns. Those columns can be customized.
 
 ## Create a View {#create-a-view}
 
@@ -39,7 +39,7 @@ A Smart List displays a default set of columns. Did you know you could edit thos
 
 ## Edit a View {#edit-a-view}
 
-1. Make sure that the view you want to edit is selected in the **[!UICONTROL View]** drop-down.
+1. Verify that the view you want to edit is selected in the **[!UICONTROL View]** drop-down.
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-5.png)
 

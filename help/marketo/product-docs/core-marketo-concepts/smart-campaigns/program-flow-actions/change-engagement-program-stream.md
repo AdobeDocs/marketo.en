@@ -22,5 +22,3 @@ Normally, you would use [stream transition rules](/help/marketo/product-docs/ema
 1. Select the stream you want to add your people to.
 
    ![](assets/change-engagement-program-stream-3.png)
-
-And that's it!

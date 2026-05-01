@@ -17,7 +17,7 @@ Want to reschedule a Batch Campaign run? Drag and drop them into the future in t
 
   ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Great! The Smart Campaign has been rescheduled. The time can also be changed from the **[!UICONTROL Date]** drop-down in the entry details.
+1. The Smart Campaign has been rescheduled. The time can also be changed from the **[!UICONTROL Date]** drop-down in the entry details.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 

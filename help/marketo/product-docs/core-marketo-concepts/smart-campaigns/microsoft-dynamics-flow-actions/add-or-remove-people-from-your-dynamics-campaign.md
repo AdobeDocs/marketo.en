@@ -20,9 +20,9 @@ In your Smart Campaign, find and select the Dynamics campaign you want to add yo
 
 >[!NOTE]
 >
->If you can't see a Dynamics campaign in the campaign list:
+>If you cannot see a Dynamics campaign in the campaign list:
 >
->* Make sure the Campaign Sync is functional
+>* Verify the Campaign Sync is functional
 >* The campaign is not active in [!DNL Microsoft Dynamics]
 
 The system automatically creates a campaign-specific static marketing List, each for leads and contacts, to add the person to. It is a one-time action and once for subsequent syncs to the campaign, the same Marketing List is used. The naming standard adopted for the static Marketing List name is `Mkto-leads-<uniqueID>` for leads and `Mkto-contacts-<uniqueID>` for contacts.
@@ -43,7 +43,7 @@ In your Smart Campaign, find and select the Dynamics campaign you want to remove
 
 >[!NOTE]
 >
->If you don't see a [!DNL Dynamics] campaign in the campaign list:
+>If you do not see a [!DNL Dynamics] campaign in the campaign list:
 >
->* Make sure the Campaign Sync is functional
+>* Verify the Campaign Sync is functional
 >* The campaign is not active in [!DNL Microsoft Dynamics]

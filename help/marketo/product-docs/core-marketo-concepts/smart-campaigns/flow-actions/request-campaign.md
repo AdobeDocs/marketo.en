@@ -33,8 +33,6 @@ You can place people into a specific campaign by using the "[!UICONTROL Request 
 
    ![](assets/request-campaign-5.png)
 
-   Awesome work!
-
 >[!TIP]
 >
 >Use the "[!UICONTROL Campaign is Requested]" trigger or filter to find people affected by this flow step.

@@ -35,4 +35,4 @@ If you ever have a group of people that are marked with Program Success incorrec
    >
    >You can use the flow step twice to set both the Success flag as well as the date.
 
-Great! Now you know how to undo and force success.
+Now you know how to undo and force success.

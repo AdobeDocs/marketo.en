@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Use the Data Value Changed Filter in a Smart List {#use-the-data-value-changed-filter-in-a-smart-list}
 
-Values are constantly changing and being updated in your Marketo database. Sometimes instead of looking for a specific value, you want to look for people that have had a change in value. Here's how.
+Values are constantly changing and being updated in your Marketo database. Sometimes instead of looking for a specific value, you want to look for people that have had a change in value.
 
 >[!PREREQUISITES]
 >

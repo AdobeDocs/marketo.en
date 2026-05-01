@@ -45,7 +45,7 @@ You can insert Program Member Custom Fields Tokens into emails, Landing Pages, S
 
 >[!NOTE]
 >
->Don't forget to approve your email.
+>Remember to approve your email.
 
 **Landing Pages**
 

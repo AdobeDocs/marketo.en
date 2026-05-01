@@ -41,8 +41,8 @@ Confirmed entries will definitely run. They have rules, approved assets, and a c
 
 ## Finished  {#finished}
 
-Finished entries have already run. They can only be in the past (obviously). Once an entry has run and is **[!UICONTROL Finished]**, you cannot move it or make it tentative. (No changing reality and disrupting the time-stream continuum.)
+Finished entries have already run. They can only be in the past. Once an entry has run and is **[!UICONTROL Finished]**, you cannot move it or make it tentative.
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
-These states are powerful tools. When you clone a program, all of the smart campaign and email program dates will be tentative. They can all be confirmed right from the schedule view. Cool, right?
+These states are powerful tools. When you clone a program, all of the smart campaign and email program dates will be tentative. They can all be confirmed right from the schedule view.

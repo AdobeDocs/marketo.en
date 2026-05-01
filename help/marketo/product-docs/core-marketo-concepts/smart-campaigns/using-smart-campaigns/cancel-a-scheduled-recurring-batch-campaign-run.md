@@ -7,7 +7,7 @@ feature: Smart Campaigns
 ---
 # Cancel a Scheduled Recurring Batch Campaign Run {#cancel-a-scheduled-recurring-batch-campaign-run}
 
-If you have a recurring Batch Campaign that you don't want any more, you can cancel the future runs. Here's how.
+If you have a recurring Batch Campaign that you no longer want, you can cancel the future runs.
 
 1. Select the Smart Campaign and click the **Schedule** tab.
 

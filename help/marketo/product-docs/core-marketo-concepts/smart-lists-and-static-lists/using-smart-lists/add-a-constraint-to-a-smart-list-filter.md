@@ -9,7 +9,7 @@ feature: Smart Lists
 
 When creating a Smart List, some filters have advanced options called "constraints." These are extra conditions that you can add to filters and triggers to help narrow your search even further.
 
-In this example, let's add some constraints to a **[Data Value Changed](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}** filter to find people that had a Status change from MQL to SQL.
+In this example, add some constraints to a **[Data Value Changed](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}** filter to find people that had a Status change from MQL to SQL.
 
 >[!PREREQUISITES]
 >
@@ -40,4 +40,4 @@ In this example, let's add some constraints to a **[Data Value Changed](/help/ma
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-6.png)
 
-1. Nicely done! Click the **[!UICONTROL People]** tab to see all people who had a Status change from "MQL" to "SQL" in the past 30 days.
+1. Click the **[!UICONTROL People]** tab to see all people who had a Status change from "MQL" to "SQL" in the past 30 days.

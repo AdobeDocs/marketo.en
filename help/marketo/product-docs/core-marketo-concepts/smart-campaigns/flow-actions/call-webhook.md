@@ -23,7 +23,7 @@ Webhooks let you interact with third party services. Send/receive information by
 
 ![](assets/call-webhook-2.png)
 
-That's all! Your webhook will now be invoked whenever people enter the smart campaign flow.
+Your webhook will now be invoked whenever people enter the smart campaign flow.
 
 >[!MORELIKETHIS]
 >

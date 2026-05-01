@@ -15,7 +15,7 @@ You may have noticed the "Use filters" option when building campaign Smart Lists
 >
 >Changing smart list rule logic only applies to filters, _not_ triggers.
 
-Triggers are always evaluated as OR even if the above setting is set to ALL. Here's an example:
+Triggers are always evaluated as OR even if the above setting is set to ALL. For example:
 
 ![](assets/using-standard-smart-list-rule-logic-2.png)
 

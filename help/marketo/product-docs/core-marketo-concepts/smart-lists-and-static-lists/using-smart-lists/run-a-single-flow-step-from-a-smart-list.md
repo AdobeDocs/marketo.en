@@ -33,7 +33,7 @@ If you want to run a one-time only flow step, you can use a single flow step wit
    >
    >If the results span over multiple pages, clicking **[!UICONTROL Select All]** will select all people across all pages.
 
-1. Under **[!UICONTROL Person Actions]**, select the flow step of your choice. In this example we will use [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+1. Under **[!UICONTROL Person Actions]**, select the flow step of your choice. This example uses [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-4.png)
 
@@ -49,7 +49,7 @@ If you want to run a one-time only flow step, you can use a single flow step wit
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-7.png)
 
-Awesome work! You will see the status of the single flow step in the top right hand corner.
+The status of the single flow step will appear in the top right corner.
 
 ![](assets/run-a-single-flow-step-from-a-smart-list-8.png)
 

@@ -5,9 +5,9 @@ title: Use Built-in/System Smart Lists
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
 ---
-# Use Built-in/System Smart Lists {#use-built-in-system-smart-lists}
+# Use Built-in System Smart Lists {#use-built-in-system-smart-lists}
 
-Marketo Engage has some very useful built-in Smart Lists. Let's check them out!
+Marketo Engage has built-in Smart Lists that are useful for common segmentation tasks.
 
 1. Go to the **[!UICONTROL Database]**.
 
@@ -25,7 +25,7 @@ Marketo Engage has some very useful built-in Smart Lists. Let's check them out!
    >
    >The filters in System Smart Lists do not need to be applied to each Smart List/Campaign. Their contents are automatically recognized.
 
-Here's a summary of what the built-in Smart Lists do:
+The following is a summary of what the built-in Smart Lists do:
 
 <table><thead>
   <tr>
@@ -62,7 +62,7 @@ Here's a summary of what the built-in Smart Lists do:
 
 >[!NOTE]
 >
->System Smart Lists can't be deleted. With the exception of the Possible Duplicates list, they cannot be edited, either.
+>System Smart Lists cannot be deleted. With the exception of the Possible Duplicates list, they cannot be edited, either.
 
 >[!MORELIKETHIS]
 >

@@ -130,7 +130,7 @@ The Action constraints let you use the trigger and filters to track mobile activ
 >   * It cost $30
 >   * It took 20 seconds to buy
 
-Here's how the filter looks in Marketo:
+The filter looks like this in Marketo:
 
    ![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 

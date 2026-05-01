@@ -9,7 +9,7 @@ feature: Smart Lists
 
 An operator is a part of the Smart List that helps you get specific. It lets you describe your filter or trigger in straightforward language. The available operators are different for each type of field.
 
-Here's a glossary describing each set of operators.
+This glossary describes each set of operators.
 
 ## Date Fields {#date-fields}
 
@@ -96,7 +96,7 @@ When you choose an operator, the right side will change dynamically.
   </tr>
 </tbody></table>
 
-**&#42;** Natural language input is cool. Here are some of the patterns you can enter:
+**&#42;** Natural language input uses the following patterns:
 
 * 1 hour
 * 82 days
@@ -104,7 +104,7 @@ When you choose an operator, the right side will change dynamically.
 * 14 months
 * 1 year
 
-Just type the number and unit together and it'll work!
+Type the number and unit together.
 
 >[!NOTE]
 >
@@ -230,4 +230,4 @@ Use the following diagram to understand the difference between the date operator
 </tbody>
 </table>
 
-As you can see, these operators make it easy to speak Marketo-ese with fluency!
+As you can see, these operators make it easy to speak Marketo-ese with fluency.

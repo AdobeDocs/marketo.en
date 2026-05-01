@@ -7,7 +7,7 @@ feature: Programs
 ---
 # Understanding Local Assets in a Program {#understanding-local-assets-in-a-program}
 
-Local assets are the content that make up your program. Assets are customizable and enable you to build automated marketing initiatives. Here's a look at most of the local assets you can create in a program:
+Local assets are the content that make up your program. Assets are customizable and enable you to build automated marketing initiatives. The following are most of the local assets you can create in a program:
 
 ![](assets/one.png)
 

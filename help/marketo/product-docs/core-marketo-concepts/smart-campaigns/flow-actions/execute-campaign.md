@@ -67,7 +67,7 @@ When using Schedule or Request Campaign [in the API](https://experienceleague.ad
 
 >[!CAUTION]
 >
->Never leave your smart lists for Executable Campaigns invalid, otherwise _no one_ will qualify for it. Best practice is to create separate smart list assets, define them completely, and make sure they're valid. Then, use the "Member of Smart List" filter in the Executable Campaign so you can swap your smart list definition.
+>Never leave your smart lists for Executable Campaigns invalid, otherwise _no one_ will qualify for it. Best practice is to create separate smart list assets, define them completely, and confirm they are valid. Then, use the "Member of Smart List" filter in the Executable Campaign so you can swap your smart list definition.
 
 ## Token Inheritance Example {#token-inheritance-example}
 

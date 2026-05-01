@@ -47,7 +47,7 @@ Adding people to your Blocklist prevents them from receiving your correspondence
 
    ![](assets/add-person-to-blocklist-8.png)
 
-1. Select the Smart List you just created.
+1. Select the Smart List you created.
 
    ![](assets/add-person-to-blocklist-9.png)
 

@@ -40,7 +40,7 @@ A token is a variable. You use it in emails, Landing Pages, and Smart Campaigns 
    >
    >Program Member Custom Field Tokens can be used in: Create Task, Create Task in Microsoft, Interesting Moments, Change Data Value Flow Actions, and Webhooks.
 
-   Cool! The data will be pulled from the token when the Smart Campaign runs.
+   The data will be pulled from the token when the Smart Campaign runs.
 
    >[!MORELIKETHIS]
    >

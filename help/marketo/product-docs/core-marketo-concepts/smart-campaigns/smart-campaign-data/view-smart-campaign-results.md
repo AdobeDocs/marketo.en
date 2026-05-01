@@ -7,7 +7,7 @@ feature: Smart Campaigns
 ---
 # View Smart Campaign Results {#view-smart-campaign-results}
 
-Want to see a breakdown of everything that happened in a Smart Campaign? Here's how.
+Learn how to view the results of your Smart Campaign.
 
    >[!TIP]
    >
@@ -29,7 +29,7 @@ Want to see a breakdown of everything that happened in a Smart Campaign? Here's 
    >
    >View person details by clicking the person's name.
 
-   Dig into the results to see what your campaign actually did, or simply [export Smart Campaign results to Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
+   Dig into the results to see what your campaign actually did, or [export Smart Campaign results to Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >

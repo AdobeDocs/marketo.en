@@ -33,4 +33,4 @@ It is not a good idea to email someone multiple times a day, or too many times i
 >
 >To make this the default, edit your [communication limits](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} in the Admin section.
 
-Now you can be assured you aren't accidentally sending too many emails to your audience.
+Now you can be assured you are not accidentally sending too many emails to your audience.

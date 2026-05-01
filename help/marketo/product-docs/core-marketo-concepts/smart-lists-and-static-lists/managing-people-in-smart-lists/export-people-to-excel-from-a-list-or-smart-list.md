@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Export People to Excel from a List or Smart List {#export-people-to-excel-from-a-list-or-smart-list}
 
-If you need list or Smart List results outside of Marketo, you can easily export to Excel. Here's how.
+If you need list or Smart List results outside of Marketo, you can export to Excel.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -31,7 +31,7 @@ If you need list or Smart List results outside of Marketo, you can easily export
 
    >[!TIP]
    >
-   >If your person records contain foreign characters that aren't rendering properly upon export, try changing the file type in the **[!UICONTROL Format]** drop-down.
+   >If your person records contain foreign characters that are not rendering properly upon export, try changing the file type in the **[!UICONTROL Format]** drop-down.
 
 1. The export will run. Once finished you can click **[!UICONTROL Download now]** to grab the file.
 

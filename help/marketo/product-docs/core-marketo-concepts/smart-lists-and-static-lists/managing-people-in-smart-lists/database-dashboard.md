@@ -25,7 +25,7 @@ The graphs indicate total number of people, number of marketable people, as well
 
 >[!TIP]
 >
->Want to obtain more specific or timely info on your people? Try a [People Performance Report](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
+>For more specific or timely information on your people, try a [People Performance Report](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
 **Total People:** The number of all-time people for the workspace listed.
 

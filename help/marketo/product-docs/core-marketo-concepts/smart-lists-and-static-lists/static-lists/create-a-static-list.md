@@ -7,7 +7,7 @@ feature: Static Lists
 ---
 # Create a Static List {#create-a-static-list}
 
-Static lists are a group of people already in your Database. Here's how to create one.
+Static lists are a group of people already in your Database.
 
 1. Go to **[!UICONTROL Database]**.
 
@@ -25,4 +25,4 @@ Static lists are a group of people already in your Database. Here's how to creat
 
    >[!NOTE]
    >
-   >You can add a person to your list as many times as you like, but they'll only appear once. People remain in the list until you remove them.
+   >You can add a person to your list as many times as you like, but they will only appear once. People remain in the list until you remove them.

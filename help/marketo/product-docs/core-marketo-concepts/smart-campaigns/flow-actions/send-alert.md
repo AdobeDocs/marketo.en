@@ -25,7 +25,7 @@ Marketo Engage can send an email alert with person information to anyone - the s
 
     >[!NOTE]
     >
-    >Be sure to use the "[!UICONTROL Send Alert Info]" token in your email.
+    >Use the "[!UICONTROL Send Alert Info]" token in your email.
 
 1. Select the alert recipient. You can pick [!UICONTROL Sales Owner] or [!UICONTROL Account Owner].
 

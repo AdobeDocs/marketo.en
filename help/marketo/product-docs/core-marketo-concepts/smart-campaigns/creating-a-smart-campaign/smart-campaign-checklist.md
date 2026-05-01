@@ -43,7 +43,7 @@ In the **[!UICONTROL Schedule]** tab, check **[!UICONTROL Smart List Status]** f
 
 ## Check Person Restrictions Limit {#check-person-restrictions-limit}
 
-In the **[!UICONTROL Schedule]** tab, make sure the number of qualified people does not exceed the person restriction limit.
+In the **[!UICONTROL Schedule]** tab, confirm the number of qualified people does not exceed the person restriction limit.
 
    ![](assets/smart-campaign-checklist-4.png)
 
@@ -57,4 +57,4 @@ In the **[!UICONTROL Schedule]** tab, make sure the number of qualified people d
 >
 >If your Smart Campaign still fails, learn how to [understand notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) to figure out what went wrong and how to fix it.
 
-Great job! Keep this checklist handy before running a Smart Campaign.
+Keep this checklist handy before running a Smart Campaign.
