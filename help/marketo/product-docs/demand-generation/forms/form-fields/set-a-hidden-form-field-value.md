@@ -31,7 +31,7 @@ If you want to capture URL Parameters (Query Strings) from the page the person i
 
 >[!NOTE]
 >
->Parameters are kinda techie, aren't they? Once you get them though, they are powerful. This [Wikipedia page on Query Strings](https://en.wikipedia.org/wiki/Query_string) is somewhat helpful.
+>Parameters are used to pass data through URLs. This [Wikipedia page on Query Strings](https://en.wikipedia.org/wiki/Query_string) provides a helpful overview.
 
 1. Select **[!UICONTROL URL Parameter]** for **[!UICONTROL Get Value Type]**.
 
