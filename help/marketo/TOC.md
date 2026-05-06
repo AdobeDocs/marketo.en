@@ -990,7 +990,7 @@ feature-set: Marketo Engage
         + [Apply brand](product-docs/email-marketing/email-designer/brands/apply-brand.md)
         + [Create and manage your brands](product-docs/email-marketing/email-designer/brands/manage-brands.md)
         + [Personalize your brands](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
-        + [Brand alignment](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
+        + [Brand checker](product-docs/email-marketing/email-designer/brands/brand-checker.md)
       + [Overview](product-docs/email-marketing/email-designer/overview.md)
       + [Feature Comparison](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [Email Authoring](product-docs/email-marketing/email-designer/email-authoring.md)
