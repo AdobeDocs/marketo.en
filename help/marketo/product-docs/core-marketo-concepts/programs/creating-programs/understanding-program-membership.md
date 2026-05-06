@@ -30,6 +30,14 @@ feature: Programs
 >
 >For an email program, a person is added to membership only when the email is sent.
 
+>[!CAUTION]
+>
+>People who are blocked by communication limits, are unsubscribed, or are marketing suspended will NOT become members of the email program — they are skipped entirely. This means their interaction is not captured in program reporting, which can affect attribution accuracy.
+
+>[!NOTE]
+>
+>For engagement programs, a person becomes a member when they are first added to the program via a flow step, not when they receive their first email. This is different from email programs.
+
 ## Program Statuses {#program-statuses}
 
 Program statuses are the steps people go through in a program (e.g., Invited, RSVP'd, Attended, No Show). These steps are defined by the [channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
