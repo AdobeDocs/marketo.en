@@ -1,7 +1,7 @@
 ---
 unique-page-id: 6848705
 description: "Get help on best practices for organizing your programs. Structure campaign folders and programs for clarity and scale."
-title: Best Practice -How to Organize your Programs
+title: Best Practice - How to Organize your Programs
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
 ---
@@ -42,8 +42,8 @@ In Marketing Activities, you should use folders to organize your programs. The s
 >   * Sales Requested Campaigns
 >* **Archive**
 >   * Archive Events
->     * Archive 2012
->     * Archive 2013
+>     * Archive 2024
+>     * Archive 2025
 
 Each of these mentioned in the example is a folder. Notice how they are all uniquely named. You can have duplicate (simpler) names of folders INSIDE programs, but not at the root of the tree.
 
@@ -65,9 +65,9 @@ Naming is critical, as Marketo's features all use a common language to communica
 >
 >Example program names:
 >
->1. ES 2015-09-21 Widget Intro
->1. NL 2015-06 Newsletter
->1. WBN 2015-12-01 Webinar Topic Here
+>1. ES 2025-09-21 Widget Intro
+>1. NL 2025-06 Newsletter
+>1. WBN 2025-12-01 Webinar Topic Here
 
 Program names need to be unique in your subscription, even in different [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  For the local assets inside programs, the rule is to **keep the name simple**. Just name an invitation "Invitation," as opposed to "2015 June Webinar Invitation." Because these are in a program, the parent program is automatically part of the name when choosing it elsewhere. In other words, local assets only need to be unique inside the program. You can have hundreds of assets named "Invite," each in a different program and it won't mess you up.
 
