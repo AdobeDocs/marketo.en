@@ -23,7 +23,7 @@ Clone an entire program and all its assets instead of manually rebuilding everyt
 
    >[!NOTE]
    >
-   >See that [!UICONTROL NOTE] in the screenshot above? It means if you clone a program with 1000 or more people in a list, the list itself will get cloned, but it will be empty. If you clone a program with a list that contains 999 people or less, that list, along with all of its members, will show up in the cloned program.
+   >See that [!UICONTROL NOTE] in the screenshot above? It means if you clone a program with 1001 or more people in a list, the list itself will get cloned, but it will be empty. If you clone a program with a list that contains 1000 people or less, that list, along with all of its members, will show up in the cloned program.
 
 1. Enter a **[!UICONTROL Name]**.
 
