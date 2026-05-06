@@ -54,9 +54,9 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Brand Quality Checker</strong>: Assess general content quality to identify potential issues with readability, content cohesiveness, and effectiveness, independent of your brand guidelines.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td><strong>Email Designer - Brand Score Checker</strong>: Assess general content quality to identify potential issues with readability, content cohesiveness, and effectiveness, independent of your brand guidelines.</td>
+   <td>Released</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-score.md" target="_blank">Brand score</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>
@@ -64,10 +64,10 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Push Notifications</strong>: Redirect URLs configured in Push notification messages now support Marketo Engage tokens (applicable to <i>Launch App URLs</i> only).
+   <td><strong>Push Notifications</strong>: Redirect URIs configured in Push notification messages now support Marketo Engage tokens (applicable to <i>Launch App URLs</i> only).
    </td>
    <td>Released</td>
-   <td><a href="/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md#redirect-urls">Redirect URLs</a></td>
+   <td><a href="/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md#redirect-uris">Redirect URIs</a></td>
   </tr>
   </tbody>
 </table>

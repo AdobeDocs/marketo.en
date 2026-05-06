@@ -39,11 +39,11 @@ _Release dates/features are subject to change_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">March '26</td>
    <td>March 27, 2026</td>
-   <td>In progress</td>
+   <td>Complete</td>
   </tr>
   <tr>
   <td>May '26</td>
-   <td>May 15, 2026</td>
+   <td>May 22, 2026</td>
    <td>On schedule</td>
   </tr>
   <tr>

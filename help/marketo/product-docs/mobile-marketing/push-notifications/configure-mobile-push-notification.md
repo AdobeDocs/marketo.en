@@ -78,9 +78,9 @@ A deep link URI is made up of three parts: scheme name, path, and identifier. In
 
 That said, your app's deep link structure may be different from the above example. Your developer has many options in defining deep link URIs, so ask your developer to send you the URIs (links) for the pages you are interested in using. This ensures that the URIs you enter in push messages point to the right places. Your developer can [find more information here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
-## Redirect URLs {#redirect-urls}
+## Redirect URIs {#redirect-uris}
 
-Redirect URLs configured in Push notification messages support Marketo tokens in them. Applicable for 'Launch App URLs' only.
+Redirect URIs configured in Push notification messages support Marketo tokens in them. Applicable for 'Launch App URLs' only.
 
 Sample format: 
 
