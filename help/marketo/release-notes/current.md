@@ -64,21 +64,10 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Picklist Management</strong>: You can now specify the values that can be used in fields in Marketo Engage.
-   </td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
    <td><strong>Push Notifications</strong>: Redirect URLs configured in Push notification messages now support Marketo Engage tokens (applicable to <i>Launch App URLs</i> only).
    </td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Released</td>
+   <td><a href="/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md#redirect-urls">Redirect URLs</a></td>
   </tr>
   </tbody>
 </table>
