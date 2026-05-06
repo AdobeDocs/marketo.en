@@ -37,6 +37,10 @@ feature: Reporting, Revenue Cycle Analytics
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
+   >[!NOTE]
+   >
+   >Custom fields can be synced as both dimensions and metrics to the Lead Analysis, Email Analysis, and Program Membership Analysis areas. However, for the Opportunity Analysis and Program Opportunity Analysis areas, custom fields can only be synced as **dimensions**, not metrics.
+
    >[!TIP]
    >
    >Once enabled, the data will be available in [!UICONTROL Revenue Cycle Analytics] the following day.
