@@ -45,6 +45,7 @@ Please refer to [Set up a Custom DKIM Signature](/help/marketo/product-docs/emai
 
 >[!MORELIKETHIS]
 >
+>* [Set up DMARC for your Email](/help/marketo/product-docs/email-marketing/deliverability/set-up-dmarc-for-your-email.md){target="_blank"}
 >* Learn More About SPF and How it Works`: http://www.open-spf.org/Introduction/`
 >* Is My SPF Set Up Correctly?: `https://www.kitterman.com/spf/validate.html`
 >* Did I Use the Right Syntax?: `http://www.open-spf.org/SPF_Record_Syntax/`
