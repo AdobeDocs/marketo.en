@@ -55,4 +55,4 @@ If your Marketo sync user is set to a language other than English you may run in
 
 >[!NOTE]
 >
->Don't forget to Refresh Schema one last time to pull the objects back in your language.
+>Refresh the schema one last time to pull the objects back in your language.

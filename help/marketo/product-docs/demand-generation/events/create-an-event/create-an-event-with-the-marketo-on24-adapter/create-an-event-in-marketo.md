@@ -9,7 +9,7 @@ feature: Events
 
 A Marketo event tracks the progression of your people through a program. It pushes registration information and pulls attendance information using the ON24 adapter. The event captures the status of your people as they progress through it.
 
-Here's how the data is exchanged:
+The following shows how the data is exchanged:
 
 ![](assets/image2015-12-16-13-33-56.png)
 

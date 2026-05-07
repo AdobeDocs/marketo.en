@@ -25,7 +25,7 @@ This option allows Marketo Engage to sync its program membership and statuses wi
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
-There you have it. Just give the sync some time to pull the data from Salesforce and you are good to go.
+The sync may take some time to pull the data from Salesforce.
 
 >[!MORELIKETHIS]
 >

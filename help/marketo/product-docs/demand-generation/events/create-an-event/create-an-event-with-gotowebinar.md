@@ -49,9 +49,9 @@ Enter the following information for your webinar and it will be pulled into Mark
 
 >[!TIP]
 >
->If you need additional [!DNL GoToWebinar] help, please visit their [Help Site](https://support.logmeininc.com/gotowebinar).
+>If you need additional [!DNL GoToWebinar] help, see their [Help Site](https://support.logmeininc.com/gotowebinar).
 
-Now, let's jump into Marketo!
+Now, proceed to Marketo.
 
 1. Select an event. Click **[!UICONTROL Event Actions]** and choose **[!UICONTROL Event Settings]**.
 
@@ -77,7 +77,7 @@ Now, let's jump into Marketo!
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. Excellent! Now the event is synced and scheduled by **[!DNL GoToWebinar]**.
+1. The event is now synced and scheduled by **[!DNL GoToWebinar]**.
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
@@ -101,7 +101,7 @@ Now, let's jump into Marketo!
    >
    >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, select **[!UICONTROL Refresh from Webinar Provider]** from the [!UICONTROL Event Actions] menu in the **[!UICONTROL Summary]** tab of your event.
 
-People who sign up for your webinar will get pushed to your webinar provider via the [!UICONTROL Change Program Status] flow step when the [!UICONTROL New Status] is set to "Registered." No other status will push the person over. Also, be sure to make [!UICONTROL Change Program Status] flow step #1, and [!UICONTROL Send Email] flow step #2.
+People who sign up for your webinar will get pushed to your webinar provider via the [!UICONTROL Change Program Status] flow step when the [!UICONTROL New Status] is set to "Registered." No other status will push the person over. Also, make [!UICONTROL Change Program Status] flow step #1, and [!UICONTROL Send Email] flow step #2.
 
 ## Viewing the Schedule  {#viewing-the-schedule}
 

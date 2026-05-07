@@ -51,7 +51,7 @@ Say you are launching a new book, you might reach some of your audience via emai
    >
    >To replace Marketo landing pages that you have previously published to [!DNL Facebook], select **[!UICONTROL Replace Existing Tab]** and choose the tab to replace from the drop-down list. Note that this will not replace non-Marketo tabs.
 
-1. Leads can now visit your landing page directly on your [!DNL Facebook] Page. Just click the tab name under your Cover image.
+1. Leads can now visit your landing page directly on your [!DNL Facebook] Page. Click the tab name under your Cover image.
 
    ![](assets/image2015-4-22-18-3a42-3a15.png)
 

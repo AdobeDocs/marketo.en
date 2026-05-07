@@ -28,7 +28,7 @@ Your Interactive Webinar is ready to go. Learn everything you need to know about
 
    >[!NOTE]
    >
-   >Participants can enter the room up to 15 minutes before the scheduled start and will see the active layout. We recommend designing a 'Lobby' layout for them.
+   >Participants can enter the room up to 15 minutes before the scheduled start and will see the active layout. Designing a 'Lobby' layout for them is recommended.
 
    >[!TIP]
    >
@@ -82,7 +82,7 @@ To access, select **Host & Presenter area** from the room drop-down menu. Learn 
 
 ### Broadcast Controls {#broadcast-controls}
 
-Broadcast Control adds a virtual green room to your Interactive Webinars session. It enables hosts and presenters to speak and see each other privately without broadcasting to the participants in the room. It is a great way to test your microphone and webcam before a session. Presenters can also collaborate in the Host & Presenter area until they're ready to go live. It provides a way for the speaker and producers to debrief with each other privately after a session, in case an attendee forgets to leave the webinar.
+Broadcast Control adds a virtual green room to your Interactive Webinars session. It enables hosts and presenters to speak and see each other privately without broadcasting to the participants in the room. Use it to test your microphone and webcam before a session. Presenters can also collaborate in the Host & Presenter area until they're ready to go live. It provides a way for the speaker and producers to debrief with each other privately after a session, in case an attendee forgets to leave the webinar.
 
 Broadcast Controls can be set up to automatically begin recording after you leave the green room. This ensures hosts do not have to remember to manually start and stop the recording. Pausing or stopping the broadcast will also pause or stop the recording. Everything is automatic.
 

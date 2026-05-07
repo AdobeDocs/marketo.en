@@ -6,7 +6,7 @@ exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
 ---
 # Templates for Interactive Webinars {#templates-for-interactive-webinars}
 
-Create easy-to-use templates in Interactive Webinars to produce content faster and stay in line with brand guidelines when working on a team.
+Create reusable templates in Interactive Webinars to produce content faster and stay in line with brand guidelines when working on a team.
 
 ## Grant permissions {#grant-permissions}
 
@@ -20,7 +20,7 @@ Before any users in your organization have the ability to access templates your 
 
    ![](assets/templates-for-interactive-webinars-2.png)
 
-1. Double-click the role you'd like to add the permissions to.
+1. Double-click the role you want to add the permissions to.
 
    ![](assets/templates-for-interactive-webinars-3.png)
 
@@ -62,7 +62,7 @@ Before any users in your organization have the ability to access templates your 
 
    ![](assets/templates-for-interactive-webinars-11.png)
 
-1. A new tab opens. To edit/save your template, you'll have to enter a room. As this is not an actual webinar room, no need to make audio/video selections. Click **Enter Room**.
+1. A new tab opens. To edit or save your template, you will have to enter a room. As this is not an actual webinar room, no need to make audio/video selections. Click **Enter Room**.
 
    ![](assets/templates-for-interactive-webinars-12.png)
 
@@ -100,7 +100,7 @@ Follow the steps below to edit an existing template.
 
    ![](assets/templates-for-interactive-webinars-19.png)
 
-1. A new tab opens. To edit your template, you'll have to enter a room. As this is not an actual webinar room, no need to make audio/video selections. Click **Enter Room**.
+1. A new tab opens. To edit your template, you will have to enter a room. As this is not an actual webinar room, no need to make audio/video selections. Click **Enter Room**.
 
    ![](assets/templates-for-interactive-webinars-20.png)
 

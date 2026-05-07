@@ -46,7 +46,7 @@ feature: Integrations
 
    >[!TIP]
    >
-   >Want to swap a new audience with an existing one that's currently associated with an ad set or group? Select the **[!UICONTROL Replace an existing audience]** check box. Doing this will **not** delete the audience being replaced.
+   >To swap a new audience with an existing one that's currently associated with an ad set or group, select the **[!UICONTROL Replace an existing audience]** check box. Doing this will **not** delete the audience being replaced.
 
 1. When done, the status dialog will update.
 

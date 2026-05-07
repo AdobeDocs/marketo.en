@@ -62,15 +62,15 @@ Salesforce uses the OAuth protocol to allow users of applications to securely ac
 
 >[!PREREQUISITES]
 >
->* API access must be enabled for the Salesforce Sync User (if you are a Salesforce Professional Edition user, that access is not available by default&#8212;please contact your Salesforce Account Executive).
+>* API access must be enabled for the Salesforce Sync User (if you are a Salesforce Professional Edition user, that access is not available by default&#8212;contact your Salesforce Account Executive).
 >* Marketo Sync user has to be created in Salesforce.
 >* For existing customers, Feature to "Enable OAuth for SFDC sync" is enabled on the customer's subscription.
 >* Pop-up blockers are disabled.
->* Connected App is created and we have the [!UICONTROL Consumer Key] and [!UICONTROL Consumer Secret] are available for use.
+>* Connected App is created and the [!UICONTROL Consumer Key] and [!UICONTROL Consumer Secret] are available for use.
 
 >[!CAUTION]
 >
->Be sure to hide all fields you don't need in Marketo from the sync user before clicking **[!UICONTROL Sync Fields]**. Once you click Sync Fields, all fields the user can see in SFDC will be created in Marketo permanently and cannot be deleted.
+>Hide all fields you do not need in Marketo from the sync user before clicking **[!UICONTROL Sync Fields]**. Once you click Sync Fields, all fields the user can see in SFDC will be created in Marketo permanently and cannot be deleted.
 
 1. In the Marketo Admin section, click **[!UICONTROL CRM]**, then **[!UICONTROL Sync with Salesforce]**.
 

@@ -15,7 +15,7 @@ The dashboard tracks various metrics, including poll responses, chat activity, a
 View engagement for the following types of sessions in an interactive webinar.
 
 * **Live session**: A real-time online session where participants can actively engage with one another.
-* **On-demand session**: The recording of the live event is made available as an event of its own. New invitees can register and watch the recording. After registration, they'll receive an event joining link, which takes them to the recording of the event after it ends. Participants registered for the live event can also view the recording using the same joining link.
+* **On-demand session**: The recording of the live event is made available as an event of its own. New invitees can register and watch the recording. After registration, they will receive an event joining link, which takes them to the recording of the event after it ends. Participants registered for the live event can also view the recording using the same joining link.
 
 ## View the Dashboard {#view-the-dashboard}
 
@@ -241,7 +241,7 @@ In on-demand activity, view the following metrics:
 
 * Click **[!UICONTROL On-demand report (CSV)]** to download the on-demand metrics.
 * Number of unique viewers until the dashboard was last refreshed.
-* Number of viewers who viewed the recording but couldn't attend the webinar.
+* Number of viewers who viewed the recording but could not attend the webinar.
 * Number of viewers who attended the webinar and viewed the recording. They are likely to be top prospects.
 * Number of viewers that registered for the on-demand session.
 * Average watch duration of recording in minutes.

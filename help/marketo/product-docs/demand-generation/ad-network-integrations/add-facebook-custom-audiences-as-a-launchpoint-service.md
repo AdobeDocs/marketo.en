@@ -11,7 +11,7 @@ feature: Integrations
 >
 >**Admin Permissions Required**
 
-With this integration you can send audience data from Marketo static and smart lists to [!DNL Facebook] to be used as Custom Audiences in [!DNL Facebook] Ad Campaigns. Here's how to set it up.
+With this integration you can send audience data from Marketo static and smart lists to [!DNL Facebook] to be used as Custom Audiences in [!DNL Facebook] Ad Campaigns. Follow these steps to set it up.
 
 1. Go to Marketo **[!UICONTROL Admin]**.
 
@@ -53,11 +53,11 @@ With this integration you can send audience data from Marketo static and smart l
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   Great job! You can now go over to any static or smart list in Marketo and send audience data over to [!DNL Facebook].
+   You can now go to any static or smart list in Marketo and send audience data to [!DNL Facebook].
 
    >[!CAUTION]
    >
-   >Oh, before you go, be sure to [Accept [!DNL Facebook]'s Custom Audiences Terms](https://www.facebook.com/ads/manage/customaudiences/tos.php) within your [!DNL Facebook] account! Without doing this, the audience updates will fail.
+   >Before using your integration, [Accept [!DNL Facebook]'s Custom Audiences Terms](https://www.facebook.com/ads/manage/customaudiences/tos.php) within your [!DNL Facebook] account! Without doing this, the audience updates will fail.
 
 >[!MORELIKETHIS]
 >

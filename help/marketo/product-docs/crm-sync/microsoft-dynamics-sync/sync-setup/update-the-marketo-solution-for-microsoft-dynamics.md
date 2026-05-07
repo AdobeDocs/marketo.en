@@ -33,7 +33,7 @@ When a new [!DNL Microsoft Dynamics] solutions is released, you can download the
 
    ![](assets/msd-online.png)
 
-   Awesome! A zip file of the solution will now be downloaded to your device. If you are unfamiliar with the install steps, please contact your [!UICONTROL Dynamics] Admin.
+   A zip file of the solution will now be downloaded to your device. If you are unfamiliar with the install steps, contact your [!UICONTROL Dynamics] Admin.
 
 ## Performing the Update {#performing-the-update}
 
@@ -45,4 +45,4 @@ When a new [!DNL Microsoft Dynamics] solutions is released, you can download the
 
 >[!CAUTION]
 >
->Selecting Upgrade instead of Update could result in data corruption in your [!DNL Dynamics] environment. **Be sure to choose Update** under [!UICONTROL Import Options].
+>Selecting Upgrade instead of Update could result in data corruption in your [!DNL Dynamics] environment. **Choose Update** under [!UICONTROL Import Options].

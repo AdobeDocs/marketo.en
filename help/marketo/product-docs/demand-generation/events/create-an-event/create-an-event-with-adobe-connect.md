@@ -14,17 +14,17 @@ Syncing with Adobe Connect allows you to manage your webinar registration and at
 >* [Link Adobe Connect and Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-First, make sure you've created your meeting or seminar in Adobe Connect. If you need help, check out the [Adobe Connect User Guide](https://help.adobe.com/en_US/connect/9.0/using/index.html).
+First, verify that you have created your meeting or seminar in Adobe Connect. If you need help, see the [Adobe Connect User Guide](https://help.adobe.com/en_US/connect/9.0/using/index.html).
 
 The meetings and seminars that you create in Adobe Connect must be created under the folder that you specified when you entered your credentials in Marketo. After you create your meeting or seminar, make note of any relevant logistical information (such as the phone number), to use in your confirmation email and ICS file.
 
 >[!CAUTION]
 >
->As the event host, be sure to join from within the app and **not** via the link sent to attendees.
+>As the event host, join from within the app and **not** via the link sent to attendees.
 
 >[!NOTE]
 >
->We do not support Adobe Connect On-Site at this time.
+>Adobe Connect On-Site is not supported at this time.
 
 1. On the home of a new event, select **[!UICONTROL Event Actions]**, and then **[!UICONTROL Event Settings]**.
 
@@ -32,7 +32,7 @@ The meetings and seminars that you create in Adobe Connect must be created under
 
    >[!NOTE]
    >
-   >If you don't see **[!UICONTROL Event Settings]** in the drop-down, make sure the event's channel has **[!UICONTROL Event with Webinar]** selected under "[!UICONTROL Applies to]."
+   >If you don't see **[!UICONTROL Event Settings]** in the drop-down, verify that the event's channel has **[!UICONTROL Event with Webinar]** selected under "[!UICONTROL Applies to]."
 
 1. Under **[!UICONTROL Event Partner]**, select **[!UICONTROL Adobe Connect]**.
 
@@ -46,7 +46,7 @@ The meetings and seminars that you create in Adobe Connect must be created under
 
    ![](assets/event-settings-overview.png)
 
-   Nice! Your Adobe Connect event is now synced with your Marketo event.
+   Your Adobe Connect event is now synced with your Marketo event.
 
    >[!NOTE]
    >
@@ -58,7 +58,7 @@ The meetings and seminars that you create in Adobe Connect must be created under
    >
    >Set your confirmation email to **Operational** to ensure that people who register and may be unsubscribed still receive their confirmation information.
 
-   People who sign up for your webinar will get pushed to your webinar provider via the [!UICONTROL Change Program Status] flow step when the [!UICONTROL New Status] is set to "Registered." No other status will push the person over. Also, be sure to make [!UICONTROL Change Program Status] flow step #1, and [!UICONTROL Send Email] flow step #2.
+   People who sign up for your webinar will get pushed to your webinar provider via the [!UICONTROL Change Program Status] flow step when the [!UICONTROL New Status] is set to "Registered." No other status will push the person over. Also, make [!UICONTROL Change Program Status] flow step #1, and [!UICONTROL Send Email] flow step #2.
 
    ![](assets/adobe.png)
 

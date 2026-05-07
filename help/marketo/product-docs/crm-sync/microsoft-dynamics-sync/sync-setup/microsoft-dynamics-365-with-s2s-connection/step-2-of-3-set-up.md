@@ -35,7 +35,7 @@ feature: Microsoft Dynamics
 
 >[!CAUTION]
 >
->Make sure to make note of the Client Secret value (seen in the screenshot below), as you'll need it later. It is only shown once, and you won't be able to retrieve it again.
+>Note the Client Secret value (seen in the screenshot below), as it is only shown once and cannot be retrieved again.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-4.png)
 
@@ -45,7 +45,7 @@ feature: Microsoft Dynamics
 
    >[!IMPORTANT]
    >
-   >* While giving permissions to the Application User, be sure to assign it to "Marketo Sync User Role."
+   >* While giving permissions to the Application User, assign it to "Marketo Sync User Role."
    >* Note the email address of the Application User from the [view details option](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) on Power Platform. This email address will be used as the username when setting up the connection to MS [!DNL Dynamics] within Marketo.
 
 ## [!DNL Azure AD] Federated with [!DNL AD FS On-prem] {#azure-ad-federated-with-ad-fs-on-prem}
@@ -56,7 +56,7 @@ Additional references [can be found here](https://docs.microsoft.com/en-us/azure
 
 ## Configure Marketo Solution {#configure-marketo-solution}
 
-Almost there! All we have left is to inform Marketo Solution about the new user created.
+One final step: inform the Marketo Solution about the new user created.
 
 1. Go back to the [!UICONTROL Advanced Settings] section and click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to [!UICONTROL Settings], and select **[!UICONTROL Marketo Config]**.
 

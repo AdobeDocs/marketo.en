@@ -31,7 +31,7 @@ Follow the steps below to update your [!DNL Dynamics] Authentication Method.
 
    ![](assets/reconfigure-dynamics-authentication-method-3.png)
 
-1. Select the desired new Authentication Method (in this example we're choosing Web API).
+1. Select the desired new Authentication Method (in this example, Web API is selected).
 
    ![](assets/reconfigure-dynamics-authentication-method-4.png)
 
@@ -42,7 +42,7 @@ Follow the steps below to update your [!DNL Dynamics] Authentication Method.
    >[!NOTE]
    >
    >* The specific fields will vary by the chosen authentication method and the form will be automatically updated depending on previous authentication method.
-   >* If you've synced before, the data in the above form may be pre-populated. Please re-enter all credentials to ensure the correct values.
+   >* If you've synced before, the data in the above form may be pre-populated. Re-enter all credentials to ensure the correct values.
 
 1. If everything is fine, the Validate Sync will generate all green checkmarks ![](assets/green-check.png). Review the message and click **[!UICONTROL Switch]** to update the Authentication Method.
 

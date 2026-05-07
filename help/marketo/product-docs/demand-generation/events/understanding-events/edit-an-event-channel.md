@@ -59,4 +59,4 @@ A new channel type can also be assigned from the event’s **[!UICONTROL Setup]*
 
    ![](assets/2017-06-13-09-35-53.png)
 
-Congrats! You've just edited a channel!
+The channel has been edited.

@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # [!DNL Microsoft Dynamics] Sync: Opportunity Sync {#microsoft-dynamics-sync-opportunity-sync}
 
-Marketo to [!DNL Dynamics] sync is super powerful. Here are all the details for opportunity sync:
+Marketo to [!DNL Dynamics] sync is powerful. Here are all the details for opportunity sync:
 
 ## How are opportunity details kept in sync between the two systems? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
@@ -27,8 +27,8 @@ The Contact/Account can be associated to Opportunity in two ways:
 
 * While creating an opportunity, the Contact (lookup field on the form to contact) and/or Account (lookup field on the form to account) can be set. In either case, these values are stored in the Potential Customer (customerid) field in Dynamics. This field does not show up on the opportunity form, but can be added from settings. This field can contain only 1 value, either contact or account. Marketo does the following:
 
-  * If the contact value is set and account is left empty, Marketo creates an `opportunitycontactrole` and sets the account on the opportunity to the contact's account. If the contact doesn't have an account, this field is left empty.
+  * If the contact value is set and account is left empty, Marketo creates an `opportunitycontactrole` and sets the account on the opportunity to the contact's account. If the contact does not have an account, this field is left empty.
   * If the account value is set and contact is left empty, Marketo will only set the account on the opportunity to this account.
   * If both values are set, Dynamics picks account as the value for customerid, so the behavior would be the same as above.
 
-* Through Stakeholders: Dynamics uses connections to connect opportunity to contact through stakeholders from the opportunity create page. For this, we will create an `opportunitycontactrole` record for every new stakeholder.
+* Through Stakeholders: Dynamics uses connections to connect opportunity to contact through stakeholders from the opportunity create page. For this, an `opportunitycontactrole` record is created for every new stakeholder.

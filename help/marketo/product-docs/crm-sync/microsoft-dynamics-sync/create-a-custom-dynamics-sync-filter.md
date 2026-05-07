@@ -73,7 +73,7 @@ Marketo looks for this field during the automatic background sync and determines
 
 ## Select the Filter in Marketo {#select-the-filter-in-marketo}
 
-Even if you've already done your initial sync, go in and select the fields to be synced with Marketo.
+Even if the initial sync is complete, go in and select the fields to be synced with Marketo.
 
 1. Go to Admin and select **[!UICONTROL Microsoft Dynamics]**.
 
@@ -87,7 +87,7 @@ Even if you've already done your initial sync, go in and select the fields to be
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 
-Great, Now you've enabled the sync filter for Marketo.
+Now that you have enabled the sync filter for Marketo.
 
 ## Create a [!DNL Dynamics] Workflow to Assign Sync Filter Values Automatically {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
 
@@ -129,7 +129,7 @@ You can always manually assign a value to the SyncToMkto fields for your records
 
 ## Sync Filter Details {#sync-filter-details}
 
-Here are some implementation details we thought you should know:
+Implementation details:
 
 * Start a Sync Operation
 

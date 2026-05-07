@@ -81,7 +81,7 @@ Before you can sync [!DNL Microsoft Dynamics] 2015 On-Premises with Marketo, you
 
    ![](assets/image2015-3-19-8-41-21.png)
 
-   Nice work! The installation is finished.
+   The installation is complete.
 
    >[!CAUTION]
    >

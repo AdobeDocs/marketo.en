@@ -7,7 +7,7 @@ feature: Salesforce Integration
 ---
 # SFDC Sync: Contact Sync {#sfdc-sync-contact-sync}
 
-Did you know Marketo syncs your entire database with [!DNL Salesforce]? It syncs, then waits 5 minutes and then syncs again, all day, every day. Here are some details about how Marketo treats [!DNL Salesforce] Contacts specifically.
+Marketo syncs your entire database with [!DNL Salesforce]. It syncs, then waits 5 minutes and then syncs again, all day, every day. Here are some details about how Marketo treats [!DNL Salesforce] Contacts specifically.
 
 ## Sync Direction {#sync-direction}
 

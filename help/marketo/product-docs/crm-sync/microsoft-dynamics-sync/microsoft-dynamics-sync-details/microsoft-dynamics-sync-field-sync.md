@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # [!DNL Microsoft Dynamics] Sync: Field Sync {#microsoft-dynamics-sync-field-sync}
 
-Marketo to [!DNL Dynamics] sync is super powerful. Here are the details.
+Marketo to [!DNL Dynamics] sync is powerful. Here are the details.
 
 ## How are field details kept in sync between the two systems? {#how-are-field-details-kept-in-sync-between-the-two-systems}
 

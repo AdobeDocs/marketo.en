@@ -6,7 +6,7 @@ feature: Events
 ---
 # Set up the ON24 Integration with Marketo{#set-up-the-on24-integration-with-marketo}
 
-Here's how to set up your ON24 event integration.
+Follow these steps to set up your ON24 event integration.
 
 ## Create an API Only Role {#create-an-api-only-role}
 
@@ -36,7 +36,7 @@ Here's how to set up your ON24 event integration.
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. Select the [!UICONTROL ON24 API Only Role (all workspaces)] you just created. Select the **[!UICONTROL API Only]** checkbox. Click **[!UICONTROL Next]**.
+1. Select the [!UICONTROL ON24 API Only Role (all workspaces)] you created. Select the **[!UICONTROL API Only]** checkbox. Click **[!UICONTROL Next]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
@@ -62,11 +62,11 @@ Here's how to set up your ON24 event integration.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
-1. Find the custom [!DNL LaunchPoint] service you just created and click [!UICONTROL View Details].
+1. Find the custom [!DNL LaunchPoint] service you created and click [!UICONTROL View Details].
 
    ![](assets/set-up-the-on24-integration-with-marketo-12.png)
 
-1. Highlight, right-click, copy, and save the [!UICONTROL Client ID] (you'll need it later). Repeat for [!UICONTROL Client Secret].
+1. Highlight, right-click, copy, and save the [!UICONTROL Client ID] (you will need it later). Repeat for [!UICONTROL Client Secret].
 
    ![](assets/set-up-the-on24-integration-with-marketo-13.png)
 

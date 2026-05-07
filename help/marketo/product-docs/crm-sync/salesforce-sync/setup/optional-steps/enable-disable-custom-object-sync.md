@@ -69,7 +69,7 @@ Custom Objects created in your Salesforce instance can be part of Marketo Engage
 
    ![](assets/image2015-8-24-14-3a18-3a53.png)
 
-   Excellent! You can now use this custom object's data in Smart Campaigns and Smart Lists.
+   You can now use this custom object's data in Smart Campaigns and Smart Lists.
 
 >[!MORELIKETHIS]
 >

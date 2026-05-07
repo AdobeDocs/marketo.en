@@ -41,4 +41,4 @@ You will need to download and install a Marketo Solution into your [!DNL Microso
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-Awesome! A zip file of the solution will now be downloaded to your device.
+A zip file of the solution will now be downloaded to your device.

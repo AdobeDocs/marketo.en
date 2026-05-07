@@ -36,7 +36,7 @@ feature: Microsoft Dynamics
 
    >[!CAUTION]
    >
-   >Please make sure your credentials are correct as we are unable to revert the subsequent schema changes after submission. If incorrect credentials are saved, you'll have to obtain a new Marketo subscription.
+   >Verify that your credentials are correct. Subsequent schema changes cannot be reverted after submission. If incorrect credentials are saved, a new Marketo subscription will be required.
 
 1. Enter the **[!UICONTROL Username]**, **[!UICONTROL Password]** a [!DNL Microsoft Dynamics] **URL**, and a **[!UICONTROL Client Id]/[!UICONTROL Client Secret]**. Click **[!UICONTROL Save]** when done.
 
@@ -68,7 +68,7 @@ feature: Microsoft Dynamics
 
 ## Sync Fields for a Custom Filter {#sync-fields-for-a-custom-filter}
 
-If you've created a custom filter, be sure to go in and select the new fields to be synced with Marketo.
+If you have created a custom filter, go in and select the new fields to be synced with Marketo.
 
 1. Go to [!UICONTROL Admin] and select **[!UICONTROL Microsoft Dynamics]**.
 

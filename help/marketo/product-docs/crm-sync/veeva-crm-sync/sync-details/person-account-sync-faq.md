@@ -40,7 +40,7 @@ The sync of contact related fields of the Person Account is bidirectional. If yo
 
 **What if changes are made in both systems to Contact fields on the Person Account at the same time?**
 
-We'd be nice and let [!DNL Veeva] CRM win. It’s rare that this sort of collision of data occurs, however.
+[!DNL Veeva] CRM wins. It is rare that this sort of collision of data occurs, however.
 
 **Are Lead or Contact type of records synced with [!DNL Veeva] CRM?**
 

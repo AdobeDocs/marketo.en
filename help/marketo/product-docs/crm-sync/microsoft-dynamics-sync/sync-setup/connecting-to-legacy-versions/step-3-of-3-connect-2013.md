@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Step 3 of 3: Connect Marketo and [!DNL Dynamics] (2013 On-Premises) {#step-of-connect-marketo-and-dynamics-on-premises}
 
-Alright! We installed the solution and configured the sync user. Next, we need to connect Marketo and [!DNL Dynamics].
+The solution is installed and the sync user is configured. Next, connect Marketo and [!DNL Dynamics].
 
 >[!PREREQUISITES]
 >
@@ -38,7 +38,7 @@ Alright! We installed the solution and configured the sync user. Next, we need t
 
    >[!CAUTION]
    >
-   >Please make sure your credentials are correct as we are unable to revert the subsequent schema changes after submission. If incorrect credentials are saved, you'll have to obtain a new Marketo subscription.
+   >Verify that your credentials are correct. Subsequent schema changes cannot be reverted after submission. If incorrect credentials are saved, a new Marketo subscription will be required.
 
 1. Enter the **[!UICONTROL Username]**, **[!UICONTROL Password]** and [!DNL Microsoft Dynamics] **URL** then click **[!UICONTROL Save]**.
 
@@ -51,7 +51,7 @@ Alright! We installed the solution and configured the sync user. Next, we need t
 
 ## Select Fields to Sync {#select-fields-to-sync}
 
-Now we need to select the fields we want to sync over.
+Select the fields to sync.
 
 1. Click **[!UICONTROL Edit]** in **[!UICONTROL Step 2: Select Fields to Sync]**.
 
@@ -67,7 +67,7 @@ Now we need to select the fields we want to sync over.
 
 ## Sync Fields for a Custom Filter {#sync-fields-for-a-custom-filter}
 
-If you've created a custom filter, be sure to go in and select the new fields to be synced with Marketo.
+If you have created a custom filter, go in and select the new fields to be synced with Marketo.
 
 1. Go to [!UICONTROL Admin] and select **[!UICONTROL Microsoft Dynamics]**.
 
@@ -99,7 +99,7 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
-Excellent work! You have just unleashed the power of the bi-directional sync between Marketo and [!DNL Microsoft Dynamics]. If you have purchased [!DNL Marketo Sales Insight], there is more fun to be had:
+The bi-directional sync between Marketo and [!DNL Microsoft Dynamics] is now set up. If you have purchased [!DNL Marketo Sales Insight], see the following:
 
 >[!MORELIKETHIS]
 >

@@ -46,7 +46,7 @@ Click the drop-down to select a sound for the visitor each time the chatbot is t
 
 **Enable poke messages on mobile**
 
-Select the slider to enable "Poke,"&mdash;which displays the opening question next to the chat icon without the visitor having to click on it to see it&mdash;for visitors chatting in from a mobile device.
+Select the slider to enable "Poke," which displays the opening question next to the chat icon without the visitor having to click on it to see it, for visitors chatting in from a mobile device.
 
    ![](assets/configuration-6.png)
 
@@ -66,7 +66,7 @@ Click the **Privacy** tab to add/edit the URL of your site's privacy policy (opt
 
 ## Installation Tab {#installation-tab}
 
-In order for the chatbot to show up on your website, you'll first need to install the Dynamic Chat JavaScript snippet. Click this tab to find/copy the necessary code. If you are not familiar with this operation, please contact your web team or IT department for assistance.
+In order for the chatbot to show up on your website, you'll first need to install the Dynamic Chat JavaScript snippet. Click this tab to find/copy the necessary code. If you are not familiar with this operation, contact your web team or IT department for assistance.
 
    ![](assets/configuration-9.png)
 
@@ -76,4 +76,4 @@ In order for the chatbot to show up on your website, you'll first need to instal
 
 >[!NOTE]
 >
->Marketo Support is not set up to assist with troubleshooting HTML. For HTML assistance, please consult a web developer.
+>Marketo Support is not set up to assist with troubleshooting HTML. For HTML assistance, consult a web developer.

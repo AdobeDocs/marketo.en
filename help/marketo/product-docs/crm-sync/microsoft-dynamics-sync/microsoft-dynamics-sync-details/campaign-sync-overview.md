@@ -30,7 +30,7 @@ The triggers will execute based on actions from the Marketo Flow Action "[!UICON
 
 >[!NOTE]
 >
->Make sure the Campaign Sync is functional and the campaign is not inactive in Microsoft [!DNL Dynamics].
+>Verify that the Campaign Sync is functional and the campaign is not inactive in Microsoft [!DNL Dynamics].
 
 >[!MORELIKETHIS]
 >

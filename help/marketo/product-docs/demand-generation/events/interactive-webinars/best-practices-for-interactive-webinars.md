@@ -8,7 +8,7 @@ exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
 
 When running virtual events, whether aimed at a small or large audience, it is critical that things go as planned. With various steps required to plan and execute an event, from preparation, promotion, delivery, and follow-up, it can sometimes feel like a lot.
 
-To help with that, we've compiled a list of best practices that can aid in planning, designing, and producing successful and engaging webinars. These tips will help you get the most out of Interactive Webinars powered by Adobe Connect.
+The following best practices can aid in planning, designing, and producing successful and engaging webinars. These tips will help you get the most out of Interactive Webinars powered by Adobe Connect.
 
 ## Pre-event Preparation {#pre-event-preparation}
 
@@ -16,15 +16,15 @@ To help with that, we've compiled a list of best practices that can aid in plann
 
 >[!TIP]
 >
->The Interactive Webinars mobile web experience is not responsive, therefore we recommend using the Adobe Connect App for a seamless webinar experience on your mobile device. Please note, the Adobe Connect App is not currently available in App stores in China.
+>The Interactive Webinars mobile web experience is not responsive, therefore we recommend using the Adobe Connect App for a seamless webinar experience on your mobile device. The Adobe Connect App is not currently available in App stores in China.
 
 * Create a sample Interactive Webinar (IW) and clone it every time, to avoid starting from scratch.
 
-* Reuse Adobe Connect rooms if delivering the same content again later. Navigate to **Clear content from pods** from the Pods menu to clear chat history, and poll/quiz results from the last session. This just clears the content of the room. All the data from previous sessions will continue to be available in Marketo Engage.
+* Reuse Adobe Connect rooms if delivering the same content again later. Navigate to **Clear content from pods** from the Pods menu to clear chat history, and poll/quiz results from the last session. This clears the content of the room. All the data from previous sessions will continue to be available in Marketo Engage.
 
 * Avoid scheduling back-to-back sessions. Ensure you have at least 30 minutes of prep time before the start of your webinar. This will allow you to upload any last-minute presentation changes, adjust your microphone and camera, and get any new presenters comfortable with the interface.
 
-* Assign roles to your team members. Add them as Co-hosts and Presenters. Hosts and Presenters can enter the room before participants. But be sure to [design your Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _before_ adding Co-hosts and Presenters.
+* Assign roles to your team members. Add them as Co-hosts and Presenters. Hosts and Presenters can enter the room before participants. But [design your Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _before_ adding Co-hosts and Presenters.
 
 ### Promoting Your Event {#promoting-your-event}
 
@@ -40,7 +40,7 @@ To help with that, we've compiled a list of best practices that can aid in plann
 
 * Use your website/blog, social media, paid advertising, and partner promotions to reach a wider audience and drive registrations.
 
-* Send reminder emails to registered invitees 2-3 days before the webinar _and_ on the day of the event to make sure they don't forget about it and are able to attend.
+* Send reminder emails to registered invitees 2-3 days before the webinar _and_ on the day of the event to ensure they do not forget about it and are able to attend.
 
 ### Designing a Room {#designing-a-room}
 
@@ -87,7 +87,7 @@ To help with that, we've compiled a list of best practices that can aid in plann
 
 ## Delivery {#delivery}
 
-* Perform a few dry runs to test your audio/video setup and to get acquainted with Adobe Connect if you haven't used it before. Don't forget to include your presenters and co-hosts as well when you rehearse.
+* Perform a few dry runs to test your audio/video setup and to get acquainted with Adobe Connect if you have not used it before. Include your presenters and co-hosts as well when you rehearse.
 
 * Ask hosts and presenters to arrive at least 30 minutes prior to start time and make sure everything is working correctly.
   * Decide who will moderate the Q&A and Chat pods.

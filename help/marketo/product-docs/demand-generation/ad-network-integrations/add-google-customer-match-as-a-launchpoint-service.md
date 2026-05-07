@@ -49,7 +49,7 @@ With this integration, you can send a Marketo audience to Google to be targeted 
 
    ![](assets/authorizesuccess.png)
 
-   Awesome! You'll now see Google Matched Audiences listed as a [!DNL LaunchPoint] service in the Installed Services tab.
+   Google Matched Audiences is now listed as a [!DNL LaunchPoint] service in the Installed Services tab.
 
 >[!NOTE]
 >

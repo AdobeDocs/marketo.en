@@ -106,9 +106,9 @@ Marketo requires credentials to access [!DNL Salesforce]. This is best done with
 
    >[!TIP]
    >
-   >Make sure the email address you enter is valid. You will need to log in as the sync user to reset the password.
+   >Verify that the email address you enter is valid. You will need to log in as the sync user to reset the password.
 
-Excellent! Now you have an account that Marketo can use to connect to [!DNL Salesforce]. Let's do it.
+Now you have an account that Marketo can use to connect to [!DNL Salesforce].
 
 >[!MORELIKETHIS]
 >

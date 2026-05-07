@@ -53,13 +53,13 @@ If you have similarly named fields on the lead and contact object Marketo will m
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
-   Nice! You are almost done with the initial sync.
+   You are almost done with the initial sync.
 
 ## Reset Schema {#reset-schema}
 
 1. If you make some changes to the schema in Salesforce while working on the mappings, you can pull the changes by clicking **[!UICONTROL Reset Schema]**.
 
-    * All the mapping changes will be reset!
+    * All the mapping changes will be reset.
     * Resetting the schema will only add fields, not remove (even if you hide them from the sync user).
 
    ![](assets/image2014-12-9-13-3a32-3a8.png)

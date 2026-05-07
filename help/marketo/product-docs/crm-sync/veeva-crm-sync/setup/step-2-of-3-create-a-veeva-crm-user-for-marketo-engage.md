@@ -98,9 +98,9 @@ Following these steps will allow the Marketo sync user to update the custom fiel
 
    >[!TIP]
    >
-   >Be sure to check the [!UICONTROL Password Never Expires] box.
+   >Check the [!UICONTROL Password Never Expires] box.
 
-1. Under the [!UICONTROL General User Permissions] section, make sure [!UICONTROL Edit Events] and [!UICONTROL Edit Tasks] are selected.
+1. Under the [!UICONTROL General User Permissions] section, verify [!UICONTROL Edit Events] and [!UICONTROL Edit Tasks] are selected.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
@@ -189,9 +189,9 @@ Marketo requires credentials to access [!DNL Veeva] CRM. This is best done with 
 
 >[!TIP]
 >
->Make sure the email address you enter is valid. You will need to log in as the sync user to reset the password.
+>Verify that the email address you enter is valid. You will need to log in as the sync user to reset the password.
 
-Excellent! Now you have an account that Marketo Engage can use to connect to [!DNL Veeva] CRM. Let’s do it.
+Now you have an account that Marketo Engage can use to connect to [!DNL Veeva] CRM.
 
 >[!MORELIKETHIS]
 >

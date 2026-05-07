@@ -6,7 +6,7 @@ feature: Microsoft Dynamics
 ---
 # Step 2 of 4: Set up the Marketo Solution with Resource Owner Password Control Connection {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
-Let's get started by creating a user account.
+Create a user account.
 
 >[!PREREQUISITES]
 >
@@ -60,7 +60,7 @@ Let's get started by creating a user account.
 
 ## Assign Sync User Role {#assign-sync-user-role}
 
-Assign the Marketo Sync User role only to the Marketo sync user. You don't need to assign it to any other users.
+Assign the Marketo Sync User role only to the Marketo sync user. It does not need to be assigned to any other users.
 
 >[!NOTE]
 >
@@ -92,7 +92,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
 ## Configure Marketo Solution {#configure-marketo-solution}
 
-Almost there! All we have left is to inform Marketo Solution about the new user created.
+One final step: inform the Marketo Solution about the new user created.
 
 1. Go back to the [!UICONTROL Advanced Settings] section and click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to [!UICONTROL Settings], and select **[!UICONTROL Marketo Config]**.
 

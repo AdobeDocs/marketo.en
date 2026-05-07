@@ -7,7 +7,7 @@ feature: Integrations
 ---
 # Add Leads to a Custom Audience in [!DNL Facebook] {#add-leads-to-a-custom-audience-in-facebook}
 
-Already have a custom audience in [!DNL Facebook] and want to add more leads to it? Here's how.
+To add leads to an existing custom audience, follow these steps.
 
 >[!PREREQUISITES]
 >
@@ -40,7 +40,7 @@ Already have a custom audience in [!DNL Facebook] and want to add more leads to 
 
    ![](assets/five-1.png)
 
-   That's all there is to it!
+   The process is complete.
 
    >[!NOTE]
    >

@@ -6,7 +6,7 @@ feature: Microsoft Dynamics
 ---
 # Step 4 of 4: Connect the Marketo Solution with Resource Owner Password Control Connection {#step-4-of-4-connect-the-marketo-solution-ropc}
 
-This is the last step of the sync. You are almost there!
+This is the last step of the sync.
 
 >[!PREREQUISITES]
 >
@@ -42,7 +42,7 @@ This is the last step of the sync. You are almost there!
 
    >[!CAUTION]
    >
-   >Please make sure your org URL is correct as we are unable to revert the subsequent schema changes after submission. If an incorrect Org URL is used, you'll have to obtain a new Marketo subscription. If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >Verify that your org URL is correct. Subsequent schema changes cannot be reverted after submission. If an incorrect Org URL is used, a new Marketo subscription will be required. If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
    >[!NOTE]
    >
@@ -72,7 +72,7 @@ This is the last step of the sync. You are almost there!
 
 ## Sync Fields for a Custom Filter {#sync-fields-for-a-custom-filter}
 
-If you've created a custom filter, be sure to go in and select the new fields to be synced with Marketo.
+If you have created a custom filter, go in and select the new fields to be synced with Marketo.
 
 1. Go to [!UICONTROL Admin] and select **[!UICONTROL Microsoft Dynamics]**.
 

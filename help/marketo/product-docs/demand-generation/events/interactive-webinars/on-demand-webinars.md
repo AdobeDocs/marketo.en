@@ -6,7 +6,7 @@ exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
 ---
 # On-Demand Webinars {#on-demand-webinars}
 
-On-Demand Webinars capture and refine the leads that registered for your event and didn't attend, but want to obtain information related to the event by watching the recording. Information such as Name, Email ID, and Watch Date/Duration can be captured in Marketo Engage and used to target these no-show leads.
+On-Demand Webinars capture and refine the leads that registered for your event and did not attend, but want to obtain information related to the event by watching the recording. Information such as Name, Email ID, and Watch Date/Duration can be captured in Marketo Engage and used to target these no-show leads.
 
 The Webinar Joining URL that was shared with the registrants prior to the event can be used to watch the on-demand recording. Once a registrant who did not attend the live event (e.g., a lead with a program status as "No-Show"), clicks on the Webinar Joining URL, the program status of that lead changes from "No-Show" to "Attended On-Demand". The program status of the leads who watched the event live and have the status "Attended" would not be affected if they decide to visit the Joining URL and watch the on-demand recording.
 
@@ -17,9 +17,9 @@ Marketo Engage provides the watch statistics for On-Demand Webinars on the Dashb
 * On-Demand Summary: This provides a summary of the count of visitors (No-Shows) that watch the recording after the event on a given day(s)
 
 * On-Demand Statistics: This widget provides information on:
-  * Days the On-Demand recording is available for viewing&mdash;Helps marketers perform actions, such as executing email campaigns close to the end of the recording availability duration of 30 days.
-  * Overall visitor count for On-Demand webinars to date&mdash;The count of all the No-Show registrants that have watched the on-demand recording to date.
-  * Average watch duration in minutes for all visitors&mdash;Gives marketers a sense of how much of the recording is viewed and what Smart Campaigns can be used to target leads above a certain watch duration.
+  * Days the On-Demand recording is available for viewing: Helps marketers perform actions, such as executing email campaigns close to the end of the recording availability duration of 30 days.
+  * Overall visitor count for On-Demand webinars to date: The count of all the No-Show registrants that have watched the on-demand recording to date.
+  * Average watch duration in minutes for all visitors: Gives marketers a sense of how much of the recording is viewed and what Smart Campaigns can be used to target leads above a certain watch duration.
 
 ![](assets/on-demand-webinars-1.png)
 

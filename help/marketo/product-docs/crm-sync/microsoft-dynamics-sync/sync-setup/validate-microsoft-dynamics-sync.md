@@ -9,11 +9,11 @@ feature: Microsoft Dynamics
 
 >[!CAUTION]
 >
->If you have Multi-Factor Authentication (MFA) enabled for your [!DNL Dynamics] Sync, you must disable it in order for [!DNL Dynamics] to properly sync with Marketo. For additional information, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>If you have Multi-Factor Authentication (MFA) enabled for your [!DNL Dynamics] Sync, you must disable it in order for [!DNL Dynamics] to properly sync with Marketo. For additional information, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 ## Run Validate Sync in Marketo {#run-validate-sync-in-marketo}
 
-It is very important to run the Validate Sync tool to make sure your [!DNL Microsoft Dynamics] Sync with Marketo is set up correctly before making the final connection between them. The process generates a checklist of seven setup steps that pinpoint where issues exist. Verifying these were done correctly can save a lot of time later.
+It is very important to run the Validate Sync tool to ensure your [!DNL Microsoft Dynamics] Sync with Marketo is set up correctly before making the final connection between them. The process generates a checklist of seven setup steps that pinpoint where issues exist. Verifying these were done correctly can save a lot of time later.
 
 1. Click the **[!UICONTROL Admin]** tab and then the **[!DNL Microsoft Dynamics]** link in the Integration area.
 

@@ -59,7 +59,7 @@ Custom Objects created in your [!DNL Salesforce] instance can be part of Marketo
 
    >[!NOTE]
    >
-   >Don't forget to re-enable your global sync!
+   >Remember to re-enable your global sync.
 
 1. Go back to the **[!UICONTROL Salesforce]** tab.
 
@@ -83,4 +83,4 @@ Custom Objects created in your [!DNL Salesforce] instance can be part of Marketo
 
    [Add/Remove Custom Object Field as Smart List/Trigger Constraints](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
-Excellent! You can now use data from this custom object in smart campaigns and smart lists.
+You can now use data from this custom object in smart campaigns and smart lists.

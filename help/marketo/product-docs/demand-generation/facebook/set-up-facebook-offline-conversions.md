@@ -7,7 +7,7 @@ feature: Integrations
 ---
 # Set up [!DNL Facebook] Offline Conversions {#set-up-facebook-offline-conversions}
 
-By sending offline conversion data back to [!DNL Facebook] for people created via Lead Ads, your advertising team can optimize their ad spend better than ever. Here's how to set it up.
+By sending offline conversion data back to [!DNL Facebook] for people created via Lead Ads, your advertising team can optimize their ad spend better than ever. Follow these steps to set it up.
 
 >[!PREREQUISITES]
 >
@@ -44,7 +44,7 @@ By sending offline conversion data back to [!DNL Facebook] for people created vi
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   Sweet! You are halfway done enabling [!DNL Facebook] Offline Conversions. Let's hop over to the Revenue Cycle Modeler to map the stages.
+   You are halfway done enabling [!DNL Facebook] Offline Conversions. Proceed to the Revenue Cycle Modeler to map the stages.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
@@ -81,7 +81,7 @@ By sending offline conversion data back to [!DNL Facebook] for people created vi
 
    ![](assets/2.png)
 
-1. Approve your model and you are done!
+1. Approve your model and you are done.
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 

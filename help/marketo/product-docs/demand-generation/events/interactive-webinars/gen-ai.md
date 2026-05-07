@@ -16,15 +16,15 @@ Automatically generate chapters and summaries for your recorded webinars, making
 
 * **Editable Content**: Modify generated chapters and summaries if desired, using manual and AI-powered editing functionalities.
 
-* **Easy Integration**: Easily add chapters and summaries to your Landing Pages by copying the HTML code to the webpage editor of your choice.
+* **Seamless Integration**: Add chapters and summaries to your Landing Pages by copying the HTML code to the webpage editor of your choice.
 
 ## Enable GenAI {#enable-genai}
 
 >[!PREREQUISITES]
 >
->Before using these features, you must first accept the Adobe GenAI terms and conditions. If you have yet to do so, please reach out to the Adobe Account Team (your Account Manager) for details.
+>Before using these features, you must first accept the Adobe GenAI terms and conditions. If you have yet to do so, contact the Adobe Account Team (your Account Manager) for details.
 
-After you've accepted the Adobe GenAI terms and conditions, the next step is to enable it for individual users. Do so by going to **[!UICONTROL Admin]** > **[!UICONTROL Interactive Webinars]** and selecting which users should have access to GenAI.
+After you have accepted the Adobe GenAI terms and conditions, the next step is to enable it for individual users. Do so by going to **[!UICONTROL Admin]** > **[!UICONTROL Interactive Webinars]** and selecting which users should have access to GenAI.
 
    ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
 

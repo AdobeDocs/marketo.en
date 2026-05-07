@@ -42,4 +42,3 @@ There are lots of reasons to use this data such as
 * Assignment (and re-assignment) rules in Marketo
 * Use them in the [Change Owner](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}, and [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flow actions
 
-Marketo sure has an awesome [!DNL Salesforce] sync. No one else does it so well!

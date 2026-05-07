@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Step 3 of 3: Connect [!DNL Microsoft Dynamics] with Marketo (2011 On-Premises) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
-Alright! We installed the solution and configured the sync user. Next, we need to connect Marketo and [!DNL Dynamics].
+The solution is installed and the sync user is configured. Next, connect Marketo and [!DNL Dynamics].
 
 >[!PREREQUISITES]
 >
@@ -38,7 +38,7 @@ Alright! We installed the solution and configured the sync user. Next, we need t
 
    >[!CAUTION]
    >
-   >Please make sure your credentials are correct as we are unable to revert the subsequent schema changes after submission. If incorrect credentials are saved, you'll have to obtain a new Marketo subscription.
+   >Verify that your credentials are correct. Subsequent schema changes cannot be reverted after submission. If incorrect credentials are saved, a new Marketo subscription will be required.
 
 1. Enter the **[!UICONTROL Username]**, **[!UICONTROL Password]** and CRM **[!UICONTROL URL]** then click **[!UICONTROL Save]**.
 
@@ -51,7 +51,7 @@ Alright! We installed the solution and configured the sync user. Next, we need t
 
 ## Select Fields to Sync {#select-fields-to-sync}
 
-Now we need to select the fields we want to sync over.
+Select the fields to sync.
 
 1. Click **[!UICONTROL Edit]** in **[!UICONTROL Step 2: Select Fields to Sync]**.
 
@@ -67,7 +67,7 @@ Now we need to select the fields we want to sync over.
 
 ## Sync Fields for a Custom Filter {#sync-fields-for-a-custom-filter}
 
-If you've created a custom filter, be sure to go in and select the new fields to be synced with Marketo.
+If you have created a custom filter, go in and select the new fields to be synced with Marketo.
 
 1. Go to Admin and select **[!UICONTROL Microsoft Dynamics]**.
 

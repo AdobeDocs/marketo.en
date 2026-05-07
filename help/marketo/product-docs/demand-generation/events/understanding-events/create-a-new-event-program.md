@@ -7,7 +7,7 @@ feature: Events
 ---
 # Create a New Event Program {#create-a-new-event-program}
 
-Events allow you to automate online and offline events! Capture the status of your people as they progress through different stages and get accurate measures of the ROI for your marketing initiatives.
+Events allow you to automate online and offline events. Capture the status of your people as they progress through different stages and get accurate measures of the ROI for your marketing initiatives.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -33,7 +33,7 @@ Events allow you to automate online and offline events! Capture the status of yo
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
-   Ta-da! Your new event will now appear in the tree.
+   Your new event will now appear in the tree.
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 

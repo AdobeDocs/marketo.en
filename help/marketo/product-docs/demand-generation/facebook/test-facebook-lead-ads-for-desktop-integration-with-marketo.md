@@ -7,7 +7,7 @@ feature: Integrations
 ---
 # Test [!DNL Facebook] Lead Ads for Desktop Integration with Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
 
-After you create your Lead Ad, you should test it! Here's how to do it on your desktop.
+After you create your Lead Ad, you should test it. Follow these steps to do it on your desktop.
 
 >[!PREREQUISITES]
 >
@@ -19,31 +19,29 @@ After you create your Lead Ad, you should test it! Here's how to do it on your d
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
-1. You'll be directed to [!DNL Facebook] in a new tab in your browser. Click the [!UICONTROL Call to Action] in the [!DNL Facebook] Lead Ad unit.
+1. You will be directed to [!DNL Facebook] in a new tab in your browser. Click the [!UICONTROL Call to Action] in the [!DNL Facebook] Lead Ad unit.
 
    ![](assets/image2016-5-13-14-3a42-3a45.png)
 
    >[!NOTE]
    >
-   >This is just an example, which uses a Learn More Call To Action. Your Lead Ad unit Call To Action might be different.
+   >This is an example that uses a Learn More Call To Action. Your Lead Ad unit Call To Action might be different.
 
 1. Submit your test Lead Ad unit by filling out the form on your desktop. Click **[!UICONTROL Submit]**.
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
-1. Congratulations. You are done with submitting the Lead Ad form.
+1. You are done submitting the Lead Ad form.
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. This is where the magic happens! Once you've submitted your form, [build a smart list in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) as part of a program or in the database that uses the Filled Out [!DNL Facebook] Lead Ads Form filter. Insert the Lead Ad Form Name of the form you just submitted.
+1. After you have submitted your form, [build a smart list in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) as part of a program or in the database that uses the Filled Out [!DNL Facebook] Lead Ads Form filter. Insert the Lead Ad Form Name of the form you submitted.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
 1. Now click the **[!UICONTROL People]** tab to validate that the sync is working correctly.
 
    ![](assets/people.png)
-
-   Is that cool or what?
 
 >[!MORELIKETHIS]
 >

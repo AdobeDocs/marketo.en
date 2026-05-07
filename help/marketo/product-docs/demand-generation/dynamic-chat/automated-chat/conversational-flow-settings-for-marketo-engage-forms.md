@@ -10,7 +10,7 @@ Make Marketo Engage Forms conversational by integrating them with Dynamic Chat C
 
 >[!AVAILABILITY]
 >
->Member of Smart List or Member of List criteria requires Dynamic Chat Prime. Please contact the Adobe Account Team (your Account Manager) for details.
+>Member of Smart List or Member of List criteria requires Dynamic Chat Prime. Contact the Adobe Account Team (your Account Manager) for details.
 
 1. Find and select your form (or create a new one).
 
@@ -28,7 +28,7 @@ Make Marketo Engage Forms conversational by integrating them with Dynamic Chat C
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. A Default Choice modal will appear. Select your preference. In this example we're choosing **[!UICONTROL Use Conversational Flow]**.
+1. A Default Choice modal will appear. Select your preference. In this example, **[!UICONTROL Use Conversational Flow]** is selected.
 
    ![](assets/conversational-flow-settings-5.png)
 
@@ -48,7 +48,7 @@ Make Marketo Engage Forms conversational by integrating them with Dynamic Chat C
    >
    >The visitor's browser must be cookie'd as a known person prior to form submission in order to qualify for member of Static/Smart List.
 
-   **OPTIONAL STEP**: Click the **+** sign within each step to add more attributes, allowing you to narrow your targeted audience (the attributes available are the fields you've chosen for the form). In this example, we're targeting Adobe Technical Writers in California.
+   **OPTIONAL STEP**: Click the **+** sign within each step to add more attributes, allowing you to narrow your targeted audience (the attributes available are the fields you've chosen for the form). In this example, the configuration targets Adobe Technical Writers in California.
 
    ![](assets/conversational-flow-settings-8.png)
 

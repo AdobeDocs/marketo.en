@@ -10,7 +10,7 @@ Live chat allows website visitors to engage in real-time chat conversations with
 
 >[!NOTE]
 >
->For those on the Dynamic Chat Select package, live chat is a trial feature with a lifetime limit of 100 engagements. When this limit is reached, any visitors who request to chat with a live agent will not be connected and will instead receive the global fallback message. To increase the limit, please contact your Adobe Account Representative to discuss package upgrade options.
+>For those on the Dynamic Chat Select package, live chat is a trial feature with a lifetime limit of 100 engagements. When this limit is reached, any visitors who request to chat with a live agent will not be connected and will instead receive the global fallback message. To increase the limit, contact your Adobe Account Representative to discuss package upgrade options.
 
 ## Add Live Chat Agents {#add-live-chat-agents}
 
@@ -34,8 +34,8 @@ Use the live chat card in the [Stream Designer](/help/marketo/product-docs/deman
 
 ### Best Practices {#best-practices}
 
-* Use a question card before the live chat card asking the visitor if they'd like to connect.
-* After the visitor agrees to connect, use the information capture card to collect some of their info, like first/last name, email address, job title, etc. (it is recommended to at least request first name and email address).
+* Use a question card before the live chat card asking the visitor if they would like to connect.
+* After the visitor agrees to connect, use the information capture card to collect some of their info, like first name, last name, email address, job title, etc. (it is recommended to at least request first name and email address).
 
 ## Live Chat Card Options {#live-chat-card-options}
 
@@ -88,7 +88,7 @@ If agents do not get browser notifications even after allowing in the browser, t
 
 ### When a Live Chat is Routed to an Agent {#when-a-live-chat-is-routed-to-an-agent}
 
-When a live chat is routed to an agent, they'll see a blue banner across the top of the screen asking them to accept, as well as a notification sound to help prevent missed notifications.
+When a live chat is routed to an agent, they will see a blue banner across the top of the screen asking them to accept, as well as a notification sound to help prevent missed notifications.
 
    ![](assets/live-chat-overview-3.png)
 
@@ -109,7 +109,7 @@ When an action such as a meeting booking or a live chat fails, users are notifie
 
 * Agents have 100 seconds to respond before the "Accept chat" message times out. After that, visitors will receive the [fallback message](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. For Dynamic Chat Prime subscribers who have the routing option set to **Team**, one more agent will be tried before the fallback message appears.
 * There is a limit of 10 live chats per agent at this time.
-* Agent Inbox is just for Live Chat conversations. If the chat is not accepted by an agent, it will not appear in the Agent Inbox, as it doesn't qualify as a Live Chat.
+* Agent Inbox is exclusively for Live Chat conversations. If the chat is not accepted by an agent, it will not appear in the Agent Inbox, as it doesn't qualify as a Live Chat.
 * The Conversation tab displays all the conversation, both Live and Automated chat. So if a conversation is not accepted by the agent, that will be listed in the Conversation Tab. There is up to a 24-hour delay in the Conversation tab, as it is not realtime. Agent Inbox, however, is realtime.
 * If there is no chat activity after 10 minutes (by either the agent or the visitor), the chat will timeout.
 * If an agent changes their profile image (in account.adobe.com) _during_ a Live Chat, the visitor will still see the old image until the chat ends. The visitor will see the new image the next time they chat in and get that agent.

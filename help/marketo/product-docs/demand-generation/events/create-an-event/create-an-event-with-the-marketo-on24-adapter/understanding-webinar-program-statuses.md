@@ -9,9 +9,9 @@ feature: Events
 
 Program statuses represent the different event statuses that a person progresses through as a member of the event. They are associated to a channel type. Marketo has a built-in channel type called **Webinar**. Statuses can be used in both batch and trigger campaigns.
 
-People move through program statuses in a linear fashion and do not go back in status. For example, a person with a status of **Attended** can't move back to **Registered**.
+People move through program statuses in a linear fashion and do not go back in status. For example, a person with a status of **Attended** cannot move back to **Registered**.
 
-Here's a brief description of the program statuses associated to the Webinar channel.
+The following is a brief description of the program statuses associated to the Webinar channel.
 
 >[!TIP]
 >
@@ -45,7 +45,7 @@ Here's a brief description of the program statuses associated to the Webinar cha
 
 >[!NOTE]
 >
->In order for Marketo to pull the No Show status, the people must have been registered *in Marketo*. We are not able to capture No Shows that come from the On24 data feed.
+>In order for Marketo to pull the No Show status, the people must have been registered *in Marketo*. No Shows that come from the On24 data feed cannot be captured.
 
 >[!MORELIKETHIS]
 >

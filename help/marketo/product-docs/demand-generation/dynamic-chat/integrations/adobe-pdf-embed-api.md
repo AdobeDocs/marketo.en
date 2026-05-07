@@ -6,7 +6,7 @@ exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
 ---
 # Adobe PDF Embed API {#adobe-pdf-embed-api}
 
-The Document card allows you to embed PDF documents in Dialogues and track document engagement activity of visitors. Here's how to set it up.
+The Document card allows you to embed PDF documents in Dialogues and track document engagement activity of visitors. Follow these steps to set it up.
 
 1. Navigate to [Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
@@ -24,7 +24,7 @@ The Document card allows you to embed PDF documents in Dialogues and track docum
 
    >[!IMPORTANT]
    >
-   >You'll need to use the domain on which you'll be hosting the chatbot (e.g., if you are hosting the chatbot on mycompany.com, make sure you enter that in Step 4).
+   >You'll need to use the domain on which you'll be hosting the chatbot (e.g., if you are hosting the chatbot on mycompany.com, enter that domain in Step 4).
 
 1. Click **[!UICONTROL Copy]** to copy your Client ID.
 
@@ -38,4 +38,4 @@ The Document card allows you to embed PDF documents in Dialogues and track docum
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-You can now use the Document card in your Dialogues' [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}!
+You can now use the Document card in your Dialogues' [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.

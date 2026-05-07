@@ -7,7 +7,7 @@ feature: Integrations
 ---
 # Use Lead Ads Filters and Triggers in a Smart Campaign {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
 
-When you've enabled [!UICONTROL Facebook Lead Ads], you can use them in your smart campaigns to see program success. When people submit their information in a [!DNL Facebook] Lead Ad unit, the information is pushed to Marketo immediately.
+When you have enabled [!UICONTROL Facebook Lead Ads], you can use them in your smart campaigns to see program success. When people submit their information in a [!DNL Facebook] Lead Ad unit, the information is pushed to Marketo immediately.
 
 1. Use the **[!UICONTROL Fills Out Facebook Lead Ads Form]** filter or trigger.
 

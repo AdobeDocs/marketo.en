@@ -54,7 +54,7 @@ See all of your tasks and their pertinent details, such as when they were genera
 
    ![](assets/question-generation-7.png)
 
-1. In the Excel file, **[!DNL Task details]** shows just that, various details about the task, including instructions on how to add/edit questions and/or responses.
+1. In the Excel file, **[!DNL Task details]** shows various details about the task, including instructions on how to add or edit questions and responses.
 
    ![](assets/question-generation-8.png)
 
@@ -68,7 +68,7 @@ See all of your tasks and their pertinent details, such as when they were genera
 
 ## IP Addresses to Allowlist {#ip-addresses-to-allowlist}
 
-In order to enable extraction of content from your web URLs during the generation of questions and responses, please locate your region below and make sure the IP address associated with it is allowlisted by your web team.
+In order to enable extraction of content from your web URLs during the generation of questions and responses, locate your region below and verify that the IP address associated with it is allowlisted by your web team.
 
 <table width=450>
 <thead>

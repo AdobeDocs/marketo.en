@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Custom Sync Filter Rules for an Email Address {#custom-sync-filter-rules-for-an-email-address}
 
-To prevent syncing of records that don't have an email address, follow these rules.
+To prevent syncing of records that do not have an email address, follow these rules.
 
 * When a lead is created OR when the lead’s email address field is updated, check if the lead has an email address and if it does, change Sync to Mkto to **[!UICONTROL True]**. Otherwise change to **[!UICONTROL False]**
 

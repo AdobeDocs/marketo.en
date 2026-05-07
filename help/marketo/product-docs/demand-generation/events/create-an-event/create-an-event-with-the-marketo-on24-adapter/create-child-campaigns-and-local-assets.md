@@ -59,7 +59,7 @@ Examples of child campaigns are an invite campaign, a registration campaign, and
 **Registration/Confirmation (Trigger Campaign)**
 
 * Smart List
-* Trigger based on **Fills Out Form**. Be sure to include the landing page that the form lives on by using **Add Constraint**, especially if the same form is used on multiple landing pages.
+* Trigger based on **Fills Out Form**. Include the landing page that the form lives on by using **Add Constraint**, especially if the same form is used on multiple landing pages.
 
 >[!CAUTION]
 >

@@ -10,7 +10,7 @@ feature: Veeva CRM
 >
 >Your [!DNL Veeva] CRM instance must have access to Salesforce APIs to sync data between Marketo Engage and [!DNL Veeva] CRM.
 
-Marketo Engage uses a set of fields to capture certain kinds of marketing related information. If you would like this data in [!DNL Veeva] CRM, please follow the instructions below.
+Marketo Engage uses a set of fields to capture certain kinds of marketing related information. If you would like this data in [!DNL Veeva] CRM, follow the instructions below.
 
 1. Create a custom field in [!DNL Veeva] CRM on the contact objects: Score
 1. You can create additional fields, if desired (see the table below).

@@ -16,7 +16,7 @@ Priority determines which Dialogue a lead receives in the case they qualify for 
 
 ## Events {#events}
 
-Events allow you to target visitors based on how much they scroll or how long they're on your page/site. In the example below, we're targeting visitors who have been on a specific page for more than 20 seconds.
+Events allow you to target visitors based on how much they scroll or how long they are on your page or site. In the example below, the configuration targets visitors who have been on a specific page for more than 20 seconds.
 
 1. Grab the **[!UICONTROL Time on Page]** event and drag it to the right.
 
@@ -34,7 +34,7 @@ Events allow you to target visitors based on how much they scroll or how long th
 
 **Known People**
 
-There are _many_ attribute combinations to choose from. In the example below, we're targeting all known people in California who work at a company with more than 50 employees.
+There are _many_ attribute combinations to choose from. In the example below, the configuration targets all known people in California who work at a company with more than 50 employees.
 
 1. Grab the **[!UICONTROL Person State]** attribute and drag it to the right.
 
@@ -62,7 +62,7 @@ There are _many_ attribute combinations to choose from. In the example below, we
 
 **Anonymous People**
 
-There's an easy way to specifically target people who are not in your database yet. In this example, we're targeting all anonymous people located in the New York area.
+The following targets people who are not in your database yet. In this example, the configuration targets all anonymous people located in the New York area.
 
 1. Grab the **[!UICONTROL Person Email]** attribute and drag it to the right.
 
@@ -78,7 +78,7 @@ There's an easy way to specifically target people who are not in your database y
 
    >[!NOTE]
    >
-   >When someone visits your website, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} cookies them and puts them into the system. We look up their IP in a special database and infer all kinds of good info.
+   >When someone visits your website, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} cookies them and puts them into the system. The IP address is looked up in a special database to infer location and other information.
 
 1. _[!UICONTROL Is]_ is set by default. In the Select Values field, type in NY (you can also click the drop-down and select from the list).
 
@@ -90,7 +90,7 @@ Use Marketo Engage Smart Lists for your Dialogue's target audience.
 
 >[!AVAILABILITY]
 >
->Member of Smart List or Member of List criteria requires Dynamic Chat Prime. Please contact the Adobe Account Team (your Account Manager) for details.
+>Member of Smart List or Member of List criteria requires Dynamic Chat Prime. Contact the Adobe Account Team (your Account Manager) for details.
 
 1. Under Membership, grab **[!UICONTROL Member of Smart List]** and drop it onto the canvas.
 

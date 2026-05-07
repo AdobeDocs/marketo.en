@@ -19,7 +19,7 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
 
    >[!NOTE]
    >
-   >If you don't have an Azure account, you can [sign up](https://azure.microsoft.com/en-us/free/){target="_blank"} for one. Please refer to Microsoft's documentation or reach out to your Microsoft representative for more information. Once you've created an Azure account, you can register one or more apps using the procedure outlined below.
+   >If you don't have an Azure account, you can [sign up](https://azure.microsoft.com/en-us/free/){target="_blank"} for one. Refer to Microsoft's documentation or reach out to your Microsoft representative for more information. Once you've created an Azure account, you can register one or more apps using the procedure outlined below.
    >
    >
    >If you have an Azure account but your [!DNL Office 365] subscription with [!DNL Microsoft Dynamics 365] is not available in your Azure subscription, follow [these instructions](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} to associate the two accounts.
@@ -78,6 +78,5 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
 
    ![](assets/fourteen.png)
 
-   And you are done!
 
    ![](assets/fifteen.png)

@@ -13,11 +13,11 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/lead
 >
 >* **Admin Permissions Required**
 >
->* When creating Facebook Lead Ads forms, make sure the form name does not contain only numeric characters. The form name must be either alphabetic or alphanumeric.
+>* When creating Facebook Lead Ads forms, verify that the form name does not contain only numeric characters. The form name must be either alphabetic or alphanumeric.
 
 >[!AVAILABILITY]
 >
->To get Facebook Lead Ads added to your instance, please contact the Adobe Account Team (your Account Manager).
+>To get Facebook Lead Ads added to your instance, contact the Adobe Account Team (your Account Manager).
 
 1. In Marketo Engage, go to the **Admin** area.
 
@@ -47,7 +47,7 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/lead
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. You'll notice you are now authorized. Click **[!UICONTROL Next]**.
+1. You will notice you are now authorized. Click **[!UICONTROL Next]**.
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
@@ -59,7 +59,7 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/lead
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. To accept default [!DNL Facebook] to Marketo field mappings, simply click **[!UICONTROL Create]**.
+1. To accept default [!DNL Facebook] to Marketo field mappings, click **[!UICONTROL Create]**.
 
    >[!TIP]
    >
@@ -71,7 +71,7 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/lead
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   Nicely done! Leads will start flowing into Marketo as you run successful [!DNL Facebook] Lead Ad campaigns.
+   Leads will start flowing into Marketo as you run successful [!DNL Facebook] Lead Ad campaigns.
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

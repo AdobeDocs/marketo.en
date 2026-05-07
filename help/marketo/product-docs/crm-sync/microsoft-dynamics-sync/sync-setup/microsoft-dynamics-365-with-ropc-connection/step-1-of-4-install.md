@@ -11,7 +11,7 @@ Before you can sync [!DNL Microsoft Dynamics] 365 and Marketo, you need to first
 >[!CAUTION]
 >
 >* Do not enable custom entity sync before the initial sync is completed. You will be notified via email once the initial sync is completed.
->* If you have Multi-Factor Authentication (MFA) enabled for your [!DNL Dynamics] Sync, you must disable it in order for [!DNL Dynamics] to properly sync with Marketo. For additional information, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>* If you have Multi-Factor Authentication (MFA) enabled for your [!DNL Dynamics] Sync, you must disable it in order for [!DNL Dynamics] to properly sync with Marketo. For additional information, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!NOTE]
 >
@@ -61,7 +61,7 @@ Before you can sync [!DNL Microsoft Dynamics] 365 and Marketo, you need to first
    >
    >You will need to enable pop-ups on your browser to complete the installation process.
 
-1. Now wait for the import to finish. Get up and do some stretches.
+1. Now wait for the import to finish.
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
@@ -81,7 +81,7 @@ Before you can sync [!DNL Microsoft Dynamics] 365 and Marketo, you need to first
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
-   Nice work! The installation is finished.
+   The installation is complete.
 
    >[!MORELIKETHIS]
    >

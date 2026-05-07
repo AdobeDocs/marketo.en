@@ -20,7 +20,7 @@ Learn how to design your webinar to suit your needs.
    >
    >* A room is an online space that's used to conduct meetings.
    >
-   >* If you choose an existing Webinar Room and need to rename it, simply click the **Rename Webinar Room** button to the right.
+   >* If you choose an existing Webinar Room and need to rename it, click the **Rename Webinar Room** button to the right.
    >
    >* The drop-down only shows existing rooms that you previously created, not other hosts'.
 
@@ -44,7 +44,7 @@ Learn how to design your webinar to suit your needs.
 
    ![](assets/designing-interactive-webinars-5.png)
 
-1. You can refine your webinar right away, or later. Let's do it now. Click **Refine Your Webinar Now**.
+1. You can refine your webinar right away, or later. To proceed now, click **Refine Your Webinar Now**.
 
    ![](assets/designing-interactive-webinars-6.png)
 
@@ -56,7 +56,7 @@ Learn how to design your webinar to suit your needs.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. For detailed information on rooms and templates, check out the "Meeting room templates and layouts" section of [this Adobe help article](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
+1. For detailed information on rooms and templates, see the "Meeting room templates and layouts" section of [this Adobe help article](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
 1. When you are done designing your webinar, click **Exit Room**.
 

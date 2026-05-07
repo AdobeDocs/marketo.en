@@ -45,7 +45,7 @@ The Stream Designer contains multiple cards you can add to shape the chat conver
  <tr>
   <td style="width:25%"><strong>Action&#42;</strong></td>
   <td>Similar to hidden fields in a form, with the action card you can populate any lead or company attribute (that has a <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">string data type</a>) with implicit values that you'd like to capture against a lead record. You can add the action card at any point in the conversation and update respective attributes with a value or native tokens that automatically populate the respective value.
-  <p><i>&#42; This card requires Dynamic Chat Prime. Please contact the Adobe Account Team (your Account Manager) for details.</i></td>
+  <p><i>&#42; This card requires Dynamic Chat Prime. Contact the Adobe Account Team (your Account Manager) for details.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Live chat</strong></td>
@@ -56,7 +56,7 @@ The Stream Designer contains multiple cards you can add to shape the chat conver
  <tr>
   <td style="width:25%"><strong>Generated responses&#42;</strong></td>
   <td>Create a message for the visitor for when they reach a certain point in the conversation. Set a number of questions they can ask in one go to achieve your desired key performance indicator.
-  <p><i>&#42; This card requires Dynamic Chat Prime. Please contact the Adobe Account Team (your Account Manager) for details.</i></td>
+  <p><i>&#42; This card requires Dynamic Chat Prime. Contact the Adobe Account Team (your Account Manager) for details.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Conditional branching</strong></td>
@@ -70,7 +70,7 @@ The Stream Designer contains multiple cards you can add to shape the chat conver
 
 ## Stream Designer Icons {#stream-designer-icons}
 
-In the upper-right of the Stream Designer, you'll see a handful of icons. Here's what they do.
+In the upper-right of the Stream Designer, you'll see a handful of icons. The following describes each icon.
 
 <table>
  <tr>
@@ -97,7 +97,7 @@ In the upper-right of the Stream Designer, you'll see a handful of icons. Here's
 
 ## Create a Stream {#create-a-stream}
 
-You can create streams for Dialogues or [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. In this example, we'll create one for a Dialogue.
+You can create streams for Dialogues or [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. In this example, a stream is created for a Dialogue.
 
 1. After you've [created your Dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, click the **[!UICONTROL Stream Designer]** tab.
 
@@ -113,7 +113,7 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
 
    >[!TIP]
    >
-   >You can customize the experience for chat visitors!
+   >You can customize the experience for chat visitors.
    >
    >* Click the "insert HTML" icon `</>` to insert your own HTML for the desired look and feel of the conversation.
    >
@@ -131,7 +131,7 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
    >
    >**[!UICONTROL Edit Stored Values]** is an optional step for those who'd like to store a different value in the database than what's being displayed to visitors in the chatbot for mapped attributes in the Question card (ex: visitor sees "Search Engine Optimization," you store that value as "SEO.").
 
-1. For "Yes" we want to book a meeting, so below that option, drag over the _Meeting booking_ card.
+1. For "Yes", drag over the _Meeting booking_ card below that option.
 
    ![](assets/stream-designer-10.png)
 
@@ -147,7 +147,7 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
 
    ![](assets/stream-designer-13.png)
 
-1. For "No" we want to see if they'll join the mailing list, so below that option drag over another [!UICONTROL Question] card.
+1. For "No", drag over another [!UICONTROL Question] card below that option to check if the visitor wants to join the mailing list.
 
    ![](assets/stream-designer-14.png)
 
@@ -179,11 +179,11 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
 
    ![](assets/stream-designer-20.png)
 
-1. Remember to add a response if they say "No." One option is to drag a Message card below and say "thanks anyway." But in this example, we'll provide them with a free PDF document instead.
+1. Remember to add a response if they say "No." One option is to drag a Message card below and say "thanks anyway." But in this example, a free PDF document is provided instead.
 
    ![](assets/stream-designer-21.png)
 
-1. In this example we'll create a new document. Give it a name, enter the URL to the PDF you already have hosted, and click **[!UICONTROL Save]**.
+1. Create a new document. Give it a name, enter the URL to the PDF you already have hosted, and click **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-22.png)
 
@@ -193,7 +193,7 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
 
 >[!NOTE]
 >
->Before clicking [!UICONTROL Publish], remember to make sure you've [entered your target URL(s)](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Before clicking [!UICONTROL Publish], verify that you have [entered your target URL(s)](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

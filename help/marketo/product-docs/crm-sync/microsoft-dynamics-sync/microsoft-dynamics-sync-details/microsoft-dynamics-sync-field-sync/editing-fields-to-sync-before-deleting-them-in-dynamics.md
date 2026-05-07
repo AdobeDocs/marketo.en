@@ -38,4 +38,4 @@ Sometimes you may want to delete fields in [!DNL Dynamics]. Marketo keeps the fi
 >
 >If the Sync is not stopped before deleting a field in [!DNL Dynamics], the sync may encounter errors. If it does, the sync will stop. Before resuming, the Marketo Admin would need to review “[!UICONTROL Select Fields to Sync]” (discussed above) and click **[!UICONTROL Save]** in order for the sync to accept the schema changes.
 
-Remember to enable the sync after the changes are saved!
+Remember to enable the sync after the changes are saved.

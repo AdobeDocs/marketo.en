@@ -7,7 +7,7 @@ feature: Integrations
 ---
 # Test [!DNL Facebook] Lead Ads for Mobile Integration with Marketo {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
 
-After you create your Lead Ad, you should test it!
+After you create your Lead Ad, you should test it.
 
 >[!PREREQUISITES]
 >
@@ -37,9 +37,9 @@ After you create your Lead Ad, you should test it!
 
    >[!NOTE]
    >
-   >This is just an example, which uses a Learn More Call To Action. Your Lead Ad unit Call To Action might be different.
+   >This is an example that uses a Learn More Call To Action. Your Lead Ad unit Call To Action might be different.
 
-1. This is where the magic happens! Once you have submitted your form, [build a smart list in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) as part of a program or in the lead database that uses the **[!UICONTROL Filled Out Facebook Lead Ads Form]** filter. Insert the Lead Ad Form Name of the form you just submitted.
+1. After you have submitted your form, [build a smart list in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) as part of a program or in the lead database that uses the **[!UICONTROL Filled Out Facebook Lead Ads Form]** filter. Insert the Lead Ad Form Name of the form you submitted.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -47,8 +47,6 @@ After you create your Lead Ad, you should test it!
 
    ![](assets/image2016-3-11-15-3a27-3a54.png)
 
- Is that cool or what?
-
 >[!NOTE]
 >
->[Enable/Disable [!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[Set Up [!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

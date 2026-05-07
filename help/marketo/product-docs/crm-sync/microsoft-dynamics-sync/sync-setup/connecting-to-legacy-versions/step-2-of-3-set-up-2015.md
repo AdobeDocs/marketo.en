@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Step 2 of 3 Set up Marketo for [!DNL Dynamics] (2015 On-Prem){#step-of-set-up-for-marketo-on-premises-2015}
 
-Great job completing the previous steps. Let's keep moving through this.
+The previous steps are complete.
 
 >[!PREREQUISITES]
 >
@@ -15,7 +15,7 @@ Great job completing the previous steps. Let's keep moving through this.
 
 ## Assign Sync User Role {#assign-sync-user-role}
 
-Assign the Marketo Sync User role only to the Marketo sync user. You don't need to assign it to any other users.
+Assign the Marketo Sync User role only to the Marketo sync user. It does not need to be assigned to any other users.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
 ## Configure Marketo Solution {#configure-marketo-solution}
 
-Almost done! We just have a few last pieces of configuration before moving onto the next article.
+A few final pieces of configuration remain before moving to the next article.
 
 1. Under **[!UICONTROL Settings]**, click **[!UICONTROL Marketo Config]**.
 

@@ -9,7 +9,7 @@ feature: Integrations
 
 >[!IMPORTANT]
 >
->LinkedIn is upgrading their Marketing APIs used by Marketo Engage LinkedIn integrations. These changes will require re-authentication of all LinkedIn LaunchPoint services in your **Admin** > **LaunchPoint** menu between June 7 and December 15, 2024, to avoid service interruption. For more information, please see the [Migration FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn is upgrading their Marketing APIs used by Marketo Engage LinkedIn integrations. These changes will require re-authentication of all LinkedIn LaunchPoint services in your **Admin** > **LaunchPoint** menu between June 7 and December 15, 2024, to avoid service interruption. For more information, see the [Migration FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -53,7 +53,7 @@ Connect your Marketo account with [!DNL LinkedIn] Matched Audiences to use a Mar
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   Awesome! You'll now see [!DNL LinkedIn] Matched Audiences listed as a [!DNL LaunchPoint] service in the Installed Services tab.
+   [!DNL LinkedIn] Matched Audiences is now listed as a [!DNL LaunchPoint] service in the Installed Services tab.
 
    ![](assets/bartholomew2.png)
 

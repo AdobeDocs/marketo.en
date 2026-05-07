@@ -28,15 +28,15 @@ You can solicit registration for this webinar by enabling a form on the Landing 
 
 Once a member has been in the "registered" program status in an Interactive Webinar Event Program, a registration is automatically made to the webinar created in Adobe Connect. Registration data such as First Name, Last Name and Email ID then gets transferred to Adobe Connect. This means that once the user joins the webinar as a participant, the information will be available to the presenter or host during the webinar.
 
-Within a few minutes of registration, the Webinar URL for the member gets populated in the Members Tab. If you are not able to locate the column for Webinar URL, make sure that column has been added to your view. This is a personalized URL for each registered member to be able to enter the webinar at scheduled time without requiring any authentication. Tokens exchanged internally take care of the authentication for the members.
+Within a few minutes of registration, the Webinar URL for the member gets populated in the Members Tab. If you are not able to locate the column for Webinar URL, verify that column has been added to your view. This is a personalized URL for each registered member to be able to enter the webinar at scheduled time without requiring any authentication. Tokens exchanged internally take care of the authentication for the members.
 
-You can use the `{{member.webinar url}}` [token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} to include the Webinar URL to individual members in an email campaign to communicate that they've been registered in the event and to use the joining URL to enter the webinar at the scheduled time. Calendar tokens can be used in the same email campaign to ensure that the webinar schedule can be added to the members' calendars.
+You can use the `{{member.webinar url}}` [token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} to include the Webinar URL to individual members in an email campaign to communicate that they have been registered in the event and to use the joining URL to enter the webinar at the scheduled time. Calendar tokens can be used in the same email campaign to ensure that the webinar schedule can be added to the members' calendars.
 
 Links are available on the right side of the Overview tab in your Event Program to create a Landing Page as well as an email campaign. The rest of the promotions related to an event remain the same as partner webinars using the Launchpoint integration.
 
 ![](assets/promoting-an-interactive-webinar-2.png)
 
-Interactive Webinars allows you to solicit registration before, during, or after a webinar. In all cases, you would simply need to share the Webinar URL with the lead. Clicking the link before the webinar begins sends them to a pre-webinar Landing Page. Clicking it during the webinar takes them to the webinar in progress. Clicking it after the webinar takes them to a recording of the webinar.
+Interactive Webinars allows you to solicit registration before, during, or after a webinar. In all cases, you would need to share the Webinar URL with the lead. Clicking the link before the webinar begins sends them to a pre-webinar Landing Page. Clicking it during the webinar takes them to the webinar in progress. Clicking it after the webinar takes them to a recording of the webinar.
 
 ## Interactive Webinars Tokens {#interactive-webinars-tokens}
 

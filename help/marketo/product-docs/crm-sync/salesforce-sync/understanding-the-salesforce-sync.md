@@ -7,7 +7,7 @@ feature: Salesforce Integration
 ---
 # Understanding the [!DNL Salesforce] Sync {#understanding-the-salesforce-sync}
 
-Marketo Engage and Salesforce go together like peas and carrots. We keep your sales and marketing data in sync.
+Learn how the Salesforce sync keeps Marketo and Salesforce data in sync.
 
 ## How Sync Works {#how-sync-works}
 

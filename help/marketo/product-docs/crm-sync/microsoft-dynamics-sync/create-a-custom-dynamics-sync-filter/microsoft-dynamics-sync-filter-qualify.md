@@ -7,11 +7,9 @@ feature: Microsoft Dynamics
 ---
 # [!DNL Microsoft Dynamics] Sync Filter: Qualify {#microsoft-dynamics-sync-filter-qualify}
 
-When you want to convert a lead to a contact in [!DNL Microsoft Dynamics], be sure to use this default Qualify process. Then, sync it to Marketo.
+When you want to convert a lead to a contact in [!DNL Microsoft Dynamics], use this default Qualify process. Then, sync it to Marketo.
 
 ## The Conversion Process {#the-conversion-process}
-
-Here's how the filters work during the conversion process.
 
 | If the lead sync filter is: |and the contact sync filter is: |This is the result in Marketo |
 |---|---|---|

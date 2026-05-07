@@ -6,11 +6,11 @@ feature: Interactive Webinars
 ---
 # Interactive Webinars Overview {#interactive-webinars-overview}
 
-The Interactive Webinars feature is our built-in webinar platform inside Marketo Engage. No additional tools or integrations required.
+The Interactive Webinars feature is the built-in webinar platform inside Marketo Engage. No additional tools or integrations required.
 
 >[!IMPORTANT]
 >
->Interactive Webinars powered by Adobe Connect is a feature with a built-in integration to Adobe Connect. Your use of Interactive Webinars will be subject to additional terms and conditions. Please review your contract or [contact Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} to inquire about the additional terms and conditions.
+>Interactive Webinars powered by Adobe Connect is a feature with a built-in integration to Adobe Connect. Your use of Interactive Webinars will be subject to additional terms and conditions. Review your contract or [contact Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} to inquire about the additional terms and conditions.
 
 ## What is Interactive Webinars? {#what-is-interactive-webinars}
 
@@ -48,7 +48,7 @@ If the lead's "first name" field is empty, they cannot register for the webinar.
 
 **I'm experiencing audio/video issues when presenting a webinar while accessing my organization's VPN. What do I do?**
 
-Adobe Connect, the Interactive Webinars' delivery platform, uses WebRTC for audio/video/screen-sharing. It is likely your organization's network firewall is blocking the IP addresses/ports we use for WebRTC-based communication. Your IT team needs to allow these ports for WebRTC to work. [Learn more](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
+Adobe Connect, the Interactive Webinars' delivery platform, uses WebRTC for audio/video/screen-sharing. It is likely your organization's network firewall is blocking the IP addresses and ports used for WebRTC-based communication. Your IT team needs to allow these ports for WebRTC to work. [Learn more](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 
 **Are my Interactive Webinars recorded automatically?**
 

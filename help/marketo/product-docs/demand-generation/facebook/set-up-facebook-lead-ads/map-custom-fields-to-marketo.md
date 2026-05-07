@@ -11,7 +11,7 @@ You may want to collect more than the standard information [!DNL Facebook] store
 
 However, **Marketo will not automatically start gathering this data**. In order for Marketo to start capturing custom field values, you **must** map those custom fields to a field in Marketo.
 
-Here's how to set this up in the LaunchPoint area of Admin.
+Follow these steps to set this up in the LaunchPoint area of Admin.
 
 >[!NOTE]
 >
@@ -25,15 +25,15 @@ Here's how to set this up in the LaunchPoint area of Admin.
 
    ![](assets/image2017-10-24-14-3a55-3a13.png)
 
-1. Leave the authorized account as is—do **not** make any changes. Click **[!UICONTROL Next]**.
+1. Leave the authorized account as is, do **not** make any changes. Click **[!UICONTROL Next]**.
 
    ![](assets/image2017-10-24-14-3a56-3a48.png)
 
-1. As before, leave the selected pages as is—do **not** make any changes. Click **[!UICONTROL Next]**.
+1. As before, leave the selected pages as is, do **not** make any changes. Click **[!UICONTROL Next]**.
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 
-1. Here's where you map the custom [!DNL Facebook] field to your Marketo field. Click **[!UICONTROL Add].**
+1. Map the custom [!DNL Facebook] field to your Marketo field. Click **[!UICONTROL Add].**
 
    ![](assets/image2017-10-24-9-3a33-3a49.png)
 
@@ -45,7 +45,7 @@ Here's how to set this up in the LaunchPoint area of Admin.
    >
    >Only fields that have been saved to [!DNL Facebook] form templates will appear as options here.
 
-1. Click in the **[!UICONTROL Marketo Field]** column. Type to search for the field you want to map to. Once you've selected a field, click **[!UICONTROL Save]**.
+1. Click in the **[!UICONTROL Marketo Field]** column. Type to search for the field you want to map to. After you have selected a field, click **[!UICONTROL Save]**.
 
    ![](assets/image2017-10-24-11-3a16-3a42.png)
 

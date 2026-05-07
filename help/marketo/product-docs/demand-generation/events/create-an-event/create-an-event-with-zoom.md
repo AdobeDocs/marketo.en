@@ -47,9 +47,9 @@ Enter the following information for your webinar and it will be pulled into Mark
 
 >[!TIP]
 >
->There are additional fields that you will configure in [!DNL Zoom] that will NOT affect the integration. Please refer to the [[!DNL Zoom] Webinar Help Center](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) for additional information on these fields.
+>There are additional fields that you will configure in [!DNL Zoom] that will NOT affect the integration. See the [[!DNL Zoom] Webinar Help Center](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) for additional information on these fields.
 
-Now, let's jump into Marketo!
+Now, proceed to Marketo.
 
 1. Select an event. Click **[!UICONTROL Event Actions]** and choose **[!UICONTROL Event Settings]**.
 
@@ -75,7 +75,7 @@ Now, let's jump into Marketo!
 
    ![](assets/eventsettingssave.png)
 
-   Excellent! Now the event is synced and scheduled by [!DNL Zoom].
+   The event is now synced and scheduled by [!DNL Zoom].
 
    >[!NOTE]
    >
@@ -87,7 +87,7 @@ Now, let's jump into Marketo!
    >
    >Set your confirmation email to **Operational** to ensure that people who register and may be unsubscribed still receive their confirmation information.
 
-   People who sign up for your webinar will get pushed to your webinar provider via the **[!UICONTROL Change Program Status]** flow step when the [!UICONTROL New Status] is set to "Registered." No other status will push the person over. Also, be sure to make **[!UICONTROL Change Program Status]** flow step #1, and **[!UICONTROL Send Email]** flow step #2.
+   People who sign up for your webinar will get pushed to your webinar provider via the **[!UICONTROL Change Program Status]** flow step when the [!UICONTROL New Status] is set to "Registered." No other status will push the person over. Also, make **[!UICONTROL Change Program Status]** flow step #1, and **[!UICONTROL Send Email]** flow step #2.
 
    ![](assets/goto-webinar-1.png)
 

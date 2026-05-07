@@ -42,7 +42,7 @@ In this article, you will configure Marketo to sync with your configured [!DNL S
 
    >[!NOTE]
    >
-   >Be sure to [hide all fields you do not need](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo from the sync user before clicking **[!UICONTROL Sync Fields]**. Once you click [!UICONTROL Sync Fields] all fields the user can see will be created in Marketo permanently and cannot be deleted.
+   >[Hide all fields you do not need](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo from the sync user before clicking **[!UICONTROL Sync Fields]**. Once you click [!UICONTROL Sync Fields] all fields the user can see will be created in Marketo permanently and cannot be deleted.
 
 1. Enter the [!DNL Salesforce] Sync User credentials created in part 2 of the [!DNL Salesforce] configuration ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) or [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) and click **[!UICONTROL Sync Fields]** (check **[!UICONTROL Sandbox]** only if you are syncing a Marketo Sandbox to a [!DNL Salesforce] Sandbox).
 
@@ -50,7 +50,7 @@ In this article, you will configure Marketo to sync with your configured [!DNL S
 
    >[!CAUTION]
    >
-   >If you see a "Login To [!DNL Salesforce]" Button instead of Username/Password/Token fields, your Marketo Subscription is enabled for OAuth. Please [refer to this article](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). As soon as the sync begins using a set of Credentials, **there is no switching of [!DNL Salesforce] credentials or subscription**. If you want to use Basic Authentication, reach out to your Account Manager.
+   >If you see a "Login To [!DNL Salesforce]" Button instead of Username/Password/Token fields, your Marketo Subscription is enabled for OAuth. [Refer to this article](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). As soon as the sync begins using a set of Credentials, **there is no switching of [!DNL Salesforce] credentials or subscription**. If you want to use Basic Authentication, reach out to your Account Manager.
 
 1. Read the warning, then click **[!UICONTROL Confirm Credentials]**.
 
@@ -94,7 +94,7 @@ Marketo provides status messages for the [!DNL Salesforce] sync in the Admin are
 
    ![](assets/image2014-12-9-9-3a54-3a35.png)
 
-You just finished configuring one of the most powerful features of Marketo, go you!
+You have finished configuring one of the most powerful features of Marketo.
 
 >[!MORELIKETHIS]
 >

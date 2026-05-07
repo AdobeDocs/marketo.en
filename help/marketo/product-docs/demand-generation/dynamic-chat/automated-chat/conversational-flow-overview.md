@@ -21,7 +21,7 @@ While Dialogues and Conversational Flows have several similarities, they are two
    <th style="width:50%">Conversational Flows</th>
   </tr>
   <tr>
-   <td>Dialogues are targeted&mdash;You design a conversation for a specific page and audience based on parameters you implemented.</td>
+   <td>Dialogues are targeted: You design a conversation for a specific page and audience based on parameters you implemented.</td>
    <td>Conversational Flows are triggered&mdash;You design a conversation that can be triggered based on a visitor's action, like filling out a form, clicking a link, etc.</td>
   </tr>
    <tr>

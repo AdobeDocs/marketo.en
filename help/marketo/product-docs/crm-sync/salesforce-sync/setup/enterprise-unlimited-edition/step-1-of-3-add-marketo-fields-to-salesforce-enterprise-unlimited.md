@@ -258,12 +258,11 @@ A custom field on the lead object in [!DNL Salesforce] should be mapped to a con
 
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
-1. Repeat the above steps for any other fields you've created.
+1. Repeat the above steps for any other fields you have created.
 
 1. Click **[!UICONTROL Save]** when you are done.
 
-   Easy enough, right?
-
+   
 >[!MORELIKETHIS]
 >
 >[Step 2 of 3: Create a [!DNL Salesforce] User for Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)

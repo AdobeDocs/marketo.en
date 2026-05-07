@@ -19,7 +19,7 @@ You can keep tabs on the current throughput and backlog of the sync process on t
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
-   This table displays the backlog of inserts and updates that haven't synced yet, for each object.
+   This table displays the backlog of inserts and updates that have not synced yet, for each object.
 
 1. Double-click any row to view opportunity information.
 

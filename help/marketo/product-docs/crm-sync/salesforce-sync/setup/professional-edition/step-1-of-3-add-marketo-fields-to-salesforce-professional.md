@@ -245,10 +245,9 @@ A custom field on the lead object in [!DNL Salesforce] should be mapped to a con
 
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
-1. Repeat the above steps for any other fields you've created.
+1. Repeat the above steps for any other fields you have created.
 1. Click **[!UICONTROL Save]** when you are done.
 
-Easy enough, right?
 
 >[!MORELIKETHIS]
 >

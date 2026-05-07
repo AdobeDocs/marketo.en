@@ -10,7 +10,7 @@ Configure your calendar and set meeting/live chat availability.
 
 >[!PREREQUISITES]
 >
->Make sure your agents have been granted the appropriate [permissions](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}.
+>Verify that your agents have been granted the appropriate [permissions](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}.
 
    ![](assets/agent-settings-1.png)
 

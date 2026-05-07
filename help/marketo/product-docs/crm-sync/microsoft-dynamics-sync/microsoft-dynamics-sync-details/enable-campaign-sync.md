@@ -32,7 +32,7 @@ This option allows Marketo to add and remove members from [!DNL MS Dynamics] Cam
 
    ![](assets/enable-campaign-sync-4.png)
 
-There you have it. Just give the sync some time to pull the data from [!DNL Microsoft Dynamics] and you are good to go.
+Give the sync some time to pull the data from [!DNL Microsoft Dynamics].
 
 >[!NOTE]
 >

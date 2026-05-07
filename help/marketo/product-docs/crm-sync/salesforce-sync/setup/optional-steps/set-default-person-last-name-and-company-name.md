@@ -25,4 +25,4 @@ feature: Salesforce Integration
    >
    >Marketo Engage only assigns a default value when the record is initially synced to Salesforce, and only if either of the required fields are empty.
 
-And that's that! Every time a person is missing a last name and/or company name, Marketo will add the default value as it syncs the record over.
+Every time a person is missing a last name or company name, Marketo will add the default value as it syncs the record over.

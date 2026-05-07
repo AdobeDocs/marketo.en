@@ -29,4 +29,4 @@ The [Marketo sync user](/help/marketo/product-docs/crm-sync/salesforce-sync/setu
 
    ![](assets/image2015-7-8-14-3a30-3a16.png)
 
-   Great! This Marketo sync user is now a marketing user.
+   This Marketo sync user is now a marketing user.

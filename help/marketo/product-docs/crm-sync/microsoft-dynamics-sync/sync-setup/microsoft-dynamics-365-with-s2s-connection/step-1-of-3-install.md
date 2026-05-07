@@ -80,7 +80,7 @@ Before you can sync [!DNL Microsoft Dynamics 365] and Marketo, you need to first
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
-   High five! The installation is finished.
+   The installation is complete.
 
    >[!MORELIKETHIS]
    >

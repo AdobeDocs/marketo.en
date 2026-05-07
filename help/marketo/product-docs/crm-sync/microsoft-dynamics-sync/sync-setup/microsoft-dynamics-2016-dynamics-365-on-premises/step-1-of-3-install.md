@@ -80,7 +80,7 @@ Before you can sync [!DNL Microsoft Dynamics] 2016 On-Prem/Dynamics 365 with Mar
 
    ![](assets/image2015-3-19-8-41-21.png)
 
-   High five! The installation is finished.
+   The installation is complete.
 
    >[!CAUTION]
    >

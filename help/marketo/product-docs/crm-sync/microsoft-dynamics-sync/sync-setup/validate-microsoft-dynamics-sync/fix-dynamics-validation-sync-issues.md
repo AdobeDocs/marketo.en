@@ -9,7 +9,7 @@ feature: Microsoft Dynamics
 
 ## Validate Sync Tool Results {#validate-sync-tool-results}
 
-When you run the Dynamics Validate Sync, it generates a report. If there's an ![x](assets/delete.png) next to a step, see the options below to identify and fix the problem. Then, rerun the sync validation steps until the result shows nothing but green checkmarks.
+When you run the Dynamics Validate Sync, it generates a report. If there is an ![x](assets/delete.png) next to a step, see the options below to identify and fix the problem. Then, rerun the sync validation steps until the result shows nothing but green checkmarks.
 
 ![](assets/image2015-9-22-15-3a58-3a12.png)
 
@@ -97,7 +97,7 @@ If you have an ![x](assets/delete.png) here, verify that none of the default ste
 
 ## Sync user is assigned to the Marketo solution {#sync-user-is-assigned-to-the-marketo-solution}
 
-If you have an ![x](assets/delete.png) here, make sure the Sync user is assigned on the Marketo Default page in Microsoft Dynamics.
+If you have an ![x](assets/delete.png) here, verify that the Sync user is assigned on the Marketo Default page in Microsoft Dynamics.
 
 1. In Dynamics, click the Settings icon and select **Advanced Settings**.
 
@@ -113,7 +113,7 @@ If you have an ![x](assets/delete.png) here, make sure the Sync user is assigned
 
 ## Sync user matches username and password {#sync-user-matches-username-and-password}
 
-If you have an ![x](assets/delete.png) here, be sure to assign the proper sync user in the Marketo User field in the Marketo Config Default setup step in Microsoft Dynamics.
+If you have an ![x](assets/delete.png) here, assign the proper sync user in the Marketo User field in the Marketo Config Default setup step in Microsoft Dynamics.
 
 >[!MORELIKETHIS]
 >

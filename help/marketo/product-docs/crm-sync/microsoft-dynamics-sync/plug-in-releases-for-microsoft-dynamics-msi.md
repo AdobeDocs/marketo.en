@@ -9,7 +9,7 @@ feature: Microsoft Dynamics
 
 When you first sync to [!DNL Microsoft Dynamics], you download and install the latest version of the plug-ins for Marketo Sales Insight (MSI). Periodically, Marketo updates these plug-ins, so you can return to the same place to download the new version.
 
-If you are using Marketo's native CRM sync solution to [!DNL Dynamics], please [download the latest plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your [!DNL Dynamics] release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+If you are using Marketo's native CRM sync solution to [!DNL Dynamics], [download the latest plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your [!DNL Dynamics] release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ If you are using Marketo's native CRM sync solution to [!DNL Dynamics], please [
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
-1. After a successful import you'll see two MSI solutions: MarketoSalesInsight and MarketoSalesInsight_Upgrade. Select the older solution and click Apply Solution Upgrade.
+1. After a successful import, two MSI solutions will appear: MarketoSalesInsight and MarketoSalesInsight_Upgrade. Select the older solution and click Apply Solution Upgrade.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
 

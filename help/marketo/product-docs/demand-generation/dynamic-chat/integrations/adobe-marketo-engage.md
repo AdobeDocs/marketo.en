@@ -46,9 +46,9 @@ After you've completed the [initial setup](/help/marketo/product-docs/demand-gen
 
 ## Add an Attribute {#add-an-attribute}
 
-After the initial sync, here's how to add additional attributes.
+After the initial sync, follow these steps to add additional attributes.
 
-1. In **[!UICONTROL Integrations]**, make sure the **[!UICONTROL Adobe Marketo Engage]** tab is selected and click **[!UICONTROL Add Attribute]**.
+1. In **[!UICONTROL Integrations]**, verify that the **[!UICONTROL Adobe Marketo Engage]** tab is selected and click **[!UICONTROL Add Attribute]**.
 
    ![](assets/adobe-marketo-engage-6.png)
 
@@ -62,13 +62,13 @@ After the initial sync, here's how to add additional attributes.
 
 ## Remove an Attribute {#remove-an-attribute}
 
-After the initial sync, here's how to remove an attribute.
+After the initial sync, follow these steps to remove an attribute.
 
 >[!NOTE]
 >
 >You'll only see the option to remove an attribute  if it is not currently in use by any Dialogues.
 
-1. In **[!UICONTROL Integrations]**, make sure the **[!UICONTROL Adobe Marketo Engage]** tab is selected and click on the attribute you want to remove.
+1. In **[!UICONTROL Integrations]**, verify that the **[!UICONTROL Adobe Marketo Engage]** tab is selected and click on the attribute you want to remove.
 
    ![](assets/adobe-marketo-engage-9.png)
 

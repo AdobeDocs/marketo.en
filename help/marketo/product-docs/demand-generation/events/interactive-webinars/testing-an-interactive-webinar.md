@@ -18,7 +18,7 @@ The workflow to create a test webinar remains the same as [creating any other we
 >
 >If you set the date and time for your test webinar too near in the future and that date/time elapses, Interactive Webinars considers the webinar delivered and would deduct one credit from your license.
 
-One credit will be blocked for the test webinar, but it can be utilized by either rescheduling the program to use with an actual webinar or simply by deleting the test webinar program.
+One credit will be blocked for the test webinar, but it can be utilized by either rescheduling the program to use with an actual webinar or by deleting the test webinar program.
 
 After creating and designing the webinar, the host, co-host and/or presenters can join to rehearse the delivery. External invitees can also be added as co-hosts to be able to participate in the testing. The testing can be performed the same way as the webinar is delivered, so evaluators get a sense of how the webinar will go in front of an actual audience. All functionalities in the live webinar would be available in the test webinar as well. This can be performed up until 15 minutes prior to the webinar's start time.
 

@@ -25,7 +25,7 @@ In this article, you'll configure Marketo Engage to sync with your configured [!
 
    >[!NOTE]
    >
-   >Be sure to [hide all fields you don't need](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} in Marketo from the sync user before clicking Sync Fields. Once you click Sync Fields all fields the user can see will be created in Marketo permanently and cannot be deleted.
+   >[Hide all fields you do not need](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} in Marketo from the sync user before clicking Sync Fields. Once you click Sync Fields all fields the user can see will be created in Marketo permanently and cannot be deleted.
 
 1. Click **[!UICONTROL Login with Veeva]**.
 
@@ -51,7 +51,7 @@ In this article, you'll configure Marketo Engage to sync with your configured [!
 
    ![](assets/step-3-of-3-connect-marketo-engage-6.png)
 
-1. In a few minutes, a pop-up will appear in Marketo Engae. Click **[!UICONTROL Confirm Credentials]**.
+1. In a few minutes, a pop-up will appear in Marketo Engage. Click **[!UICONTROL Confirm Credentials]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-7.png)
 

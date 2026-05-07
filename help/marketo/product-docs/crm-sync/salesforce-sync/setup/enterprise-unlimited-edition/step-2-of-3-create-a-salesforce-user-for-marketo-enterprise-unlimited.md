@@ -41,7 +41,7 @@ In this article, you will set up user permissions in [!DNL Salesforce] profile, 
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. Under the **[!UICONTROL Administrative Permissions]** section, make sure the following boxes are checked:
+1. Under the **[!UICONTROL Administrative Permissions]** section, verify the following boxes are checked:
 
     * [!UICONTROL API Enabled]
     * [!UICONTROL Edit HTML Templates]
@@ -52,9 +52,9 @@ In this article, you will set up user permissions in [!DNL Salesforce] profile, 
 
    >[!TIP]
    >
-   >Be sure to check the **[!UICONTROL Password Never Expires]** box.
+   >Check the **[!UICONTROL Password Never Expires]** box.
 
-1. Under the [!UICONTROL General User Permissions] section, make sure the following boxes are checked:
+1. Under the [!UICONTROL General User Permissions] section, verify the following boxes are checked:
 
     * [!UICONTROL Convert Leads]
     * [!UICONTROL Edit Events]
@@ -62,7 +62,7 @@ In this article, you will set up user permissions in [!DNL Salesforce] profile, 
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Under the [!UICONTROL Standard Object Permissions] section, make sure that [!UICONTROL Read, Create, Edit, and Delete] permissions are checked for:
+1. Under the [!UICONTROL Standard Object Permissions] section, verify that [!UICONTROL Read, Create, Edit, and Delete] permissions are checked for:
 
     * [!UICONTROL Accounts]
     * [!UICONTROL Campaigns]
@@ -105,7 +105,7 @@ In this article, you will set up user permissions in [!DNL Salesforce] profile, 
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Locate the unneeded fields, make sure that **[!UICONTROL Read Access]** and **[!UICONTROL Edit Access]** are unchecked. Click **[!UICONTROL Save]** when you’re done.
+1. Locate the unneeded fields, verify that **[!UICONTROL Read Access]** and **[!UICONTROL Edit Access]** are unchecked. Click **[!UICONTROL Save]** when you are done.
 
    >[!NOTE]
    >
@@ -113,7 +113,7 @@ In this article, you will set up user permissions in [!DNL Salesforce] profile, 
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. After you finish disabling all unneeded fields, you must check **[!UICONTROL Read Access and Edit Access]** for the following object fields. Click **[!UICONTROL Save]** when you’re done.
+1. After you finish disabling all unneeded fields, you must check **[!UICONTROL Read Access and Edit Access]** for the following object fields. Click **[!UICONTROL Save]** when you are done.
 
 <table>
  <tbody>
@@ -148,7 +148,7 @@ In this article, you will set up user permissions in [!DNL Salesforce] profile, 
 
    ![](assets/sfdc-new-users.png)
 
-1. Fill out the required fields. Then, select the **[!UICONTROL User License: Salesforce]** and the Profile that you previously created. Click **[!UICONTROL Save]** when you’re done.
+1. Fill out the required fields. Then, select the **[!UICONTROL User License: Salesforce]** and the Profile that you previously created. Click **[!UICONTROL Save]** when you are done.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 

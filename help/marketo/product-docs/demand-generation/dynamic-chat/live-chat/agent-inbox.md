@@ -56,7 +56,7 @@ Agents have the ability to manually terminate a session simply by clicking the *
 >
 >This feature is part of generative AI, available via the Dynamic Chat Prime subscription. Contact the Adobe Account Team (your Account manager) for details.
 
-Shortcuts, powered by the generative AI [Response library](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), is a great way to get help on the fly when chatting with a visitor. Simply type a forward slash (`/`) in the text box and choose `ask` or `search`.
+Shortcuts, powered by the generative AI [Response library](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), is an effective way to get help when chatting with a visitor. Type a forward slash (`/`) in the text box and choose `ask` or `search`.
 
    ![](assets/agent-inbox-7.png)
 

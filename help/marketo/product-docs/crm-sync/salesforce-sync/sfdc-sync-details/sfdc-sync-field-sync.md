@@ -35,7 +35,7 @@ Changing the field label in SFDC does not affect the field label in Marketo.
 
 ## What if I change a field type in SFDC? {#what-if-i-change-a-field-type-in-sfdc}
 
-When you change a field type, Marketo deletes the data in the fields if they don't match (but first displays a warning). To preserve the data, be sure to export it and re-import it after you change the field type.
+When you change a field type, Marketo deletes the data in the fields if they do not match (but first displays a warning). To preserve the data, export it and re-import it after you change the field type.
 
 ## What if I change an API name in SFDC? {#what-if-i-change-an-api-name-in-sfdc}
 

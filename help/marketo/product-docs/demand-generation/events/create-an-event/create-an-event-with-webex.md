@@ -7,7 +7,7 @@ feature: Events
 ---
 # Create an Event with [!DNL Webex] {#create-an-event-with-webex}
 
-After you create a webinar in Webex, you'll need to sync your event with Marketo Engage.
+After you create a webinar in Webex, you will need to sync your event with Marketo Engage.
 
 >[!PREREQUISITES]
 >
@@ -34,8 +34,8 @@ You schedule your event and choose your preferred settings in [Webex](https://ww
 
 ![](assets/create-an-event-with-webex-2.png)
 
-* **Webinar password**: (optional) If you use this field, be sure to include it in your confirmation email.
-* **Panelist password**: (optional) If you use this field, be sure to include it in your Webinar agenda.
+* **Webinar password**: (optional) If you use this field, include it in your confirmation email.
+* **Panelist password**: (optional) If you use this field, include it in your Webinar agenda.
 * **Require account**: Limits attendees to only those who have Webex accounts.
 
 ### Audio Connection Options {#audio-connection-options}
@@ -61,7 +61,7 @@ You schedule your event and choose your preferred settings in [Webex](https://ww
 
 >[!NOTE]
 >
->The Marketo-Webex integration cannot support sending confirmation emails out of Webex. The confirmation must be sent via Marketo. After you've scheduled the event, be sure to copy the event information to the Marketo confirmation email and set the email as _Operational_.
+>The Marketo-Webex integration cannot support sending confirmation emails out of Webex. The confirmation must be sent via Marketo. After you've scheduled the event, copy the event information to the Marketo confirmation email and set the email as _Operational_.
 
 ## Sync Your Event with Marketo Engage {#sync-your-event-with-marketo-engage}
 
@@ -89,10 +89,10 @@ You schedule your event and choose your preferred settings in [Webex](https://ww
 
    ![](assets/create-an-event-with-webex-9.png)
 
-Your Webex event is now synced with your Marketo Event Program. People who sign up for your webinar will get pushed to your webinar provider via the _Change Program Status_ flow step when the new status is set to "Registered." No other status will push the person over. Be sure to make _Change Program Status_ flow step #1, and _Send Email_ flow step #2.
+Your Webex event is now synced with your Marketo Event Program. People who sign up for your webinar will get pushed to your webinar provider via the _Change Program Status_ flow step when the new status is set to "Registered." No other status will push the person over. Make _Change Program Status_ flow step #1, and _Send Email_ flow step #2.
 
 ## Things to Note {#things-to-note}
 
 * Avoid using nested Email Programs to send out your confirmation emails. Use your Event Program's Smart Campaign instead.
 
-* It can take up to 48 hours for data to appear in Marketo. If after waiting that long you still don't see anything, click **Refresh from Webinar Provider** in the **Event Actions** drop-down in the **Summary** tab of your Event Program.
+* It can take up to 48 hours for data to appear in Marketo. If after waiting that long you still do not see anything, click **Refresh from Webinar Provider** in the **Event Actions** drop-down in the **Summary** tab of your Event Program.

@@ -7,7 +7,7 @@ feature: Events
 ---
 # Example ON24 Event Integration {#example-on-event-integration}
 
-Here's a sample event, including campaigns, for an ON24 webinar. When you build your event, be sure to test your campaigns before running them.
+The following is a sample event, including campaigns, for an ON24 webinar. When you build your event, test your campaigns before running them.
 
 ## Create a New Event in Marketing Activities {#create-a-new-event-in-marketing-activities}
 
@@ -49,7 +49,7 @@ Here's a sample event, including campaigns, for an ON24 webinar. When you build 
 
 * **Smart List**
 
-  * Trigger the campaign based on **[!UICONTROL Fills Out Form]**. Be sure to include the landing page that the form lives on by using **[!UICONTROL Add Constraint]**, especially if the form is used on multiple landing pages.
+  * Trigger the campaign based on **[!UICONTROL Fills Out Form]**. Include the landing page that the form lives on by using **[!UICONTROL Add Constraint]**, especially if the form is used on multiple landing pages.
 
 >[!CAUTION]
 >
@@ -65,7 +65,7 @@ Here's a sample event, including campaigns, for an ON24 webinar. When you build 
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 
-**NOTE**: If the person is returned with a registration error, they won't receive the email confirmation.
+**NOTE**: If the person is returned with a registration error, they will not receive the email confirmation.
 
 ## Reminder (Batch Campaign) {#reminder-batch-campaign}
 
@@ -73,7 +73,7 @@ Here's a sample event, including campaigns, for an ON24 webinar. When you build 
 
 * **Flow** - Send Email (Reminder Email).
 
-**NOTE**: You could use a similar campaign to send a *different* follow-up email to people who were invited but who haven't registered yet.
+**NOTE**: You could use a similar campaign to send a *different* follow-up email to people who were invited but who have not registered yet.
 
 ## Follow-Up Campaign (Batch or Trigger Campaign) {#follow-up-campaign-batch-or-trigger-campaign}
 

@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Microsoft [!DNL Dynamics] Sync: User Sync {#microsoft-dynamics-sync-user-sync}
 
-Did you know Marketo syncs your entire database with [!DNL Dynamics]? It syncs, then waits 5 minutes and then syncs again, all day, every day. Here are some details about how Marketo treats [!DNL Dynamics] Accounts specifically.
+Marketo syncs your entire database with [!DNL Dynamics]. It syncs, then waits 5 minutes and then syncs again, all day, every day. Here are some details about how Marketo treats [!DNL Dynamics] Accounts specifically.
 
 You will need a dedicated Microsoft [!DNL Dynamics] CRM user for the purpose of the integration. We call this user the Sync User.
 

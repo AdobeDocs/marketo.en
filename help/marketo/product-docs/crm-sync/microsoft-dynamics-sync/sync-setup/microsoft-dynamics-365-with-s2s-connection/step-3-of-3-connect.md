@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Step 3 of 3: Connect the Marketo Solution with Server to Server Connection {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
-This is the last step of the sync. We're almost there!
+This is the final step of the sync.
 
 >[!PREREQUISITES]
 >
@@ -46,7 +46,7 @@ This is the last step of the sync. We're almost there!
 
    >[!CAUTION]
    >
-   >Please make sure your org URL is correct as we are unable to revert the subsequent schema changes after submission. If an incorrect Org URL is used, you'll have to obtain a new Marketo subscription. If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >Verify that your org URL is correct. Subsequent schema changes cannot be reverted after submission. If an incorrect Org URL is used, a new Marketo subscription will be required. If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
 1. Enter the [!DNL Dynamics] Sync User information and click **[!UICONTROL Save]** when done.
 
@@ -72,7 +72,7 @@ This is the last step of the sync. We're almost there!
 
 ## Sync Fields for a Custom Filter {#sync-fields-for-a-custom-filter}
 
-If you've created a custom filter, be sure to go in and select the new fields to be synced with Marketo.
+If you have created a custom filter, go in and select the new fields to be synced with Marketo.
 
 1. Go to [!UICONTROL Admin] and select **[!UICONTROL Microsoft Dynamics]**.
 

@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # [!DNL Microsoft Dynamics] Sync: Lead Sync {#microsoft-dynamics-sync-lead-sync}
 
-Marketo to [!DNL Dynamics] sync is super powerful. Here are the details:
+Marketo to [!DNL Dynamics] sync is powerful. Here are the details:
 
 ## How are details kept in sync between the two systems? {#how-are-details-kept-in-sync-between-the-two-systems}
 
@@ -19,11 +19,11 @@ The sync is bi-directional. If you make changes to either a lead in [!DNL Dynami
 
 ## What if changes are made to the same field in both systems at the same time? (Data Collision) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-Although this is rare, Marketo will win for people (leads) and [!DNL Dynamics] will win for contacts. This is because we consider the marketing department to be authoritative for people, whereas the official system of record for contacts is in the sales (CRM) department.
+Although this is rare, Marketo will win for people (leads) and [!DNL Dynamics] will win for contacts. This is because the marketing department is considered authoritative for people, whereas the official system of record for contacts is in the sales (CRM) department.
 
 ## Can I create a lead in [!DNL Dynamics] using Marketo? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Yes, use the [[!UICONTROL Sync Person to Microsoft]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) flow action. This will create a lead in [!DNL Dynamics] if the lead doesn't exist. If the lead does exist, the flow step will not perform any action.
+Yes, use the [[!UICONTROL Sync Person to Microsoft]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) flow action. This will create a lead in [!DNL Dynamics] if the lead does not exist. If the lead does exist, the flow step will not perform any action.
 
 >[!NOTE]
 >

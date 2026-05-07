@@ -42,7 +42,7 @@ In this article, you'll configure Marketo Engage to sync with your configured Sa
 
    >[!NOTE]
    >
-   >Be sure to [hide all fields you do not need](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} in Marketo from the sync user before clicking **[!UICONTROL Sync Fields]**. Once you click Sync Fields all fields the user can see will be created in Marketo permanently and cannot be deleted.
+   >[Hide all fields you do not need](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} in Marketo from the sync user before clicking **[!UICONTROL Sync Fields]**. Once you click Sync Fields all fields the user can see will be created in Marketo permanently and cannot be deleted.
 
 1. Enter the Salesforce Sync User credentials created in part 2 of the Salesforce configuration ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) and click **[!UICONTROL Sync Fields]**.
 
@@ -94,7 +94,7 @@ Marketo provides status messages for the [!DNL Salesforce] sync in the Admin are
 
    ![](assets/image2014-12-9-9-3a54-3a35.png)
 
-You just finished configuring one of the most powerful features of Marketo, go you!
+You have finished configuring one of the most powerful features of Marketo.
 
 >[!MORELIKETHIS]
 >

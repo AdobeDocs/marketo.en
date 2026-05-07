@@ -90,7 +90,7 @@ When a large amount of updates are made (like from a field value changing), many
 
 **Schedule bulk updates during non-critical hours**: Review your data sync patterns to identify non-critical periods. Review if bulk updates can be scheduled in these non-critical periods if possible.
 
-**Frequently Updated fields**: Some fields are prone to frequent updates. For example, currency fields that are subject to currency changes. Review if these need to be synced, or if the fields should be designed differently. If you have other fields that are updated frequently and are not needed, hide them from the sync user. Be sure to discuss with your SFDC admin integrations that might be updating fields.
+**Frequently Updated fields**: Some fields are prone to frequent updates. For example, currency fields that are subject to currency changes. Review if these need to be synced, or if the fields should be designed differently. If you have other fields that are updated frequently and are not needed, hide them from the sync user. Discuss with your SFDC admin about integrations that might be updating fields.
 
 **Custom objects**: Periodically review [custom objects](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} enabled to sync and disable those that no longer need to be synced.
 

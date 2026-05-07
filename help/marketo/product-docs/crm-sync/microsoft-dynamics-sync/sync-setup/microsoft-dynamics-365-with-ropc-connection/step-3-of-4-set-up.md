@@ -15,7 +15,7 @@ feature: Microsoft Dynamics
 
 1. Follow all the steps. For Step 3, enter a relevant application name (e.g., "[!DNL Marketo Integration]"). Under the Supported Account Types, select Account in this organizational directory only.
 
-1. Write down the Application ID (ClientId). You'll need to enter it in Marketo later.
+1. Write down the Application ID (ClientId). Enter it in Marketo later.
 
 1. Grant Admin consent by following the steps in [this article](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
@@ -33,13 +33,13 @@ feature: Microsoft Dynamics
 
    >[!CAUTION]
    >
-   >Make sure to make note of the Client Secret value (seen in the screenshot below), as you'll need it later. It is only shown once, and you won't be able to retrieve it again.
+   >Note the Client Secret value (seen in the screenshot below), as it is only shown once and cannot be retrieved again.
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-4.png)
 
 ## [!DNL Azure AD] Federated with [!DNL AD FS On-prem] {#azure-ad-federated-with-ad-fs-on-prem}
 
-Federated [!DNL Azure] AD to [!DNL ADFS Onprem] needs the creation of a Home Realm Discovery policy for the specific application. With this policy, [!DNL Azure] AD will redirect the authentication request to the federation service. Password hash synchronization has to be enabled in [!DNL AD Connect] for this. For more information, please see [[!DNL OAuth] with [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) and [Set an hrd policy for an application](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
+Federated [!DNL Azure] AD to [!DNL ADFS Onprem] needs the creation of a Home Realm Discovery policy for the specific application. With this policy, [!DNL Azure] AD will redirect the authentication request to the federation service. Password hash synchronization has to be enabled in [!DNL AD Connect] for this. For more information, see [[!DNL OAuth] with [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) and [Set an hrd policy for an application](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
 Additional references [can be found here](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"}.
 

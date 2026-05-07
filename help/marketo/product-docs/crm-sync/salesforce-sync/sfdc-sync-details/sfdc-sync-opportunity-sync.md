@@ -51,6 +51,6 @@ Filters:
 
 >[!TIP]
 >
->Check out the constraints on filters and triggers. Lots of cool details in there.
+>Review the constraints on filters and triggers for additional details.
 >
->Just make a new field in the opportunity object in [!DNL Salesforce] and it will automatically become a constraint!
+>Make a new field in the opportunity object in [!DNL Salesforce] and it will automatically become a constraint!

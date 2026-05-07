@@ -10,7 +10,7 @@ Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize p
 
 ## Permissions {#permissions}
 
-In order to use generative AI, be sure to grant the desired users the appropriate [permissions](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md).
+In order to use generative AI, grant the desired users the appropriate [permissions](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md).
 
    ![](assets/generative-ai-overview-1.png)
 
@@ -64,13 +64,13 @@ Discussed Topics is available in Smart List triggers and filters as a constraint
 
 >[!IMPORTANT]
 >
->When using generative AI, you must abide by the [Adobe Experience Cloud Generative AI User Guidelines](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) so we can ensure Adobe Experience Cloud features that incorporate generative AI are being used in a safe and responsible manner.
+>When using generative AI, you must abide by the [Adobe Experience Cloud Generative AI User Guidelines](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) to ensure Adobe Experience Cloud features that incorporate generative AI are being used in a safe and responsible manner.
 
 ## FAQ {#faq}
 
 **Is generative AI available to all Dynamic Chat users?**
 
-Generative AI is only available to Dynamic Chat Prime subscribers. Please contact the Adobe Account Team (your Account Manager) for details.
+Generative AI is only available to Dynamic Chat Prime subscribers. Contact the Adobe Account Team (your Account Manager) for details.
 
 **Is there a limit to the amount of questions & answers I can have generated?**
 

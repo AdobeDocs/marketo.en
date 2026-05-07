@@ -52,7 +52,7 @@ Follow the steps below to add or remove chat users.
 
 ## Add Dynamic Chat Access to Marketo Role {#add-dynamic-chat-access-to-marketo-role}
 
-If the newly added Chat user's Marketo role doesn't already have [!DNL Dynamic Chat] permission, here's how to add it.
+If the newly added Chat user's Marketo role doesn't already have [!DNL Dynamic Chat] permission, follow these steps to add it.
 
 1. In Marketo, click **[!UICONTROL Admin]** and select **[!UICONTROL Users & Roles]**.
 

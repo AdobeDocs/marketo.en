@@ -14,7 +14,7 @@ There are five default profiles with predefined permissions you can edit in Dyna
 
    ![](assets/permissions-1.png)
 
-1. In the **Product profiles** tab, select the profile you want to edit. In this example, we're choosing **Live Agent**.
+1. In the **Product profiles** tab, select the profile you want to edit. In this example, **Live Agent** is selected.
 
    ![](assets/permissions-2.png)
 
@@ -22,7 +22,7 @@ There are five default profiles with predefined permissions you can edit in Dyna
 
    ![](assets/permissions-3.png)
 
-1. Select the area of the profile you want to edit. In this example, we're choosing Live Chat. Click the pencil icon.
+1. Select the area of the profile you want to edit. In this example, **Live Chat** is selected. Click the pencil icon.
 
    ![](assets/permissions-4.png)
 

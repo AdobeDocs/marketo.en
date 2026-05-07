@@ -82,7 +82,7 @@ When you first sync to [!DNL Microsoft Dynamics], you download the latest versio
   <tr>
    <td>4.0.0.20</td>
    <td>7/22/16</td>
-   <td>Bug fix: Updates of opportunity contact role weren't being captured completely.</td>
+   <td>Bug fix: Updates of opportunity contact role were not being captured completely.</td>
   </tr>
   <tr>
    <td>4.0.0.19</td>
@@ -97,7 +97,7 @@ When you first sync to [!DNL Microsoft Dynamics], you download the latest versio
   <tr>
    <td>4.0.0.17</td>
    <td>4/8/16</td>
-   <td>Bug fix: When the lead had a sync filter set to NO, and the opportunity and contact didn't have a sync filter, the Create Log wasn't generated for the contact and opportunity when the lead was qualified.</td>
+   <td>Bug fix: When the lead had a sync filter set to NO, and the opportunity and contact did not have a sync filter, the Create Log was not generated for the contact and opportunity when the lead was qualified.</td>
   </tr>
   <tr>
    <td>4.0.0.16</td>
@@ -107,7 +107,7 @@ When you first sync to [!DNL Microsoft Dynamics], you download the latest versio
   <tr>
    <td>4.0.0.15</td>
    <td>3/3/16</td>
-   <td>Bug fix: Customer couldn't create a lead in CRM because the login user didn't have Marketo Config permission.</td>
+   <td>Bug fix: Customer could not create a lead in CRM because the login user did not have Marketo Config permission.</td>
   </tr>
   <tr>
    <td colspan="1">4.0.0.14</td>

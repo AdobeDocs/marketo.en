@@ -6,7 +6,7 @@ feature: Interactive Webinars
 ---
 # Create an Interactive Webinar {#create-an-interactive-webinar}
 
-Create an Interactive Webinar in a few easy steps.
+Create an Interactive Webinar in the following steps.
 
 1. Go to **Marketing Activities**.
 
@@ -24,7 +24,7 @@ Create an Interactive Webinar in a few easy steps.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. Click the Channel drop-down and select any channel that has _Event with Webinar_ in its "Applies To" column. In this example, we're choosing **Webinar**.
+1. Click the Channel drop-down and select any channel that has _Event with Webinar_ in its "Applies To" column. In this example, **Webinar** is selected.
 
    ![](assets/create-an-interactive-webinar-4.png)
 

@@ -80,7 +80,7 @@ That said, your app's deep link structure may be different from the above exampl
 
 ## Redirect URIs {#redirect-uris}
 
-Redirect URIs configured in Push notification messages support Marketo tokens in them. Applicable for 'Launch App URLs' only.
+Redirect URIs configured in Push notification messages support Marketo tokens in them. Applicable for 'Launch App URIs' only.
 
 Sample format: 
 

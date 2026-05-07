@@ -46,7 +46,7 @@ Marketo Engage provides specific control over the [!DNL Veeva] custom object syn
 
 >[!IMPORTANT]
 >
->Don't forget to re-enable your global sync!
+>Remember to re-enable your global sync.
 
 Now your Smart Lists and Smart Campaigns have even more power.
 

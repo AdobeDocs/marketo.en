@@ -64,7 +64,7 @@ Select the object you wish to sync and click **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-Excellent! You can now use this custom object’s data in [!UICONTROL Smart Campaigns] and [!UICONTROL Smart Lists].
+You can now use this custom object’s data in [!UICONTROL Smart Campaigns] and [!UICONTROL Smart Lists].
 
 >[!MORELIKETHIS]
 >

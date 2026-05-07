@@ -18,7 +18,7 @@ Custom rule: You can choose specific agents to receive meetings based on attribu
 
 ## Create a Custom Rule {#create-a-custom-rule}
 
-In this example we're sending all meetings from the inferred states of CA, OR, and WA to agent John.
+In this example, all meetings from the inferred states of CA, OR, and WA are routed to agent John.
 
 1. Under Configuration, click **Routing Rules**.
 
@@ -94,7 +94,7 @@ Identify and upload your target account and respective sales owners and route vi
 
 ### Add an Account {#add-an-account}
 
-In this example, we'll route all employees from Lego directly to agent Steven.
+In this example, all employees from Lego are routed directly to agent Steven.
 
 1. In the Account Routing tab, click **+ Add Account**.
 

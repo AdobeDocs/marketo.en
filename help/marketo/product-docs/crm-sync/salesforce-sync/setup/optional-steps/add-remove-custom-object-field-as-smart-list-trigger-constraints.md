@@ -55,7 +55,7 @@ Marketo Engage provides fine-grain control over the Salesforce custom object syn
 
    >[!NOTE]
    >
-   >Don't forget to re-enable your global sync!
+   >Remember to re-enable your global sync.
 
 Now your Smart Lists and Smart Campaigns have even more power.
 

@@ -29,7 +29,7 @@ Before any users in your organization have the ability to customize your Interac
 
    ![](assets/interactive-webinars-customization-2.png)
 
-1. Double-click the role you'd like to add the permissions to.
+1. Double-click the role you want to add the permissions to.
 
    ![](assets/interactive-webinars-customization-3.png)
 

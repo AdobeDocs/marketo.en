@@ -16,7 +16,7 @@ You should be familiar with the building blocks and the recommended sequence for
 
 >[!NOTE]
 >
->Please refer to the [Marketo API documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} for more information on Marketo APIs.
+>See the [Marketo API documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} for more information on Marketo APIs.
 
 ## Prerequisites {#prerequisites}
 
@@ -24,8 +24,8 @@ The following are required to use the Marketo ON24 integration:
 
 * **Subscription to ON24 webcasts** - If you do not have a current subscription, contact ON24 directly. **NOTE**: ON24 Hosted Edition is required. ON24 Event Management is not required.
 
-* **Administrator rights to ON24** - You'll need this to use this connector and create guests in the ON24 system.
-* **ON24 connection credentials** - You'll need to enter this information into Marketo to enable the integration: Username, Password, Client ID, and Client Key. Contact your ON24 Account Manager or ON24 Support if you need help with your credentials.
+* **Administrator rights to ON24** - You will need this to use this connector and create guests in the ON24 system.
+* **ON24 connection credentials** - You will need to enter this information into Marketo to enable the integration: Username, Password, Client ID, and Client Key. Contact your ON24 Account Manager or ON24 Support if you need help with your credentials.
 * **Registration form** - Use a Marketo form or a non-Marketo form along with the proper API to ensure registration data and registrant info is passed to Marketo.
 * **Registration child campaign** - A registration child campaign in your Marketo Event must be created and configured properly for your Event Partner integration to work.
 

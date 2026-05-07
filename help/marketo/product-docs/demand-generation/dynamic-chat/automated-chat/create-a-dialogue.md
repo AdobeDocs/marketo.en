@@ -6,7 +6,7 @@ exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
 ---
 # Create a Dialogue {#create-a-dialogue}
 
-Here's how to create a new Dialogue.
+Follow these steps to create a new Dialogue.
 
 1. Click **[!UICONTROL Dialogues]**.
 

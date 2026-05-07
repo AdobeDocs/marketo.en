@@ -61,7 +61,7 @@ Before you can sync [!DNL Microsoft Dynamics] On-Premises and Marketo, you need 
    >
    >You will need to enable pop-ups on your browser to complete the installation process.
 
-1. Now wait for the import to finish. Get up and do some stretches.
+1. Now wait for the import to finish.
 
    ![](assets/image2015-4-2-11-3a43-3a51.png)
 

@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Set a Default Custom Field Prefix {#set-a-default-custom-field-prefix}
 
-Your default [!DNL Microsoft Dynamics] prefix for custom fields must be **new** in order for Marketo proprietary fields to sync correctly. Here's how to change the default prefix.
+Your default [!DNL Microsoft Dynamics] prefix for custom fields must be **new** in order for Marketo proprietary fields to sync correctly.
 
 1. Go to [!UICONTROL Settings] and select **[!UICONTROL Customizations].**
 

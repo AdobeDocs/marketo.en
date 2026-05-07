@@ -7,7 +7,7 @@ feature: Salesforce Integration
 ---
 # Using Person Accounts {#using-person-accounts}
 
-Person accounts can be set up in Salesforce to fit the need of your organization. Here's how Marketo Engage treats person accounts.
+Person accounts can be set up in Salesforce to fit the need of your organization. The following describes how Marketo Engage treats person accounts.
 
 >[!NOTE]
 >

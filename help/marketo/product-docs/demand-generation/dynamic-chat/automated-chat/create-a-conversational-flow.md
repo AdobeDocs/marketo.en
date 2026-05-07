@@ -6,7 +6,7 @@ exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
 ---
 # Create a Conversational Flow {#create-a-conversational-flow}
 
-Here's how to create a new Conversational Flow.
+Follow these steps to create a new Conversational Flow.
 
 1. Under [!UICONTROL Automated Chat], click **[!UICONTROL Conversational Flows]**.
 
@@ -24,7 +24,7 @@ Here's how to create a new Conversational Flow.
    >
    >This will change the language of the system text only. You are responsible for translating content.
 
-1. Just like in Dialogues, at this point it is time to [create a stream](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+1. As with Dialogues, [create a stream](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

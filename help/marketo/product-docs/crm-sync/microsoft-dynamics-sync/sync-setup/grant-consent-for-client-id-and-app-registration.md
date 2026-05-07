@@ -6,7 +6,7 @@ feature: Microsoft Dynamics
 ---
 # Grant Consent for Client Id and App Registration {#grant-consent-for-client-id-and-app-registration}
 
-Follow the steps below to learn how to grant the mecessary consent/permissions.
+Follow the steps below to learn how to grant the necessary consent and permissions.
 
 ## Grant Delegated User Permissions for the Sync User {#grant-delegated-user-permissions-for-the-sync-user}
 

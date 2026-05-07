@@ -7,7 +7,7 @@ feature: Salesforce Integration
 ---
 # SFDC Sync: Lead Sync {#sfdc-sync-lead-sync}
 
-Did you know Marketo syncs from your [!DNL Salesforce] database? It syncs, waits 5 minutes, then syncs again. All day, every day. Here are some details about how Marketo treats [!DNL Salesforce] leads specifically.
+Marketo syncs from your [!DNL Salesforce] database. It syncs, waits 5 minutes, then syncs again. All day, every day. Here are some details about how Marketo treats [!DNL Salesforce] leads specifically.
 
 ## Sync Direction {#sync-direction}
 
