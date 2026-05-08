@@ -3,7 +3,7 @@ description: AWS Migration - Marketo Engage Docs - Product Documentation
 title: AWS Migration
 feature: Getting Started
 hide: yes
-hidefromtoc: yes
+
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
 ---
 # AWS Migration {#aws-migration}

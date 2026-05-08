@@ -4,7 +4,7 @@ description: "Learn how to edit Facebook rich post settings in Marketo. Customiz
 title: Edit Facebook Rich Post Settings
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: yes
-hidefromtoc: yes
+
 feature: Integrations
 ---
 # Edit [!DNL Facebook] Rich Post Settings {#edit-facebook-rich-post-settings}

@@ -4,7 +4,7 @@ description: "Learn how to enable social form fill so visitors can submit forms 
 title: Enable Social Form Fill on a Form
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: yes
-hidefromtoc: yes
+
 feature: Forms
 ---
 # Enable Social Form Fill on a Form {#enable-social-form-fill-on-a-form}

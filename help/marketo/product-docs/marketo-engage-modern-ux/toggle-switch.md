@@ -3,7 +3,7 @@ description: "Learn how to use the toggle switch to switch between Marketo Class
 title: Toggle Switch
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 hide: yes
-hidefromtoc: yes
+
 feature: Modern UX
 ---
 # Toggle Switch {#toggle-switch}

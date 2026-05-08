@@ -2,7 +2,7 @@
 description: "Learn about the new Email Designer beta. Access the drag-and-drop editor and templates for the Marketo Engage beta program."
 title: Overview
 hide: yes
-hidefromtoc: yes
+
 feature: Email Editor
 exl-id: 86475b8b-4dd2-4c73-9586-889f6a3c01e8
 ---

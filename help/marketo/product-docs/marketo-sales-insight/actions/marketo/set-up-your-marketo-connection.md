@@ -2,7 +2,7 @@
 description: "Learn how to set up your Marketo connection for Sales Insight Actions. Connect from Marketo Admin to enable Actions for your instance."
 title: Set up Your Marketo Connection
 hide: yes
-hidefromtoc: yes
+
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
 ---

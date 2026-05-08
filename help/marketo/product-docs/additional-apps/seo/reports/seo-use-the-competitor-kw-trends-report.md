@@ -4,7 +4,7 @@ description: "Compare your and your competitors' keyword rankings over time."
 title: SEO - Use the Competitor KW Trends Report
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 hide: yes
-hidefromtoc: yes
+
 feature: SEO
 ---
 # SEO - Use the Competitor KW Trends Report {#seo-use-the-competitor-kw-trends-report}

@@ -2,7 +2,7 @@
 description: "Learn how to add contacts to a Marketo marketing campaign from Sales Insight Actions. Select contacts and add them to the campaign."
 title: Add to Marketing Campaign
 hide: yes
-hidefromtoc: yes
+
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
 ---

@@ -2,7 +2,7 @@
 description: "How to access Product Usage Dashboards to view usage against limits, activity metrics, and key subscription metrics."
 title: Product Usage Dashboards
 hide: yes
-hidefromtoc: yes
+
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
 ---

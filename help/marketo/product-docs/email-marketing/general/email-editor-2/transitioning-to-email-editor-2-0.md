@@ -4,7 +4,7 @@ description: "Learn about transitioning to Email Editor 2.0. Understand changes 
 title: Transitioning to Email Editor 2.0
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: yes
-hidefromtoc: yes
+
 feature: Email Editor
 ---
 # Transitioning to [!DNL Email Editor 2.0] {#transitioning-to-email-editor}

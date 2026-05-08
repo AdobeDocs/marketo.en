@@ -2,7 +2,7 @@
 description: "Learn about People page columns and how to customize the view. Show or hide columns to see the contact data you need."
 title: People Page Columns
 hide: yes
-hidefromtoc: yes
+
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
 ---

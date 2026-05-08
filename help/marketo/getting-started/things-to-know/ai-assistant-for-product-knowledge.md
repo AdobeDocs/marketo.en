@@ -3,7 +3,7 @@ description: AI Assistant for product knowledge - Marketo Engage Docs - Product 
 title: AI Assistant for product knowledge
 feature: Getting Started
 hide: yes
-hidefromtoc: yes
+
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
 ---
 # AI Assistant for product knowledge {#ai-assistant-for-product-knowledge}

@@ -4,7 +4,7 @@ description: "Export page optimization issues to a CSV file from the Page Detail
 title: SEO - Export Issues to CSV
 exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
 hide: yes
-hidefromtoc: yes
+
 feature: SEO
 ---
 # SEO - Export Issues to CSV {#seo-export-issues-to-csv}

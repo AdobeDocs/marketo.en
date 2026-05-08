@@ -2,7 +2,7 @@
 description: "Learn how to set up custom object sync from Veeva CRM to Marketo Engage. Enable custom objects in Admin and use them in Smart Lists and triggers."
 title: Custom Object Sync
 hide: yes
-hidefromtoc: yes
+
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
 ---

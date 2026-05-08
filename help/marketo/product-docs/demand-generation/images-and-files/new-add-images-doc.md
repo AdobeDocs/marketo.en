@@ -2,7 +2,7 @@
 description: "Learn how to add images and files to Marketo Design Studio. Upload, organize, and use assets in campaigns and landing pages."
 title: New Add Images Doc
 hide: yes
-hidefromtoc: yes
+
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
 ---

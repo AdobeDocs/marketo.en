@@ -2,7 +2,7 @@
 description: "Learn how to compose and send bulk emails with Select and Send. Choose contacts from the People page and send personalized emails at scale."
 title: Composing Bulk Emails with Select and Send
 hide: yes
-hidefromtoc: yes
+
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
 ---

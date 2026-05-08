@@ -4,7 +4,7 @@ short-description: Learn Marketo Engage terms and their definitions to help you 
 title: Marketo Engage Glossary
 feature: Getting Started
 hide: yes
-hidefromtoc: yes
+
 exl-id: dd97b50c-4148-473e-b9fb-4e76ef733e5d
 ---
 # Marketo Engage Glossary {#marketo-engage-glossary}

@@ -2,7 +2,7 @@
 description: "Marketo Engage Community - Marketo Engage Docs - Product Documentation"
 title: Marketo Engage Community
 hide: yes
-hidefromtoc: yes
+
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
 ---

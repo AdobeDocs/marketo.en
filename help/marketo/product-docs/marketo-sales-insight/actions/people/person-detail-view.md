@@ -2,7 +2,7 @@
 description: "Understand the person detail view in Sales Insight Actions. See contact info, activity history, and quick actions for a lead or contact."
 title: Person Detail View
 hide: yes
-hidefromtoc: yes
+
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
 ---

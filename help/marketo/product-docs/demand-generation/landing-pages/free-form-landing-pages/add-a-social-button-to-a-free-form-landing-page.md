@@ -4,7 +4,7 @@ description: "Learn how to add a social button to a free-form landing page in Ma
 title: Add a Social Button to a Free-form Landing Page
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: yes
-hidefromtoc: yes
+
 feature: Landing Pages
 ---
 # Add a Social Button to a Free-form Landing Page {#add-a-social-button-to-a-free-form-landing-page}

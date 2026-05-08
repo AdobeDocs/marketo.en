@@ -2,7 +2,7 @@
 description: "Learn about email templates in the new Email Designer. Create and reuse templates for faster email creation in Marketo Engage."
 title: Email templates
 hide: yes
-hidefromtoc: yes
+
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
 ---
