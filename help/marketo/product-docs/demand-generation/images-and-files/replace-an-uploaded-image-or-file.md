@@ -35,8 +35,6 @@ feature: Image Editor
    >
    >The name of the replacement file will change to match the previous file's name.
 
-Good job!
-
 >[!MORELIKETHIS]
 >
 >* [Search Uploaded Images and Files](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}

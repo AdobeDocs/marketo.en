@@ -7,7 +7,7 @@ feature: Image Editor
 ---
 # Find the URL of an Uploaded Image or File {#find-the-url-of-an-uploaded-image-or-file}
 
-Looking for the web address (URL) of an image or file you uploaded?
+Follow these steps to find the URL of an image or file you uploaded.
 
 1. Go to the **[!UICONTROL Design Studio]**.
 

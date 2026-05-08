@@ -7,7 +7,7 @@ feature: Image Editor
 ---
 # Delete an Uploaded Image or File {#delete-an-uploaded-image-or-file}
 
-Deleting images or files is quick and easy.
+Follow these steps to delete an uploaded image or file.
 
 >[!CAUTION]
 >

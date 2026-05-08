@@ -7,7 +7,7 @@ feature: Forms
 ---
 # Add Rich Text to a Form {#add-rich-text-to-a-form}
 
-Use Rich Text in a Form to add instructions or other information in between fields. Check it out.
+Use Rich Text in a Form to add instructions or other information in between fields.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -44,8 +44,6 @@ Use Rich Text in a Form to add instructions or other information in between fiel
 1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
-
-   Nicely done! Check it out.
 
    ![](assets/image2014-9-15-16-3a48-3a58.png)
 

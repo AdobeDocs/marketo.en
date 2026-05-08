@@ -31,7 +31,7 @@ Create and use a form on a Landing Page to generate new names or capture desired
 
 >[!TIP]
 >
->Most users create a new form for each Landing Page, but you can also create one form to be used with multiple Landing Pages. It is entirely up to you!
+>Most users create a new form for each Landing Page, but you can also create one form to be used with multiple Landing Pages.
 
 >[!MORELIKETHIS]
 >

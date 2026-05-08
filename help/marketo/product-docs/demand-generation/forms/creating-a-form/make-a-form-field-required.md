@@ -7,7 +7,7 @@ feature: Forms
 ---
 # Make a Form Field Required {#make-a-form-field-required}
 
-When [adding fields to a form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}, you may want to make a few of them required to the person filling them out. Here's how.
+When [adding fields to a form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}, you may want to make a few of them required to the person filling them out.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -25,7 +25,7 @@ When [adding fields to a form](/help/marketo/product-docs/demand-generation/form
 
    ![](assets/make-a-form-field-required-3.png)
 
-1. Nicely done! Click **[!UICONTROL Finish]**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/make-a-form-field-required-4.png)
 
@@ -35,7 +35,7 @@ When [adding fields to a form](/help/marketo/product-docs/demand-generation/form
 
 >[!NOTE]
 >
->Don't forget to [approve any Landing Pages](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} this form lives on for the changes to go live.
+>Remember to [approve any Landing Pages](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} this form lives on for the changes to go live.
 
 >[!MORELIKETHIS]
 >

@@ -7,7 +7,7 @@ feature: Forms
 ---
 # Change the Form Font Family {#change-the-form-font-family}
 
-Google Fonts are awesome, and we built them right into the form editor. Check it out!
+Google Fonts are built into the form editor.
 
 >[!NOTE]
 >
@@ -50,8 +50,6 @@ Google Fonts are awesome, and we built them right into the form editor. Check it
    >Remember to approve the landing page draft created by the form changes.
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
-
-See how easy it was to change the font family on a form? Cool, now that that's done, let's learn how to change the form font size.
 
 >[!MORELIKETHIS]
 >

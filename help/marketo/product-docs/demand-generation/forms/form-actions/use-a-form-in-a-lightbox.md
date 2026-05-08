@@ -34,5 +34,3 @@ A Lightbox is a technique that opens a form in front of your content when you wa
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 
 Hand the code over to your web developer and have them add it to your website.
-
-Great work!

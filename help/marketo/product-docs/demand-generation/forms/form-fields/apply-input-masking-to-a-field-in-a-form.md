@@ -45,12 +45,10 @@ You can restrict input from your visitor using an input mask. For example, you m
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
-   Check it out! Now you are asking the visitor to enter numbers in a specific format.
+   Now you are asking the visitor to enter numbers in a specific format.
 
    ![](assets/image2014-9-15-13-3a41-3a39.png)
 
    >[!NOTE]
    >
    >The field may not display pre-defined regions as shown in the image above. It may appear blank until the visitor starts entering numbers, which will then automatically adhere to the input format you defined for the field.
-
-Pretty cool, huh?

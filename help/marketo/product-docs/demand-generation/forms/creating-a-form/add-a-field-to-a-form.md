@@ -7,7 +7,7 @@ feature: Forms
 ---
 # Add a Field to a Form {#add-a-field-to-a-form}
 
-Once you've [created your form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} and [selected a theme](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, you may want to add additional fields for people to fill out. Here's how.
+After you have [created your form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} and [selected a theme](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, you may want to add additional fields for people to fill out.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -43,7 +43,7 @@ Once you've [created your form](/help/marketo/product-docs/demand-generation/for
 
 >[!NOTE]
 >
->Be sure to approve any landing page drafts created due to the form changes.
+>Approve any landing page drafts created due to the form changes.
 
 >[!MORELIKETHIS]
 >

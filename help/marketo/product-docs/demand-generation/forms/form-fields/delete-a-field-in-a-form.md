@@ -31,4 +31,4 @@ If there's a field you no longer need on your form, it can easily be deleted. He
 
 >[!NOTE]
 >
->Don't forget to [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.
+>Remember to [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.

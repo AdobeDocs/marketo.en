@@ -35,7 +35,7 @@ Learn how to add new images or files to your Marketo Engage instance.
 
    >[!NOTE]
    >
-   >While Marketo accepts all file types for upload, only the major image types (JPG, PNG, GIF, etc.) will work in our email editor.
+   >While Marketo accepts all file types for upload, only the major image types (JPG, PNG, GIF, etc.) will work in the email editor.
 
    >[!MORELIKETHIS]
    >

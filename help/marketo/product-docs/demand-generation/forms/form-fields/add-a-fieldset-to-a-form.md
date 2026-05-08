@@ -7,7 +7,7 @@ feature: Forms
 ---
 # Add a FieldSet to a Form {#add-a-fieldset-to-a-form}
 
-Fieldsets are cool. They group a bunch of fields together. You can control a whole block at once too!
+Fieldsets group a bunch of fields together. You can control a whole block at once.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -29,11 +29,9 @@ Fieldsets are cool. They group a bunch of fields together. You can control a who
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
-1. Here's what it should look like when done.
+1. The following shows what it should look like when done.
 
    ![](assets/image2014-9-15-15-3a2-3a31.png)
-
-There you have it!
 
 >[!TIP]
 >

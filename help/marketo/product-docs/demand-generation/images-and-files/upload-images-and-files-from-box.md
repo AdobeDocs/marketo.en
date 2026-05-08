@@ -37,4 +37,4 @@ You can upload files from Box to use on landing pages and emails.
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 
-Your files are now ready to be used on your landing pages and emails!
+Your files are now ready to be used on your landing pages and emails.

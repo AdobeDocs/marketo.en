@@ -121,8 +121,6 @@ You can add multiple options and build in choices to show people different follo
 
    ![](assets/image2014-9-15-17-3a40-3a26.png)
 
-   OK, looks good!
-
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
 1. Click **[!UICONTROL Finish]**.
@@ -132,5 +130,3 @@ You can add multiple options and build in choices to show people different follo
 1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
-
-Great job!

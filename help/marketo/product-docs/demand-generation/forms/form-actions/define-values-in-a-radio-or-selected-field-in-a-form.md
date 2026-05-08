@@ -56,5 +56,3 @@ Once you've [set a field type](/help/marketo/product-docs/administration/field-m
 1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
-
-Super work! You are doing really well.

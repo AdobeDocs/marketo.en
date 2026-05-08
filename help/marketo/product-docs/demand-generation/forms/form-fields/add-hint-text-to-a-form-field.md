@@ -39,8 +39,8 @@ Hints and [instructions](/help/marketo/product-docs/demand-generation/forms/form
 
    >[!NOTE]
    >
-   >Don't forget to [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.
+   >Remember to [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Check it out! Let's go ahead and add some [instructions](add-tooltip-instructions-to-a-form-field.md) now.
+To add tooltip instructions to a form field, see [Add Tooltip Instructions to a Form Field](add-tooltip-instructions-to-a-form-field.md).

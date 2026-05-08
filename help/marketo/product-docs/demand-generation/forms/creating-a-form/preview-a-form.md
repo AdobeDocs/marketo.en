@@ -7,7 +7,7 @@ feature: Forms
 ---
 # Preview a Form {#preview-a-form}
 
-Before you publish, you can see the form in this quick and simple form previewer.
+Before you publish, you can see the form in this form previewer.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 

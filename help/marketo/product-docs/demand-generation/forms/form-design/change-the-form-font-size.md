@@ -46,5 +46,3 @@ Marketo makes it easy for you to customize the look and feel of your forms. One 
    >Remember to approve the landing page draft created by the form changes.
 
    ![](assets/image2014-9-15-16-3a11-3a42.png)
-
-Piece of cake! You got this.

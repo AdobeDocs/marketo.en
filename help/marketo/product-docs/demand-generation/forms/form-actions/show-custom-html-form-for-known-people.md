@@ -62,7 +62,7 @@ If a visitor has provided their full name and email address in the past, and you
    >
    >Remember to [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.
 
-   Piece of cake! Check out what a person would see if they came back to the same form:
+   The following shows what a person would see if they came back to the same form:
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 

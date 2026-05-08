@@ -88,6 +88,4 @@ Short forms are good! When someone comes back to a form, you can present new fie
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 
-Nice job! The work you just did will pay off.
-
-Experiment with this feature and be sure to test. It is advanced, but you can make your forms very dynamic this way.
+Experiment with this feature and test it. It is advanced, but you can make your forms very dynamic this way.

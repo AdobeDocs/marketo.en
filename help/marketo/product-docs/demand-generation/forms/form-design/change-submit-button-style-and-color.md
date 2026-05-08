@@ -23,7 +23,7 @@ If you find the standard submit button dull, or if you need something more fancy
 
    >[!TIP]
    >
-   >Did you know you can drag the submit button to the left or right to change its position? It is that easy. Try it out!
+   >You can drag the submit button to the left or right to change its position.
 
 1. Pick a button style you like (scroll up/down).
 
@@ -48,8 +48,6 @@ If you find the standard submit button dull, or if you need something more fancy
 1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
-
-   There you go!
 
    ![](assets/image2014-9-15-16-3a57-3a17.png)
 

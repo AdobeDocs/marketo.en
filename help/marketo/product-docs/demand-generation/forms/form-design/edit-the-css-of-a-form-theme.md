@@ -33,7 +33,7 @@ You have a few pre-built [themes you can just choose from](/help/marketo/product
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
-1. Feel free to cut/paste this CSS to your own editor. It is read-only, so you will only need the override CSS.
+1. You can copy this CSS to your own editor. It is read-only, so you will only need the override CSS.
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
@@ -56,5 +56,3 @@ You have a few pre-built [themes you can just choose from](/help/marketo/product
 1. To see your customized form, click **[!UICONTROL Preview Draft]**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
-
-And that's that!

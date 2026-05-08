@@ -39,4 +39,4 @@ You can change the label on a form to anything - you can even use an image or er
 
 >[!NOTE]
 >
->Don't forget to [approve the Landing Page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} created by the form changes.
+>Remember to [approve the Landing Page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} created by the form changes.

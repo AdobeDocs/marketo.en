@@ -63,11 +63,9 @@ Follow these instructions to convert the country field to a drop-down with a lis
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
-   Nicely done! Now when a person fills out your form they can pick from the list of countries you provided.
+   Now when a person fills out your form they can pick from the list of countries you provided.
 
    ![](assets/image2014-9-15-15-3a35-3a43.png)
-
-Since that was so easy, why not do more? How about dynamically showing the State field when a user selects United States as the country in the list? Check out the related article below to find out how to do it.
 
 >[!MORELIKETHIS]
 >

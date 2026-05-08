@@ -23,6 +23,5 @@ It is easy to re-order fields on a Marketo form. Here's how.
 
 >[!TIP]
 >
->You can also drag and drop the fields next to each other. This allows you make columns!
+>You can also drag and drop the fields next to each other. This allows you make columns.
 
-Great job! You are rockin' this thing.

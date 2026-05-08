@@ -6,7 +6,7 @@ feature: Forms
 ---
 # Enable CAPTCHA in Marketo Forms {#enable-captcha-in-marketo-forms}
 
-You can enable/disable [!UICONTROL CAPTCHA] on a per-form basis.
+You can enable or disable [!UICONTROL CAPTCHA] on a per-form basis.
 
 1. Find and select your desired form.
 

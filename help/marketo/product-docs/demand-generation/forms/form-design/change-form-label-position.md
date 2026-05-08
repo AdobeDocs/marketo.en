@@ -46,8 +46,6 @@ When [creating a form](/help/marketo/product-docs/demand-generation/forms/creati
    >
    >Remember to approve the landing page draft created by the form changes.
 
-Well done! See how easy it was to change the label positions on a form? OK, let's see what we can do about changing the font of the form labels.
-
 >[!MORELIKETHIS]
 >
 >[Change the Form Font Family](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)

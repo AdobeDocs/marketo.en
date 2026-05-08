@@ -7,7 +7,7 @@ feature: Forms
 ---
 # Select a Form Theme {#select-a-form-theme}
 
-We made a bunch of nice themes for your forms. Which do you like best?
+Several themes are available for your forms.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -47,8 +47,6 @@ We made a bunch of nice themes for your forms. Which do you like best?
 1. Click **[!UICONTROL Next]** to configure other form options, or click **[!UICONTROL Finish]** if you only wanted to change the Form Theme.
 
    ![](assets/select-a-form-theme-5.png)
-
-How easy was that?! You can let your HTML/CSS book collect some dust now.
 
 >[!MORELIKETHIS]
 >

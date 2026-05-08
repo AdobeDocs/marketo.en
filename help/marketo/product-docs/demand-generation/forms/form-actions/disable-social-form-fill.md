@@ -36,5 +36,3 @@ Sometimes you no longer want site visitors to submit forms using a social profil
 1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
-
-   That's all you need to do.

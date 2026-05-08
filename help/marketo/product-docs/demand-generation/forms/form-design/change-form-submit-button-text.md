@@ -33,6 +33,4 @@ You can quickly and easily change a forms button from "Submit" to any other word
 
    ![](assets/image2014-9-15-12-3a43-3a36.png)
 
-   Bam!
-
    ![](assets/image2014-9-15-12-3a44-3a7.png)
