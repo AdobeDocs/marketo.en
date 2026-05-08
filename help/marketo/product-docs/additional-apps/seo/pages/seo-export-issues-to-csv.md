@@ -3,7 +3,7 @@ unique-page-id: 2949222
 description: "Export page optimization issues to a CSV file from the Page Detail drill down to share outside Marketo."
 title: SEO - Export Issues to CSV
 exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
-hide: yes
+hide: true
 
 feature: SEO
 ---

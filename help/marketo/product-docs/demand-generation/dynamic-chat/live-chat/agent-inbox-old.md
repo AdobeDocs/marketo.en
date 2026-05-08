@@ -1,7 +1,7 @@
 ---
 description: "Learn about the Agent Inbox where live chat agents field conversations. View active and past chats, visitor info, and set availability status."
 title: Agent Inbox
-hide: yes
+hide: true
 hidefromtoc: yes
 feature: Dynamic Chat
 ---

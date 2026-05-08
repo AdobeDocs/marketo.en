@@ -1,7 +1,7 @@
 ---
 description: "Learn about expected behavior for Predictive Audiences in Marketo Sky. Understand data privacy, activation timing, and filter limits."
 title: Expected Behavior
-hide: yes
+hide: true
 
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
 ---

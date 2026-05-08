@@ -1,7 +1,7 @@
 ---
 description: "Learn about reply logging so prospect replies are logged to Salesforce. Enable Log Replies when API logging is on and reply tracking is available."
 title: Reply Logging
-hide: yes
+hide: true
 
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions

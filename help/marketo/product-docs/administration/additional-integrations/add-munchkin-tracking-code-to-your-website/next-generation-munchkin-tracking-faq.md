@@ -4,7 +4,7 @@ description: "FAQ about the next-generation [!DNL Munchkin] tracking rollout and
 title: "Next Generation [!DNL Munchkin] Tracking FAQ"
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
-hide: yes
+hide: true
 
 ---
 # Next Generation [!DNL Munchkin] Tracking FAQ {#next-generation-munchkin-tracking-faq}

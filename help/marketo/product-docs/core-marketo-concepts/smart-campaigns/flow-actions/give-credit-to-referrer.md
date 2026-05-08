@@ -3,7 +3,7 @@ unique-page-id: 1147040
 description: "Learn how to give credit to referrer in a flow step. Attribute success to the referring person or campaign."
 title: Give Credit to Referrer
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
-hide: yes
+hide: true
 
 feature: Smart Campaigns
 ---

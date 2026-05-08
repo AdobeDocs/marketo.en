@@ -2,7 +2,7 @@
 unique-page-id: 2360352
 description: "Set the SOAP API encryption key and get endpoint details in Admin Web Services for developers."
 title: Configuring Your SOAP API Settings
-hide: yes
+hide: true
 
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration

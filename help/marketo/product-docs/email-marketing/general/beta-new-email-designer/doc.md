@@ -1,7 +1,7 @@
 ---
 description: "Temporary doc for the new Email Designer beta. Add assets and use the designer for beta testing (hide from TOC)."
 title: Temp doc
-hide: yes
+hide: true
 hidefromtoc: yes
 feature: Email Editor
 ---

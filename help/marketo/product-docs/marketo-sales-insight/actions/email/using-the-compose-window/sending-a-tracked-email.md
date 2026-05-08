@@ -1,7 +1,7 @@
 ---
 description: "Learn how to send a tracked sales email so you can see views, clicks, and replies. Use a delivery channel and track from Command Center."
 title: Sending a Tracked Email
-hide: yes
+hide: true
 hidefromtoc: yes
 ---
 # Sending a Tracked Email {#sending-a-tracked-email}

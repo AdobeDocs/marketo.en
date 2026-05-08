@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11387674
 description: "Updates to Marketo Terminology - Marketo Docs - Product Documentation"
-hide: yes
+hide: true
 hidefromtoc: yes
 title: Updates to Marketo Terminology
 ---

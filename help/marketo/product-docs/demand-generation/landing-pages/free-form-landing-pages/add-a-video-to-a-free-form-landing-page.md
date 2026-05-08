@@ -3,7 +3,7 @@ unique-page-id: 2359722
 description: "Learn how to add a video to a free-form landing page in Marketo. Embed video content on your landing page."
 title: Add a Video to a Free-form Landing Page
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
-hide: yes
+hide: true
 
 feature: Landing Pages
 ---

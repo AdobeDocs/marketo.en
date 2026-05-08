@@ -1,7 +1,7 @@
 ---
 description: "Learn how to add SMS flow steps to Smart Campaigns. Use Send SMS Message, Subscribe to Vibes List, or Unsubscribe from Vibes List."
 title: Add a Flow Step for SMS
-hide: yes
+hide: true
 hidefromtoc: yes
 feature: Mobile Marketing
 ---
