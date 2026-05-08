@@ -1,8 +1,8 @@
 ---
 description: "Learn how to manage template categories in Sales Insight Actions. Organize templates into categories and control sharing."
 title: Manage Template Categories
-hide: yes
-hidefromtoc: yes
+hide: true
+
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
 ---

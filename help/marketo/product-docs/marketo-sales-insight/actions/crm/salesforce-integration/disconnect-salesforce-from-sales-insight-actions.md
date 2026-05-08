@@ -1,8 +1,8 @@
 ---
 description: "Learn how to disconnect Salesforce from Sales Insight Actions."
 title: Disconnect Salesforce From Sales Insight Actions
-hide: yes
-hidefromtoc: yes
+hide: true
+
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
 ---

@@ -5,8 +5,8 @@ title: Personalize Brands
 description: Learn how to personalize your brand guidelines.
 role: User
 level: Beginner, Intermediate
-hide: yes
-hidefromtoc: yes
+hide: true
+
 exl-id: 63d2e356-1a42-4cd2-b11f-3499f963c2dd
 ---
 # Personalize your brand {#personalize}

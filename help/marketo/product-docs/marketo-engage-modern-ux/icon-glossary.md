@@ -1,7 +1,7 @@
 ---
 description: "Learn about the icons in the Marketo Engage Modern UX and how they map from Classic. Use this glossary to identify asset types, campaign states, and program types."
 title: Icon Glossary
-hide: yes
+hide: true
 hidefromtoc: yes
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX

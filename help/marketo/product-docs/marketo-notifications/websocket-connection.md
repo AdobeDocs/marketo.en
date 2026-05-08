@@ -1,8 +1,8 @@
 ---
 description: "Notification details for Marketo Engage users who received the Unable to Establish a Websocket Connection notification"
 title: Notification - Websocket Connection
-hide: yes
-hidefromtoc: yes
+hide: true
+
 exl-id: 00c754f8-3850-4209-803d-5cdb108dc6dc
 ---
 # Notification: Websocket Connection {#notification-websocket-connection}

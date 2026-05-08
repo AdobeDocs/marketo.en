@@ -1,8 +1,8 @@
 ---
 description: "Learn how to enable browser notifications for Dynamic Chat live chat agents. Allow notifications in Chrome, Firefox, or OS settings to receive chat alerts."
 title: Notifications
-hide: yes
-hidefromtoc: yes
+hide: true
+
 feature: Dynamic Chat
 exl-id: b06da576-39a4-41db-8e29-302083baca36
 ---

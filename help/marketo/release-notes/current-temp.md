@@ -1,8 +1,8 @@
 ---
 description: "Current Release Notes - Marketo Docs - Product Documentation"
 title: Current Release Notes
-hide: yes
-hidefromtoc: yes
+hide: true
+
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
 ---

@@ -2,7 +2,7 @@
 description: Coming soon.
 title: Investigate lead
 beta: yes
-hide: yes
+hide: true
 hidefromtoc: yes
 ---
 # Investigate lead {#investigate-lead}

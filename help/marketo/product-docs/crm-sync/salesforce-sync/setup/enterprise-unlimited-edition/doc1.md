@@ -1,7 +1,7 @@
 ---
 description: "Learn how to add Marketo fields to Salesforce Enterprise or Unlimited edition. Create Score, Acquisition Program, and Acquisition Date on lead and contact objects."
 title: Step 1 of 3 - Add Marketo Fields to Salesforce (Enterprise/Unlimited)
-hide: yes
+hide: true
 hidefromtoc: yes
 feature: Salesforce Integration
 ---

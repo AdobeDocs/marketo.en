@@ -3,7 +3,7 @@ title: Connect Experience Manager doc
 description: "Learn how to connect AEM Cloud Services to Marketo Engage. Use your AEM assets when authoring emails in the designer."
 level: Beginner, Intermediate
 feature: Email Designer
-hide: yes
+hide: true
 hidefromtoc: yes
 ---
 # Connect Adobe Experience Manager Cloud Services {#connect-adobe-experience-manager-cloud-services}

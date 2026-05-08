@@ -1,8 +1,8 @@
 ---
 description: "Learn about email authoring in the new Email Designer. Create, personalize, and preview emails in Marketo Engage."
 title: Email authoring
-hide: yes
-hidefromtoc: yes
+hide: true
+
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
 ---

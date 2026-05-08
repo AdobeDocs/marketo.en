@@ -3,8 +3,8 @@ unique-page-id: 11373011
 description: "Learn about transitioning to Email Editor 2.0. Understand changes and how to move from the classic editor to the new experience."
 title: Transitioning to Email Editor 2.0
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
-hide: yes
-hidefromtoc: yes
+hide: true
+
 feature: Email Editor
 ---
 # Transitioning to [!DNL Email Editor 2.0] {#transitioning-to-email-editor}

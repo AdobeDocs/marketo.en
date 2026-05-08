@@ -1,8 +1,8 @@
 ---
 description: "Learn how to run a single flow action from the person detail page. Execute one flow step for a person on demand."
 title: Single Flow Actions from Person Detail Page
-hide: yes
-hidefromtoc: yes
+hide: true
+
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
 ---

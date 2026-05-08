@@ -2,8 +2,8 @@
 description: "Dynamic Chat Release Notes - Marketo Docs - Product Documentation"
 title: Dynamic Chat Release Notes
 feature: Release Information, Dynamic Chat
-hide: yes
-hidefromtoc: yes
+hide: true
+
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
 ---
 # Dynamic Chat Release Notes {#dynamic-chat-release}

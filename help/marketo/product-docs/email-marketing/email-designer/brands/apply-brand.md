@@ -6,8 +6,8 @@ description: "Learn how to apply brand themes to emails for consistent design. U
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
-hide: yes
-hidefromtoc: yes
+hide: true
+
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
 ---
 # Apply themes to your email content {#apply-email-themes}

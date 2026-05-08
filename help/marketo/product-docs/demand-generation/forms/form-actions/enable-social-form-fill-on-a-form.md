@@ -3,8 +3,8 @@ unique-page-id: 2359616
 description: "Learn how to enable social form fill so visitors can submit forms using their social network. Get extra lead data and give visitors a quicker experience."
 title: Enable Social Form Fill on a Form
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
-hide: yes
-hidefromtoc: yes
+hide: true
+
 feature: Forms
 ---
 # Enable Social Form Fill on a Form {#enable-social-form-fill-on-a-form}

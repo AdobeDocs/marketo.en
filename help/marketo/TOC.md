@@ -24,14 +24,14 @@ feature-set: Marketo Engage
     + [New Instance Best Practices: Document Your Setup](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
   + Things to Know {#things-to-know}
     + [Marketo Engage glossary](getting-started/things-to-know/marketo-engage-glossary.md)
-    + [New glossary](getting-started/things-to-know/new-glossary.md)
+    + {hide-from-toc} [New glossary](getting-started/things-to-know/new-glossary.md)
     + [Icon glossary](getting-started/things-to-know/icon-glossary.md)
     + [Classic icon glossary](getting-started/things-to-know/classic-icon-glossary.md)
     + [Help center](getting-started/things-to-know/help-center.md)
     + [Subscribe to system status notifications](getting-started/things-to-know/system-status-notifications.md)
-    + [AI Assistant for product knowledge](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
-    + [Marketing nation Community](getting-started/things-to-know/community.md)
-    + [AWS Migration](getting-started/things-to-know/aws-migration.md)
+    + {hide-from-toc} [AI Assistant for product knowledge](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+    + {hide-from-toc} [Marketing nation Community](getting-started/things-to-know/community.md)
+    + {hide-from-toc} [AWS Migration](getting-started/things-to-know/aws-migration.md)
   + Quick Wins {#quick-wins}
     + [Get Set up and Add a Person](getting-started/quick-wins/get-set-up-and-add-a-person.md)
     + [Send an Email](getting-started/quick-wins/send-an-email.md)
@@ -57,19 +57,19 @@ feature-set: Marketo Engage
   + Marketo AI {#marketo-ai}
     + [Overview](product-docs/marketo-ai/overview.md)
     + [Settings and Setup](product-docs/marketo-ai/settings-setup.md)
-    + [Settings and Setup](product-docs/marketo-ai/settings-setup-old.md)
+    + {hide-from-toc} [Settings and Setup](product-docs/marketo-ai/settings-setup-old.md)
     + Agents {#agents}
       + [Import leads](product-docs/marketo-ai/agents/import-leads.md)
       + [Program QA](product-docs/marketo-ai/agents/program-qa.md)
   + Additional Apps {#additional-apps}
     + SEO {#seo}
       + Keywords {#keywords}
-        + [SEO - Exporting Keyword Results](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
+        + {hide-from-toc} [SEO - Exporting Keyword Results](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
       + Pages {#pages}
-        + [SEO - Export Issues to CSV](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
+        + {hide-from-toc} [SEO - Export Issues to CSV](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
       + Reports {#reports}
-        + [SEO - Use the Competitor KW Trends Report](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
-        + [SEO - Use the Keyword Trends Report](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
+        + {hide-from-toc} [SEO - Use the Competitor KW Trends Report](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+        + {hide-from-toc} [SEO - Use the Keyword Trends Report](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
   + Administration {#administration}
     + Setup {#setup}
       + [Find Out What Permissions You Have](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
@@ -83,11 +83,11 @@ feature-set: Marketo Engage
       + [Add GoToWebinar as a LaunchPoint Service](product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
       + [Add Level 3 Web Meeting as a LaunchPoint Service](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
       + [Add Munchkin Tracking Code to Your Website](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
-      + [Next Generation Munchkin Tracking FAQ](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
+      + {hide-from-toc} [Next Generation Munchkin Tracking FAQ](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
       + [Add Single Sign-On to a Portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
       + [Add Webex as a LaunchPoint Service](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
       + [Add Zoom as a LaunchPoint Service](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
-      + [Configuring Your SOAP API Settings](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
+      + {hide-from-toc} [Configuring Your SOAP API Settings](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
       + [Connect BrightTALK to Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
       + [Create a Custom Service for Use with ReST API](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
       + [Create a Webhook](product-docs/administration/additional-integrations/create-a-webhook.md)
@@ -133,7 +133,7 @@ feature-set: Marketo Engage
       + [Hide and Unhide a Field](product-docs/administration/field-management/hide-and-unhide-a-field.md)
       + [HTML Encode Tokens in Emails](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
       + [Mark a Field as Sensitive](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
-      + [Picklist Management](product-docs/administration/field-management/picklist-management.md)
+      + {hide-from-toc} [Picklist Management](product-docs/administration/field-management/picklist-management.md)
       + [Rename a Field](product-docs/administration/field-management/rename-a-field.md)
       + [Understanding System Managed Fields](product-docs/administration/field-management/understanding-system-managed-fields.md)
       + [View Field Mappings Between Marketo and Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -175,7 +175,7 @@ feature-set: Marketo Engage
       + [Enable Personalized URLs for Your Account](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
       + [Global Form Validation Rules](product-docs/administration/settings/global-form-validation-rules.md)
       + [Landing Page Headers](product-docs/administration/settings/landing-page-headers.md)
-      + [Product Usage Dashboards](product-docs/administration/settings/product-usage-dashboards.md)
+      + {hide-from-toc} [Product Usage Dashboards](product-docs/administration/settings/product-usage-dashboards.md)
       + [Restrict Marketo Logins Based on IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
       + [Change Your Time Zone](product-docs/administration/settings/change-time-zone.md)
       + [Set a Fallback Page](product-docs/administration/settings/set-a-fallback-page.md)
@@ -264,7 +264,7 @@ feature-set: Marketo Engage
         + [Delete Person](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
         + [Execute Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
         + [Flow Step Service](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
-        + [Give Credit to Referrer](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
+        + {hide-from-toc} [Give Credit to Referrer](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
         + [Interesting Moment](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
         + [Remove from Flow](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
         + [Remove from List](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)
@@ -272,7 +272,7 @@ feature-set: Marketo Engage
         + [Request Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
         + [Send Alert](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
         + [Send Email](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
-        + [Single Flow Actions from Person Detail Page](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
+        + {hide-from-toc} [Single Flow Actions from Person Detail Page](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
         + [Triggers and Filters for Mobile Smart Campaigns](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
         + [Use a Webhook in a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
         + [Use Add Choice in a Flow Step](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
@@ -469,9 +469,9 @@ feature-set: Marketo Engage
           + [Sending a Sample](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
           + [Sharing a Moment](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
     + Miscellaneous {#miscellaneous}
-      + [Configuring Adobe Experience Manager Integration](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
+      + {hide-from-toc} [Configuring Adobe Experience Manager Integration](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
       + [Create New Campaign Folder](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
-      + [Keyboard Shortcuts Glossary](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
+      + {hide-from-toc} [Keyboard Shortcuts Glossary](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
       + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
       + [Privacy Management](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
       + [Privacy Requests](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
@@ -601,7 +601,7 @@ feature-set: Marketo Engage
         + [Step 3 of 3: Connect Marketo Engage and Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
       + Sync Details {#sync-details}
         + [Add/Remove Custom Object Field as Smart List/Trigger Constraints](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
-        + [Custom Object Sync](product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md)
+        + {hide-from-toc} [Custom Object Sync](product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md)
         + [Default Veeva Field Mapping](product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md)
         + [Enable/Disable Custom Object Sync](product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md)
         + [Person Account Sync FAQ](product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md)
@@ -649,7 +649,7 @@ feature-set: Marketo Engage
       + Live Chat {#live-chat}
         + [Live Chat Overview](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
         + [Agent Inbox](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
-        + [Notifications](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
+        + {hide-from-toc} [Notifications](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
       + Generative AI {#generative-ai}
         + [Generative AI Overview](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
         + [Question Generation](product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
@@ -663,8 +663,8 @@ feature-set: Marketo Engage
         + [Edit an Event Channel](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
         + [Event Partners](product-docs/demand-generation/events/understanding-events/event-partners.md)
         + [Understanding Event Programs](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
-        + [Setting an Event Cap](product-docs/demand-generation/events/understanding-events/setting-an-event-cap.md)
-        + [Setting Event Goals](product-docs/demand-generation/events/understanding-events/setting-event-goals.md)
+        + {hide-from-toc} [Setting an Event Cap](product-docs/demand-generation/events/understanding-events/setting-an-event-cap.md)
+        + {hide-from-toc} [Setting Event Goals](product-docs/demand-generation/events/understanding-events/setting-event-goals.md)
       + Create an Event {#create-an-event}
         + [Create an Event with Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
         + [Create an Event with GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
@@ -706,7 +706,7 @@ feature-set: Marketo Engage
     + Facebook {#facebook}
       + [Add Leads to a Custom Audience in Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
       + [Create a Custom Audience in Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-      + [Edit Facebook Rich Post Settings](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
+      + {hide-from-toc} [Edit Facebook Rich Post Settings](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
       + [Publish Landing Pages to Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
       + [Set up Facebook Lead Ads](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
       + [Map Custom Fields to Marketo](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
@@ -736,8 +736,8 @@ feature-set: Marketo Engage
         + [Disable Social Form Fill](product-docs/demand-generation/forms/form-actions/disable-social-form-fill.md)
         + [Edit a Form](product-docs/demand-generation/forms/form-actions/edit-a-form.md)
         + [Embed a Form on Your Website](product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md)
-        + [Enable Social Form Fill on a Form](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
-        + [LinkedIn Social Form Fill FAQs](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
+        + {hide-from-toc} [Enable Social Form Fill on a Form](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
+        + {hide-from-toc} [LinkedIn Social Form Fill FAQs](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
         + [Show Custom HTML Form for Known People](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
         + [Use a Form in a Lightbox](product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)
       + Form Design {#form-design}
@@ -763,9 +763,9 @@ feature-set: Marketo Engage
         + [Setting up reCAPTCHA v3](product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
         + [Enable CAPTCHA in Marketo Forms](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
     + Images and Files {#images-and-files}
-      + [New Add Images Doc](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
+      + {hide-from-toc} [New Add Images Doc](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
       + [Add Images and Files to Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
-      + [Edit Assets with Adobe Express](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
+      + {hide-from-toc} [Edit Assets with Adobe Express](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
       + [Delete an Uploaded Image or File](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
       + [Find the URL of an Uploaded Image or File](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
       + [Grab the Images from a Web Page](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
@@ -785,8 +785,8 @@ feature-set: Marketo Engage
         + [Add a Link to an Image in a Free-Form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-an-image-in-a-free-form-landing-page.md)
         + [Add a Mobile View for Your Free-Form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
         + [Add a New Form to a Free-Form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-        + [Add a Social Button to a Free-form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
-        + [Add a Video to a Free-form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
+        + {hide-from-toc} [Add a Social Button to a Free-form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
+        + {hide-from-toc} [Add a Video to a Free-form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
         + [Add an Image to a Free-Form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
         + [Adding a Rectangle to a Free-Form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-a-rectangle-to-a-free-form-landing-page.md)
         + [Adding Custom HTML to a Free-Form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
@@ -987,9 +987,9 @@ feature-set: Marketo Engage
     + Email Designer {#email-designer}
       + Brands {#brands}
         + [Brand themes](product-docs/email-marketing/email-designer/brands/brand-themes.md)
-        + [Apply brand](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+        + {hide-from-toc} [Apply brand](product-docs/email-marketing/email-designer/brands/apply-brand.md)
         + [Create and manage your brands](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-        + [Personalize your brands](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+        + {hide-from-toc} [Personalize your brands](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
         + [Brand score](product-docs/email-marketing/email-designer/brands/brand-score.md)
       + [Overview](product-docs/email-marketing/email-designer/overview.md)
       + [Feature Comparison](product-docs/email-marketing/email-designer/feature-comparison.md)
@@ -1003,7 +1003,7 @@ feature-set: Marketo Engage
       + [Custom CSS](product-docs/email-marketing/email-designer/custom-css.md)
       + [Dark Mode](product-docs/email-marketing/email-designer/dark-mode.md)
       + [Test Email Rendering with Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
-      + [Personalization Tokens](product-docs/email-marketing/email-designer/personalization-tokens.md)
+      + {hide-from-toc} [Personalization Tokens](product-docs/email-marketing/email-designer/personalization-tokens.md)
       + [Work with AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
       + [Edit images with Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
       + [Fragments](product-docs/email-marketing/email-designer/fragments.md)
@@ -1057,9 +1057,9 @@ feature-set: Marketo Engage
         + [Understanding Email Event Logging](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
         + [Using the Rich Text Editor](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
       + Beta New Email Designer {#beta-new-email-designer}
-        + [New email designer overview (beta)](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
-        + [Email authoring](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
-        + [Email templates](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
+        + {hide-from-toc} [New email designer overview (beta)](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
+        + {hide-from-toc} [Email authoring](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
+        + {hide-from-toc} [Email templates](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
       + Creating an Email {#creating-an-email}
         + [Approve an Email](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
         + [Create a Text Only Email](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
@@ -1075,7 +1075,7 @@ feature-set: Marketo Engage
         + [Email Editor v2.0 Overview](product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
         + [Email Template Picker Overview](product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
         + [Email Template Syntax](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
-        + [Transitioning to Email Editor 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
+        + {hide-from-toc} [Transitioning to Email Editor 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
       + Functions in the Editor {#functions-in-the-editor}
         + [Include a Calendar Event (.ics) in an Email](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
         + [Make an Email Operational](product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
@@ -1112,9 +1112,9 @@ feature-set: Marketo Engage
   + Marketo Engage Modern UX {#marketo-engage-modern-ux}
     + [Overview](product-docs/marketo-engage-modern-ux/overview.md)
     + [Using the Global Search](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
-    + [Toggle Switch](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+    + {hide-from-toc} [Toggle Switch](product-docs/marketo-engage-modern-ux/toggle-switch.md)
   + Marketo Notifications {#marketo-notifications}
-    + [Notification: Websocket Connection](product-docs/marketo-notifications/websocket-connection.md)
+    + {hide-from-toc} [Notification: Websocket Connection](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
     + Getting Started {#getting-started}
       + [Sales Connect Overview](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -1347,7 +1347,7 @@ feature-set: Marketo Engage
         + [Understanding the Team Tab](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
         + [Template Engagement](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
       + Campaigns {#campaigns}
-        + [Add to Marketing Campaign](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
+        + {hide-from-toc} [Add to Marketing Campaign](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
         + [Campaign Has Ended](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
         + [Create a Sales Campaign](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
         + [Sales Campaign Settings](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
@@ -1356,12 +1356,12 @@ feature-set: Marketo Engage
         + [View Campaigns List as Another User](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
       + CRM {#crm}
         + Salesforce Customization {#salesforce-customization}
-          + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
+          + {hide-from-toc} [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
         + Salesforce Integration {#salesforce-integration}
           + [Configure Salesforce Activity Detail Customization](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
           + [Connect Your Sales Insight Actions Account to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
-          + [Disconnect Salesforce From Sales Insight Actions](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
-          + [Reply Logging](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
+          + {hide-from-toc} [Disconnect Salesforce From Sales Insight Actions](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
+          + {hide-from-toc} [Reply Logging](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
           + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
           + [Set up a Sales Insight Actions Sandbox](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
           + [Sync Sales Activities to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
@@ -1394,7 +1394,7 @@ feature-set: Marketo Engage
         + Using the Compose Window {#using-the-compose-window}
           + [Add an Attachment or Trackable Content to Your Email](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
           + [Bulk Emailing Options](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
-          + [Composing Bulk Emails with Select and Send](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+          + {hide-from-toc} [Composing Bulk Emails with Select and Send](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
           + [Sending Emails via Group Email](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
           + [Using a Template in the Compose Window](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
       + Email Integrations {#email-integrations}
@@ -1413,7 +1413,7 @@ feature-set: Marketo Engage
         + [How Do I Prevent Self Views?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
         + [How Does Location Tracking Work?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
         + [I Got Locked out of My Account. What Do I Do?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
-        + [Is Sales Insight Actions Compatible with Salesforce Lightning?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
+        + {hide-from-toc} [Is Sales Insight Actions Compatible with Salesforce Lightning?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
         + [Which Browsers Does Sales Insight Actions Support?](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
         + [What Are the Sales Insight Actions Terms of Service?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
         + [Why Aren't Any of My Contacts Getting Pushed to Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
@@ -1432,14 +1432,14 @@ feature-set: Marketo Engage
         + [Make a Campaign Visible to Sales Connect Users](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
         + [Sales Activity Triggers and Filters](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
         + [Sales Insight Actions Activity Glossary](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
-        + [Set up Your Marketo Connection](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
+        + {hide-from-toc} [Set up Your Marketo Connection](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
       + People {#people}
-        + [Person Detail View](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
+        + {hide-from-toc} [Person Detail View](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
         + [Sales Insight Actions and GDPR Compliance](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
         + Managing Contacts {#managing-contacts}
           + [Bulk Actions on People](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
           + [Manage Groups](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
-          + [People Page Columns](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
+          + {hide-from-toc} [People Page Columns](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
       + Phone {#phone}
         + [Call Outcomes](product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
         + [Call Reasons](product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
@@ -1457,10 +1457,10 @@ feature-set: Marketo Engage
         + [Dynamic Fields](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
         + [Field Prompts](product-docs/marketo-sales-insight/actions/templates/field-prompts.md)
         + [Manage Templates](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
-        + [Manage Template Categories](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
+        + {hide-from-toc} [Manage Template Categories](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
         + [Recommended Templates](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
         + [Using HTML](product-docs/marketo-sales-insight/actions/templates/using-html.md)
-        + [View Template List as Another User](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
+        + {hide-from-toc} [View Template List as Another User](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
     + Using MSI {#using-msi}
       + [Log Inbound Mail From Your Leads in Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
     + MSI Chrome Plugin {#msi-chrome-plugin}
@@ -1559,7 +1559,7 @@ feature-set: Marketo Engage
     + [Sales Insight for Non-Native MS Dynamics Integrations](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
     + [Sales Insight for Non-Native Salesforce Integrations](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
   + Marketo Sky {#marketo-sky}
-    + [Expected Behavior](product-docs/marketo-sky/expected-behavior.md)
+    + {hide-from-toc} [Expected Behavior](product-docs/marketo-sky/expected-behavior.md)
   + Mobile Marketing {#mobile-marketing}
     + Admin {#admin}
       + [Add a Mobile App](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
@@ -1921,9 +1921,9 @@ feature-set: Marketo Engage
 + Release Notes {#release-notes}
   + [Release Schedule](release-notes/release-schedule.md)
   + [Current Release](release-notes/current.md)
-  + [Current Release TEMP](release-notes/current-temp.md)
+  + {hide-from-toc} [Current Release TEMP](release-notes/current-temp.md)
   + [Dynamic Chat Release](release-notes/dynamic-chat.md)
-  + [Dynamic Chat Release TEMP](release-notes/dynamic-chat-temp.md)
+  + {hide-from-toc} [Dynamic Chat Release TEMP](release-notes/dynamic-chat-temp.md)
   + Previous Releases {#previous-releases}
     + 2026 {#2026}
       + [Release Notes: January '26](release-notes/previous-releases/2026/release-notes-jan-26.md)

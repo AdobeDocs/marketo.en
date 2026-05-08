@@ -2,7 +2,7 @@
 description: "Help Center - Marketo Engage Docs - Product Documentation"
 title: Help Center
 feature: Getting Started
-hide: yes
+hide: true
 hidefromtoc: yes
 ---
 # Help Center {#help-center}

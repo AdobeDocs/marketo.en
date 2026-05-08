@@ -3,8 +3,8 @@ unique-page-id: 2949210
 description: "Export keyword results from the Keywords section to share with your team or create reports."
 title: SEO - Exporting Keyword Results
 exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
-hide: yes
-hidefromtoc: yes
+hide: true
+
 feature: SEO
 ---
 # SEO - Exporting Keyword Results {#seo-exporting-keyword-results}
