@@ -85,7 +85,3 @@ Learn more about [Google's offline conversion import feature](https://support.go
    >[Auto-tagging](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} must be selected for this feature to work. Deactivation must be done inside [!DNL AdWords].
 
 See the Related Article below to learn how to map [!DNL AdWords] offline conversions in your revenue model.
-
-   >[!MORELIKETHIS]
-   >
-   >[Set [!DNL Google AdWords] Conversions in the Revenue Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}

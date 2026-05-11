@@ -54,5 +54,5 @@ Configure and delete report subscriptions.
 
    >[!MORELIKETHIS]
    >
-   >* [Subscribe to a Basic Report](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
-   >* [Subscribe to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+   >[Subscribe to a Basic Report](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+  

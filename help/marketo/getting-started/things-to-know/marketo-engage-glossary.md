@@ -682,14 +682,6 @@ Below are definitions for many of the terms you may encounter when using Marketo
    <td colspan="1">The actual email address a message originates from, different than the email in the "from" field. </td>
   </tr>
   <tr>
-   <td><strong>Revenue Cycle Analytics (RCA)</strong></td>
-   <td>An add-on feature the contains various tools designed to help you enhance reporting across your instance.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md" rel="nofollow"><strong>Revenue Model</strong></a></td>
-   <td colspan="1">A tool used in <strong>Revenue Cycle Analytics (RCA)</strong> that uses a series of stages, allowing you to track where your <strong>lead</strong> is at any given point during your effort to convert them.</td>
-  </tr>
-  <tr>
    <td><strong>Role</strong></td>
    <td>A title assigned to a user that groups a bunch of permissions together (e.g., Admin, Marketing User).</td>
   </tr>

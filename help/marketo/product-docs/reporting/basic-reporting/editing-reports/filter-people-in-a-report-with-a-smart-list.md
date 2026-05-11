@@ -13,7 +13,6 @@ You can use smart lists with these report types:
 
 * [People Performance](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [People by Status](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [People by Revenue Stage](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
 * [Email Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [Email Link Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Engagement Stream Performance](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)

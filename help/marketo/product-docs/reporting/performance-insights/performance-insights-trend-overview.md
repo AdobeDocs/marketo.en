@@ -17,7 +17,7 @@ Click the **[!UICONTROL Trend]** tab to access this view.
 
 ![](assets/2-1.png)
 
-Select the metric you want to view the performance by. In this example we'll look at opportunities won via [[!UICONTROL First-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Select the metric you want to view the performance by.
 
 ![](assets/3-2.png)
 

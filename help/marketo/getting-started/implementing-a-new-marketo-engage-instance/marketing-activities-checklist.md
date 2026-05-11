@@ -96,7 +96,7 @@ Remember to [download the checklists](/help/marketo/getting-started/implementing
   </tr>
   <tr>
     <td>Manage Report Subscriptions</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html" target="_blank">Set up report subscriptions</a> in Marketing Activities or Analytics to <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html" target="_blank">basic reports</a> or <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.html" target="_blank">Revenue Cycle Explorer reports</a>.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html" target="_blank">Set up report subscriptions</a> in Marketing Activities or Analytics to <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html" target="_blank">basic reports</a>.</li></td>
   </tr>
 </tbody>
 </table>
