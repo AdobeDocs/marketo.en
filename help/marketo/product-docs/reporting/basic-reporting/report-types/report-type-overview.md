@@ -40,16 +40,8 @@ When you [create a report in a program](/help/marketo/product-docs/reporting/bas
    <td>Automatic reporting based on the Person Status field.</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">People by Revenue Stage Report</a></strong></td>
-   <td>Basic reporting for your Revenue Model. See <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Revenue Cycle Analytics</a> for deeper reporting.</td>
-  </tr>
-  <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Landing Page Performance</a>  </strong></td>
    <td>View visits, conversions, and other metrics for your landing pages.</td>
-  </tr>
-  <tr>
-   <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Program Performance</a>  </strong></td>
-   <td>Basic program metrics like members and success. See <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Revenue Cycle Analytics</a> for deeper reporting.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">Company Web Activity</a></strong></td>

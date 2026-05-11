@@ -15,17 +15,13 @@ Select the metric you want to view the performance by. In this example we'll loo
 
 ![](assets/2.png)
 
->[!NOTE]
->
->Learn about [[!UICONTROL First-Touch] and [!UICONTROL Multi-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
-
 Choose which period you'd like to see metrics for. In this example we're looking at the current year (year-to-date).
 
 ![](assets/3-1.png)
 
 >[!NOTE]
 >
->We have temporarily removed the “Previous Year” selection. You still have the option of viewing the entire previous year’s performance data by using the **[!UICONTROL Custom Range]** selection.
+>We have temporarily removed the "Previous Year" selection. You still have the option of viewing the entire previous year's performance data by using the **[!UICONTROL Custom Range]** selection.
 
 Metrics are presented via two charts: doughnut and bar.
 

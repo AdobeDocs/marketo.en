@@ -87,7 +87,3 @@ Learn more about [Google's offline conversion import feature](https://support.go
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
    See the Related Article below for how to map [!DNL AdWords] offline conversions in your revenue model.
-
-   >[!MORELIKETHIS]
-   >
-   >[Set [!DNL Google AdWords] Conversions in the Revenue Model with a Manager Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

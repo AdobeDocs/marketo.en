@@ -50,7 +50,7 @@ The purpose of a program is to create a meaningful interaction with the person o
 
 ## Acquisition Program {#acquisition-program}
 
-When a new name enters the system as a program member, Marketo automatically sets that program as "acquisition." This establishes credit for [First-Touch attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}.
+When a new name enters the system as a program member, Marketo automatically sets that program as "acquisition."
 
 >[!MORELIKETHIS]
 >

@@ -39,7 +39,7 @@ We added the Engagement Score to the [[!UICONTROL Engagement Stream Performance]
 
 ## Program Details in Email Analysis {#program-details-in-email-analysis}
 
-[Now you can group your email metrics by Program Name, Channel and Tags](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). The program name is added to the Email Name field when the email is a local asset to the Program. The new Program Name field shows the program name of the smart campaign that sent the email. This could be different from the program in the Email Name field if the email is a local asset of a different program.
+Now you can group your email metrics by Program Name, Channel and Tags. The program name is added to the Email Name field when the email is a local asset to the Program. The new Program Name field shows the program name of the smart campaign that sent the email. This could be different from the program in the Email Name field if the email is a local asset of a different program.
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 

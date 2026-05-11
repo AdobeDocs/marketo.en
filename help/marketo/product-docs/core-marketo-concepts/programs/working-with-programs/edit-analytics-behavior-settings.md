@@ -7,7 +7,7 @@ feature: Programs
 ---
 # Edit Analytics Behavior Settings {#edit-analytics-behavior-settings}
 
-You can set the [analytics behavior at the admin level on channels](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, but you can also edit it at the program level. Here's how.
+Learn how to edit analytics behavior at the at the program level.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 

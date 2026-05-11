@@ -11,8 +11,7 @@ By sending offline conversion data back to [!DNL Facebook] for people created vi
 
 >[!PREREQUISITES]
 >
->* You must [set up Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
->* You must have an approved model in [Revenue Cycle Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+>You must [set up Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 ## Admin Configuration {#admin-configuration}
 

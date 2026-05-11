@@ -9,10 +9,6 @@ feature: Reporting
 
 To receive automatic updates of a basic report, or to share them, you can subscribe any email address to an existing report.
 
->[!NOTE]
->
->For Revenue Cycle Explorer report subscriptions, see [Subscribe to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
-
 1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)

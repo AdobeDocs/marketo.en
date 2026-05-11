@@ -27,4 +27,4 @@ The preferred  SOAP API endpoint has been updated, which is shown in [!UICONTROL
 
 ## Coming Soon: Support for Multiple Models {#coming-soon-support-for-multiple-models}
 
-We’re laying the groundwork to support multiple revenue cycle models, voted #1 idea for RCA in the Community, in a future release. In this release, you will notice some changes including [Smart List filters and Add Choices in Flow Steps](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) to support the selection of a model and stage. We’re also moving the Lead Revenue Stage and Lead Revenue Cycle Model fields out of the Smart List Lead grid tab.
+We're laying the groundwork to support multiple revenue cycle models, voted #1 idea for RCA in the Community, in a future release. In this release, you will notice some changes including Smart List filters and Add Choices in Flow Steps to support the selection of a model and stage. We're also moving the Lead Revenue Stage and Lead Revenue Cycle Model fields out of the Smart List Lead grid tab.

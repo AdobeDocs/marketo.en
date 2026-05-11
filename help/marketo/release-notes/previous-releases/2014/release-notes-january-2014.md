@@ -17,13 +17,13 @@ Take control of the form creation process and give your web developers a break. 
 
 **Give Your Forms the Visual Makeover They Deserve:**
 
-Theme designs, button customization, and flexible layouts enable you to design modern looking forms that’ll fit right in with your site’s look and feel.
+Theme designs, button customization, and flexible layouts enable you to design modern looking forms that'll fit right in with your site's look and feel.
 
 **Conditional Visibility and Follow-up page Logic:**
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-Want “State” to only show up if a user selects USA as their “Country”? How about presenting different whitepapers to customers based on how they answer questions on your form? Build conditional logic into your forms right from the editor. No [!DNL javascript] required!
+Want "State" to only show up if a user selects USA as their "Country"? How about presenting different whitepapers to customers based on how they answer questions on your form? Build conditional logic into your forms right from the editor. No [!DNL javascript] required!
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
@@ -41,6 +41,6 @@ Gone are the days of lifting html code from forms placed on Marketo landing page
 
 ## Additional Fields in Program Membership Analysis {#additional-fields-in-program-membership-analysis}
 
-Now you can add and group your [Program Membership Analysis](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) metrics by lead and company attributes. For example, you can add the Industry field to see the split of your program members and successes.
+Now you can add and group your Program Membership Analysis metrics by lead and company attributes. For example, you can add the Industry field to see the split of your program members and successes.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

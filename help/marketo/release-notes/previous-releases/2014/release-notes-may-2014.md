@@ -42,7 +42,7 @@ By default, no links will be tracked in the text version of emails. Add this new
 
 To add untracked links to your emails:
 
-* **HTML version:** Insert your link and add the “mktNoTrack” class to the link.
+* **HTML version:** Insert your link and add the "mktNoTrack" class to the link.
 * **Text version:** Just enter the URL. It will be untracked by default.
 
 ![](assets/image2014-9-22-12-3a1-3a34.png)
@@ -53,7 +53,7 @@ See how your links will behave in emails ahead of time. Sample emails now displa
 
 ## [!UICONTROL Abort Campaign] {#abort-campaign}
 
-Don’t panic! If you find a mistake, use the new [abort campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) button to immediately stop campaigns in their tracks. You’ll receive a notification outlining how many leads were pending in each flow step when the campaign was stopped.
+Don't panic! If you find a mistake, use the new [abort campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) button to immediately stop campaigns in their tracks. You'll receive a notification outlining how many leads were pending in each flow step when the campaign was stopped.
 
 ## [!UICONTROL Sales Insight] in Japanese, Portuguese and Spanish {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -63,11 +63,11 @@ Download the latest version of [!UICONTROL Sales Insight] from AppExchange so yo
 
 ## Program Status and Success Timeframe in Program Membership Analysis {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-View how many [members are in each Program Status](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) and when they changed to each status, including the date when they achieved Program Success.
+View how many members are in each Program Status and when they changed to each status, including the date when they achieved Program Success.
 
 ## A/B Test Emails in [!UICONTROL Email Analysis] {#a-b-test-emails-in-email-analysis}
 
-Report on each of your [A/B test email variants](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in [!UICONTROL Email Analysis].
+Report on each of your A/B test email variants in [!UICONTROL Email Analysis].
 
 ## Analytics Packaging Changes {#analytics-packaging-changes}
 
