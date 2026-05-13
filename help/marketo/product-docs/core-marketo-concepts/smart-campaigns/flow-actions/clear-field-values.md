@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147324
-description: "Learn how to clear field values in a Smart Campaign flow step. Remove values from person or company fields."
+description: Learn how to clear field values in a Smart Campaign flow step. Remove values from person or company fields.
 title: Clear Field Values
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/57QZb7T-y2JVdNeP4nhTl9PDjIX1S9GcQmRAMJ-53E0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Clear Field Values {#clear-field-values}
 

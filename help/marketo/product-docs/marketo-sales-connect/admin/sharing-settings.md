@@ -1,9 +1,16 @@
 ---
 unique-page-id: 14746143
-description: "Learn how to configure sharing settings to control who can share templates and which categories."
+description: Learn how to configure sharing settings to control who can share templates and which categories.
 title: Sharing Settings
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/vlWqTEKdoWRJH5aPG9IO2e3Hf9j6ytTBgXxkZ5MWO-Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Sharing Settings {#sharing-settings}
 

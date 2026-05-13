@@ -1,8 +1,12 @@
 ---
-description: "Learn how to access your new Sales Connect instance. Get provisioning steps for Marketo admins to grant access to Sales Connect."
+description: Learn how to access your new Sales Connect instance. Get provisioning steps for Marketo admins to grant access to Sales Connect.
 title: Accessing Your New Sales Connect Instance
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/zCpfluTnZK8pf7rYpuHEIKC97SkSoIQ-5Apq1KZv00Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Accessing Your New Sales Connect Instance {#accessing-your-new-sales-connect-instance}
 

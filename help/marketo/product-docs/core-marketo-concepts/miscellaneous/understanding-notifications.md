@@ -1,8 +1,15 @@
 ---
 unique-page-id: 2952292
-description: "Learn about Marketo Engage notifications for campaign failures and CRM sync. Subscribe to get alerts by email and stay up to date."
+description: Learn about Marketo Engage notifications for campaign failures and CRM sync. Subscribe to get alerts by email and stay up to date.
 title: Understanding Notifications
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
+TQID: https://experienceleague.adobe.com/2gXuzpDABMzULJZfzqvuc5u39hzfEuabZsz9TkjnSaY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Understanding Notifications {#understanding-notifications}
 

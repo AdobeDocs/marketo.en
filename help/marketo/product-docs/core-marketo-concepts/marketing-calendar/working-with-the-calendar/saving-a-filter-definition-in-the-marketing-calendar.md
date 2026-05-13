@@ -1,9 +1,13 @@
 ---
 unique-page-id: 1147296
-description: "Learn how to save a filter definition in the Marketing Calendar. Save filters to switch between different filter definitions quickly."
+description: Learn how to save a filter definition in the Marketing Calendar. Save filters to switch between different filter definitions quickly.
 title: Saving a Filter Definition in the Marketing Calendar
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/W3KwfZv1of5jaqdiocNPIQlbc-7ccaelEw-L-VU17lI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Saving a Filter Definition in the Marketing Calendar {#saving-a-filter-definition-in-the-marketing-calendar}
 

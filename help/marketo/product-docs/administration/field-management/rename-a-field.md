@@ -1,9 +1,26 @@
 ---
 unique-page-id: 2360293
-description: "Steps to rename a custom field in Marketo after removing all of its use in forms, Smart Lists, and campaigns."
+description: Steps to rename a custom field in Marketo after removing all of its use in forms, Smart Lists, and campaigns.
 title: Rename a Field
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
+TQID: https://experienceleague.adobe.com/6ngomznuZa6OGN1BH5QURvpUjCv9rWCRbmn7akx6ZAA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart Lists
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Rename a Field {#rename-a-field}
 

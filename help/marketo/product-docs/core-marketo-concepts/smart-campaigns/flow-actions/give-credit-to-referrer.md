@@ -1,11 +1,17 @@
 ---
 unique-page-id: 1147040
-description: "Learn how to give credit to referrer in a flow step. Attribute success to the referring person or campaign."
+description: Learn how to give credit to referrer in a flow step. Attribute success to the referring person or campaign.
 title: Give Credit to Referrer
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
-
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/yGpaY59tnkyQheCiwLYqz8UtGU12iHeE2e3VdFjtvWo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Give Credit to Referrer {#give-credit-to-referrer}
 

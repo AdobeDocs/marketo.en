@@ -1,8 +1,12 @@
 ---
-description: "Learn how to get started as a new Sales Insight Actions user. Complete setup steps and connect email, Salesforce, and Marketo."
+description: Learn how to get started as a new Sales Insight Actions user. Complete setup steps and connect email, Salesforce, and Marketo.
 title: Sales Insight Actions User Onboarding Guide
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/5nQmTIYbflu3p5Tpy8gJvyK8xTxZLaxJrpQQFudo9AU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Sales Insight Actions User Onboarding Guide {#sales-insight-actions-user-onboarding-guide}
 

@@ -1,9 +1,21 @@
 ---
 unique-page-id: 11376159
-description: "Understand what to set up before creating push and in-app messages. Get Admin and developer steps, SDK, and custom event guidance."
+description: Understand what to set up before creating push and in-app messages. Get Admin and developer steps, SDK, and custom event guidance.
 title: Before You Create Push Notifications and In-App Messages
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/YNAyIX3spLETvHChasi9xpP9K96ksYdkr-MSdGp2qog
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Before You Create Push Notifications and In-App Messages {#before-you-create-push-notifications-and-in-app-messages}
 

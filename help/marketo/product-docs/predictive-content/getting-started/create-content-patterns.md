@@ -1,9 +1,13 @@
 ---
 unique-page-id: 11385579
-description: "Learn how to define URL patterns so Predictive Content auto-discovers HTML pages visitors view or click. Add paths and categories under Content Settings URL Patterns."
+description: Learn how to define URL patterns so Predictive Content auto-discovers HTML pages visitors view or click. Add paths and categories under Content Settings URL Patterns.
 title: Create Content Patterns
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
+TQID: https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Create Content Patterns {#create-content-patterns}
 

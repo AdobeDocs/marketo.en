@@ -1,9 +1,16 @@
 ---
 unique-page-id: 9438209
-description: "Learn about the Template 18B guided landing page template. Download and use it for your Marketo landing pages."
+description: Learn about the Template 18B guided landing page template. Download and use it for your Marketo landing pages.
 title: Template 18B
 exl-id: a0bb1104-a905-4285-895b-df515449db89
 feature: Landing Pages, Guided Landing Page Templates
+TQID: https://experienceleague.adobe.com/IO5NpaHHCBaiANiYU58FSzWXCXghk-gMLSb9K67ATDI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Template 18B {#template-18b}
 

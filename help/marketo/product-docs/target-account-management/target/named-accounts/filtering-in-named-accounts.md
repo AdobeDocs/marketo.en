@@ -1,9 +1,13 @@
 ---
 unique-page-id: 12615804
-description: "Learn how to filter Named Accounts to narrow down data quickly. Use industry, country, employees, and other CRM-synced fields in the filter."
+description: Learn how to filter Named Accounts to narrow down data quickly. Use industry, country, employees, and other CRM-synced fields in the filter.
 title: Filtering in Named Accounts
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/S0l1fS12Faz-kO3--iP743L4CHGlz0WPdjreuTTMzfw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Filtering in [!UICONTROL Named Accounts] {#filtering-in-named-accounts}
 

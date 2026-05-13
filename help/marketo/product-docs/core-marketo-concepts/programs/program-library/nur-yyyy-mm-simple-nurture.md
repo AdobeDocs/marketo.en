@@ -1,8 +1,21 @@
 ---
-description: "Simple Nurture program template. Use it for basic nurture campaigns with a clear naming convention."
+description: Simple Nurture program template. Use it for basic nurture campaigns with a clear naming convention.
 title: NUR-YYYY-MM-Simple Nurture
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
+TQID: https://experienceleague.adobe.com/4dEZucMMXmSHngRHdUqasKVAg08MkwZFIDn1OzbxnVg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # NUR-YYYY-MM-Simple Nurture {#nur-yyyy-mm-simple-nurture}
 

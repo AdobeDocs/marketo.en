@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1146942
-description: "Learn how to define the Smart List for a trigger Smart Campaign. Set filters that qualify people for the trigger."
+description: Learn how to define the Smart List for a trigger Smart Campaign. Set filters that qualify people for the trigger.
 title: Define Smart List for Smart Campaign | Trigger
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/QUFO9gKc3-1Pla-Shhy0Ns9pfcQKA3J8YFiYOSMIdgY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Define Smart List for Smart Campaign | Trigger {#define-smart-list-for-smart-campaign-trigger}
 

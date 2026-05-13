@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2360370
-description: "Learn how to match Marketo program statuses with Salesforce campaign member statuses before syncing. Fix errors and map statuses so programs sync to campaigns."
+description: Learn how to match Marketo program statuses with Salesforce campaign member statuses before syncing. Fix errors and map statuses so programs sync to campaigns.
 title: How to Match Program Statuses and Salesforce Campaign Statuses Prior to Sync
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/54XVLabyXlccM45i9yxPRoMqyrCtoDsATu1o1bEy-50
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # How to Match Program Statuses and [!DNL Salesforce] Campaign Statuses Prior to Sync {#how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync}
 

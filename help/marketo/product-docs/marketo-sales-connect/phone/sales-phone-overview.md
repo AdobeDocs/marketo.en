@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352438
-description: "Learn about Sales Phone in Sales Connect. Make calls from the app, log to Salesforce, and use call recording and local presence."
+description: Learn about Sales Phone in Sales Connect. Make calls from the app, log to Salesforce, and use call recording and local presence.
 title: Sales Phone Overview
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/QoZ57b9CNmr-R1LI-JYJFDq8Vks7FjQwWtj71yawHtY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Sales Phone Overview {#sales-phone-overview}
 

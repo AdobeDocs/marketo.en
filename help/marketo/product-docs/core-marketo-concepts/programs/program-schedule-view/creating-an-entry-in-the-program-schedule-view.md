@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147102
-description: "Learn how to create an entry in the Program Schedule View. Add email programs, Smart Campaigns, or basic entries to the schedule."
+description: Learn how to create an entry in the Program Schedule View. Add email programs, Smart Campaigns, or basic entries to the schedule.
 title: Creating an Entry in the Program Schedule View
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
+TQID: https://experienceleague.adobe.com/vQsLoF9lbc1VrCbmZCQbQenZGp8cVnCeITjnMkUqnRs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Creating an Entry in the Program Schedule View {#creating-an-entry-in-the-program-schedule-view}
 

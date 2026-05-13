@@ -1,9 +1,18 @@
 ---
 unique-page-id: 2359858
-description: "Learn how to add images and files to Marketo. Upload assets to the Design Studio for use in emails, landing pages, and forms."
+description: Learn how to add images and files to Marketo. Upload assets to the Design Studio for use in emails, landing pages, and forms.
 title: Add Images and Files to Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
+TQID: https://experienceleague.adobe.com/Hbjtgp4C0Qg3XLzvpHb0HP98CDeLRvdDbDeKNbxr3yE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
 ---
 # Add Images and Files to Marketo {#add-images-and-files-to-marketo}
 

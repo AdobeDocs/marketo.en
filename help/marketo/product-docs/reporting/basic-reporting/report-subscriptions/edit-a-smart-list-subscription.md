@@ -1,9 +1,21 @@
 ---
 unique-page-id: 10093041
-description: "Learn how to edit smart list subscriptions by updating recipients, frequency, columns, end delivery date, and format. Make changes directly in the Subscriptions tab."
+description: Learn how to edit smart list subscriptions by updating recipients, frequency, columns, end delivery date, and format. Make changes directly in the Subscriptions tab.
 title: Edit a Smart List Subscription
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
+TQID: https://experienceleague.adobe.com/5zO37cTaYpoqKJxN0c3UCGeFjj1npVmcfl59UwYS-cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Edit a Smart List Subscription {#edit-a-smart-list-subscription}
 

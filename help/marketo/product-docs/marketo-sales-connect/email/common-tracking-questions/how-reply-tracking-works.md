@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352482
-description: "Understand how reply tracking works in Sales Connect. Learn how replies are detected and logged to Salesforce or Marketo."
+description: Understand how reply tracking works in Sales Connect. Learn how replies are detected and logged to Salesforce or Marketo.
 title: How Reply Tracking Works
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/n3WVUG84dSlzCgmYbR1eSlFOL7dPyGasppSRgqiefMQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # How Reply Tracking Works {#how-reply-tracking-works}
 

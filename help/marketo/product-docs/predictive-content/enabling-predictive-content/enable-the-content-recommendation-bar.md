@@ -1,9 +1,16 @@
 ---
 unique-page-id: 4720108
-description: "Learn how to enable and style the Content Recommendation Bar with predictive analytics for each URL. Use Content Settings to toggle pages on and customize colors and paths."
+description: Learn how to enable and style the Content Recommendation Bar with predictive analytics for each URL. Use Content Settings to toggle pages on and customize colors and paths.
 title: Enable the Content Recommendation Bar
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
+TQID: https://experienceleague.adobe.com/mrCYs8-z6i2GbrfgeySrm-a6-vPC--yVr4yf9UhbH4s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+    internal-label: Machine learning
 ---
 # Enable the Content Recommendation Bar {#enable-the-content-recommendation-bar}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 11383945
-description: "Learn about Facebook offline conversions and how they work with Marketo. Understand how conversion data improves ad performance."
+description: Learn about Facebook offline conversions and how they work with Marketo. Understand how conversion data improves ad performance.
 title: Understanding Facebook Offline Conversions
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
+TQID: https://experienceleague.adobe.com/22t2foTWN-7xooxnnXuyk1l10kI-H4-gq0LbwbWSlns
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 ---
 # Understanding [!DNL Facebook] Offline Conversions {#understanding-facebook-offline-conversions}
 

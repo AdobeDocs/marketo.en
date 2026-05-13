@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2953415
-description: "Learn how to use the person detail page. View and edit lead information, activity, and run flow steps from one place."
+description: Learn how to use the person detail page. View and edit lead information, activity, and run flow steps from one place.
 title: Using the Person Detail Page
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/ANLA7fu7O3m6mBjiY1b2z3UQH-PqWf6cAn5nQ5S3Yrk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Using the Person Detail Page {#using-the-person-detail-page}
 

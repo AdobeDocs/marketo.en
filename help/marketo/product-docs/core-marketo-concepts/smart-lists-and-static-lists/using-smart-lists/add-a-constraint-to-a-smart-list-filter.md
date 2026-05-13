@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2949413
-description: "Learn how to add a constraint to a Smart List filter. Refine filters with additional conditions for more precise lists."
+description: Learn how to add a constraint to a Smart List filter. Refine filters with additional conditions for more precise lists.
 title: Add a Constraint to a Smart List Filter
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/UqkPxJFs-78VaVMNgOa1p2sTuDo-FM74HXp3CAbruhA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Add a Constraint to a Smart List Filter {#add-a-constraint-to-a-smart-list-filter}
 

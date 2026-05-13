@@ -1,8 +1,15 @@
 ---
-description: "Learn how to grant Marketo access to users in Sales Insight Actions. Allow users to see Marketo data and use Marketo-connected features."
+description: Learn how to grant Marketo access to users in Sales Insight Actions. Allow users to see Marketo data and use Marketo-connected features.
 title: Grant Marketo Access to Users
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/H5SelzlqZyQE6oq5Okvpq-v-B5km2cBBu2cUH7GhC2A
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 ---
 # Grant Marketo Access to Users {#grant-marketo-access-to-users}
 

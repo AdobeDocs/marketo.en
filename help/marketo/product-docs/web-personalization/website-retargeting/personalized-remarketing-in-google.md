@@ -1,9 +1,21 @@
 ---
 unique-page-id: 4720810
-description: "Learn about personalized remarketing in google in Marketo Engage, including personalized remarketing in google. Use this guide to complete your next step."
+description: Learn about personalized remarketing in google in Marketo Engage, including personalized remarketing in google. Use this guide to complete your next step.
 title: Personalized Remarketing in Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/qAvf6tO5v6j29k3wWf3irTqhwv6EDq0eHzijvOjGXls
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Personalized Remarketing in Google {#personalized-remarketing-in-google}
 

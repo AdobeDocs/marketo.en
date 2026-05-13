@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2953459
-description: "Learn about how account information syncs from Salesforce to Marketo. Understand one-way sync, contact-account relationship, and creating accounts via Convert Person."
+description: Learn about how account information syncs from Salesforce to Marketo. Understand one-way sync, contact-account relationship, and creating accounts via Convert Person.
 title: SFDC Sync - Account Sync
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/vwdN66F4u7itA91F89GCxPfg0T7VUkchpKb69XDBReA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # SFDC Sync: Account Sync {#sfdc-sync-account-sync}
 

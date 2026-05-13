@@ -1,9 +1,18 @@
 ---
 unique-page-id: 2359491
-description: "Learn how to add an A/B test to an email program. Choose what to test (subject, content, from, or date/time) and set winner criteria."
+description: Learn how to add an A/B test to an email program. Choose what to test (subject, content, from, or date/time) and set winner criteria.
 title: Add an A/B Test
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
+TQID: https://experienceleague.adobe.com/IiqLm2sQGgyiamqxm-QC-6gKOYIOmyMzlGvCU89-LHo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Add an A/B Test {#add-an-a-b-test}
 

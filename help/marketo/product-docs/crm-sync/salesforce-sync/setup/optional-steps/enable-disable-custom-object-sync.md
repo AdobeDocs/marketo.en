@@ -1,9 +1,21 @@
 ---
 unique-page-id: 4719297
-description: "Learn how to enable or disable Salesforce custom object sync in Marketo Engage. Use Admin and Salesforce Objects Sync to select objects and refresh schema."
+description: Learn how to enable or disable Salesforce custom object sync in Marketo Engage. Use Admin and Salesforce Objects Sync to select objects and refresh schema.
 title: Enable/Disable Custom Object Sync
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/QdXTpcTi0eQKk8flu8HxHhaK2sEO4JRkeehq3KxDRo0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart Lists
 ---
 # Enable/Disable Custom Object Sync {#enable-disable-custom-object-sync}
 

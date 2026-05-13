@@ -1,8 +1,15 @@
 ---
-description: "Learn about Best Bets in the Marketo tab in Salesforce. See which leads are most engaged and ready for sales outreach."
+description: Learn about Best Bets in the Marketo tab in Salesforce. See which leads are most engaged and ready for sales outreach.
 title: Best Bets
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/amPHkzlbFZeURm4ASjiIyLqpYtVNDMqMMnqbRwjJ-6w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!DNL Best Bets] {#best-bets}
 

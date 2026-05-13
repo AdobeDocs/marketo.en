@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359740
-description: "Learn how to redirect a Marketo landing page to another page. Send visitors to a different URL when they land on the page."
+description: Learn how to redirect a Marketo landing page to another page. Send visitors to a different URL when they land on the page.
 title: Redirect a Marketo Landing Page to Another Page
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/hL18plY9nu2Irs6QC8AEtjbLPzZLvJDhfRQYwDRCgls
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Redirect a Marketo Landing Page to Another Page {#redirect-a-marketo-landing-page-to-another-page}
 

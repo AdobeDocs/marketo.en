@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352618
-description: "Learn how to create a Sales Connect campaign with email, call, InMail, and custom task steps. Organize, schedule, and measure outreach in one place."
+description: Learn how to create a Sales Connect campaign with email, call, InMail, and custom task steps. Organize, schedule, and measure outreach in one place.
 title: Create a Campaign
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/ljAuq-M-VyM-2PBuMSEfZykqjC1j-Dkctk3kQl-byII
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Create a Campaign {#create-a-campaign}
 

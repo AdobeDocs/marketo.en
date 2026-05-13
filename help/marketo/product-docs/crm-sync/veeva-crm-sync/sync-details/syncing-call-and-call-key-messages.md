@@ -1,8 +1,18 @@
 ---
-description: "Learn about how Call and Call Key Message objects sync from Veeva CRM to Marketo Engage. Use call-related triggers and filters in Smart Lists and campaigns."
+description: Learn about how Call and Call Key Message objects sync from Veeva CRM to Marketo Engage. Use call-related triggers and filters in Smart Lists and campaigns.
 title: Syncing Call and Call Key Messages
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
+TQID: https://experienceleague.adobe.com/IuF0jecYZcSgM6jZaVLeJO0CoSwBgYoxirK-9ZAiaWU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Syncing Call and Call Key Messages {#syncing-call-and-call-key-messages}
 

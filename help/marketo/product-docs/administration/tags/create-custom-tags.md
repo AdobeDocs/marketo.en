@@ -1,9 +1,25 @@
 ---
 unique-page-id: 2950660
-description: "How to create a new tag type with values, choose which program types it applies to, and set the tag as required or optional."
+description: How to create a new tag type with values, choose which program types it applies to, and set the tag as required or optional.
 title: Create Custom Tags
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
+TQID: https://experienceleague.adobe.com/ORu7E1aGAIyNwmVIZG8O7-2O2ZFodLFPWTM8eIuic8g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Create Custom Tags {#create-custom-tags}
 

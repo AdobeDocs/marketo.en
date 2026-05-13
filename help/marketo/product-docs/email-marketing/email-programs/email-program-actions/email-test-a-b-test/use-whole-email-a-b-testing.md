@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359502
-description: "Learn how to run whole-email A/B tests. Test different email versions and choose a winner by your chosen criteria."
+description: Learn how to run whole-email A/B tests. Test different email versions and choose a winner by your chosen criteria.
 title: Use "Whole Email" A/B Testing
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
+TQID: https://experienceleague.adobe.com/P6YTdfoKe0D8egqK5amG2GTM92U7RZ1AWoQh6NcZpeQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Use "Whole Email" A/B Testing {#use-whole-email-a-b-testing}
 

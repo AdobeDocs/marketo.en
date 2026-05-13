@@ -1,9 +1,16 @@
 ---
 unique-page-id: 14352406
-description: "Learn how to create a sub-team in Sales Connect and add people to it. Organize templates, campaigns, and groups."
+description: Learn how to create a sub-team in Sales Connect and add people to it. Organize templates, campaigns, and groups.
 title: Create a Sub-Team
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/MfKf0NY3v6JPNFty1PVJCV2kIs6Ag56XoSW-6JUVM3A
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Create a Sub-Team {#create-a-sub-team}
 

@@ -1,9 +1,18 @@
 ---
 unique-page-id: 11382815
-description: "Learn how IT can install the Marketo Outlook plugin for the organization. Deploy the add-in at scale for Outlook users."
+description: Learn how IT can install the Marketo Outlook plugin for the organization. Deploy the add-in at scale for Outlook users.
 title: Marketo [!DNL Outlook] Plugin Installation by IT
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/7Gq4FJlVf9jvqL2Bz34oQVL8HtBNYCjEHl32g-0RXYk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Marketo [!DNL Outlook] Plugin Installation by IT {#marketo-outlook-plugin-installation-by-it}
 

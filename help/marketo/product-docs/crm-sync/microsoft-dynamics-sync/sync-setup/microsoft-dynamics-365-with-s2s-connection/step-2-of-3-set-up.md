@@ -1,9 +1,13 @@
 ---
 unique-page-id: 3571827
-description: "Learn how to set up the Marketo solution with Server to Server connection for Dynamics 365. Create a client app in Azure AD and grant consent for the sync user."
+description: Learn how to set up the Marketo solution with Server to Server connection for Dynamics 365. Create a client app in Azure AD and grant consent for the sync user.
 title: Step 2 of 3 - Set up the Marketo Solution with Server to Server Connection
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/3U-6D08B0wmDyHMsDwUqAzFT-jy1EroQ4ZHzndAr-kE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Step 2 of 3: Set up Marketo Solution with Server to Server Connection {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 

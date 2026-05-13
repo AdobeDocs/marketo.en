@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352489
-description: "Get help when Sales Connect activity did not log to Salesforce Activity History. Troubleshoot missing calls or emails in Activity History."
+description: Get help when Sales Connect activity did not log to Salesforce Activity History. Troubleshoot missing calls or emails in Activity History.
 title: Didn't Log to Activity History
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/QqpAt-XEbi8Oa0tme6UF5uNHpVwFzcQgj-0MHwna5BA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Didn't Log to Activity History {#didnt-log-to-activity-history}
 

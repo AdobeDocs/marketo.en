@@ -1,9 +1,21 @@
 ---
 unique-page-id: 12982903
-description: "Learn how to schedule email programs with recipient time zone. Set delivery for within 25 hours or later and choose time zone behavior."
+description: Learn how to schedule email programs with recipient time zone. Set delivery for within 25 hours or later and choose time zone behavior.
 title: Schedule Email Programs with Recipient Time Zone
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
+TQID: https://experienceleague.adobe.com/1a1J6tugq8LVGm48lzdQ2YR7TSr8BbTQ1-oSXGUMtGo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Schedule Email Programs with Recipient Time Zone {#schedule-email-programs-with-recipient-time-zone}
 

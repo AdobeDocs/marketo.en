@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147148
-description: "Learn how to delete a program in Marketo. Remove programs you no longer need."
+description: Learn how to delete a program in Marketo. Remove programs you no longer need.
 title: Delete a Program
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
+TQID: https://experienceleague.adobe.com/y18Phz-vf3X41n9yADRIiUGcRLsjmHVlKzhHvqAa3X8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Delete a Program {#delete-a-program}
 

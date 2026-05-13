@@ -1,9 +1,19 @@
 ---
 unique-page-id: 4720461
-description: "Enable or disable HTML encoding for person and company tokens used in emails to ensure correct transmission."
+description: Enable or disable HTML encoding for person and company tokens used in emails to ensure correct transmission.
 title: HTML Encode Tokens in Emails
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
+TQID: https://experienceleague.adobe.com/yQU9qqbvxSXiTHk0Yvm9lFiaZpyZ86NoIR3TIF6sowg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # HTML Encode Tokens in Emails {#html-encode-tokens-in-emails}
 

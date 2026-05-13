@@ -1,9 +1,13 @@
 ---
 unique-page-id: 15368214
-description: "Learn how to disconnect Salesforce from your Sales Connect account."
+description: Learn how to disconnect Salesforce from your Sales Connect account.
 title: Disconnect Salesforce From Your Sales Connect Account
 exl-id: 7b40ba8f-b852-4de1-bc1d-1206259c2880
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/lpF4DjG2mzxkt5QZfx5VKSSxvGbjRyjt9Tw1G6D-E0A
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Disconnect Salesforce From Your Sales Connect Account {#disconnect-salesforce-from-your-sales-connect-account}
 

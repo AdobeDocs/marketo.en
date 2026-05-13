@@ -1,8 +1,18 @@
 ---
-description: "Learn how to connect Marketo and Salesforce using OAuth 2.0. Set up an External Client App in Salesforce and authorize Marketo to sync securely without sharing credentials."
+description: Learn how to connect Marketo and Salesforce using OAuth 2.0. Set up an External Client App in Salesforce and authorize Marketo to sync securely without sharing credentials.
 title: Log in Using OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/DG57bnPnHcwgMX16fmboe5t0W3anVkVt4BNba3ltgqI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Log in Using OAuth 2.0 {#log-in-using-oauth-2-0}
 

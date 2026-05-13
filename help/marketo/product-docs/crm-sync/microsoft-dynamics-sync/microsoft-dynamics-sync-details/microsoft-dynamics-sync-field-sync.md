@@ -1,9 +1,13 @@
 ---
 unique-page-id: 3571838
-description: "Learn about how field sync works between Microsoft Dynamics and Marketo. Understand bidirectional sync for leads and contacts and one-way sync for other entities."
+description: Learn about how field sync works between Microsoft Dynamics and Marketo. Understand bidirectional sync for leads and contacts and one-way sync for other entities.
 title: Microsoft Dynamics Sync -Field Sync
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/w8YaiXwVC27ovOf63p8xVCaVM9N9KFJJIPzduSoyWME
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # [!DNL Microsoft Dynamics] Sync: Field Sync {#microsoft-dynamics-sync-field-sync}
 

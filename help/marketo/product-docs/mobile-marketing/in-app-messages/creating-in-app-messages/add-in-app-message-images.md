@@ -1,9 +1,20 @@
 ---
 unique-page-id: 10100636
-description: "Learn how to add and customize images in your in-app message. Select from Design Studio, set fit, border, and tap actions per platform."
+description: Learn how to add and customize images in your in-app message. Select from Design Studio, set fit, border, and tap actions per platform.
 title: Add In-App Message Images
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/wKrIxk7qDv37Iza7jA1ORfA16eQlPkP-JtXBWlFcnLs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Add In-App Message Images {#add-in-app-message-images}
 

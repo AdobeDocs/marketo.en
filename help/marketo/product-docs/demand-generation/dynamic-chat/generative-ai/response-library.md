@@ -1,8 +1,12 @@
 ---
-description: "Learn how to manage the Response Library for Generative AI in Dynamic Chat. Add, edit, and approve questions and responses for chat campaigns."
+description: Learn how to manage the Response Library for Generative AI in Dynamic Chat. Add, edit, and approve questions and responses for chat campaigns.
 title: Response Library
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
+TQID: https://experienceleague.adobe.com/huqmL3JA7BaWaekIcKm2HjeqYCW6pALsp7fNyhTO1XU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Response Library {#response-library}
 

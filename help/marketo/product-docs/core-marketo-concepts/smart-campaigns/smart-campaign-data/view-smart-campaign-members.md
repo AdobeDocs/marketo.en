@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1146937
-description: "Learn how to view Smart Campaign members. See who is in the campaign and their status in the flow."
+description: Learn how to view Smart Campaign members. See who is in the campaign and their status in the flow.
 title: View Smart Campaign Members
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/mNV2jG6Zyxj07lU-6lSc7kSVz0flF6xmVP5HxFECtDI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # View Smart Campaign Members {#view-smart-campaign-members}
 

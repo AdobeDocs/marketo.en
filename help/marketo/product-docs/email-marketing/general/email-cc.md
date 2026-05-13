@@ -1,9 +1,19 @@
 ---
 unique-page-id: 17727995
-description: "Learn about email CC options in Marketo. Add CC recipients to emails when needed for compliance or visibility."
+description: Learn about email CC options in Marketo. Add CC recipients to emails when needed for compliance or visibility.
 title: Email CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/gshenY7XsQYoWMkkrHQROoSu6uqtxUFxSsKSOLPPCAU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
 ---
 # Email CC {#email-cc}
 

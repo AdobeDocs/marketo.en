@@ -1,8 +1,29 @@
 ---
-description: "Event program template. Use it to run webinars and events with a consistent naming structure."
+description: Event program template. Use it to run webinars and events with a consistent naming structure.
 title: EV-YYYY-MM-DD-Event Program
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
+TQID: https://experienceleague.adobe.com/iS2x0wrTXkoRryyLEFCVXrDRrzdFw7sYEHl0k1FoBKQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+subfeature_v2:
+  - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+    internal-label: Global Assets
+topic_v2:
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
 ---
 # EV-YYYY-MM-DD-Event Program {#ev-yyyy-mm-dd-event-program}
 

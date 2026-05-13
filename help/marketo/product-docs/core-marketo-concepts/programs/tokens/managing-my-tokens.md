@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147116
-description: "Learn how to manage My Tokens in a program. Create and use tokens to personalize program content and emails."
+description: Learn how to manage My Tokens in a program. Create and use tokens to personalize program content and emails.
 title: Managing My Tokens
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
+TQID: https://experienceleague.adobe.com/-DdWyWBFeKkrsZMgLvxhhzaqMcAXXjSYY6euh-vMXOY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Managing My Tokens {#managing-my-tokens}
 

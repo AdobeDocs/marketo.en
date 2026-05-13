@@ -1,8 +1,15 @@
 ---
-description: "Quick Start email template. Use it to create emails quickly from a pre-built template."
+description: Quick Start email template. Use it to create emails quickly from a pre-built template.
 title: Quick Start Email Template
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
+TQID: https://experienceleague.adobe.com/4TOHRnalU1E6NaelbM0wZyH-CPGjQomwDvPGlBU4GS4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Quick Start Email Template {#quick-start-email-template}
 

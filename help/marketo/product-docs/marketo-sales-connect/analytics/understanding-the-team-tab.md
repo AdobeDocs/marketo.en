@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352414
-description: "Understand the Team tab and team-wide metrics in Sales Connect. View emails sent with templates, peak engagement time, deals closed, and rep leaderboard."
+description: Understand the Team tab and team-wide metrics in Sales Connect. View emails sent with templates, peak engagement time, deals closed, and rep leaderboard.
 title: Understanding the [!UICONTROL Team] Tab
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/Z3EoI8BoNSwmJKCKz-dP8ml8PaTFBTfWYgT8VqwYB0c
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Understanding the [!UICONTROL Team] Tab {#understanding-the-team-tab}
 

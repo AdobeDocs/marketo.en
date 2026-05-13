@@ -1,8 +1,12 @@
 ---
-description: "Learn how to enable call recording in Sales Insight Actions. Turn on recording and comply with two-party consent where required."
+description: Learn how to enable call recording in Sales Insight Actions. Turn on recording and comply with two-party consent where required.
 title: Enable Call Recording
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/37hdOAowbNsB2eZKh7pojClflb0GCKtYywijBS6Pqgo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Enable Call Recording {#enable-call-recording}
 

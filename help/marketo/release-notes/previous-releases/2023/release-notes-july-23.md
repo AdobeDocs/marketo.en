@@ -1,8 +1,22 @@
 ---
-description: "Release Notes - July 2023 - Marketo Docs - Product Documentation"
+description: Release Notes - July 2023 - Marketo Docs - Product Documentation
 title: Release Notes - July 2023
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
+TQID: https://experienceleague.adobe.com/-7-rFhUAQhG90TYYv6TEUw8p9iDInRcAYM-I25fjR6E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Release Notes: July 2023 {#release-notes-july-23}
 

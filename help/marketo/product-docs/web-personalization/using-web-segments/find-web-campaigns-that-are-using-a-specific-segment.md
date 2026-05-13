@@ -1,9 +1,19 @@
 ---
 unique-page-id: 4719396
-description: "Learn how to find web campaigns that are using a specific segment in Marketo Engage using find web campaigns that are. Take the next step confidently."
+description: Learn how to find web campaigns that are using a specific segment in Marketo Engage using find web campaigns that are. Take the next step confidently.
 title: Find Web Campaigns that are Using a Specific Segment
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/-Z7-5ogUl1kWV-Yp-i9-7BKRIANuaRZgH6YFeBzV0NY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Find Web Campaigns that are Using a Specific Segment {#find-web-campaigns-that-are-using-a-specific-segment}
 

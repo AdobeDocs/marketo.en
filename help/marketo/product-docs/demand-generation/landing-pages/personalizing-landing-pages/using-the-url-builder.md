@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359801
-description: "Learn how to use the URL Builder for Marketo personalized URLs. Create trackable personalized links for emails or campaigns."
+description: Learn how to use the URL Builder for Marketo personalized URLs. Create trackable personalized links for emails or campaigns.
 title: Using the URL Builder
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/C7P2TIGZMWFZs81tdVuYuM9T3VYZQdMBx8eFO7e5ZHg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
 ---
 # Using the URL Builder {#using-the-url-builder}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1900591
-description: "Learn how to create an email program in Marketo. Set up audience, email, schedule, and approval in one place."
+description: Learn how to create an email program in Marketo. Set up audience, email, schedule, and approval in one place.
 title: Create an Email Program
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
+TQID: https://experienceleague.adobe.com/tYpOfWjozk1q9NI4cFWZ38ymvC4mDgXYUm-XkLkKvhs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Create an Email Program {#create-an-email-program}
 

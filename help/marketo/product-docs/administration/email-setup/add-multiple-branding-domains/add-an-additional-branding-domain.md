@@ -1,9 +1,21 @@
 ---
 unique-page-id: 11377395
-description: "Add extra branding domains for multiple brands in one instance so each has its own branded tracking links."
+description: Add extra branding domains for multiple brands in one instance so each has its own branded tracking links.
 title: Add an Additional Branding Domain
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
+TQID: https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Add an Additional Branding Domain {#add-an-additional-branding-domain}
 

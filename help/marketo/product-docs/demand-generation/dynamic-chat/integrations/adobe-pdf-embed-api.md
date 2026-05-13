@@ -1,8 +1,18 @@
 ---
-description: "Learn how to set up the Adobe PDF Embed API for the Document card in Dynamic Chat. Embed PDFs in Dialogues and track document engagement."
+description: Learn how to set up the Adobe PDF Embed API for the Document card in Dynamic Chat. Embed PDFs in Dialogues and track document engagement.
 title: Adobe PDF Embed API
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
+TQID: https://experienceleague.adobe.com/zrFFmOWSbR53kY-NEFwUAdH8vSUoOa600mYpjqtyWfs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 ---
 # Adobe PDF Embed API {#adobe-pdf-embed-api}
 

@@ -1,8 +1,12 @@
 ---
-description: "Learn how to connect a new admin to Marketo and transfer the Marketo integration. Follow steps to disconnect the current admin and establish a new connection."
+description: Learn how to connect a new admin to Marketo and transfer the Marketo integration. Follow steps to disconnect the current admin and establish a new connection.
 title: Connect New Admin to Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/vQ-yzlQX0qzdTBy2uEV2HTkamgRYlWe7f35PQK2FJCc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Connect New Admin to Marketo {#connect-new-admin-to-marketo}
 

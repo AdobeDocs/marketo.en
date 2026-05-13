@@ -1,9 +1,13 @@
 ---
 unique-page-id: 37355758
-description: "Learn how to add members to an event program in Marketo. Add people to your program for registration or attendance tracking."
+description: Learn how to add members to an event program in Marketo. Add people to your program for registration or attendance tracking.
 title: Adding Members to an Event Program
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
+TQID: https://experienceleague.adobe.com/dazVH2bQ--OqwAYWwyT4mBM-hVd4CamYMBMGnPvqO2c
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Adding Members to an Event Program {#adding-members-to-an-event-program}
 

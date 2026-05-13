@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359746
-description: "Learn how to customize landing page URLs with a CNAME in Marketo. Use your own domain for landing page links."
+description: Learn how to customize landing page URLs with a CNAME in Marketo. Use your own domain for landing page links.
 title: Customize Your Landing Page URLs with a CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/8G3a-7YZlycD5xXJLqlny12XL7M-T2ouYDhjBnRAMfo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
 ---
 # Customize Your Landing Page URLs with a CNAME {#customize-your-landing-page-urls-with-a-cname}
 

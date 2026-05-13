@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352484
-description: "Get help fixing the We Were Unable to Authenticate Your Request error when connecting Sales Connect to Salesforce. Troubleshoot authentication issues."
+description: Get help fixing the We Were Unable to Authenticate Your Request error when connecting Sales Connect to Salesforce. Troubleshoot authentication issues.
 title: How to Fix "We Were Unable to Authenticate Your Request" When Connecting to Salesforce
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/51pd-hGwspmp6ZuOShb3z3wRdQ0PZ-pCIY-BeV4Q5ho
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # How to Fix "We Were Unable to Authenticate Your Request" When Connecting to [!DNL Salesforce] {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 

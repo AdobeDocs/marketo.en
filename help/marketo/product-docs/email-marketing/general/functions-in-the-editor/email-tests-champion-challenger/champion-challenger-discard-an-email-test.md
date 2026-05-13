@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2359587
-description: "Learn how to discard a Champion/Challenger email test. Cancel the test without declaring a winner and handle the audience."
+description: Learn how to discard a Champion/Challenger email test. Cancel the test without declaring a winner and handle the audience.
 title: Champion/Challenger -Discard an Email Test
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/h2JUPuX869JUW1WVJ81xFG8onuS5NbQ42sGlqqSootQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Champion/Challenger: Discard an Email Test {#champion-challenger-discard-an-email-test}
 

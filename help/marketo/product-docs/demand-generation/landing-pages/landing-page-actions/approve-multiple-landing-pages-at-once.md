@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359724
-description: "Learn how to approve multiple landing pages at once in Marketo. Bulk approve pages to make them live quickly."
+description: Learn how to approve multiple landing pages at once in Marketo. Bulk approve pages to make them live quickly.
 title: Approve Multiple Landing Pages at Once
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/UaNuf1ByD4EoI7naSn6XTXVzarlNyvFEL2r9R3DhvDQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
 ---
 # Approve Multiple Landing Pages at Once {#approve-multiple-landing-pages-at-once}
 

@@ -1,9 +1,19 @@
 ---
 unique-page-id: 1146978
-description: "Learn how to use a duration in a wait flow step. Pause the flow for a set number of days before the next action."
+description: Learn how to use a duration in a wait flow step. Pause the flow for a set number of days before the next action.
 title: Use a Duration in a Wait Flow Step
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/4T2sVyYvhrxdvwELe0DXw0zvGCywwHDKAuDGlIiIN9Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
 ---
 # Use a Duration in a Wait Flow Step {#use-a-duration-in-a-wait-flow-step}
 

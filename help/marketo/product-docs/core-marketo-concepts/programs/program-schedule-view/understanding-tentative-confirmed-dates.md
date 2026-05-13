@@ -1,9 +1,18 @@
 ---
 unique-page-id: 1147140
-description: "Learn about tentative and confirmed dates in the Program Schedule View. Understand when entries are locked and when they run."
+description: Learn about tentative and confirmed dates in the Program Schedule View. Understand when entries are locked and when they run.
 title: Understanding Tentative/Confirmed Dates
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
+TQID: https://experienceleague.adobe.com/en2j7wysLNeo-CmcGfukDPE8Q4TQKOmsBTKU8QO2d00
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Understanding Tentative/Confirmed Dates {#understanding-tentative-confirmed-dates}
 

@@ -1,9 +1,19 @@
 ---
 unique-page-id: 12978906
-description: "Learn how to set how your web campaign displays in Marketo Engage using set how your web campaign displays. Use this guide to complete your next step."
+description: Learn how to set how your web campaign displays in Marketo Engage using set how your web campaign displays. Use this guide to complete your next step.
 title: Set How Your Web Campaign Displays
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/HIEbtOzKJ0bSHfPY6W-LHBI-HStuLGqx7RFGqyWA8Co
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Set How Your Web Campaign Displays {#set-how-your-web-campaign-displays}
 

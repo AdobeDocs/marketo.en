@@ -1,9 +1,16 @@
 ---
 unique-page-id: 7511518
-description: "Learn about push notifications in Marketo. Understand Admin and developer setup, then create, configure, and send via smart campaigns."
+description: Learn about push notifications in Marketo. Understand Admin and developer setup, then create, configure, and send via smart campaigns.
 title: Understanding Push Notifications
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/PmrSIaAhfPFh0bkVdGMSKWSi9gys7z1LhLZCfpewrT4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Understanding Push Notifications {#understanding-push-notifications}
 

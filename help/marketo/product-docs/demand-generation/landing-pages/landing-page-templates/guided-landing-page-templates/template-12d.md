@@ -1,9 +1,16 @@
 ---
 unique-page-id: 9437583
-description: "Learn about the Template 12D guided landing page template. Download and use it for your Marketo landing pages."
+description: Learn about the Template 12D guided landing page template. Download and use it for your Marketo landing pages.
 title: Template 12D
 exl-id: 5aae050c-2b88-4a4e-9d98-f23e9314adf7
 feature: Landing Pages, Guided Landing Page Templates
+TQID: https://experienceleague.adobe.com/Gp5pXfwqpP-hGrj9DJ6kWWhsJxwcy1iaPcsZMt8Su-Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Template 12D {#template-12d}
 

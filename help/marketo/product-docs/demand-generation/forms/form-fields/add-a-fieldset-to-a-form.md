@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359594
-description: "Learn how to add a fieldset to a Marketo form. Group related fields together with a heading for better layout."
+description: Learn how to add a fieldset to a Marketo form. Group related fields together with a heading for better layout.
 title: Add a FieldSet to a Form
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
+TQID: https://experienceleague.adobe.com/roCUm7V5CeTZqvUOSXm45TjsQtZQCf8quVhjWjRZyO4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
 ---
 # Add a FieldSet to a Form {#add-a-fieldset-to-a-form}
 

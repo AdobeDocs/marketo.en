@@ -1,8 +1,15 @@
 ---
-description: "Learn how to change program member data in a flow step. Update member status or custom fields for people in a program."
+description: Learn how to change program member data in a flow step. Update member status or custom fields for people in a program.
 title: Change Program Member Data
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/LpbN-6AJjEgVjfWKC8FlW5cfhJVtraT7n4bhIBAjhDY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Change Program Member Data {#change-program-member-data}
 

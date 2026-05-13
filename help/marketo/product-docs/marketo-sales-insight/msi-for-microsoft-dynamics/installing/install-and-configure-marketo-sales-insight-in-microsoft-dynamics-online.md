@@ -1,9 +1,21 @@
 ---
 unique-page-id: 37355602
-description: "Learn how to install and configure Marketo Sales Insight in Microsoft Dynamics Online. Set up the solution for Dynamics Online."
+description: Learn how to install and configure Marketo Sales Insight in Microsoft Dynamics Online. Set up the solution for Dynamics Online.
 title: Install and Configure Marketo Sales Insight in Microsoft Dynamics Online
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/ILDX3tNq-X0E6jVl5NY8EHw5lGwFEcgXh5yz4Q7zfhs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Install and Configure [!DNL Marketo Sales Insight] in [!DNL Microsoft Dynamics Online] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147060
-description: "Learn how to cancel a scheduled recurring batch campaign run. Stop a recurring schedule so it no longer runs."
+description: Learn how to cancel a scheduled recurring batch campaign run. Stop a recurring schedule so it no longer runs.
 title: Cancel a Scheduled Recurring Batch Campaign Run
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/s7ZjKc-TQiXrScg1UAcJTN9nlRUY9Y1rngNBTflvn8s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Cancel a Scheduled Recurring Batch Campaign Run {#cancel-a-scheduled-recurring-batch-campaign-run}
 

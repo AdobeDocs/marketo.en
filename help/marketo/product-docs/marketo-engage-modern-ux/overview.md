@@ -1,8 +1,15 @@
 ---
-description: "Learn about the Marketo Engage Modern UX and its updated interface with enhanced usability and a new look and feel."
+description: Learn about the Marketo Engage Modern UX and its updated interface with enhanced usability and a new look and feel.
 title: Marketo Engage Modern UX Overview
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
+TQID: https://experienceleague.adobe.com/bCsjdL4mWM7Y0TZobdV71U5VzErOJWhJAYeDlw-NZU0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 ---
 # Marketo Engage Modern UX Overview {#overview}
 

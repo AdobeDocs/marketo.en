@@ -1,9 +1,21 @@
 ---
 unique-page-id: 10099798
-description: "Learn how to filter Email Insights data by audience, content, platform, device type, and date ranges. Apply multiple filters to drill down into specific metrics and compare performance."
+description: Learn how to filter Email Insights data by audience, content, platform, device type, and date ranges. Apply multiple filters to drill down into specific metrics and compare performance.
 title: Filtering in Email Insights
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
+TQID: https://experienceleague.adobe.com/4JFsk4N7rkyvVlBwErPXV2cb2kUIjTEq3bv6P6eMRK0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Filtering in [!UICONTROL Email Insights] {#filtering-in-email-insights}
 

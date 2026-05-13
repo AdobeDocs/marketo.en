@@ -1,9 +1,18 @@
 ---
 unique-page-id: 2951167
-description: "Learn how to view email program results and performance. Access opens, clicks, bounces, and other metrics for your program."
+description: Learn how to view email program results and performance. Access opens, clicks, bounces, and other metrics for your program.
 title: View Email Program Results
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
+TQID: https://experienceleague.adobe.com/HfnjaDH6LCNw89OIs-vAtx7lKaVIaxiTJMvgjPm3IGc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # View Email Program Results {#view-email-program-results}
 

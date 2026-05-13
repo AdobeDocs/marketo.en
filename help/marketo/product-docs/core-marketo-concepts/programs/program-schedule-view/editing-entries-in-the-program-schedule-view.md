@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147136
-description: "Learn how to edit entries in the Program Schedule View. Change dates, names, and details of scheduled items."
+description: Learn how to edit entries in the Program Schedule View. Change dates, names, and details of scheduled items.
 title: Editing Entries in the Program Schedule View
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
+TQID: https://experienceleague.adobe.com/RAXx0COw9TQF8cPRaapIgoj9eXaidec7UtYxP9P268k
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Editing Entries in the Program Schedule View {#editing-entries-in-the-program-schedule-view}
 

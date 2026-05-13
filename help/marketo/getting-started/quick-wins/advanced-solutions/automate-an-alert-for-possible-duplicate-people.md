@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7513680
-description: "Automate an Alert for Possible Duplicate People - Marketo Docs - Product Documentation"
+description: Automate an Alert for Possible Duplicate People - Marketo Docs - Product Documentation
 title: Automate an Alert for Possible Duplicate People
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
+TQID: https://experienceleague.adobe.com/KfVFpkEwzpT-mt8iAEzjD5vRPOs-nsBAefttaHK6kpI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Automate an Alert for Possible Duplicate People {#automate-an-alert-for-possible-duplicate-people}
 

@@ -1,9 +1,13 @@
 ---
 unique-page-id: 1900552
-description: "Learn how to download an email's HTML. Export the HTML source for use outside Marketo or for backup."
+description: Learn how to download an email's HTML. Export the HTML source for use outside Marketo or for backup.
 title: Download an Email's HTML
 exl-id: e749c520-6ae6-4460-89b7-6de3b39ef2c7
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/N7WTqKr4DGzqaMZXSp7HMdMLfKMEQt-Rg-bVH8THbLQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Download an Email's HTML {#download-an-emails-html}
 

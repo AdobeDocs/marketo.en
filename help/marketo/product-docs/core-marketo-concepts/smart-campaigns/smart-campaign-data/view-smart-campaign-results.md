@@ -1,9 +1,19 @@
 ---
 unique-page-id: 1146968
-description: "Learn how to view Smart Campaign results. See who qualified, ran through the flow, and what actions were taken."
+description: Learn how to view Smart Campaign results. See who qualified, ran through the flow, and what actions were taken.
 title: View Smart Campaign Results
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/5yRRPiKZAZ1ip1BsoOi2JG9jzQfRKW1T8vCKix7wKnw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart Lists
 ---
 # View Smart Campaign Results {#view-smart-campaign-results}
 

@@ -1,8 +1,17 @@
 ---
-description: "Learn how to set up Sales Insight Actions as an admin. Configure Marketo connection, data sync, and invite users."
+description: Learn how to set up Sales Insight Actions as an admin. Configure Marketo connection, data sync, and invite users.
 title: Sales Insight Actions Admin Setup Guide
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/OSNakPU4zEu-ORacv80glsvfhIeC-XfwtAcvuE3Iacw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Sales Insight Actions Admin Setup Guide {#sales-insight-actions-admin-setup-guide}
 

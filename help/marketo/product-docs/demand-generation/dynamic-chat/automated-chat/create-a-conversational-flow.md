@@ -1,8 +1,17 @@
 ---
-description: "Learn how to create a new Conversational Flow in Dynamic Chat. Choose a template, set name and language, then create a stream for the flow."
+description: Learn how to create a new Conversational Flow in Dynamic Chat. Choose a template, set name and language, then create a stream for the flow.
 title: Create a Conversational Flow
 feature: Dynamic Chat
 exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
+TQID: https://experienceleague.adobe.com/yA-mKEwDE9H1VIxR7RGXsYxS8YRHgkjXlYXUwLxOqYk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Create a Conversational Flow {#create-a-conversational-flow}
 

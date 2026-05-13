@@ -1,9 +1,27 @@
 ---
 unique-page-id: 4720125
-description: "Learn how to integrate rtp with google universal analytics in Marketo Engage using integrate rtp with dnl google. Use this guide to complete your next step."
+description: Learn how to integrate rtp with google universal analytics in Marketo Engage using integrate rtp with dnl google. Use this guide to complete your next step.
 title: Integrate RTP with Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/ozCazXzX-TzsUx61u7c30v2p-Z4k1b-kQbEsw9HvgPo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Integrate RTP with [!DNL Google Universal Analytics] {#integrate-rtp-with-google-universal-analytics}
 

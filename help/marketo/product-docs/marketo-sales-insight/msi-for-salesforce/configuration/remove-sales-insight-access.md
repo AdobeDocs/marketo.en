@@ -1,8 +1,18 @@
 ---
-description: "Learn how to remove Sales Insight access from users or profiles in Salesforce. Revoke access when users no longer need MSI."
+description: Learn how to remove Sales Insight access from users or profiles in Salesforce. Revoke access when users no longer need MSI.
 title: Remove Sales Insight Access
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/KkpOo6sg-kURyX5ncltrYry0JdLWYMzj-CzDP7F-Zp8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Remove [!DNL Sales Insight] Access {#remove-sales-insight-access}
 

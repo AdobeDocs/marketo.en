@@ -1,8 +1,18 @@
 ---
-description: "Learn how to add a webinar team in Interactive Webinars. Assign team members to help create, manage, or deliver webinars."
+description: Learn how to add a webinar team in Interactive Webinars. Assign team members to help create, manage, or deliver webinars.
 title: Add a Webinar Team
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
+TQID: https://experienceleague.adobe.com/7BngiRMzOdPMZSQkgDOY07ggRv-3zLzOKYJDlMjGAg0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+subfeature_v2:
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 ---
 # Add a Webinar Team {#add-a-webinar-team}
 

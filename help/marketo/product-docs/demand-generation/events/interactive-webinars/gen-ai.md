@@ -1,8 +1,12 @@
 ---
-description: "Learn about GenAI features in Interactive Webinars. Use AI to enhance webinar content, summaries, or engagement."
+description: Learn about GenAI features in Interactive Webinars. Use AI to enhance webinar content, summaries, or engagement.
 title: GenAI features
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
+TQID: https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # GenAI features {#gen-ai-features}
 

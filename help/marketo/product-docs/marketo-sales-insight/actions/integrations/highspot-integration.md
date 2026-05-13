@@ -1,8 +1,17 @@
 ---
-description: "Learn about the Highspot integration with Sales Insight Actions. Use Highspot content in sales emails and track engagement."
+description: Learn about the Highspot integration with Sales Insight Actions. Use Highspot content in sales emails and track engagement.
 title: Highspot Integration
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/SMFTyAUudxHzxiE2q4IzlqYtbwzUSn77ncsM7WMIAfg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Highspot Integration {#highspot-integration}
 

@@ -1,8 +1,31 @@
 ---
-description: "Release Notes - January 2024 - Marketo Docs - Product Documentation"
+description: Release Notes - January 2024 - Marketo Docs - Product Documentation
 title: Release Notes - January 2024
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
+TQID: https://experienceleague.adobe.com/H-fad0HtKRnUzLN8mBkX-i7iUboD-RqMY8-AM5z-Bz8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: cbccec41-b38b-4693-8acf-fed684dd06ba
+    internal-label: Sales Insight
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Release Notes: January 2024 {#release-notes-jan-24}
 

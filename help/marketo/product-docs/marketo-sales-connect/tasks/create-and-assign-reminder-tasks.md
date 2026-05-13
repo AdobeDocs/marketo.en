@@ -1,8 +1,12 @@
 ---
-description: "Learn how to create and assign reminder tasks in Sales Connect. Set follow-up tasks for yourself or team members."
+description: Learn how to create and assign reminder tasks in Sales Connect. Set follow-up tasks for yourself or team members.
 title: Create and Assign Reminder Tasks
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/VrxKfa2gNANSUxw5nfENMSJpqgwgWx6AdUcWiuNeEjs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Create and Assign Reminder Tasks {#create-and-assign-reminder-tasks}
 

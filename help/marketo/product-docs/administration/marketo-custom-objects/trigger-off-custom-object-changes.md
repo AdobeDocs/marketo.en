@@ -1,9 +1,21 @@
 ---
 unique-page-id: 11378713
-description: "How to use custom object add or change triggers in a smart campaign smart list for Marketo custom objects, with steps to add the trigger and set constraints."
+description: How to use custom object add or change triggers in a smart campaign smart list for Marketo custom objects, with steps to add the trigger and set constraints.
 title: Trigger Off Custom Object Changes
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
+TQID: https://experienceleague.adobe.com/KjZuM-gPLIFa1umPF4pzN2OTak51i9I5TUcC7SacmZ8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Trigger Off Custom Object Changes {#trigger-off-custom-object-changes}
 

@@ -1,8 +1,18 @@
 ---
-description: "Learn how to add bulk action buttons to list views in Salesforce Classic. Add Send Sales Email and Add to Sales Campaign buttons."
+description: Learn how to add bulk action buttons to list views in Salesforce Classic. Add Send Sales Email and Add to Sales Campaign buttons.
 title: Add Bulk Action Buttons to Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/V678Fl7lDnyqm8Wbrct-F6boGtjFlNO9VY1o9TrDE5w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Add Bulk Action Buttons to [!DNL Salesforce] Classic{#add-bulk-action-buttons-to-salesforce-classic}
 

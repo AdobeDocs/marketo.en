@@ -1,9 +1,23 @@
 ---
 unique-page-id: 2949874
-description: "Learn how to create an event with GotoWebinar in Marketo. Configure the integration and sync webinar registration with Marketo."
-title: "Create an Event with [!DNL GotoWebinar]"
+description: Learn how to create an event with GotoWebinar in Marketo. Configure the integration and sync webinar registration with Marketo.
+title: Create an Event with [!DNL GotoWebinar]
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
+TQID: https://experienceleague.adobe.com/cHkEawyFkPdyns0aeVTSbHoUGLF8zs-v6ClkXXOyW98
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Create an Event with [!DNL GotoWebinar] {#create-an-event-with-gotowebinar}
 

@@ -1,9 +1,21 @@
 ---
 unique-page-id: 10099680
-description: "Steps to import custom object data using a CSV file, including selecting the custom object, dedupe mode, and field mapping."
+description: Steps to import custom object data using a CSV file, including selecting the custom object, dedupe mode, and field mapping.
 title: Import Custom Object Data
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 feature: Custom Objects
+TQID: https://experienceleague.adobe.com/eWVHHONaYWOgc8s6AuB-PpEr-m3G5ixHwf5IondqZKE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Import Custom Object Data {#import-custom-object-data}
 

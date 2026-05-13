@@ -1,9 +1,19 @@
 ---
 unique-page-id: 37356893
-description: "Learn about Marketo Sales Insight features in Salesforce. View lead scoring, activities, email, and campaign actions in the panel."
+description: Learn about Marketo Sales Insight features in Salesforce. View lead scoring, activities, email, and campaign actions in the panel.
 title: MSI Feature Overview
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # MSI Feature Overview {#msi-feature-overview}
 

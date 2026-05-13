@@ -1,9 +1,13 @@
 ---
 unique-page-id: 45416566
-description: "Learn about two-party consent settings for Sales Connect call recording. Comply with state laws that require consent to record."
+description: Learn about two-party consent settings for Sales Connect call recording. Comply with state laws that require consent to record.
 title: Two-Party Consent Settings
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/P-X0nE0gNNWSwQj-tErRy9mMKsOBhqB3J0N3268MncI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Two-Party Consent Settings {#two-party-consent-settings}
 

@@ -1,9 +1,13 @@
 ---
 unique-page-id: 10617440
-description: "Learn how to approve your in-app message to launch it. Pause, resume, or stop the program and monitor performance with the In-App Dashboard."
+description: Learn how to approve your in-app message to launch it. Pause, resume, or stop the program and monitor performance with the In-App Dashboard.
 title: Approve Your In-App Message
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/MODdLWOZwhG8ojcd1sZQdP9v-c9Jo8lKVngIvzJ4ZXs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Approve Your In-App Message {#approve-your-in-app-message}
 

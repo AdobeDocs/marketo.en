@@ -1,8 +1,12 @@
 ---
-description: "Learn about call reasons in Sales Insight Actions. Set a reason when making a call so it is logged in Marketo and Salesforce."
+description: Learn about call reasons in Sales Insight Actions. Set a reason when making a call so it is logged in Marketo and Salesforce.
 title: Call Reasons
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/EYf6JhfnBf-Xk6JeRQs4ojd-F-H3C4iT8DbgFfuyrSk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Call Reasons {#call-reasons}
 

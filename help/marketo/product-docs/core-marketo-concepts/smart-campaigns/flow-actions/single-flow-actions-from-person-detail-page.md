@@ -1,10 +1,18 @@
 ---
-description: "Learn how to run a single flow action from the person detail page. Execute one flow step for a person on demand."
+description: Learn how to run a single flow action from the person detail page. Execute one flow step for a person on demand.
 title: Single Flow Actions from Person Detail Page
 hide: true
-
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/qhmH0wkDe82aC0sU-wpHNl7kZOQFEYz0JH1dpeIHwVU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Single Flow Actions from Person Detail Page {#single-flow-actions-from-person-detail-page}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 14352541
-description: "Learn how to sync Sales Connect tasks with Salesforce for the first time. Set up task sync so tasks appear in Salesforce."
+description: Learn how to sync Sales Connect tasks with Salesforce for the first time. Set up task sync so tasks appear in Salesforce.
 title: Syncing Sales Connect Tasks with Salesforce for the First Time
 exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/5anDeeHVD0mkZLIac5rTb4vW7iiiOBHDBgQKUf5lv4Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Syncing [!DNL Sales Connect] Tasks with [!DNL Salesforce] for the First Time {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 

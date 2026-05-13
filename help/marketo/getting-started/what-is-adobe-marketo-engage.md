@@ -1,9 +1,20 @@
 ---
 unique-page-id: 2949467
-description: "What is Adobe Marketo Engage? - Marketo Docs - Product Documentation"
-title: "What is Adobe Marketo Engage?"
+description: What is Adobe Marketo Engage? - Marketo Docs - Product Documentation
+title: What is Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
+TQID: https://experienceleague.adobe.com/zc1UYz8yZ8vfMcIWzXfHcBv6qYrrjqO-ryTxqDDdtno
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # What is Adobe Marketo Engage? {#what-is-adobe-marketo-engage}
 

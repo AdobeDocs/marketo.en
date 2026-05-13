@@ -1,9 +1,13 @@
 ---
 unique-page-id: 1147340
-description: "Learn how to send emails from the lead owner address. Use the Send from Lead Owner option so emails show the correct sender."
+description: Learn how to send emails from the lead owner address. Use the Send from Lead Owner option so emails show the correct sender.
 title: Send Emails from the Lead Owner
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/iOBonqrup6ZV9QGhW-i1FpabLVBOKrNxz4xqThcexZ8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Send Emails from the Lead Owner {#send-emails-from-the-lead-owner}
 

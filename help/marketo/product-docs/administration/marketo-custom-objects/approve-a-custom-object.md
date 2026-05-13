@@ -1,9 +1,19 @@
 ---
 unique-page-id: 10094188
-description: "How to approve new or edited custom objects in Admin, including requirements for one-to-many, many-to-many, and intermediary objects."
+description: How to approve new or edited custom objects in Admin, including requirements for one-to-many, many-to-many, and intermediary objects.
 title: Approve a Custom Object
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
+TQID: https://experienceleague.adobe.com/CH2VbeVfaADWe4rVfRwgM3nrKXw85eMYbgCa99gTPFY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Approve a Custom Object {#approve-a-custom-object}
 

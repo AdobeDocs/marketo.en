@@ -1,8 +1,20 @@
 ---
-description: "Learn how to prevent self-views from counting in email tracking. Avoid inflating open stats when you view your own emails."
+description: Learn how to prevent self-views from counting in email tracking. Avoid inflating open stats when you view your own emails.
 title: How Do I Prevent Self Views
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/6AN3CB0CoDTRPBerpKPzg94dpsvbsk5-r-DRhdePvMo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # How Do I Prevent Self Views? {#how-do-i-prevent-self-views}
 

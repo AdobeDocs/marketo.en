@@ -1,10 +1,16 @@
 ---
-description: "Learn how to manage template categories in Sales Insight Actions. Organize templates into categories and control sharing."
+description: Learn how to manage template categories in Sales Insight Actions. Organize templates into categories and control sharing.
 title: Manage Template Categories
 hide: true
-
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/Hu6XQnkSnJWhcwyT6D0AobS8hIRzC0JO7kYyrI7GFsg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Manage Template Categories {#manage-template-categories}
 

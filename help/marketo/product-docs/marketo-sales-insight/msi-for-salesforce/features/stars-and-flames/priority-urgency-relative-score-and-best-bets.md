@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2950396
-description: "Learn about priority, urgency, relative score, and Best Bets in Marketo Sales Insight. Understand lead scoring in the MSI panel."
+description: Learn about priority, urgency, relative score, and Best Bets in Marketo Sales Insight. Understand lead scoring in the MSI panel.
 title: Priority, Urgency, Relative Score, and Best Bets
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/-hp0FOXQxZCdb8iZpyXvKHNaAfpz1bICHsqfCatdrAA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Priority, Urgency, Relative Score, and [!DNL Best Bets] {#priority-urgency-relative-score-and-best-bets}
 

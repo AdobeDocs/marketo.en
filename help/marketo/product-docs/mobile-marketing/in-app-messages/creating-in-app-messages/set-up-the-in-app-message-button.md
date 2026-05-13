@@ -1,9 +1,13 @@
 ---
 unique-page-id: 10100644
-description: "Learn how to set up the in-app message button. Configure color, shape, custom image, font, and tap actions for Apple and Android."
+description: Learn how to set up the in-app message button. Configure color, shape, custom image, font, and tap actions for Apple and Android.
 title: Set Up the In-App Message Button
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/IWEak1rsLUCoSnX6pwQfknDeUN6stmdsrHAloqwtTXs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Set Up the In-App Message Button {#set-up-the-in-app-message-button}
 

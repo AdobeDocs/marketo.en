@@ -1,9 +1,13 @@
 ---
 unique-page-id: 8783146
-description: "Learn how to add a new test device for push notifications. Use a URL or QR code to connect your device and send test pushes."
+description: Learn how to add a new test device for push notifications. Use a URL or QR code to connect your device and send test pushes.
 title: Adding a New Test Device
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/fdjspcqf5-ZQLGd9-1QwuKdAEG0YXSTjVSQvGMPvp8U
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Adding a New Test Device {#adding-a-new-test-device}
 

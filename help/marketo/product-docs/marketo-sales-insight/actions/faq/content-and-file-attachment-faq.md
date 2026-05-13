@@ -1,8 +1,15 @@
 ---
-description: "Get answers to common questions about content and file attachments in sales emails. Learn size limits, tracking, and best practices."
+description: Get answers to common questions about content and file attachments in sales emails. Learn size limits, tracking, and best practices.
 title: Content and File Attachment FAQ
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/DKhdAtReVxF8YxQD5USDAFCR-ET6hZoq80-oeZ6F5hk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Content and File Attachment FAQ {#content-and-file-attachment-faq}
 

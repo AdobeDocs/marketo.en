@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359549
-description: "Learn how to use the email program dashboard A/B test view. Monitor test variants and performance before declaring a winner."
+description: Learn how to use the email program dashboard A/B test view. Monitor test variants and performance before declaring a winner.
 title: Use the Email Program Dashboard - A/B Test View
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 feature: Email Programs, A/B Testing
+TQID: https://experienceleague.adobe.com/O1NTM6Lrrk0d-2tC-nLCFkFYnKgm3xBr51ZERYSnEx8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Use the Email Program Dashboard - A/B Test View {#use-the-email-program-dashboard-a-b-test-view}
 

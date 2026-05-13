@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2953352
-description: "Learn how to edit entries directly in the Marketing Calendar. Use program focus to reschedule, rename, or change entry details."
+description: Learn how to edit entries directly in the Marketing Calendar. Use program focus to reschedule, rename, or change entry details.
 title: Edit Entries Directly In the Marketing Calendar
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/wwz88ANi0aek4eTmtmbhEmH2ztAeNHLUI0I4orAOSvA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Edit Entries Directly In the Marketing Calendar {#edit-entries-directly-in-the-marketing-calendar}
 

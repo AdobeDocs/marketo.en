@@ -1,9 +1,16 @@
 ---
 unique-page-id: 9437831
-description: "Learn about the Template 15E guided landing page template. Download and use it for your Marketo landing pages."
+description: Learn about the Template 15E guided landing page template. Download and use it for your Marketo landing pages.
 title: Template 15E
 exl-id: 4f0b474d-b347-4ce9-bc6c-0479468cf6e6
 feature: Landing Pages, Guided Landing Page Templates
+TQID: https://experienceleague.adobe.com/kwuBEyNakjebSr-4ix-coJSqnXRiJzIEGp8zJEl7eMM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Template 15E {#template-15e}
 

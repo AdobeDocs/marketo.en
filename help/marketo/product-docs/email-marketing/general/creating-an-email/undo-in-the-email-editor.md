@@ -1,9 +1,13 @@
 ---
 unique-page-id: 1900567
-description: "Learn how to undo changes in the email editor. Revert edits while authoring emails in Marketo."
+description: Learn how to undo changes in the email editor. Revert edits while authoring emails in Marketo.
 title: Undo in the Email Editor
 exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/Qg0yTU0csD8z1EoDlCVfKCDWig82IQOHd5By3mpTrxQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Undo in the Email Editor {#undo-in-the-email-editor}
 

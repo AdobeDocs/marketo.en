@@ -1,9 +1,16 @@
 ---
 unique-page-id: 14352623
-description: "Learn about admin and non-admin user permissions in Sales Connect. Understand what each role can access for templates, campaigns, and people."
+description: Learn about admin and non-admin user permissions in Sales Connect. Understand what each role can access for templates, campaigns, and people.
 title: User Access Details
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/R6ZtthzpNCoE7mMQX3NxjBcrpMBRPCDILsVz5-aGWRY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # User Access Details {#user-access-details}
 

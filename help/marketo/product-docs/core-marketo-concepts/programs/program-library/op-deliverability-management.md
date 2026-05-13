@@ -1,8 +1,19 @@
 ---
-description: "Deliverability Management operational program template. Use it to maintain email deliverability."
+description: Deliverability Management operational program template. Use it to maintain email deliverability.
 title: OP-Deliverability Management
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
+TQID: https://experienceleague.adobe.com/cJTv2uEq6YUEDphACUTypZOrkoLxTU0GRaPo43Igzjw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # OP-Deliverability Management {#op-deliverability-management}
 

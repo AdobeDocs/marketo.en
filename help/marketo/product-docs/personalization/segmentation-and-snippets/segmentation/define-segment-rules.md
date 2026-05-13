@@ -1,9 +1,26 @@
 ---
 unique-page-id: 2359449
-description: "Learn how to define segment rules that categorize people into mutually exclusive groups. Add Smart List filters, preview People (Draft), and approve segments for dynamic content."
+description: Learn how to define segment rules that categorize people into mutually exclusive groups. Add Smart List filters, preview People (Draft), and approve segments for dynamic content.
 title: Define Segment Rules
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
+TQID: https://experienceleague.adobe.com/MUGzaH4Rvuvy7aH9z4TUL8YVSZT163k3xcQ6XwMwY-8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Define Segment Rules {#define-segment-rules}
 

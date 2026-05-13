@@ -1,9 +1,16 @@
 ---
 unique-page-id: 14352594
-description: "Learn how to use HTML in Sales Connect templates. Add custom HTML for formatting, links, or advanced layout in your templates."
+description: Learn how to use HTML in Sales Connect templates. Add custom HTML for formatting, links, or advanced layout in your templates.
 title: Using HTML
 exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/3F8ZGgvuBQ7cpXNpd5rIQROpYSmm-YprqA6Qzrmcbas
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Using HTML {#using-html}
 

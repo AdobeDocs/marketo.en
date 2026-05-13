@@ -1,9 +1,13 @@
 ---
 unique-page-id: 13795734
-description: "Learn how to create a named account hierarchy manually when not using a CRM. Link accounts to a parent Named Account using Group by Hierarchy."
+description: Learn how to create a named account hierarchy manually when not using a CRM. Link accounts to a parent Named Account using Group by Hierarchy.
 title: Create a Hierarchy
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/kjE-3RzO0RBub-PJeySgJzc3mW6QAJ9PmGqMtL6hdjc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Create a Hierarchy {#create-a-hierarchy}
 

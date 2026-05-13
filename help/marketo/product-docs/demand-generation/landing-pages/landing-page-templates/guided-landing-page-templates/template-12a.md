@@ -1,9 +1,16 @@
 ---
 unique-page-id: 9437574
-description: "Learn about the Template 12A guided landing page template. Download and use it for your Marketo landing pages."
+description: Learn about the Template 12A guided landing page template. Download and use it for your Marketo landing pages.
 title: Template 12A
 exl-id: 761d7849-9137-4c6b-b9f2-96d380beb55d
 feature: Landing Pages, Guided Landing Page Templates
+TQID: https://experienceleague.adobe.com/INFeg2RURkbzE7EW1Y2jECQTQ5IPSND62hDJTM7Ks-I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Template 12A {#template-12a}
 

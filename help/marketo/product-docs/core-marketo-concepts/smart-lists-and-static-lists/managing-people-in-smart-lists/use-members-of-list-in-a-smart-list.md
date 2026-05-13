@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2953173
-description: "Learn how to use members of list in a Smart List filter. Include or exclude people who are in another list."
+description: Learn how to use members of list in a Smart List filter. Include or exclude people who are in another list.
 title: Use Members of List in a Smart List
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/jdDSap50wIaNp7YH9Z3vNA2tRFoPugU103HgmmMjFIM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Use Members of List in a Smart List {#use-members-of-list-in-a-smart-list}
 

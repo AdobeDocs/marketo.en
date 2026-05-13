@@ -1,9 +1,13 @@
 ---
 unique-page-id: 10092730
-description: "Learn how to preview a push notification on Android and iOS. See how it looks on Home screen, Lock screen, and Notification Center."
+description: Learn how to preview a push notification on Android and iOS. See how it looks on Home screen, Lock screen, and Notification Center.
 title: Preview a Push Notification
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/NhCFj8K9wVU4-fDLt8s3vYsccElm2NcHQ9VV19cD5lU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Preview a Push Notification {#preview-a-push-notification}
 

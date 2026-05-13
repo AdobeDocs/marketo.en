@@ -1,8 +1,12 @@
 ---
-description: "Learn how to configure two-party consent settings for call recording. Comply with state and local recording laws."
+description: Learn how to configure two-party consent settings for call recording. Comply with state and local recording laws.
 title: Two-Party Consent Settings
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/2KKg-cF-O7M5XAexsGVewdSbddMuCjFD3EwwSoZgfQ4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Two-Party Consent Settings {#two-party-consent-settings}
 

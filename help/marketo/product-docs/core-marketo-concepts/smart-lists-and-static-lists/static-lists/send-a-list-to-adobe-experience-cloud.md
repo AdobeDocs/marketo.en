@@ -1,9 +1,23 @@
 ---
 unique-page-id: 37356194
-description: "Learn how to send a list to Adobe Experience Cloud. Share Marketo list membership with Experience Platform or other solutions."
+description: Learn how to send a list to Adobe Experience Cloud. Share Marketo list membership with Experience Platform or other solutions.
 title: Send a List to Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
+TQID: https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Send a List to Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 

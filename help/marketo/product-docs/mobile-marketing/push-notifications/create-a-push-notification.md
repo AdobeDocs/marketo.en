@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7512451
-description: "Learn how to create a push notification. Add it as a local asset in your program, then configure and dress it up for your mobile app."
+description: Learn how to create a push notification. Add it as a local asset in your program, then configure and dress it up for your mobile app.
 title: Create a Push Notification
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/Q2fGYZz-h2s9aMb0rCbwk-PeQkRlnoKrkFid2JWzZQQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Create a Push Notification {#create-a-push-notification}
 

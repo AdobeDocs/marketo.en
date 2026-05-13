@@ -1,9 +1,18 @@
 ---
 unique-page-id: 7512448
-description: "Learn how to send SDK code to your developer. Use Mobile App Actions to email the code snippet for Android and iOS setup."
+description: Learn how to send SDK code to your developer. Use Mobile App Actions to email the code snippet for Android and iOS setup.
 title: Send SDK Code to a Developer
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/6jda4bPfCg8Be2N-RNSTVdqxdPRPlhnG9m97te4e-tE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 ---
 # Send SDK Code to a Developer {#send-sdk-code-to-a-developer}
 

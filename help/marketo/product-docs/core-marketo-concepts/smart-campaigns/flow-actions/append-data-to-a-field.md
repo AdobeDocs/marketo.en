@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147042
-description: "Learn how to append data to a field in a flow step. Add text to existing field values without overwriting."
+description: Learn how to append data to a field in a flow step. Add text to existing field values without overwriting.
 title: Append Data to a Field
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/DPFWuo4qBBJtUljEpxldxx8lO00f23uT-9mwCJKAEUM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Append Data to a Field {#append-data-to-a-field}
 

@@ -1,8 +1,12 @@
 ---
-description: "Learn how to manage groups of contacts in Sales Insight Actions. Create, edit, share, and use groups for email and campaigns."
+description: Learn how to manage groups of contacts in Sales Insight Actions. Create, edit, share, and use groups for email and campaigns.
 title: Manage Groups
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/yN7o-BB4oNeM-x78M5-CH3WDctyqoO-mlZriZGGRn8A
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Manage Groups {#manage-groups}
 

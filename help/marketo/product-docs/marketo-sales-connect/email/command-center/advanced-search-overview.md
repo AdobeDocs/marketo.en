@@ -1,9 +1,13 @@
 ---
 unique-page-id: 37356329
-description: "Learn about advanced search in Sales Connect Command Center. Find emails and tasks by recipient, date, campaign, or other filters."
+description: Learn about advanced search in Sales Connect Command Center. Find emails and tasks by recipient, date, campaign, or other filters.
 title: Advanced Search Overview
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/iKvWJgc64doQj-GwRYdlnXU16VPU0qm7aQOp8Iovh4s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Advanced Search Overview {#advanced-search-overview}
 

@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352450
-description: "Learn how to install the Sales Connect email plugin for Gmail. Add the plugin to send tracked emails and use templates from Gmail."
+description: Learn how to install the Sales Connect email plugin for Gmail. Add the plugin to send tracked emails and use templates from Gmail.
 title: Install the Sales Connect Email Plugin for Gmail
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/SI1ifAgwgUHjFM-Rj1ZHRLcoLCtwqX6AOGxh0RHX47I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Install the Sales Connect Email Plugin for Gmail {#install-the-sales-connect-email-plugin-for-gmail}
 

@@ -1,9 +1,13 @@
 ---
 unique-page-id: 11372054
-description: "Learn how to edit the text version of an email. Update the plain-text version for accessibility and fallback display."
+description: Learn how to edit the text version of an email. Update the plain-text version for accessibility and fallback display.
 title: Edit the Text Version of an Email
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/3hRHFPJqwgRs0DOTzySUemMa9-r9lhW2cmf1YlqpIgY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Edit the Text Version of an Email {#edit-the-text-version-of-an-email}
 

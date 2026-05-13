@@ -1,9 +1,21 @@
 ---
 unique-page-id: 11378814
-description: "Learn about Account Lists and how they group named accounts for targeting. Create static lists or dynamic lists from CRM Account Views."
+description: Learn about Account Lists and how they group named accounts for targeting. Create static lists or dynamic lists from CRM Account Views.
 title: "[!UICONTROL Account Lists]"
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/fNIkaF84ELk9RJAxA9PK9rFlaEkNwia9sbgqsHOBOMI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!UICONTROL Account Lists] {#account-lists}
 

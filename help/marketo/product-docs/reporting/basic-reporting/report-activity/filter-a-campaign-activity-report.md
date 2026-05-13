@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2360184
-description: "Learn how to filter a campaign activity report in Marketo Engage using filter a campaign activity report. Use this guide to complete your next step."
+description: Learn how to filter a campaign activity report in Marketo Engage using filter a campaign activity report. Use this guide to complete your next step.
 title: Filter a Campaign Activity Report
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
+TQID: https://experienceleague.adobe.com/lYLpshvFSgifPPImS2E0rEpO0NnQ7dkU-bVbZ0At1TQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Filter a Campaign Activity Report {#filter-a-campaign-activity-report}
 

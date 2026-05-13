@@ -1,8 +1,32 @@
 ---
 unique-page-id: 11380218
-description: "Release Notes -Summer '16 - Marketo Docs - Product Documentation"
+description: Release Notes -Summer '16 - Marketo Docs - Product Documentation
 title: Release Notes -Summer '16
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
+TQID: https://experienceleague.adobe.com/8CDFBAF3ww-2MEGQ4ypWIZclmfCj6ncATdebtubOUk4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Release Notes: Summer '16 {#release-notes-summer}
 

@@ -1,9 +1,21 @@
 ---
 unique-page-id: 14352540
-description: "Learn how to prevent self views in Sales Connect. Avoid counting your own opens when you preview or test emails."
+description: Learn how to prevent self views in Sales Connect. Avoid counting your own opens when you preview or test emails.
 title: Preventing Self Views
 exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/UF-7Po7qajqMUjhP0LXWSxDqgqQyauDMLqDACzyWHVc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Preventing Self Views {#preventing-self-views}
 

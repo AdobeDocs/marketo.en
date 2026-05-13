@@ -1,8 +1,18 @@
 ---
-description: "Learn about Dynamic Chat chatbot behavior across dialogues, priorities, and visitors. Use this reference to understand how the chatbot behaves in different scenarios."
+description: Learn about Dynamic Chat chatbot behavior across dialogues, priorities, and visitors. Use this reference to understand how the chatbot behaves in different scenarios.
 title: Chatbot Behavior
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
+TQID: https://experienceleague.adobe.com/chj5dD8Nrim8XWAnetHEOZbhi8y-q2bivL52y771tdc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Chatbot Behavior {#chatbot-behavior}
 

@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2359918
-description: "How to edit domain name, fallback page, form prefill, and other landing page options."
+description: How to edit domain name, fallback page, form prefill, and other landing page options.
 title: Edit Landing Page Settings
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
+TQID: https://experienceleague.adobe.com/dOvxpv09JPPBMNjqA0JTe-L4wIWUtkEELLl-PCs4CME
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Edit Landing Page Settings {#edit-landing-page-settings}
 

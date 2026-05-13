@@ -1,9 +1,20 @@
 ---
-description: "Learn about expected behavior for Predictive Audiences in Marketo Sky. Understand data privacy, activation timing, and filter limits."
+description: Learn about expected behavior for Predictive Audiences in Marketo Sky. Understand data privacy, activation timing, and filter limits.
 title: Expected Behavior
 hide: true
-
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
+TQID: https://experienceleague.adobe.com/MtbP3re-wJJg-x1NJsdmXFLSEY8IdIMuloYhSRGploQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Expected Behavior {#expected-behavior}
 

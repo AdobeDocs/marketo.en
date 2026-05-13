@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147036
-description: "Learn how to remove people from a Salesforce campaign with a flow step. Remove members from the SFDC campaign in the flow."
+description: Learn how to remove people from a Salesforce campaign with a flow step. Remove members from the SFDC campaign in the flow.
 title: Remove from SFDC Campaign
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
+TQID: https://experienceleague.adobe.com/9KJw9YITNMzWVH-x--1xqcm0dXah-IVpujE9ZC5T6CY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Remove from SFDC Campaign {#remove-from-sfdc-campaign}
 

@@ -1,8 +1,15 @@
 ---
-description: "Learn about Sales Insight Actions activity types and terms. Use the glossary to understand activities that sync to Marketo and Salesforce."
+description: Learn about Sales Insight Actions activity types and terms. Use the glossary to understand activities that sync to Marketo and Salesforce.
 title: Sales Insight Actions Activity Glossary
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/9Nc4yNxQWVptT5g1kszd7Q59AhT-eurDt4-gVRWT3qs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # [!DNL Sales Insight Actions] Activity Glossary {#sales-insight-actions-activity-glossary}
 

@@ -1,8 +1,12 @@
 ---
-description: "Learn how to use global search in Marketo Engage to find assets across your entire instance. Perform searches, click breadcrumbs to jump to items, and use filters to narrow results."
+description: Learn how to use global search in Marketo Engage to find assets across your entire instance. Perform searches, click breadcrumbs to jump to items, and use filters to narrow results.
 title: Using the Global Search
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
+TQID: https://experienceleague.adobe.com/fPEv2wEzmfKQEAvmvxUiTAUCcArfbkwAHNioHHPMamU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Using the Global Search {#using-the-global-search}
 

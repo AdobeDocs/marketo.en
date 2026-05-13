@@ -1,9 +1,18 @@
 ---
 unique-page-id: 11382829
-description: "Learn how IT can uninstall the Marketo Outlook plugin. Remove the add-in from user machines when needed."
+description: Learn how IT can uninstall the Marketo Outlook plugin. Remove the add-in from user machines when needed.
 title: Marketo [!DNL Outlook] Plugin Uninstall by IT
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/p2CjKHycrJRHLpphyn2qsUEKP-dWh2OlTezwrOn9Ljw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Marketo [!DNL Outlook] Plugin Uninstall by IT {#marketo-outlook-plugin-uninstall-by-it}
 

@@ -1,8 +1,18 @@
 ---
-description: "Learn about user and license management for Interactive Webinars. Assign access and manage who can create or deliver webinars."
+description: Learn about user and license management for Interactive Webinars. Assign access and manage who can create or deliver webinars.
 title: User and License Management
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
+TQID: https://experienceleague.adobe.com/H5DYW3goJ2P8NiTehqYJiavEl7psxkOOFz29eHPsSpE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+subfeature_v2:
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 ---
 # User and License Management {#user-and-license-management}
 

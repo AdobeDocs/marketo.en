@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359604
-description: "Learn how to resize label and field width in a Marketo form. Adjust the width of labels and input areas."
+description: Learn how to resize label and field width in a Marketo form. Adjust the width of labels and input areas.
 title: Resize Label/Field Width in a Form
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
+TQID: https://experienceleague.adobe.com/wILJ5dOvIYm6swmE5JgWFCPaMWL6mtP--iKKbh6O-S8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
 ---
 # Resize Label/Field Width in a Form {#resize-label-field-width-in-a-form}
 

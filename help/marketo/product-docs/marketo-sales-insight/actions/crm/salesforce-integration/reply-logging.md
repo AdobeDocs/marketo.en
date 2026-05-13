@@ -1,10 +1,13 @@
 ---
-description: "Learn about reply logging so prospect replies are logged to Salesforce. Enable Log Replies when API logging is on and reply tracking is available."
+description: Learn about reply logging so prospect replies are logged to Salesforce. Enable Log Replies when API logging is on and reply tracking is available.
 title: Reply Logging
 hide: true
-
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/Jar0L3yAreXg7V0yVY-fbX2kH-RFklO1jyVEBsindBI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Reply Logging {#reply-logging}
 

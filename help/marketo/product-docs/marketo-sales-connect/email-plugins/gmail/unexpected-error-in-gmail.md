@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352545
-description: "Get help when you see an unexpected error in the Sales Connect Gmail plugin. Troubleshoot connection and plugin errors."
+description: Get help when you see an unexpected error in the Sales Connect Gmail plugin. Troubleshoot connection and plugin errors.
 title: Unexpected Error in Gmail
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/dJWrlEZcu0Y7WcKjxnA15QJEkv3p9IYSvhz5Wbhg-Ak
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Unexpected Error in Gmail {#unexpected-error-in-gmail}
 

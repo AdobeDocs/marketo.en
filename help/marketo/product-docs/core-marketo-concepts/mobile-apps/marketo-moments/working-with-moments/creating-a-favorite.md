@@ -1,9 +1,13 @@
 ---
 unique-page-id: 8783555
-description: "Learn how to create a favorite in Marketo Moments. Pin important items for quick access in the mobile app."
+description: Learn how to create a favorite in Marketo Moments. Pin important items for quick access in the mobile app.
 title: Creating a Favorite
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/UnLXdxg-sd0tgf02Ix-E9GfRE22gYulKcpabRJ79CqU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Creating a Favorite {#creating-a-favorite}
 

@@ -1,9 +1,13 @@
 ---
 unique-page-id: 3571830
-description: "Learn how to connect the Marketo solution to Dynamics 365 with Server to Server connection. Enter sync user info in Marketo Admin and validate before enabling sync."
+description: Learn how to connect the Marketo solution to Dynamics 365 with Server to Server connection. Enter sync user info in Marketo Admin and validate before enabling sync.
 title: Step 3 of 3 - Connect the Marketo Solution with Server to Server Connection
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/CtVAFVltlfzpVkB28kTjz7YTIdk-8sMKHKDEp5XQMuY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Step 3 of 3: Connect the Marketo Solution with Server to Server Connection {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 

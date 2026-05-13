@@ -1,9 +1,13 @@
 ---
 unique-page-id: 4719289
-description: "Learn how to enable or disable Salesforce campaign sync in Marketo Engage."
+description: Learn how to enable or disable Salesforce campaign sync in Marketo Engage.
 title: Enable/Disable Campaign Sync
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/c-K2FlSiqt747Qb1CC0arLbfOD5-SdYeFN6zIMVWa1Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Enable/Disable Campaign Sync {#enable-disable-campaign-sync}
 

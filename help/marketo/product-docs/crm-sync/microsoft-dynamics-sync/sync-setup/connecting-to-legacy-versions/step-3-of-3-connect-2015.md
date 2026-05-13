@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7504744
-description: "Learn how to connect Marketo to Dynamics 2015 on-premises in the final step. Enter sync user credentials in Marketo Admin and enable the sync."
+description: Learn how to connect Marketo to Dynamics 2015 on-premises in the final step. Enter sync user credentials in Marketo Admin and enable the sync.
 title: Install Marketo for Microsoft Dynamics 2015 On-Premises Step 3 of 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/yOVhPjsnivOpFEkXYcVLy97Upm3yrBipP6NkSjsAw2Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Step 3 of 3: Connect Marketo [!DNL Dynamics] (2015 On-Prem) {#step-of-connect-marketo-dynamics-on-premises-2015}
 

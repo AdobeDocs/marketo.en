@@ -1,9 +1,21 @@
 ---
 unique-page-id: 1146962
-description: "Learn how to change lead score in a flow step. Add or subtract points from a person score in the campaign."
+description: Learn how to change lead score in a flow step. Add or subtract points from a person score in the campaign.
 title: Change Score
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/-6bmS40IzQJzYuigeNdHqEOLJXUByWrCl3Qg7QxWBes
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Change Score {#change-score}
 

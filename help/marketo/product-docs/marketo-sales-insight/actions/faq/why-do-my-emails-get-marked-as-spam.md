@@ -1,7 +1,17 @@
 ---
-description: "Get help when your sales emails are marked as spam. Learn common causes and how to improve deliverability and sender reputation."
+description: Get help when your sales emails are marked as spam. Learn common causes and how to improve deliverability and sender reputation.
 title: Why Do My Emails Get Marked as Spam?
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
+TQID: https://experienceleague.adobe.com/8DHDyZWQZ5vyTv1iM5arj52XJf9cnS2ZmSKQCzvXLCU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Why Do My Emails Get Marked as Spam? {#why-do-my-emails-get-marked-as-spam}
 

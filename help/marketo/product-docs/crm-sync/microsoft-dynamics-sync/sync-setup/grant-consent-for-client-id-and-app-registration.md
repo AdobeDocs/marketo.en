@@ -1,8 +1,12 @@
 ---
-description: "Learn how to grant consent for the client ID and app registration used for Dynamics sync. Build the authorization URI and grant delegated user permissions for the sync user."
+description: Learn how to grant consent for the client ID and app registration used for Dynamics sync. Build the authorization URI and grant delegated user permissions for the sync user.
 title: Grant Consent for Client Id and App Registration
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/HOqR2iJ4eN5091PyTeOLtCeYkVrj9TMs5MuKK8tEeYo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Grant Consent for Client Id and App Registration {#grant-consent-for-client-id-and-app-registration}
 

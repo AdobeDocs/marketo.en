@@ -1,8 +1,15 @@
 ---
-description: "Learn how to create a team in Sales Insight Actions to share templates, campaigns, and groups."
+description: Learn how to create a team in Sales Insight Actions to share templates, campaigns, and groups.
 title: Creating a Team
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/y6f35evMs8HMMubGKhJs-oeMgtGWujkQSFydWp7t0aU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Creating a Team {#creating-a-team}
 

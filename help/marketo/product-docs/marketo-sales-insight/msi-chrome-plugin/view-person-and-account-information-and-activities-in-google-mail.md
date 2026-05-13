@@ -1,9 +1,16 @@
 ---
 unique-page-id: 10095358
-description: "Learn how to view person and account information and activities in Gmail. Use the Marketo Insights Chrome extension for context in email."
+description: Learn how to view person and account information and activities in Gmail. Use the Marketo Insights Chrome extension for context in email.
 title: View Person and Account Information and Activities in Google Mail
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/VdwGWuUbaN8xEagWhjxEBP6Tt5OYVh94ql7RQuXUcrU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # View Person and Account Information and Activities in Google Mail {#view-person-and-account-information-and-activities-in-google-mail}
 

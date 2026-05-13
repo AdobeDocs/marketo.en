@@ -1,9 +1,23 @@
 ---
 unique-page-id: 10096420
-description: "Learn about Sales Intelligence features that provide valuable information about web visitors and organizations. Track, monitor, and receive alerts on key organizations and accounts by region."
+description: Learn about Sales Intelligence features that provide valuable information about web visitors and organizations. Track, monitor, and receive alerts on key organizations and accounts by region.
 title: Sales Intelligence
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/l7sXEzgBKCl6tMSn-MzFjF5eQ4GPXX-N6jZJq1A-700
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Sales Intelligence {#sales-intelligence}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1146974
-description: "Learn how to edit qualification rules in a Smart Campaign. Change how many times people can run through the campaign."
+description: Learn how to edit qualification rules in a Smart Campaign. Change how many times people can run through the campaign.
 title: Edit Qualification Rules in a Smart Campaign
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/4ECvGFFV51jBniUn7-LG82svSLPwu3VJI2kt5-EmIqc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Edit Qualification Rules in a Smart Campaign {#edit-qualification-rules-in-a-smart-campaign}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2949904
-description: "Learn about landing page test groups in Marketo. Run A/B or multivariate tests to compare landing page performance."
+description: Learn about landing page test groups in Marketo. Run A/B or multivariate tests to compare landing page performance.
 title: Landing Page Test Groups
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/8RZuj0vLcsc5JowokHWY0qI55I-3vd6EkffgnsDNta4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
 ---
 # Landing Page Test Groups {#landing-page-test-groups}
 

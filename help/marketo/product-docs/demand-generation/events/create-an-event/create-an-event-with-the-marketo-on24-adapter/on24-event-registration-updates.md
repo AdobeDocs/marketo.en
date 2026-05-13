@@ -1,9 +1,13 @@
 ---
 unique-page-id: 10096683
-description: "Learn about ON24 event registration updates and how they sync with Marketo. Keep person and program status in sync when registrations change."
+description: Learn about ON24 event registration updates and how they sync with Marketo. Keep person and program status in sync when registrations change.
 title: ON24 Event Registration Updates
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
+TQID: https://experienceleague.adobe.com/2G9BHBIeyQS6ID6nT8rjDbRfx1re3z4tUslY4QEki7Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # ON24 Event Registration Updates {#on-event-registration-updates}
 

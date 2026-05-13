@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147013
-description: "Learn how to change engagement program cadence in a flow step. Adjust how often people receive emails in a stream."
+description: Learn how to change engagement program cadence in a flow step. Adjust how often people receive emails in a stream.
 title: Change Engagement Program Cadence
 exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/nNhVJUelrVSsKcH2oxw2lzWTJINM5JBj1X36KxAoyWI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Change Engagement Program Cadence {#change-engagement-program-cadence}
 

@@ -1,9 +1,13 @@
 ---
 unique-page-id: 17727591
-description: "Learn about email connection for Outlook users in Sales Connect. Connect Outlook to send tracked emails and log to Salesforce."
+description: Learn about email connection for Outlook users in Sales Connect. Connect Outlook to send tracked emails and log to Salesforce.
 title: Email Connection for Outlook Users
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/xS268qisPGnUKV--cpLyVKNjjCRsehNptKj9qhf93ss
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Email Connection for [!DNL Outlook] Users {#email-connection-for-outlook-users}
 

@@ -1,8 +1,17 @@
 ---
-description: "Learn about Dialogues as individual chat conversations in Dynamic Chat. Define where they display, who sees them, and monitor effectiveness in reports."
+description: Learn about Dialogues as individual chat conversations in Dynamic Chat. Define where they display, who sees them, and monitor effectiveness in reports.
 title: Dialogue Overview
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
+TQID: https://experienceleague.adobe.com/rO2ieaHlOARDMHbJq006NUub2UD-FTKQIj5VYXF9NqI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 ---
 # Dialogue Overview {#dialogue-overview}
 

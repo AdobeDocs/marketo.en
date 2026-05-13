@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359669
-description: "Learn how to activate and deactivate stream content for engagement casts."
+description: Learn how to activate and deactivate stream content for engagement casts.
 title: Activate and Deactivate Stream Content
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
+TQID: https://experienceleague.adobe.com/-5qT7OIR29IJib-BobRgtR5ySF4heXLGR-buzjj6pCU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Activate and Deactivate Stream Content {#activate-and-deactivate-stream-content}
 

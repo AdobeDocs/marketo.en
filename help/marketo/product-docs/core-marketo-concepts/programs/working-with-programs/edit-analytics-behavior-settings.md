@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2953405
-description: "Learn how to edit analytics behavior settings for a program. Configure how program success and revenue are tracked."
+description: Learn how to edit analytics behavior settings for a program. Configure how program success and revenue are tracked.
 title: Edit Analytics Behavior Settings
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
+TQID: https://experienceleague.adobe.com/JIuA-360aXyDm3tzOmpIoxV5YL4N64vYF6wi-6wKo9M
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Edit Analytics Behavior Settings {#edit-analytics-behavior-settings}
 

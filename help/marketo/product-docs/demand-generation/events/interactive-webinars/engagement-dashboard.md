@@ -1,8 +1,18 @@
 ---
-description: "Learn about the Interactive Webinars engagement dashboard. View attendee engagement metrics and insights during and after your webinars."
+description: Learn about the Interactive Webinars engagement dashboard. View attendee engagement metrics and insights during and after your webinars.
 title: Engagement Dashboard
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
+TQID: https://experienceleague.adobe.com/S-1BPAxd26HZcEV7RvEsYQp1BWlz6q6XFbKPIL77Ed8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Engagement Dashboard {#engagement-dashboard}
 

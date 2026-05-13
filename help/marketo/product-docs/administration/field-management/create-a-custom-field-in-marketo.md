@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2360287
-description: "Steps to create a new custom field in Marketo Engage to store and capture data for people or companies."
+description: Steps to create a new custom field in Marketo Engage to store and capture data for people or companies.
 title: Create a Custom Field in Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
+TQID: https://experienceleague.adobe.com/xdG07VzIcNYcqCsR3wfXHTGE07nsLYAvbM8QZZJf0oo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Create a Custom Field in Marketo {#create-a-custom-field-in-marketo}
 

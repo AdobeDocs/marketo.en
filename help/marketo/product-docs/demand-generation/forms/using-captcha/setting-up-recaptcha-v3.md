@@ -1,8 +1,17 @@
 ---
-description: "Learn how to set up reCAPTCHA v3 for Marketo forms. Configure invisible reCAPTCHA to fight spam without blocking users."
+description: Learn how to set up reCAPTCHA v3 for Marketo forms. Configure invisible reCAPTCHA to fight spam without blocking users.
 title: Setting up reCAPTCHA v3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 feature: Forms
+TQID: https://experienceleague.adobe.com/DMCWJvJQu1Gzdll6GEn9bhOM-eqlC1bP0Avoq7o-wlU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 ---
 # Setting up [!UICONTROL reCAPTCHA v3] {#setting-up-recaptcha-v3}
 

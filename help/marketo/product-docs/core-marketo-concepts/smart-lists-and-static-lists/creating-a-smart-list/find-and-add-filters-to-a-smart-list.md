@@ -1,9 +1,13 @@
 ---
 unique-page-id: 557273
-description: "Learn how to find and add filters to a Smart List. Browse and add filters from the filter tree to build your list logic."
+description: Learn how to find and add filters to a Smart List. Browse and add filters from the filter tree to build your list logic.
 title: Find and Add Filters to a Smart List
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/eQSlCfCck7SpNY-11SOd-KtnwWFD8eOl-jrTWO8CswM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Find and Add Filters to a Smart List {#find-and-add-filters-to-a-smart-list}
 

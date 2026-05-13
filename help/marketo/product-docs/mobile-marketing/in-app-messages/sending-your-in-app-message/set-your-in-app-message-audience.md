@@ -1,9 +1,16 @@
 ---
 unique-page-id: 10617431
-description: "Learn how to set your in-app message audience. Edit the smart list, choose app and trigger, set display limit, and add filters."
+description: Learn how to set your in-app message audience. Edit the smart list, choose app and trigger, set display limit, and add filters.
 title: Set Your In-App Message Audience
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/hMVJupuaDx0Tw9yy8geOrIZPUosdvtx7HJwzqbQiIdA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Set Your In-App Message Audience {#set-your-in-app-message-audience}
 

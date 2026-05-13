@@ -1,8 +1,18 @@
 ---
-description: "Learn how to add the Sales Insight permission set in Salesforce. Assign the set to users who need Marketo Sales Insight access."
+description: Learn how to add the Sales Insight permission set in Salesforce. Assign the set to users who need Marketo Sales Insight access.
 title: Add Sales Insight Permission Set
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/uFyP8aZCuXSPJn5ktZUxmCoVekyw9LN88U3KaY06-do
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Add [!DNL Sales Insight] Permission Set {#add-sales-insight-permission-set}
 

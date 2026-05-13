@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359657
-description: "Learn how to change a form locale in Marketo. Set the form language and regional format for labels and validation."
+description: Learn how to change a form locale in Marketo. Set the form language and regional format for labels and validation.
 title: Change a Form's Locale
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
+TQID: https://experienceleague.adobe.com/iLHzFDecLt3n1I50K0JboEH6SDBAecBqId-oFf8HH4s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
 ---
 # Change a Form's Locale {#change-a-forms-locale}
 

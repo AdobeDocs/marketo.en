@@ -1,9 +1,18 @@
 ---
 unique-page-id: 1147126
-description: "Learn how to use the Program Home tab. View program overview, performance, and key details in one place."
+description: Learn how to use the Program Home tab. View program overview, performance, and key details in one place.
 title: Using the Program Home Tab
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
+TQID: https://experienceleague.adobe.com/1YCKRjfWD2We--zAhgxrPaPLMEFfxbO4DVv2fwe56k0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Using the Program Home Tab {#using-the-program-home-tab}
 

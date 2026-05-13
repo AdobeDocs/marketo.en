@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147055
-description: "Learn how to delete a Smart Campaign. Remove a campaign you no longer need from Marketing Activities."
+description: Learn how to delete a Smart Campaign. Remove a campaign you no longer need from Marketing Activities.
 title: Campaign Actions -Delete a Smart Campaign
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/j8FDanG2BKTL7ymw0xhBIcFbsu7u1j-gUfH-5zQpzLc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Campaign Actions: Delete a Smart Campaign {#campaign-actions-delete-a-smart-campaign}
 

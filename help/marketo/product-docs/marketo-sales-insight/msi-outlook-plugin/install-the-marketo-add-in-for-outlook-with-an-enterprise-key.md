@@ -1,9 +1,16 @@
 ---
 unique-page-id: 11377488
-description: "Learn how to install the Marketo Add-in for Outlook with an enterprise key. Deploy the add-in for your organization using an enterprise key."
+description: Learn how to install the Marketo Add-in for Outlook with an enterprise key. Deploy the add-in for your organization using an enterprise key.
 title: Install the Marketo Add-in for [!DNL Outlook] with an Enterprise Key
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/mCdqWN-z7sArN7jcB-BqQ-zcxIiLDeJAZxb69986yjU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Install the Marketo Add-in for [!DNL Outlook] with an Enterprise Key {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 

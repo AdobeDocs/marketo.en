@@ -1,9 +1,18 @@
 ---
 unique-page-id: 1146970
-description: "Learn how to schedule a batch Smart Campaign to run later. Set a date and time for the campaign to run once."
+description: Learn how to schedule a batch Smart Campaign to run later. Set a date and time for the campaign to run once.
 title: Schedule a Batch Smart Campaign to Run Later
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/gBgLIEe4ehipU1qlq8hicQXJxhxP-8gTjNKm1-j7lPE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Schedule a Batch Smart Campaign to Run Later {#schedule-a-batch-smart-campaign-to-run-later}
 

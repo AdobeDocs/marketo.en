@@ -1,9 +1,26 @@
 ---
 unique-page-id: 2950617
-description: "Learn how to use dynamic content in an email. Show different content to different segments based on rules and attributes."
+description: Learn how to use dynamic content in an email. Show different content to different segments based on rules and attributes.
 title: Using Dynamic Content in an Email
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/NzTat-p-dgq9wtHv-hyJJzAwud27aOBvVTIS1Tn0lnc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Using Dynamic Content in an Email {#using-dynamic-content-in-an-email}
 

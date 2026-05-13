@@ -1,8 +1,12 @@
 ---
-description: "Learn how to install the Marketo solution for Dynamics 2016 or Dynamics 365 on-premises. Import the solution and complete the install steps in Dynamics."
+description: Learn how to install the Marketo solution for Dynamics 2016 or Dynamics 365 on-premises. Import the solution and complete the install steps in Dynamics.
 title: Install Marketo for [!DNL Microsoft Dynamics] 2016/Dynamics 365 On-Premises Step 1 of 3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/E0wIT7zgodm4Ujjt8yuU4KIA9csv8iK3PMmC6X2ifRA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Step 1 of 3: Configure Sync User for Marketo (2016 On-Prem /Dynamics 365 On-Premises) {#step-of-configure-sync-user-for-marketo-on-premises-2016}
 

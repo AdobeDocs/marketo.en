@@ -1,9 +1,21 @@
 ---
 unique-page-id: 1147150
-description: "Learn how to use tags in a program. Add tags to organize programs and enable filtering in the calendar and reports."
+description: Learn how to use tags in a program. Add tags to organize programs and enable filtering in the calendar and reports.
 title: Use Tags in a Program
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
+TQID: https://experienceleague.adobe.com/w6T43bOryxWPayFIKt0FtFK4aikLW0LtUEoFWKwd9vI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Use Tags in a Program {#use-tags-in-a-program}
 

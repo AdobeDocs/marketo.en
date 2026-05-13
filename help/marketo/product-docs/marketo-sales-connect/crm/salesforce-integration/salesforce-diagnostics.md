@@ -1,9 +1,24 @@
 ---
 unique-page-id: 14745730
-description: "Learn about Salesforce diagnostics for Sales Connect. Troubleshoot connection and sync issues between Sales Connect and Salesforce."
+description: Learn about Salesforce diagnostics for Sales Connect. Troubleshoot connection and sync issues between Sales Connect and Salesforce.
 title: Salesforce Diagnostics
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/TmZ9sSRFbkcvsAY6aHS42oBPlyFEW80iDAh-c-awbZo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # [!DNL Salesforce] Diagnostics {#salesforce-diagnostics}
 

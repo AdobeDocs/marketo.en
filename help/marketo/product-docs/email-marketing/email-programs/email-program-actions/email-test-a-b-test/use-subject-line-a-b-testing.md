@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359494
-description: "Learn how to run subject line A/B tests in email programs. Test different subject lines and choose a winner by performance."
+description: Learn how to run subject line A/B tests in email programs. Test different subject lines and choose a winner by performance.
 title: Use "Subject Line" A/B Testing
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
+TQID: https://experienceleague.adobe.com/jF6mldDXXbl9YOWTOfwgvxvbh-QmIH6sqnnELOv1lxQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Use "Subject Line" A/B Testing {#use-subject-line-a-b-testing}
 

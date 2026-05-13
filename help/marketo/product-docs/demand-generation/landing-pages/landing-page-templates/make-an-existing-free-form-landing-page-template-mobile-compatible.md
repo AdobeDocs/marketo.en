@@ -1,9 +1,18 @@
 ---
 unique-page-id: 5472348
-description: "Learn how to make an existing free-form landing page template mobile compatible. Upgrade from the template or landing page editor."
+description: Learn how to make an existing free-form landing page template mobile compatible. Upgrade from the template or landing page editor.
 title: Make an Existing Free-form Landing Page Template Mobile Compatible
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/-EJdlRrUIvCn6r4P6LGvZbyAyBy1K3HJms38fW2VKnE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Make an Existing Free-form Landing Page Template [!UICONTROL Mobile Compatible] {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 

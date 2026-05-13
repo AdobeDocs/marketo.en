@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147247
-description: "Learn how to hide and unhide custom entry types in the Program Schedule View. Control which entry types appear."
+description: Learn how to hide and unhide custom entry types in the Program Schedule View. Control which entry types appear.
 title: Hiding and Unhiding Custom Entry Types
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
+TQID: https://experienceleague.adobe.com/-NEWELIHUt5uXKxmuvvzuO2CeluCH0J7NtRKzpe-Ze8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Hiding and Unhiding Custom Entry Types {#hiding-and-unhiding-custom-entry-types}
 

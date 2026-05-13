@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2951058
-description: "Release Notes -August 2013 - Marketo Docs - Product Documentation"
+description: Release Notes -August 2013 - Marketo Docs - Product Documentation
 title: Release Notes -August 2013
 exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 feature: Release Information
+TQID: https://experienceleague.adobe.com/01ANrYO1-bRgV2LUKwB0eLw9CnljjsNpEiWwDVAPvy0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+topic_v2:
+  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+    internal-label: Customer engagement
 ---
 # Release Notes: August 2013 {#release-notes-august}
 

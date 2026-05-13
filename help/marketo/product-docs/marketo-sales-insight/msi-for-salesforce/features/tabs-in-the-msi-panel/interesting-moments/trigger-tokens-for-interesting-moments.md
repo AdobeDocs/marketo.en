@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1146999
-description: "Learn about trigger tokens for interesting moments in Marketo. Configure which activities create interesting moments in the MSI panel."
+description: Learn about trigger tokens for interesting moments in Marketo. Configure which activities create interesting moments in the MSI panel.
 title: Trigger Tokens for Interesting Moments
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/4N7eK5miPjqckjCkMddlqBOm-LZZMMKdk8SnTgSvgFc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Trigger Tokens for Interesting Moments {#trigger-tokens-for-interesting-moments}
 

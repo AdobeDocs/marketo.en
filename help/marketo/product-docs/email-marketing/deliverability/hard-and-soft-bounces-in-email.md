@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147328
-description: "Learn about hard and soft bounces and how Marketo classifies them. Use Email Suspended and Email Invalid fields to manage troubled delivery."
+description: Learn about hard and soft bounces and how Marketo classifies them. Use Email Suspended and Email Invalid fields to manage troubled delivery.
 title: Hard and Soft Bounces in Email
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
+TQID: https://experienceleague.adobe.com/qr4rAdOWWg5dazZVztnoTUv6WJQE8Xpm2WKttjQaOOg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Hard and Soft Bounces in Email {#hard-and-soft-bounces-in-email}
 

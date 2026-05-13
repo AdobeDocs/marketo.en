@@ -1,11 +1,14 @@
 ---
 unique-page-id: 2359718
-description: "Learn how to add a social button to a free-form landing page in Marketo. Add share or follow buttons to your page."
+description: Learn how to add a social button to a free-form landing page in Marketo. Add share or follow buttons to your page.
 title: Add a Social Button to a Free-form Landing Page
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
-
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/siTy0QNBBmitEfs7pg8xxW5Kdul2GF2NYRVTzTzQZPU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Add a Social Button to a Free-form Landing Page {#add-a-social-button-to-a-free-form-landing-page}
 

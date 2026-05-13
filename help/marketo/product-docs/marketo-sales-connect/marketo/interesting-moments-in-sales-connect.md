@@ -1,9 +1,13 @@
 ---
 unique-page-id: 30082174
-description: "Understand interesting moments in Sales Connect and Marketo. Learn how sales activity creates moments that flow to the Live Feed."
+description: Understand interesting moments in Sales Connect and Marketo. Learn how sales activity creates moments that flow to the Live Feed.
 title: Interesting Moments in Sales Connect
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/KgwnG6Rpi3BJy-Vboy7MuPkjhz-O-BOzmncdgpbrNVU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Interesting Moments in [!DNL Sales Connect] {#interesting-moments-in-sales-connect}
 

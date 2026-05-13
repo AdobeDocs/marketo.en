@@ -1,9 +1,13 @@
 ---
 unique-page-id: 45417322
-description: "Understand how lead and contact deletion works between Microsoft Dynamics and Marketo. Use the Microsoft is Deleted flag and Delete Person flow action as needed."
+description: Understand how lead and contact deletion works between Microsoft Dynamics and Marketo. Use the Microsoft is Deleted flag and Delete Person flow action as needed.
 title: Deleting a Lead or Contact
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/4BwBuLQFJ2pRehuS8EqW-UrEcg5sVeqcstu3azh0NvQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Deleting a Lead or Contact {#deleting-a-lead-or-contact}
 

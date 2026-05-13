@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2359803
-description: "Learn how to enable personalized URLs for a Marketo landing page. Let each recipient have a unique trackable URL."
+description: Learn how to enable personalized URLs for a Marketo landing page. Let each recipient have a unique trackable URL.
 title: Enable Personalized URLs for a Landing Page
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/62RoGtAhtBHDi9sxFFXeL4oAKjC25cuRHC6y3m5mO-I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Enable Personalized URLs for a Landing Page {#enable-personalized-urls-for-a-landing-page}
 

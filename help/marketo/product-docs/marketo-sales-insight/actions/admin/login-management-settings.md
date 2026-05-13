@@ -1,8 +1,12 @@
 ---
-description: "Learn about login management settings for Sales Insight Actions authentication. Set Salesforce Only or other options."
+description: Learn about login management settings for Sales Insight Actions authentication. Set Salesforce Only or other options.
 title: Login Management Settings
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/0NG6QpEVASL-Fponmbe25taZps60wJ5BdNui7FdlSrk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Login Management Settings {#login-management-settings}
 

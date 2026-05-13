@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2359728
-description: "Learn how to use guides for free-form landing page design in Marketo. Align elements and keep layout consistent with guides."
+description: Learn how to use guides for free-form landing page design in Marketo. Align elements and keep layout consistent with guides.
 title: Use Guides for Free-form Landing Page Design
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/Bw7pYxsFnhj5vhHyJpVN1aKPAAqPz2d-wap8uaSkQV8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Use Guides for Free-form Landing Page Design {#use-guides-for-free-form-landing-page-design}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 11375827
-description: "Learn about required fields for syncing Marketo with Dynamics. Ensure the right fields are mapped for MSI to work correctly."
+description: Learn about required fields for syncing Marketo with Dynamics. Ensure the right fields are mapped for MSI to work correctly.
 title: Required Fields for Syncing Marketo with Dynamics
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/2MpYFkohrwAJ20pKL9zISg2b0jTqougMaRLYJFYHbQs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Required Fields for Syncing Marketo with [!DNL Dynamics] {#required-fields-for-syncing-marketo-with-dynamics}
 

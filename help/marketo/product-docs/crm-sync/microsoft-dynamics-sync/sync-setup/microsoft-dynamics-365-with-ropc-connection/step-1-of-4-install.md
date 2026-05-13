@@ -1,8 +1,12 @@
 ---
-description: "Learn how to install the Marketo solution in Dynamics 365 with ROPC connection. Import the solution from Office 365 and complete the install steps."
+description: Learn how to install the Marketo solution in Dynamics 365 with ROPC connection. Import the solution from Office 365 and complete the install steps.
 title: Step 1 of 4 - Install the Marketo Solution with Resource Owner Password Control Connection
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/n6k54dW0WmIUFt7ErxsR1K6Ld-aEjhGSFLgVAZzTqL0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Step 1 of 4: Install the Marketo Solution with Resource Owner Password Control Connection {#step-1-of-4-install-the-marketo-solution-ropc}
 

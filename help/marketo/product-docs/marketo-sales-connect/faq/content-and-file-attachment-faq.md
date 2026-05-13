@@ -1,9 +1,16 @@
 ---
 unique-page-id: 14746661
-description: "Get answers to content and file attachment questions in Sales Connect. Learn size limits, tracking, and attachment options."
+description: Get answers to content and file attachment questions in Sales Connect. Learn size limits, tracking, and attachment options.
 title: Content and File Attachment FAQ
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/Wj6Lh-3GYl3HY0I3Rvmf572XxLEM-bl-2X68XPaYXu8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Content and File Attachment FAQ {#content-and-file-attachment-faq}
 

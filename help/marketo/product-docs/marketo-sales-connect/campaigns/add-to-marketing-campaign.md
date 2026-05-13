@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14745611
-description: "Learn how to add individuals or groups to a Marketo marketing campaign from Sales Connect. Use the People tab and Marketing Campaign option with workspace selection."
+description: Learn how to add individuals or groups to a Marketo marketing campaign from Sales Connect. Use the People tab and Marketing Campaign option with workspace selection.
 title: Add to Marketing Campaign
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/jQ4j-SNPZo1rEQhFXNX-7Y8Uu2moL8v9O0g-dbtiyGM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Add to Marketing Campaign {#add-to-marketing-campaign}
 

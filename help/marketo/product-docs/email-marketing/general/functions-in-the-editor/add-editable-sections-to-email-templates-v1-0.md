@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1900585
-description: "Learn how to add editable sections to email templates in v1.0. Let users edit specific areas while keeping the rest locked."
+description: Learn how to add editable sections to email templates in v1.0. Let users edit specific areas while keeping the rest locked.
 title: Add Editable Sections to Email Templates v1.0
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/j2rwpy7Bq-HH3-mva5FkDb3kKH8cvlH2hMUp0ic7sno
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Add Editable Sections to Email Templates v1.0 {#add-editable-sections-to-email-templates-v1.0}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2953373
-description: "Learn how to configure unsubscribe footers in Marketo Sales Insight. Set up unsubscribe links and compliance for sales emails."
+description: Learn how to configure unsubscribe footers in Marketo Sales Insight. Set up unsubscribe links and compliance for sales emails.
 title: Configure Unsubscribe Footers in Marketo Sales Insight
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/9HUCspCSN2LZQzpNJhCI3yiMVzwOYMxyp06UDJQyT2Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Configure Unsubscribe Footers in [!DNL Marketo Sales Insight] {#configure-unsubscribe-footers-in-marketo-sales-insight}
 

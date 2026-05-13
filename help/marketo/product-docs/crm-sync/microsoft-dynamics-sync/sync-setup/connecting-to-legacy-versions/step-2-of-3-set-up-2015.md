@@ -1,9 +1,19 @@
 ---
 unique-page-id: 7504739
-description: "Learn how to set up the Marketo sync user for Dynamics 2015 on-premises. Create the user and assign the Marketo Sync User role in Dynamics."
+description: Learn how to set up the Marketo sync user for Dynamics 2015 on-premises. Create the user and assign the Marketo Sync User role in Dynamics.
 title: Install Marketo for Microsoft Dynamics 2015 On-Premises Step 2 of 3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/hCthtzbLl9lqBmn2Ges10eu7UM-fzDt-0UyT8Je-bbY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Step 2 of 3 Set up Marketo for [!DNL Dynamics] (2015 On-Prem){#step-of-set-up-for-marketo-on-premises-2015}
 

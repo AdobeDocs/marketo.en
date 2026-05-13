@@ -1,8 +1,12 @@
 ---
-description: "Learn how to set up a custom delivery channel for your team. Configure sending and tracking for sales emails."
+description: Learn how to set up a custom delivery channel for your team. Configure sending and tracking for sales emails.
 title: Set up a Custom Delivery Channel for Your Team
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/IM33WTRE7TrMGcbBsiiMBpFrT-tZpvy8xXpXvt0RDsk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Set up a Custom Delivery Channel for Your Team {#set-up-a-custom-delivery-channel-for-your-team}
 

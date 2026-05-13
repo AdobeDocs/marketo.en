@@ -1,9 +1,18 @@
 ---
 unique-page-id: 2953384
-description: "Learn how to enable sync for a custom entity in Microsoft Dynamics and Marketo. Use Admin and Microsoft Dynamics to select and enable custom entities for sync."
+description: Learn how to enable sync for a custom entity in Microsoft Dynamics and Marketo. Use Admin and Microsoft Dynamics to select and enable custom entities for sync.
 title: Enable Sync for a Custom Entity
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/kSLFdQA9OTHLoBTQ2qBrRFucLaDJLNSNAxGqjjMHCxs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Enable Sync for a Custom Entity {#enable-sync-for-a-custom-entity}
 

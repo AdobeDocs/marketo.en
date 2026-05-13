@@ -1,9 +1,13 @@
 ---
 unique-page-id: 1900563
-description: "Learn how to create a calendar event (.ics) file for emails. Add calendar attachments so recipients can save events."
+description: Learn how to create a calendar event (.ics) file for emails. Add calendar attachments so recipients can save events.
 title: Create a Calendar Event (.ics) File
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/aFIknZh6lYrZKFnwmzk57wduoMMTly6xkNsysOWzahQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Create a Calendar Event (.ics) File {#create-a-calendar-event-ics-file}
 

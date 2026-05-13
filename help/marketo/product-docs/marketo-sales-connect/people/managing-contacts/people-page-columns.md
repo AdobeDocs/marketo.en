@@ -1,9 +1,13 @@
 ---
 unique-page-id: 30081307
-description: "Learn about People page columns in Sales Connect. Customize which columns display to view the contact info you need."
+description: Learn about People page columns in Sales Connect. Customize which columns display to view the contact info you need.
 title: People Page Columns
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/dFBARNGsQ7x-3gilAkQY-vVfQZ-spiRIAGgvzcqiDvk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # People Page Columns {#people-page-columns}
 

@@ -1,9 +1,13 @@
 ---
 unique-page-id: 557322
-description: "Learn how to run a single flow step from a Smart List. Execute one flow action for selected people from the list."
+description: Learn how to run a single flow step from a Smart List. Execute one flow action for selected people from the list.
 title: Run a Single Flow Step from a Smart List
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/GdWQiObUSnllii3M8x1bTuHRByAtg-UF03V-3sOuI9I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Run a Single Flow Step from a Smart List {#run-a-single-flow-step-from-a-smart-list}
 

@@ -1,8 +1,12 @@
 ---
-description: "Learn how to configure Salesforce activity detail customization for task subject fields. Set what logs to the Salesforce Task when activities sync."
+description: Learn how to configure Salesforce activity detail customization for task subject fields. Set what logs to the Salesforce Task when activities sync.
 title: Configure Salesforce Activity Detail Customization
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/OFYgwAWftCcz7IsGMcdiEI6gzYhdvZB10qlTYpIiX60
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Configure [!DNL Salesforce] Activity Detail Customization {#configure-salesforce-activity-detail-customization}
 

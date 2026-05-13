@@ -4,6 +4,25 @@ short-description: After completing the initial setup steps, learn how to establ
 title: User Setup Checklist
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
+TQID: https://experienceleague.adobe.com/LAFZ0QGdWLREK-wGSy-YMgmEMXP7dQSsaGI9MV5hTic
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: b83de148-8847-43b0-9656-84c65c2bf6e1
+    internal-label: User setup
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # User Setup Checklist {#user-setup-checklist}
 

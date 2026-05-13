@@ -1,9 +1,26 @@
 ---
 unique-page-id: 2950682
-description: "Steps to create a program channel with statuses and progression steps, including program type, success status, and mobile check-in options for events."
+description: Steps to create a program channel with statuses and progression steps, including program type, success status, and mobile check-in options for events.
 title: Create a Program Channel
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
+TQID: https://experienceleague.adobe.com/Ficlv7OfEScqLRVbOfc2hc-S3cQ2YjriiKWnbS1Op9A
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+subfeature_v2:
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Create a Program Channel {#create-a-program-channel}
 

@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2359555
-description: "Learn how to run Champion/Challenger tests with whole emails. Test different email versions and declare a winner by criteria."
+description: Learn how to run Champion/Challenger tests with whole emails. Test different email versions and declare a winner by criteria.
 title: Champion/Challenger -Whole Emails
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/-XoBeMYaVcDqM1CvAe9Kl4UzUa-HCxOs3jTO9C68zSk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Champion/Challenger: Whole Emails {#champion-challenger-whole-emails}
 

@@ -1,11 +1,17 @@
 ---
 unique-page-id: 2949270
-description: "Compare your and your competitors' keyword rankings over time."
+description: Compare your and your competitors' keyword rankings over time.
 title: SEO - Use the Competitor KW Trends Report
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 hide: true
-
 feature: SEO
+TQID: https://experienceleague.adobe.com/VOBeArgGNBHrgFwn-1sT3-paIGwxDYF9yEIHD7JDHwE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # SEO - Use the Competitor KW Trends Report {#seo-use-the-competitor-kw-trends-report}
 

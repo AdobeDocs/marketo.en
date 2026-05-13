@@ -1,9 +1,18 @@
 ---
 unique-page-id: 2953362
-description: "Learn how to confirm tentative Smart Campaign and email program entries in the Marketing Calendar. Run validation and confirm so campaigns execute."
+description: Learn how to confirm tentative Smart Campaign and email program entries in the Marketing Calendar. Run validation and confirm so campaigns execute.
 title: Confirm Entries Directly In the Marketing Calendar
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/fRh1emGZ3AzFAP-ZjUPHgtXAxpz1dtX-3FCpFmn55ng
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Confirm Entries Directly In the Marketing Calendar {#confirm-entries-directly-in-the-marketing-calendar}
 

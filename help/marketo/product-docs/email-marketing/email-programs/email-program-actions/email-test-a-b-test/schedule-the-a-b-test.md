@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359547
-description: "Learn how to schedule an A/B test for an email program. Set the send time and when the winner will be declared."
+description: Learn how to schedule an A/B test for an email program. Set the send time and when the winner will be declared.
 title: Schedule the A/B Test
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
+TQID: https://experienceleague.adobe.com/leTqEVzfqKMFm07cFTCLtzCYrp5G-y0fVMIGv5hBzRQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Schedule the A/B Test {#schedule-the-a-b-test}
 

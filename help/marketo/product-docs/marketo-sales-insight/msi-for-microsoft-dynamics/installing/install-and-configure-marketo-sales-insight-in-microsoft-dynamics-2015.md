@@ -1,9 +1,21 @@
 ---
 unique-page-id: 7513865
-description: "Learn how to install and configure Marketo Sales Insight in Microsoft Dynamics 2015. Add the solution and complete setup."
+description: Learn how to install and configure Marketo Sales Insight in Microsoft Dynamics 2015. Add the solution and complete setup.
 title: Install and Configure Marketo Sales Insight in Microsoft Dynamics 2015
 exl-id: 26c1f02c-c910-445d-8560-0b37961eadcb
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/WLVudq3p-fFYelDK6tYN3MRHstQgp7rRVK0L07iJFOk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Install and Configure [!DNL Marketo Sales Insight] in [!DNL Microsoft Dynamics 2015] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 

@@ -1,8 +1,12 @@
 ---
-description: "Understand the Me tab and your email engagement stats in Sales Insight Actions. View emails sent, template usage, and most engaging emails and contacts."
+description: Understand the Me tab and your email engagement stats in Sales Insight Actions. View emails sent, template usage, and most engaging emails and contacts.
 title: Understanding the Me Tab
 exl-id: 7663f2f3-5266-4ef0-a719-f6630cc0f427
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/sr-slN0Q4-YvQmDO1Axn1fzvSq8ePLP6sxBLKkBwkls
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Understanding the [!UICONTROL Me] Tab {#understanding-the-me-tab}
 

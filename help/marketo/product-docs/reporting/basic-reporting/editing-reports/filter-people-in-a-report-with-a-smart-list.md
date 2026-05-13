@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2360016
-description: "Learn how to filter people in reports using smart lists to narrow results by specific person attributes. Apply filters in the Smart List tab for various report types."
+description: Learn how to filter people in reports using smart lists to narrow results by specific person attributes. Apply filters in the Smart List tab for various report types.
 title: Filter People in a Report with a Smart List
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
+TQID: https://experienceleague.adobe.com/pxnKEAefr4SNzulAzIcB3Ifn3yK79No-ZUDV2WKyEOM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Filter People in a Report with a Smart List {#filter-people-in-a-report-with-a-smart-list}
 

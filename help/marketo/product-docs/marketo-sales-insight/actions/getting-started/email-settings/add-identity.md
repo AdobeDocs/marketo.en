@@ -1,8 +1,12 @@
 ---
-description: "Learn how to add an email identity in Sales Insight Actions. Add and verify sending addresses in Settings under Email."
+description: Learn how to add an email identity in Sales Insight Actions. Add and verify sending addresses in Settings under Email.
 title: Add Identity
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/Ks7LppvQ13D6463U27VN7UMbjS8lfx2WAxii9XCxAig
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Add Identity {#add-identity}
 

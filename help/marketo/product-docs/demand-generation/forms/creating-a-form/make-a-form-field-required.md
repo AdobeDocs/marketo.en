@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359569
-description: "Learn how to make a form field required in Marketo. Require visitors to complete the field before submitting the form."
+description: Learn how to make a form field required in Marketo. Require visitors to complete the field before submitting the form.
 title: Make a Form Field Required
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
+TQID: https://experienceleague.adobe.com/JbWhwOQPZU2H4NzgKgYo1N6ThKwBHeKwWF2xeO-xczs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
 ---
 # Make a Form Field Required {#make-a-form-field-required}
 

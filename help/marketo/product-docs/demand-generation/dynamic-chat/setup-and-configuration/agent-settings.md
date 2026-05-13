@@ -1,8 +1,15 @@
 ---
-description: "Learn how to configure agent calendar and meeting or live chat availability in Dynamic Chat. Connect Outlook or Gmail for appointment scheduling."
+description: Learn how to configure agent calendar and meeting or live chat availability in Dynamic Chat. Connect Outlook or Gmail for appointment scheduling.
 title: Agent Settings
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
+TQID: https://experienceleague.adobe.com/ahFQ2s-DqjnDhtCLIJwOG7Z6vlH5fQVGLBS9FibW7I8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 ---
 # Agent Settings {#agent-settings}
 

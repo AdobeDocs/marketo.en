@@ -1,9 +1,21 @@
 ---
 unique-page-id: 1147243
-description: "Learn about Program Schedule View entry types. Understand email programs, Smart Campaigns, and other entry types."
+description: Learn about Program Schedule View entry types. Understand email programs, Smart Campaigns, and other entry types.
 title: Program Schedule View Entry Types
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
+TQID: https://experienceleague.adobe.com/PZXPSLxl7-lKsGBhnkZR9vEAmRP0KTQvU2-tockkZCI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
 ---
 # Program Schedule View Entry Types {#program-schedule-view-entry-types}
 

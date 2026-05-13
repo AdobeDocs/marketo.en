@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14746470
-description: "Learn how to set up a custom delivery channel in Sales Connect. Use your own SMTP or sending infrastructure for sales emails."
+description: Learn how to set up a custom delivery channel in Sales Connect. Use your own SMTP or sending infrastructure for sales emails.
 title: Setting up a Custom Delivery Channel
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/3AyKPoZ-rxPE-6cpQQ4flbL23aILwkVpmnMQAUjQLmI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Setting up a Custom Delivery Channel {#setting-up-a-custom-delivery-channel}
 

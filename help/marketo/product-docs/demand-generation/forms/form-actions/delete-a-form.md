@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359637
-description: "Learn how to delete a form in Marketo. Remove forms you no longer need from your instance."
+description: Learn how to delete a form in Marketo. Remove forms you no longer need from your instance.
 title: Delete a Form
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
+TQID: https://experienceleague.adobe.com/7RxK8ofpon0bx124-VG6Jvtb4fUOuBqtoLBDvqradn8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
 ---
 # Delete a Form {#delete-a-form}
 

@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2953358
-description: "Learn how to delete entries directly from the Marketing Calendar."
+description: Learn how to delete entries directly from the Marketing Calendar.
 title: Delete Entries Directly In the Marketing Calendar
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/5gCFWXJoWKwLQUbOAhRd8JWqL4Eob7XUEm8sNyqPPGs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Delete Entries Directly In the Marketing Calendar {#delete-entries-directly-in-the-marketing-calendar}
 

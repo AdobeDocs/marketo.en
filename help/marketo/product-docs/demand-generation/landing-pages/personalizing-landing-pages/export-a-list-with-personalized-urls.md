@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2359815
-description: "Learn how to export a list with personalized URLs from Marketo. Get a list of recipients with their unique landing page URLs."
+description: Learn how to export a list with personalized URLs from Marketo. Get a list of recipients with their unique landing page URLs.
 title: Export a List with Personalized URLs
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/4GUDuUUCJroLl2v1QGD8-7k9ZwmzrZtfzB2DAQBVZTs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Export a List with Personalized URLs {#export-a-list-with-personalized-urls}
 

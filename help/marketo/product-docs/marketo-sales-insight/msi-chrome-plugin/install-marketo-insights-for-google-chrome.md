@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147326
-description: "Learn how to install Marketo Insights for Google Chrome. Add the extension to view lead and account info and activities in Gmail."
+description: Learn how to install Marketo Insights for Google Chrome. Add the extension to view lead and account info and activities in Gmail.
 title: Install Marketo Insights for Google Chrome
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/bfFWPwz73ef8582KYOQ-JNQPz02H3aC7vPpp0EAIJlY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Install Marketo Insights for [!DNL Google Chrome] {#install-marketo-insights-for-google-chrome}
 

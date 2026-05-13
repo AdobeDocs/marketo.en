@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352622
-description: "Learn how to skip weekends when automating Sales Connect campaigns. Prevent campaign emails from sending on Saturday or Sunday."
+description: Learn how to skip weekends when automating Sales Connect campaigns. Prevent campaign emails from sending on Saturday or Sunday.
 title: Skip Weekends
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/svilh3tgrWWepx7-Bn9VhoFTpDwTWGCTVKv2Awu6KFU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Skip Weekends {#skip-weekends}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147124
-description: "Learn how to use the Assets tab in a program. View and manage all local assets in your program."
+description: Learn how to use the Assets tab in a program. View and manage all local assets in your program.
 title: Using the Assets Tab
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
+TQID: https://experienceleague.adobe.com/ywMPs4HHMDdiZnJ-iX7vLtMzOA-IaN-L2VdTdist5-Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Using the Assets Tab {#using-the-assets-tab}
 

@@ -1,8 +1,15 @@
 ---
-description: "Learn how reminder tasks sync with Salesforce. Ensure email, call, and custom tasks from Actions appear in Salesforce Activity."
+description: Learn how reminder tasks sync with Salesforce. Ensure email, call, and custom tasks from Actions appear in Salesforce Activity.
 title: Reminder Task Sync with Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/gdFjsLxx8GJmpfRtTPWD-DBv8AHkfKPQIDuLrwpZALw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Reminder Task Sync with [!DNL Salesforce] {#reminder-task-sync-with-salesforce}
 

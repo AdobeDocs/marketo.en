@@ -1,9 +1,13 @@
 ---
 unique-page-id: 557320
-description: "Learn how to clone a list or Smart List. Create a copy to use as a starting point for a new list."
+description: Learn how to clone a list or Smart List. Create a copy to use as a starting point for a new list.
 title: Clone a List or Smart List
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/hHo0TWwP-GQ2DbHbiFKG9Bcx3RS-FR4GT1rSXPn5UzE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Clone a List or Smart List {#clone-a-list-or-smart-list}
 

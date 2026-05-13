@@ -1,9 +1,26 @@
 ---
 unique-page-id: 42762514
-description: "Learn about the Insights Dashboard in Marketo Sales Insight. View engagement velocity, upcoming campaigns, and tasks in the panel."
+description: Learn about the Insights Dashboard in Marketo Sales Insight. View engagement velocity, upcoming campaigns, and tasks in the panel.
 title: Insights Dashboard Feature Overview
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/pMPRzDtLNKUNPoOSV9F9OxsiYFdHrU2wYpGQMZAJ7hQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+subfeature_v2:
+  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+    internal-label: Default programs
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Insights Dashboard Feature Overview {#insights-dashboard-feature-overview}
 

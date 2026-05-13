@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2359703
-description: "Learn how to add an image to a free-form landing page in Marketo. Insert and position images from the Design Studio."
+description: Learn how to add an image to a free-form landing page in Marketo. Insert and position images from the Design Studio.
 title: Add an Image to a Free-Form Landing Page
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/-xtbww0QqxpqGfC2-xzmYjjFdZgeIR4fbFfub1Y3Xds
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Add an Image to a Free-Form Landing Page {#add-an-image-to-a-free-form-landing-page}
 

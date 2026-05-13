@@ -1,9 +1,13 @@
 ---
 unique-page-id: 10096658
-description: "Learn about the Marketo ON24 adapter and how it connects ON24 webinars to Marketo. Understand event types and sync behavior."
+description: Learn about the Marketo ON24 adapter and how it connects ON24 webinars to Marketo. Understand event types and sync behavior.
 title: Understanding Marketo On24 Adapter Events
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
+TQID: https://experienceleague.adobe.com/LtTKin68LiI09y1m2hu1BIhhSE4d03-HkGHCfsDNxE0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Understanding Marketo On24 Adapter Events {#understanding-marketo-on-adapter-events}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 11371040
-description: "Learn about email template syntax in Email Editor 2.0. Use the correct syntax for modules and editable sections in templates."
+description: Learn about email template syntax in Email Editor 2.0. Use the correct syntax for modules and editable sections in templates.
 title: Email Template Syntax
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Email Template Syntax {#email-template-syntax}
 

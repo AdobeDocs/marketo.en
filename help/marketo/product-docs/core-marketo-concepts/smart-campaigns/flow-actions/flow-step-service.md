@@ -1,8 +1,27 @@
 ---
-description: "Learn about the Flow Step Service for custom flow steps. Extend Smart Campaigns with custom actions via API."
+description: Learn about the Flow Step Service for custom flow steps. Extend Smart Campaigns with custom actions via API.
 title: Flow Step Service
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/WNis-WE5v3Alpc0aSj1LrhTfOjNxnWmK8z-4afzADhU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Flow Step Service {#flow-step-service}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 37356429
-description: "Learn how to create a task in Microsoft Dynamics from a flow step. Create a task for the owner when someone enters the flow."
+description: Learn how to create a task in Microsoft Dynamics from a flow step. Create a task for the owner when someone enters the flow.
 title: Create Task in Microsoft
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/qQL3O4Vi8ncdlXtk2gvraWzquz3oZx5B-1YWTkwdVac
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Create Task in Microsoft {#create-task-in-microsoft}
 

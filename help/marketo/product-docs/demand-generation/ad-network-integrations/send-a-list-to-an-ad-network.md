@@ -1,8 +1,15 @@
 ---
-description: "Learn how to send a static list to LinkedIn, Facebook, or Google. Use List Actions and Send to Ad Network to choose audience and sync options."
+description: Learn how to send a static list to LinkedIn, Facebook, or Google. Use List Actions and Send to Ad Network to choose audience and sync options.
 title: Send a List to an Ad Network
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
+TQID: https://experienceleague.adobe.com/gGzy0KwofHjk0EPTVNsz5dRpE4qrwNlOaJCHJMn924w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 ---
 # Send a List to an Ad Network {#send-a-list-to-an-ad-network}
 

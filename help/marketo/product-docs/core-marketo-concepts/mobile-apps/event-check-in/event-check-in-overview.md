@@ -1,8 +1,12 @@
 ---
-description: "Learn about Event Check-in for checking in customers from a tablet. Use the Check-in app to manage event registration."
+description: Learn about Event Check-in for checking in customers from a tablet. Use the Check-in app to manage event registration.
 title: Event Check-in Overview
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/ryjtMEfYnhdTzBAZuJFSvOOz2R-3hgWNJL37Hmcvkok
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Event Check-in Overview {#event-check-in-overview}
 

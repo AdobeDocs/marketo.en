@@ -1,9 +1,13 @@
 ---
 unique-page-id: 8783563
-description: "Learn how to preview an email in Marketo Moments. View how your email will look before sending from the mobile app."
+description: Learn how to preview an email in Marketo Moments. View how your email will look before sending from the mobile app.
 title: Previewing an Email
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/ysItaSy-PuYs-J-gxKZRL6zSZrxgK6YXzCn29sSZN0k
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Previewing an Email {#previewing-an-email}
 

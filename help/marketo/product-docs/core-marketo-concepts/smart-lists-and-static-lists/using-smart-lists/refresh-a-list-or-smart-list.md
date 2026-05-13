@@ -1,9 +1,13 @@
 ---
 unique-page-id: 557318
-description: "Learn how to refresh a list or Smart List. Update the people in the list to reflect current filter results or membership."
+description: Learn how to refresh a list or Smart List. Update the people in the list to reflect current filter results or membership.
 title: Refresh a List or Smart List
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/9mDk82MHRwR7qY0or3iOXMJbsJb5Frqd3a3doWa0sfM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Refresh a List or Smart List {#refresh-a-list-or-smart-list}
 

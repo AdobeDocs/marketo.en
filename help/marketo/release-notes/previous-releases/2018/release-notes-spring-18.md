@@ -1,8 +1,26 @@
 ---
 unique-page-id: 14745959
-description: "Release Notes -Spring '18 - Marketo Docs - Product Documentation"
+description: Release Notes -Spring '18 - Marketo Docs - Product Documentation
 title: Release Notes -Spring '18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
+TQID: https://experienceleague.adobe.com/vVGTSMdWhf3BsLDIFmiMJGgqGquK5h7pHtB9OLQRPRg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Release Notes: Spring '18 {#release-notes-spring}
 

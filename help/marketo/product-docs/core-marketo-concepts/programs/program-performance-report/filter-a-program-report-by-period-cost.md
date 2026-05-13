@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147237
-description: "Learn how to filter a program report by period cost. View program performance for specific cost periods."
+description: Learn how to filter a program report by period cost. View program performance for specific cost periods.
 title: Filter a Program Report by Period Cost
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
+TQID: https://experienceleague.adobe.com/hEYvfxHmr-WOd5dvaGWUCtLlz2couxYeTvFdntrRQSY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Filter a Program Report by Period Cost {#filter-a-program-report-by-period-cost}
 

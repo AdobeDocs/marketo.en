@@ -1,9 +1,21 @@
 ---
 unique-page-id: 10099408
-description: "Learn about Email Insights that provides powerful analytics from historical email data through Analytics and Sends sections. Explore delivery and engagement metrics with advanced filtering options."
+description: Learn about Email Insights that provides powerful analytics from historical email data through Analytics and Sends sections. Explore delivery and engagement metrics with advanced filtering options.
 title: Email Insights Overview
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
+TQID: https://experienceleague.adobe.com/VCFrxk6ZCaCLI-LkwupsSvndL-fooleRLbYm2oNLwSQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Email Insights Overview {#email-insights-overview}
 

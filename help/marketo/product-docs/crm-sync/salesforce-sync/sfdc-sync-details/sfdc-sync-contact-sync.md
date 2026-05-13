@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2953457
-description: "Learn about how contact sync works between Salesforce and Marketo. Understand bidirectional sync, convert people to contacts, and force sync with flow actions."
+description: Learn about how contact sync works between Salesforce and Marketo. Understand bidirectional sync, convert people to contacts, and force sync with flow actions.
 title: SFDC Sync - Contact Sync
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/bddyM2G50v-Hgdy1oHw8xIPw1zij-2JvGSU7se3-UfI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # SFDC Sync: Contact Sync {#sfdc-sync-contact-sync}
 

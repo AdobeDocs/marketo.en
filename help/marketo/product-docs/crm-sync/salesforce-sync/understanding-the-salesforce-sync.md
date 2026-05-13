@@ -1,9 +1,16 @@
 ---
 unique-page-id: 4719283
-description: "Learn how the Salesforce sync keeps Marketo and Salesforce data in sync. See what is synced and how bidirectional sync works for leads and contacts."
+description: Learn how the Salesforce sync keeps Marketo and Salesforce data in sync. See what is synced and how bidirectional sync works for leads and contacts.
 title: Understanding the Salesforce Sync
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/1H8ol0eKIzfQoQR-Je4jCdZX7R-rWWD63qrhkrsWtyg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Understanding the [!DNL Salesforce] Sync {#understanding-the-salesforce-sync}
 

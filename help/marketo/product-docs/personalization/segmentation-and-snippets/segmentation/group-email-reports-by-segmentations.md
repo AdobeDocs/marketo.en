@@ -1,9 +1,30 @@
 ---
 unique-page-id: 2359488
-description: "Learn how to group your email performance report by segmentations. Use the Email Performance report Setup tab to apply one or two segmentations for grouping."
+description: Learn how to group your email performance report by segmentations. Use the Email Performance report Setup tab to apply one or two segmentations for grouping.
 title: Group Email Reports by Segmentations
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
+TQID: https://experienceleague.adobe.com/-ReYMhiLmEruEamloc-juZ8V14P1j4wj0t9LlL-K1KQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Group Email Reports by Segmentations {#group-email-reports-by-segmentations}
 

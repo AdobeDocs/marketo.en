@@ -1,10 +1,13 @@
 ---
-description: "Learn how to set event goals in Marketo event programs. Define success metrics and track progress toward your event objectives."
+description: Learn how to set event goals in Marketo event programs. Define success metrics and track progress toward your event objectives.
 title: Setting Event Goals
 hide: true
-
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
+TQID: https://experienceleague.adobe.com/0tncwlUNBiELP1mR0GLJFstLZfvURtAsz6OohwpqxH4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Setting Event Goals {#setting-event-goals}
 

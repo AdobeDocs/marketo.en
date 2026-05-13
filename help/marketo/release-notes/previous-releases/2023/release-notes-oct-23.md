@@ -1,8 +1,27 @@
 ---
-description: "Release Notes - September 2023 - Marketo Docs - Product Documentation"
+description: Release Notes - September 2023 - Marketo Docs - Product Documentation
 title: Release Notes - September 2023
 feature: Release Information
 exl-id: c1197141-3822-404d-b9d4-3e37fc5330b6
+TQID: https://experienceleague.adobe.com/AVJDA8DHsX7M8HjUu-M7fol948cadcYu5JHgwlC2NFM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
 ---
 # Release Notes: October 2023 {#release-notes-oct-23}
 

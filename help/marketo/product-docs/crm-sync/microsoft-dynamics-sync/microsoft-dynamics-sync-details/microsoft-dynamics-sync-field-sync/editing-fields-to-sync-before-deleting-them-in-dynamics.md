@@ -1,8 +1,12 @@
 ---
-description: "Learn how to edit fields to sync in Marketo before deleting them in Dynamics. Disable sync, refresh schema, and remove the field from the sync selection."
+description: Learn how to edit fields to sync in Marketo before deleting them in Dynamics. Disable sync, refresh schema, and remove the field from the sync selection.
 title: Editing Fields to Sync Before Deleting Them in Dynamics
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/vM7JJUlegPvtRlqgPJSIjDeq9jMMUr2PA6OAC-CopJI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Editing Fields to Sync Before Deleting Them in [!DNL Dynamics] {#editing-fields-to-sync-before-deleting-them-in-dynamics}
 

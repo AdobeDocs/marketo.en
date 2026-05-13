@@ -1,9 +1,29 @@
 ---
 unique-page-id: 10617187
-description: "Overview of privacy and tracking options including Do Not Track browser support, opt-out cookies, and anonymized IP tracking for web visitors."
+description: Overview of privacy and tracking options including Do Not Track browser support, opt-out cookies, and anonymized IP tracking for web visitors.
 title: Understanding Privacy Settings
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
+TQID: https://experienceleague.adobe.com/k7-N0cSCSBIFEOWnDIyuo0zbigki-P8mrBOjwEgmlqs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Understanding Privacy Settings {#understanding-privacy-settings}
 

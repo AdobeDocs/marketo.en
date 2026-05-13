@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147255
-description: "Learn how to issue or revoke a Marketing Calendar license for users. Grant or remove Calendar access."
+description: Learn how to issue or revoke a Marketing Calendar license for users. Grant or remove Calendar access.
 title: Issue or Revoke a Marketing Calendar License
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/WwC2W-yq8duBfy1l7lfyWEqcKxqy62OJea1tdcrxPvU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Issue or Revoke a Marketing Calendar License {#issue-revoke-a-marketing-calendar-license}
 

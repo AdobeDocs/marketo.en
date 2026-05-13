@@ -1,9 +1,13 @@
 ---
 unique-page-id: 11382535
-description: "Learn how to use URLs in My Tokens. Store and reference URLs in tokens for links and landing pages in emails."
+description: Learn how to use URLs in My Tokens. Store and reference URLs in tokens for links and landing pages in emails.
 title: Using URLs in My Tokens
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
+TQID: https://experienceleague.adobe.com/d7nzJcfEeJutTNuo95NXcT1eTQXBdNZJoEq5-BdTxs0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Using URLs in My Tokens {#using-urls-in-my-tokens}
 

@@ -1,9 +1,23 @@
 ---
 unique-page-id: 2949891
-description: "Learn about static lists in Marketo for fixed sets of people. Use static lists when membership is manually managed."
+description: Learn about static lists in Marketo for fixed sets of people. Use static lists when membership is manually managed.
 title: Understanding Static Lists
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
+TQID: https://experienceleague.adobe.com/rRi3-6ZggKswYYLTZjUr5EBDNoMRirDc1KJgHbbDqP4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
 ---
 # Understanding Static Lists {#understanding-static-lists}
 

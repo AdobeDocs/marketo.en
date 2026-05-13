@@ -1,8 +1,20 @@
 ---
-description: "Learn how to set up Dynamic Chat for your Marketo instance. Access Admin Console, add users, and connect Dynamic Chat to Marketo."
+description: Learn how to set up Dynamic Chat for your Marketo instance. Access Admin Console, add users, and connect Dynamic Chat to Marketo.
 title: Initial Setup
 feature: Dynamic Chat
 exl-id: 3ce6bd24-8d08-46ca-b532-871d5813205e
+TQID: https://experienceleague.adobe.com/yyC4mdGz2W34YwKH2AgOlCrOrhLxhDUl0TNJgmMyiZc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 ---
 # Initial Setup {#initial-setup}
 

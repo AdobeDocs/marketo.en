@@ -1,9 +1,24 @@
 ---
 unique-page-id: 2359742
-description: "Learn how to filter a landing page performance report in Marketo. Narrow results by date, page, or other criteria."
+description: Learn how to filter a landing page performance report in Marketo. Narrow results by date, page, or other criteria.
 title: Filter a Landing Page Performance Report
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/Wbd0ZqQ5sBiNjSc6iWtbVW17iqkEePCK8POru39u7xA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+subfeature_v2:
+  - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+    internal-label: Global Assets
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
 ---
 # Filter a Landing Page Performance Report {#filter-a-landing-page-performance-report}
 

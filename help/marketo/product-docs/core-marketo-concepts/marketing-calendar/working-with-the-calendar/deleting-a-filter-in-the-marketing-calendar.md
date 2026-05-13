@@ -1,9 +1,13 @@
 ---
 unique-page-id: 1147302
-description: "Learn how to delete a filter in the Marketing Calendar."
+description: Learn how to delete a filter in the Marketing Calendar.
 title: Deleting a Filter in the Marketing Calendar
 exl-id: 1c53f346-ab35-44d4-9b8a-6e31f97044ca
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/yz7ySu7PcMw75WILn3vC-JiIUE2oqMVlmTn6pVIF67E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Deleting a Filter in the Marketing Calendar {#deleting-a-filter-in-the-marketing-calendar}
 

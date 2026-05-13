@@ -1,9 +1,19 @@
 ---
 unique-page-id: 11380986
-description: "Learn how to change a workspace's lead partition, primary person partition, and primary branded domain."
+description: Learn how to change a workspace's lead partition, primary person partition, and primary branded domain.
 title: Edit a Workspace
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
+TQID: https://experienceleague.adobe.com/jcIe8BMcmtv0znDgj-CFn6NVrBLDpVj4XN9mWv4sQ84
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Edit a Workspace {#edit-a-workspace}
 

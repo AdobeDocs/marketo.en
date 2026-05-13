@@ -1,9 +1,18 @@
 ---
 unique-page-id: 2951109
-description: "Release Notes - October 2012 - Marketo Docs - Product Documentation"
+description: Release Notes - October 2012 - Marketo Docs - Product Documentation
 title: Release Notes - October 2012
 exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
+TQID: https://experienceleague.adobe.com/czXbxTetZlT2CC9aoySZePUYc6tPTNF04dlKadnZVII
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Release Notes: October 2012 {#release-notes-october}
 

@@ -1,8 +1,12 @@
 ---
-description: "Learn how to connect Marketo to Dynamics 2016 or Dynamics 365 on-premises in step 3. Enter sync user credentials in Marketo Admin and enable the sync."
+description: Learn how to connect Marketo to Dynamics 2016 or Dynamics 365 on-premises in step 3. Enter sync user credentials in Marketo Admin and enable the sync.
 title: Install Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premises Step 3 of 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/WYR9u4Mfq8SeuXPyuYxgA-9iZlez5oKYPpnvrl-RwqY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Step 3 of 3: Connect Marketo [!DNL Dynamics] (2016 On Prem/[!DNL Dynamics] 365 On-Premises) {#step-of-connect-marketo-dynamics-on-premises-2016}
 

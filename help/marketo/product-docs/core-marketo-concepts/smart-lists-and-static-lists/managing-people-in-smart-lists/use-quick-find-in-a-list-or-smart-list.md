@@ -1,9 +1,13 @@
 ---
 unique-page-id: 557326
-description: "Learn how to use Quick Find in a list or Smart List. Search for a specific person by name or email in the list."
+description: Learn how to use Quick Find in a list or Smart List. Search for a specific person by name or email in the list.
 title: Use Quick Find in a List or Smart List
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/PryszoOP-ARYY3MwaOrHmMuW3VlOdssIZ8xeDdGFemA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Use Quick Find in a List or Smart List {#use-quick-find-in-a-list-or-smart-list}
 

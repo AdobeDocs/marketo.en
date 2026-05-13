@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147114
-description: "Learn about program member custom field tokens. Use tokens to insert member data into emails and landing pages."
+description: Learn about program member custom field tokens. Use tokens to insert member data into emails and landing pages.
 title: Program Member Custom Field Tokens
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
+TQID: https://experienceleague.adobe.com/B2oY6BKJdd92AAsMPHZV8Ffyc-9jKGRpATqles6TUos
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Program Member Custom Field Tokens {#program-member-custom-field-tokens}
 

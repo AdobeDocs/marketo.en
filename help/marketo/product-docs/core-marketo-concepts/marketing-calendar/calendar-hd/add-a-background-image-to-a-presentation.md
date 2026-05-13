@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7504437
-description: "Learn how to add a background image to a Marketing Calendar presentation. Customize your presentation by selecting an image from the library."
+description: Learn how to add a background image to a Marketing Calendar presentation. Customize your presentation by selecting an image from the library.
 title: Add a Background Image to a Presentation
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/fKxbaDF1Nl28XGIPqxz1M-RJfOUuGKXPJajfzwO4jOU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Add a Background Image to a Presentation {#add-a-background-image-to-a-presentation}
 

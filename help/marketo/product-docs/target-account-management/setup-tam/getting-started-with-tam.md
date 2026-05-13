@@ -1,9 +1,13 @@
 ---
 unique-page-id: 12255457
-description: "Learn how to get started with TAM after it is added to your instance. Follow steps to set permissions, configure account score, create named accounts, and more."
+description: Learn how to get started with TAM after it is added to your instance. Follow steps to set permissions, configure account score, create named accounts, and more.
 title: Getting Started with TAM
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/GTPzG-MpCbU0vy85c8tc5gBqb8CeTI9eTamHsPdascU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Getting Started with TAM {#getting-started-with-tam}
 

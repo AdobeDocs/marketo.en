@@ -1,9 +1,13 @@
 ---
 unique-page-id: 18317367
-description: "Learn how to view the campaigns list as another user in Sales Connect. Use the View As drop-down as an admin to see any user's campaigns."
+description: Learn how to view the campaigns list as another user in Sales Connect. Use the View As drop-down as an admin to see any user's campaigns.
 title: View Campaigns List as Another User
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/XnIOX7c3XNBSVGmCWey8f2niODpiKWRODuEhjkFxM4E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # View Campaigns List as Another User {#view-campaigns-list-as-another-user}
 

@@ -1,9 +1,18 @@
 ---
 unique-page-id: 2953348
-description: "Learn how to create entries directly in the Marketing Calendar using program focus. Add basic entries, email programs, or Smart Campaigns."
+description: Learn how to create entries directly in the Marketing Calendar using program focus. Add basic entries, email programs, or Smart Campaigns.
 title: Create Entries Directly in the Marketing Calendar
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/75swCAACWlMezXWceh-V8RyDujqrtLNOSDtuJJyjb2E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Create Entries Directly in the Marketing Calendar {#create-entries-directly-in-the-marketing-calendar}
 

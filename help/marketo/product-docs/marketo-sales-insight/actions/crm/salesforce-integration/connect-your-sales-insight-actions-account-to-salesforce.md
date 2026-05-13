@@ -1,8 +1,12 @@
 ---
-description: "Learn how to connect your Sales Insight Actions account to Salesforce."
+description: Learn how to connect your Sales Insight Actions account to Salesforce.
 title: Connect Your Sales Insight Actions Account to Salesforce
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/C8GZBofPcwE9Jo2dxCnF4A-EoRaEq1194A9k06ww4CY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Connect Your [!DNL Sales Insight Actions] Account to [!DNL Salesforce] {#connect-your-sales-insight-actions-account-to-salesforce}
 

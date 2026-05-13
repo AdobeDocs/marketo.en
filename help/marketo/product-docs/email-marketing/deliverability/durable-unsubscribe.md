@@ -1,9 +1,16 @@
 ---
 unique-page-id: 10094576
-description: "Learn about durable unsubscribe and how the master email status propagates across people. Manage re-subscribes and person records in Marketo."
+description: Learn about durable unsubscribe and how the master email status propagates across people. Manage re-subscribes and person records in Marketo.
 title: Durable Unsubscribe
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
+TQID: https://experienceleague.adobe.com/Zr7XyDDSHtWW4lp4ATAM6xlPrNnTJlqoOOjjln-YuqI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Durable Unsubscribe {#durable-unsubscribe}
 

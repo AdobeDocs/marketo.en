@@ -1,9 +1,16 @@
 ---
 unique-page-id: 11387513
-description: "Learn how to create a static list in Marketo. Add a list to the Database and add people manually or by import."
+description: Learn how to create a static list in Marketo. Add a list to the Database and add people manually or by import.
 title: Create a Static List
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
+TQID: https://experienceleague.adobe.com/UdROW8dxInfiSUH8SvY93hN1SQ1SdJXwLqb57l9TIjI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Create a Static List {#create-a-static-list}
 

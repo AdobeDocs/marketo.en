@@ -1,9 +1,19 @@
 ---
 unique-page-id: 13795536
-description: "Learn how to create a segment using a static list in Marketo Engage using create a segment using a static list. Use this guide to complete your next step."
+description: Learn how to create a segment using a static list in Marketo Engage using create a segment using a static list. Use this guide to complete your next step.
 title: Create a Segment Using a Static List
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/XiW8i6vn-Io7S19hxtaQ1om1Yt6BJTsHffB6QvKyxE4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Create a Segment Using a Static List {#create-a-segment-using-a-static-list}
 

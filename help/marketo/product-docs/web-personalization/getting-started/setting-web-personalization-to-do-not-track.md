@@ -1,9 +1,21 @@
 ---
 unique-page-id: 11382593
-description: "Learn about setting web personalization to do not track in Marketo Engage, including setting web personalization to. Use this guide to complete your next step."
+description: Learn about setting web personalization to do not track in Marketo Engage, including setting web personalization to. Use this guide to complete your next step.
 title: Setting Web Personalization to Do Not Track
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/A0tlq8LE2lrjor1nYTB5z5TjcYNccL3XEdjIkMQHERk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Setting [!UICONTROL Web Personalization] to Do Not Track {#setting-web-personalization-to-do-not-track}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 9437840
-description: "Learn about the Template 16C guided landing page template. Download and use it for your Marketo landing pages."
+description: Learn about the Template 16C guided landing page template. Download and use it for your Marketo landing pages.
 title: Template 16C
 exl-id: 3e6369bd-4d36-4308-af41-65d67a01c172
 feature: Landing Pages, Guided Landing Page Templates
+TQID: https://experienceleague.adobe.com/OcW--Vpm-lY7mK00NGSKfgryjYxdfHF7Gm8CtnvSVo8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Template 16C {#template-16c}
 

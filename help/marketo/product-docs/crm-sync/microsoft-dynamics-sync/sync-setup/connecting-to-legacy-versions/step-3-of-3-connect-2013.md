@@ -1,9 +1,13 @@
 ---
 unique-page-id: 3571819
-description: "Learn how to connect Marketo and Dynamics 2013 on-premises in the final step. Enter sync user information in Marketo Admin and enable the sync."
+description: Learn how to connect Marketo and Dynamics 2013 on-premises in the final step. Enter sync user information in Marketo Admin and enable the sync.
 title: Step 3 of 3 -Connect Marketo and Dynamics (2013 On-Premises)
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/pERYRYCLDigsARoh7aAWOTXRFmpIWKz8j-tgDb-ShTQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Step 3 of 3: Connect Marketo and [!DNL Dynamics] (2013 On-Premises) {#step-of-connect-marketo-and-dynamics-on-premises}
 

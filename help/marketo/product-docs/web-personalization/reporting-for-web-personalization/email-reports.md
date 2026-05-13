@@ -1,9 +1,27 @@
 ---
 unique-page-id: 4719338
-description: "Learn about automated email reports for Web Personalization including Organizations, People, Top Performing Campaigns, and Summary reports. Customize which reports you receive in User Settings."
+description: Learn about automated email reports for Web Personalization including Organizations, People, Top Performing Campaigns, and Summary reports. Customize which reports you receive in User Settings.
 title: Email Reports
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/zRp6gzCiiXIdVvJYd3Lrg4AhnqldJ7iGKijK9QA-DVg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Email Reports {#email-reports}
 

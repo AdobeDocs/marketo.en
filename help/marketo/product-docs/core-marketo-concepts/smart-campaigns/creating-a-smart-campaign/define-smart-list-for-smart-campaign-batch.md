@@ -1,9 +1,18 @@
 ---
 unique-page-id: 1146940
-description: "Learn how to define the Smart List for a batch Smart Campaign. Choose who enters the campaign with filters."
+description: Learn how to define the Smart List for a batch Smart Campaign. Choose who enters the campaign with filters.
 title: Define Smart List for Smart Campaign | Batch
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/8tIdCQG-oc6eCGHI6DGi3hCJ1kMJJCuqu3LpSsJ1UxA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Define Smart List for Smart Campaign | Batch {#define-smart-list-for-smart-campaign-batch}
 

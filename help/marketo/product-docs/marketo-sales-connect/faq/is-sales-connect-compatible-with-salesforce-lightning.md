@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352493
-description: "Learn whether Sales Connect is compatible with Salesforce Lightning. Get details on Lightning support and customizations."
+description: Learn whether Sales Connect is compatible with Salesforce Lightning. Get details on Lightning support and customizations.
 title: Is Sales Connect Compatible with Salesforce Lightning?
 exl-id: e1543b92-8175-41d2-b56a-ec60253a87d8
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/8nSnWVQPx7SnwWMz-lDfBIBV-lSsrMwo5vXkTBO-AmE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Is [!DNL Sales Connect] Compatible with [!DNL Salesforce] Lightning? {#is-sales-connect-compatible-with-salesforce-lightning}
 

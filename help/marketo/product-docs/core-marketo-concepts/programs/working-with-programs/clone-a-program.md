@@ -1,9 +1,23 @@
 ---
 unique-page-id: 1147110
-description: "Learn how to clone a program and all its assets. Create a copy in a campaign folder or workspace without rebuilding manually."
+description: Learn how to clone a program and all its assets. Create a copy in a campaign folder or workspace without rebuilding manually.
 title: Clone a Program
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
+TQID: https://experienceleague.adobe.com/sK90bX7HXmXSPW0virjv2PTHityAVBF51XuM3jsru38
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Clone a Program {#clone-a-program}
 

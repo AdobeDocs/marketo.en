@@ -1,9 +1,21 @@
 ---
 unique-page-id: 7515616
-description: "Learn about the guided landing page template list in Marketo. Browse and download templates for your landing pages."
+description: Learn about the guided landing page template list in Marketo. Browse and download templates for your landing pages.
 title: Guided Landing Page Template List
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
+TQID: https://experienceleague.adobe.com/aHSN4jaUa-1FI8CRLUo1h-UmxjwWCB0ZDt3vbvoEVa0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
 ---
 # Guided Landing Page Template List {#guided-landing-page-template-list}
 

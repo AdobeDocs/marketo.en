@@ -1,9 +1,19 @@
 ---
 unique-page-id: 42762244
-description: "Learn how to set up stars and flames for lead and contact records in Dynamics. Show lead score and urgency in the CRM."
+description: Learn how to set up stars and flames for lead and contact records in Dynamics. Show lead score and urgency in the CRM.
 title: Setting up Stars and Flames for Lead/Contact Records
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/4-YHMNYzPvbzledbjd4Q6xfBhkxJfUDgAt5W99EzksI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Setting up Stars and Flames for Lead/Contact Records {#setting-up-stars-and-flames-for-lead-contact-records}
 

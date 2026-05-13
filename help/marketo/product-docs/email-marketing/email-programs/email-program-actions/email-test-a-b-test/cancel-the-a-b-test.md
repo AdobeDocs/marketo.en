@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359600
-description: "Learn how to cancel an A/B test for an email program. Stop the test and choose how to handle the remaining audience."
+description: Learn how to cancel an A/B test for an email program. Stop the test and choose how to handle the remaining audience.
 title: Cancel the A/B Test
 exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
 feature: Email Programs, A/B Testing
+TQID: https://experienceleague.adobe.com/TlwTVRfiqMJZ--s5hdGhi32XfSUwZuTlRupX8wMCwoU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Cancel the A/B Test {#cancel-the-a-b-test}
 

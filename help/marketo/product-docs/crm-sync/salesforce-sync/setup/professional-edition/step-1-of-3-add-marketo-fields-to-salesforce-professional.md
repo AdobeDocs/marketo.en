@@ -1,9 +1,13 @@
 ---
 unique-page-id: 11372975
-description: "Learn how to add Marketo fields to Salesforce Professional edition. Create Score, Acquisition Program, and Acquisition Date on lead and contact objects."
+description: Learn how to add Marketo fields to Salesforce Professional edition. Create Score, Acquisition Program, and Acquisition Date on lead and contact objects.
 title: Step 1 of 3 -Add Marketo Fields to Salesforce  (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJfI70
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Step 1 of 3: Add Marketo Fields to [!DNL Salesforce] (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 

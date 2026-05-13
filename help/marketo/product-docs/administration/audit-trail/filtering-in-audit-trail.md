@@ -1,9 +1,21 @@
 ---
 unique-page-id: 11378468
-description: "Filter Audit Trail by time frame, asset type, users, and action to find specific changes."
+description: Filter Audit Trail by time frame, asset type, users, and action to find specific changes.
 title: Filtering in Audit Trail
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
+TQID: https://experienceleague.adobe.com/Bx9YAuSn8vzt7diooarSckj7TJBmXCzAG-fkh7iCskM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Filtering in Audit Trail {#filtering-in-audit-trail}
 

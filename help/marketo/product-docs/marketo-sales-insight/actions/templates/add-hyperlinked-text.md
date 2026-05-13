@@ -1,8 +1,15 @@
 ---
-description: "Learn how to add hyperlinked text in email templates. Insert trackable links and format link text in the template editor."
+description: Learn how to add hyperlinked text in email templates. Insert trackable links and format link text in the template editor.
 title: Add Hyperlinked Text
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/AG9YYnDYtvwKIRym4Rc5vyK0O3UQBz-er4ongNk-dCE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Add Hyperlinked Text {#add-hyperlinked-text}
 

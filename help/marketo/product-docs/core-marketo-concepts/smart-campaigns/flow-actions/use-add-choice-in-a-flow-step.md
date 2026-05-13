@@ -1,9 +1,19 @@
 ---
 unique-page-id: 1146980
-description: "Learn how to use Add Choice in a flow step. Branch your campaign flow based on conditions with choice logic."
+description: Learn how to use Add Choice in a flow step. Branch your campaign flow based on conditions with choice logic.
 title: Use Add Choice in a Flow Step
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/2zIMDjJx0-Hm1NlgnGrQrnJuBwzMh0B2dq-tnJ34bZo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
 ---
 # Use Add Choice in a Flow Step {#use-add-choice-in-a-flow-step}
 

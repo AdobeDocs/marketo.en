@@ -1,8 +1,15 @@
 ---
-description: "Learn about Marketo Unsubscribe Check so sellers cannot email people who unsubscribed in Marketo."
+description: Learn about Marketo Unsubscribe Check so sellers cannot email people who unsubscribed in Marketo.
 title: Marketo Unsubscribe Check
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/RaIYKEVyjdeUlOa4paltYIS8NPZHi1XWTmO4IeLBy-o
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 ---
 # [!UICONTROL Marketo Unsubscribe Check] {#marketo-unsubscribe-check}
 

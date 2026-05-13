@@ -1,8 +1,21 @@
 ---
-description: "Initial setup steps for Adobe System Admins after being added to Marketo Engage, including creating a product profile in the Adobe Admin Console."
+description: Initial setup steps for Adobe System Admins after being added to Marketo Engage, including creating a product profile in the Adobe Admin Console.
 title: Admin Setup
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
+TQID: https://experienceleague.adobe.com/S6IJubZNpCISjsgF646MLAxliBqH8KyOnRETtiVv9gI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Admin Setup {#admin-setup}
 

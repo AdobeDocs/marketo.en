@@ -1,8 +1,12 @@
 ---
-description: "Learn how to set up the client app on Microsoft Dynamics for ROPC connection. Register the app in Azure AD and generate a client secret for Marketo sync."
-title: "Step 3 of 4 - Set up Client App on MS [!DNL Dynamics]"
+description: Learn how to set up the client app on Microsoft Dynamics for ROPC connection. Register the app in Azure AD and generate a client secret for Marketo sync.
+title: Step 3 of 4 - Set up Client App on MS [!DNL Dynamics]
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/-zVs1Dq2fO4u055kIx9i77YLTyhplheh6153JYZnmp4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Step 3 of 4: Set up Client App on MS [!DNL Dynamics] {#step-3-of-4-set-up-client-app-ms-dynamics-ropc}
 

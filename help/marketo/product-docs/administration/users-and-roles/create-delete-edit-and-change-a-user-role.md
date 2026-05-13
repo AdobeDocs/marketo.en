@@ -1,9 +1,22 @@
 ---
 unique-page-id: 2360198
-description: "Steps to create, delete, and edit user roles, including naming roles, selecting permissions, and which system roles cannot be changed."
+description: Steps to create, delete, and edit user roles, including naming roles, selecting permissions, and which system roles cannot be changed.
 title: Create, Delete, Edit and Change a User Role
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
+TQID: https://experienceleague.adobe.com/JcgZAmTXB5rvXJGwvBbK20FxB4w7t-AlYx0rkn4ccT0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Create, Delete, Edit and Change a User Role {#create-delete-edit-and-change-a-user-role}
 

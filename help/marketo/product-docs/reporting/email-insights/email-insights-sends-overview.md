@@ -1,9 +1,21 @@
 ---
 unique-page-id: 10099413
-description: "Learn about the Email Insights Sends page that examines characteristics of recent email communications. View delivery metrics, engagement metrics, and engagement scores for your sent emails."
+description: Learn about the Email Insights Sends page that examines characteristics of recent email communications. View delivery metrics, engagement metrics, and engagement scores for your sent emails.
 title: Email Insights Sends Overview
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
+TQID: https://experienceleague.adobe.com/jqWygOwiAGryAfaWPV01ZnRqj5bVc-I2AvvkJza-fjM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Email Insights Sends Overview {#email-insights-sends-overview}
 

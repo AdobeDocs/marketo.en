@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2949716
-description: "Learn how to send and track an email with the Marketo Email Add-in for Outlook. Compose from Outlook and see views, clicks, and replies."
-title: "Send and Track an Email with the Email Add-In for [!DNL Outlook]"
+description: Learn how to send and track an email with the Marketo Email Add-in for Outlook. Compose from Outlook and see views, clicks, and replies.
+title: Send and Track an Email with the Email Add-In for [!DNL Outlook]
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/WvLQCUhBt1q0E8TzyMCIMYe7gv5z0kNhcKCjE-yTCyo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Send and Track an Email with the Email Add-In for [!DNL Outlook] {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 

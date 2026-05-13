@@ -1,7 +1,14 @@
 ---
-description: "Learn how to add custom activity fields for Sales Insight Actions in Salesforce. Create Activity Custom Fields in Setup to log call outcomes, reasons, and more."
+description: Learn how to add custom activity fields for Sales Insight Actions in Salesforce. Create Activity Custom Fields in Setup to log call outcomes, reasons, and more.
 title: Logging Sales Activity Attributes to Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
+TQID: https://experienceleague.adobe.com/eHt6JXey7ZwZ8RjqTsGxqcFjun73vh3s4zk3cCqAiq8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 ---
 # Logging Sales Activity Attributes to [!DNL Salesforce] {#logging-sales-activity-attributes-to-salesforce}
 

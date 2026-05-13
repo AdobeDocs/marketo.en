@@ -1,9 +1,25 @@
 ---
 unique-page-id: 2360005
-description: "Learn about Company Web Activity reports that show which companies are visiting your website grouped by company. Display known or anonymous visitors and track page views, people, and geographic location."
+description: Learn about Company Web Activity reports that show which companies are visiting your website grouped by company. Display known or anonymous visitors and track page views, people, and geographic location.
 title: Company Web Activity Report
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
+TQID: https://experienceleague.adobe.com/U075R1PGYsqHdHOwEv5IgD-Wb6I4ejtmY4CylsXeXds
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Company Web Activity Report {#company-web-activity-report}
 

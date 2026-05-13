@@ -1,9 +1,16 @@
 ---
 unique-page-id: 14352592
-description: "Learn how to insert dynamic fields into Sales Connect templates. Add first name, company, and other merge fields in the template editor."
+description: Learn how to insert dynamic fields into Sales Connect templates. Add first name, company, and other merge fields in the template editor.
 title: How to Insert Dynamic Fields
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/WwKaorfXBu5Ah9wD6pXf5U4YzlpP9MoUMg-TtDzXDRo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # How to Insert Dynamic Fields {#how-to-insert-dynamic-fields}
 

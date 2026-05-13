@@ -1,9 +1,13 @@
 ---
 unique-page-id: 4719304
-description: "Understand which Salesforce flow steps trigger automatic Sync Person to SFDC or other actions. Learn the rules for Add to Campaign, Change Owner, Create Task, and Convert Person."
+description: Understand which Salesforce flow steps trigger automatic Sync Person to SFDC or other actions. Learn the rules for Add to Campaign, Change Owner, Create Task, and Convert Person.
 title: Implied Salesforce Actions
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/lI3sRqk1if-UZ7DARSrGXXM485ZjZnlqDGb4si2wvi0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Implied Salesforce Actions {#implied-salesforce-actions}
 

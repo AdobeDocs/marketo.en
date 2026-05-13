@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352548
-description: "Learn how to uninstall the Sales Connect plugin from Gmail. Remove the plugin from your Gmail account when needed."
+description: Learn how to uninstall the Sales Connect plugin from Gmail. Remove the plugin from your Gmail account when needed.
 title: How to Uninstall Sales Connect from Gmail
 exl-id: 36032005-651f-43c8-a92a-0968b52ccb86
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/HIwYaMn9Az0jbDWOG9Af-Af-xfgYUtblkFrb6hH-VIk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # How to Uninstall [!DNL Sales Connect] from Gmail {#how-to-uninstall-sales-connect-from-gmail}
 

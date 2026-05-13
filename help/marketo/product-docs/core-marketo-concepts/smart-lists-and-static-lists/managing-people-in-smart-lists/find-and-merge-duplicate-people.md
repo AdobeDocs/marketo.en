@@ -1,9 +1,16 @@
 ---
 unique-page-id: 557339
-description: "Learn how to find and merge duplicate people. Combine duplicate records into one and clean your database."
+description: Learn how to find and merge duplicate people. Combine duplicate records into one and clean your database.
 title: Find and Merge Duplicate People
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/QHBmdsH5bm0NdYi4SVhrDJBvO5ku0yaev36lX0b-Vp0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Find and Merge Duplicate People {#find-and-merge-duplicate-people}
 

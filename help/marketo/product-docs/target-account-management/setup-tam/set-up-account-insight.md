@@ -1,9 +1,16 @@
 ---
 unique-page-id: 12979223
-description: "Learn how to set up Account Insight for sales teams. Configure how named accounts and engaged people are prioritized in the Sales tab."
+description: Learn how to set up Account Insight for sales teams. Configure how named accounts and engaged people are prioritized in the Sales tab.
 title: Set up Account Insight
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/g9A-WspGDM00YUlXMVsMzFxdjgooaL-kvsKck5hH5EA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 ---
 # Set up Account Insight {#set-up-account-insight}
 

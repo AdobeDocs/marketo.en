@@ -1,8 +1,18 @@
 ---
-description: "Learn about Agent Management in Dynamic Chat. View agents, manage teams, set fallback rules, and control how meetings and live chat are assigned."
+description: Learn about Agent Management in Dynamic Chat. View agents, manage teams, set fallback rules, and control how meetings and live chat are assigned.
 title: Agent Management
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
+TQID: https://experienceleague.adobe.com/WZgOsCc5-8oEKLPhj6ziYMIhrYKHxHjrqhLp73mirSU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Agent Management {#agent-management}
 

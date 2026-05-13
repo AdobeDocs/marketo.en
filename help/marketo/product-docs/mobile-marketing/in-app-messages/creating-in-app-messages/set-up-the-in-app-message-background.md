@@ -1,9 +1,18 @@
 ---
 unique-page-id: 10100649
-description: "Learn how to set up the in-app message background. Choose color or image, set border and corner radius, and configure tap actions for each platform."
+description: Learn how to set up the in-app message background. Choose color or image, set border and corner radius, and configure tap actions for each platform.
 title: Set Up the In-App Message Background
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/32bKrhka2wbsBdb5cFSm5xnY0UWOsrzf-kofqRsrKz4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
 ---
 # Set Up the In-App Message Background {#set-up-the-in-app-message-background}
 

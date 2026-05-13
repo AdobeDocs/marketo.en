@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7511477
-description: "Learn how to use inactivity filters in a Smart List. Find people who have not done something for a set period."
+description: Learn how to use inactivity filters in a Smart List. Find people who have not done something for a set period.
 title: Use Inactivity Filters in a Smart List
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/Yn0UrS8Umo--Uhd7iGyUCI-aB0pTyY0jxrf2277qUSM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Use Inactivity Filters in a Smart List {#use-inactivity-filters-in-a-smart-list}
 

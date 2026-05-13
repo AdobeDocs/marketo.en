@@ -1,8 +1,12 @@
 ---
-description: "Learn how to generate questions for Dynamic Chat using source URLs and topics. Create AI-assisted responses and track task status in Assisted responses."
+description: Learn how to generate questions for Dynamic Chat using source URLs and topics. Create AI-assisted responses and track task status in Assisted responses.
 title: Question Generation
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
+TQID: https://experienceleague.adobe.com/aNb02vSBYXLUd-bGqvbbTB6IXSL6IY-8KCozGeZjZsI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Question Generation {#question-generation}
 

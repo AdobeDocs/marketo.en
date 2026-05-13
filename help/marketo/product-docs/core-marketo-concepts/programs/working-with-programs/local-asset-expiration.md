@@ -1,8 +1,15 @@
 ---
-description: "Learn about local asset expiration in programs. Set when local assets in a program expire and are removed."
+description: Learn about local asset expiration in programs. Set when local assets in a program expire and are removed.
 title: Local Asset Expiration
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
+TQID: https://experienceleague.adobe.com/3mXajdQYczhGSxbqPw8UdoavzeHL1ABekMZSiAdaNyQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Local Asset Expiration {#local-asset-expiration}
 

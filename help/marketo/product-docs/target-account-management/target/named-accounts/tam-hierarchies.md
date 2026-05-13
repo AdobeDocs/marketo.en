@@ -1,9 +1,13 @@
 ---
 unique-page-id: 13795510
-description: "Learn about TAM Hierarchies and how they inherit parent-child relationships from your CRM. Target and report on entire account families with one click."
+description: Learn about TAM Hierarchies and how they inherit parent-child relationships from your CRM. Target and report on entire account families with one click.
 title: TAM Hierarchies
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/1Hdh2uh90jHYSvTBi5Jd9nv93iudLKghcp5aj29TmGk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # TAM Hierarchies {#tam-hierarchies}
 

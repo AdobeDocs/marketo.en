@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2359567
-description: "Learn how to view Champion/Challenger analytics and configure report alerts. Track test performance and get notified when a winner is ready."
+description: Learn how to view Champion/Challenger analytics and configure report alerts. Track test performance and get notified when a winner is ready.
 title: Champion/Challenger -Configure Report Alerts
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/idG-mOrJdcShh-sv41sQUVXykShdhnEyxMpg2znKLrU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
+    internal-label: Experimentation
 ---
 # Champion/Challenger: Analytics {#champion-challenger-analytics}
 

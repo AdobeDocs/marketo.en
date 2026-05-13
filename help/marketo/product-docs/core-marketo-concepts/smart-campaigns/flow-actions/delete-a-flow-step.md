@@ -1,9 +1,19 @@
 ---
 unique-page-id: 1146987
-description: "Learn how to delete a flow step from a Smart Campaign. Remove actions you no longer need from the flow."
+description: Learn how to delete a flow step from a Smart Campaign. Remove actions you no longer need from the flow.
 title: Delete a Flow Step
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/W7vuSvjNiJ3aN5aqB8CL9lHXinhT58ul6PzGDpaHqgI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
 ---
 # Delete a Flow Step {#delete-a-flow-step}
 

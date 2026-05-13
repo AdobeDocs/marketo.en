@@ -1,9 +1,19 @@
 ---
 unique-page-id: 4719404
-description: "Learn about ab test your web campaign in Marketo Engage, including ab test your web campaign. Use this guide to complete your next step."
+description: Learn about ab test your web campaign in Marketo Engage, including ab test your web campaign. Use this guide to complete your next step.
 title: AB Test Your Web Campaign
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/mwO5mF2HGjYZr3CPpE4uan-7bn89bie-EjSR2JP6NvM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # AB Test Your Web Campaign {#ab-test-your-web-campaign}
 

@@ -1,9 +1,21 @@
 ---
 unique-page-id: 14745793
-description: "Learn about Sales Connect customizations for CRM and Salesforce. Understand available customizations and how to install them."
+description: Learn about Sales Connect customizations for CRM and Salesforce. Understand available customizations and how to install them.
 title: "[!DNL Sales Connect] Customizations for CRM"
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/rBfS1XRSdxIS5lQtn7wuPbW8ZqpKKqwAl7z5OnH0wmA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # [!DNL Sales Connect] Customizations for CRM {#sales-connect-customizations-for-crm}
 

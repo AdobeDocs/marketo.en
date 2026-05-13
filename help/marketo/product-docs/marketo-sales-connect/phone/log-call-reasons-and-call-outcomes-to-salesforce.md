@@ -1,8 +1,22 @@
 ---
-description: "Learn how to log call reasons and call outcomes to Salesforce from Sales Connect. Ensure call disposition syncs to the correct Salesforce fields."
+description: Learn how to log call reasons and call outcomes to Salesforce from Sales Connect. Ensure call disposition syncs to the correct Salesforce fields.
 title: Log Call Reasons and Call Outcomes to Salesforce
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/s1WtxUjizmyoubCK1SfFAfivTRcfuQeESWDYyNVO6k4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Log Call Reasons and Call Outcomes to [!DNL Salesforce] {#log-call-reasons-and-call-outcomes-to-salesforce}
 

@@ -1,8 +1,15 @@
 ---
-description: "Learn how to promote an Interactive Webinar in Marketo. Share registration links and drive attendance with emails and campaigns."
+description: Learn how to promote an Interactive Webinar in Marketo. Share registration links and drive attendance with emails and campaigns.
 title: Promoting an Interactive Webinar
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
+TQID: https://experienceleague.adobe.com/QBHZR8wjeXBanHL-K3L8yldblimtKfcY4akfwVu78EI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
 ---
 # Promoting an Interactive Webinar {#promoting-an-interactive-webinar}
 

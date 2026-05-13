@@ -1,11 +1,24 @@
 ---
 unique-page-id: 30081815
-description: "Learn how to configure Adobe Experience Manager integration with Marketo. Set up AEM so you can access and import assets into Design Studio."
+description: Learn how to configure Adobe Experience Manager integration with Marketo. Set up AEM so you can access and import assets into Design Studio.
 title: Configuring Adobe Experience Manager Integration
 hide: true
-
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
+TQID: https://experienceleague.adobe.com/nJBydVi8mRwVf1vAIFuI1S3nEuX0FGiztp8fhRHq6RM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
 ---
 # Configuring Adobe Experience Manager Integration {#configuring-adobe-experience-manager-integration}
 

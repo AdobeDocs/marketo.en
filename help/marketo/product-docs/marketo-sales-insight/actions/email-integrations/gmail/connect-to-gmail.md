@@ -1,7 +1,14 @@
 ---
-description: "Learn how to connect Gmail to Sales Insight Actions. Send and track sales emails from Gmail with the Actions integration."
+description: Learn how to connect Gmail to Sales Insight Actions. Send and track sales emails from Gmail with the Actions integration.
 title: Connect to Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
+TQID: https://experienceleague.adobe.com/plEWvPm-qRn4KrTMRwvCClzzu2wxluHlGgPGh3h1a3A
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 ---
 # Connect to Gmail {#connect-to-gmail}
 

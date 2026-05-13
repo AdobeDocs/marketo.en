@@ -1,9 +1,21 @@
 ---
 unique-page-id: 10100257
-description: "Find answers to frequently asked questions about Email Insights including metric calculations, custom dimensions, and device filtering. Understand how Email Insights differs from other reporting tools."
+description: Find answers to frequently asked questions about Email Insights including metric calculations, custom dimensions, and device filtering. Understand how Email Insights differs from other reporting tools.
 title: Email Insights FAQ
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
+TQID: https://experienceleague.adobe.com/UNzwiJa-6EdJLNKp289DB-EtTv699FlepBlaDGoWLq4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Email Insights FAQ {#email-insights-faq}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359828
-description: "Learn how to add SSL to your Marketo landing pages. Enable HTTPS for secure landing page URLs."
+description: Learn how to add SSL to your Marketo landing pages. Enable HTTPS for secure landing page URLs.
 title: Add SSL to Your Landing Pages
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/BqMzRWEHpZjd1Ju-o0xCzNKIXpfUYyifWYGKHNqfs0o
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 ---
 # Add SSL to Your Landing Pages {#add-ssl-to-your-landing-pages}
 

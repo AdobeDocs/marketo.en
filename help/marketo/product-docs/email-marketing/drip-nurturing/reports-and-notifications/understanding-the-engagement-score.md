@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2359890
-description: "Learn about the engagement score (0 to 100) and how it measures content effectiveness. Use the dashboard to compare content performance."
+description: Learn about the engagement score (0 to 100) and how it measures content effectiveness. Use the dashboard to compare content performance.
 title: Understanding the Engagement Score
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
+TQID: https://experienceleague.adobe.com/b8-UTMy8MRLxXte2IbMJDfBT3srjzy5FIWgLUH256x8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Understanding the Engagement Score {#understanding-the-engagement-score}
 

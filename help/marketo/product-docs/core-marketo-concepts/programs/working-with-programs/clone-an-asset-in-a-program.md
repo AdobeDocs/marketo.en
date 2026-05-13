@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147152
-description: "Learn how to clone an asset within a program. Create a copy of an email, landing page, or other local asset."
+description: Learn how to clone an asset within a program. Create a copy of an email, landing page, or other local asset.
 title: Clone an Asset in a Program
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
+TQID: https://experienceleague.adobe.com/Gv8ebcjYVhdI53wz0RKb7NMoEeNOwIVeoSO3UJOlToQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Clone an Asset in a Program {#clone-an-asset-in-a-program}
 

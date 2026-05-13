@@ -1,9 +1,18 @@
 ---
 unique-page-id: 1900589
-description: "Learn how to add tracked links to text-only emails. Enable link tracking so you can measure clicks in your email reports."
+description: Learn how to add tracked links to text-only emails. Enable link tracking so you can measure clicks in your email reports.
 title: Add Tracked Links to a Text Email
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/zz5DkOWG-x3y-oq-E77xRAZtcNdmimbwKsctKSChnXM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Add Tracked Links to a Text Email {#add-tracked-links-to-a-text-email}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1900579
-description: "Learn how to disable tracking for specific email links. Turn off click tracking when needed for privacy or redirect URLs."
+description: Learn how to disable tracking for specific email links. Turn off click tracking when needed for privacy or redirect URLs.
 title: Disable Tracking for an Email Link
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/q3ADow5Tqt-k37k-joN6qGPAPiS8KRkFNUyeR8osJ8Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Disable Tracking for an Email Link {#disable-tracking-for-an-email-link}
 

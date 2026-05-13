@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1146897
-description: "Learn how to delete people from a Smart List or static list. Remove people from the list or from the database."
+description: Learn how to delete people from a Smart List or static list. Remove people from the list or from the database.
 title: Delete People in a Smart List or List
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/2a609g-CTuuL0QjXpzFPhNRqcl87LhCcILbtp2cjA4I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Delete People in a Smart List or List {#delete-people-in-a-smart-list-or-list}
 

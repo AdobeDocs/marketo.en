@@ -1,10 +1,13 @@
 ---
-description: "Learn how to disconnect Salesforce from Sales Insight Actions."
+description: Learn how to disconnect Salesforce from Sales Insight Actions.
 title: Disconnect Salesforce From Sales Insight Actions
 hide: true
-
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/zMPouZTq9-cmwJsDKuHgA5qo0TPVU88cp79VZfkj9aU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Disconnect [!DNL Salesforce] From [!DNL Sales Insight Actions] {#disconnect-salesforce-from-sales-insight-actions}
 

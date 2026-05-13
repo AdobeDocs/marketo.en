@@ -1,9 +1,16 @@
 ---
 unique-page-id: 10092899
-description: "Learn about the Template 19D guided landing page template. Download and use it for your Marketo landing pages."
+description: Learn about the Template 19D guided landing page template. Download and use it for your Marketo landing pages.
 title: Template 19D
 exl-id: a2e0620e-15b7-45f1-a8f7-78f0554e290a
 feature: Landing Pages, Guided Landing Page Templates
+TQID: https://experienceleague.adobe.com/lyOh134qLXKpkYui0KXHrfatEXTYMKfgZB2Vht8VLFQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Template 19D {#template-19d}
 

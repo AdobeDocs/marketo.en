@@ -1,9 +1,19 @@
 ---
 unique-page-id: 7504130
-description: "Learn how to create a custom goal in the Marketing Calendar. Track progress and motivate your team with manually updated goals."
+description: Learn how to create a custom goal in the Marketing Calendar. Track progress and motivate your team with manually updated goals.
 title: Create a Custom Goal
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/GMwuLe6peoJWPR30vno6Ik3BIxxcVGez-BNg9WRrm60
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Create a Custom Goal {#create-a-custom-goal}
 

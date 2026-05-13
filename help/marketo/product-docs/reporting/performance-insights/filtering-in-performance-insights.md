@@ -1,9 +1,27 @@
 ---
 unique-page-id: 12979012
-description: "Learn how to filter Performance Insights data by ABM account lists, custom attributes, opportunity type, program tags, and workspace. Apply multiple filters to query specific information and update charts."
+description: Learn how to filter Performance Insights data by ABM account lists, custom attributes, opportunity type, program tags, and workspace. Apply multiple filters to query specific information and update charts.
 title: Filtering in Performance Insights
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
+TQID: https://experienceleague.adobe.com/6xpDlm3CZuh7-ej4gngZHb0gg674bvwp-E3yl1iP8f8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Filtering in [!UICONTROL Performance Insights] {#filtering-in-performance-insights}
 

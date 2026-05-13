@@ -1,9 +1,16 @@
 ---
 unique-page-id: 11376700
-description: "Learn how to add leads to a custom audience in Facebook from Marketo. Push list members to Facebook for ad targeting."
+description: Learn how to add leads to a custom audience in Facebook from Marketo. Push list members to Facebook for ad targeting.
 title: Add Leads to a Custom Audience in Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
+TQID: https://experienceleague.adobe.com/GmHQaNHu--S3Za-k544FdD3BtqCL059HAbWSPDlUaCA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 ---
 # Add Leads to a Custom Audience in [!DNL Facebook] {#add-leads-to-a-custom-audience-in-facebook}
 

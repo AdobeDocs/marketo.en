@@ -1,9 +1,19 @@
 ---
 unique-page-id: 8781845
-description: "Learn about Marketo Moments to see what matters when it matters. View key insights and take action from the mobile app."
+description: Learn about Marketo Moments to see what matters when it matters. View key insights and take action from the mobile app.
 title: Understanding Marketo Moments
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/aEx5-CA8gKF6iVsLULnpqckR8YEoizYrE-U-xHydIjo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Understanding Marketo Moments {#understanding-marketo-moments}
 

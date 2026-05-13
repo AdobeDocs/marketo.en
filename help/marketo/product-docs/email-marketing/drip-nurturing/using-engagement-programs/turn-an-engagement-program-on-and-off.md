@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359856
-description: "Learn how to turn an engagement program on or off to stop or resume content."
+description: Learn how to turn an engagement program on or off to stop or resume content.
 title: Turn an Engagement Program On and Off
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
+TQID: https://experienceleague.adobe.com/0KMEZLoWwWM8i5v97sz2-LynCi5dcGkzTYoIV32loJQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Turn an Engagement Program On and Off {#turn-an-engagement-program-on-and-off}
 

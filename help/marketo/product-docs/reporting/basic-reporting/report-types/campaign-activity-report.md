@@ -1,9 +1,23 @@
 ---
 unique-page-id: 2360057
-description: "Learn about campaign activity report in Marketo Engage, including campaign activity report campaign-activity-report. Use this guide to complete your next step."
+description: Learn about campaign activity report in Marketo Engage, including campaign activity report campaign-activity-report. Use this guide to complete your next step.
 title: Campaign Activity Report
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
+TQID: https://experienceleague.adobe.com/viQdAoYAe7zZlCEkibPytMEPaA-pKrAUxL8FS30EqMg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Campaign Activity Report {#campaign-activity-report}
 

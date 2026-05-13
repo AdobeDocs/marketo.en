@@ -1,9 +1,16 @@
 ---
 unique-page-id: 7504163
-description: "Learn how to add LinkedIn Matched Audiences as a LaunchPoint service. Use Marketo lists as LinkedIn audience segments for ad targeting."
-title: "Add [!DNL LinkedIn] Matched Audiences as a [!DNL LaunchPoint] Service"
+description: Learn how to add LinkedIn Matched Audiences as a LaunchPoint service. Use Marketo lists as LinkedIn audience segments for ad targeting.
+title: Add [!DNL LinkedIn] Matched Audiences as a [!DNL LaunchPoint] Service
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
+TQID: https://experienceleague.adobe.com/DboQklBX-1vvb3UEumAI-wf73VHvqdtXuNXJQi0dfLE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 ---
 # Add [!DNL LinkedIn] Matched Audiences as a [!DNL LaunchPoint] Service {#add-linkedin-matched-audiences-as-a-launchpoint-service}
 

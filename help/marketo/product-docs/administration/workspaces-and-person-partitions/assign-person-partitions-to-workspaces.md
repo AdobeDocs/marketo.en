@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2360317
-description: "Learn how to edit which person partitions are assigned to a workspace."
+description: Learn how to edit which person partitions are assigned to a workspace.
 title: Assign Person Partitions to Workspaces
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
+TQID: https://experienceleague.adobe.com/RwOodsRKaP2Iz-DBy6uJ0fpXJkLskqldCqn1PtntVfU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Assign Person Partitions to Workspaces {#assign-person-partitions-to-workspaces}
 

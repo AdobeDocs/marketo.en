@@ -1,9 +1,27 @@
 ---
 unique-page-id: 2360052
-description: "Learn about web pages viewed, web page activity report in Marketo Engage, including web pages viewed, web page. Use this guide to complete your next step."
+description: Learn about web pages viewed, web page activity report in Marketo Engage, including web pages viewed, web page. Use this guide to complete your next step.
 title: Web Pages Viewed, Web Page Activity Report
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
+TQID: https://experienceleague.adobe.com/DpWR-Sb828lM4zqQC325IEr0qeace47TVAafoFZh3qI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Web Pages Viewed, Web Page Activity Report {#web-pages-viewed-web-page-activity-report}
 

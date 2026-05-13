@@ -1,9 +1,16 @@
 ---
 unique-page-id: 37355600
-description: "Learn how to uninstall Marketo Sales Insight from your MS Dynamics instance. Remove the solution and clean up when needed."
+description: Learn how to uninstall Marketo Sales Insight from your MS Dynamics instance. Remove the solution and clean up when needed.
 title: Uninstall MSI from your MS [!DNL Dynamics] Instance
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/tv5uoDyp6czOdjx3D1RDZUtoDTaaZniVF5fZDWnxPPk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Uninstall MSI from your MS [!DNL Dynamics] Instance {#uninstall-msi-from-your-ms-dynamics-instance}
 

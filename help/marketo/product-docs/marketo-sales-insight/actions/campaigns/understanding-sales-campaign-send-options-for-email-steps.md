@@ -1,8 +1,12 @@
 ---
-description: "Understand send options for Sales Campaign email steps. Choose when to send, schedule send time, or create a task to send yourself for first and subsequent steps."
+description: Understand send options for Sales Campaign email steps. Choose when to send, schedule send time, or create a task to send yourself for first and subsequent steps.
 title: Understanding Sales Campaign Send Options for Email Steps
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
+TQID: https://experienceleague.adobe.com/dd4l3DH5i6E-zpjJk-cpQTMgZy-3a90JcrkeAFGl4PM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Understanding Sales Campaign Send Options for Email Steps {#understanding-sales-campaign-send-options-for-email-steps}
 

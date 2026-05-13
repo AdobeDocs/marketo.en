@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352480
-description: "Understand how reply logging works when Sales Connect is connected to Salesforce. Get help configuring where replies are logged in Salesforce."
+description: Understand how reply logging works when Sales Connect is connected to Salesforce. Get help configuring where replies are logged in Salesforce.
 title: Reply Logging (SFDC)
 exl-id: 11f84157-55b7-42a7-81d0-f5848adbb9f4
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/f0d-5xccuVhooEcbh-7TU8fw68iazo1Ird1I8VZJYU4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Reply Logging (SFDC) {#reply-logging-sfdc}
 

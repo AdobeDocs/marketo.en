@@ -1,9 +1,23 @@
 ---
 unique-page-id: 13795492
-description: "Learn about Performance Insights settings including program success aggregation, previous period configuration, marketing-influenced opportunities, and cost calculation options. Configure settings based on your dashboard view."
+description: Learn about Performance Insights settings including program success aggregation, previous period configuration, marketing-influenced opportunities, and cost calculation options. Configure settings based on your dashboard view.
 title: Performance Insights Settings
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
+TQID: https://experienceleague.adobe.com/7tNeVoHivEhrUHk3ARwUvJiTvlH36f4KQtXXsgNXUGA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!UICONTROL Performance Insights] Settings {#performance-insights-settings}
 

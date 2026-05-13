@@ -1,9 +1,16 @@
 ---
 unique-page-id: 9438139
-description: "Learn how to add a person to the blocklist. Prevent emails from being sent to specific people or domains."
+description: Learn how to add a person to the blocklist. Prevent emails from being sent to specific people or domains.
 title: Add Person to Blocklist
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/wB-xUIHId0Hio0JwB1-yQK-nv52I3oH6NbvZX2FTZ6s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Add Person to Blocklist {#add-person-to-blocklist}
 

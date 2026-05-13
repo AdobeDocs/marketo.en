@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2949283
-description: "Learn how to send and track from Outlook using a Marketo template. Insert a sales template and send tracked emails from Outlook."
+description: Learn how to send and track from Outlook using a Marketo template. Insert a sales template and send tracked emails from Outlook.
 title: Send and Track from [!DNL Outlook] Using a Marketo Template
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/trwNooFsf1aiYblIvwyVHA7YONJfpX7N99qpnr5a4X8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Send and Track from [!DNL Outlook] Using a Marketo Template {#send-and-track-from-outlook-using-a-marketo-template}
 

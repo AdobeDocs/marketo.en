@@ -1,9 +1,24 @@
 ---
 unique-page-id: 2949839
-description: "Learn how to check people into your event from a tablet. Use the Event Check-in app to scan and check in attendees."
+description: Learn how to check people into your event from a tablet. Use the Event Check-in app to scan and check in attendees.
 title: Check People into Your Event from Your Tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/Yv6Wi3rjG60gWp-JjafS9WKBrGbhg0dhSFGXEcPmCkk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+subfeature_v2:
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Check People into Your Event from Your Tablet {#check-people-into-your-event-from-your-tablet}
 

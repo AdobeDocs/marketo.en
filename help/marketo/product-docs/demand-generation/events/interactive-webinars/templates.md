@@ -1,8 +1,17 @@
 ---
-description: "Learn how to create and implement templates in Interactive Webinars. Use templates to standardize webinar design and speed up creation."
+description: Learn how to create and implement templates in Interactive Webinars. Use templates to standardize webinar design and speed up creation.
 title: Templates for Interactive Webinars
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
+TQID: https://experienceleague.adobe.com/daGGDpwlOHMRNSVPRZm0cdW79lSPtpXYatCiKPSCGlE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Templates for Interactive Webinars {#templates-for-interactive-webinars}
 

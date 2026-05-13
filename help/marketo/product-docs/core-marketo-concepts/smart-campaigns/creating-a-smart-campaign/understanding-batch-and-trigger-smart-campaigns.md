@@ -1,9 +1,18 @@
 ---
 unique-page-id: 2953132
-description: "Learn about batch and trigger Smart Campaigns. Understand when to use each type and how they run."
+description: Learn about batch and trigger Smart Campaigns. Understand when to use each type and how they run.
 title: Understanding Batch and Trigger Smart Campaigns
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/48wdmRPcrjaIavo4EQG3nkQNcUMH33tuISSqU2VouTM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Understanding Batch and Trigger Smart Campaigns {#understanding-batch-and-trigger-smart-campaigns}
 

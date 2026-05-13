@@ -1,8 +1,12 @@
 ---
-description: "Learn how to block domains in Sales Insight Actions to prevent emailing competitors or spam traps."
+description: Learn how to block domains in Sales Insight Actions to prevent emailing competitors or spam traps.
 title: Blocked Domains
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/rt1VTGsoWCNAELjwPto-eojaKAEsrGI4ekYHTOk4AZo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Blocked Domains {#blocked-domains}
 

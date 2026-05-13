@@ -1,8 +1,12 @@
 ---
-description: "Get help when locked out of your Sales Insight Actions account. Learn how to reset password or reconnect Salesforce to regain access."
+description: Get help when locked out of your Sales Insight Actions account. Learn how to reset password or reconnect Salesforce to regain access.
 title: I Got Locked out of My Account. What Do I Do?
 exl-id: e3ef9909-36e6-434b-8f6e-161af69e093b
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/hAh2X6Tx8L2csSEB5t6GNswxnlyuhntgZBw-zTeZAp4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # I Got Locked out of My Account. What Do I Do? {#i-got-locked-out-of-my-account-what-do-i-do}
 

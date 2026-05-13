@@ -1,9 +1,18 @@
 ---
 unique-page-id: 6094949
-description: "Learn how to move a Smart Campaign. Relocate the campaign to a different folder in Marketing Activities."
+description: Learn how to move a Smart Campaign. Relocate the campaign to a different folder in Marketing Activities.
 title: Move a Smart Campaign
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/WzXFILt9PH9U5Y3RnIMdeqJ7dw9lSoAVMoBPIXjtQCw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Move a Smart Campaign {#move-a-smart-campaign}
 

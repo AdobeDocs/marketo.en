@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7512460
-description: "Learn how to edit a mobile push notification. Open Marketing Activities, select the push asset, and use Edit Draft to make changes."
+description: Learn how to edit a mobile push notification. Open Marketing Activities, select the push asset, and use Edit Draft to make changes.
 title: Edit Mobile Push Notification
 exl-id: 3ed36e77-642c-42f9-8714-fc4f718eb073
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/OFL3Q-vIWWyqdOydqHatbz-w88UioUlS-v4as0ZiBbY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Edit Mobile Push Notification {#edit-mobile-push-notification}
 

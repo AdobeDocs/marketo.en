@@ -1,9 +1,16 @@
 ---
 unique-page-id: 7514027
-description: "Learn how to sync a person to Microsoft Dynamics with a flow step. Push lead data to Dynamics when they enter the flow."
+description: Learn how to sync a person to Microsoft Dynamics with a flow step. Push lead data to Dynamics when they enter the flow.
 title: Sync Person to Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/MsSuD-phRt8OzuNxiQ-jZPtcRBtmfq2nE4ajRHU0eGY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Sync Person to Microsoft {#sync-person-to-microsoft}
 

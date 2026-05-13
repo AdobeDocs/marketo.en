@@ -1,8 +1,24 @@
 ---
-description: "Advanced Nurture program template. Use it for multi-stream nurture with a naming convention."
+description: Advanced Nurture program template. Use it for multi-stream nurture with a naming convention.
 title: NUR-YYYY-MM-Advanced Nurture
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
+TQID: https://experienceleague.adobe.com/hdywHZ1nm-guYiDHprc3a7l9u2iab-kCGvkIxd-oLoo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # NUR-YYYY-MM-Advanced Nurture {#nur-yyyy-mm-advanced-nurture}
 

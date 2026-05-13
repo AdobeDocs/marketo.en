@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352619
-description: "Understand how tasks work in Sales Connect campaigns. Use email, call, InMail, and custom tasks and manage them in Command Center or Salesforce."
+description: Understand how tasks work in Sales Connect campaigns. Use email, call, InMail, and custom tasks and manage them in Command Center or Salesforce.
 title: Using Tasks in Campaigns
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/Irny7uMXziNEfsD1pww-v1MB68eDAWKFoQgCYXYsLhA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Using Tasks in Campaigns {#using-tasks-in-campaigns}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359566
-description: "Learn how to edit a field label in a Marketo form. Change the label text that appears next to a form field."
+description: Learn how to edit a field label in a Marketo form. Change the label text that appears next to a form field.
 title: Edit a Field Label in a Form
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
+TQID: https://experienceleague.adobe.com/0pqRxjLH5S2SkdOvyBOUDjG-dW5jvqBxNI9qPM4oFuY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
 ---
 # Edit a Field Label in a Form {#edit-a-field-label-in-a-form}
 

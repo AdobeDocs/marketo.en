@@ -1,9 +1,13 @@
 ---
 unique-page-id: 11385057
-description: "Set up categories in Predictive Content to group your predictive outcomes on web or email. Create category tags in Content Settings for easy filtering and search."
+description: Set up categories in Predictive Content to group your predictive outcomes on web or email. Create category tags in Content Settings for easy filtering and search.
 title: Set up Categories
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
+TQID: https://experienceleague.adobe.com/cb3IokK14sZ9aRjm6FcQFPrSk3X9y3l-M0v4130EcQo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Set up Categories {#set-up-categories}
 

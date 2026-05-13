@@ -1,9 +1,19 @@
 ---
 unique-page-id: 37356282
-description: "Learn about bulk actions in Salesforce Lightning for Marketo Sales Insight. Use Send Sales Email and Add to Sales Campaign from list views."
+description: Learn about bulk actions in Salesforce Lightning for Marketo Sales Insight. Use Send Sales Email and Add to Sales Campaign from list views.
 title: Bulk Actions in Salesforce Lightning
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/zWShPG6rG-q7HGd5LFJMmeryIJPDR-n49hRmbp852-s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Bulk Actions in [!DNL Salesforce Lightning] {#bulk-actions-in-salesforce-lightning}
 

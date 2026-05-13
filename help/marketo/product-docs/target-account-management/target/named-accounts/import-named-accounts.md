@@ -1,9 +1,13 @@
 ---
 unique-page-id: 12615800
-description: "Learn how to import named accounts from a CSV file into TAM. Upload your list, choose dedupe mode by account name or domain, and map fields."
+description: Learn how to import named accounts from a CSV file into TAM. Upload your list, choose dedupe mode by account name or domain, and map fields.
 title: Import [!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/aLuxfKOeRsPYXa5i5l86wj-ACPyKcJ4-f3ecmIZq8s0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Import [!UICONTROL Named Accounts] {#import-named-accounts}
 

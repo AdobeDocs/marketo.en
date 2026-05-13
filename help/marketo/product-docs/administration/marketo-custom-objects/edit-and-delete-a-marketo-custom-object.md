@@ -1,9 +1,19 @@
 ---
 unique-page-id: 10093690
-description: "Steps to edit or delete a custom object."
+description: Steps to edit or delete a custom object.
 title: Edit and Delete a Marketo Custom Object
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 feature: Custom Objects
+TQID: https://experienceleague.adobe.com/1MI35ybGTBpp1ncAhEg-PzHibm6OOcphxXDdt1JlGmU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Edit and Delete a Marketo Custom Object {#edit-and-delete-a-marketo-custom-object}
 

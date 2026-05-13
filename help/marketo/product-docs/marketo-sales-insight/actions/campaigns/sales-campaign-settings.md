@@ -1,8 +1,12 @@
 ---
-description: "Learn how to configure Sales Campaign settings including Skip Weekends, Remove on Bounce, and reply behavior."
+description: Learn how to configure Sales Campaign settings including Skip Weekends, Remove on Bounce, and reply behavior.
 title: Sales Campaign Settings
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/tbl9d2EB2zRstu4eR0skifWv5CaIpd5-6lPR6fImkQ0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Sales Campaign Settings {#sales-campaign-settings}
 

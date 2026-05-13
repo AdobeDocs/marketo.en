@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7516241
-description: "Learn about assigning people to Salesforce lead queues from Marketo. Use Sync Person to SFDC or Change Owner flow actions for lead distribution."
+description: Learn about assigning people to Salesforce lead queues from Marketo. Use Sync Person to SFDC or Change Owner flow actions for lead distribution.
 title: SFDC Sync - Lead Queue
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/aUrT7qSMy65t3K07O176nt-Bzjm9urgnXKAkZgs1-cs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # SFDC Sync: Lead Queue {#sfdc-sync-lead-queue}
 

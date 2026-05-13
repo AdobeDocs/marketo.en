@@ -1,9 +1,19 @@
 ---
 unique-page-id: 14352464
-description: "Learn about reporting dashboards in Salesforce that use Sales Connect data. View call and email activity in Salesforce reports and dashboards."
+description: Learn about reporting dashboards in Salesforce that use Sales Connect data. View call and email activity in Salesforce reports and dashboards.
 title: Reporting Dashboards in Salesforce
 exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/lMQ6PcQxFGVRh9FuQw8iHeM4Q5EZX8KwApQzw8jjdMg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Reporting Dashboards in Salesforce {#reporting-dashboards-in-salesforce}
 

@@ -1,9 +1,19 @@
 ---
 unique-page-id: 6095047
-description: "How to honor or ignore the browser Do Not Track request by editing Person Tracking."
+description: How to honor or ignore the browser Do Not Track request by editing Person Tracking.
 title: Edit "Do Not Track" Browser Support Settings
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
+TQID: https://experienceleague.adobe.com/vkItAyHfiXAXWV5M5xwzl9WfACjgraG53mJYPUTCDhU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Edit "Do Not Track" Browser Support Settings {#edit-do-not-track-browser-support-settings}
 

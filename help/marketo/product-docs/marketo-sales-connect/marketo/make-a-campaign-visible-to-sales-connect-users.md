@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14745655
-description: "Learn how to make a Marketo campaign visible to Sales Connect users. Share marketing campaigns so sellers can add leads from Sales Connect."
+description: Learn how to make a Marketo campaign visible to Sales Connect users. Share marketing campaigns so sellers can add leads from Sales Connect.
 title: Make a Campaign Visible to Sales Connect Users
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/WdSLwrvoXF6L4jID6HThIn2JST-aDvtPtXAoWqJO7ZI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Make a Campaign Visible to [!DNL Sales Connect] Users {#make-a-campaign-visible-to-sales-connect-users}
 

@@ -1,9 +1,25 @@
 ---
 unique-page-id: 10093188
-description: "Overview of custom objects for tracking business-specific metrics, including one-to-many and many-to-many relationships, filters, triggers, and where to access them in Admin."
+description: Overview of custom objects for tracking business-specific metrics, including one-to-many and many-to-many relationships, filters, triggers, and where to access them in Admin.
 title: Understanding Marketo Custom Objects
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
+TQID: https://experienceleague.adobe.com/XYlpKUB0bDiuVIYU3-Cjw97zQU3ZBD5myE13beaYNrs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Understanding Marketo Custom Objects {#understanding-marketo-custom-objects}
 

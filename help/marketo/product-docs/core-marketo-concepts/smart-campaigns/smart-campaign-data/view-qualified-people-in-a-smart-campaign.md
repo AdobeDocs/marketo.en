@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1146966
-description: "Learn how to view qualified people in a Smart Campaign. See who meets the Smart List or trigger criteria."
+description: Learn how to view qualified people in a Smart Campaign. See who meets the Smart List or trigger criteria.
 title: View Qualified People in a Smart Campaign
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/x76yhJISosabxJn0DP5YWRhqqWAF6vDjPIbQR6Vi3XU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # View Qualified People in a Smart Campaign {#view-qualified-people-in-a-smart-campaign}
 

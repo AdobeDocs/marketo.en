@@ -1,8 +1,15 @@
 ---
-description: "Learn how to add attachments or trackable content to sales emails. Attach files or add trackable links and content for engagement tracking."
+description: Learn how to add attachments or trackable content to sales emails. Attach files or add trackable links and content for engagement tracking.
 title: Add an Attachment or Trackable Content to Your Email
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/yPBxpWnkT0FsrMRlwUQ1bGLB6oeCuEW9IUHMUeqA7EM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Add an Attachment or Trackable Content to Your Email {#add-an-attachment-or-trackable-content-to-your-email}
 

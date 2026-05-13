@@ -1,8 +1,15 @@
 ---
-description: "Learn how to send a test email from the MSI panel in Salesforce. Preview and test sales email templates before sending to leads."
+description: Learn how to send a test email from the MSI panel in Salesforce. Preview and test sales email templates before sending to leads.
 title: Send a Test Email
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/SqRcW7-vBInte7Qbxdt-C6acYyqyA0KrBLY4TidCabQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Send a Test Email {#send-a-test-email}
 

@@ -1,10 +1,13 @@
 ---
-description: "Learn how to enable browser notifications for Dynamic Chat live chat agents. Allow notifications in Chrome, Firefox, or OS settings to receive chat alerts."
+description: Learn how to enable browser notifications for Dynamic Chat live chat agents. Allow notifications in Chrome, Firefox, or OS settings to receive chat alerts.
 title: Notifications
 hide: true
-
 feature: Dynamic Chat
 exl-id: b06da576-39a4-41db-8e29-302083baca36
+TQID: https://experienceleague.adobe.com/N8kkgxaaQmIBQO4PR5tyU7WnjCM9vSI2WfHgkiB9pc0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Notifications {#notifications}
 

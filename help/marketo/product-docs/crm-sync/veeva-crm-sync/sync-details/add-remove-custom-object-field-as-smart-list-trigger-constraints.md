@@ -1,8 +1,18 @@
 ---
-description: "Learn how to add or remove Veeva custom object fields as Smart List filters and trigger constraints. Use Admin and Veeva Objects Sync to edit visible fields."
+description: Learn how to add or remove Veeva custom object fields as Smart List filters and trigger constraints. Use Admin and Veeva Objects Sync to edit visible fields.
 title: Add/Remove Custom Object Field as Smart List/Trigger Constraints
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
+TQID: https://experienceleague.adobe.com/YPDsggNd6x8r9-HzIo-PIHzBiIUjkO9TVZd1QvqsIL4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart Lists
 ---
 # Add/Remove Custom Object Field as Smart List/Trigger Constraints {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 

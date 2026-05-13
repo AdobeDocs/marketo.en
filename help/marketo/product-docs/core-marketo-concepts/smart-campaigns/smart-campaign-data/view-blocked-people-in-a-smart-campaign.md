@@ -1,9 +1,23 @@
 ---
 unique-page-id: 1147062
-description: "Learn how to view blocked people in a Smart Campaign. See who was blocked from the flow and why."
+description: Learn how to view blocked people in a Smart Campaign. See who was blocked from the flow and why.
 title: View Blocked People in a Smart Campaign
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/GfT9729XM2EOVkY6vGb0-h4IhUJ4BpUodxdwBmgUMYM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # View Blocked People in a Smart Campaign {#view-blocked-people-in-a-smart-campaign}
 

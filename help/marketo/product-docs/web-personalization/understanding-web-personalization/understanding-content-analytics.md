@@ -1,9 +1,25 @@
 ---
 unique-page-id: 10093159
-description: "Learn about understanding content analytics in Marketo Engage, including understanding content analytics. Use this guide to complete your next step."
+description: Learn about understanding content analytics in Marketo Engage, including understanding content analytics. Use this guide to complete your next step.
 title: Understanding Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/LYR0jnGcjfCf-R3YoxNQBArEuj0a5TTidVBBmSWoNq4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Understanding Content Analytics {#understanding-content-analytics}
 

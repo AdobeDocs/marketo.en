@@ -1,9 +1,18 @@
 ---
 unique-page-id: 2359839
-description: "Learn how to test an engagement stream with a test person. Use Program Actions and Run Cast to send content and verify transition rules."
+description: Learn how to test an engagement stream with a test person. Use Program Actions and Run Cast to send content and verify transition rules.
 title: Test an Engagement Stream
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
+TQID: https://experienceleague.adobe.com/idDd76zfpXOVc7RIRfubWZ1bScpjAR6rECV69EaivpI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Test an Engagement Stream {#test-an-engagement-stream}
 

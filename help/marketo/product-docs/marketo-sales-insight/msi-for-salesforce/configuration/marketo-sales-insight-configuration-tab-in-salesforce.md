@@ -1,9 +1,19 @@
 ---
 unique-page-id: 42762322
-description: "Learn about the Marketo Sales Insight configuration tab in Salesforce. Configure MSI settings and enable Actions."
+description: Learn about the Marketo Sales Insight configuration tab in Salesforce. Configure MSI settings and enable Actions.
 title: Marketo Sales Insight Configuration Tab in Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!DNL Marketo Sales Insight] Configuration Tab in [!DNL Salesforce] {#marketo-sales-insight-configuration-tab-in-salesforce}
 

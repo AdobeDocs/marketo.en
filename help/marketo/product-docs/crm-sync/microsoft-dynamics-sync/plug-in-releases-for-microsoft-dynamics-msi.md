@@ -1,9 +1,16 @@
 ---
 unique-page-id: 10099102
-description: "Learn about plug-in releases for Microsoft Dynamics MSI. Find version history and download the latest Marketo solution for your Dynamics version."
+description: Learn about plug-in releases for Microsoft Dynamics MSI. Find version history and download the latest Marketo solution for your Dynamics version.
 title: Plug-In Releases for [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/egQszdONMhYChmpRBz40TUuYH0k-UYHLuPxAakLzjsM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Plug-In Releases for [!DNL Microsoft Dynamics] MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 

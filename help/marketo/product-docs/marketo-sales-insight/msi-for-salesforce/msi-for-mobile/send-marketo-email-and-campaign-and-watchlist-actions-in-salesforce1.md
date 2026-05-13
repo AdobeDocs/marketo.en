@@ -1,9 +1,19 @@
 ---
 unique-page-id: 7511931
-description: "Learn how to send Marketo email and use campaign and watchlist actions in Salesforce Mobile. Use MSI actions on mobile."
+description: Learn how to send Marketo email and use campaign and watchlist actions in Salesforce Mobile. Use MSI actions on mobile.
 title: Send Marketo Email and Campaign and Watchlist Actions in Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/bJcrAu9z069YhqSKLMU2pAwwZmZ1t7f6Li1e2B2Bl-4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Send Marketo Email and Campaign and Watchlist Actions in [!DNL Salesforce1] {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 

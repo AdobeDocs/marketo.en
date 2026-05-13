@@ -1,9 +1,16 @@
 ---
 unique-page-id: 8783935
-description: "Learn about the Template 6D guided landing page template. Download and use it for your Marketo landing pages."
+description: Learn about the Template 6D guided landing page template. Download and use it for your Marketo landing pages.
 title: Template 6D
 exl-id: 2708fd0b-1c87-4b2c-b28c-93b7b8547df4
 feature: Landing Pages, Guided Landing Page Templates
+TQID: https://experienceleague.adobe.com/dBtgQvU0jIflcNHaxa5PgdNNzDITGkWsU9AoreUJjOY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Template 6D {#template-6d}
 

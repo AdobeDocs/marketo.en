@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359667
-description: "Learn how to apply input masking to a form field in Marketo. Format phone, date, or other fields as visitors type."
+description: Learn how to apply input masking to a form field in Marketo. Format phone, date, or other fields as visitors type.
 title: Apply Input Masking to a Field in a Form
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
+TQID: https://experienceleague.adobe.com/vIffFB89P0behKQ2ydy3v0sL8dk2a3zkkWf0zKcUleY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
 ---
 # Apply Input Masking to a Field in a Form {#apply-input-masking-to-a-field-in-a-form}
 

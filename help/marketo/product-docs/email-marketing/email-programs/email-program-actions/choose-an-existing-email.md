@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2359451
-description: "Learn how to choose an existing email for an email program. Select from Design Studio or local emails for your program."
+description: Learn how to choose an existing email for an email program. Select from Design Studio or local emails for your program.
 title: Choose an Existing Email
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
+TQID: https://experienceleague.adobe.com/4c9odmLlaGXoXd0udfJ-rFEj7KWz-a1BCKBvib1V85g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Choose an Existing Email {#choose-an-existing-email}
 

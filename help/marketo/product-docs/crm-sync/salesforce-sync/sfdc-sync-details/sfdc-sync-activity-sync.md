@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2953473
-description: "Learn about how Salesforce activities and tasks sync to Marketo. Create tasks from Marketo and use activity triggers and filters in Smart Campaigns."
+description: Learn about how Salesforce activities and tasks sync to Marketo. Create tasks from Marketo and use activity triggers and filters in Smart Campaigns.
 title: SFDC Sync - Activity Sync
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/N-pw1q0NXaJGKW1J1R4iqhgXhA42sX5nP0OWPXCuaBc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # SFDC Sync: Activity Sync {#sfdc-sync-activity-sync}
 

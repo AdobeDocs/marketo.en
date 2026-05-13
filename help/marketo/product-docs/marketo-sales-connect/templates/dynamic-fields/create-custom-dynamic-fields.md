@@ -1,9 +1,16 @@
 ---
 unique-page-id: 14352508
-description: "Learn how to create custom dynamic fields in Sales Connect templates. Add merge fields that pull contact or user data into emails."
+description: Learn how to create custom dynamic fields in Sales Connect templates. Add merge fields that pull contact or user data into emails.
 title: Create Custom Dynamic Fields
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/uKq11AriHch77Qu0zRmjnJYAS4IZJP3UYOnyrnq0zi8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Create Custom Dynamic Fields {#create-custom-dynamic-fields}
 

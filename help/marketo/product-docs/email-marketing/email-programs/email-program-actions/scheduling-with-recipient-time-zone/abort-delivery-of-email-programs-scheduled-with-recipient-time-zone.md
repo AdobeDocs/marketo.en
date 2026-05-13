@@ -1,9 +1,16 @@
 ---
 unique-page-id: 13795727
-description: "Learn how to abort delivery for email programs scheduled with recipient time zone. Stop the send and handle remaining recipients."
+description: Learn how to abort delivery for email programs scheduled with recipient time zone. Stop the send and handle remaining recipients.
 title: Abort Delivery of Email Programs Scheduled with Recipient Time Zone
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
+TQID: https://experienceleague.adobe.com/-ruQwfzzw58-9Bi0eRNqUynXuzggRhBdTxTtNCptrGA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Abort Delivery of Email Programs Scheduled with Recipient Time Zone {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
 

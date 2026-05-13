@@ -1,8 +1,15 @@
 ---
-description: "Learn about the Email tab in the Marketo Sales Insight panel. View sent emails, opens, clicks, and replies for the lead or contact."
+description: Learn about the Email tab in the Marketo Sales Insight panel. View sent emails, opens, clicks, and replies for the lead or contact.
 title: Email Tab
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/uG8cRVMM-ZAnS8qZgtvVIDeLJINBEeGS92pkaYmk3ns
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Email Tab {#email-tab}
 

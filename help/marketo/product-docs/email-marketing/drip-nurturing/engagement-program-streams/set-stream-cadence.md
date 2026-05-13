@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359665
-description: "Learn how to set stream cadence for engagement programs. Schedule weekly or monthly casts and optionally use recipient time zone."
+description: Learn how to set stream cadence for engagement programs. Schedule weekly or monthly casts and optionally use recipient time zone.
 title: Set Stream Cadence
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
+TQID: https://experienceleague.adobe.com/FJkSjZFKVZb-nBY-xfkU6Vb9JsQYbIMrbKW7rPpOmmg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Set Stream Cadence {#set-stream-cadence}
 
