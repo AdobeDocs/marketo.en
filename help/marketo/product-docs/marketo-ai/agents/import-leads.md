@@ -1,5 +1,5 @@
 ---
-description: "Learn how to use the Import Leads agent to upload a CSV, apply business rules, map fields, and import leads directly into your Marketo Engage database."
+description: Learn how to use the Import Leads agent to upload a CSV, apply business rules, map fields, and import leads directly into your Marketo Engage database.
 title: Import leads
 badge: Beta
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
