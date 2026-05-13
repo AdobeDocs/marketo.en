@@ -42,8 +42,8 @@ Describe a marketing campaign in plain language and Marketo AI will build the pr
 
 ## Things to note {#things-to-note}
 
-* Have a clear idea of what the campaign should do: who the audience is, what action triggers it (or whether it's a batch send), and what the goal is.
-* No templates or forms are required upfront. Marketo AI creates the structure and you can connect assets afterward (you are still responsible for writing email copy and setting up any landing pages).
-* Marketo AI cannot access your existing audience lists automatically. You will need to connect smart list filters to your actual segments after the program is created.
-* Complex multi-step programs with advanced branching logic may need manual refinement after creation.
-* If your Marketo environment uses naming conventions or folder structures, specify them in your brief so the program is created in the right place.
+* **Have a clear idea of what the campaign should do**: who the audience is, what action triggers it (or whether it's a batch send), and what the goal is.
+* **No templates or forms are required upfront**: Marketo AI creates the structure and you can connect assets afterward (you are still responsible for writing email copy and setting up any landing pages).
+* **Marketo AI cannot access your existing audience lists automatically**: You must connect smart list filters to your actual segments after the program is created.
+* **Complex multi-step programs** with advanced branching logic may need manual refinement after creation.
+* **If your Marketo environment uses naming conventions or folder structures**: Specify them in your brief so the program is created in the right place.
