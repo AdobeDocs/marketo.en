@@ -1,9 +1,13 @@
 ---
 unique-page-id: 5472314
-description: "Learn how to add a link to an image in a free-form landing page in Marketo. Make images clickable and point to a URL."
+description: Learn how to add a link to an image in a free-form landing page in Marketo. Make images clickable and point to a URL.
 title: Add a Link to an Image in a Free-Form Landing Page
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Add a Link to an Image in a Free-Form Landing Page {#add-a-link-to-an-image-in-a-free-form-landing-page}
 

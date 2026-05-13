@@ -1,8 +1,15 @@
 ---
-description: "Learn how to enable or disable the auto-append unsubscribe message for sales emails."
+description: Learn how to enable or disable the auto-append unsubscribe message for sales emails.
 title: Auto-Append Unsubscribe Message Setting
 feature: Sales Insight Actions
 exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff
+TQID: https://experienceleague.adobe.com/4iAq0-giVwuDcqaoi8QnLN35QO67RSlgHYXFYaUebZg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Auto-Append Unsubscribe Message Setting {#auto-append-unsubscribe-message-setting}
 

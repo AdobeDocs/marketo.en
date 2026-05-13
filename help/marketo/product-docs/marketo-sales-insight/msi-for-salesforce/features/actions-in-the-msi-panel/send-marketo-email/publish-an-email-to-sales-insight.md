@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2949718
-description: "Learn how to publish an email from Marketo to Sales Insight. Make a Marketo email template available for sales users in the MSI panel."
+description: Learn how to publish an email from Marketo to Sales Insight. Make a Marketo email template available for sales users in the MSI panel.
 title: Publish an Email to Sales Insight
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/7EFnNV-4RjI7nOwRnNJWtVTbxHPC2E6OEACX965cIqw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Publish an Email to [!DNL Sales Insight] {#publish-an-email-to-sales-insight}
 

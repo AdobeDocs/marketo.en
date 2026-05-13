@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352546
-description: "Learn how to prevent a secondary Gmail address from integrating with Sales Connect. Use only your primary email for the plugin."
+description: Learn how to prevent a secondary Gmail address from integrating with Sales Connect. Use only your primary email for the plugin.
 title: Preventing Secondary Gmail Address from Integrating with Sales Connect
 exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/rOA-dhKUDpXxEJ9dAna3wk05XaiB-UJKRrSaDJofnds
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Preventing Secondary Gmail Address from Integrating with [!DNL Sales Connect] {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
 

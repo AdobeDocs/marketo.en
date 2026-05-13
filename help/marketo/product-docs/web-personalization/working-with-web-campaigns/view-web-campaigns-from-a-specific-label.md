@@ -1,9 +1,19 @@
 ---
 unique-page-id: 4720075
-description: "Learn about view web campaigns from a specific label in Marketo Engage, including view web campaigns from a specific. Use this guide to complete your next step."
+description: Learn about view web campaigns from a specific label in Marketo Engage, including view web campaigns from a specific. Use this guide to complete your next step.
 title: View Web Campaigns from a Specific Label
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/1DafoRMYVvnubXV1akPsqze9bQWvOPHRXiuWAI-lGXk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # View Web Campaigns from a Specific Label {#view-web-campaigns-from-a-specific-label}
 

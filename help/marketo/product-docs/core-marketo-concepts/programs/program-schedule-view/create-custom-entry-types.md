@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147245
-description: "Learn how to create custom entry types in the Program Schedule View. Add entry types to match your process."
+description: Learn how to create custom entry types in the Program Schedule View. Add entry types to match your process.
 title: Create Custom Entry Types
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
+TQID: https://experienceleague.adobe.com/ZxqxqtWog8ntoFsAbDloq4RYt3xVZ4AedMbUNvdFCVk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Create Custom Entry Types {#create-custom-entry-types}
 

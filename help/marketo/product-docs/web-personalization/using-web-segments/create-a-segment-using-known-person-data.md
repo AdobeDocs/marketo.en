@@ -1,9 +1,24 @@
 ---
 unique-page-id: 7504343
-description: "Learn how to create a segment using known person data in Marketo Engage using create a segment using known person. Use this guide to complete your next step."
+description: Learn how to create a segment using known person data in Marketo Engage using create a segment using known person. Use this guide to complete your next step.
 title: Create a Segment Using Known Person Data
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/I1rOpg5OueqFqd-ge7kYQsZiSmBuwYaXsNq-0xmS4fs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Create a Segment Using Known Person Data {#create-a-segment-using-known-person-data}
 

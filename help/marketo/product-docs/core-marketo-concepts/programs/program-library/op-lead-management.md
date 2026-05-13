@@ -1,8 +1,24 @@
 ---
-description: "Lead Management operational program template. Use it to manage lead lifecycle and scoring."
+description: Lead Management operational program template. Use it to manage lead lifecycle and scoring.
 title: OP-Lead Management
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
+TQID: https://experienceleague.adobe.com/KJvZjFZ9OsjIXXZTfbnscxf8puUxu-IxFXnNaj9JJFs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+    internal-label: Data management
 ---
 # OP-Lead Management {#op-lead-management}
 

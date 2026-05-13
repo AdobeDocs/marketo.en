@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7515131
-description: "Understand how lead and contact deletion works between Salesforce and Marketo. Learn about SFDC Delete Person, and Delete From SFDC flow actions."
+description: Understand how lead and contact deletion works between Salesforce and Marketo. Learn about SFDC Delete Person, and Delete From SFDC flow actions.
 title: SFDC Sync - Deleting a Lead/Contact
 exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/v0nRloqmlp-iedcmE4DdATxpYXnvB13cxkEn7809Hy4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # SFDC Sync: Deleting a Lead/Contact {#sfdc-sync-deleting-a-lead-contact}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1900593
-description: "Learn how to create an email for an email program. Add a new email asset and choose a template or existing email."
+description: Learn how to create an email for an email program. Add a new email asset and choose a template or existing email.
 title: Create an Email for an Email Program
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
+TQID: https://experienceleague.adobe.com/buVllT6O1mbSLDsUEkhuhIPclWIRv17pe22cOmi0i2w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Create an Email for an Email Program {#create-an-email-for-an-email-program}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 11377552
-description: "Learn how to specify Marketo Sales Insight plugin admins for Outlook. Designate who can manage the add-in for your organization."
+description: Learn how to specify Marketo Sales Insight plugin admins for Outlook. Designate who can manage the add-in for your organization.
 title: Specify Marketo [!UICONTROL Sales Insight] Plugin Admins
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/9c3rukRLFdi26iJHvvyH4jij4kSbz1sui7Rz0j9faW8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Specify Marketo [!UICONTROL Sales Insight] Plugin Admins {#specify-marketo-sales-insight-plugin-admins}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147080
-description: "Learn how to change revenue stage in a Smart Campaign flow step. Update the revenue stage for people in the flow."
+description: Learn how to change revenue stage in a Smart Campaign flow step. Update the revenue stage for people in the flow.
 title: Change Revenue Stage
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/UwLOzl9zHJ7GJkfai-9IihDyvwUJAIKlz-v3KGR5omo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Change Revenue Stage {#change-revenue-stage}
 

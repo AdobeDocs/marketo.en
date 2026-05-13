@@ -1,9 +1,18 @@
 ---
 unique-page-id: 2953331
-description: "Learn how to rerun a Smart Campaign from the Program Schedule View. Run a batch campaign again on demand."
+description: Learn how to rerun a Smart Campaign from the Program Schedule View. Run a batch campaign again on demand.
 title: Rerun a Smart Campaign in the Program Schedule View
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
+TQID: https://experienceleague.adobe.com/uDL818VWF0DivwtNrC5aKWImNYFs9pAgfrkZkSFBZuU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Rerun a Smart Campaign in the Program Schedule View {#rerun-a-smart-campaign-in-the-program-schedule-view}
 

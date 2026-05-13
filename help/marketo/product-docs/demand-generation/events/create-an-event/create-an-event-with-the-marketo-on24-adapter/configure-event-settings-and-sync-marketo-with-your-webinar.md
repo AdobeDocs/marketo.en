@@ -1,9 +1,13 @@
 ---
 unique-page-id: 10096673
-description: "Learn how to configure event settings and sync Marketo with your ON24 webinar. Map fields and keep registration data in sync."
+description: Learn how to configure event settings and sync Marketo with your ON24 webinar. Map fields and keep registration data in sync.
 title: Configure Event Settings and Sync Marketo with Your Webinar
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
+TQID: https://experienceleague.adobe.com/AIHOBhsWZXdVEmNRKp8ci8j5aeqyYFjaGF4vhVFozqw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Configure Event Settings and Sync Marketo with Your Webinar {#configure-event-settings-and-sync-marketo-with-your-webinar}
 

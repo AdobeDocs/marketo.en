@@ -1,8 +1,17 @@
 ---
-description: "Learn about the Agent Inbox where live chat agents field conversations. View active and past chats, visitor info, and set availability status."
+description: Learn about the Agent Inbox where live chat agents field conversations. View active and past chats, visitor info, and set availability status.
 title: Agent Inbox
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
+TQID: https://experienceleague.adobe.com/v3wmO0EodV-ENjE5dOnLg1x5HscxFneVQx0pdEEuMAM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Agent Inbox {#agent-inbox}
 

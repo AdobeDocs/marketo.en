@@ -1,9 +1,13 @@
 ---
 unique-page-id: 10617434
-description: "Learn how to select the in-app message for your program. Choose from the drop-down, then edit, preview, or continue to schedule."
+description: Learn how to select the in-app message for your program. Choose from the drop-down, then edit, preview, or continue to schedule.
 title: Select Your In-App Message
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/10WgRVgOFIuqn2ojRJ7lGkzzVjrC5QG-6U3301GZFbE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Select Your In-App Message {#select-your-in-app-message}
 

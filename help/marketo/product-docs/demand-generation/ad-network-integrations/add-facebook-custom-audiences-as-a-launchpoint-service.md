@@ -1,9 +1,19 @@
 ---
 unique-page-id: 4720257
-description: "Learn how to add Facebook Custom Audiences as a LaunchPoint service. Send Marketo lists to Facebook for use as Custom Audiences in ad campaigns."
-title: "Add [!DNL Facebook] Custom Audiences as a [!DNL LaunchPoint] Service"
+description: Learn how to add Facebook Custom Audiences as a LaunchPoint service. Send Marketo lists to Facebook for use as Custom Audiences in ad campaigns.
+title: Add [!DNL Facebook] Custom Audiences as a [!DNL LaunchPoint] Service
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
+TQID: https://experienceleague.adobe.com/oqtZ6Dbnnj8FgpPOLwZbLrmTmmex5spooX0VuJeugT0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Add [!DNL Facebook] Custom Audiences as a [!DNL LaunchPoint] Service {#add-facebook-custom-audiences-as-a-launchpoint-service}
 

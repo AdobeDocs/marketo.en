@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2360251
-description: "Change the default unsubscribe text and links appended to marketing emails in Admin Email."
+description: Change the default unsubscribe text and links appended to marketing emails in Admin Email.
 title: Edit the Unsubscribe Message
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
+TQID: https://experienceleague.adobe.com/2wAcUvsELVvNhk0HpdNdkWJLopFn3IC4X-lUSQlCs5Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Edit the Unsubscribe Message {#edit-the-unsubscribe-message}
 

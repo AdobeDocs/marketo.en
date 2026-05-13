@@ -1,8 +1,22 @@
 ---
-description: "Learn how to sync an audience from Adobe Experience Cloud into Marketo Engage. Pull audiences from the Audience Library into your Marketo database for use in campaigns and programs."
+description: Learn how to sync an audience from Adobe Experience Cloud into Marketo Engage. Pull audiences from the Audience Library into your Marketo database for use in campaigns and programs.
 title: Sync an Audience From Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
+TQID: https://experienceleague.adobe.com/XCskpUNcNae-ikOLXxREb4kePbFs9HRheIihzJqHKoU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Sync an Audience From Adobe Experience Cloud {#sync-an-audience-from-adobe-experience-cloud}
 

@@ -1,8 +1,18 @@
 ---
-description: "Learn how to add Sales Insight access to Salesforce profiles. Grant users access to the Marketo Sales Insight package."
+description: Learn how to add Sales Insight access to Salesforce profiles. Grant users access to the Marketo Sales Insight package.
 title: Add Sales Insight Access to Profiles
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/n3IZiKAL8DonU5nAkNs-Y8AbGszSIn3J8LQM2LjvDEw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Add [!DNL Sales Insight] Access to Profiles {#add-sales-insight-access-to-profiles}
 

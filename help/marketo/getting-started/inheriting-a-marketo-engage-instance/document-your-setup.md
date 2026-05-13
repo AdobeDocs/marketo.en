@@ -1,8 +1,19 @@
 ---
-description: "Inherited Instance Document Your Setup - Marketo Docs - Product Documentation"
+description: Inherited Instance Document Your Setup - Marketo Docs - Product Documentation
 title: Inherited Instance Document Your Setup
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
+TQID: https://experienceleague.adobe.com/nmRkM3TVZyi9ZwXxwM-nXNg-6qJoqx-cBL4ALs2zWXI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Inherited Instance: Document Your Setup {#inherited-instance-document-your-setup}
 

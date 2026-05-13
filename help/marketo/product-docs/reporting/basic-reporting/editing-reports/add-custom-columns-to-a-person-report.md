@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2360201
-description: "Learn how to add custom columns to person reports using smart lists as filters. Enhance your reports with additional metrics by dragging custom columns in the Setup tab."
+description: Learn how to add custom columns to person reports using smart lists as filters. Enhance your reports with additional metrics by dragging custom columns in the Setup tab.
 title: Add Custom Columns to a Person Report
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
+TQID: https://experienceleague.adobe.com/x20ngZswrtbltwFONu78OGT6-zdKx-y3-OVuA5Fx-2o
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Add Custom Columns to a Person Report {#add-custom-columns-to-a-person-report}
 

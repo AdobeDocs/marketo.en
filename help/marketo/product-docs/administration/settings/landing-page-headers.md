@@ -1,8 +1,20 @@
 ---
-description: "How to customize HTTP headers for landing page domains, including Strict-Transport-Security and X-Frame-Options."
+description: How to customize HTTP headers for landing page domains, including Strict-Transport-Security and X-Frame-Options.
 title: Landing Page Headers
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
+TQID: https://experienceleague.adobe.com/ecRuR4V-YCsesHZpm9UrP1rPlOjBCediq-9DtXZRfBo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Landing Page Headers {#landing-page-headers}
 

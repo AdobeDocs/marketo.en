@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2359428
-description: "Redirect a Landing Page - Marketo Docs - Product Documentation"
+description: Redirect a Landing Page - Marketo Docs - Product Documentation
 title: Redirect a Landing Page
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
+TQID: https://experienceleague.adobe.com/JV2hJuE-7GE8mup6R3c8xVo6p9QkDqKkiWkWsLSJTOE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Redirect a Landing Page {#redirect-a-landing-page}
 

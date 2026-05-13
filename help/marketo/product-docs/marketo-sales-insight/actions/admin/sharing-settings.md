@@ -1,8 +1,15 @@
 ---
-description: "Learn how to configure sharing settings to control who can share templates into categories."
+description: Learn how to configure sharing settings to control who can share templates into categories.
 title: Sharing Settings
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/7GUHuw4nyquxM79bCIj9CNq8yiTCDXQiBqeJdDXvO78
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Sharing Settings {#sharing-settings}
 

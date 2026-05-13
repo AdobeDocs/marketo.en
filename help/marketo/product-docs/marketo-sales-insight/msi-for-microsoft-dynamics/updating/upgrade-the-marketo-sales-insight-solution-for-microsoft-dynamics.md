@@ -1,9 +1,16 @@
 ---
 unique-page-id: 6849099
-description: "Learn how to upgrade the Marketo Sales Insight solution for Microsoft Dynamics. Get the latest version and apply the upgrade."
+description: Learn how to upgrade the Marketo Sales Insight solution for Microsoft Dynamics. Get the latest version and apply the upgrade.
 title: Upgrade the Marketo Sales Insight Solution for Microsoft Dynamics
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/z8kco6heN6FNMHz9QOecDdG-4thgtsrfrc9D-UCwbsY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Upgrade the [!DNL Marketo Sales Insight] Solution for [!DNL Microsoft Dynamics] {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 

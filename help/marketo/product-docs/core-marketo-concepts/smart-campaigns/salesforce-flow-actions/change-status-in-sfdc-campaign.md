@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147029
-description: "Learn how to change status in a Salesforce campaign with a flow step. Update member status in the linked SFDC campaign."
+description: Learn how to change status in a Salesforce campaign with a flow step. Update member status in the linked SFDC campaign.
 title: Change Status in SFDC Campaign
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
+TQID: https://experienceleague.adobe.com/rebaB4OWjRIdIsYln1-mbrguOTd-5NPQKMFt20g36ds
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Change Status in SFDC Campaign {#change-status-in-sfdc-campaign}
 

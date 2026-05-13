@@ -1,9 +1,16 @@
 ---
 unique-page-id: 27656786
-description: "Release Notes -August '19 - Marketo Docs - Product Documentation"
+description: Release Notes -August '19 - Marketo Docs - Product Documentation
 title: Release Notes -August '19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
+TQID: https://experienceleague.adobe.com/9khB0o-UG6J245lAy9I1-Sw2wRtHsC1ekdotB7DqEh8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Release Notes: August '19 {#release-notes-august}
 

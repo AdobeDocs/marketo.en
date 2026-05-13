@@ -1,9 +1,16 @@
 ---
 unique-page-id: 10097202
-description: "Learn about Head Start for email programs. Send to early qualifiers before the main schedule for time-sensitive campaigns."
+description: Learn about Head Start for email programs. Send to early qualifiers before the main schedule for time-sensitive campaigns.
 title: Head Start for Email Programs
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
+TQID: https://experienceleague.adobe.com/DHsakR9O7XMJMAG2q7kfJFUUc2eFnkdslbowaA85IC4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Head Start for Email Programs {#head-start-for-email-programs}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147257
-description: "Learn how to navigate the Marketing Calendar including 3-week and month modes. Switch views and use the agenda to see scheduled assets."
+description: Learn how to navigate the Marketing Calendar including 3-week and month modes. Switch views and use the agenda to see scheduled assets.
 title: Navigating the Marketing Calendar
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/4FJUMYHjMDUvig-R-HBt7x4wvizISoq2eZJ1u45-oXU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Navigating the Marketing Calendar {#navigating-the-marketing-calendar}
 

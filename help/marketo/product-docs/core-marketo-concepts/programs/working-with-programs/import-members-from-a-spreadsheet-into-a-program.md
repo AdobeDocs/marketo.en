@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147120
-description: "Learn how to import members from a spreadsheet into a program."
+description: Learn how to import members from a spreadsheet into a program.
 title: Import Members from a Spreadsheet into a Program
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
+TQID: https://experienceleague.adobe.com/Nhpg0NekmvoYRBT2IcVLdxUsxcMbsaN5INNNtTCTWFc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Import Members from a Spreadsheet into a Program {#import-members-from-a-spreadsheet-into-a-program}
 

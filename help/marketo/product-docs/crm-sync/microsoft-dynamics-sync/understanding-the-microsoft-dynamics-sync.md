@@ -1,9 +1,19 @@
 ---
 unique-page-id: 10098625
-description: "Learn about how the Microsoft Dynamics sync keeps Marketo and Dynamics data in sync. See what is synced and how bidirectional sync works for leads and contacts."
+description: Learn about how the Microsoft Dynamics sync keeps Marketo and Dynamics data in sync. See what is synced and how bidirectional sync works for leads and contacts.
 title: Understanding the Microsoft Dynamics Sync
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/-Fr-yRhPskeESDyxFULmD-GIXvY5uqVANkGiCX3PhTM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # Understanding the [!DNL Microsoft Dynamics] Sync {#understanding-the-microsoft-dynamics-sync}
 

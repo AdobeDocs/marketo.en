@@ -1,9 +1,21 @@
 ---
 unique-page-id: 37357050
-description: "Learn how to upgrade your Marketo Sales Insight package in Salesforce. Get the latest version and apply the upgrade."
+description: Learn how to upgrade your Marketo Sales Insight package in Salesforce. Get the latest version and apply the upgrade.
 title: Upgrading Your MSI Package
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/wOriEL9vVh3fEb7SdMYiT2OmbrWJmEJ7yoraRr3Ogss
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Upgrading Your MSI Package {#upgrading-your-msi-package}
 

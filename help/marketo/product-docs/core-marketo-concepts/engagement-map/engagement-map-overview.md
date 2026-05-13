@@ -1,7 +1,19 @@
 ---
-description: "Learn about the Engagement Map for visualizing your Smart Campaigns. Use it to view triggers, filters, and flow steps intuitively in Marketo."
+description: Learn about the Engagement Map for visualizing your Smart Campaigns. Use it to view triggers, filters, and flow steps intuitively in Marketo.
 title: Engagement Map Overview
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
+TQID: https://experienceleague.adobe.com/vfOhI8VFlGNlAWloYu3Bwshu6bXR13tJCyc3YZN3pGY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
 ---
 # Engagement Map Overview {#engagement-map-overview}
 

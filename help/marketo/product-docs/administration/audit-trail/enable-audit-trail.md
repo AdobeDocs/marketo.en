@@ -1,9 +1,19 @@
 ---
 unique-page-id: 11382122
-description: "Enable Audit Trail and Login History for a role and assign the role to users via Admin permissions."
+description: Enable Audit Trail and Login History for a role and assign the role to users via Admin permissions.
 title: Enable Audit Trail
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
+TQID: https://experienceleague.adobe.com/-JXuS64rGSiaTMaiwUfzQWBAekwzj-53w8A2q1oLQWg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Enable Audit Trail {#enable-audit-trail}
 

@@ -1,9 +1,19 @@
 ---
 unique-page-id: 11378041
-description: "Remove a branding domain from the Email Admin table (set a different primary first if deleting the primary)."
+description: Remove a branding domain from the Email Admin table (set a different primary first if deleting the primary).
 title: Delete a Branding Domain
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 feature: Email Setup
+TQID: https://experienceleague.adobe.com/vLuW3RjbGmtsQtHzP-AhMU9PuQnySFdR4KKchezv4Hw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Delete a Branding Domain {#delete-a-branding-domain}
 

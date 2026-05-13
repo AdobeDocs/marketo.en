@@ -1,9 +1,27 @@
 ---
 unique-page-id: 37355534
-description: "Release Notes - Jan 2020 - Marketo Docs - Product Documentation"
+description: Release Notes - Jan 2020 - Marketo Docs - Product Documentation
 title: Release Notes - Jan 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
+TQID: https://experienceleague.adobe.com/Gz2-EI02s3DLfFiaEISb0U8Dkl-MzdmlSY6Zc7OK2Pc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 ---
 # Release Notes: Jan 2020 {#release-notes-jan}
 

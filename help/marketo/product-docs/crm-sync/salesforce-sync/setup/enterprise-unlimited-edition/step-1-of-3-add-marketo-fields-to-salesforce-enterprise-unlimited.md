@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2360362
-description: "Learn how to add Marketo fields to Salesforce Enterprise or Unlimited edition. Create Score, Acquisition Program, and Acquisition Date on lead and contact objects."
+description: Learn how to add Marketo fields to Salesforce Enterprise or Unlimited edition. Create Score, Acquisition Program, and Acquisition Date on lead and contact objects.
 title: Step 1 of 3 -Add Marketo Fields to Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/YYHZHerCNZ2xlShIBOz07jphJ15S5dGclIMMtb2HD0I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Step 1 of 3: Add Marketo Fields to [!DNL Salesforce] (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 

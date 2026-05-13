@@ -1,9 +1,19 @@
 ---
 unique-page-id: 7513141
-description: "Learn how to navigate the Analytics home page to access different report types and return to the home view. Select report types and manage your reporting workspace."
+description: Learn how to navigate the Analytics home page to access different report types and return to the home view. Select report types and manage your reporting workspace.
 title: Navigating the Analytics Home Page
 exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
 feature: Reporting
+TQID: https://experienceleague.adobe.com/5Ty5tJPKBWkb5L-thDAwarjmDn3TbNaLyjjRKk5Wvf0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Navigating the Analytics Home Page {#navigating-the-analytics-home-page}
 

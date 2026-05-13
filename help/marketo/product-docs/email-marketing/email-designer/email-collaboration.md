@@ -1,9 +1,18 @@
 ---
-description: "Learn about email collaboration and commenting in the Email Designer. Review, comment, and resolve feedback with your team in real time."
+description: Learn about email collaboration and commenting in the Email Designer. Review, comment, and resolve feedback with your team in real time.
 title: Email collaboration
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
+TQID: https://experienceleague.adobe.com/6reAug0ptdiT2k0wzEez9HmH3vEksrA8FCXXxfLQi9s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Email collaboration {#email-collaboration}
 

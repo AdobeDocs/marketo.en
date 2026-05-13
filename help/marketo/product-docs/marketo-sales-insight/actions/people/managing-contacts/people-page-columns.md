@@ -1,10 +1,13 @@
 ---
-description: "Learn about People page columns and how to customize the view. Show or hide columns to see the contact data you need."
+description: Learn about People page columns and how to customize the view. Show or hide columns to see the contact data you need.
 title: People Page Columns
 hide: true
-
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/M4kKw2eXz1UPzAxyjJH-qWvsj5MRvumXAmDU6BM1qhs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # People Page Columns {#people-page-columns}
 

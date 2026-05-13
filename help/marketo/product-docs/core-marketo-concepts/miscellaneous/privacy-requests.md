@@ -1,7 +1,14 @@
 ---
-description: "Learn how to manage privacy requests for access and delete in Marketo. Submit requests via Privacy Service UI or API and process consumer data."
+description: Learn how to manage privacy requests for access and delete in Marketo. Submit requests via Privacy Service UI or API and process consumer data.
 title: Privacy Requests
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
+TQID: https://experienceleague.adobe.com/o4xyJMLpbHADyAhsfVbxnQA-WdXfhSx-LCmN9-4IvYI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Privacy Requests {#privacy-requests}
 

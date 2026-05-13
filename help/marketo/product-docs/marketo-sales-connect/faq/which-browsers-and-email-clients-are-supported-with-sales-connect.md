@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352422
-description: "Learn which browsers and email clients are supported with Sales Connect. Check compatibility before installing the Gmail or Outlook plugin."
+description: Learn which browsers and email clients are supported with Sales Connect. Check compatibility before installing the Gmail or Outlook plugin.
 title: Which Browsers and Email Clients Are Supported with Sales Connect?
 exl-id: 00f3537e-358d-4540-b569-085674c360a4
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/ts8jXpXtBIJmlsXkeBMxPEWtF4lkrmyDec6SVKx92U0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Which Browsers and Email Clients Are Supported with Sales Connect? {#which-browsers-and-email-clients-are-supported-with-sales-connect}
 

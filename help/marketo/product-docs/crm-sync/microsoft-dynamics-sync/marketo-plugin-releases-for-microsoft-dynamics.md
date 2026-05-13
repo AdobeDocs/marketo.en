@@ -1,9 +1,16 @@
 ---
 unique-page-id: 10099389
-description: "Learn about Marketo plugin releases for Microsoft Dynamics. Find version history and download the latest Marketo solution for your Dynamics instance."
+description: Learn about Marketo plugin releases for Microsoft Dynamics. Find version history and download the latest Marketo solution for your Dynamics instance.
 title: Marketo Plugin Releases for [!DNL Microsoft Dynamics]
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/jz77p3iIGzpZFGrGPLoAFpz0b6EGllNwLc6g4Wj6G4g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Marketo Plugin Releases for [!DNL Microsoft Dynamics] {#marketo-plugin-releases-for-microsoft-dynamics}
 

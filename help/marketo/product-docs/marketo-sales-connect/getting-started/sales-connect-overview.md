@@ -1,9 +1,13 @@
 ---
 unique-page-id: 13796464
-description: "Learn about Marketo Sales Connect and how it drives engagement across the sales cycle. Use the live feed, person details, and campaigns to connect sales with marketing."
+description: Learn about Marketo Sales Connect and how it drives engagement across the sales cycle. Use the live feed, person details, and campaigns to connect sales with marketing.
 title: Sales Connect Overview
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/e9-WD7YGig59MLzMMrBidiGIZ0XAqFKCnUhRvs20q8k
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Sales Connect Overview {#sales-connect-overview}
 

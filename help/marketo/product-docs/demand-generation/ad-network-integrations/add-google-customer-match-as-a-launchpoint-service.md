@@ -1,9 +1,16 @@
 ---
 unique-page-id: 12980661
-description: "Learn how to add Google Customer Match as a LaunchPoint service. Send Marketo audiences to Google for targeting on AdWords, YouTube, Search, and Gmail."
-title: "Add Google Customer Match as a [!DNL LaunchPoint] Service"
+description: Learn how to add Google Customer Match as a LaunchPoint service. Send Marketo audiences to Google for targeting on AdWords, YouTube, Search, and Gmail.
+title: Add Google Customer Match as a [!DNL LaunchPoint] Service
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
+TQID: https://experienceleague.adobe.com/Dc0c-GMUeuShXpt-tDuhhqu5SIfrzF-7prfsPdu-3pY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 ---
 # Add Google Customer Match as a [!DNL LaunchPoint] Service {#add-google-customer-match-as-a-launchpoint-service}
 

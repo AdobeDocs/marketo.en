@@ -1,8 +1,17 @@
 ---
-description: "Learn how to sync unsubscribes between Sales Insight Actions and Salesforce. Keep opt-out status consistent across systems."
+description: Learn how to sync unsubscribes between Sales Insight Actions and Salesforce. Keep opt-out status consistent across systems.
 title: Syncing Unsubscribes with Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/ra-Nezm1zXZTZ5EZoCdCdYm0DRkCb5sZ0M5TKNt6nxM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Syncing Unsubscribes with [!DNL Salesforce] {#syncing-unsubscribes-with-salesforce}
 

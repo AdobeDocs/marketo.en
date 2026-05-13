@@ -1,8 +1,19 @@
 ---
-description: "Single Email Send program template. Use it to send one-time email campaigns with a clear naming convention."
+description: Single Email Send program template. Use it to send one-time email campaigns with a clear naming convention.
 title: EM-YYYY-MM-DD-Single Email Send
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
+TQID: https://experienceleague.adobe.com/wQnqyc6E2f3-TP1ZwAC3A3Iz1iikSRHaOSHyLhLp-uA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # EM-YYYY-MM-DD-Single Email Send {#em-yyyy-mm-dd-single-email-send}
 

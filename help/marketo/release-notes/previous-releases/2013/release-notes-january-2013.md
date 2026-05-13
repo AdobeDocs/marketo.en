@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2951105
-description: "Release Notes -January 2013 - Marketo Docs - Product Documentation"
+description: Release Notes -January 2013 - Marketo Docs - Product Documentation
 title: Release Notes -January 2013
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
+TQID: https://experienceleague.adobe.com/4dqPX50pI47J0nrL9Zf4SX-6b29MIDohELj6CtXvgIo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Release Notes: January 2013 {#release-notes-january}
 

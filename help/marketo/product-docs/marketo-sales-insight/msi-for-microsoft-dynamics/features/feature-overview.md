@@ -1,9 +1,16 @@
 ---
 unique-page-id: 37357043
-description: "Learn about Marketo Sales Insight features for Microsoft Dynamics. View lead scoring, activities, and actions in the Dynamics CRM."
+description: Learn about Marketo Sales Insight features for Microsoft Dynamics. View lead scoring, activities, and actions in the Dynamics CRM.
 title: Feature Overview
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/gV7k6wiAobeWNTmCtX0-Ob6U-EOQJi5Hko8Q7AC3nzk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Feature Overview {#feature-overview}
 

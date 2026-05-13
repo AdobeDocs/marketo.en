@@ -1,9 +1,19 @@
 ---
 unique-page-id: 7504128
-description: "Learn how to create a Smart List goal in the Marketing Calendar. Track progress with goals that auto-update every 2 hours in presentations."
+description: Learn how to create a Smart List goal in the Marketing Calendar. Track progress with goals that auto-update every 2 hours in presentations.
 title: Create a Smart List Goal
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/wDBTecelODmii-pFVGULEX4E9Q6FFT6hTJr9jHDjjTc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Create a Smart List Goal {#create-a-smart-list-goal}
 

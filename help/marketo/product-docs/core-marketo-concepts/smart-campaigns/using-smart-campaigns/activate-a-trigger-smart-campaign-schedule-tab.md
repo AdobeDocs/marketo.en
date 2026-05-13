@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1146935
-description: "Learn how to activate a trigger Smart Campaign from the Schedule tab. Turn on the campaign so it starts listening for triggers."
+description: Learn how to activate a trigger Smart Campaign from the Schedule tab. Turn on the campaign so it starts listening for triggers.
 title: Activate a Trigger Smart Campaign | Schedule Tab
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/caz3MGlIpyQjF8p1zhGZc4uGYrEpnnPLyM33r2fjPGY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Activate a Trigger Smart Campaign | Schedule Tab {#activate-a-trigger-smart-campaign-schedule-tab}
 

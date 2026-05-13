@@ -1,8 +1,12 @@
 ---
-description: "Learn how to create a Sales Campaign with email, call, InMail, and custom task steps. Organize, scale, and measure outreach."
+description: Learn how to create a Sales Campaign with email, call, InMail, and custom task steps. Organize, scale, and measure outreach.
 title: Create a Sales Campaign
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/UWJhgXOd1e0TPYN0kK49HPWVb4pWrMKzZcTkaVI1Gj8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Create a Sales Campaign {#create-a-sales-campaign}
 

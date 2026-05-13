@@ -1,9 +1,13 @@
 ---
 unique-page-id: 4719190
-description: "Learn how to enable Content Discovery so Predictive Content auto-discovers and tags content from your site. Track views on PDFs, videos, and more for recommendations."
+description: Learn how to enable Content Discovery so Predictive Content auto-discovers and tags content from your site. Track views on PDFs, videos, and more for recommendations.
 title: Enable Content Discovery
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
+TQID: https://experienceleague.adobe.com/9MTP4S-1LzNBwVBp1SvsfxtGCmj-eat8j-6niXHYK3w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Enable Content Discovery {#enable-content-discovery}
 

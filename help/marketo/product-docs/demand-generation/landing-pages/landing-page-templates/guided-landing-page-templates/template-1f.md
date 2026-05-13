@@ -1,9 +1,16 @@
 ---
 unique-page-id: 7516061
-description: "Learn about the Template 1F guided landing page template. Download and use it for your Marketo landing pages."
+description: Learn about the Template 1F guided landing page template. Download and use it for your Marketo landing pages.
 title: Template 1F
 exl-id: eaad3b04-abf7-469a-aedf-e2c4fee1419f
 feature: Landing Pages, Guided Landing Page Templates
+TQID: https://experienceleague.adobe.com/-spsNvAj4w67FjfyAbXJTNN8yKx1QlDL2jde1KzQdJQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Template 1F {#template-1f}
 

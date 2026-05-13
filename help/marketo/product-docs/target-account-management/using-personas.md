@@ -1,9 +1,18 @@
 ---
 unique-page-id: 17727818
-description: "Learn how to use personas to segment your ABM audience and market to specific subsets. Add personas in Admin and use them in smart list filters."
+description: Learn how to use personas to segment your ABM audience and market to specific subsets. Add personas in Admin and use them in smart list filters.
 title: Using Personas
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/RRkO7yEFUgpggS2n6Ly0B7I7IjY5ATFhAYx93xbIP6w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Using Personas {#using-personas}
 

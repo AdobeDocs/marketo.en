@@ -1,9 +1,16 @@
 ---
 unique-page-id: 7512654
-description: "Learn how to see the lead feed in Salesforce Mobile (Salesforce1). View real-time lead activity in the MSI panel on mobile."
+description: Learn how to see the lead feed in Salesforce Mobile (Salesforce1). View real-time lead activity in the MSI panel on mobile.
 title: Seeing Lead Feed in Salesforce1
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/jNgJLm4LvwGsZZuys5TeYm1-XuLLWTYFXetbD-NNrOY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Seeing Lead Feed in [!DNL Salesforce1] {#seeing-lead-feed-in-salesforce}
 

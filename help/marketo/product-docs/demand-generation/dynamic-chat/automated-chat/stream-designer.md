@@ -1,8 +1,29 @@
 ---
-description: "Learn about the Stream Designer and cards for building chat conversations. Add messages, questions, document capture, meeting booking, and more to Dialogues."
+description: Learn about the Stream Designer and cards for building chat conversations. Add messages, questions, document capture, meeting booking, and more to Dialogues.
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
+TQID: https://experienceleague.adobe.com/t8n1vt6E48M6JeOYFS3zfvTMAf0RrpNBTpPoTVX7CsE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Stream Designer {#stream-designer}
 

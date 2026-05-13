@@ -1,8 +1,15 @@
 ---
-description: "Learn about the Analytics tab and email engagement data for Sales Insight Actions. View individual and team stats in the Me, Team, and Content tabs."
+description: Learn about the Analytics tab and email engagement data for Sales Insight Actions. View individual and team stats in the Me, Team, and Content tabs.
 title: Analytics Page Overview
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/vOLcxsTdvayDUx4kCRQmXZ-V-Kir-lR6ECPKeuiplJ0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Analytics Page Overview {#analytics-page-overview}
 

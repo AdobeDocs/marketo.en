@@ -1,9 +1,13 @@
 ---
 unique-page-id: 30081321
-description: "Understand group types in Sales Connect. Learn about My Groups, shared groups, and how to organize contacts."
+description: Understand group types in Sales Connect. Learn about My Groups, shared groups, and how to organize contacts.
 title: Group Types
 exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/T9ZW2amKeLWFAbWHSuP4d858Qh8nqAfxwpyMESvKftk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Group Types {#group-types}
 

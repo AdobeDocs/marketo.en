@@ -1,8 +1,12 @@
 ---
-description: "Learn how to change your Marketo Sales password in Sales Insight Actions. Update password in Settings when not using Salesforce Only login."
+description: Learn how to change your Marketo Sales password in Sales Insight Actions. Update password in Settings when not using Salesforce Only login.
 title: Change Your Marketo Sales Password
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/e991PHN9bd3khp5eHLVybW1nXmWZV0fDHbX9IbUTrx8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Change Your Marketo Sales Password {#change-your-marketo-sales-password}
 

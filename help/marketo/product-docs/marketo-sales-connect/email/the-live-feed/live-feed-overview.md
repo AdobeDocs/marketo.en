@@ -1,9 +1,13 @@
 ---
 unique-page-id: 13796471
-description: "Learn about the Live Feed in Sales Connect. View real-time engagement on your emails and content from marketing and sales."
+description: Learn about the Live Feed in Sales Connect. View real-time engagement on your emails and content from marketing and sales.
 title: Live Feed Overview
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/-CrqazvM9aRb1Kctez04rwwy0BDnvE4AhrRrWxBVbkU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Live Feed Overview {#live-feed-overview}
 

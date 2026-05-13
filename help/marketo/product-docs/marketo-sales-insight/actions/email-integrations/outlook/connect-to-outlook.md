@@ -1,7 +1,16 @@
 ---
-description: "Learn how to connect Outlook to Sales Insight Actions. Send and track sales emails from Outlook with the Actions integration."
+description: Learn how to connect Outlook to Sales Insight Actions. Send and track sales emails from Outlook with the Actions integration.
 title: Connect to Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
+TQID: https://experienceleague.adobe.com/tonzxiPICvRgvLIfWFADeUL1CLdSVwcqx-dAIETCDOc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 ---
 # Connect to Outlook {#connect-to-outlook}
 

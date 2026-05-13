@@ -1,9 +1,21 @@
 ---
 unique-page-id: 3571927
-description: "Learn about web personalization glossary in Marketo Engage, including dnl web personalization glossary. Use this guide to complete your next step."
+description: Learn about web personalization glossary in Marketo Engage, including dnl web personalization glossary. Use this guide to complete your next step.
 title: Web Personalization Glossary
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/dpI1btj5vzxsJzPdBgej7QwFJedLGu8125uj6kKn5Jg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!DNL Web Personalization] Glossary {#web-personalization-glossary}
 

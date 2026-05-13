@@ -1,9 +1,19 @@
 ---
 unique-page-id: 37355609
-description: "Learn how to find new accounts to target using AI-powered recommendations from your ideal customer profile. Discover and save new target accounts to account lists."
+description: Learn how to find new accounts to target using AI-powered recommendations from your ideal customer profile. Discover and save new target accounts to account lists.
 title: New Account Discovery
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/9Bf4cR5lkY9pIFqUSVSpgQL8XJwTv0-jX8-zQdD9Bbw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # New Account Discovery {#new-account-discovery}
 

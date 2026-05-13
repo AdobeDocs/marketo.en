@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7512442
-description: "Learn how to delete a mobile app from Marketo. Remove the app so push notifications can no longer be sent from it."
+description: Learn how to delete a mobile app from Marketo. Remove the app so push notifications can no longer be sent from it.
 title: Delete Mobile App
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/HMJovQhOEdHoy7CV-qiE4WOcQS8Alg6ESzYaUyAOoeQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Delete Mobile App {#delete-mobile-app}
 

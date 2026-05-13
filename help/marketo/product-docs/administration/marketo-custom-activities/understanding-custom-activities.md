@@ -1,9 +1,23 @@
 ---
 unique-page-id: 10100266
-description: "Overview of custom activities for tracking business-specific person actions, how they differ from custom objects, and the two-step setup of creating the activity and API implementation."
+description: Overview of custom activities for tracking business-specific person actions, how they differ from custom objects, and the two-step setup of creating the activity and API implementation.
 title: Understanding Custom Activities
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
+TQID: https://experienceleague.adobe.com/QwH82DomS1BDHbK3wfoP14N8xDBKZ28gOLyZ-L8fAeY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Understanding Custom Activities {#understanding-custom-activities}
 

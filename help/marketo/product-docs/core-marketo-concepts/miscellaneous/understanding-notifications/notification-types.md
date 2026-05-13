@@ -1,8 +1,15 @@
 ---
 unique-page-id: 2953243
-description: "Learn about notification types in Marketo including campaign failure, CRM sync, and engagement. Understand what each alert means."
+description: Learn about notification types in Marketo including campaign failure, CRM sync, and engagement. Understand what each alert means.
 title: Notification Types
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
+TQID: https://experienceleague.adobe.com/CsekFCXNG0acEgpSCcSvWcreKsPHBLE4Ht8lSb-PSq8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Notification Types {#notification-types}
 

@@ -1,9 +1,33 @@
 ---
 unique-page-id: 6848705
-description: "Get help on best practices for organizing your programs. Structure campaign folders and programs for clarity and scale."
+description: Get help on best practices for organizing your programs. Structure campaign folders and programs for clarity and scale.
 title: Best Practice -How to Organize your Programs
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
+TQID: https://experienceleague.adobe.com/umVs0Y7YO6uYe0VsltT287eYBiViR8mFvxCC3WvIkaw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+    internal-label: Data management
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Best Practice: How to Organize your Programs {#best-practice-how-to-organize-your-programs}
 

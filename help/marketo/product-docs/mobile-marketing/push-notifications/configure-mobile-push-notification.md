@@ -1,8 +1,17 @@
 ---
-description: "Learn how to configure a mobile push notification. Set app, message text, tap actions, deep links, and approve for send."
+description: Learn how to configure a mobile push notification. Set app, message text, tap actions, deep links, and approve for send.
 title: Configure Mobile Push Notification
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/-8Uq6iWU2ithRZ9pUDoFgCjICxCIggt2jtrQapokriw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
 ---
 # Configure Mobile Push Notification {#configure-mobile-push-notification}
 

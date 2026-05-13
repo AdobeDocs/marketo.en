@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2952402
-description: "Learn how to filter activity types in the activity log of a person. Focus on specific activities when viewing history."
+description: Learn how to filter activity types in the activity log of a person. Focus on specific activities when viewing history.
 title: Filter Activity Types in the Activity Log of a Person
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/d4hRqMdNQzN9LR7zm-ii9h8g4LcvUFlSG97jIUklf5Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Filter Activity Types in the Activity Log of a Person {#filter-activity-types-in-the-activity-log-of-a-person}
 

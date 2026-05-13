@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2953463
-description: "Learn about how lead and account owner fields sync from Salesforce to Marketo. Change lead owner in Marketo and use owner data in flow actions and Smart Lists."
+description: Learn about how lead and account owner fields sync from Salesforce to Marketo. Change lead owner in Marketo and use owner data in flow actions and Smart Lists.
 title: SFDC Sync - Lead/Account Owner Sync
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/hw4ZXOFSDBvVm45z84aQkxgKU17O-8h1NhukpGCNsos
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # SFDC Sync: Lead/Account Owner Sync {#sfdc-sync-lead-account-owner-sync}
 

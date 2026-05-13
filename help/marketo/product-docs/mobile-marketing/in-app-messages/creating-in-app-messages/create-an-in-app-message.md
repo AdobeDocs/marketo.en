@@ -1,8 +1,12 @@
 ---
-description: "Learn how to create an in-app message. Add it as a local asset in Marketing Activities, name it, then choose a layout and build your message."
+description: Learn how to create an in-app message. Add it as a local asset in Marketing Activities, name it, then choose a layout and build your message.
 title: Create an In-App Message
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/ayEZLuHoATSPe6vXQN8iEjzNYHWWUIqlfDFVZZEx5Mw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Create an [!UICONTROL In-App Message] {#create-an-in-app-message}
 

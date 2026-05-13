@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147074
-description: "Learn about automatic trigger campaign cleanup. Understand how Marketo cleans up old trigger campaign runs."
+description: Learn about automatic trigger campaign cleanup. Understand how Marketo cleans up old trigger campaign runs.
 title: Automatic Trigger Campaign Cleanup
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/KygJNZIAwzO7OzNBHiVwXAylH7mRg31v-bPII53SFD8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Automatic Trigger Campaign Cleanup {#automatic-trigger-campaign-cleanup}
 

@@ -1,8 +1,15 @@
 ---
-description: "Learn how to create a new Dialogue in Dynamic Chat. Choose a template, set name and priority, then create a stream for your conversation."
+description: Learn how to create a new Dialogue in Dynamic Chat. Choose a template, set name and priority, then create a stream for your conversation.
 title: Create a Dialogue
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
+TQID: https://experienceleague.adobe.com/xEgZSfcWCOUkzqvq-XzziusQAhEhL4iXpY9oGrxUduA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Create a Dialogue {#create-a-dialogue}
 

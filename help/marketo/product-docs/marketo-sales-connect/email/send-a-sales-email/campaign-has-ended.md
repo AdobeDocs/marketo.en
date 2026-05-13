@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352587
-description: "Get help when you see Campaign Has Ended in Sales Connect. Understand why you cannot send and what to do when a campaign is finished."
+description: Get help when you see Campaign Has Ended in Sales Connect. Understand why you cannot send and what to do when a campaign is finished.
 title: Campaign Has Ended
 exl-id: a4307ce0-39bc-4971-b60a-1284af95a7a1
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/IYhkCIkfzC7fF5o-lYoH4uGMkVWUI1gGKOADFePAeUA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Campaign Has Ended {#campaign-has-ended}
 

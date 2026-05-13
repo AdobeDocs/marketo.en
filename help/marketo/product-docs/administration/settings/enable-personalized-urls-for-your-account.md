@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2360215
-description: "Steps to enable personalized URLs for your subscription for use in print mail and other campaigns."
+description: Steps to enable personalized URLs for your subscription for use in print mail and other campaigns.
 title: Enable Personalized URLs for Your Account
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
+TQID: https://experienceleague.adobe.com/cHKZjgVy3iTVeYI-V1I4OXqfGoPodOaV8KR3R43uBr4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Enable Personalized URLs for Your Account {#enable-personalized-urls-for-your-account}
 

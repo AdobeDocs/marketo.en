@@ -1,8 +1,17 @@
 ---
-description: "Learn about Predictive Audiences models and influencing factors. Use AI insights to tune targeting and improve campaign performance."
+description: Learn about Predictive Audiences models and influencing factors. Use AI insights to tune targeting and improve campaign performance.
 title: Models and Insights
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
+TQID: https://experienceleague.adobe.com/ikS8VQJfQ9ndHrtDY5K8GYbNYwJjk1nYkuqxnwfcWPY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: b4dd41a7-ccf8-4e9d-918e-acaab534a307
+    internal-label: Data quality
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Models and Insights {#models-and-insights}
 

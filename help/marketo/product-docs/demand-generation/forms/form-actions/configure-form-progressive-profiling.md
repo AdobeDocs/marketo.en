@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359646
-description: "Learn how to configure progressive profiling on a Marketo form. Show different fields over time to collect more data without long forms."
+description: Learn how to configure progressive profiling on a Marketo form. Show different fields over time to collect more data without long forms.
 title: Configure Form Progressive Profiling
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
+TQID: https://experienceleague.adobe.com/W143MciVBqQPZXiQKmlLTLDyqik3Uo5ouSwAmJV4EkI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
 ---
 # Configure Form Progressive Profiling {#configure-form-progressive-profiling}
 

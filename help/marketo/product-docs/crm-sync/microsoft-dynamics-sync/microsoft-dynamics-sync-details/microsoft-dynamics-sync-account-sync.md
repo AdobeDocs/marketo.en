@@ -1,9 +1,16 @@
 ---
 unique-page-id: 3571836
-description: "Learn about how account information syncs from Microsoft Dynamics to Marketo. Understand one-way sync and the contact-account relationship."
+description: Learn about how account information syncs from Microsoft Dynamics to Marketo. Understand one-way sync and the contact-account relationship.
 title: Microsoft Dynamics Sync -Account Sync
 exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/O4tO6DCM-BhwZriMmPGiQqzuhpIc-rWAKojWCn5-Ab8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # [!DNL Microsoft Dynamics] Sync: Account Sync {#microsoft-dynamics-sync-account-sync}
 

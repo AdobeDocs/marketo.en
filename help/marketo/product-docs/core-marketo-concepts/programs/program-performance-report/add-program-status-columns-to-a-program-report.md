@@ -1,9 +1,21 @@
 ---
 unique-page-id: 1147239
-description: "Learn how to add program status columns to a program report. Include member status in your report columns."
+description: Learn how to add program status columns to a program report. Include member status in your report columns.
 title: Add Program Status Columns to a Program Report
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
+TQID: https://experienceleague.adobe.com/zOGiLcZMeALJzxFQMi7DcUutqUOQbfuPDsGoM-zW7Yg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Add Program Status Columns to a Program Report {#add-program-status-columns-to-a-program-report}
 

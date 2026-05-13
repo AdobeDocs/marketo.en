@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1146948
-description: "Learn how to send an email in a Smart Campaign flow step. Add the send email action to your campaign flow."
+description: Learn how to send an email in a Smart Campaign flow step. Add the send email action to your campaign flow.
 title: Send Email
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/Fng-mVano2EMWENPzqdjqxbuuOvaDd6i18pRu1uKe3o
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Send Email {#send-email}
 

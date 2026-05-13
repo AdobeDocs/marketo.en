@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147053
-description: "Learn how to abort a Smart Campaign. Stop a running batch campaign and prevent further people from entering."
+description: Learn how to abort a Smart Campaign. Stop a running batch campaign and prevent further people from entering.
 title: Abort a Smart Campaign
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/NHm54v5v58WzsR49vqfpWb6s3JGET4ndGT6fT3EvXDo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Abort a Smart Campaign {#abort-a-smart-campaign}
 

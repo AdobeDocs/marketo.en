@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359606
-description: "Learn how to delete a field from a Marketo form. Remove fields you no longer need from the form."
+description: Learn how to delete a field from a Marketo form. Remove fields you no longer need from the form.
 title: Delete a Field in a Form
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
+TQID: https://experienceleague.adobe.com/qjDE4DIkk561T-m8naodIFdudxF7lsf2DZ0Ix4FIFwc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
 ---
 # Delete a Field in a Form {#delete-a-field-in-a-form}
 

@@ -1,7 +1,11 @@
 ---
-description: "Learn about the Engagement Map tab and its trigger, filter, and flow cards. Click cards to view details and edit campaign elements."
+description: Learn about the Engagement Map tab and its trigger, filter, and flow cards. Click cards to view details and edit campaign elements.
 title: Engagement Map Tab
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
+TQID: https://experienceleague.adobe.com/fjlcx5-vMP8JVUSlhXPontUVlrHVMLeKfVOxv-VcSQw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Engagement Map Tab {#engagement-map-tab}
 

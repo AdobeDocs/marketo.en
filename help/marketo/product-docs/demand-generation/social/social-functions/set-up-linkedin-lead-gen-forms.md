@@ -1,9 +1,20 @@
 ---
 unique-page-id: 12976798
-description: "Learn how to set up LinkedIn Lead Gen Forms with Marketo. Connect LinkedIn and sync lead ad submissions to Marketo via LaunchPoint."
+description: Learn how to set up LinkedIn Lead Gen Forms with Marketo. Connect LinkedIn and sync lead ad submissions to Marketo via LaunchPoint.
 title: Set up LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
+TQID: https://experienceleague.adobe.com/M71uOB2ibUQ43e52t04-kjgVkbI5c4dsw-ajqD44ZIs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Set up LinkedIn Lead Gen Forms {#set-up-linkedin-lead-gen-forms}
 

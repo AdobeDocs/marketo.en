@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7504058
-description: "Learn how to clone a Marketing Calendar presentation for reuse. Create an exact copy to use in different places."
+description: Learn how to clone a Marketing Calendar presentation for reuse. Create an exact copy to use in different places.
 title: Clone a Presentation
 exl-id: be013e38-734c-41d7-8623-e8f267b2799c
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/USkrZc-m1mH1SbTfCsRA9a9qm25DVstEODFJjxOG2S8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Clone a Presentation {#clone-a-presentation}
 

@@ -1,9 +1,13 @@
 ---
 unique-page-id: 1146901
-description: "Learn how to use advanced Smart List rule logic. Combine filters with AND and OR for complex qualification."
+description: Learn how to use advanced Smart List rule logic. Combine filters with AND and OR for complex qualification.
 title: Using Advanced Smart List Rule Logic
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/fApf1UB9N8aT8Eqi8oibEnWYiNjET-QcWYTvCfgJHgs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Using Advanced Smart List Rule Logic {#using-advanced-smart-list-rule-logic}
 

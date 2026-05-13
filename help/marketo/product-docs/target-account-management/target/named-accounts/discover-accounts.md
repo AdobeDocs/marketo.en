@@ -1,9 +1,16 @@
 ---
 unique-page-id: 11378812
-description: "Learn how to discover potential target accounts from your CRM or Marketo companies. Add selected accounts as Named Accounts and associate people automatically."
+description: Learn how to discover potential target accounts from your CRM or Marketo companies. Add selected accounts as Named Accounts and associate people automatically.
 title: Discover Accounts
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/a3DruY5sl6iQu4sr3qqLBCSoybZpC3lQFfPUVr-oDs4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Discover Accounts {#discover-accounts}
 

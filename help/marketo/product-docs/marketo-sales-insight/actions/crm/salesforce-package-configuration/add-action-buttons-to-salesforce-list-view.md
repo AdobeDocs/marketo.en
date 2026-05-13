@@ -1,7 +1,14 @@
 ---
-description: "Learn how to add Send Sales Email and Add to Sales Campaign buttons to Salesforce list views. Configure in Lightning or Classic via List View Button Layouts."
+description: Learn how to add Send Sales Email and Add to Sales Campaign buttons to Salesforce list views. Configure in Lightning or Classic via List View Button Layouts.
 title: Add Action Buttons to Salesforce List View
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
+TQID: https://experienceleague.adobe.com/FrAMWFxN0sB-1GYy9FUF39CypvHJxmv1nxuyNNnj02Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 ---
 # Add Action Buttons to Salesforce List View {#add-action-buttons-to-salesforce-list-view}
 

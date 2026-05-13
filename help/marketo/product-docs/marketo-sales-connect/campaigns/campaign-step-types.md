@@ -1,9 +1,16 @@
 ---
 unique-page-id: 14746690
-description: "Learn about campaign step types in Sales Connect. Add Email, Call, InMail, or Custom Task steps to build multi-channel campaigns."
+description: Learn about campaign step types in Sales Connect. Add Email, Call, InMail, or Custom Task steps to build multi-channel campaigns.
 title: Campaign Step Types
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/VWjvxjYSeBk2lexnYTID-21pJgfrQ187Ss-DxnUWcNo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Campaign Step Types {#campaign-step-types}
 

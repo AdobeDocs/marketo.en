@@ -1,8 +1,18 @@
 ---
-description: "Learn about the SMS Message Dashboard and reporting. View sent, delivered, bounce rate, and activity over time for your SMS campaigns."
+description: Learn about the SMS Message Dashboard and reporting. View sent, delivered, bounce rate, and activity over time for your SMS campaigns.
 title: SMS Reporting
 feature: Mobile Marketing
 exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
+TQID: https://experienceleague.adobe.com/WV6w9JEN2q3cdd00Wu5ACP1Gw5A4cDtq9FDslbdD1hE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # SMS Reporting {#sms-reporting}
 

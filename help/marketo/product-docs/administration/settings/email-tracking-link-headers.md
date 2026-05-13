@@ -1,8 +1,20 @@
 ---
-description: "How to customize email tracking link headers in Admin under Email, including Strict-Transport-Security for HTTPS, with IT review guidance."
+description: How to customize email tracking link headers in Admin under Email, including Strict-Transport-Security for HTTPS, with IT review guidance.
 title: Email Tracking Link Headers
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 feature: Administration
+TQID: https://experienceleague.adobe.com/myoUsAnpIvAZVY-ar4iQl9xDHr886vAH-l0YXtM1mfg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Email Tracking Link Headers {#email-tracking-link-headers}
 

@@ -2,10 +2,25 @@
 solution: Marketo Engage
 product: marketo
 title: Edit images with Adobe Express
-description: "Learn how to edit images in the Email Designer using Adobe Express. Open and refine images without leaving Marketo Engage."
+description: Learn how to edit images in the Email Designer using Adobe Express. Open and refine images without leaving Marketo Engage.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
+TQID: https://experienceleague.adobe.com/67dASITuTPfA7ZDovhR9WKzpSAL3gm3jO98RO8qyAqg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
+    internal-label: Content reuse
 ---
 # Edit images with Adobe Express {#edit-images-with-adobe-express}
 

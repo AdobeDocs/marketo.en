@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1900597
-description: "Learn how to define an email program audience by importing a list. Use static or uploaded lists to target your send."
+description: Learn how to define an email program audience by importing a list. Use static or uploaded lists to target your send.
 title: Define an Audience by Importing a List
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
+TQID: https://experienceleague.adobe.com/Q5z9emcEDyLDUB2ZDF9LIMZTX1jvEQ8W5-bKFgMMFuc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Define an Audience by Importing a List {#define-an-audience-by-importing-a-list}
 

@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2953338
-description: "Learn how to send a Marketo sales email from Microsoft Dynamics. Compose and send tracked emails from the MSI panel in Dynamics."
+description: Learn how to send a Marketo sales email from Microsoft Dynamics. Compose and send tracked emails from the MSI panel in Dynamics.
 title: Send a Marketo Sales Email from Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/Tt835Xzb29Zs590QSOUtPIXo55eEkBRB8bbXD1W7gAk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Send a [!DNL Marketo Sales] Email from [!DNL Microsoft Dynamics] {#send-a-marketo-sales-email-from-microsoft-dynamics}
 

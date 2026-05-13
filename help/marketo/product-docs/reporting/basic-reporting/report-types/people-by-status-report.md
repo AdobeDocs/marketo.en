@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2360012
-description: "Learn about People by Status reports that show how many people appear in each Person Status value monthly. Track progress through your process and identify bottlenecks in your funnel."
+description: Learn about People by Status reports that show how many people appear in each Person Status value monthly. Track progress through your process and identify bottlenecks in your funnel.
 title: People by Status Report
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
+TQID: https://experienceleague.adobe.com/mckFm3eVloyPfAwlvVR9o0pvBU1zFom4KKf-lF6pdNs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # People by Status Report {#people-by-status-report}
 

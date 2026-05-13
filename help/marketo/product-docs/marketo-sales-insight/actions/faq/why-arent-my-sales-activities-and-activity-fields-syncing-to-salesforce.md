@@ -1,7 +1,19 @@
 ---
-description: "Troubleshoot when sales activities and fields do not sync to Salesforce. Check API logging, custom fields, and permissions."
+description: Troubleshoot when sales activities and fields do not sync to Salesforce. Check API logging, custom fields, and permissions.
 title: Why Aren't My Sales Activities and Activity Fields Syncing to Salesforce?
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
+TQID: https://experienceleague.adobe.com/ATXA1f3wZqC0z-QFjrK2ax0w8-wmf5cjKn4jdZJLtt0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Why Aren't My Sales Activities and Activity Fields Syncing to Salesforce? {#why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce}
 

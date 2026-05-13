@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2953455
-description: "Learn about how lead sync works between Salesforce and Marketo. Understand bidirectional sync, create leads from Marketo, and respect validation rules."
+description: Learn about how lead sync works between Salesforce and Marketo. Understand bidirectional sync, create leads from Marketo, and respect validation rules.
 title: SFDC Sync - Lead Sync
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/zqztwtX4Xe08Df-v1aTxhRi-cB2CZALctr3kaFNrT7s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # SFDC Sync: Lead Sync {#sfdc-sync-lead-sync}
 

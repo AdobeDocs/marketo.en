@@ -1,9 +1,13 @@
 ---
 unique-page-id: 557329
-description: "Learn how to export people to Excel from a list or Smart List. Download the people in the list for reporting."
+description: Learn how to export people to Excel from a list or Smart List. Download the people in the list for reporting.
 title: Export People to Excel from a List or Smart List
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/gr2GJ22r0Kf7RCRHLsW04WYHXrsqcGAC0itjkFScKOE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Export People to Excel from a List or Smart List {#export-people-to-excel-from-a-list-or-smart-list}
 

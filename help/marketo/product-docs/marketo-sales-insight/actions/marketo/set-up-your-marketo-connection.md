@@ -1,10 +1,13 @@
 ---
-description: "Learn how to set up your Marketo connection for Sales Insight Actions. Connect from Marketo Admin to enable Actions for your instance."
+description: Learn how to set up your Marketo connection for Sales Insight Actions. Connect from Marketo Admin to enable Actions for your instance.
 title: Set up Your Marketo Connection
 hide: true
-
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/AFuURPjAaLkL4MB0qILuGUZZJBuFLv-gfKOmVcQriMY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Set up Your Marketo Connection {#set-up-your-marketo-connection}
 

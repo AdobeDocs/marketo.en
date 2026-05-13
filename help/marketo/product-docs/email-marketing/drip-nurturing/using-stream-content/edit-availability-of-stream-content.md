@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359910
-description: "Learn how to set active from and active through dates for stream content. Use Edit Availability to schedule when content is active in casts."
+description: Learn how to set active from and active through dates for stream content. Use Edit Availability to schedule when content is active in casts.
 title: Edit Availability of Stream Content
 exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
 feature: Engagement Programs
+TQID: https://experienceleague.adobe.com/nQXJWaWOVHjixXZjZm4wNCeP-Jq0cEr9b2SWJUBut4Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Edit Availability of Stream Content {#edit-availability-of-stream-content}
 

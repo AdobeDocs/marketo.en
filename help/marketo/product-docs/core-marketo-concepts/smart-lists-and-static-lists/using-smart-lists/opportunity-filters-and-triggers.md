@@ -1,9 +1,13 @@
 ---
 unique-page-id: 8159286
-description: "Learn about opportunity filters and triggers in Marketo. Segment and trigger on CRM opportunity data."
+description: Learn about opportunity filters and triggers in Marketo. Segment and trigger on CRM opportunity data.
 title: Opportunity Filters and Triggers
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/e5Nz6uthpqduyCkhoo1or70-Ych-DaAeZ-iOSEPxyA8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Opportunity Filters and Triggers {#opportunity-filters-and-triggers}
 

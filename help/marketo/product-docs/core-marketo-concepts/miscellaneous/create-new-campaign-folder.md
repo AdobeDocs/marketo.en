@@ -1,8 +1,15 @@
 ---
 unique-page-id: 2953207
-description: "Learn how to create a new campaign folder in Marketing Activities. Organize your workspace with campaign folders for automation and assets."
+description: Learn how to create a new campaign folder in Marketing Activities. Organize your workspace with campaign folders for automation and assets.
 title: Create New Campaign Folder
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
+TQID: https://experienceleague.adobe.com/8hUgJiQZ-Lf4osq-sSHBd-0NZEG2SplxIycUluBeOsk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Create New Campaign Folder {#create-new-campaign-folder}
 

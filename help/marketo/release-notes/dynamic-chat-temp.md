@@ -1,10 +1,13 @@
 ---
-description: "Dynamic Chat Release Notes - Marketo Docs - Product Documentation"
+description: Dynamic Chat Release Notes - Marketo Docs - Product Documentation
 title: Dynamic Chat Release Notes
 feature: Release Information, Dynamic Chat
 hide: true
-
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
+TQID: https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Dynamic Chat Release Notes {#dynamic-chat-release}
 

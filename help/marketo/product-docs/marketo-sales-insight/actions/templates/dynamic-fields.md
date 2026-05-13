@@ -1,8 +1,15 @@
 ---
-description: "Learn about dynamic fields in Sales Insight Actions templates. Use merge fields to personalize emails with contact and sender data."
+description: Learn about dynamic fields in Sales Insight Actions templates. Use merge fields to personalize emails with contact and sender data.
 title: Dynamic Fields
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/TSha6oGJPKxA0HNM0H-IDRC3rUE-Ld40VHWPzu6DHY4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Dynamic Fields {#dynamic-fields}
 

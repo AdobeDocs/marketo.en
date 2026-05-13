@@ -1,9 +1,16 @@
 ---
 unique-page-id: 11377640
-description: "Learn how to authorize the Marketo Outlook plugin. Complete OAuth so users can send and track emails from Outlook."
+description: Learn how to authorize the Marketo Outlook plugin. Complete OAuth so users can send and track emails from Outlook.
 title: Authorize the Marketo [!DNL Outlook] Plugin
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/IQv2V0dX-p2RE5zfco8s8Q5hSaD35mpQyuWGPpxcITE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Authorize the Marketo [!DNL Outlook] Plugin {#authorize-the-marketo-outlook-plugin}
 

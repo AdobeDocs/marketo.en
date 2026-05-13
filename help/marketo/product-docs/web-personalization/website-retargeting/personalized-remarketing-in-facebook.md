@@ -1,9 +1,19 @@
 ---
 unique-page-id: 4720917
-description: "Learn about personalized remarketing in facebook in Marketo Engage, including personalized remarketing in dnl. Use this guide to complete your next step."
+description: Learn about personalized remarketing in facebook in Marketo Engage, including personalized remarketing in dnl. Use this guide to complete your next step.
 title: Personalized Remarketing in Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/Pm54eQ-MPJ2hQeKyK2jFWHqjy1-t69Kzd2LB8fNcIKo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Personalized Remarketing in [!DNL Facebook] {#personalized-remarketing-in-facebook}
 

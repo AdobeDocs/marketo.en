@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352441
-description: "Learn how to schedule an email for a later date from the Gmail plugin. Set send time so your tracked email goes out when you want."
+description: Learn how to schedule an email for a later date from the Gmail plugin. Set send time so your tracked email goes out when you want.
 title: Schedule an Email for a Later Date
 exl-id: a3948f7d-c505-4e56-bf19-69d660c61740
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/0rYSj6xircNr9N8FsRxSzcN47KOeX3GF17ZNAi-sToI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Schedule an Email for a Later Date {#schedule-an-email-for-a-later-date}
 

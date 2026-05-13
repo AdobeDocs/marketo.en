@@ -1,9 +1,13 @@
 ---
 unique-page-id: 3571848
-description: "Learn about how lead sync works between Microsoft Dynamics and Marketo. Understand bidirectional sync and create leads with Sync Person to Microsoft."
+description: Learn about how lead sync works between Microsoft Dynamics and Marketo. Understand bidirectional sync and create leads with Sync Person to Microsoft.
 title: Microsoft Dynamics Sync -Lead Sync
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/BB-28aHosrt72difKAr7vgYqdI8a9ts0aOSnbWJzbw8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # [!DNL Microsoft Dynamics] Sync: Lead Sync {#microsoft-dynamics-sync-lead-sync}
 

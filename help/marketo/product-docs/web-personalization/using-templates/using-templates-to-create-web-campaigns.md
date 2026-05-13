@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2949168
-description: "Learn how to using templates to create web campaigns in Marketo Engage using using templates to create web campaigns. Use this guide to complete your next step."
+description: Learn how to using templates to create web campaigns in Marketo Engage using using templates to create web campaigns. Use this guide to complete your next step.
 title: Using Templates to Create Web Campaigns
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/t052UObfOcBxHN-HKeo1XTFUi2GLfsk1qf4KzfkpAz8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Using Templates to Create Web Campaigns {#using-templates-to-create-web-campaigns}
 

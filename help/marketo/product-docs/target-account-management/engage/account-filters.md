@@ -1,9 +1,13 @@
 ---
 unique-page-id: 11380732
-description: "Learn how to identify and engage Named Accounts and personas using account-centric filters. Use TAM filters in smart campaigns to target the right accounts."
+description: Learn how to identify and engage Named Accounts and personas using account-centric filters. Use TAM filters in smart campaigns to target the right accounts.
 title: Account Filters
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/KOr4iyPEQZ5o35-iVAPWaYIbcqipcQX-NfiuoTB8zMI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # [!UICONTROL Account Filters] {#account-filters}
 

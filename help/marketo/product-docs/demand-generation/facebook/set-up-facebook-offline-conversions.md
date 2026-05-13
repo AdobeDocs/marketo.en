@@ -1,9 +1,23 @@
 ---
 unique-page-id: 11383953
-description: "Learn how to set up Facebook offline conversions in Marketo. Send conversion data from Marketo to Facebook for ad optimization."
+description: Learn how to set up Facebook offline conversions in Marketo. Send conversion data from Marketo to Facebook for ad optimization.
 title: Set up Facebook Offline Conversions
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
+TQID: https://experienceleague.adobe.com/p5G-mS4yYAv-TvloYNSl52-IpEhQl8UuQwBN4M5KA2U
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Set up [!DNL Facebook] Offline Conversions {#set-up-facebook-offline-conversions}
 

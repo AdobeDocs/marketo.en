@@ -1,9 +1,23 @@
 ---
 unique-page-id: 4719340
-description: "Learn how to exclude specific IP addresses or IP ranges from being tracked in Web Personalization. Exclude your employees and organization from tracking and reporting in Account Settings."
+description: Learn how to exclude specific IP addresses or IP ranges from being tracked in Web Personalization. Exclude your employees and organization from tracking and reporting in Account Settings.
 title: Exclude Specific IPs from Being Tracked
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/iWnjpI93pHG0A5xXrQhz8EP7CB-4-QeNAaLh203-l5o
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Exclude Specific IPs from Being Tracked {#exclude-specific-ips-from-being-tracked}
 

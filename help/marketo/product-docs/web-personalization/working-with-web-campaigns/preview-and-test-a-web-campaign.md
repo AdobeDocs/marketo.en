@@ -1,9 +1,19 @@
 ---
 unique-page-id: 10092925
-description: "Learn how to preview and test a web campaign in Marketo Engage using preview and test a web campaign. Use this guide to complete your next step."
+description: Learn how to preview and test a web campaign in Marketo Engage using preview and test a web campaign. Use this guide to complete your next step.
 title: Preview and Test a Web Campaign
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/adIevghigq2k-DWBtDdTO0ZBl3r6ZJw5X3q43qb7ppU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Preview and Test a Web Campaign {#preview-and-test-a-web-campaign}
 

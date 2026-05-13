@@ -1,9 +1,16 @@
 ---
 unique-page-id: 8783322
-description: "Learn how to run the Validate Sync tool to verify your Microsoft Dynamics and Marketo setup. Check the seven-step checklist in Admin before making the final connection."
+description: Learn how to run the Validate Sync tool to verify your Microsoft Dynamics and Marketo setup. Check the seven-step checklist in Admin before making the final connection.
 title: Validate [!DNL Microsoft Dynamics] Sync
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/np-8Y0EGZYlWX-hKe64kP-iEDVN4tDR-gmMdX4jmBdU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # Validate [!DNL Microsoft Dynamics] Sync {#validate-microsoft-dynamics-sync}
 

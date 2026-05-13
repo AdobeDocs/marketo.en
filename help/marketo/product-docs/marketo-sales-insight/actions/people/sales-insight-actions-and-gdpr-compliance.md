@@ -1,8 +1,24 @@
 ---
-description: "Learn about Sales Insight Actions and GDPR compliance. Understand data handling and options to support privacy and consent."
+description: Learn about Sales Insight Actions and GDPR compliance. Understand data handling and options to support privacy and consent.
 title: Sales Insight Actions and GDPR Compliance
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/GXMlDdWZ3cjfdkAIXwZhz-seOWzf6FPKNHE5zN7oLdA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Sales Insight Actions and GDPR Compliance {#sales-insight-actions-and-gdpr-compliance}
 

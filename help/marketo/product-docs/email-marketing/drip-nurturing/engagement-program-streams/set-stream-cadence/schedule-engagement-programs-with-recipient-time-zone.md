@@ -1,9 +1,16 @@
 ---
 unique-page-id: 12982909
-description: "Learn how to schedule engagement program casts with recipient time zone. Set the first cast at least 25 hours ahead for global delivery."
+description: Learn how to schedule engagement program casts with recipient time zone. Set the first cast at least 25 hours ahead for global delivery.
 title: Schedule Engagement Programs with Recipient Time Zone
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
+TQID: https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Schedule Engagement Programs with Recipient Time Zone {#schedule-engagement-programs-with-recipient-time-zone}
 

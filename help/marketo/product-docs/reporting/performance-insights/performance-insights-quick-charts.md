@@ -1,9 +1,21 @@
 ---
 unique-page-id: 12980873
-description: "Learn how to create and save Quick Charts in Performance Insights for frequently used chart views. Save up to 20 custom charts with specific filters and metrics for quick access."
+description: Learn how to create and save Quick Charts in Performance Insights for frequently used chart views. Save up to 20 custom charts with specific filters and metrics for quick access.
 title: Performance Insights Quick Charts
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
+TQID: https://experienceleague.adobe.com/HexlwsIZhrhJaNKzjgWO6yZNajkM-sg2HkV7G7apyCw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!UICONTROL Performance Insights] [!UICONTROL Quick Charts] {#performance-insights-quick-charts}
 

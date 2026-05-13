@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7515107
-description: "Learn how to add a form to a guided landing page in Marketo. Insert a form element and choose your Marketo form."
+description: Learn how to add a form to a guided landing page in Marketo. Insert a form element and choose your Marketo form.
 title: Add a Form to a Guided Landing Page
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/rWlijjPdA6LW-7FBx-wSwolGY0thdJQGn6xg6mYkukk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Add a Form to a Guided Landing Page {#add-a-form-to-a-guided-landing-page}
 

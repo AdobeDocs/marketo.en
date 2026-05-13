@@ -1,9 +1,13 @@
 ---
 unique-page-id: 11384659
-description: "Learn how to delete content from the All Content page when you no longer need to track it. Remove content via Content Actions to keep your list current."
+description: Learn how to delete content from the All Content page when you no longer need to track it. Remove content via Content Actions to keep your list current.
 title: Delete Content
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
+TQID: https://experienceleague.adobe.com/sV45l1U1foBNaxzunMOoqRsyPCGXuOf29qQfR38xs5I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Delete Content {#delete-content}
 

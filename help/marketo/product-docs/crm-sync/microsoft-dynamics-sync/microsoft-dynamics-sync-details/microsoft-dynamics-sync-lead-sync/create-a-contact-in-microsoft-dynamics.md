@@ -1,9 +1,13 @@
 ---
 unique-page-id: 10095389
-description: "Learn how to create a contact in Microsoft Dynamics from Marketo. Use the Sync Person to Microsoft flow action in a trigger campaign for real-time contact creation."
+description: Learn how to create a contact in Microsoft Dynamics from Marketo. Use the Sync Person to Microsoft flow action in a trigger campaign for real-time contact creation.
 title: Create a Contact in Microsoft Dynamics
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/5q84B57P88MNhaYHluCKKCYLwOonW2xj7hAUNDOmXl8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Create a Contact in [!DNL Microsoft Dynamics] {#create-a-contact-in-microsoft-dynamics}
 

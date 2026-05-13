@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147017
-description: "Learn how to create a Salesforce task in a flow step. Create a task for the lead owner when someone enters the flow."
+description: Learn how to create a Salesforce task in a flow step. Create a task for the lead owner when someone enters the flow.
 title: Create Task
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
+TQID: https://experienceleague.adobe.com/RJ5nZrVvURtgXEWWZwL2xXzlYOhWjKGSbX-MFTWCwzg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Create Task {#create-task}
 

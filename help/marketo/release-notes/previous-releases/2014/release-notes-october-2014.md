@@ -1,9 +1,28 @@
 ---
 unique-page-id: 2953334
-description: "Release Notes -October 2014 - Marketo Docs - Product Documentation"
+description: Release Notes -October 2014 - Marketo Docs - Product Documentation
 title: Release Notes -October 2014
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
+TQID: https://experienceleague.adobe.com/7e1OQ7w7wev-4xEksrL4mxY-YLzBmwenHsdGCgsEzOA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart Lists
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Release Notes: October 2014 {#release-notes-october}
 

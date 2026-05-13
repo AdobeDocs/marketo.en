@@ -1,9 +1,13 @@
 ---
 unique-page-id: 11384438
-description: "Learn how to set up the weekly TAM Sales Report email for account teams. Choose the delivery day, sort order, and which account owners or team members receive it."
+description: Learn how to set up the weekly TAM Sales Report email for account teams. Choose the delivery day, sort order, and which account owners or team members receive it.
 title: TAM Report Setup
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/wXMjcc5C-4pYGtgqomP56DSwTgFHvDSoyjCshMWpBG4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # TAM Report Setup {#tam-report-setup}
 

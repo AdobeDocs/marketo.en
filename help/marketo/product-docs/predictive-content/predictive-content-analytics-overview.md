@@ -1,9 +1,16 @@
 ---
 unique-page-id: 12981204
-description: "Learn about Predictive Content Analytics dashboards for top views, conversion rate, trending content, and suggestions. Filter by attributes, set date ranges, and export data to refine your content strategy."
+description: Learn about Predictive Content Analytics dashboards for top views, conversion rate, trending content, and suggestions. Filter by attributes, set date ranges, and export data to refine your content strategy.
 title: Predictive Content Analytics Overview
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
+TQID: https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Predictive Content Analytics Overview {#predictive-content-analytics-overview}
 

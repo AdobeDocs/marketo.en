@@ -1,7 +1,11 @@
 ---
-description: "Learn about Dynamic Chat filters and triggers for Smart Lists. Use triggered, engaged, and goal-reached events to segment and automate in Marketo."
+description: Learn about Dynamic Chat filters and triggers for Smart Lists. Use triggered, engaged, and goal-reached events to segment and automate in Marketo.
 title: "[!DNL Dynamic Chat] Activities"
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
+TQID: https://experienceleague.adobe.com/YemfbaYyWpVKNZTszv-v2yVr5NNGKFEOe7H0lmrNG0E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # [!DNL Dynamic Chat] Activities {#dynamic-chat-activities}
 

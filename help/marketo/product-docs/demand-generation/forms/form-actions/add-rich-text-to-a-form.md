@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359618
-description: "Learn how to add rich text to a Marketo form. Insert headings, links, or instructions above or below form fields."
+description: Learn how to add rich text to a Marketo form. Insert headings, links, or instructions above or below form fields.
 title: Add Rich Text to a Form
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
+TQID: https://experienceleague.adobe.com/V-HB-9V8PbdL1xgnhdSceyT7v6DVCo0iZnFAWLRsLmQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
 ---
 # Add Rich Text to a Form {#add-rich-text-to-a-form}
 

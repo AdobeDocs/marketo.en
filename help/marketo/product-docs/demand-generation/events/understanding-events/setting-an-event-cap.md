@@ -1,10 +1,13 @@
 ---
-description: "Learn how to set an event cap in Marketo. Limit the number of registrants or attendees for your event program."
+description: Learn how to set an event cap in Marketo. Limit the number of registrants or attendees for your event program.
 title: Setting an Event Cap
 hide: true
-
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
+TQID: https://experienceleague.adobe.com/8vtaffm-YDrTB2m33b55Oqcxe02WGW5Dqu2oD7CXXYA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Setting an Event Cap {#setting-an-event-cap}
 

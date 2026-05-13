@@ -1,9 +1,19 @@
 ---
 unique-page-id: 5472672
-description: "Learn how to send an email to multiple records from Marketo Sales Insight in Salesforce. Email all contacts on an account or opportunity."
+description: Learn how to send an email to multiple records from Marketo Sales Insight in Salesforce. Email all contacts on an account or opportunity.
 title: Send an Email to Multiple Records in Marketo Sales Insight
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/1chpk5RgFTP5l4ct-lBOlrleXd6gXhguwcOU9hLE8aU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Send an Email to Multiple Records in [!DNL Marketo Sales Insight] {#send-an-email-to-multiple-records-in-marketo-sales-insight}
 

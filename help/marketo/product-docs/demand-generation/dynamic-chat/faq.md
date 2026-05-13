@@ -1,8 +1,20 @@
 ---
-description: "Get help on Dynamic Chat access, installation, data retention, and language support. Find answers to common questions about Marketo Engage Dynamic Chat."
+description: Get help on Dynamic Chat access, installation, data retention, and language support. Find answers to common questions about Marketo Engage Dynamic Chat.
 title: Dynamic Chat FAQ
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
+TQID: https://experienceleague.adobe.com/IpAD0KUETdl3o4UTUS-PBWhtCTY1N7k83qeyGkKnan8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Dynamic Chat FAQ {#dynamic-chat-faq}
 

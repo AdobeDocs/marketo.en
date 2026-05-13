@@ -1,9 +1,26 @@
 ---
 unique-page-id: 2360217
-description: "How to set first- and multi-touch attribution, lead conversion, and marketing-influenced opportunity options in Revenue Cycle Analytics."
+description: How to set first- and multi-touch attribution, lead conversion, and marketing-influenced opportunity options in Revenue Cycle Analytics.
 title: Change Attribution Settings for Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
+TQID: https://experienceleague.adobe.com/AjpEYRzLKRQQsTmYdQUvAVnlcmG-Q6nbVjaZCuQYaUc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+subfeature_v2:
+  - id: e5d29014-8a81-4c0c-845b-2adc7a5d6258
+    internal-label: Campaign Inspector
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Change Attribution Settings for Analytics {#change-attribution-settings-for-analytics}
 

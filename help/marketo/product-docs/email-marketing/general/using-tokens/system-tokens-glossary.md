@@ -1,9 +1,13 @@
 ---
 unique-page-id: 1147344
-description: "Learn about system tokens available in Marketo emails. Use the glossary to find the right token for personalization."
+description: Learn about system tokens available in Marketo emails. Use the glossary to find the right token for personalization.
 title: System Tokens Glossary
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
+TQID: https://experienceleague.adobe.com/8D-EZy-i4xmdOY27HNHs9HF2mCjofhMM4dDbfgOM7-Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # System Tokens Glossary {#system-tokens-glossary}
 

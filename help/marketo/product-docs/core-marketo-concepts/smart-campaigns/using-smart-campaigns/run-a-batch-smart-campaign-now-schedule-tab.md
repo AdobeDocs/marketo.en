@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1146933
-description: "Learn how to run a batch Smart Campaign now from the Schedule tab. Execute the campaign immediately instead of scheduling."
+description: Learn how to run a batch Smart Campaign now from the Schedule tab. Execute the campaign immediately instead of scheduling.
 title: Run a Batch Smart Campaign Now | Schedule Tab
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/d0ctWO9YrQT-qlAB6sZuD0N81Mkf4y3XHUJpk-nO5Wc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Run a Batch Smart Campaign Now | Schedule Tab {#run-a-batch-smart-campaign-now-schedule-tab}
 

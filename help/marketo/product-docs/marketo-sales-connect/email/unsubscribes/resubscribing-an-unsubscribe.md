@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14746177
-description: "Learn how to resubscribe a contact who unsubscribed in Sales Connect. Restore their ability to receive sales emails when appropriate."
+description: Learn how to resubscribe a contact who unsubscribed in Sales Connect. Restore their ability to receive sales emails when appropriate.
 title: Resubscribing an Unsubscribe
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/W215ia0s7e6sze5shnYJyExnzeezcmMRTKrXeJDcht4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Resubscribing an [!UICONTROL Unsubscribe] {#resubscribing-an-unsubscribe}
 

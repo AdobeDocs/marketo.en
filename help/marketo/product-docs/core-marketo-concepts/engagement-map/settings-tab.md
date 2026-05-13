@@ -1,7 +1,14 @@
 ---
-description: "Learn about the Settings tab for Smart Campaign qualification rules, runs, and recurrence. Set how often people run through your campaign flow."
+description: Learn about the Settings tab for Smart Campaign qualification rules, runs, and recurrence. Set how often people run through your campaign flow.
 title: Settings Tab
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
+TQID: https://experienceleague.adobe.com/Qk7st47AobYHVid3SsHeNHSRVfWKiPqm11moqgomYjk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Settings Tab {#settings-tab}
 

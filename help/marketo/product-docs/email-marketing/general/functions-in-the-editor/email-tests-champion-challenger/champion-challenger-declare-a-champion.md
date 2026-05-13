@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2359584
-description: "Learn how to declare a Champion for your email test. Choose the winning variant and send the rest of the audience the winner."
+description: Learn how to declare a Champion for your email test. Choose the winning variant and send the rest of the audience the winner.
 title: Champion/Challenger -Declare a Champion
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/P6vWv-ff-HjwO8-W5zx7uaj2S-vh1lJnEeVyVX1448Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Champion/Challenger: Declare a Champion {#champion-challenger-declare-a-champion}
 

@@ -1,9 +1,19 @@
 ---
 unique-page-id: 11380789
-description: "Learn how to build revenue-based reports using the Named Account dimension in Revenue Cycle Analytics. Measure pipeline and revenue impact from targeted accounts."
+description: Learn how to build revenue-based reports using the Named Account dimension in Revenue Cycle Analytics. Measure pipeline and revenue impact from targeted accounts.
 title: Named Account Dimension in RCA
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/CF92nqsL8XPvNNWJ3149X-AUrvIof5syxxB3HXgsk70
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Named Account Dimension in RCA {#named-account-dimension-in-rca}
 

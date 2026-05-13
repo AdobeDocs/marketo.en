@@ -1,8 +1,15 @@
 ---
-description: "Learn about transactional sales email templates and when unsubscribe links are not required. Use for one-to-one transactional messages."
+description: Learn about transactional sales email templates and when unsubscribe links are not required. Use for one-to-one transactional messages.
 title: Transactional Sales Email Templates
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
+TQID: https://experienceleague.adobe.com/jtFUKYM-28npTije11gtCPNGBdsgEcI6Qhp6lbbLWUY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Transactional Sales Email Templates {#transactional-sales-email-templates}
 

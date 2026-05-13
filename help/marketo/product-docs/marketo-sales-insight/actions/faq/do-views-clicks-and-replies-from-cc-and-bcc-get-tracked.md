@@ -1,7 +1,11 @@
 ---
-description: "Learn whether CC and BCC recipients are tracked for views, clicks, and replies. Understand tracking behavior for multiple recipients."
+description: Learn whether CC and BCC recipients are tracked for views, clicks, and replies. Understand tracking behavior for multiple recipients.
 title: Do Views, Clicks, and Replies from the Recipients Listed in the CC and BCC Section of the Email Get Tracked?
 exl-id: 9a839c61-7fcc-4a7f-a99e-ec5a4c2cc4f9
+TQID: https://experienceleague.adobe.com/6WEiHF1p3GFOXDvjro4ZZ3qsVm9LgHziWWwIauB4uwE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Do Views, Clicks, and Replies from the Recipients Listed in the CC and BCC Section of the Email Get Tracked? {#do-views-clicks-and-replies-from-cc-and-bcc-get-tracked}
 

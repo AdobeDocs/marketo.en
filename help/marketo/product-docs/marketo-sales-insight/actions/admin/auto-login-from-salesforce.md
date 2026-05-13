@@ -1,8 +1,12 @@
 ---
-description: "Learn how to enable auto-login from Salesforce so users authenticate to Sales Insight Actions automatically. Set Login Management to Salesforce Only and connect accounts."
+description: Learn how to enable auto-login from Salesforce so users authenticate to Sales Insight Actions automatically. Set Login Management to Salesforce Only and connect accounts.
 title: Auto Login from Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/q6r5vG5dwpOpfUAaJ98MGhf5PW8ppw3bYv-Yv52A5DY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Auto Login from [!DNL Salesforce] {#auto-login-from-salesforce}
 

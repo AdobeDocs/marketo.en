@@ -1,9 +1,13 @@
 ---
 unique-page-id: 557337
-description: "Learn how to create and change views for lists and Smart Lists. Customize which columns appear in the People tab."
+description: Learn how to create and change views for lists and Smart Lists. Customize which columns appear in the People tab.
 title: Create and Change Views for Lists and Smart List
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/2MeSAe-8Or9R-MpHcCuUhTVARl-xkweRcyqowWAlQEM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Create and Change Views for Lists and Smart List {#create-and-change-views-for-lists-and-smart-list}
 

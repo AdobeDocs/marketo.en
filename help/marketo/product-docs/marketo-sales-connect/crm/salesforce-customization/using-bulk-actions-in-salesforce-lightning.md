@@ -1,9 +1,13 @@
 ---
 unique-page-id: 42762825
-description: "Learn how to use bulk actions in Salesforce Lightning with Sales Connect. Push multiple leads or contacts to Sales Connect at once."
+description: Learn how to use bulk actions in Salesforce Lightning with Sales Connect. Push multiple leads or contacts to Sales Connect at once.
 title: Using Bulk Actions in Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Using Bulk Actions in [!DNL Salesforce Lightning] {#using-bulk-actions-in-salesforce-lightning}
 

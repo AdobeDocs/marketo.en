@@ -1,8 +1,12 @@
 ---
-description: "Learn about the Generative AI activity log in Dynamic Chat. View all tasks, owners, types, and edit history in one place."
+description: Learn about the Generative AI activity log in Dynamic Chat. View all tasks, owners, types, and edit history in one place.
 title: Activity Log
 feature: Dynamic Chat
 exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
+TQID: https://experienceleague.adobe.com/U37pw5bR2HNvl-ZhnvZ65dTLm3nhASdA6NP-umDFUhQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Activity Log {#activity-log}
 

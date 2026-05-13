@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359462
-description: "Learn how to approve or unapprove an email program. Complete the approval workflow so the program can be scheduled and sent."
+description: Learn how to approve or unapprove an email program. Complete the approval workflow so the program can be scheduled and sent.
 title: Approve/Unapprove an Email Program
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
+TQID: https://experienceleague.adobe.com/d1-T54d2iFO9TnLPpLifjiuFq06ib2wOw-z8NuOJnPw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Approve/Unapprove an Email Program {#approve-unapprove-an-email-program}
 

@@ -1,9 +1,23 @@
 ---
 unique-page-id: 1900560
-description: "Learn how to add a View as Web Page link to an email. Let recipients open the email in a browser with a persistent link."
+description: Learn how to add a View as Web Page link to an email. Let recipients open the email in a browser with a persistent link.
 title: Add a View as Web Page Link to an Email
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/6jbDSriI0SyR5-ymeg-vougnydh4Ygs7uoW4Q63KT0I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Add a View as Web Page Link to an Email {#add-a-view-as-web-page-link-to-an-email}
 

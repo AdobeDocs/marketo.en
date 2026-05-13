@@ -1,7 +1,32 @@
 ---
-description: "Release Notes - May 2022 - Marketo Docs - Product Documentation"
+description: Release Notes - May 2022 - Marketo Docs - Product Documentation
 title: Release Notes - May 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
+TQID: https://experienceleague.adobe.com/y7jIUHRhJ1VZocGbeI23nrI1456mTz-b2OstJbuoMGc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Release Notes: May 2022 {#release-notes-may-22}
 

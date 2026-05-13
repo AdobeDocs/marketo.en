@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2952636
-description: "Learn how to find duplicate people with custom logic. Build a Smart List to identify duplicates by your criteria."
+description: Learn how to find duplicate people with custom logic. Build a Smart List to identify duplicates by your criteria.
 title: Find Duplicate People with Custom Logic
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/-NvWt-eEzngL0QY7Kyl6lfjd75WcoQmcq3IiN7Uc6-w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Find Duplicate People with Custom Logic {#find-duplicate-people-with-custom-logic}
 

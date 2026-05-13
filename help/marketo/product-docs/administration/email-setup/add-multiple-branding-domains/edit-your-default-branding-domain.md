@@ -1,9 +1,19 @@
 ---
 unique-page-id: 11377392
-description: "Replace the generic tracking domain with your company branded domain in Admin Email (requires CNAME setup)."
+description: Replace the generic tracking domain with your company branded domain in Admin Email (requires CNAME setup).
 title: Edit Your Default Branding Domain
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
+TQID: https://experienceleague.adobe.com/rZOnzDTwai-e-1p2dRD6m5kGxonJwL7621--8-y-K54
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Edit Your Default Branding Domain {#edit-your-default-branding-domain}
 

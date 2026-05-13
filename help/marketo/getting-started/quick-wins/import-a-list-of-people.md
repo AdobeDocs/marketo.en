@@ -1,9 +1,28 @@
 ---
 unique-page-id: 2359418
-description: "Import a List of People - Marketo Docs - Product Documentation"
+description: Import a List of People - Marketo Docs - Product Documentation
 title: Import a List of People
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
+TQID: https://experienceleague.adobe.com/5iRoY4XVNB608Y3SxMYrALr4bhHGUl8zOk0gUtAdamc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+subfeature_v2:
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Import a List of People {#import-a-list-of-people}
 

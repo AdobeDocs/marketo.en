@@ -1,8 +1,15 @@
 ---
-description: "Understand email columns and page layout in the Command Center. Customize which columns appear and how email activity is displayed."
+description: Understand email columns and page layout in the Command Center. Customize which columns appear and how email activity is displayed.
 title: Email Columns and Email Page Layout
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/q4hsk3YYlVl0fYfWyO4vLW9myJdRghZFm9NR9wS4ZSw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 ---
 # Email Columns and Email Page Layout {#email-columns-and-email-page-layout}
 

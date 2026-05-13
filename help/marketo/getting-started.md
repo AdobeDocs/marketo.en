@@ -1,11 +1,15 @@
 ---
 unique-page-id: 1147226
-description: "Getting Started - Marketo Docs - Product Documentation"
+description: Getting Started - Marketo Docs - Product Documentation
 title: Getting Started
 hide: true
 hidefromtoc: yes
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
+TQID: https://experienceleague.adobe.com/ytjDUdNi2sdVbyIM-FdTYwmXztDgwJnDnX593WVpKdU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Getting Started {#getting-started}
 

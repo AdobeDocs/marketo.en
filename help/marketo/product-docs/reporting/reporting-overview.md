@@ -1,8 +1,24 @@
 ---
-description: "Learn about Marketo Engage reporting modules including basic reports, email insights, performance insights, and advanced BI analytics. Discover which reporting solution fits your needs."
+description: Learn about Marketo Engage reporting modules including basic reports, email insights, performance insights, and advanced BI analytics. Discover which reporting solution fits your needs.
 title: Reporting Overview
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
+TQID: https://experienceleague.adobe.com/rdMLMoJrjmLE7ZWtCfKs3Yc905-Swq1uaR9UOnEMdEw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Reporting Overview {#reporting-overview}
 

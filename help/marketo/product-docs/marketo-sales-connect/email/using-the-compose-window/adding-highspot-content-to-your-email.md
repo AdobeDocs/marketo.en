@@ -1,9 +1,13 @@
 ---
 unique-page-id: 37356590
-description: "Learn how to add Highspot content to your Sales Connect email. Insert trackable Highspot links and attachments in the compose window."
+description: Learn how to add Highspot content to your Sales Connect email. Insert trackable Highspot links and attachments in the compose window.
 title: Adding Highspot Content to Your Email
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/kVIAJgt6Jrv6px5XM7lIepJw4m3nxHtn76aGXbUob-0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Adding [!DNL Highspot] Content to Your Email {#adding-highspot-content-to-your-email}
 

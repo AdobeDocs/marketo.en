@@ -1,9 +1,18 @@
 ---
 unique-page-id: 2949844
-description: "Learn how to create a new event program in Marketo. Set up your program, choose a channel, and configure event settings."
+description: Learn how to create a new event program in Marketo. Set up your program, choose a channel, and configure event settings.
 title: Create a New Event Program
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
+TQID: https://experienceleague.adobe.com/IcnjJtUembK4odgMFbRHwfbkG4-TkQdqL6NJLAqDW8Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Create a New Event Program {#create-a-new-event-program}
 

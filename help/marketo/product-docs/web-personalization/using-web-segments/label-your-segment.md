@@ -1,9 +1,19 @@
 ---
 unique-page-id: 4719348
-description: "Learn how to label your segment in Marketo Engage using label your segment label-your-segment. Use this guide to complete your next step."
+description: Learn how to label your segment in Marketo Engage using label your segment label-your-segment. Use this guide to complete your next step.
 title: Label Your Segment
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/0i6IGppkmXmVDl5awDlsmqMQ2hFSU4w8ILVnIwAVr8M
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Label Your Segment {#label-your-segment}
 

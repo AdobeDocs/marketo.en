@@ -1,9 +1,16 @@
 ---
 unique-page-id: 14352457
-description: "Learn about the Sales Connect .NET add-in for Outlook. Understand the legacy add-in and how it works with Outlook desktop."
+description: Learn about the Sales Connect .NET add-in for Outlook. Understand the legacy add-in and how it works with Outlook desktop.
 title: .NET Add-in Overview
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/HpLSLHftRE-0shyxdjtZZDbDchSqu53gbIHjTihnsHc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # .NET Add-in Overview {#net-add-in-overview}
 

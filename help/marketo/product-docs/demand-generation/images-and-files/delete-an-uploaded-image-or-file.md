@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359873
-description: "Learn how to delete an uploaded image or file from Marketo. Remove assets you no longer need from the Design Studio."
+description: Learn how to delete an uploaded image or file from Marketo. Remove assets you no longer need from the Design Studio.
 title: Delete an Uploaded Image or File
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
+TQID: https://experienceleague.adobe.com/LH-Rtu2-aoZ9kn9ydFgJM-6JPzgd8OuAgc86kBUOZtc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
 ---
 # Delete an Uploaded Image or File {#delete-an-uploaded-image-or-file}
 

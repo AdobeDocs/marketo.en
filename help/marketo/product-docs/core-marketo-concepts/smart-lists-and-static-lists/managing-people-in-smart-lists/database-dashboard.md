@@ -1,9 +1,21 @@
 ---
 unique-page-id: 10097447
-description: "Learn about the Database dashboard in Marketo. View key metrics for your database and people at a glance."
+description: Learn about the Database dashboard in Marketo. View key metrics for your database and people at a glance.
 title: Database Dashboard
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/gXWqzor3o5EL0r7FVnCE6eGlFggLxEttJs9IHIfQgWg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Database Dashboard {#database-dashboard}
 

@@ -1,9 +1,19 @@
 ---
 unique-page-id: 7512979
-description: "Learn how to use the Lead Feed in the Marketo tab in Salesforce. See real-time lead activity and engagement in the feed."
+description: Learn how to use the Lead Feed in the Marketo tab in Salesforce. See real-time lead activity and engagement in the feed.
 title: Using the Lead Feed
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/J0UVkCJE1b00Z0rj5Uuh-72NcReV0voMyH7-5-T-tcI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Using the Lead Feed {#using-the-lead-feed}
 

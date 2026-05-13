@@ -1,9 +1,21 @@
 ---
 unique-page-id: 4719398
-description: "Create dialog web campaigns to personalize content in real-time with popup messages on your website. Customize dialog styles, positions, animations, and display settings to engage visitors."
+description: Create dialog web campaigns to personalize content in real-time with popup messages on your website. Customize dialog styles, positions, animations, and display settings to engage visitors.
 title: Create a New Dialog Web Campaign
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/mZDrkTIuAbmAVulUumQZpjgWSzV837oipro2vaKtGLE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Create a New Dialog Web Campaign {#create-a-new-dialog-web-campaign}
 

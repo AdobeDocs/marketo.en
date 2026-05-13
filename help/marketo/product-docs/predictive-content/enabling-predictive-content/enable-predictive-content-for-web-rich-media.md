@@ -1,9 +1,16 @@
 ---
 unique-page-id: 7514956
-description: "Learn how to enable Predictive Content for Web Rich Media templates on your site. Turn on titles individually or in bulk, then embed and customize the JavaScript per developer docs."
+description: Learn how to enable Predictive Content for Web Rich Media templates on your site. Turn on titles individually or in bulk, then embed and customize the JavaScript per developer docs.
 title: Enable Predictive Content for Web Rich Media
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
+TQID: https://experienceleague.adobe.com/wMtEDTeYvsyktbCKcgyvlt8PauPw7Z5uKdDHQkkV7jE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+    internal-label: Machine learning
 ---
 # Enable Predictive Content for Web Rich Media {#enable-predictive-content-for-web-rich-media}
 

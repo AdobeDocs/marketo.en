@@ -1,9 +1,16 @@
 ---
 unique-page-id: 11380783
-description: "Learn about the TAM main dashboard and summary of your target account efforts. Filter by account list and drill into list or named account insights."
+description: Learn about the TAM main dashboard and summary of your target account efforts. Filter by account list and drill into list or named account insights.
 title: TAM Main Dashboard
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/PZ1Pc-6nLi2gS6RzUOe3QY7EFoFLd2LoIXa9wa8OGy4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # TAM Main Dashboard {#tam-main-dashboard}
 

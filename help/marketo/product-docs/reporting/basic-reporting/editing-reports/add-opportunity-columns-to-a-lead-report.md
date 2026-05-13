@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2360018
-description: "Learn how to add opportunity columns to lead reports to view opportunity statistics and metrics. Display opportunity data including amounts, conversion rates, and sales cycle information."
+description: Learn how to add opportunity columns to lead reports to view opportunity statistics and metrics. Display opportunity data including amounts, conversion rates, and sales cycle information.
 title: Add Opportunity Columns to a Lead Report
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
+TQID: https://experienceleague.adobe.com/kmlBFnduGoU6Y17m7gRFeOxe8u8L8Zmeougjbo1Ea6Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Add Opportunity Columns to a Lead Report {#add-opportunity-columns-to-a-lead-report}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 5472404
-description: "Learn how to locate the activity log for a person. View email, web, and other activity history for a lead."
+description: Learn how to locate the activity log for a person. View email, web, and other activity history for a lead.
 title: Locate the Activity Log for a Person
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/Ymczp2DWw7WFHrr5U-fqk-zC1LWRZyq0CTfwnoX64Qk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Locate the Activity Log for a Person {#locate-the-activity-log-for-a-person}
 

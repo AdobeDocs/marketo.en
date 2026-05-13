@@ -1,8 +1,21 @@
 ---
-description: "Learn how to export all roles and their permissions."
+description: Learn how to export all roles and their permissions.
 title: Export Roles and Permissions
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 feature: Users and Roles
+TQID: https://experienceleague.adobe.com/GtytDz3lKSClo6OEv589aqRbQUum6bUhqCAted-LX4E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Export Roles and Permissions {#export-roles-and-permissions}
 

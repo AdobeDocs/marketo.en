@@ -1,9 +1,13 @@
 ---
 unique-page-id: 11384653
-description: "Learn how to edit All Content listings for title, URL, categories, and predictive approval."
+description: Learn how to edit All Content listings for title, URL, categories, and predictive approval.
 title: Edit Content
 exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
 feature: Predictive Content
+TQID: https://experienceleague.adobe.com/oD18RRwL0cNaf-2SfsnlYD7DoxtjG9R5bzfS2JUpjh0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Edit Content {#edit-content}
 

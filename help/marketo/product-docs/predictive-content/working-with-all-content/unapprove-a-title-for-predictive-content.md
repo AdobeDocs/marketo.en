@@ -1,9 +1,13 @@
 ---
 unique-page-id: 11384663
-description: "Learn how to unapprove a title for Predictive Content from the All Content page or Edit Content pop-up. Remove the title from the Predictive Content page when needed."
+description: Learn how to unapprove a title for Predictive Content from the All Content page or Edit Content pop-up. Remove the title from the Predictive Content page when needed.
 title: Unapprove a Title for Predictive Content
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
+TQID: https://experienceleague.adobe.com/qYunPafNSSAeWKtT5CTFKbJIkv7I6CIgCsFqhCf5Ikw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Unapprove a Title for [!UICONTROL Predictive Content] {#unapprove-a-title-for-predictive-content}
 

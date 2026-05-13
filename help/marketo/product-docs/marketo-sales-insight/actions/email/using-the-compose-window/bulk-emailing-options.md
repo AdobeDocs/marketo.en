@@ -1,8 +1,12 @@
 ---
-description: "Learn about bulk emailing options in Sales Insight Actions. Send to multiple recipients using group email, select and send, or campaigns."
+description: Learn about bulk emailing options in Sales Insight Actions. Send to multiple recipients using group email, select and send, or campaigns.
 title: Bulk Emailing Options
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/o4PzEJ3Rh1p-8ixAC5fOg3XzUg4GM6tBjBnt6F7QEm4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Bulk Emailing Options {#bulk-emailing-options}
 

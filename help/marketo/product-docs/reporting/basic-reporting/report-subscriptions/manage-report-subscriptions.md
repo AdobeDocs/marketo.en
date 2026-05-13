@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2359991
-description: "Learn how to manage all report subscriptions in one place from the Analytics Subscriptions tab. Edit frequency, recipients, and settings or delete subscriptions as needed."
+description: Learn how to manage all report subscriptions in one place from the Analytics Subscriptions tab. Edit frequency, recipients, and settings or delete subscriptions as needed.
 title: Manage Report Subscriptions
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
+TQID: https://experienceleague.adobe.com/PChZcOt9WAOeYcjzhKiBa0QDy2BM-S9UB6n3NuaO7uM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Manage Report Subscriptions {#manage-report-subscriptions}
 

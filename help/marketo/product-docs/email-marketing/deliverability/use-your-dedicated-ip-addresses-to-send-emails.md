@@ -1,9 +1,19 @@
 ---
 unique-page-id: 1900587
-description: "Learn how to use dedicated IP addresses for email sending in Marketo. Get coaching on IP warm-up and DNS setup from deliverability consultants."
+description: Learn how to use dedicated IP addresses for email sending in Marketo. Get coaching on IP warm-up and DNS setup from deliverability consultants.
 title: Use Your Dedicated IP Addresses to Send Emails
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
+TQID: https://experienceleague.adobe.com/eZdDKPbVZJ5CCk9J73Wn934Bachb-y-rzyKBCznhlPw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Use Your Dedicated IP Addresses to Send Emails {#use-your-dedicated-ip-addresses-to-send-emails}
 

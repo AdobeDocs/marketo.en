@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14746188
-description: "Learn how to sync Sales Connect unsubscribes with Salesforce. Keep opt-out status in sync so you do not email unsubscribed contacts."
+description: Learn how to sync Sales Connect unsubscribes with Salesforce. Keep opt-out status in sync so you do not email unsubscribed contacts.
 title: Syncing Unsubscribes with Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Syncing Unsubscribes with [!DNL Salesforce] {#syncing-unsubscribes-with-salesforce}
 

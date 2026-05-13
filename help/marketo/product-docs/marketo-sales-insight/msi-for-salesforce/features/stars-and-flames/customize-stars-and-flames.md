@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2360303
-description: "Learn how to customize stars and flames in Marketo Sales Insight. Configure how lead score and urgency appear in Salesforce."
+description: Learn how to customize stars and flames in Marketo Sales Insight. Configure how lead score and urgency appear in Salesforce.
 title: Customize Stars and Flames
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/UioVGSyJiAODYHHjcIpqJqZkO-psgtxKHyeIr-6-Sy4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Customize Stars and Flames {#customize-stars-and-flames}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 8783906
-description: "Learn about the Template 4C guided landing page template. Download and use it for your Marketo landing pages."
+description: Learn about the Template 4C guided landing page template. Download and use it for your Marketo landing pages.
 title: Template 4C
 exl-id: 95e8b4db-6bd8-4937-bf1b-3e680969aab4
 feature: Landing Pages, Guided Landing Page Templates
+TQID: https://experienceleague.adobe.com/oOxW9K4dhSXMMa8axVEMjSAbwOI-O9DD3WlOMrpfqFI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Template 4C {#template-4c}
 

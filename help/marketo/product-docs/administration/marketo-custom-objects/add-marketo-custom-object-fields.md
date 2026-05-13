@@ -1,9 +1,19 @@
 ---
 unique-page-id: 10093688
-description: "Steps to add fields to a custom object, including display name, description, and data type."
+description: Steps to add fields to a custom object, including display name, description, and data type.
 title: Add Marketo Custom Object Fields
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
+TQID: https://experienceleague.adobe.com/fk5uHrQlGcchB6xctECVscTJ8Dre--0-F3bIVjOEKIo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Add Marketo Custom Object Fields {#add-marketo-custom-object-fields}
 

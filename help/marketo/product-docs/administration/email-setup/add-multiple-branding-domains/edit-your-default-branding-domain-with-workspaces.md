@@ -1,9 +1,19 @@
 ---
 unique-page-id: 11377406
-description: "Change the generic branding domain to your company domain when using workspaces in Marketo."
+description: Change the generic branding domain to your company domain when using workspaces in Marketo.
 title: Edit Your Default Branding Domain with Workspaces
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
+TQID: https://experienceleague.adobe.com/qp5T6tEkxvsIfdrZaPkpWJHmqfxfZFKbbcKORa8psDU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Edit Your Default Branding Domain with Workspaces {#edit-your-default-branding-domain-with-workspaces}
 

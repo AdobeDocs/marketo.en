@@ -1,9 +1,16 @@
 ---
 unique-page-id: 37356593
-description: "Learn how to use a template in the Sales Connect compose window. Insert a template and personalize before sending tracked emails."
+description: Learn how to use a template in the Sales Connect compose window. Insert a template and personalize before sending tracked emails.
 title: Using a Template in the Compose Window
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/CD5ZdQWvHyM8-FbEHKKk4pI4d0sqEWovHWBzZxXR-ao
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Using a Template in the Compose Window {#using-a-template-in-the-compose-window}
 

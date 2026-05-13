@@ -1,9 +1,13 @@
 ---
 unique-page-id: 12980105
-description: "Learn how to invite users to access Account Insight. Invite by CRM or email and grant Account Insight access from the Sales Users tab."
+description: Learn how to invite users to access Account Insight. Invite by CRM or email and grant Account Insight access from the Sales Users tab.
 title: Invite Users to Access [!UICONTROL Account Insight]
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/IkOn7CCygkDq908YC0bBToLB4sWt84xYq-wrxjKqvss
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Invite Users to Access [!UICONTROL Account Insight] {#invite-users-to-access-account-insight}
 

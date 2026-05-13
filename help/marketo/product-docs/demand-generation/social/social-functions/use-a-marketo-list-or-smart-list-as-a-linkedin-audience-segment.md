@@ -1,9 +1,20 @@
 ---
 unique-page-id: 7504180
-description: "Learn how to use a Marketo list or smart list as a LinkedIn audience segment. Send lists to LinkedIn for ad targeting via Ad Bridge."
+description: Learn how to use a Marketo list or smart list as a LinkedIn audience segment. Send lists to LinkedIn for ad targeting via Ad Bridge.
 title: Use a Marketo List or Smart List as a LinkedIn Audience Segment
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
+TQID: https://experienceleague.adobe.com/n7Z4AKx6Hiu6f9cxXPpfSTJJdOLakTwy7ejQ-6LK4Bo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Use a Marketo List or Smart List as a LinkedIn Audience Segment {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 

@@ -1,8 +1,17 @@
 ---
-description: "Learn how to create a Veeva CRM user for Marketo Engage sync. Set page layouts, create the sync user, and assign permissions for field updates."
-title: "Step 2 of 3 - Create a Veeva CRM User for Marketo Engage"
+description: Learn how to create a Veeva CRM user for Marketo Engage sync. Set page layouts, create the sync user, and assign permissions for field updates.
+title: Step 2 of 3 - Create a Veeva CRM User for Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
+TQID: https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Step 2 of 3: Create a [!DNL Veeva] CRM User for Marketo Engage {#step-2-of-3-create-a-veeva-crm-user-for-marketo-engage}
 

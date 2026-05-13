@@ -1,9 +1,18 @@
 ---
 unique-page-id: 2359823
-description: "Learn how to publish Marketo landing pages to Facebook. Share landing page content as Facebook posts for your audience."
+description: Learn how to publish Marketo landing pages to Facebook. Share landing page content as Facebook posts for your audience.
 title: Publish Landing Pages to Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
+TQID: https://experienceleague.adobe.com/i14pb1vrSXdv3WyVuRO7WEFReNCshLBT1D0rHNufy5g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Publish Landing Pages to [!DNL Facebook] {#publish-landing-pages-to-facebook}
 

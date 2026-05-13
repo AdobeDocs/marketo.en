@@ -1,8 +1,12 @@
 ---
-description: "Learn about email tracking for sales emails. Understand how views, clicks, and replies are tracked and logged."
+description: Learn about email tracking for sales emails. Understand how views, clicks, and replies are tracked and logged.
 title: Email Tracking Overview
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/y1dxCUs89NkZe9B7UHrWUUchy8BXlCtvg6OxRmqaKD8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Email Tracking Overview {#email-tracking-overview}
 

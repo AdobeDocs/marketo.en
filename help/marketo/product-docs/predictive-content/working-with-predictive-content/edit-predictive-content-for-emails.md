@@ -1,9 +1,16 @@
 ---
 unique-page-id: 11385938
-description: "Learn how to set up predictive content for emails with image, button label, and categories. Enable approved content for email in the Predictive Content editor."
+description: Learn how to set up predictive content for emails with image, button label, and categories. Enable approved content for email in the Predictive Content editor.
 title: Edit Predictive Content for Emails
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
+TQID: https://experienceleague.adobe.com/e2NGmNJB2E1M1cUZy8bcLA5lLb-9a-j55LWYyfpow-o
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Edit Predictive Content for Emails {#edit-predictive-content-for-emails}
 

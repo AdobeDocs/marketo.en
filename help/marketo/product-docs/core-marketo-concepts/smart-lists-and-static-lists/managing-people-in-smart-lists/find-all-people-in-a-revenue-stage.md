@@ -1,9 +1,13 @@
 ---
 unique-page-id: 557331
-description: "Learn how to find all people in a revenue stage. Use the revenue stage filter to build a list or segment."
+description: Learn how to find all people in a revenue stage. Use the revenue stage filter to build a list or segment.
 title: Find All People in a Revenue Stage
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/-cODXA865GaIRdn34vnODbn7HCmp7Tf8J9OOOOOaswQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Find All People in a Revenue Stage {#find-all-people-in-a-revenue-stage}
 

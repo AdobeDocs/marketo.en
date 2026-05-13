@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2360327
-description: "How to set up assignment rules to route people from your CRM into the correct person partitions."
+description: How to set up assignment rules to route people from your CRM into the correct person partitions.
 title: Assigning Person Partitions with Assignment Rules
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
+TQID: https://experienceleague.adobe.com/7e7A0wXFiKVttSm7BXEJYtVBnSW6qAah1ygNqO4qdr0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Assigning Person Partitions with Assignment Rules {#assigning-person-partitions-with-assignment-rules}
 

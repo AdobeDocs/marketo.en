@@ -1,9 +1,19 @@
 ---
 unique-page-id: 4719300
-description: "Learn how to add or remove Salesforce custom object fields as Smart List filters and trigger constraints. Use Admin and Salesforce Objects Sync to edit visible fields."
+description: Learn how to add or remove Salesforce custom object fields as Smart List filters and trigger constraints. Use Admin and Salesforce Objects Sync to edit visible fields.
 title: Add/Remove Custom Object Field as Smart List/Trigger Constraints
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/wO-RIcRyhdn0Jp6FugNHCFAmebCijRvWb4mVGorppyk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart Lists
 ---
 # Add/Remove Custom Object Field as Smart List/Trigger Constraints {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 

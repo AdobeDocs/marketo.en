@@ -1,8 +1,15 @@
 ---
-description: "Learn how to add or remove Dynamic Chat users in the Adobe Admin Console. Assign product profiles and manage access for your team."
+description: Learn how to add or remove Dynamic Chat users in the Adobe Admin Console. Assign product profiles and manage access for your team.
 title: Add or Remove Chat Users
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
+TQID: https://experienceleague.adobe.com/A-Avre-BoRF0UaSDGjqJtBOBTSCLS-JG0idp9LCAh2w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 ---
 # Add or Remove Chat Users {#add-or-remove-chat-users}
 

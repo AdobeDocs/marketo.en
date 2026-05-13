@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147352
-description: "Learn how to send a sample email to test content before launch. Use the email editor to send yourself or others a test copy."
+description: Learn how to send a sample email to test content before launch. Use the email editor to send yourself or others a test copy.
 title: Send a Sample Email
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/Yvr5y1FFXhWZuE01GsIl0Jcnjhk5SffV2yo2hD156kA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Send a Sample Email {#send-a-sample-email}
 

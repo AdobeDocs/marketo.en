@@ -1,9 +1,16 @@
 ---
 unique-page-id: 9437810
-description: "Learn about the Template 14D guided landing page template. Download and use it for your Marketo landing pages."
+description: Learn about the Template 14D guided landing page template. Download and use it for your Marketo landing pages.
 title: Template 14D
 exl-id: e8ef7eb9-c3a5-4c19-9022-d93bb4d07e89
 feature: Landing Pages, Guided Landing Page Templates
+TQID: https://experienceleague.adobe.com/myhtj97Y5SE4cLZclQ0AmzU9fXfNYfqhscHefxFg0ZY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Template 14D {#template-14d}
 

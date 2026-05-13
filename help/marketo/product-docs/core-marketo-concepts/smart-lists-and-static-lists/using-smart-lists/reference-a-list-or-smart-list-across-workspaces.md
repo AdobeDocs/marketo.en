@@ -1,9 +1,16 @@
 ---
 unique-page-id: 4720377
-description: "Learn how to reference a list or Smart List across workspaces. Use a list from one workspace in another with reference."
+description: Learn how to reference a list or Smart List across workspaces. Use a list from one workspace in another with reference.
 title: Reference a List or Smart List Across Workspaces
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/NAWn0sS-DldDqgQcLAnrOlaWQXdYBAR9nCrU0j4HlZY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Reference a List or Smart List Across Workspaces {#reference-a-list-or-smart-list-across-workspaces}
 

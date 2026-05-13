@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2360496
-description: "Learn how to add multiple values to a Smart List filter. Match any of several values in one filter for flexibility."
+description: Learn how to add multiple values to a Smart List filter. Match any of several values in one filter for flexibility.
 title: Add Multiple Values to a Smart List Filter
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/9ii5uHvp4-GohckLzUzPkplfURNIvjF--9hRN-rhi7w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Add Multiple Values to a Smart List Filter {#add-multiple-values-to-a-smart-list-filter}
 

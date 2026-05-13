@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359915
-description: "Learn how to remove stream content when you do not need to preserve history."
+description: Learn how to remove stream content when you do not need to preserve history.
 title: Remove Stream Content
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
+TQID: https://experienceleague.adobe.com/RUEpcbz2EecspF524umRFK7uCfXE-YCAZFxok7teXog
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Remove Stream Content {#remove-stream-content}
 

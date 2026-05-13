@@ -1,7 +1,11 @@
 ---
-description: "Understand why your sales campaign ended. Learn about manual end, reply settings, bounce removal, and auto-end conditions."
+description: Understand why your sales campaign ended. Learn about manual end, reply settings, bounce removal, and auto-end conditions.
 title: Why Has My Campaign Ended?
 exl-id: db53f9ea-9ee2-40c2-a0c5-67b0e916a36d
+TQID: https://experienceleague.adobe.com/jlwVQCOdIRz0kG4wW8QwhnKhSC8dQ2koR-E8Szrt8mI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Why Has My Campaign Ended? {#why-has-my-campaign-ended}
 

@@ -1,8 +1,15 @@
 ---
-description: "Learn how the Veeva CRM sync works between Marketo Engage and Veeva. Run a sync and see what gets synced, including person accounts and custom objects."
-title: "Understanding the [!DNL Veeva] CRM Sync"
+description: Learn how the Veeva CRM sync works between Marketo Engage and Veeva. Run a sync and see what gets synced, including person accounts and custom objects.
+title: Understanding the [!DNL Veeva] CRM Sync
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
 feature: Veeva CRM
+TQID: https://experienceleague.adobe.com/zgS75Y696DouBdRH4S7sguvmQEzObc5WEdooJXfSh1w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Understanding the [!DNL Veeva] CRM Sync {#understanding-the-veeva-crm-sync}
 

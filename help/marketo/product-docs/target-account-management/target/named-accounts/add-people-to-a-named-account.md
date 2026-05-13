@@ -1,9 +1,16 @@
 ---
 unique-page-id: 11378816
-description: "Learn how to add people to a named account using flow actions, smart campaign flow steps, or list import."
+description: Learn how to add people to a named account using flow actions, smart campaign flow steps, or list import.
 title: Add People to a Named Account
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/ULcIzU4HwBSuZaPemgtYhWZTjv5tzMqmKtzcY70qx74
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Add People to a [!UICONTROL Named Account] {#add-people-to-a-named-account}
 

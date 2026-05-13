@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7512434
-description: "Learn how to configure iOS push access for your mobile app. Add certificate and password from your developer in Admin."
+description: Learn how to configure iOS push access for your mobile app. Add certificate and password from your developer in Admin.
 title: Configure Mobile App iOS Push Access
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/XbOc8sgi0wseVh3u5HecT555AZOj1e7PLHvJ4C7-fD0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Configure Mobile App iOS Push Access {#configure-mobile-app-ios-push-access}
 

@@ -1,9 +1,23 @@
 ---
 unique-page-id: 4719336
-description: "Learn how to configure User Settings including time zone, email reports, password, mobile notifications, and personal region settings. Customize your Web Personalization experience and export preferences."
+description: Learn how to configure User Settings including time zone, email reports, password, mobile notifications, and personal region settings. Customize your Web Personalization experience and export preferences.
 title: User Settings
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/AecZiTRBR06f6-aRZR5-LbFIZCy0-WSHVKREbNJo9mE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # [!UICONTROL User Settings] {#user-settings}
 

@@ -1,8 +1,23 @@
 ---
-description: "Understand SMS triggers, filters, and flow steps in Smart Campaigns. Target and trigger campaigns using Vibes SMS activity and lists."
+description: Understand SMS triggers, filters, and flow steps in Smart Campaigns. Target and trigger campaigns using Vibes SMS activity and lists.
 title: Using SMS Options in a Smart Campaign
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
+TQID: https://experienceleague.adobe.com/wpXQpXx-Og5t9TJtlZnuXS2sgGkdDPYv7n5ehPSPHC4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Using SMS Options in a Smart Campaign {#using-sms-options-in-a-smart-campaign}
 

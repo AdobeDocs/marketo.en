@@ -1,9 +1,21 @@
 ---
 unique-page-id: 10093157
-description: "Learn how to clone a web campaign in Marketo Engage using clone a web campaign clone-a-web-campaign. Use this guide to complete your next step."
+description: Learn how to clone a web campaign in Marketo Engage using clone a web campaign clone-a-web-campaign. Use this guide to complete your next step.
 title: Clone a Web Campaign
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/9wIc75Vpzg3vQcQhssfBeee-VdOeVub3lK5o-LMKLB0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Clone a Web Campaign {#clone-a-web-campaign}
 

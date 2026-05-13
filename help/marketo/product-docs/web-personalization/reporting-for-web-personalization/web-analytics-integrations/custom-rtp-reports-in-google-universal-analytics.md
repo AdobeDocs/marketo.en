@@ -1,9 +1,25 @@
 ---
 unique-page-id: 7504218
-description: "Learn about custom rtp reports in google universal analytics in Marketo Engage, including custom rtp reports in. Use this guide to complete your next step."
+description: Learn about custom rtp reports in google universal analytics in Marketo Engage, including custom rtp reports in. Use this guide to complete your next step.
 title: Custom RTP Reports in Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/U9cVw13-FV-0UmUDm6uSUdbvobSwLdqsklql5TaE28M
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Custom RTP Reports in Google Universal Analytics {#custom-rtp-reports-in-google-universal-analytics}
 

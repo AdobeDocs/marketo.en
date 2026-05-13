@@ -1,9 +1,13 @@
 ---
 unique-page-id: 30081250
-description: "Learn how to manage groups in Sales Connect. Create, edit, share, and organize contact groups for campaigns and outreach."
+description: Learn how to manage groups in Sales Connect. Create, edit, share, and organize contact groups for campaigns and outreach.
 title: Manage Groups
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/yVSaQgo3OykzO8QH-oZwWr--zewybJgT1CVcWzQqxs0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Manage Groups {#manage-groups}
 

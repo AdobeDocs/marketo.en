@@ -1,8 +1,17 @@
 ---
-description: "Learn about Conversational Flows and how they differ from Dialogues. Design flows triggered by visitor actions and use them in forms or pop-ups."
+description: Learn about Conversational Flows and how they differ from Dialogues. Design flows triggered by visitor actions and use them in forms or pop-ups.
 title: Conversational Flow Overview
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
+TQID: https://experienceleague.adobe.com/9y7MvnN91I03IMieLIKv1QhjKdr2uPFOnby-DbpR-cE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 ---
 # Conversational Flow Overview {#conversational-flow-overview}
 

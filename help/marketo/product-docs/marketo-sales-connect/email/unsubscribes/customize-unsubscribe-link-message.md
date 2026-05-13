@@ -1,9 +1,16 @@
 ---
 unique-page-id: 14746186
-description: "Learn how to customize the unsubscribe link message in Sales Connect. Change the text recipients see for the unsubscribe link."
+description: Learn how to customize the unsubscribe link message in Sales Connect. Change the text recipients see for the unsubscribe link.
 title: Customize Unsubscribe Link Message
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/kv6F3guF1MHkS25cr-yr3QF-DtAsoRqNaCVrCUpMiEY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Customize Unsubscribe Link Message {#customize-unsubscribe-link-message}
 

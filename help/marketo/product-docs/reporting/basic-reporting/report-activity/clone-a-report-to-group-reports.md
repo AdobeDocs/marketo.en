@@ -1,9 +1,19 @@
 ---
 unique-page-id: 7512105
-description: "Learn how to clone reports from My Reports to Group Reports to make them visible to all workspace users. Share reports with your team using the Clone To option."
+description: Learn how to clone reports from My Reports to Group Reports to make them visible to all workspace users. Share reports with your team using the Clone To option.
 title: Clone a Report to Group Reports
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
+TQID: https://experienceleague.adobe.com/4PmhVYpR4aFrgi21CQfaEQ7oOgB2pcW-DbTH9nxssCI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Clone a Report to Group Reports {#clone-a-report-to-group-reports}
 

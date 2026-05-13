@@ -1,7 +1,14 @@
 ---
-description: "Learn about syncing Sales Insight Actions data with Marketo Engage and Salesforce."
+description: Learn about syncing Sales Insight Actions data with Marketo Engage and Salesforce.
 title: Sync Sales Action Data with Marketo and Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
+TQID: https://experienceleague.adobe.com/SEElhIJ05KyqQUi5rLjSZjwFMdHDDO5is9Hqk7JxeIE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Sync Sales Action Data with Marketo and Salesforce {#sync-sales-action-data-with-marketo-and-salesforce}
 

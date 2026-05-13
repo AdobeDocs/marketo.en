@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2359562
-description: "Learn how to define Champion criteria for email tests. Set the rules that determine which variant wins the Champion/Challenger test."
+description: Learn how to define Champion criteria for email tests. Set the rules that determine which variant wins the Champion/Challenger test.
 title: Champion/Challenger -Define Champion Criteria
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/uCGJ3Nj-5vpy1tGytN5YXEDqB3DQKNk8FlxkVbMoei8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Champion/Challenger: Define Champion Criteria {#champion-challenger-define-champion-criteria}
 

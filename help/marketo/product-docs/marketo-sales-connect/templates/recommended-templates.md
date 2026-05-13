@@ -1,9 +1,16 @@
 ---
 unique-page-id: 14352510
-description: "Learn about recommended templates in Sales Connect. See which templates get the best engagement and use them for outreach."
+description: Learn about recommended templates in Sales Connect. See which templates get the best engagement and use them for outreach.
 title: Recommended Templates
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/TxLC97egMJj4jLyy-mnucWb2kV3vDbq0zqVK37jN3tM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Recommended Templates {#recommended-templates}
 

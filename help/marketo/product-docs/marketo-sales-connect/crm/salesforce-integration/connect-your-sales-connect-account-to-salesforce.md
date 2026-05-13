@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352423
-description: "Learn how to connect your Sales Connect account to Salesforce. Enable logging of emails, calls, and tasks to Salesforce."
+description: Learn how to connect your Sales Connect account to Salesforce. Enable logging of emails, calls, and tasks to Salesforce.
 title: Connect Your Sales Connect Account to Salesforce
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/6xFDgorkB9v29Onhd4AiXA-XFKoKRV0Tk-3hGGrIu38
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Connect Your Sales Connect Account to Salesforce {#connect-your-sales-connect-account-to-salesforce}
 

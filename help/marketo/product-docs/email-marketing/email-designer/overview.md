@@ -1,10 +1,35 @@
 ---
 solution: Marketo Engage
 product: marketo
-description: "Learn about the Email Designer and its drag-and-drop editor. Create and customize email templates in Marketo Engage for better productivity."
+description: Learn about the Email Designer and its drag-and-drop editor. Create and customize email templates in Marketo Engage for better productivity.
 title: Overview
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
+TQID: https://experienceleague.adobe.com/cw1syg5OvYwuB1v-MnQEmW7NB5-A5TnkBn-bnxEzFgw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+subfeature_v2:
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Email Designer Overview {#overview}
 

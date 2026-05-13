@@ -1,9 +1,16 @@
 ---
 unique-page-id: 7511877
-description: "Learn about interesting moments in Salesforce Mobile (Salesforce1). View key lead activities in the MSI panel on mobile."
+description: Learn about interesting moments in Salesforce Mobile (Salesforce1). View key lead activities in the MSI panel on mobile.
 title: Interesting Moments in Salesforce1
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/3J4bWPzp-o4f-N-Lo9ip3xcstSl3SQ7GTPsDWT6q3po
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Interesting Moments in [!DNL Salesforce1] {#interesting-moments-in-salesforce}
 

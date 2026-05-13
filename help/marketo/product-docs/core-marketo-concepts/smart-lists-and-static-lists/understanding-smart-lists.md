@@ -1,9 +1,23 @@
 ---
 unique-page-id: 557130
-description: "Learn about Smart Lists for finding groups of people with filters in Marketo. Create and use Smart Lists in campaigns, programs, and reports."
+description: Learn about Smart Lists for finding groups of people with filters in Marketo. Create and use Smart Lists in campaigns, programs, and reports.
 title: Understanding Smart Lists
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/wXznZtdBlYA4Ma2PLQRXHdvfBuDIwUpUtH8p-IJnpZA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart Lists
 ---
 # Understanding Smart Lists {#understanding-smart-lists}
 

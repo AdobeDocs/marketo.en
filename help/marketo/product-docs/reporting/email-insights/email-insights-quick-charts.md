@@ -1,9 +1,21 @@
 ---
 unique-page-id: 10099415
-description: "Learn how to create and save Quick Charts as thumbnails for frequently used chart views in Email Insights. Save up to 20 custom charts and access them quickly from the Quick Charts icon."
+description: Learn how to create and save Quick Charts as thumbnails for frequently used chart views in Email Insights. Save up to 20 custom charts and access them quickly from the Quick Charts icon.
 title: Email Insights Quick Charts
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
+TQID: https://experienceleague.adobe.com/812Eri1GLJJsrhYY9wj0SYYTdltlS4eDk38QBh2MUFg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Email Insights Quick Charts {#email-insights-quick-charts}
 

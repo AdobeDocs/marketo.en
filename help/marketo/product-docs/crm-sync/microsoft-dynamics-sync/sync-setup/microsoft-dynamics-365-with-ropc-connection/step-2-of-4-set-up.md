@@ -1,8 +1,15 @@
 ---
-description: "Learn how to set up the Marketo solution with ROPC connection. Create the sync user in Dynamics and assign the Marketo Sync User role for authentication."
+description: Learn how to set up the Marketo solution with ROPC connection. Create the sync user in Dynamics and assign the Marketo Sync User role for authentication.
 title: Step 2 of 4 - Set up the Marketo Solution with Resource Owner Password Control Connection
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/-pefk892NFYV87CCTDrt28Yz-GUS66YZY74Q3-8z4YI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Step 2 of 4: Set up the Marketo Solution with Resource Owner Password Control Connection {#step-2-of-4-set-up-the-marketo-solution-ropc}
 

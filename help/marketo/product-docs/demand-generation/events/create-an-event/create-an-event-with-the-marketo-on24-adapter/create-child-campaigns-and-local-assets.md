@@ -1,9 +1,16 @@
 ---
 unique-page-id: 10096675
-description: "Learn how to create child campaigns and local assets for ON24 events in Marketo. Organize programs for different regions or languages."
+description: Learn how to create child campaigns and local assets for ON24 events in Marketo. Organize programs for different regions or languages.
 title: Create Child Campaigns and Local Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
+TQID: https://experienceleague.adobe.com/A4HlSGhMyiSBCbwSKrSoHgGmL6WZDU6Ev1NtyK8N5mA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
 ---
 # Create Child Campaigns and Local Assets {#create-child-campaigns-and-local-assets}
 

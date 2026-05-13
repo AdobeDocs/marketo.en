@@ -1,8 +1,18 @@
 ---
-description: "Learn how to set up your new Sales Connect instance. Follow steps to access the account, invite users, connect Salesforce and Marketo."
+description: Learn how to set up your new Sales Connect instance. Follow steps to access the account, invite users, connect Salesforce and Marketo.
 title: Getting Started Guide for [!DNL Sales Connect] Admins
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/5eAJUQpNX6UyZi-v3ADaHWbuECW7Q0yyVruqMS6upMY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Getting Started Guide for [!DNL Sales Connect] Admins {#getting-started-guide-for-sales-connect-admins}
 

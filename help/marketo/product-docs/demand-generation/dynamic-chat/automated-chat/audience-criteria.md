@@ -1,8 +1,25 @@
 ---
-description: "Learn about Audience Criteria for targeting who sees your Dynamic Chat Dialogues. Define audiences using events, person and company attributes, and priority."
+description: Learn about Audience Criteria for targeting who sees your Dynamic Chat Dialogues. Define audiences using events, person and company attributes, and priority.
 title: Audience Criteria
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
+TQID: https://experienceleague.adobe.com/1h0-iXYpK53V4jUIZVM-T3TJkxhbaWvmZrb4er1vW18
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Audience Criteria {#audience-criteria}
 

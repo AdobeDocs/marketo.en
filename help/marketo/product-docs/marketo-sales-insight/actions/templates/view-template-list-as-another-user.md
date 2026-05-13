@@ -1,10 +1,16 @@
 ---
-description: "Learn how to view the template list as another user when you are an admin. Use View As to see another user's templates."
+description: Learn how to view the template list as another user when you are an admin. Use View As to see another user's templates.
 title: View Template List as Another User
 hide: true
-
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/PDzUjbvrcCC-xh8aFl2DQYEmBe7DMIKRvKdsKIFylhI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # View Template List as Another User {#view-template-list-as-another-user}
 

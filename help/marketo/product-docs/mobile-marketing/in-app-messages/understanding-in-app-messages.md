@@ -1,9 +1,16 @@
 ---
 unique-page-id: 10100397
-description: "Learn about in-app messages for engaging app users with offers and reminders. Create and send messages that deep link or dismiss with one tap."
+description: Learn about in-app messages for engaging app users with offers and reminders. Create and send messages that deep link or dismiss with one tap.
 title: Understanding In-App Messages
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/xqxcKfFabctxnIal-LLS4U9hPzOJT0j5LO-t-nLQWys
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 ---
 # Understanding In-App Messages {#understanding-in-app-messages}
 

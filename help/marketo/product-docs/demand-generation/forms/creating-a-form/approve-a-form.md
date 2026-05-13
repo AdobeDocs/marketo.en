@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359578
-description: "Learn how to approve a form in Marketo. Approve your form so it can be used on landing pages and start capturing leads."
+description: Learn how to approve a form in Marketo. Approve your form so it can be used on landing pages and start capturing leads.
 title: Approve a Form
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
+TQID: https://experienceleague.adobe.com/ZUszZqF2yJwY76ePBZN3JordJhCUXX8VKD1-ntdoQBg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
 ---
 # Approve a Form {#approve-a-form}
 

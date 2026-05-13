@@ -1,8 +1,12 @@
 ---
-description: "Learn how to allowlist Sales Insight Actions on your server or firewall. Get IPs and domains to allow for tracking and delivery."
+description: Learn how to allowlist Sales Insight Actions on your server or firewall. Get IPs and domains to allow for tracking and delivery.
 title: How Can I Allowlist Sales Insight Actions on My Server?
 exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/9iY4BRyowe9c-BPQOVMIMDEGkLIp-FV3h-kyvVtRmi4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # How Can I Allowlist [!DNL Sales Insight Actions] on My Server? {#how-can-i-allowlist-sales-insight-actions-on-my-server}
 

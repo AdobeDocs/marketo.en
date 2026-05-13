@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147144
-description: "Learn how to create a new email program from the Program Schedule View. Add an email program entry and configure it."
+description: Learn how to create a new email program from the Program Schedule View. Add an email program entry and configure it.
 title: Creating a New Email Program in the Schedule View
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
+TQID: https://experienceleague.adobe.com/YOcP85xZ-fSMEEZMCTnjyamN0gH1VfFMW9KMr7uO0Cg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Creating a New Email Program in the Schedule View {#creating-a-new-email-program-in-the-schedule-view}
 

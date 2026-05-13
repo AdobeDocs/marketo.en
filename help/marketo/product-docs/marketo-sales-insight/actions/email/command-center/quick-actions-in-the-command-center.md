@@ -1,8 +1,12 @@
 ---
-description: "Learn about quick actions in the Command Center for sales emails and tasks. Use actions to reply, mark complete, or manage items quickly."
+description: Learn about quick actions in the Command Center for sales emails and tasks. Use actions to reply, mark complete, or manage items quickly.
 title: Quick Actions in the Command Center
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Quick Actions in the [!UICONTROL Command Center] {#quick-actions-in-the-command-center}
 

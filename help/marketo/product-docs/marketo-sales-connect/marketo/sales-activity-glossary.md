@@ -1,8 +1,15 @@
 ---
-description: "Learn about Sales Connect sales activity terms. Use this glossary for activity types that sync to Marketo and Salesforce."
+description: Learn about Sales Connect sales activity terms. Use this glossary for activity types that sync to Marketo and Salesforce.
 title: Sales Activity Glossary
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Sales Activity Glossary {#sales-activity-glossary}
 

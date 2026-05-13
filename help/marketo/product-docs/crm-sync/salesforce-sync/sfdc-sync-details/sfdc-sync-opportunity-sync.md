@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2953467
-description: "Learn how opportunity sync works from Salesforce to Marketo. See how opportunities sync, associate with contacts, and use opportunity triggers and filters."
+description: Learn how opportunity sync works from Salesforce to Marketo. See how opportunities sync, associate with contacts, and use opportunity triggers and filters.
 title: SFDC Sync - Opportunity Sync
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/r8JobWyGrFmN71de8J5xI-2-Ze7lPEsNRQ6V41Q4JQM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # SFDC Sync: Opportunity Sync {#sfdc-sync-opportunity-sync}
 

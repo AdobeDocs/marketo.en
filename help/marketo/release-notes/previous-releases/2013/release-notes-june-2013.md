@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2951095
-description: "Release Notes -June 2013 - Marketo Docs - Product Documentation"
+description: Release Notes -June 2013 - Marketo Docs - Product Documentation
 title: Release Notes -June 2013
 exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 feature: Release Information
+TQID: https://experienceleague.adobe.com/eQePp2FMfxvMsOkO3n0zHR3CkprQ0asS3oa9PzurWqw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Release Notes: June 2013 {#release-notes-june}
 

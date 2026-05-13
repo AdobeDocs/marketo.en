@@ -1,9 +1,18 @@
 ---
 unique-page-id: 2359701
-description: "Learn how to create a free-form landing page in Marketo. Create the page as a program asset or in Design Studio for global use."
+description: Learn how to create a free-form landing page in Marketo. Create the page as a program asset or in Design Studio for global use.
 title: Create a Free-Form Landing Page
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/6aOqa1RVmKfqJ-hC2X7du6xUD2PdRJdD2WHLQQT0GaE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Create a Free-Form Landing Page {#create-a-free-form-landing-page}
 

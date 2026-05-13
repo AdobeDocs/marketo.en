@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2360002
-description: "Learn how to configure report size by changing the maximum row limit from the default 5,000 rows. Adjust Export Rows Available in the Setup tab to optimize report performance."
+description: Learn how to configure report size by changing the maximum row limit from the default 5,000 rows. Adjust Export Rows Available in the Setup tab to optimize report performance.
 title: Configure Report Size
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
+TQID: https://experienceleague.adobe.com/8w723xXcNApVJ15-WQxaOv3WZtcwTvhXRYmWvROCUtI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Configure Report Size {#configure-report-size}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359726
-description: "Learn how to edit landing page title and metadata in Marketo. Update the page title and meta description for SEO and display."
+description: Learn how to edit landing page title and metadata in Marketo. Update the page title and meta description for SEO and display.
 title: Edit Landing Page Title and Metadata
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/xox4waa9DvtyMtj1oEWF0ySjX8kUX3dW6TvAeJU6lOk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
 ---
 # Edit Landing Page Title and Metadata {#edit-landing-page-title-and-metadata}
 

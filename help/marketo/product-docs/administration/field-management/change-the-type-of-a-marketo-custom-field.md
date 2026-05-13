@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2360331
-description: "How to change the data type of a custom field in Field Management (score and formula fields cannot be changed)."
+description: How to change the data type of a custom field in Field Management (score and formula fields cannot be changed).
 title: Change the Type of a Marketo Custom Field
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
+TQID: https://experienceleague.adobe.com/Tnjq8vp7l6MpqGMlpwHXJXLz2Mi6GkJF8FgmWNQMhU8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Change the Type of a Marketo Custom Field {#change-the-type-of-a-marketo-custom-field}
 

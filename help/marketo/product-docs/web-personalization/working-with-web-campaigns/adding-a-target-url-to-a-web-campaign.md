@@ -1,9 +1,19 @@
 ---
 unique-page-id: 6094879
-description: "Learn about adding a target url to a web campaign in Marketo Engage, including adding a target url to a web. Use this guide to complete your next step."
+description: Learn about adding a target url to a web campaign in Marketo Engage, including adding a target url to a web. Use this guide to complete your next step.
 title: Adding a Target URL to a Web Campaign
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/IrYPeEwQnyczC1KUGtKvKfmQ-gKTOqCIEVtZr9usCgk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Adding a Target URL to a Web Campaign {#adding-a-target-url-to-a-web-campaign}
 

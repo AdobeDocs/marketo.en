@@ -1,9 +1,18 @@
 ---
 unique-page-id: 5472283
-description: "Learn how to customize mobile view for your free-form landing page in Marketo. Adjust layout and content for mobile visitors."
+description: Learn how to customize mobile view for your free-form landing page in Marketo. Adjust layout and content for mobile visitors.
 title: Customize Mobile View for Your Free-Form Landing Page
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/RJiOHLIXxHZdZBJk2XtIqk6TtJ7UVjcExmkxyVFp3yQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Customize Mobile View for Your Free-Form Landing Page {#customize-mobile-view-for-your-free-form-landing-page}
 

@@ -1,9 +1,23 @@
 ---
 unique-page-id: 4720796
-description: "Learn about retargeting with web personalization data in Marketo Engage, including retargeting with dnl web. Use this guide to complete your next step."
+description: Learn about retargeting with web personalization data in Marketo Engage, including retargeting with dnl web. Use this guide to complete your next step.
 title: Retargeting with Web Personalization Data
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/PwPJNbos0lv2NI1ap6TOqIt1QE8EyXqRVd61nqkLkz4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Retargeting with [!DNL Web Personalization] Data {#retargeting-with-web-personalization-data}
 

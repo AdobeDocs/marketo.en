@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147051
-description: "Get help on the Smart Campaign checklist. Use this list to verify your campaign is set up correctly before activating."
+description: Get help on the Smart Campaign checklist. Use this list to verify your campaign is set up correctly before activating.
 title: Smart Campaign Checklist
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/R94BEUOHsfCoIwAvl7QKDRvBw5mU3szqH6n27qd3yk0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Smart Campaign Checklist {#smart-campaign-checklist}
 

@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7504060
-description: "Learn how to delete a Marketing Calendar presentation. Remove old presentations to make room for new ones."
+description: Learn how to delete a Marketing Calendar presentation. Remove old presentations to make room for new ones.
 title: Delete a Presentation
 exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/sDs7lwyTYgG4taPC6NxImkvlR1NQyUcXNoZ43Q2BHdQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Delete a Presentation {#delete-a-presentation}
 

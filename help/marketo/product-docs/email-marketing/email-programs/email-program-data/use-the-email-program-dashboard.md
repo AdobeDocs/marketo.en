@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2359476
-description: "Learn how to use the email program dashboard to view performance. Monitor opens, clicks, and other metrics at a glance."
+description: Learn how to use the email program dashboard to view performance. Monitor opens, clicks, and other metrics at a glance.
 title: Use the Email Program Dashboard
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
+TQID: https://experienceleague.adobe.com/CfPK3TiQRdHB01BUAPFHsM2mn3-CR-b7ELhz01gtUzo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Use the Email Program Dashboard {#use-the-email-program-dashboard}
 

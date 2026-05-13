@@ -1,9 +1,25 @@
 ---
 unique-page-id: 4720758
-description: "Release Notes -January 2015 - Marketo Docs - Product Documentation"
+description: Release Notes -January 2015 - Marketo Docs - Product Documentation
 title: Release Notes -January 2015
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
+TQID: https://experienceleague.adobe.com/NrxOOJ5YBCQW4FtOB2Ki-oMlhy8VwVWOhO6BmjaEkFM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Release Notes: January 2015 {#release-notes-january}
 

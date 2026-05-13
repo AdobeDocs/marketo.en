@@ -1,8 +1,18 @@
 ---
-description: "Learn about Dynamic Chat analytics dashboards for engagement and performance. View dialogue metrics, meeting bookings, and live chat performance and export results."
+description: Learn about Dynamic Chat analytics dashboards for engagement and performance. View dialogue metrics, meeting bookings, and live chat performance and export results.
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
+TQID: https://experienceleague.adobe.com/50vtNoN8ZR9w062QfNp3Y3Fh21R-XH8oQr17JO3pJOw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Analytics {#analytics}
 

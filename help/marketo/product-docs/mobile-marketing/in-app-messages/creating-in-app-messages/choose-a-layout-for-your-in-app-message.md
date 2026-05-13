@@ -1,9 +1,16 @@
 ---
 unique-page-id: 10100434
-description: "Learn about the six in-app message layouts. Choose Pop Up or Full Screen templates to build your message with images and buttons."
+description: Learn about the six in-app message layouts. Choose Pop Up or Full Screen templates to build your message with images and buttons.
 title: Choose a Layout for Your In-App Message
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/tCjSUGgNukJcbWvyLnj2E-9GzKjbgiEa3ytBkmrzhT4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Choose a Layout for Your In-App Message {#choose-a-layout-for-your-in-app-message}
 

@@ -3,6 +3,17 @@ description: Learn how to optimize and scale an existing Marketo Engage instance
 title: Where to Start
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
+TQID: https://experienceleague.adobe.com/1iZHB7gfCSO7NzNNNOAsWdWfirj6TDbkKihudpvim24
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 ---
 # Where to Start {#where-to-start}
 

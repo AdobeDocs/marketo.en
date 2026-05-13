@@ -1,9 +1,21 @@
 ---
 unique-page-id: 7505310
-description: "Learn how to subscribe to smart lists to receive reports sent directly to your inbox. Create subscriptions from Marketing Activities or Database with customizable frequency and format."
+description: Learn how to subscribe to smart lists to receive reports sent directly to your inbox. Create subscriptions from Marketing Activities or Database with customizable frequency and format.
 title: Subscribe to a Smart List
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
+TQID: https://experienceleague.adobe.com/MAk0qz-cUIw2v620gv-QyU6tZbdmNmwNC54Bu5vmJAA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Subscribe to a Smart List {#subscribe-to-a-smart-list}
 

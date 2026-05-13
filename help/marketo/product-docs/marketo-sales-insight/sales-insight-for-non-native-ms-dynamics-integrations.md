@@ -1,8 +1,23 @@
 ---
-description: "Learn how to configure Sales Insight for non-native MS Dynamics integrations. Set up MSI when Marketo connects to Dynamics via custom sync."
+description: Learn how to configure Sales Insight for non-native MS Dynamics integrations. Set up MSI when Marketo connects to Dynamics via custom sync.
 title: "[!DNL Sales Insight] for Non-Native MS [!DNL Dynamics] Integrations"
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/sfXpgdyyjCat01UktvV8p4SICKxQGot8-D2T5o11HkM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!DNL Sales Insight] for Non-Native MS [!DNL Dynamics] Integrations {#sales-insight-for-non-native-ms-dynamics-integrations}
 

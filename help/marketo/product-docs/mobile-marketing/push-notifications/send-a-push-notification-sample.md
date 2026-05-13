@@ -1,9 +1,13 @@
 ---
 unique-page-id: 8783141
-description: "Learn how to send a push notification sample to verify it works. Select a test device or add one, then send the sample from the editor."
+description: Learn how to send a push notification sample to verify it works. Select a test device or add one, then send the sample from the editor.
 title: Send a Push Notification Sample
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/TPNT1X4vgRtkP81L20QwsDCTmwhFUOhqbGbVvuPalNw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Send a Push Notification Sample {#send-a-push-notification-sample}
 

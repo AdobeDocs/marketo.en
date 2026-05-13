@@ -1,8 +1,12 @@
 ---
-description: "Learn how to view and respond to unanswered or not-helpful chatbot questions. Add new approved responses to your Response Library from this list."
+description: Learn how to view and respond to unanswered or not-helpful chatbot questions. Add new approved responses to your Response Library from this list.
 title: Unanswered Questions
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
+TQID: https://experienceleague.adobe.com/qBCCscCI1eJ7P70HRrD38FxuCMVdMJmkKHtQW5I7obM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Unanswered Questions {#unanswered-questions}
 

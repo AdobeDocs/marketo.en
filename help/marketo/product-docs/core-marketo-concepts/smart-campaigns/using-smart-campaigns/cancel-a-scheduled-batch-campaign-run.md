@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147058
-description: "Learn how to cancel a scheduled batch campaign run. Remove a one-time scheduled run so it does not execute."
+description: Learn how to cancel a scheduled batch campaign run. Remove a one-time scheduled run so it does not execute.
 title: Cancel a Scheduled Batch Campaign Run
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/2kJg8aRkZFOidnPjm50gG5EQXLcKAWReC59VFJIO6q8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Cancel a Scheduled Batch Campaign Run {#cancel-a-scheduled-batch-campaign-run}
 

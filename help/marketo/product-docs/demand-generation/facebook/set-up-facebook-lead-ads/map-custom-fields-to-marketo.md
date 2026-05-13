@@ -1,9 +1,23 @@
 ---
 unique-page-id: 12983101
-description: "Learn how to map Facebook Lead Ads custom fields to Marketo. Ensure lead ad data maps to the correct person fields in Marketo."
+description: Learn how to map Facebook Lead Ads custom fields to Marketo. Ensure lead ad data maps to the correct person fields in Marketo.
 title: Map Custom Fields to Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
+TQID: https://experienceleague.adobe.com/whJl1biZjBUAZp0w3kkmM5AplWTDXcV3-2KayHmsMnE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Map Custom Fields to Marketo {#map-custom-fields-to-marketo}
 

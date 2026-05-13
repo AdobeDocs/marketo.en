@@ -1,8 +1,31 @@
 ---
-description: "Online Advertising Marketo Landing Page program template. Use it for paid campaigns with Marketo pages."
+description: Online Advertising Marketo Landing Page program template. Use it for paid campaigns with Marketo pages.
 title: OA-YYYY-MM-Online Advertising Marketo Landing Page
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
+TQID: https://experienceleague.adobe.com/B1msn3wZ33NB3YzSKz82xTFuq-JPdjZ3nMvJTQZm1mY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+subfeature_v2:
+  - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+    internal-label: Global Assets
+topic_v2:
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+    internal-label: Data management
 ---
 # OA-YYYY-MM-Online Advertising Marketo Landing Page {#oa-yyyy-mm-online-advertising-marketo-landing-page}
 

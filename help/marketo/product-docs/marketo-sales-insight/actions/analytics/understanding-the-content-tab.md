@@ -1,8 +1,15 @@
 ---
-description: "Understand the Content tab and template engagement metrics in Sales Insight Actions. View Secret Weapon, Highest and Lowest Engagement, and top attachments and links."
+description: Understand the Content tab and template engagement metrics in Sales Insight Actions. View Secret Weapon, Highest and Lowest Engagement, and top attachments and links.
 title: Understanding the Content Tab
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/E8Ia47f-pco8X7HovNEfr6BudxALmzZYY-qBVpfSIvE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Understanding the [!UICONTROL Content] Tab {#understanding-the-content-tab}
 

@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2359614
-description: "Learn how to define values in a radio or drop-down field in a Marketo form. Set the options visitors can choose from."
+description: Learn how to define values in a radio or drop-down field in a Marketo form. Set the options visitors can choose from.
 title: Define Values in a Radio or Selected Field in a Form
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
+TQID: https://experienceleague.adobe.com/qme0kT3xrQp3T7zEewO92jPXpNdmweebqzx8b7meUMo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Define Values in a Radio or Selected Field in a Form {#define-values-in-a-radio-or-selected-field-in-a-form}
 

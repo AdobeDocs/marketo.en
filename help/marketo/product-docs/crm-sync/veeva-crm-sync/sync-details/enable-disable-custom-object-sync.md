@@ -1,8 +1,18 @@
 ---
-description: "Learn how to enable or disable custom object sync between Veeva CRM and Marketo Engage. Use Admin and Veeva Objects Sync to select and sync custom objects."
+description: Learn how to enable or disable custom object sync between Veeva CRM and Marketo Engage. Use Admin and Veeva Objects Sync to select and sync custom objects.
 title: Enable/Disable Custom Object Sync
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
+TQID: https://experienceleague.adobe.com/nsmRk-zf-I5r0hfLxsOnGsTf66X-bYZ7OAUXHrPc-t0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart Lists
 ---
 # Enable/Disable Custom Object Sync {#enable-disable-custom-object-sync}
 

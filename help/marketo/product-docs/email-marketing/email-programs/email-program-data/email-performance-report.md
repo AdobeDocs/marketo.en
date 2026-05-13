@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2359467
-description: "Learn how to create and use the Email Performance report. Track opens, clicks, bounces, and other email metrics."
+description: Learn how to create and use the Email Performance report. Track opens, clicks, bounces, and other email metrics.
 title: Email Performance Report
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
+TQID: https://experienceleague.adobe.com/90WK5ODp6PnSFAyWFvEc4DFR1oiRn97gsqlP1lXj7-M
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Email Performance Report {#email-performance-report}
 

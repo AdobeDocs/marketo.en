@@ -1,9 +1,30 @@
 ---
 unique-page-id: 2949158
-description: "Learn how to integrate rtp with google analytics in Marketo Engage using integrate rtp with google analytics. Use this guide to complete your next step."
+description: Learn how to integrate rtp with google analytics in Marketo Engage using integrate rtp with google analytics. Use this guide to complete your next step.
 title: Integrate RTP with Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/nnx4MhOQreSZOHY2526qb11svyumVMlOzqbybuPWxRQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Integrate RTP with Google Analytics {#integrate-rtp-with-google-analytics}
 

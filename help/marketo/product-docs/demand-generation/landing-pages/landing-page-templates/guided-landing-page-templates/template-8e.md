@@ -1,9 +1,16 @@
 ---
 unique-page-id: 8783972
-description: "Learn about the Template 8E guided landing page template. Download and use it for your Marketo landing pages."
+description: Learn about the Template 8E guided landing page template. Download and use it for your Marketo landing pages.
 title: Template 8E
 exl-id: 4e3c3b18-0a4f-4d5c-8535-77ca063b98b9
 feature: Landing Pages, Guided Landing Page Templates
+TQID: https://experienceleague.adobe.com/QAQnwl-6sdcGnpUtQQn5UrjmGop1SMM1-Q2Pp8V1od4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Template 8E {#template-8e}
 

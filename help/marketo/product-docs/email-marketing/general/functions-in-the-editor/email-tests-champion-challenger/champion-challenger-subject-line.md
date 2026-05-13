@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2359557
-description: "Learn how to run Champion/Challenger subject line tests. Test different subject lines and declare a winner by your criteria."
+description: Learn how to run Champion/Challenger subject line tests. Test different subject lines and declare a winner by your criteria.
 title: Champion/Challenger -Subject Line
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/CyptDxnnRX1bG8RvAXE-lpfEVoibAkdBFcmMZzDqfxM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Champion/Challenger: Subject Line {#champion-challenger-subject-line}
 

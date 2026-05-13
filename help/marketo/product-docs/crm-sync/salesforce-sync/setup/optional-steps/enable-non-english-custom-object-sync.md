@@ -1,9 +1,13 @@
 ---
 unique-page-id: 4719302
-description: "Learn how to enable custom object sync when the Marketo sync user uses a non-English language. Set the sync user language to English in Salesforce and refresh schema."
+description: Learn how to enable custom object sync when the Marketo sync user uses a non-English language. Set the sync user language to English in Salesforce and refresh schema.
 title: Enable Non-English Custom Object Sync
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/kPzDEdjDnDAvuJmCtPj0I2Lfl63Lset00t-LwB8DDhI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Enable Non-English Custom Object Sync {#enable-non-english-custom-object-sync}
 

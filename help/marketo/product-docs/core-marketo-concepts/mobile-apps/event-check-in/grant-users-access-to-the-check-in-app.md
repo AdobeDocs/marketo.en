@@ -1,9 +1,16 @@
 ---
 unique-page-id: 7516639
-description: "Learn how to grant users access to the Event Check-in app. Assign the Mobile Event Check-in role so they can check in attendees."
+description: Learn how to grant users access to the Event Check-in app. Assign the Mobile Event Check-in role so they can check in attendees.
 title: Grant Users Access to the Check-in App
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/GKLCTK-Wc-rwTfbcNIEzferpYBJDvpKjelUm5-89WIU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Grant Users Access to the Check-in App {#grant-users-access-to-the-check-in-app}
 

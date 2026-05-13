@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147356
-description: "Learn about email event logging in Marketo. Understand how opens, clicks, and other events are tracked and stored."
+description: Learn about email event logging in Marketo. Understand how opens, clicks, and other events are tracked and stored.
 title: Understanding Email Event Logging
 exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/7ldlXmnupXohvFUDiniYCV9Idn1zOMUuynPneV5ovLY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Understanding Email Event Logging {#understanding-email-event-logging}
 

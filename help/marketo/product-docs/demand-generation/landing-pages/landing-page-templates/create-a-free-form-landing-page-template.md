@@ -1,9 +1,23 @@
 ---
 unique-page-id: 10097969
-description: "Learn how to create a free-form landing page template in Marketo. Build a reusable template in Design Studio for future landing pages."
+description: Learn how to create a free-form landing page template in Marketo. Build a reusable template in Design Studio for future landing pages.
 title: Create a Free-form Landing Page Template
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/zAuwXys4flRTw2x2zthiov4yxcx-gKmZEWIMFoIaIq4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
 ---
 # Create a Free-form Landing Page Template {#create-a-free-form-landing-page-template}
 

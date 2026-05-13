@@ -1,8 +1,12 @@
 ---
-description: "Learn about delivery channels for sending sales emails in Sales Insight Actions. Understand how delivery channels enable tracking and delivery."
+description: Learn about delivery channels for sending sales emails in Sales Insight Actions. Understand how delivery channels enable tracking and delivery.
 title: Delivery Channel Overview
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/wkJ3dESuEZA7rxNb-OBLwH-p6h0YjInFvGKoQSSjomE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Delivery Channel Overview {#delivery-channel-overview}
 

@@ -1,9 +1,28 @@
 ---
 unique-page-id: 1147093
-description: "Learn about local assets in a program. Understand how emails, landing pages, and other assets live inside programs."
+description: Learn about local assets in a program. Understand how emails, landing pages, and other assets live inside programs.
 title: Understanding Local Assets in a Program
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
+TQID: https://experienceleague.adobe.com/96IMgGjyqieCZlEjI0Df2jKRa5LSZYEGanUBPpg9IQ4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart Lists
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Understanding Local Assets in a Program {#understanding-local-assets-in-a-program}
 

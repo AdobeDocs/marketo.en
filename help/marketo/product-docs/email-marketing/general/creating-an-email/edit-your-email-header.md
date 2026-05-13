@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2359453
-description: "Learn how to edit your email header (from name, from email, reply-to, subject). Set the header fields in the email editor."
+description: Learn how to edit your email header (from name, from email, reply-to, subject). Set the header fields in the email editor.
 title: Edit Your Email Header
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/bhEcWw0qUWfZSg4imEOnVeGjZ0uukWgRC9QqeQuuhko
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Edit Your Email Header {#edit-your-email-header}
 

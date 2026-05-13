@@ -1,9 +1,28 @@
 ---
 unique-page-id: 12981145
-description: "Learn how to set up Performance Insights by configuring opportunity setup, program costs, analytics behavior, and success criteria. Ensure proper attribution and data flow for accurate reporting."
+description: Learn how to set up Performance Insights by configuring opportunity setup, program costs, analytics behavior, and success criteria. Ensure proper attribution and data flow for accurate reporting.
 title: Setting Up Performance Insights
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
+TQID: https://experienceleague.adobe.com/xH9HG3hKoUFG3428IngBYFG6n4W3k1Bd-baVI7WTMrE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+subfeature_v2:
+  - id: b9f06cb0-cdf7-4b83-a9d1-a701d132779b
+    internal-label: Program analysis
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Setting Up [!UICONTROL Performance Insights] {#setting-up-performance-insights}
 

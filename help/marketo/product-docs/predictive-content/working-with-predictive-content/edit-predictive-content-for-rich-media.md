@@ -1,9 +1,16 @@
 ---
 unique-page-id: 11385940
-description: "Learn how to set up predictive content for Rich Media with descriptions, sRGB images, and categories. Enable approved content for web recommendations."
+description: Learn how to set up predictive content for Rich Media with descriptions, sRGB images, and categories. Enable approved content for web recommendations.
 title: Edit Predictive Content for Rich Media
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
+TQID: https://experienceleague.adobe.com/XHMDPgftozNUSvcOrKdFcilATEmARQiBQd55jyulAyc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Edit Predictive Content for Rich Media {#edit-predictive-content-for-rich-media}
 

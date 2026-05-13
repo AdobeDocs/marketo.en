@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352412
-description: "Learn how to add an email identity in Sales Connect. Set up sending identities and verify email addresses for tracked emails."
+description: Learn how to add an email identity in Sales Connect. Set up sending identities and verify email addresses for tracked emails.
 title: Add Identity
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/uLOd4gisccc14zCnYMSHdtUTM4TLzRvkqNgtQPOHjBM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Add Identity {#add-identity}
 

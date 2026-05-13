@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147100
-description: "Learn how to navigate the Program Schedule View. Move through time and view scheduled entries in your program."
+description: Learn how to navigate the Program Schedule View. Move through time and view scheduled entries in your program.
 title: Navigating the Program Schedule View
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
+TQID: https://experienceleague.adobe.com/KnAyn3lq7uLGVgNvEqA-iDTtHwDyKa8Z6aWw78LuXmI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Navigating the Program Schedule View {#navigating-the-program-schedule-view}
 

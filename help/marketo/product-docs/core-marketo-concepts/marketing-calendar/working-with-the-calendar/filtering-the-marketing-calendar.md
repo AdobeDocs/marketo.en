@@ -1,9 +1,18 @@
 ---
 unique-page-id: 1147294
-description: "Learn how to filter the Marketing Calendar by entry type, program tags, or workspace. Control which scheduled assets are displayed."
+description: Learn how to filter the Marketing Calendar by entry type, program tags, or workspace. Control which scheduled assets are displayed.
 title: Filtering the Marketing Calendar
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/kMQU58oZslkR2iLG6vy9yLcaN----3rjAIZ5ln3QtMg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Filtering the Marketing Calendar {#filtering-the-marketing-calendar}
 

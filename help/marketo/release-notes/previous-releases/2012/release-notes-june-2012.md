@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2951114
-description: "Release Notes -June 2012 - Marketo Docs - Product Documentation"
+description: Release Notes -June 2012 - Marketo Docs - Product Documentation
 title: Release Notes -June 2012
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
+TQID: https://experienceleague.adobe.com/Si9Cd12TDh3rtbEtp6vxFW2pjhcSPf-uoIPjn7lIMh0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Release Notes: June 2012 {#release-notes-june}
 

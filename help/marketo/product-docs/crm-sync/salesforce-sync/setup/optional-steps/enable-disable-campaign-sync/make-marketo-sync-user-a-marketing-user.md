@@ -1,9 +1,13 @@
 ---
 unique-page-id: 8782944
-description: "Learn how to make the Marketo sync user a Marketing user in Salesforce. Enable the Marketing User checkbox so Salesforce campaign sync works properly."
+description: Learn how to make the Marketo sync user a Marketing user in Salesforce. Enable the Marketing User checkbox so Salesforce campaign sync works properly.
 title: Make Marketo Sync User a Marketing User
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/42ACB3EIyob3z4J9OAXmejZCHIxQ6nmoTayn67kw4-8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Make Marketo Sync User a Marketing User {#make-marketo-sync-user-a-marketing-user}
 

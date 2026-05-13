@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2951107
-description: "Release Notes - December 2012 - Marketo Docs - Product Documentation"
+description: Release Notes - December 2012 - Marketo Docs - Product Documentation
 title: Release Notes - December 2012
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
+TQID: https://experienceleague.adobe.com/pz5bEf4s54iQbXazvgm-hMQ6TGGp-qyshaVFqbdGcFk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Release Notes: December 2012 {#release-notes-december}
 

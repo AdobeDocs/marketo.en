@@ -1,8 +1,12 @@
 ---
-description: "Learn how to grant Sales Connect access to users from Marketo. Use Marketo admin to provision Sales Connect for your team."
+description: Learn how to grant Sales Connect access to users from Marketo. Use Marketo admin to provision Sales Connect for your team.
 title: Granting Access to Users
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/gV1fv8YXDoAZujgAfYTW54J69clrjN-p2CAKWOxsPNA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Granting Access to Users {#granting-access-to-users}
 

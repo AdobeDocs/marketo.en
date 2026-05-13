@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352434
-description: "Learn about Sales Phone international calling in Sales Connect. Make and log international calls and check supported countries."
+description: Learn about Sales Phone international calling in Sales Connect. Make and log international calls and check supported countries.
 title: Sales Phone International Calling
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/IYUuKHJBRfSrVMWH-jxgAFkgyDZo2GbIfvd4tNW-Krc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Sales Phone International Calling {#sales-phone-international-calling}
 

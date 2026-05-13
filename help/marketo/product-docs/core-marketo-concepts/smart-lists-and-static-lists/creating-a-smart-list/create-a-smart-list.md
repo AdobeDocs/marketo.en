@@ -1,9 +1,13 @@
 ---
 unique-page-id: 557154
-description: "Learn how to create a Smart List in Marketo. Add a Smart List in the Database or inside a program and define filters."
+description: Learn how to create a Smart List in Marketo. Add a Smart List in the Database or inside a program and define filters.
 title: Create a Smart List
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
+TQID: https://experienceleague.adobe.com/bYuwTZOwI-XTr1re1ETqhdMM-fNF-ojkpVAijBg53O4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Create a Smart List {#create-a-smart-list}
 

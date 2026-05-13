@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352488
-description: "Get help when you cannot delete a contact in Sales Connect. Understand permissions and when contacts are locked from deletion."
+description: Get help when you cannot delete a contact in Sales Connect. Understand permissions and when contacts are locked from deletion.
 title: Why Can't I Delete a Contact?
 exl-id: 28218879-240e-450e-990d-1c2af0a74dc3
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/w-bJqpBIahBP-zYPLeiMt22LBtbxSvnKk83jrlpSQn4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Why Can't I Delete a Contact? {#why-cant-i-delete-a-contact}
 

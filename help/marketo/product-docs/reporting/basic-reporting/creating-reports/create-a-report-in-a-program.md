@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2359963
-description: "Learn how to create a report within a program to analyze people, programs, landing pages, emails, and social assets. Run reports directly from Marketing Activities or the Analytics tab."
+description: Learn how to create a report within a program to analyze people, programs, landing pages, emails, and social assets. Run reports directly from Marketing Activities or the Analytics tab.
 title: Create a Report in a Program
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
+TQID: https://experienceleague.adobe.com/tTw3chi2S-KxPbdn3yc-bXAyZQqoc-R1-LDa7uSAhg0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Create a Report in a Program {#create-a-report-in-a-program}
 

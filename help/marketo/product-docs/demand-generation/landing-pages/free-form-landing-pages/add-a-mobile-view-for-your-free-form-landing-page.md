@@ -1,9 +1,16 @@
 ---
 unique-page-id: 4720856
-description: "Learn how to add a mobile view for your free-form landing page in Marketo. Optimize the page layout for mobile devices."
+description: Learn how to add a mobile view for your free-form landing page in Marketo. Optimize the page layout for mobile devices.
 title: Add a Mobile View for Your Free-Form Landing Page
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/LG5T0Wbo05-MpqhFgcBWsvj9mZsLwVc4iSsaJmvWfOQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Add a Mobile View for Your Free-Form Landing Page {#add-a-mobile-view-for-your-free-form-landing-page}
 

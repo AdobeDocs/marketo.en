@@ -1,8 +1,22 @@
 ---
-description: "Learn how to customize the look and feel of your Dynamic Chat dialogue window. Set colors, fonts, placement, avatar, and notification sounds."
+description: Learn how to customize the look and feel of your Dynamic Chat dialogue window. Set colors, fonts, placement, avatar, and notification sounds.
 title: Configuration
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
+TQID: https://experienceleague.adobe.com/RYL35cMTXpq9dpJp0S-1YhUL29J2sPALRP1Rz3V60vU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Configuration {#configuration}
 

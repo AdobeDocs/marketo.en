@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352473
-description: "Learn how to install Sales Connect buttons in Salesforce. Add Push to Sales Connect and other buttons to Salesforce layout."
+description: Learn how to install Sales Connect buttons in Salesforce. Add Push to Sales Connect and other buttons to Salesforce layout.
 title: How to Install Sales Connect Buttons in Salesforce
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/NlfDR0iYREXhLnNW-GRSqAw7n61nDZs5BAgxsOnSGvk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # How to Install Sales Connect Buttons in Salesforce {#how-to-install-sales-connect-buttons-in-salesforce}
 

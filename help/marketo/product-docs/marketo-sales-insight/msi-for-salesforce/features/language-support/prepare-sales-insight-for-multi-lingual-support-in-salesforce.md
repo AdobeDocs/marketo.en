@@ -1,9 +1,19 @@
 ---
 unique-page-id: 7516460
-description: "Learn how to prepare Marketo Sales Insight for multi-lingual support in Salesforce. Set up language and locale for global users."
+description: Learn how to prepare Marketo Sales Insight for multi-lingual support in Salesforce. Set up language and locale for global users.
 title: Prepare Sales Insight for Multi-Lingual Support in Salesforce
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/OyeA8IbYicPJp56c6epuyFqr619J8sMQA4hmT--kry8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Prepare Sales Insight for Multi-Lingual Support in Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 

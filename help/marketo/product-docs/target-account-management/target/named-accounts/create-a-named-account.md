@@ -1,9 +1,13 @@
 ---
 unique-page-id: 12615781
-description: "Learn how to manually create a named account in TAM. Use the New drop-down, select Create Named Account, and fill out the desired fields."
+description: Learn how to manually create a named account in TAM. Use the New drop-down, select Create Named Account, and fill out the desired fields.
 title: Create a Named Account
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/XiXUFrF-AC59VQ9AQJGHkAfoTLqx9RTUWeNtyX-oy6E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Create a [!UICONTROL Named Account] {#create-a-named-account}
 

@@ -1,8 +1,18 @@
 ---
-description: "Learn how to use Demandbase person attributes in Dynamic Chat for dialogue targeting and routing. Get your API key and enable the integration."
+description: Learn how to use Demandbase person attributes in Dynamic Chat for dialogue targeting and routing. Get your API key and enable the integration.
 title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
+TQID: https://experienceleague.adobe.com/TBf0LfnYlSjW2o7x4aAeE9e8XeDAUEJhl0Ick4wo0Ks
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 ---
 # Demandbase {#demandbase}
 

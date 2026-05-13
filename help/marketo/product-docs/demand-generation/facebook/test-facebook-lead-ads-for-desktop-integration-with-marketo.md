@@ -1,9 +1,18 @@
 ---
 unique-page-id: 11370892
-description: "Learn how to test Facebook Lead Ads desktop integration with Marketo. Verify lead ad submissions from desktop sync correctly."
+description: Learn how to test Facebook Lead Ads desktop integration with Marketo. Verify lead ad submissions from desktop sync correctly.
 title: Test Facebook Lead Ads for Desktop Integration with Marketo
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
+TQID: https://experienceleague.adobe.com/I4eS9oQyilDMuEigreugkCgPCKvfCw1uX3zSmKyftN8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Test [!DNL Facebook] Lead Ads for Desktop Integration with Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
 

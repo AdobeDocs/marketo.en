@@ -1,9 +1,16 @@
 ---
 unique-page-id: 11380787
-description: "Learn about the Account List dashboard and aggregated insights from named accounts. View pipeline, revenue, top accounts, and which assets use each list."
+description: Learn about the Account List dashboard and aggregated insights from named accounts. View pipeline, revenue, top accounts, and which assets use each list.
 title: Account List Insights
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/izizFMysvg2jawj-424w0n6AIsNT5dwJG3cw0iwo6cg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Account List Insights {#account-list-insights}
 

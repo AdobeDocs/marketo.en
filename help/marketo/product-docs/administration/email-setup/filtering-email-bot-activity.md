@@ -1,8 +1,18 @@
 ---
-description: "Filter or log email bot activity to prevent inflated opens and clicks using IAB list matching and proximity patterns."
+description: Filter or log email bot activity to prevent inflated opens and clicks using IAB list matching and proximity patterns.
 title: Filtering Email Bot Activity
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
+TQID: https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Filtering Email Bot Activity {#filtering-email-bot-activity}
 

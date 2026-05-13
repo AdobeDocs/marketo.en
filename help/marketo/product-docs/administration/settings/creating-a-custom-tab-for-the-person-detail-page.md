@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2360305
-description: "How to create a custom layout for the person detail page."
+description: How to create a custom layout for the person detail page.
 title: Creating a Custom Tab for the Person Detail Page
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
+TQID: https://experienceleague.adobe.com/kguUTUeSqbj8uAZkjUwqhEaTDairHDDADDDWG3CdG6I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Creating a Custom Tab for the Person Detail Page {#creating-a-custom-tab-for-the-person-detail-page}
 

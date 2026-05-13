@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2949841
-description: "Learn about event programs in Marketo. Understand structure, channels, and how to plan and run events and webinars."
+description: Learn about event programs in Marketo. Understand structure, channels, and how to plan and run events and webinars.
 title: Understanding Event Programs
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
+TQID: https://experienceleague.adobe.com/-cuP1Bk1cjHUMnUM1ztxOgmmMgCLTCNW9JY9j17qVbE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+subfeature_v2:
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 ---
 # Understanding Event Programs {#understanding-event-programs}
 

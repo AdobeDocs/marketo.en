@@ -1,9 +1,16 @@
 ---
 unique-page-id: 11385183
-description: "Learn about the TAM Sales Report, a weekly email with top accounts and their trends. Receive account scores, pipeline, page views, and interesting moments."
+description: Learn about the TAM Sales Report, a weekly email with top accounts and their trends. Receive account scores, pipeline, page views, and interesting moments.
 title: TAM Sales Report
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/5a8oKRv-Icvj460zcQron7h3rSzWrFrR7FE0Ne9uQ8Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # TAM Sales Report {#tam-sales-report}
 

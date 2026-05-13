@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2360337
-description: "Combine values from multiple fields or build conditional values using formula fields in Marketo Engage."
+description: Combine values from multiple fields or build conditional values using formula fields in Marketo Engage.
 title: Create and Use a Concatenated String (Formula) Field
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
+TQID: https://experienceleague.adobe.com/Yk-Xh-WHUE8-GR2KTCxXRSqerdz-JHu2JnzYp8tAq9U
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Create and Use a Concatenated String (Formula) Field {#create-and-use-a-concatenated-string-formula-field}
 

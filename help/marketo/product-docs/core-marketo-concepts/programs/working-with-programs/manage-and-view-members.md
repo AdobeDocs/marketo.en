@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147122
-description: "Learn how to manage and view program members. See who is in your program and manage member status and data."
+description: Learn how to manage and view program members. See who is in your program and manage member status and data.
 title: Manage and View Members
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
+TQID: https://experienceleague.adobe.com/R5zgiFHzac-eB2VS1ri5e1Ww1POiM-huOLdFALKRU9s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Manage and View Members {#manage-and-view-members}
 

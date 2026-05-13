@@ -1,8 +1,15 @@
 ---
-description: "Learn how to send an SMS message via batch or trigger campaign. Define Smart List, add Send SMS flow step, then schedule or activate."
+description: Learn how to send an SMS message via batch or trigger campaign. Define Smart List, add Send SMS flow step, then schedule or activate.
 title: Send an SMS Message
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
+TQID: https://experienceleague.adobe.com/F-M5VulzDeqzUGcnAE58xOrQohBjEZ2rp40G7OEwxeY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Send an SMS Message {#send-a-vibes-sms-message}
 

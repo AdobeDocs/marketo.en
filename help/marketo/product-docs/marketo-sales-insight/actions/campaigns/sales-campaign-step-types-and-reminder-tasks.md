@@ -1,8 +1,15 @@
 ---
-description: "Understand Sales Campaign step types and reminder tasks. Use Email, Call, InMail, and Custom Task steps and queue tasks in Command Center and Salesforce."
+description: Understand Sales Campaign step types and reminder tasks. Use Email, Call, InMail, and Custom Task steps and queue tasks in Command Center and Salesforce.
 title: Sales Campaign Step Types and Reminder Tasks
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/QnwSipRlTnXV-LV-KG11LPZbHBjHPGsaLMPBrzqD8gM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Sales Campaign Step Types and Reminder Tasks {#sales-campaign-step-types-and-reminder-tasks}
 

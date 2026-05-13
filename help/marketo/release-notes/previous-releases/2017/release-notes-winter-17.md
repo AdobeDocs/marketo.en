@@ -1,8 +1,34 @@
 ---
 unique-page-id: 12255606
-description: "Release Notes -Winter '17 - Marketo Docs - Product Documentation"
+description: Release Notes -Winter '17 - Marketo Docs - Product Documentation
 title: Release Notes -Winter '17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
+TQID: https://experienceleague.adobe.com/9Ud9WALQOkbUuHYod1UI8MoIo8lLzCzJYxOC5A9h8QI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Release Notes: Winter '17 {#release-notes-winter}
 

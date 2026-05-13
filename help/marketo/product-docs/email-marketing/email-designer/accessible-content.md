@@ -1,11 +1,31 @@
 ---
 title: Design accessible content
-description: "Learn how to design accessible email content in Marketo Engage. Apply best practices so emails work for all recipients."
+description: Learn how to design accessible email content in Marketo Engage. Apply best practices so emails work for all recipients.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: email, design, accessibility
 exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
+TQID: https://experienceleague.adobe.com/kqwxM0mBZnchTEISiowpQOy7AZlKmmryK0GGkENiFdI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
 ---
 # Design accessible content {#accessible-content}
 

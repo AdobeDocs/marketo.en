@@ -1,9 +1,13 @@
 ---
 unique-page-id: 2359798
-description: "Learn how to add additional landing page CNAMEs in Marketo. Use multiple custom domains for your landing pages."
+description: Learn how to add additional landing page CNAMEs in Marketo. Use multiple custom domains for your landing pages.
 title: Add Additional Landing Page CNAMEs
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
+TQID: https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Add Additional Landing Page CNAMEs {#add-additional-landing-page-cnames}
 

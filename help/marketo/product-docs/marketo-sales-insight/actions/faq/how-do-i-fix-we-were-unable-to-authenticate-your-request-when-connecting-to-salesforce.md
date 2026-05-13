@@ -1,8 +1,12 @@
 ---
-description: "Fix authentication errors when connecting Sales Insight Actions to Salesforce. Check OAuth, permissions, and connection steps."
+description: Fix authentication errors when connecting Sales Insight Actions to Salesforce. Check OAuth, permissions, and connection steps.
 title: How Do I Fix "We Were Unable to Authenticate Your Request" When Connecting to Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/H2VyryO38T7ohs85rfhLUP-BVUEMf-Yr9rusDrAFq6Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # How Do I Fix "We Were Unable to Authenticate Your Request" When Connecting to [!DNL Salesforce] {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 

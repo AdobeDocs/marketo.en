@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7504120
-description: "Learn how to launch a Marketing Calendar presentation after setting views and rotation. Display it on an HDTV or external monitor."
+description: Learn how to launch a Marketing Calendar presentation after setting views and rotation. Display it on an HDTV or external monitor.
 title: Launch a Presentation
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/NlP4JyoKtroa4OS7wLQkjpMsY1P4U1QOx6eozYTuB1Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Launch a Presentation {#launch-a-presentation}
 

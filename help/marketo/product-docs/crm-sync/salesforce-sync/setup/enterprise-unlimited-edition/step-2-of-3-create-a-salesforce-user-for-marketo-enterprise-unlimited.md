@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2360364
-description: "Learn how to create a Salesforce user for Marketo with Enterprise or Unlimited edition. Create a profile, set permissions, and create the Marketo-Salesforce sync user."
+description: Learn how to create a Salesforce user for Marketo with Enterprise or Unlimited edition. Create a profile, set permissions, and create the Marketo-Salesforce sync user.
 title: Step 2 of 3 -Create a Salesforce User for Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/QFFzCkj2oeYkcK36qKjLXDhit4XhWrSX4iMJDQOnor0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Step 2 of 3: Create a [!DNL Salesforce] User for Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 

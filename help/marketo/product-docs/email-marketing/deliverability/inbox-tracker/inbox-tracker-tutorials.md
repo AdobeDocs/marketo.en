@@ -1,8 +1,12 @@
 ---
-description: "Learn about Inbox Tracker for testing and monitoring email deliverability. Access training videos for navigation, dashboards, and campaign tracking."
+description: Learn about Inbox Tracker for testing and monitoring email deliverability. Access training videos for navigation, dashboards, and campaign tracking.
 title: Inbox Tracker Tutorials
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
+TQID: https://experienceleague.adobe.com/OOmWMW8Fw1r8NsYMp2-GBIThxu-cLtk6WJk1GbVUwWc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Inbox Tracker Tutorials {#inbox-tracker-tutorials}
 

@@ -1,9 +1,13 @@
 ---
 unique-page-id: 12978647
-description: "Learn how to create a custom Named Account field, map it to your CRM, and use it in CRM Account Discovery. See mapped data in the Discover CRM grid."
+description: Learn how to create a custom Named Account field, map it to your CRM, and use it in CRM Account Discovery. See mapped data in the Discover CRM grid.
 title: Create a Custom Field for CRM Discovery
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/sZsRCayMv2-B3mq0bm7uj5jExDKSTTx6-HB-ALBVuB0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Create a Custom Field for CRM Discovery {#create-a-custom-field-for-crm-discovery}
 

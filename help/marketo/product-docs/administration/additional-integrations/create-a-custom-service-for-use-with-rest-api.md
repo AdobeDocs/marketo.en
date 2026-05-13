@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2360350
-description: "Create a custom LaunchPoint service linked to an API-only user for ReST API integration."
+description: Create a custom LaunchPoint service linked to an API-only user for ReST API integration.
 title: Create a Custom Service for Use with ReST API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
+TQID: https://experienceleague.adobe.com/7RYZTS-1WiaU0A8ThqHvk01S7GLIIP65xyKI3SIuPyo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Create a Custom Service for Use with ReST API {#create-a-custom-service-for-use-with-rest-api}
 

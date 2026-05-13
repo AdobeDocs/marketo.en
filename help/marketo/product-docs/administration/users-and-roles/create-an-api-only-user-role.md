@@ -1,9 +1,24 @@
 ---
 unique-page-id: 2360203
-description: "How to create an API Only user role for REST API integration by defining a role name and selecting the API access permissions to grant."
+description: How to create an API Only user role for REST API integration by defining a role name and selecting the API access permissions to grant.
 title: Create an API Only User Role
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
+TQID: https://experienceleague.adobe.com/QUF0emSKwHkKFxGjgjZOU58i4dqEznmQNkXY-2p41Fs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Create an API Only User Role {#create-an-api-only-user-role}
 

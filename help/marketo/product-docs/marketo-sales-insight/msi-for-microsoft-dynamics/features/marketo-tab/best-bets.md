@@ -1,8 +1,15 @@
 ---
-description: "Learn about Best Bets in Marketo Sales Insight for Dynamics. See which leads are most engaged and ready for outreach."
+description: Learn about Best Bets in Marketo Sales Insight for Dynamics. See which leads are most engaged and ready for outreach.
 title: Best Bets
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/hXHMtgJnHJ8nZU3oQi5GcXt86uQeBxKhZ3fMG2FSA7c
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!DNL Best Bets] {#best-bets}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2953364
-description: "Understand how Program Focus lets you interact with Marketing Calendar entries. Enable focus on a program to create, edit, delete, or confirm entries."
+description: Understand how Program Focus lets you interact with Marketing Calendar entries. Enable focus on a program to create, edit, delete, or confirm entries.
 title: Understand and Enable Program Focus
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/esiXCtVAOCkiFVxsuNhuJG6aYVkE0xdFIE5uHdNzGj0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Understand and Enable Program Focus {#understand-enable-program-focus}
 

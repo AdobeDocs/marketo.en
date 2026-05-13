@@ -1,9 +1,23 @@
 ---
 unique-page-id: 1147089
-description: "Learn about programs in Marketo for organizing campaigns and assets. Use programs to group emails, landing pages, and Smart Campaigns."
+description: Learn about programs in Marketo for organizing campaigns and assets. Use programs to group emails, landing pages, and Smart Campaigns.
 title: Understanding Programs
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
+TQID: https://experienceleague.adobe.com/aGx41THf9rvtaikZuliRg5I8YiZLbS0fi8TLPXjSY94
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+subfeature_v2:
+  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+    internal-label: Default programs
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 ---
 # Understanding Programs {#understanding-programs}
 

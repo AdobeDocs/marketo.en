@@ -1,9 +1,19 @@
 ---
 unique-page-id: 7516390
-description: "Learn how to install the Marketo Sales Insight package from Salesforce AppExchange. Add the package to your Salesforce instance."
+description: Learn how to install the Marketo Sales Insight package from Salesforce AppExchange. Add the package to your Salesforce instance.
 title: Install Marketo Sales Insight Package in Salesforce AppExchange
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/Avewt9joDG0k3TR0MF1jvqtQsS-GQeKKNnfARk8Xffk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Install [!DNL Marketo Sales Insight] Package in [!DNL Salesforce] AppExchange {#install-marketo-sales-insight-package-in-salesforce-appexchange}
 

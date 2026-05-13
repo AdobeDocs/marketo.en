@@ -1,9 +1,13 @@
 ---
 unique-page-id: 10092977
-description: "Learn about the Dynamics sync filter Qualify process when converting a lead to a contact. Understand how lead and contact sync filter values affect Marketo sync."
+description: Learn about the Dynamics sync filter Qualify process when converting a lead to a contact. Understand how lead and contact sync filter values affect Marketo sync.
 title: Microsoft Dynamics Sync Filter -Qualify
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/3jC9Y9fpBNjUzjE1Dy7JBuhNlYQpnc7kjF2LxV-hrp4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # [!DNL Microsoft Dynamics] Sync Filter: Qualify {#microsoft-dynamics-sync-filter-qualify}
 

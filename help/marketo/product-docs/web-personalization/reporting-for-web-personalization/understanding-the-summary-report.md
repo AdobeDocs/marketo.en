@@ -1,9 +1,25 @@
 ---
 unique-page-id: 9438258
-description: "Learn about the Summary Report that provides a monthly view of campaign and recommended content performance. Track clicks, direct conversions, assisted conversions, and compare results to previous months."
+description: Learn about the Summary Report that provides a monthly view of campaign and recommended content performance. Track clicks, direct conversions, assisted conversions, and compare results to previous months.
 title: Understanding the Summary Report
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
+TQID: https://experienceleague.adobe.com/wWcxWt1Q3sQHtUhMh1OaFNkLsB-c3MuUfxhwoWbE-to
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Understanding the [!UICONTROL Summary Report] {#understanding-the-summary-report}
 

@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2951056
-description: "Release Notes -September 2013 - Marketo Docs - Product Documentation"
+description: Release Notes -September 2013 - Marketo Docs - Product Documentation
 title: Release Notes -September 2013
 exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 feature: Release Information
+TQID: https://experienceleague.adobe.com/7s-CIVh6O3Xk6UHzBObPRY5qhcr1wYhKor-Uzwg-vq8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
 ---
 # Release Notes: September 2013 {#release-notes-september}
 

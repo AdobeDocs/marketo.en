@@ -1,9 +1,18 @@
 ---
 unique-page-id: 2951117
-description: "Release Notes -May 2012 - Marketo Docs - Product Documentation"
+description: Release Notes -May 2012 - Marketo Docs - Product Documentation
 title: Release Notes -May 2012
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
+TQID: https://experienceleague.adobe.com/GBXVTrpq498UQF0vsVxoK2hhgA5-kHVov2vFLGFw-Ts
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Release Notes: May 2012 {#release-notes-may}
 

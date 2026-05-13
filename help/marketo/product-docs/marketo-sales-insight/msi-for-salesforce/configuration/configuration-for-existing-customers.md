@@ -1,9 +1,19 @@
 ---
 unique-page-id: 42762519
-description: "Learn how to configure Marketo Sales Insight for existing Salesforce customers. Update from older packages or add Actions."
+description: Learn how to configure Marketo Sales Insight for existing Salesforce customers. Update from older packages or add Actions.
 title: Configuration for Existing Customers
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
+TQID: https://experienceleague.adobe.com/kdiRnqpm3kJXIPz2QLQS-AF3f04UIPuOS6c836EXlxo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Configuration for Existing Customers {#configuration-for-existing-customers}
 

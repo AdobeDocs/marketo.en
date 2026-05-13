@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147015
-description: "Learn how to change engagement program stream in a flow step. Move people to a different stream in the engagement program."
+description: Learn how to change engagement program stream in a flow step. Move people to a different stream in the engagement program.
 title: Change Engagement Program Stream
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/JODd03zXlwTRCW-jkoQVPS6Up2Gvtzc-GFmI---1-0M
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Change Engagement Program Stream {#change-engagement-program-stream}
 

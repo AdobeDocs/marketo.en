@@ -1,9 +1,13 @@
 ---
 unique-page-id: 11380734
-description: "Learn how to listen and act on account-level behavioral activities using account triggers. Use Named Account triggers in smart campaigns to engage key accounts."
+description: Learn how to listen and act on account-level behavioral activities using account triggers. Use Named Account triggers in smart campaigns to engage key accounts.
 title: Account Triggers
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/iGJv8QygBcX0NAU-0rjiuPOW3mAyS3xMS98JQqv-Qw0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Account Triggers {#account-triggers}
 

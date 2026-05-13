@@ -1,8 +1,20 @@
 ---
-description: "Learn about priority override for trigger campaigns. Control which campaign runs when multiple triggers fire for the same person."
+description: Learn about priority override for trigger campaigns. Control which campaign runs when multiple triggers fire for the same person.
 title: Priority Override for Trigger Campaigns
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/XEyORsYajQEhtF-bajLFTtbOsSFg-lM9zU4gUyFcmWk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Priority Override for Trigger Campaigns {#priority-override-for-trigger-campaigns}
 

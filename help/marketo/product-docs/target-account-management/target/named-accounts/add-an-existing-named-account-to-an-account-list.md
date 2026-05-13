@@ -1,9 +1,13 @@
 ---
 unique-page-id: 12615798
-description: "Learn how to add an existing named account to an account list. Use Named Account Actions and select Add to Account List with your desired list."
+description: Learn how to add an existing named account to an account list. Use Named Account Actions and select Add to Account List with your desired list.
 title: Add an Existing Named Account to an Account List
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/12lp3121xP2hO8rb4oQSBb1noH6qsw3ZGMVMumabwPM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Add an Existing [!UICONTROL Named Account] to an Account List {#add-an-existing-named-account-to-an-account-list}
 

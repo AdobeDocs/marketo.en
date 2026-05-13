@@ -1,9 +1,13 @@
 ---
 unique-page-id: 11378814
-description: "Learn how to create Account Smart Lists to identify high-value accounts. Define account and matched person filters and use results in campaigns or export."
+description: Learn how to create Account Smart Lists to identify high-value accounts. Define account and matched person filters and use results in campaigns or export.
 title: Account Smart Lists
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/CzJmCUT5TYuVKNOMmSkOjuRc7ImDGOzw7L-Ej45-Evw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Account Smart Lists {#account-smart-lists}
 

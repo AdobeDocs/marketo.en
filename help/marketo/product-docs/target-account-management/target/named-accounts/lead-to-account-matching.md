@@ -1,9 +1,28 @@
 ---
 unique-page-id: 11381156
-description: "Learn about Lead-to-Account Matching and how Marketo matches leads to named accounts in near real-time. Resolve weak matches and trigger on new leads."
+description: Learn about Lead-to-Account Matching and how Marketo matches leads to named accounts in near real-time. Resolve weak matches and trigger on new leads.
 title: Lead to Account Matching
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
+TQID: https://experienceleague.adobe.com/UOnC6liEOBDJ7IbaKhf5lYjNfZgKJEXAYqaHrYLGErc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Lead to Account Matching {#lead-to-account-matching}
 

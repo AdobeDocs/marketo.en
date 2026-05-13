@@ -1,9 +1,32 @@
 ---
 unique-page-id: 12983280
-description: "Release Notes -Fall '17 - Marketo Docs - Product Documentation"
+description: Release Notes -Fall '17 - Marketo Docs - Product Documentation
 title: Release Notes -Fall '17
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
+TQID: https://experienceleague.adobe.com/yCjG-LiVvmTe6Tz18jD39-1TU9D4Qsmwf-YXsM5NegA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+subfeature_v2:
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Release Notes: Fall '17 {#release-notes-fall}
 

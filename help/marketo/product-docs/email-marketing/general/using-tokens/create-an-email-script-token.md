@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1900577
-description: "Learn how to create an email script token. Define custom tokens that output dynamic values in your emails."
+description: Learn how to create an email script token. Define custom tokens that output dynamic values in your emails.
 title: Create an Email Script Token
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
+TQID: https://experienceleague.adobe.com/3FbkNKaOjEX--zXCOC1EHLEVr5ChimEOJTROMY0bHmc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 ---
 # Create an Email Script Token {#create-an-email-script-token}
 

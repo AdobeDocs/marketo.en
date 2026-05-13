@@ -1,8 +1,12 @@
 ---
-description: "Learn how to verify your email address in Sales Insight Actions. Complete verification so you can send tracked sales emails."
+description: Learn how to verify your email address in Sales Insight Actions. Complete verification so you can send tracked sales emails.
 title: Verify Your Email
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/gnaq-fRUM78yr5TheemvKA2um7Pb7yMaqec3Zjeaaag
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Verify Your Email {#verify-your-email}
 

@@ -1,10 +1,16 @@
 ---
-description: "Learn how to add images and files to Marketo Design Studio. Upload, organize, and use assets in campaigns and landing pages."
+description: Learn how to add images and files to Marketo Design Studio. Upload, organize, and use assets in campaigns and landing pages.
 title: New Add Images Doc
 hide: true
-
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
+TQID: https://experienceleague.adobe.com/F4i-VcFV3IX1NG6v0s-qYE5tooll9dsjL407Vypoxow
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
 ---
 # New Add Images Doc {#new-add-images-doc}
 

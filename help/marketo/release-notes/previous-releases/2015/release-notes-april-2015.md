@@ -1,9 +1,23 @@
 ---
 unique-page-id: 7511815
-description: "Release Notes -April 2015 - Marketo Docs - Product Documentation"
+description: Release Notes -April 2015 - Marketo Docs - Product Documentation
 title: Release Notes -April 2015
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
+TQID: https://experienceleague.adobe.com/ic7dYiKiLn9iETyfgyq3Lz28S2-8oOvTnsUHGV7anKw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: c18d9e03-ac7d-4811-9c92-3e92ddc70ade
+    internal-label: Mobile experience
 ---
 # Release Notes: April 2015 {#release-notes-april}
 

@@ -1,9 +1,19 @@
 ---
 unique-page-id: 1146997
-description: "Learn how to use a date token in a wait flow step. Wait until a dynamic date from a token before continuing."
+description: Learn how to use a date token in a wait flow step. Wait until a dynamic date from a token before continuing.
 title: Use a Date Token in a Wait Flow Step
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/b59TeCenvUee5sOw3O4ggclGMEdkhX3RlC31DWh5d08
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
 ---
 # Use a Date Token in a Wait Flow Step {#use-a-date-token-in-a-wait-flow-step}
 

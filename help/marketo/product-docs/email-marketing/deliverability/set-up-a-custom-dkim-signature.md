@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2360219
-description: "Learn how to set up a custom DKIM signature for your domain in Marketo. Add a domain in Admin and work with IT to publish the DNS record."
+description: Learn how to set up a custom DKIM signature for your domain in Marketo. Add a domain in Admin and work with IT to publish the DNS record.
 title: Set up a Custom DKIM Signature
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
+TQID: https://experienceleague.adobe.com/ln23WoloRVzBoC8CXFsm90LqYV5FDJzbII8UItp3xDc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Set up a Custom DKIM Signature {#set-up-a-custom-dkim-signature}
 

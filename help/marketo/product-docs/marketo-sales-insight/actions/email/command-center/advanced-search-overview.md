@@ -1,8 +1,12 @@
 ---
-description: "Learn how to use advanced search in the Command Center to find emails and tasks. Filter by date, sender, status, and other criteria."
+description: Learn how to use advanced search in the Command Center to find emails and tasks. Filter by date, sender, status, and other criteria.
 title: Advanced Search Overview
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Advanced Search Overview {#advanced-search-overview}
 

@@ -1,11 +1,31 @@
 ---
 unique-page-id: 10096583
-description: "FAQ about the next-generation [!DNL Munchkin] tracking rollout and the Is Anonymous filter change."
-title: "Next Generation [!DNL Munchkin] Tracking FAQ"
+description: FAQ about the next-generation [!DNL Munchkin] tracking rollout and the Is Anonymous filter change.
+title: Next Generation [!DNL Munchkin] Tracking FAQ
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
-
+TQID: https://experienceleague.adobe.com/2kPRUe33THDYoIiP-yUDByqcJz5GPHoBnfDzRgwApNk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart Lists
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Next Generation [!DNL Munchkin] Tracking FAQ {#next-generation-munchkin-tracking-faq}
 

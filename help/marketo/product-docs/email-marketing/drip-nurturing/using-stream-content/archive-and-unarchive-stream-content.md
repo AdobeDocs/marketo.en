@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359930
-description: "Learn how to archive or unarchive stream content to preserve history."
+description: Learn how to archive or unarchive stream content to preserve history.
 title: Archive and Unarchive Stream Content
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
+TQID: https://experienceleague.adobe.com/-MFre6oYxQ1kDi3jHv18YDHHXKtuV-CvZicTT5bMuvA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Archive and Unarchive Stream Content {#archive-and-unarchive-stream-content}
 

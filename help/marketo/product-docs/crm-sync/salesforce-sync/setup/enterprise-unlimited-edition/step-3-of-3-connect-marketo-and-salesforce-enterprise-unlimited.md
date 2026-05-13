@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2360366
-description: "Learn how to connect Marketo and Salesforce in the final Enterprise or Unlimited step. Retrieve the sync user security token and set credentials."
+description: Learn how to connect Marketo and Salesforce in the final Enterprise or Unlimited step. Retrieve the sync user security token and set credentials.
 title: Step 3 of 3 -Connect Marketo and Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/BFbrbrL2sDChNgsmSJsTf8gIHb94dz8zg0j01eKqcuw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Step 3 of 3: Connect Marketo and [!DNL Salesforce] (Enterprise/Unlimited) {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
 

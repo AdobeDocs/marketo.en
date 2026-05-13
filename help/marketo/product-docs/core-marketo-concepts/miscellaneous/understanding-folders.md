@@ -1,8 +1,21 @@
 ---
 unique-page-id: 4720779
-description: "Learn about folders inside programs for organizing Smart Campaigns and assets. Create, rename, and delete folders."
+description: Learn about folders inside programs for organizing Smart Campaigns and assets. Create, rename, and delete folders.
 title: Understanding Folders
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
+TQID: https://experienceleague.adobe.com/wAE129LK3Pk-CB5SSQqqSV50ng085soYsm4JHfh0CuI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Understanding Folders {#understanding-folders}
 

@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7503973
-description: "Learn how to customize a Marketing Calendar presentation with views and goals. Set rotation frequency and display what matters most to your team."
+description: Learn how to customize a Marketing Calendar presentation with views and goals. Set rotation frequency and display what matters most to your team.
 title: Customize a Presentation
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
+TQID: https://experienceleague.adobe.com/DDmFzhg3-yRx3ktlHa5TICBSOmG6hlrANlH6tb7FGIY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Customize a Presentation {#customize-a-presentation}
 

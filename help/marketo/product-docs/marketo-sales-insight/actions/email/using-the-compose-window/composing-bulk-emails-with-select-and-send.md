@@ -1,10 +1,16 @@
 ---
-description: "Learn how to compose and send bulk emails with Select and Send. Choose contacts from the People page and send personalized emails at scale."
+description: Learn how to compose and send bulk emails with Select and Send. Choose contacts from the People page and send personalized emails at scale.
 title: Composing Bulk Emails with Select and Send
 hide: true
-
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/-j4w8QfiiQ813G95QHr8MnrBzRRbgOa9K04I2HBaX58
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Composing Bulk Emails with Select and Send {#composing-bulk-emails-with-select-and-send}
 

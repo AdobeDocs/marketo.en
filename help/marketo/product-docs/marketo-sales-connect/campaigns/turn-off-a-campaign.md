@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352609
-description: "Learn how to turn off a Sales Connect campaign when a recipient replies. End campaigns for one person or remove multiple people in bulk from the sent folder."
+description: Learn how to turn off a Sales Connect campaign when a recipient replies. End campaigns for one person or remove multiple people in bulk from the sent folder.
 title: Turn off a Campaign
 exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/cjWi7igx6LLK6QI-tdOhcoq0TUC6mqZ4TMtHzRc7yHk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Turn off a Campaign {#turn-off-a-campaign}
 

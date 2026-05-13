@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2359996
-description: "Learn how to sort report data by columns to highlight the most important figures. Click column headings in the Report tab to select ascending or descending sort order."
+description: Learn how to sort report data by columns to highlight the most important figures. Click column headings in the Report tab to select ascending or descending sort order.
 title: Sort Report on Columns
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
+TQID: https://experienceleague.adobe.com/vIXJn6QaReH3weifulmjrfXETC0BuWeWxw2jEDXG57Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Sort Report on Columns {#sort-report-on-columns}
 

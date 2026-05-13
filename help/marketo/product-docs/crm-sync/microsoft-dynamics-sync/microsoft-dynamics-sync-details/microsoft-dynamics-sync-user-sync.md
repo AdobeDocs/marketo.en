@@ -1,9 +1,16 @@
 ---
 unique-page-id: 3571840
-description: "Learn about how user data syncs from Microsoft Dynamics to Marketo. Understand which owner fields sync and how to use them in Smart Lists and flow actions."
+description: Learn about how user data syncs from Microsoft Dynamics to Marketo. Understand which owner fields sync and how to use them in Smart Lists and flow actions.
 title: Microsoft [!DNL Dynamics] Sync -User Sync
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
+TQID: https://experienceleague.adobe.com/8H1bMdkhxcvyTuYtHHk00GUy4uycuQ1unsGbZ19AjCM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 ---
 # Microsoft [!DNL Dynamics] Sync: User Sync {#microsoft-dynamics-sync-user-sync}
 

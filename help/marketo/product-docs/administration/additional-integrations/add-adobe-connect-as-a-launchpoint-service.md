@@ -1,9 +1,21 @@
 ---
 unique-page-id: 7512270
-description: "Add Adobe Connect as a LaunchPoint service so Marketo manages webinar registration and attendance."
-title: "Add Adobe Connect as a [!DNL LaunchPoint] Service"
+description: Add Adobe Connect as a LaunchPoint service so Marketo manages webinar registration and attendance.
+title: Add Adobe Connect as a [!DNL LaunchPoint] Service
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
+TQID: https://experienceleague.adobe.com/5FY-AYMAy60RGDnuFas2QP1PexqhIMohWh8egyllFNY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Add Adobe Connect as a [!DNL LaunchPoint] Service {#add-adobe-connect-as-a-launchpoint-service}
 

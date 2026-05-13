@@ -1,9 +1,13 @@
 ---
 unique-page-id: 1900575
-description: "Learn how to add an email script token to your email. Insert dynamic content using tokens in the email editor."
+description: Learn how to add an email script token to your email. Insert dynamic content using tokens in the email editor.
 title: Add an Email Script Token to Your Email
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
+TQID: https://experienceleague.adobe.com/IdBf2VW0db6TyqQvthXGcYsz5MaigEBI2c7MsJVhwSM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Add an Email Script Token to Your Email {#add-an-email-script-token-to-your-email}
 

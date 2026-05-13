@@ -1,9 +1,26 @@
 ---
 unique-page-id: 2359496
-description: "Learn how to add tokens, images, files, or rich text to a snippet. Use the snippet editor in Design Studio to add Token, Image/File, and Text elements."
+description: Learn how to add tokens, images, files, or rich text to a snippet. Use the snippet editor in Design Studio to add Token, Image/File, and Text elements.
 title: Add Content to a Snippet
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
+TQID: https://experienceleague.adobe.com/J0v5gFgc-J3CzqvT-9-N3SA3AWVTDhFQZWfoGa104fc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Add Content to a Snippet {#add-content-to-a-snippet}
 

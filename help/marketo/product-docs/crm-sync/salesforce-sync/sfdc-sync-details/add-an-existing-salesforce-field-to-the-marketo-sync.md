@@ -1,9 +1,16 @@
 ---
 unique-page-id: 4719308
-description: "Learn how to add an existing Salesforce field to the Marketo sync. Make the field visible to the sync user in Salesforce so it syncs on the next cycle."
+description: Learn how to add an existing Salesforce field to the Marketo sync. Make the field visible to the sync user in Salesforce so it syncs on the next cycle.
 title: Add an Existing Salesforce Field to the Marketo Sync
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/Vb-1DhNwUPQSPYuCkVzzSDDqWd4tvO-XoPhXn58hj6E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Add an Existing [!DNL Salesforce] Field to the Marketo Sync {#add-an-existing-salesforce-field-to-the-marketo-sync}
 

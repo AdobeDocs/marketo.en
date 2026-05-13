@@ -1,9 +1,21 @@
 ---
 unique-page-id: 12979006
-description: "Learn about Performance Insights that helps optimize channel mix and uncover long-term trends for consistent winning strategies. Analyze contribution, trends, and export data to PowerPoint or Excel."
+description: Learn about Performance Insights that helps optimize channel mix and uncover long-term trends for consistent winning strategies. Analyze contribution, trends, and export data to PowerPoint or Excel.
 title: Performance Insights Overview
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
+TQID: https://experienceleague.adobe.com/FAsjOuq5ZH1WEmEZm2Z9TpQB6W7A9wgHIouafiX1nsM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!UICONTROL Performance Insights] Overview {#performance-insights-overview}
 

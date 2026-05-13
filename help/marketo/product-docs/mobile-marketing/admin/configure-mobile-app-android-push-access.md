@@ -1,9 +1,13 @@
 ---
 unique-page-id: 7512432
-description: "Learn how to configure Android push access for your mobile app. Enter Server API Key and Project Number from your developer in Admin."
+description: Learn how to configure Android push access for your mobile app. Enter Server API Key and Project Number from your developer in Admin.
 title: Configure Mobile App Android Push Access
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
+TQID: https://experienceleague.adobe.com/b810nQX3dwtz2EqjOrPcFsbaJNb5Ti0MLaYHVQ5hqN0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Configure Mobile App Android Push Access {#configure-mobile-app-android-push-access}
 

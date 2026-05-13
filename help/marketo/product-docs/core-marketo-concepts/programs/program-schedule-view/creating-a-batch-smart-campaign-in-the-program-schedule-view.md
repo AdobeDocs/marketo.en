@@ -1,9 +1,18 @@
 ---
 unique-page-id: 1147142
-description: "Learn how to create a batch Smart Campaign from the Program Schedule View. Add and configure a batch campaign entry."
+description: Learn how to create a batch Smart Campaign from the Program Schedule View. Add and configure a batch campaign entry.
 title: Creating a Batch Smart Campaign in the Program Schedule View
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 feature: Programs
+TQID: https://experienceleague.adobe.com/fZmdpUAVhewcc7lyQ0yvp0mi0nR6nL1ADgr-lZvczZk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Creating a Batch Smart Campaign in the Program Schedule View {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 

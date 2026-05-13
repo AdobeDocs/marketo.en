@@ -1,9 +1,16 @@
 ---
 unique-page-id: 8784002
-description: "Learn about the Template 10B guided landing page template. Download and use it for your Marketo landing pages."
+description: Learn about the Template 10B guided landing page template. Download and use it for your Marketo landing pages.
 title: Template 10B
 exl-id: 6c99a6cd-6c6f-45a3-aed0-b7a0c198dffe
 feature: Landing Pages, Guided Landing Page Templates
+TQID: https://experienceleague.adobe.com/NwZx0RzDudEVosz--RGMMh4wmTSYSH0ZHFOCPVUjiBE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Template 10B {#template-10b}
 

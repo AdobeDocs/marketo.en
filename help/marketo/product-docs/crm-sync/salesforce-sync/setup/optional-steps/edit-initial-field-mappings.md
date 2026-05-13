@@ -1,9 +1,13 @@
 ---
 unique-page-id: 4719287
-description: "Learn how to edit initial field mappings before the first Salesforce sync. Map unmapped custom fields or break automatic lead-contact field mappings in Marketo."
+description: Learn how to edit initial field mappings before the first Salesforce sync. Map unmapped custom fields or break automatic lead-contact field mappings in Marketo.
 title: Edit Initial Field Mappings
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
+TQID: https://experienceleague.adobe.com/wqBJIxz5JX1iHb-iE2NuhrbWcUypLEN3dndu36kJNXs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Edit Initial Field Mappings {#edit-initial-field-mappings}
 

@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2360313
-description: "Steps to delete a workspace, including confirming total assets."
+description: Steps to delete a workspace, including confirming total assets.
 title: Delete a Workspace
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 feature: Workspaces
+TQID: https://experienceleague.adobe.com/A30Zy6F34845tAuMU8GHaUWSg-N-td2FnqF-foRmXHc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Delete a Workspace {#delete-a-workspace}
 

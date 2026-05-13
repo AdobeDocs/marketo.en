@@ -1,8 +1,22 @@
 ---
-description: "Learn about Salesforce sync backlog metrics and how to monitor records pending sync. View backlog trend and throughput by object type in Admin and Salesforce."
+description: Learn about Salesforce sync backlog metrics and how to monitor records pending sync. View backlog trend and throughput by object type in Admin and Salesforce.
 title: Salesforce Sync Backlog Metrics
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
+TQID: https://experienceleague.adobe.com/RSYhWjNNh7gQiyEw1ImnHr6q23UpaVWhBll6aziHkJk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Salesforce Sync Backlog Metrics  {#salesforce-sync-backlog-metrics}
 

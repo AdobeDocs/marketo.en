@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147068
-description: "Learn how to filter Smart Campaign results. Narrow the people shown in the campaign results view by criteria."
+description: Learn how to filter Smart Campaign results. Narrow the people shown in the campaign results view by criteria.
 title: Filter Smart Campaign Results
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
+TQID: https://experienceleague.adobe.com/CmDcoG4KLGJMtz-ELWsK4tGBlm2yV10uaWmVpOChNq0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 ---
 # Filter Smart Campaign Results {#filter-smart-campaign-results}
 

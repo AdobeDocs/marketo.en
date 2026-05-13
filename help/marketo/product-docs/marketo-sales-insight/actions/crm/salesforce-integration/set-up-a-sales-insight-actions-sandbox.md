@@ -1,7 +1,11 @@
 ---
-description: "Learn how to set up a Sales Insight Actions sandbox for testing. Request provisioning, activate your instance, and connect to Salesforce Sandbox."
+description: Learn how to set up a Sales Insight Actions sandbox for testing. Request provisioning, activate your instance, and connect to Salesforce Sandbox.
 title: Set up a Sales Insight Actions Sandbox
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
+TQID: https://experienceleague.adobe.com/ZHly-bUFbbQwoOD-rheE4vfLCihBCplRjT0SNibBCc4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Set up a Sales Insight Actions Sandbox {#set-up-a-sales-insight-actions-sandbox}
 

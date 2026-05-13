@@ -1,8 +1,18 @@
 ---
-description: "Learn about Dynamic Chat usage limits and package information. View monthly engaged conversation limits and Calendar or Live Chat seat limits."
+description: Learn about Dynamic Chat usage limits and package information. View monthly engaged conversation limits and Calendar or Live Chat seat limits.
 title: Security Settings
 feature: Dynamic Chat
 exl-id: c3c26319-d819-4a12-a77b-da5d57dc3620
+TQID: https://experienceleague.adobe.com/an8dOoSku13JuFBphrFk9XEwYlkXTP9IYTCq-nmsJFw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # Usage Limits {#usage-limits}
 

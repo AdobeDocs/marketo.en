@@ -1,9 +1,21 @@
 ---
 unique-page-id: 2951054
-description: "Release Notes - October 2013 - Marketo Docs - Product Documentation"
+description: Release Notes - October 2013 - Marketo Docs - Product Documentation
 title: Release Notes - October 2013
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
+TQID: https://experienceleague.adobe.com/lexl-Fibn0yqcT5uf00CnQPBGILwoVYA5k7XzzfCCrs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+subfeature_v2:
+  - id: fc9b09fe-b844-4544-887b-e420c3b82065
+    internal-label: Webhooks
 ---
 # Release Notes: October 2013 {#release-notes-october}
 

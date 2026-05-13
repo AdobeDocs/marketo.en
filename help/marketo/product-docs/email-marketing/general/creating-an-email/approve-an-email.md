@@ -1,9 +1,13 @@
 ---
 unique-page-id: 1147342
-description: "Learn how to approve an email so it can be used in programs. Complete the approval workflow before scheduling or sending."
+description: Learn how to approve an email so it can be used in programs. Complete the approval workflow before scheduling or sending.
 title: Approve an Email
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/qPxju5ob4fktkyD-ISqCMhp9vEM43KdIDABTFubMTUM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Approve an Email {#approve-an-email}
 

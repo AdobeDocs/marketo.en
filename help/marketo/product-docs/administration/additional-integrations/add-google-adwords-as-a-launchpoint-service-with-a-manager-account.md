@@ -1,9 +1,25 @@
 ---
 unique-page-id: 7504893
-description: "Integrate multiple [!DNL Google AdWords] accounts with Marketo using a Manager Account in LaunchPoint."
-title: "Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service with a Manager Account"
+description: Integrate multiple [!DNL Google AdWords] accounts with Marketo using a Manager Account in LaunchPoint.
+title: Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service with a Manager Account
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
+TQID: https://experienceleague.adobe.com/fQYFZRLEULbnvJnYh1Yp9ziGIz1KPYwUPSqeo5Et63Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service with a Manager Account {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 

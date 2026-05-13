@@ -1,9 +1,16 @@
 ---
 unique-page-id: 1147354
-description: "Learn how to make an email operational so it can reach unsubscribed people. Use for transactional or required communications."
+description: Learn how to make an email operational so it can reach unsubscribed people. Use for transactional or required communications.
 title: Make an Email Operational
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
+TQID: https://experienceleague.adobe.com/uJ7mBcoFBTBU29oQxyW8-dan6dbVV4fyo-9vBdn-q5o
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Make an Email Operational {#make-an-email-operational}
 

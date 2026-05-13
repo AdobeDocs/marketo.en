@@ -1,9 +1,19 @@
 ---
 unique-page-id: 2360035
-description: "Learn how to drill down in People Performance reports to see additional person information by selecting a row and choosing an attribute. Explore detailed lead data in a new report tab."
+description: Learn how to drill down in People Performance reports to see additional person information by selecting a row and choosing an attribute. Explore detailed lead data in a new report tab.
 title: Drill Down in a People Performance Report
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
+TQID: https://experienceleague.adobe.com/KmtuvNYHNNIXqyoZOyWHPzqSqtoqO0yh9M7VJ80-j3w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Drill Down in a People Performance Report {#drill-down-in-a-people-performance-report}
 

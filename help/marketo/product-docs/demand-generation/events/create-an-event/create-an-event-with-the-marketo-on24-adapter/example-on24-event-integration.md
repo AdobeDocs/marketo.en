@@ -1,9 +1,13 @@
 ---
 unique-page-id: 10096679
-description: "Learn from an example ON24 event integration with Marketo. See a sample flow from webinar creation to registration sync."
+description: Learn from an example ON24 event integration with Marketo. See a sample flow from webinar creation to registration sync.
 title: Example ON24 Event Integration
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
+TQID: https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Example ON24 Event Integration {#example-on-event-integration}
 

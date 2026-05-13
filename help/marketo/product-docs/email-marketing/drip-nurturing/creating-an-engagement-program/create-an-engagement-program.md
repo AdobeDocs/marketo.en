@@ -1,9 +1,16 @@
 ---
 unique-page-id: 2359652
-description: "Learn how to create an engagement program in Marketo for email nurturing. Choose Engagement as the program type and add streams and content."
+description: Learn how to create an engagement program in Marketo for email nurturing. Choose Engagement as the program type and add streams and content.
 title: Create an Engagement Program
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
+TQID: https://experienceleague.adobe.com/GpU-1BhLyA-LWGaSJZl6cHOzZsFyzylKkoxAuQefE78
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Create an Engagement Program {#create-an-engagement-program}
 

@@ -1,7 +1,24 @@
 ---
-description: "Release Notes - May 2023 - Marketo Docs - Product Documentation"
+description: Release Notes - May 2023 - Marketo Docs - Product Documentation
 title: Release Notes - May 2023
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
+TQID: https://experienceleague.adobe.com/TNFskyWoqMkppTm3glx6nYBwGCEaPZtlPnHBBmqKKCY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: d1956f52-ecfd-4e01-8941-47af238acb0d
+    internal-label: Help center
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Release Notes: May 2023 {#release-notes-may-23}
 

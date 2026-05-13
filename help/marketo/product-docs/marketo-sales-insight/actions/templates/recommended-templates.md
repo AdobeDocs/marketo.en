@@ -1,8 +1,15 @@
 ---
-description: "Learn about recommended templates and best practices. Create effective sales email templates that get engagement."
+description: Learn about recommended templates and best practices. Create effective sales email templates that get engagement.
 title: Recommended Templates
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
+TQID: https://experienceleague.adobe.com/Ir692n-hd8iW-xMIQZRnyyqutltbL3IFhiTDlrCOfzY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 ---
 # Recommended Templates {#recommended-templates}
 

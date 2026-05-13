@@ -1,9 +1,21 @@
 ---
 unique-page-id: 10093192
-description: "Steps to create Marketo custom objects for one-to-many or many-to-many structures, including display name, API name, and Show in Lead Detail."
+description: Steps to create Marketo custom objects for one-to-many or many-to-many structures, including display name, API name, and Show in Lead Detail.
 title: Create Marketo Custom Objects
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
+TQID: https://experienceleague.adobe.com/ORgicNbsK5gDy67zbW7EzMgcpjZr4U2UNENeoWboeO8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Create Marketo Custom Objects {#create-marketo-custom-objects}
 

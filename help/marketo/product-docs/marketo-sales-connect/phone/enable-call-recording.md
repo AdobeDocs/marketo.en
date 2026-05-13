@@ -1,9 +1,13 @@
 ---
 unique-page-id: 45416564
-description: "Learn how to enable call recording in Sales Connect. Turn on recording for Sales Phone and comply with two-party consent."
+description: Learn how to enable call recording in Sales Connect. Turn on recording for Sales Phone and comply with two-party consent.
 title: Enable Call Recording
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/KTDxGB6MI-Dmpt79zcajHuBrNSBczlKw9ascb7id-1Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Enable Call Recording {#enable-call-recording}
 

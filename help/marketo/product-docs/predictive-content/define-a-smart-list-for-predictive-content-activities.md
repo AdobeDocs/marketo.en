@@ -1,9 +1,19 @@
 ---
 unique-page-id: 10097873
-description: "Learn how to define smart lists with predictive content activities for rich media, the recommendation bar, and email. Trigger campaigns and filter people who click recommended content."
+description: Learn how to define smart lists with predictive content activities for rich media, the recommendation bar, and email. Trigger campaigns and filter people who click recommended content.
 title: Define a Smart List for Predictive Content Activities
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
+TQID: https://experienceleague.adobe.com/NX57nK4saXA9cBIvRvnmRneaCtcz45B4ta8ZcBp6F4k
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Define a Smart List for Predictive Content Activities {#define-a-smart-list-for-predictive-content-activities}
 

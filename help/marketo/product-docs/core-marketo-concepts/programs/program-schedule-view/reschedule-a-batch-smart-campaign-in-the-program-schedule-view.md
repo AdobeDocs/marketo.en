@@ -1,9 +1,18 @@
 ---
 unique-page-id: 7514985
-description: "Learn how to reschedule a batch Smart Campaign in the Program Schedule View. Change when a batch campaign runs."
+description: Learn how to reschedule a batch Smart Campaign in the Program Schedule View. Change when a batch campaign runs.
 title: Reschedule a Batch Smart Campaign in the Program Schedule View
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
+TQID: https://experienceleague.adobe.com/4cfOTR-ds-83B7DQBiPFJCAMp7uq-hCqtR2Bf4NoQcM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 ---
 # Reschedule a Batch Smart Campaign in the Program Schedule View {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 

@@ -1,9 +1,13 @@
 ---
 unique-page-id: 14352613
-description: "Learn how to add people to a Sales Connect campaign from the web app, People page, or Gmail and Outlook. Preview, edit, and schedule the first email step."
+description: Learn how to add people to a Sales Connect campaign from the web app, People page, or Gmail and Outlook. Preview, edit, and schedule the first email step.
 title: Add People to your Campaign
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 feature: Marketo Sales Connect
+TQID: https://experienceleague.adobe.com/B8bUpUpnVRSEtdGX5sMP4o0-wmFj8gJOiBJPXYfuLEs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Add People to your Campaign {#add-people-to-your-campaign}
 
