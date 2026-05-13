@@ -18,8 +18,6 @@ Product knowledge gives you on-demand access to Marketo expertise without leavin
 
 ## Use cases {#use-cases}
 
-Below are some examples of what you can use Marketo AI's Product Knowledge for.
-
 **Troubleshooting a smart campaign**: A marketing ops specialist can't figure out why people aren't flowing through a smart campaign trigger. They ask: "Why would a trigger campaign not fire even when people meet the filter criteria?" Marketo AI walks through the most common causes: campaign isn't activated, the trigger event isn't occurring, the person already ran through the campaign and qualification rules are blocking re-entry.
 
 **Choosing between batch and trigger campaigns**: A demand gen manager is unsure which type of smart campaign to use for a time-sensitive alert. They ask: "What's the difference between a batch campaign and a trigger campaign, and when should I use each?" Marketo AI explains the distinction and recommends triggers for real-time, event-driven actions (like MQL alerts) and batch campaigns for scheduled sends to a defined list.
@@ -28,7 +26,7 @@ Below are some examples of what you can use Marketo AI's Product Knowledge for.
 
 ## Things to note {#things-to-note}
 
-* **Product Knowledge is best for general Marketo questions and best practices**: It does not have access to your specific instance data.
+* **Product Knowledge is best for general Marketo questions and best practices**: It does not have access to your specific subscription data.
 * **Use specific agents when available**: For questions about why a person/lead or campaign behaved a certain way, use _Lead Investigation_ or _Program QA_ instead.
 * **Marketo AI's knowledge reflects Adobe's documented guidance and best practices**: For very recent feature releases, check the Adobe Marketo Engage release notes directly.
 * **The more specific your question, the more useful the answer**: "How does person/lead scoring work?" will get a broader answer than "Should I score a pricing page visit at 10 or 15 points?"
