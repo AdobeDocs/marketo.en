@@ -32,8 +32,8 @@ Analytics lets you have a conversation about your Marketo performance data. Ask 
 
 ## Things to note {#things-to-note}
 
-* **Analytics answers are based on the data available in your Marketo instance**: If a program isn't tracked or a metric isn't captured, Marketo AI won't be able to report on it.
-* **Very large date ranges or broad questions may return high-level summaries rather than granular detail**: For example, "How did all my programs perform over the last two years?"
-* **Marketo AI can surface data but cannot make changes** to your programs or reports based on what it finds.
-* **For detailed custom reporting with specific filters and breakdowns**, the Marketo built-in reporting tools or a BI integration may be more appropriate.
-* **Attribution across multi-touch campaigns requires proper program setup**: Marketo AI will report on what's tracked, not infer attribution that wasn't configured.
+* Analytics answers are based on the data available in your Marketo instance. If a program isn't tracked or a metric isn't captured, Marketo AI won't be able to report on it.
+* Very large date ranges or broad questions may return high-level summaries rather than granular detail. For example, "How did all my programs perform over the last two years?"
+* Marketo AI can surface data but cannot make changes to your programs or reports based on what it finds.
+* For detailed custom reporting with specific filters and breakdowns, the Marketo built-in reporting tools or a BI integration may be more appropriate.
+* Attribution across multi-touch campaigns requires proper program setup. Marketo AI will report on what's tracked, not infer attribution that wasn't configured.

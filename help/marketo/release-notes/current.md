@@ -53,6 +53,17 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
+   <td><strong>Email Designer - Editable HTML components in Fragments</strong>: Within visual fragments, editable fields are supported on image, text, and button components through the component property panel. For HTML components, editable fields are configured differently, using a variable-based syntax inside the source code of the HTML component itself.
+   </td>
+   <td>Released</i></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Editable HTML components in fragments</a></td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
    <td><strong>Email Designer - Quick Actions</strong>: <i>Parity with the old email editor</i>. Quick actions are now available for all Email Designer assets (emails, email templates, fragments). Supported quick actions include: Duplicate, Delete, Move, Create/Edit Draft.
    </td>
    <td>Released</i></td>

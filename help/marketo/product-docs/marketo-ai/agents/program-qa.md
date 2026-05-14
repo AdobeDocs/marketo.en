@@ -10,7 +10,7 @@ Audit your programs for best practices across all components, such as emails, la
 
 >[!NOTE]
 >
->This feature is in open beta and is currently in a phased rollout over the next few months. You will know when it is been enabled for your subscription when you see a _Build with AI_ tile on your My Marketo screen.
+>This feature is in open beta and is currently in a phased rollout over the next few months. You will know when it has been enabled for your subscription when you see a _Build with AI_ tile on your My Marketo screen.
 
 ## How to use {#how-to-use}
 
@@ -28,15 +28,15 @@ Audit your programs for best practices across all components, such as emails, la
 
    ![](assets/program-qa-3.png){width="800" zoomable="yes"}
 
-   A summary of the program appears in the center pane, providing an overview of the program.
+   A summary of the selected program appears in the center pane.
 
    ![](assets/program-qa-4.png){width="450" zoomable="yes"}
 
-1. In the prompt window, enter "QA program" and click **Send**. 
+1. In the prompt window, enter "QA program" and click **Send**.
 
    ![](assets/program-qa-5.png)
 
-   The AI Assistant provides a QA of the program selected showing you what passed and what failed.
+   The AI Assistant provides a QA of the selected program, showing you what passed and what failed.
 
    ![](assets/program-qa-6.png)
 

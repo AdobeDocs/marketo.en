@@ -26,7 +26,7 @@ Product knowledge gives you on-demand access to Marketo expertise without leavin
 
 ## Things to note {#things-to-note}
 
-* **Product Knowledge is best for general Marketo questions and best practices**: It does not have access to your specific subscription data.
-* **Use specific agents when available**: For questions about why a person/lead or campaign behaved a certain way, use _Lead Investigation_ or _Program QA_ instead.
-* **Marketo AI's knowledge reflects Adobe's documented guidance and best practices**: For very recent feature releases, check the Adobe Marketo Engage release notes directly.
-* **The more specific your question, the more useful the answer**: "How does person/lead scoring work?" will get a broader answer than "Should I score a pricing page visit at 10 or 15 points?"
+* Product Knowledge is best for general Marketo questions and best practices. It does not have access to your specific subscription data.
+* Use specific agents when available. For questions about why a person/lead or campaign behaved a certain way, use _Lead Investigation_ or _Program QA_ instead.
+* Marketo AI's knowledge reflects Adobe's documented guidance and best practices. For very recent feature releases, check the Adobe Marketo Engage release notes directly.
+* The more specific your question, the more useful the answer. "How does person/lead scoring work?" will get a broader answer than "Should I score a pricing page visit at 10 or 15 points?"
