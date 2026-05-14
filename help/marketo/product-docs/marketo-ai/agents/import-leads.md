@@ -10,7 +10,7 @@ Import and deduplicate lead lists into your Marketo Engage database with field m
 
 >[!NOTE]
 >
->This feature is in open beta and is currently in a phased rollout over the next few months. You will know when it is been enabled for your subscription when you see a _Build with AI_ tile on your My Marketo screen.
+>This feature is in open beta and is currently in a phased rollout over the next few months. You will know when it has been enabled for your subscription when you see a _Build with AI_ tile on your My Marketo screen.
 
 ## How to use {#how-to-use}
 
@@ -22,7 +22,7 @@ Import and deduplicate lead lists into your Marketo Engage database with field m
 
    ![](assets/import-leads-2.png)
 
-   You are taken to the conversational AI screen. In the left pane, the Agent posts guidance, responses, and options for what data normalization features to run.
+   You are taken to the conversational AI screen. The left pane displays guidance, responses, and available data normalization options.
 
    ![](assets/import-leads-3.png)
 
@@ -30,7 +30,7 @@ Import and deduplicate lead lists into your Marketo Engage database with field m
 
    ![](assets/import-leads-4.png)
 
-1. Type _Import list_ and click **Send**.
+1. Type "Import list" and click **Send**.
 
    ![](assets/import-leads-5.png)
 
@@ -38,7 +38,7 @@ Import and deduplicate lead lists into your Marketo Engage database with field m
 
    ![](assets/import-leads-6.png)
 
-1. Enter a desired business rule and click **Send**. 
+1. Enter a desired business rule and click **Send**.
 
    ![](assets/import-leads-7.png)
 
@@ -56,8 +56,8 @@ Import and deduplicate lead lists into your Marketo Engage database with field m
 
 1. When ready to import your list, click the **Import to Marketo** tab.
 
-1. Select the destination folder and enter a name. Check each consent box and click **Approve & Import to Marketo**. 
+1. Select the destination folder and enter a name. Check each consent box and click **Approve & Import to Marketo**.
 
    ![](assets/import-leads-10.png)
 
-When the import is done, verification is provided with a summary of leads processed, rows failed, and any warnings.
+When the import is done, a verification summary appears showing leads processed, rows failed, and any warnings.

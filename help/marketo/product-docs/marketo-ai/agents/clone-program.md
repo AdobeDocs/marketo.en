@@ -37,8 +37,8 @@ The Clone program agent copies a working program, including its smart campaigns,
 
 ## Things to note {#things-to-note}
 
-* **Cloned programs are created in a deactivated state**: Nothing goes live until you activate the smart campaigns.
-* **Email assets in the clone are copies, not shared with the original**: Changes to the clone's emails won't affect the source program.
-* **Tokens used in the source program are copied into the clone**: However, they must still be updated with new values (dates, URLs, event names).
-* **Smart campaign filters in the clone reference the same lists and fields as the original**: Review and update audience targeting before activating.
-* **Local assets referencing other programs or shared lists are copied into the clone**: Those references should be reviewed before activating.
+* Cloned programs are created in a deactivated state. Nothing goes live until you activate the smart campaigns.
+* Email assets in the clone are copies, not shared with the original. Changes to the clone's emails won't affect the source program.
+* Tokens used in the source program are copied into the clone. However, they must still be updated with new values (dates, URLs, event names).
+* Smart campaign filters in the clone reference the same lists and fields as the original. Review and update audience targeting before activating.
+* Local assets referencing other programs or shared lists are copied into the clone. Those references should be reviewed before activating.
