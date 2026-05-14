@@ -62,6 +62,7 @@ feature-set: Marketo Engage
       + {hide-from-toc} [Analytics](product-docs/marketo-ai/agents/analytics.md)
       + {hide-from-toc} [Create program](product-docs/marketo-ai/agents/create-program.md)
       + {hide-from-toc} [Clone program](product-docs/marketo-ai/agents/clone-program.md)
+      + {hide-from-toc} [Investigate lead](product-docs/marketo-ai/agents/investigate-lead.md)
       + [Import leads](product-docs/marketo-ai/agents/import-leads.md)
       + [Program QA](product-docs/marketo-ai/agents/program-qa.md)
   + Additional Apps {#additional-apps}
