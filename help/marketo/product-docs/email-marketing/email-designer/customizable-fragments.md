@@ -40,7 +40,7 @@ To make portions of a visual fragment editable, follow these steps:
 
 >[!NOTE]
 >
->Editable fields can be added to **image**, **text** and **button** components. For **HTML** components, editable fields are added using the personalization editor, similar to expression fragments. [Learn how to add editable fields in HTML components and expression fragments](#expression)
+>Editable fields can be added to **image**, **text** and **button** components. For **HTML** components, editable fields are added using the personalization editor, similar to expression fragments. [Learn about editable fields in HTML components in fragments](#editable-html)
 
 1. Open the fragment content edition screen.
 
@@ -64,7 +64,7 @@ To make portions of a visual fragment editable, follow these steps:
 
 After adding the fragment to an email, users can customize all the editable fields configured in the fragment.
 
-## Add editable fields to HTML components and expression fragments {#expression}
+## Editable HTML components in fragments {#editable-html}
 
 Within an HTML component, the following types of elements can be made editable:
 
