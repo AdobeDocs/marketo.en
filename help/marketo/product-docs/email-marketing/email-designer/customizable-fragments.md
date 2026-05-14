@@ -191,8 +191,8 @@ After publishing the fragment, an email author can override any of these values 
 
 In this example:
 
-- `bgColor` is referenced twice: once for the table background color and once for the CTA text color. Both references resolve to the same value, so a single edit propagates to both locations.
-- `ctaUrl` is declared with `assetType="url"`, which signals that the value should be processed as a tracked URL.
+* `bgColor` is referenced twice: once for the table background color and once for the CTA text color. Both references resolve to the same value, so a single edit propagates to both locations.
+* `ctaUrl` is declared with `assetType="url"`, which signals that the value should be processed as a tracked URL.
 
 ## Best practices {#best-practices}
 
