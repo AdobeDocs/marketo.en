@@ -8,9 +8,13 @@ exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
 
 Import and deduplicate lead lists into your Marketo Engage database with field mapping assistance.
 
+>[!PREREQUISITES]
+>
+>To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
+
 >[!NOTE]
 >
->This feature is in open beta and is currently in a phased rollout over the next few months. You will know when it has been enabled for your subscription when you see a _Build with AI_ tile on your My Marketo screen.
+>This feature is in closed beta and is currently in a phased rollout over the next few months. You will know when it has been enabled for your subscription when you see a _Build with AI_ tile on your My Marketo screen.
 
 ## How to use {#how-to-use}
 

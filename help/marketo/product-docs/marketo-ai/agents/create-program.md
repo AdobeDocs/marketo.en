@@ -10,7 +10,9 @@ Describe a marketing campaign in plain language and Marketo AI will build the pr
 
 >[!PREREQUISITES]
 >
->You must have permission to create programs in your Marketo account.
+>* To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
+>
+>* You must have permission to create programs in your Marketo account.
 
 ## How to use {#how-to-use}
 

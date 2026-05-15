@@ -8,6 +8,10 @@ hide: true
 
 Product knowledge gives you on-demand access to Marketo expertise without leaving the platform. Ask a question in plain language and Marketo AI draws on Adobe's official documentation to answer it.
 
+>[!PREREQUISITES]
+>
+>To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
+
 ## How to use {#how-to-use}
 
 1. In your My Marketo, click the **Build with AI** tile.

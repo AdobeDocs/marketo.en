@@ -10,7 +10,10 @@ The Clone program agent copies a working program, including its smart campaigns,
 
 >[!PREREQUISITES]
 >
+>* To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
+>
 >* You must have permission to create programs in the destination folder.
+>
 >* The source program you want to clone must already exist in your Marketo environment.
 
 ## How to use {#how-to-use}
