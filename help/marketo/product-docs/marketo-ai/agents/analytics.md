@@ -10,7 +10,9 @@ Analytics lets you have a conversation about your Marketo performance data. Ask 
 
 >[!PREREQUISITES]
 >
->You must have access to the programs and reports you are inquiring about.
+>* To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
+>
+>* You must have access to the programs and reports you are inquiring about.
 
 ## How to use {#how-to-use}
 
