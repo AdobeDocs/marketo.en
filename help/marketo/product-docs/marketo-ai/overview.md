@@ -1,5 +1,5 @@
 ---
-description: "Explore the Marketo Engage AI suite of agents designed to automate marketing tasks like program QA, lead import, data normalization, and more."
+description: Explore the Marketo Engage AI suite of agents designed to automate marketing tasks like program QA, lead import, data normalization, and more.
 title: Marketo Engage AI Overview
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
@@ -12,7 +12,7 @@ Marketo Engage AI provides agents designed to automate time-consuming but import
 >
 >To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
 >This feature is in closed beta and is currently in a phased rollout over the next few months. You will know when it has been enabled for your subscription when you see the _Build with AI_ tile on your My Marketo screen.
 

@@ -1,7 +1,7 @@
 ---
 description: The Investigate lead agent answers the questions marketers ask most often. It's faster and more reliable than manually digging through activity logs, smart campaign history, and scoring records.
 title: Investigate lead
-beta: yes
+badge: Beta
 hide: true
 hidefromtoc: yes
 ---
@@ -14,6 +14,10 @@ Find out why a specific person/lead didn't reach a milestone (like MQL, program 
 >* To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
 >
 >* You must have view access to the lead record and the program or milestone you're investigating.
+
+>[!AVAILABILITY]
+>
+>This feature is in closed beta and is currently in a phased rollout over the next few months. You will know when it has been enabled for your subscription when you see the _Build with AI_ tile on your My Marketo screen.
 
 ## How to use {#how-to-use}
 

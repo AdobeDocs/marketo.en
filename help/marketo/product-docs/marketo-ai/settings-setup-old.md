@@ -1,8 +1,7 @@
 ---
-description: "Learn how to enable Marketo AI permissions, configure organizational rules, and manage settings like integrations and notifications."
+description: Learn how to enable Marketo AI permissions, configure organizational rules, and manage settings like integrations and notifications.
 title: Settings and Setup
-hide: true
-
+badge: Beta
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
 ---
 # Settings and setup {#settings-setup}
@@ -13,7 +12,7 @@ Learn how to enable permissions and use the Settings area to view connection det
 
 >[!IMPORTANT]
 >
->In the Alpha phase of Marketo AI, _access is enabled by default_ for the following roles: Admin, Adobe Product Admin, Marketing User, Standard User. So instead of turning it on for roles you want to have access, you must turn it off for roles you don't.
+>In the beta phase of Marketo AI, _access is enabled by default_ for the following roles: Admin and Adobe Product Admin. You must enable it for any other roles you want to have access.
 
 ### Access for all {#access-for-all}
 

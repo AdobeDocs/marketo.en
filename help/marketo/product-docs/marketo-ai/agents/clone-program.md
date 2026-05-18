@@ -1,7 +1,7 @@
 ---
 description: Clone program duplicates an existing Marketo program into a new folder with a new name, preserving its structure while letting you customize the new campaign.
 title: Clone program
-beta: yes
+badge: Beta
 hide: true
 ---
 # Clone program {#clone-program}
@@ -15,6 +15,10 @@ The Clone program agent copies a working program, including its smart campaigns,
 >* You must have permission to create programs in the destination folder.
 >
 >* The source program you want to clone must already exist in your Marketo environment.
+
+>[!AVAILABILITY]
+>
+>This feature is in closed beta and is currently in a phased rollout over the next few months. You will know when it has been enabled for your subscription when you see the _Build with AI_ tile on your My Marketo screen.
 
 ## How to use {#how-to-use}
 

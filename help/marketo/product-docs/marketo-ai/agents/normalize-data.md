@@ -1,7 +1,7 @@
 ---
 description: Coming soon
 title: Normalize data
-beta: yes
+badge: Beta
 hide: true
 ---
 # Normalize data {#normalize-data}

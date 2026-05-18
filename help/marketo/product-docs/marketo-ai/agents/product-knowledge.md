@@ -1,7 +1,7 @@
 ---
 description: Use Product knowledge to ask Marketo AI about Marketo Engage features, best practices, and how-tos. Answers are grounded in Adobe's official documentation.
 title: Product knowledge
-beta: yes
+badge: Beta
 hide: true
 ---
 # Product knowledge {#product-knowledge}
@@ -11,6 +11,10 @@ Product knowledge gives you on-demand access to Marketo expertise without leavin
 >[!PREREQUISITES]
 >
 >To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
+
+>[!AVAILABILITY]
+>
+>This feature is in closed beta and is currently in a phased rollout over the next few months. You will know when it has been enabled for your subscription when you see the _Build with AI_ tile on your My Marketo screen.
 
 ## How to use {#how-to-use}
 
