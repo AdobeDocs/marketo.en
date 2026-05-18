@@ -42,5 +42,3 @@ The impacts below require no action on your part.
 ## Updates and support
 
 For the latest updates, bookmark this page. If you have any questions, contact Adobe Support via the Support portal in the Admin Console or [Experience League](https://experienceleague.adobe.com/en/support).
-
-TO ADD: POD/DATA CENTER DETAILS
