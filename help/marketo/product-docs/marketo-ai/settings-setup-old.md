@@ -13,7 +13,7 @@ Learn how to enable permissions and use the Settings area to view connection det
 
 >[!IMPORTANT]
 >
->In the Alpha phase of Marketo AI, _access is enabled by default_ for the following roles: Admin, Adobe Product Admin, Marketing User, Standard User. So instead of turning it on for roles you want to have access, you must turn it off for roles you don't.
+>In the beta phase of Marketo AI, _access is enabled by default_ for the following roles: Admin, Adobe Product Admin, Marketing User, Standard User. So instead of turning it on for roles you want to have access, you must turn it off for roles you don't.
 
 ### Access for all {#access-for-all}
 

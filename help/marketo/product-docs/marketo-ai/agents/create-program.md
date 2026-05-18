@@ -1,7 +1,7 @@
 ---
 description: Use Marketo AI to build a Marketo program from a plain-language brief. Get smart campaigns, scheduling, and asset placeholders ready to review and refine.
 title: Create program
-beta: yes
+badge: Beta
 hide: true
 ---
 # Create program {#create-program}
@@ -13,6 +13,10 @@ Describe a marketing campaign in plain language and Marketo AI will build the pr
 >* To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
 >
 >* You must have permission to create programs in your Marketo account.
+
+>[!AVAILABILITY]
+>
+>This feature is in closed beta and is currently in a phased rollout over the next few months. You will know when it has been enabled for your subscription when you see the _Build with AI_ tile on your My Marketo screen.
 
 ## How to use {#how-to-use}
 

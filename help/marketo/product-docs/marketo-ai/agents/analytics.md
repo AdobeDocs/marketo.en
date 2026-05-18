@@ -1,7 +1,7 @@
 ---
 description: Have a conversation with Marketo AI about your Marketo Engage performance data. Ask questions in plain language and get answers grounded in your Marketo environment.
 title: Analytics
-beta: yes
+badge: Beta
 hide: true
 ---
 # Analytics {#analytics}
@@ -13,6 +13,10 @@ Analytics lets you have a conversation about your Marketo performance data. Ask 
 >* To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
 >
 >* You must have access to the programs and reports you are inquiring about.
+
+>[!AVAILABILITY]
+>
+>This feature is in closed beta and is currently in a phased rollout over the next few months. You will know when it has been enabled for your subscription when you see the _Build with AI_ tile on your My Marketo screen.
 
 ## How to use {#how-to-use}
 
