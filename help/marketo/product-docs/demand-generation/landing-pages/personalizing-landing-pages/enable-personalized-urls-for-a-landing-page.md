@@ -11,7 +11,7 @@ product_v2:
 ---
 # Enable Personalized URLs for a Landing Page {#enable-personalized-urls-for-a-landing-page}
 
-Personalized URLs are great for print mail campaigns.
+Personalized URLs work well for print mail campaigns.
 
 >[!PREREQUISITES]
 >
@@ -25,4 +25,4 @@ Personalized URLs are great for print mail campaigns.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
-Great! Now you have enabled Personalized URLs for your landing page. Visitors who use that URL will be recognized and tokens will work properly.
+You have enabled Personalized URLs for your landing page. Visitors who use that URL will be recognized and tokens will work properly.

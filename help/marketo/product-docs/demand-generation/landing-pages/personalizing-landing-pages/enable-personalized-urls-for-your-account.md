@@ -11,7 +11,7 @@ product_v2:
 ---
 # Enable Personalized URLs for Your Account {#enable-personalized-urls-for-your-account}
 
-Personalized URLs are great for print mail campaigns.
+Personalized URLs work well for print mail campaigns.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Personalized URLs are great for print mail campaigns.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
-Great job! Now that you have enabled PURLs for your account, you can enable it for individual landing pages.
+You have enabled PURLs for your account. You can now enable them for individual landing pages.
 
 >[!NOTE]
 >

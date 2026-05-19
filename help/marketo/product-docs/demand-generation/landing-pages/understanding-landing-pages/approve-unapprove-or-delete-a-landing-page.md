@@ -23,7 +23,7 @@ Landing Pages are in draft mode until you approve them. Approval makes pages ava
 
 ## Approve a Landing Page {#approve-a-landing-page}
 
-1. Select the desired Landing Page and click and click **[!UICONTROL Approve draft]**.
+1. Select the desired Landing Page and click **[!UICONTROL Approve draft]**.
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-1.png)
 

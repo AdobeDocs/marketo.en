@@ -32,7 +32,7 @@ You can add custom scripts, CSS, or other HTML to landing pages.
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 
-Nice! Put any scripts or CSS you want in there.
+You can add any scripts or CSS to the HTML element.
 
 >[!TIP]
 >

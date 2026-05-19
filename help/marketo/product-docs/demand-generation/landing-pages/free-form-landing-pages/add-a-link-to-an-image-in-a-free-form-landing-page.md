@@ -11,13 +11,13 @@ product_v2:
 ---
 # Add a Link to an Image in a Free-Form Landing Page {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
-Want to make an image on your landing page a link to another page/site? Here's how.
+To make an image on your landing page a clickable link, follow the steps below.
 
 >[!PREREQUISITES]
 >
 >[Add an Image to a Free-Form Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
-1. Click the image you'd like to add a link to.
+1. Click the image you would like to add a link to.
 
    ![](assets/click-on-image.png)
 
@@ -29,8 +29,8 @@ Want to make an image on your landing page a link to another page/site? Here's h
 
    ![](assets/add-link.png)
 
-   Congratulations! You've now successfully added a link to an image on your landing page. You can now [preview the page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) to see it in action.
+   You have successfully added a link to an image on your landing page. You can now [preview the page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) to see it in action.
 
 >[!TIP]
 >
->Always test your pages!
+>Always test your pages.

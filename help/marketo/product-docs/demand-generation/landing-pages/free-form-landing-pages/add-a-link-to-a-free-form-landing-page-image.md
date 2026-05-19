@@ -19,14 +19,14 @@ product_v2:
 >
 >This only applies to free-form landing pages.
 
-1. Select the image you added to your landing page and expand the **[!UICONTROL Property Sheet].**
+1. Select the image you added to your landing page and expand the **[!UICONTROL Property Sheet]**.
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Type your mailto link in the **[!UICONTROL linkUrl].**
+1. Type your mailto link in the **[!UICONTROL linkUrl]**.
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
-   Great work! You now have an image as a mailto link on your Marketo landing page.
+   You now have an image as a mailto link on your Marketo landing page.
 
    ![](assets/image2014-9-18-15-3a29-3a38.png)

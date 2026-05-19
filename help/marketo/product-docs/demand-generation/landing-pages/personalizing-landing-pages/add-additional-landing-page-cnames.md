@@ -59,7 +59,7 @@ You may want to add landing page CNAMEs to allow different URLs to point to your
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Enter your **[!UICONTROL Domain Alias].** The **[!UICONTROL Default Page]** is displayed if the visitor does not put in a URL. Enter where they should go in that case.
+1. Enter your **[!UICONTROL Domain Alias]**. The **[!UICONTROL Default Page]** is displayed if the visitor does not put in a URL. Enter where they should go in that case.
 
    >[!NOTE]
    >
@@ -71,4 +71,4 @@ You may want to add landing page CNAMEs to allow different URLs to point to your
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 
-Nice! Now you know what to do if you ever want to add a CNAME.
+You now know how to add a CNAME to your landing pages.

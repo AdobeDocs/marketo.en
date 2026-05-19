@@ -11,7 +11,7 @@ product_v2:
 ---
 # Redirect a URL Path {#redirect-a-url-path}
 
-Marketo makes it easy to redirect a URL path to any page you choose. Here's how.
+Marketo makes it easy to redirect a URL path to any page you choose.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Marketo makes it easy to redirect a URL path to any page you choose. Here's how.
 
    You can [use Marketo landing pages](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) as the destination too.
 
-Congratulations! You've successfully redirected your URL path.
+Your URL path has been successfully redirected.
 
 >[!MORELIKETHIS]
 >

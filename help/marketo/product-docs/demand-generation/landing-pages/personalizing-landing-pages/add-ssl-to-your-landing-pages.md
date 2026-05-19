@@ -62,7 +62,7 @@ Follow the steps below to enable SSL for your default domain.
 >
 >It can take up to three minutes for the SSL to be in the READY state. Refresh the page for the changes to appear.
 
-## Edit SSLs to existing domains aliases
+## Edit SSLs to existing domains aliases {#edit-ssl-existing-domain}
 
 Follow these steps to enable SSL for your existing domain aliases.
 
@@ -120,10 +120,10 @@ Below you'll find error messages you may receive along with their definitions.
 
 ## Things to Note {#things-to-note}
 
-* **DNS mapping for domain to Marketo Engage**: Before adding adding domains in the UI, you must [map CNAMEs to a Marketo-provided domain](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **DNS mapping for domain to Marketo Engage**: Before adding domains in the UI, you must [map CNAMEs to a Marketo-provided domain](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **Custom SSLs**: If you need a custom SSL, please submit a [Support ticket](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Do not use the self-service checkbox for SSL creation.
 
-* **Pre-existing SSLs**: While adding a domain, the system checks for pre-existing SSLs, which may have been manually created prior. If you encounter this validation, create your domain without selecting SSL creation, and we will connect them for you. [Contact Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} more additional details/options.
+* **Pre-existing SSLs**: While adding a domain, the system checks for pre-existing SSLs, which may have been manually created prior. If you encounter this validation, create your domain without selecting SSL creation, and we will connect them for you. [Contact Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} for additional details or options.
 
 * **Deletion of domains**: Automatically deleting a domain **does not** delete the SSL certificate. This guardrail prevents user errors that result in a website being without SSL certificates. If you do want to remove the SSL certificates, [contact Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.

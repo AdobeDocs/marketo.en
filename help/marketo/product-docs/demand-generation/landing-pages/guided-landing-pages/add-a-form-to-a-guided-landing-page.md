@@ -11,8 +11,6 @@ product_v2:
 ---
 # Add a Form to a Guided Landing Page {#add-a-form-to-a-guided-landing-page}
 
-Form, meet landing page. Landing page, meet form.
-
 >[!PREREQUISITES]
 >
 >[Create a Guided Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
@@ -47,12 +45,10 @@ Form, meet landing page. Landing page, meet form.
    >
    >The follow-up page is the page people will see after they submit the form.
 
-1. In this example we'll use [!UICONTROL Form Defined]. Click **[!UICONTROL Insert]**.
+1. In this example, select [!UICONTROL Form Defined]. Click **[!UICONTROL Insert]**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
-   Nicely done!
-
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Now just close the landing page editor and [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Close the landing page editor and [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

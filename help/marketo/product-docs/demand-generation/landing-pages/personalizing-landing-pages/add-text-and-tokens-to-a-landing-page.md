@@ -33,7 +33,7 @@ product_v2:
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
-Now that you know how to add text to a landing page, let's work on adding a token.
+Now that you know how to add text to a landing page, the next section covers adding a token.
 
 ## Add a Token to Your Landing Page {#add-a-token-to-your-landing-page}
 
@@ -41,7 +41,7 @@ Tokens are dynamic bits of text that can personalize your landing page.
 
 >[!TIP]
 >
->Things like First Name come from the person record. Other tokens come from the My Tokens tab in the program.
+>Values such as First Name come from the person record. Other tokens come from the My Tokens tab in the program.
 
 1. Select your landing page and click **[!UICONTROL Edit Draft]**.
 
@@ -71,4 +71,4 @@ Tokens are dynamic bits of text that can personalize your landing page.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
-   Mission Completed! You now have a token on your landing page.
+   You now have a token on your landing page.

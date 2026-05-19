@@ -32,4 +32,4 @@ The URL Builder helps you construct URLs that can populate Marketo hidden form f
    >
    >If you do not see any fields available in the builder, ensure that your form has hidden fields and that they are [set to accept URL Parameters](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
 
-Great work! You can now copy and paste the URL and use it on the web.
+You can now copy and paste the URL and use it on the web.

@@ -36,7 +36,7 @@ Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads f
 
    ![](assets/set-up-linkedin-lead-gen-forms-2.png)
 
-1. Enter a _Display Name_ for your service, select the **[!UICONTROL LinkedIn Lead Gen]** service from the drop-down, and click **[!UICONTROL Next]**.
+1. Enter a **[!UICONTROL Display Name]** for your service, select the **[!UICONTROL LinkedIn Lead Gen]** service from the drop-down, and click **[!UICONTROL Next]**.
 
    ![](assets/set-up-linkedin-lead-gen-forms-3.png)
 
@@ -56,13 +56,13 @@ Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads f
 
    ![](assets/set-up-linkedin-lead-gen-forms-6.png)
 
-1. You'll notice you are now authorized. Click **[!UICONTROL Next]**.
+1. You will notice you are now authorized. Click **[!UICONTROL Next]**.
 
    ![](assets/set-up-linkedin-lead-gen-forms-7.png)
 
    >[!CAUTION]
    >
-   >The service automatically expires one year after authorization. To regain access, simply click **[!UICONTROL Re-Authorize]**. You may have to re-enter your LinkedIn password, depending on your browser settings.
+   >The service automatically expires one year after authorization. To regain access, click **[!UICONTROL Re-Authorize]**. You may have to re-enter your LinkedIn password, depending on your browser settings.
 
 1. Select the account(s) you want LinkedIn Lead Gen leads to come into Marketo from and click **[!UICONTROL Next]**.
 
@@ -72,7 +72,7 @@ Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads f
 
    ![](assets/set-up-linkedin-lead-gen-forms-8.png)
 
-1. To accept default LinkedIn to Marketo field mappings, simply click **[!UICONTROL Create]**. If you would like to change the default field mapping, remove a field mapping, or add a new field mapping, you can do this on a per field basis through the modal below.
+1. To accept default LinkedIn to Marketo field mappings, click **[!UICONTROL Create]**. If you would like to change the default field mapping, remove a field mapping, or add a new field mapping, you can do this on a per field basis through the modal below.
 
    >[!CAUTION]
    >
@@ -86,7 +86,7 @@ Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads f
 
    ![](assets/set-up-linkedin-lead-gen-forms-10.png)
 
-Nicely done! People who submit LinkedIn Lead Gen forms will start flowing into Marketo as you run successful campaigns on the LinkedIn side.
+People who submit LinkedIn Lead Gen forms will start flowing into Marketo as you run successful campaigns on the LinkedIn side.
 
 >[!NOTE]
 >

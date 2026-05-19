@@ -48,7 +48,7 @@ Guided landing pages can be created as local assets of a program or in the [!UIC
 
    >[!NOTE]
    >
-   >Guided landing page templates have the ![--](assets/image2015-5-26-9-3a26-3a51.png) icon next to them. Guided templates are structured so they can remain fully responsive.
+   >Guided landing page templates have the ![](assets/image2015-5-26-9-3a26-3a51.png) icon next to them. Guided templates are structured so they can remain fully responsive.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
@@ -74,4 +74,4 @@ Guided landing pages can be created as local assets of a program or in the [!UIC
 >
 >The URL is constructed automatically from the program and landing page names. To change the URL, edit the **[!UICONTROL Page URL]** field.
 >
->Clear the **[!UICONTROL Open in editor]** checkbox if you don't want the editor to open immediately after clicking **[!UICONTROL Create]**.
+>Clear the **[!UICONTROL Open in editor]** checkbox if you do not want the editor to open immediately after clicking **[!UICONTROL Create]**.

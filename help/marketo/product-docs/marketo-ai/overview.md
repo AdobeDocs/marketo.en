@@ -1,12 +1,12 @@
 ---
-description: Explore the Marketo Engage AI suite of agents designed to automate marketing tasks like program QA, lead import, data normalization, and more.
-title: Marketo Engage AI Overview
+description: Explore the Marketo AI suite of agents designed to automate marketing tasks like program QA, lead import, data normalization, and more.
+title: Marketo AI Overview
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
 ---
-# Marketo Engage AI Overview {#overview}
+# Marketo AI Overview {#overview}
 
-Marketo Engage AI provides agents designed to automate time-consuming but important marketing functions.
+Marketo AI provides agents designed to automate time-consuming but important marketing functions.
 
 >[!PREREQUISITES]
 >

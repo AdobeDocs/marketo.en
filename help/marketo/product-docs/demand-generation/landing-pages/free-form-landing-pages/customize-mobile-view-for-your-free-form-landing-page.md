@@ -20,7 +20,7 @@ feature_v2:
 >
 >[Add a Mobile View for Your Free-Form Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
-The mobile view of your free-form landing page is mostly automatic, but you can customize it. Here's how.
+The mobile view of your free-form landing page is mostly automatic, but you can customize it.
 
 1. Select your free-form landing page.
 
@@ -48,7 +48,7 @@ By default, everything on the desktop view is shown on the mobile view.
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## Important Things to Know: {#important-things-to-know}
+## Important Things to Know {#important-things-to-know}
 
 * Images will expand to the width of your mobile device. If you want smaller images, pull in the rich-text element and add your image from there.
 * Only use Forms 2.0 forms. They are responsive and will adjust automatically.
@@ -60,13 +60,13 @@ By default, everything on the desktop view is shown on the mobile view.
 
 >[!TIP]
 >
->Less is more on mobile. Use fewer words for happier customers.
+>Less is more on mobile.
 
 1. To hide an element, click the corresponding check box under the mobile column.
 
    ![](assets/image2015-5-21-15-3a28-3a17.png)
 
-1. Perfect! That element will no longer be visible in your mobile view.
+1. That element will no longer be visible in your mobile view.
 
    ![](assets/image2015-5-21-15-3a30-3a17.png)
 
@@ -74,7 +74,7 @@ By default, everything on the desktop view is shown on the mobile view.
 
 >[!TIP]
 >
->Make special (shorter) content just for the mobile view.
+>Make shorter content for the mobile view.
 
 1. To add an element, drag-and-drop it onto the free-form landing page.
 
@@ -94,15 +94,15 @@ By default, everything on the desktop view is shown on the mobile view.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Want to see something cool? Select **[!UICONTROL Side By Side]**.
+1. Select **[!UICONTROL Side By Side]** to compare the desktop and mobile versions at the same time.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
-1. You can now see the desktop and mobile versions of your landing pages at the same time!
+1. You can now see the desktop and mobile versions of your landing pages at the same time.
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. If you love it, click **[!UICONTROL Approve and Close]**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
@@ -110,7 +110,6 @@ By default, everything on the desktop view is shown on the mobile view.
    >
    >The preview is not interactive. Every smartphone displays things a bit differently. We recommend previewing your landing page on a few devices to see exactly how the landing page will behave.
 
-Have fun!
 
 >[!MORELIKETHIS]
 >

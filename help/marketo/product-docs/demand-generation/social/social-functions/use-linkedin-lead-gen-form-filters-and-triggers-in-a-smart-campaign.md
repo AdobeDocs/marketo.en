@@ -16,7 +16,7 @@ feature_v2:
 ---
 # Use LinkedIn Lead Gen Form Filters and Triggers in a Smart Campaign {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
-When you've enabled LinkedIn Lead Gen Forms, you can use them as filters and triggers in your smart campaigns.
+When you have enabled LinkedIn Lead Gen Forms, you can use them as filters and triggers in your smart campaigns.
 
 >[!NOTE]
 >

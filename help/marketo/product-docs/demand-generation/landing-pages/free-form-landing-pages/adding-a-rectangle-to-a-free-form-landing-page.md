@@ -11,7 +11,7 @@ product_v2:
 ---
 # Adding a Rectangle to a Free-Form Landing Page {#adding-a-rectangle-to-a-free-form-landing-page}
 
-Rectangles on landing pages are great for highlighting an area of the text.
+Rectangles on landing pages can be used to highlight or visually separate content sections.
 
 1. Select a free-form landing page and click on **[!UICONTROL Edit Draft]**.
 
@@ -33,4 +33,4 @@ Rectangles on landing pages are great for highlighting an area of the text.
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 
-Congratulations! You now have the ability to create rectangles on your free-form landing pages.
+You can now add rectangles to your free-form landing pages.

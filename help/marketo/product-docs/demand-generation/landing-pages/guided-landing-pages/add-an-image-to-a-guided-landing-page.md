@@ -28,7 +28,7 @@ Unlike the free-form landing pages, guided landing pages have predefined, locked
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 
-1. The content will display in the element place holder.
+1. The content will display in the element placeholder.
 
    >[!NOTE]
    >

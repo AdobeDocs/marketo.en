@@ -35,7 +35,7 @@ Free-form landing pages require less technical knowledge than their guided count
 
    ![](assets/three.png)
 
-1. Your template should open in a new tab. It is now editable to anyone familiar with CSS/HTML.
+1. Your template should open in a new tab. It is now editable by anyone familiar with CSS/HTML.
 
    ![](assets/four.png)
 
@@ -46,8 +46,6 @@ Free-form landing pages require less technical knowledge than their guided count
 1. When you are done making edits, click **[!UICONTROL Template Actions]**, then select **[!UICONTROL Approve and Close]**.
 
    ![](assets/five.png)
-
-   You now have a new free-form landing page template!
 
    >[!NOTE]
    >
