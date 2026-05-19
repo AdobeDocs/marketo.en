@@ -31,6 +31,6 @@ product_v2:
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
-   Great job! You just added an image to your free-form landing page.
+   You have added an image to your free-form landing page.
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)

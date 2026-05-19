@@ -37,7 +37,7 @@ A **[!UICONTROL Calendar File]** token allows you to add a calendar event (.ics)
 
    ![](assets/image2015-1-6-16-3a42-3a51.png)
 
-Sweet! Everything should be working great now. Make sure to test.
+Make sure to test the calendar link before approving the landing page.
 
 >[!MORELIKETHIS]
 >

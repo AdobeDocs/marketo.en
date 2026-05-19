@@ -24,7 +24,7 @@ topic_v2:
 ---
 # Use Dynamic Content in a Free-form Landing Page {#use-dynamic-content-in-a-free-form-landing-page}
 
-Using Dynamic Content in Landing Pages engages your audience with targeted information.
+Using dynamic content in landing pages engages your audience with targeted information.
 
 >[!PREREQUISITES]
 >
@@ -86,7 +86,7 @@ Using Dynamic Content in Landing Pages engages your audience with targeted infor
 >
 >Create a default landing page before modifying content for the various segments.
 
-Voila! You can now send targeted content.
+You can now send targeted content to your segments.
 
 >[!MORELIKETHIS]
 >

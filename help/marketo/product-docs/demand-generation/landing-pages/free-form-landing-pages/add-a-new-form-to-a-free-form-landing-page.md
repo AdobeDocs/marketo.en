@@ -14,8 +14,6 @@ feature_v2:
 ---
 # Add a New Form to a Free-Form Landing Page {#add-a-new-form-to-a-free-form-landing-page}
 
-Form, meet landing page. Landing page, meet form.
-
 >[!PREREQUISITES]
 >
 >* [Create a Form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
@@ -53,6 +51,4 @@ Form, meet landing page. Landing page, meet form.
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
-   Nicely done!
-
-Just close the landing page editor and [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Close the landing page editor and [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

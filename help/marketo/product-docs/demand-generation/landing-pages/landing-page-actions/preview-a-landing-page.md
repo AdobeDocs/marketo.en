@@ -11,7 +11,7 @@ product_v2:
 ---
 # Preview a Landing Page {#preview-a-landing-page}
 
-You probably want to see what your landing page looks like before making it live.
+Preview your landing page to see how it looks before making it live.
 
 ## Preview a Landing Page {#preview-a-landing-page-1}
 
@@ -47,4 +47,4 @@ You probably want to see what your landing page looks like before making it live
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 
-Nice work! Now you know how to preview landing pages.
+You now know how to preview landing pages.

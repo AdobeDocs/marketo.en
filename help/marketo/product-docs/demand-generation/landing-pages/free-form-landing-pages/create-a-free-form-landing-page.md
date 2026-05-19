@@ -40,7 +40,7 @@ Free-form landing pages can be created as local assets of a program or in the [!
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
-1. Name your landing page and choose free-form template from the drop-down.
+1. Name your landing page and choose a free-form template from the drop-down.
 
    >[!NOTE]
    >
@@ -66,7 +66,7 @@ Free-form landing pages can be created as local assets of a program or in the [!
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
-1. Name your landing page and choose free-form template from the drop-down.
+1. Name your landing page and choose a free-form template from the drop-down.
 
    ![](assets/image2015-5-19-13-3a30-3a25.png)
 

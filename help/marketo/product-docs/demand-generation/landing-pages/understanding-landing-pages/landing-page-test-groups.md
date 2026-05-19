@@ -47,7 +47,7 @@ Marketo tracks the number of page views and form completions on each tested page
 
    ![](assets/four-1.png)
 
-   You are now be able to compare stats of your selected Landing Pages.
+   You are now able to compare stats of your selected Landing Pages.
 
    ![](assets/five.png)
 

@@ -22,7 +22,7 @@ You can edit any landing page template within Marketo.
 
    ![](assets/designstudio.png)
 
-1. Expand **[!UICONTROL Landing Pages]** in order to show the templates.
+1. Expand **[!UICONTROL Landing Pages]** to show the templates.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
@@ -30,7 +30,7 @@ You can edit any landing page template within Marketo.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
-   Done! Now you can edit the CSS of the template and have full control over its appearance and layout.
+   You can now edit the CSS of the template and have full control over its appearance and layout.
 
    >[!NOTE]
    >

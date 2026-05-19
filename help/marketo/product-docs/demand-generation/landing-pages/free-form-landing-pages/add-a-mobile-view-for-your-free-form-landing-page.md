@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Add a Mobile View for Your Free-Form Landing Page {#add-a-mobile-view-for-your-free-form-landing-page}
 
-It is easy to make your free-form landing pages look great on a smartphone.
+You can optimize your free-form landing pages to display properly on smartphones.
 
 >[!NOTE]
 >
@@ -44,7 +44,7 @@ It is easy to make your free-form landing pages look great on a smartphone.
    >
    >The free-form template may need to be upgraded. If you see that message, quickly read about how to [make an existing free-form landing page template mobile compatible](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
-1. Great! You have now activated the mobile version of your landing page. Click **[!UICONTROL Close]**.
+1. You have now activated the mobile version of your landing page. Click **[!UICONTROL Close]**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

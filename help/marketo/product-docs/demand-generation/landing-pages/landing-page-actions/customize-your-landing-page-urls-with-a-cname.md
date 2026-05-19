@@ -78,4 +78,4 @@ Ask your IT staff to setup the following CNAME: (Replace the word [CNAME] and [M
 >
 >Your fallback page will be the page leads will get redirected to if your Marketo Landing Page is unavailable.
 
-Nice job! Your landing pages are now branded with your company domain.
+Your landing pages are now branded with your company domain.

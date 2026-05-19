@@ -26,4 +26,4 @@ Preview your landing page after adding dynamic content to make sure everything l
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
-Awesome! You can now ensure your landing pages work they want you want them to across segments.
+You can now ensure your landing pages work the way you want them to across segments.

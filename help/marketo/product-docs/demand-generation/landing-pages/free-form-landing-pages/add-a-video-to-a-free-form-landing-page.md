@@ -45,8 +45,4 @@ Put videos with social sharing options on your landing pages.
 >
 >To save time, you can use the **[!UICONTROL Clone From]** option to copy all settings from an existing video share.
 
-Congratulations! You have added a video share to your free-form landing page. Approve the landing page and your video share is live. You can also [publish the landing page to Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) or _put the video share on your web site_.
-
->[!MORELIKETHIS]
->
->you are done, but you can change the settings of your video share if necessary. Start with _customizing the share flow_ (when and where the share prompt opens).
+You have added a video share to your free-form landing page. Approve the landing page and your video share is live. You can also [publish the landing page to Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) or put the video share on your website.

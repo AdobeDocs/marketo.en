@@ -11,7 +11,7 @@ product_v2:
 ---
 # Use Guides for Free-form Landing Page Design {#use-guides-for-free-form-landing-page-design}
 
-When designing a free-form landing page, you can use guides to help with aligning the components.
+When designing a free-form landing page, you can use guides to help align elements on the page.
 
 >[!NOTE]
 >
@@ -33,4 +33,4 @@ When designing a free-form landing page, you can use guides to help with alignin
 
    ![](assets/image2015-5-20-14-3a17-3a24.png)
 
-   Aligned objects are easy on the eyes!
+   Properly aligned elements create a cleaner, more professional layout.

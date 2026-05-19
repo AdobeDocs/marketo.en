@@ -14,7 +14,7 @@ topic_v2:
 ---
 # Edit Landing Page Title and Metadata {#edit-landing-page-title-and-metadata}
 
-Marketo allows you to edit your landing page [meta tags for SEO purposes](https://www.w3schools.com/tags/tag_meta.asp) as well as customize the `<head>` portion of the HTML.
+Marketo allows you to edit your landing page's [meta tags for SEO purposes](https://www.w3schools.com/tags/tag_meta.asp) as well as customize the `<head>` portion of the HTML.
 
 1. Select a landing page and click **[!UICONTROL Edit Draft]**.
 

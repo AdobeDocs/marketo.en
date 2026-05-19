@@ -14,7 +14,7 @@ feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
 ---
-# Make an Existing Free-form Landing Page Template [!UICONTROL Mobile Compatible] {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# Make an Existing Free-form Landing Page Template Mobile Compatible {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 This can be done in two places, the Template Editor and the Landing Page Editor.
 
@@ -54,19 +54,25 @@ This can be done in two places, the Template Editor and the Landing Page Editor.
 
 ## What Makes a Template [!UICONTROL Mobile Compatible]? {#what-makes-a-template-mobile-compatible}
 
-   Great questions! Your template must have have the following tags:
+Your template must have the following tags:
 
-   `Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>`
+```
+Must have <!DOCTYPE HTML> 
+Must have a <HEAD> element 
+Must have a <TITLE> in the <HEAD> element 
+Must have <META CHARSET="UTF-8"> within the <HEAD> element 
+Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>
+```
 
-   If everything looks good, you'll see this message.
+If everything looks good, you'll see this message.
 
    ![](assets/image2015-1-22-20-3a41-3a31.png)
 
-   If something is wrong, an error message will display, click repair to fix the issue and repeat the validation process.
+If something is wrong, an error message will display, click repair to fix the issue and repeat the validation process.
 
    ![](assets/image2015-1-22-20-3a43-3a20.png)
 
-If you make any changes to the template, Click [!UICONTROL Template Actions] and select [!UICONTROL Validate Mobile Compatibility].
+If you make any changes to the template, click **[!UICONTROL Template Actions]** and select **[!UICONTROL Validate Mobile Compatibility]**.
 
 ## Upgrading a Template from the Free-form Landing Page Editor {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
@@ -84,4 +90,4 @@ When you are editing a landing page and you click on the mobile tab, you'll some
    >
    >Activating the mobile version of a template will create drafts of any landing pages that use it.
 
-Awesome! You can now [customize the mobile view](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) of all your landing pages that use this template.
+You can now [customize the mobile view](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) of all your landing pages that use this template.

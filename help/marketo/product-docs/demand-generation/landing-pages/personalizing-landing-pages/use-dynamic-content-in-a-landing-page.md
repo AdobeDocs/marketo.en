@@ -74,7 +74,7 @@ Using dynamic content in landing pages engages people with targeted information.
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 
-1. A green check mark indicates content specific to segment. A blank indicates default segment content.
+1. A green check mark indicates content specific to a segment. A blank indicates default segment content.
 
    ![](assets/image2015-5-21-12-3a44-3a24.png)
 
@@ -86,7 +86,7 @@ Using dynamic content in landing pages engages people with targeted information.
    >
    >Create a default landing page before modifying content for the various segments.
 
-Voila! You can now send targeted content.
+You can now send targeted content to your segments.
 
 >[!MORELIKETHIS]
 >

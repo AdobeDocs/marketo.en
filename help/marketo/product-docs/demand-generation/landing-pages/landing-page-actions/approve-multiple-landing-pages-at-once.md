@@ -30,11 +30,11 @@ feature_v2:
    >
    >Do not click the actual Landing Page name, those are links and will take you to the page itself.
 
-1. With your Landing Pages selected, click the **Landing Page Actions** drop-down and select **Approve**.
+1. With your Landing Pages selected, click the **[!UICONTROL Landing Page Actions]** drop-down and select **[!UICONTROL Approve]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-4.png)
 
-1. Click **Approve**.
+1. Click **[!UICONTROL Approve]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-5.png)
 
