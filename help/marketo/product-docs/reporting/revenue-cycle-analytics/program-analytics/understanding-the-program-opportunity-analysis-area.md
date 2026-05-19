@@ -33,7 +33,7 @@ Which Opportunities did a given Program influence?
 
 Measures available for you to use in analysis are generally numbers and are represented by blue dots. Dimensions are attributes that give different views of the measures and are represented by yellow dots.
 
-All measures (blue dots) relate to attribution - the “credit” for lead acquisition or for the sales success associated with a lead.
+All measures (blue dots) relate to attribution - the "credit" for lead acquisition or for the sales success associated with a lead.
 
 ![](assets/six.five.png) ![](assets/seven-1.png)
 
@@ -45,11 +45,11 @@ There are three kinds of measures:
 
 ## Acquisition and Success-Related Measures {#acquisition-and-success-related-measures}
 
-Acquisition-related measures give credit to the program through which a lead’s contact information are first obtained. A lead does not have to achieve success in a program for acquisition credit to be awarded.
+Acquisition-related measures give credit to the program through which a lead's contact information are first obtained. A lead does not have to achieve success in a program for acquisition credit to be awarded.
 
-The value of acquiring a given lead changes over time. It’s zero until a purchase is made by the lead. It can then increase with additional purchases.
+The value of acquiring a given lead changes over time. It's zero until a purchase is made by the lead. It can then increase with additional purchases.
 
-Success-related measures give credit to all the programs that contribute to a lead’s progress towards a purchase.
+Success-related measures give credit to all the programs that contribute to a lead's progress towards a purchase.
 
 As with acquisition, the value of contributing toward the sales made to a lead changes over time, and is zero until some purchase is made by the lead.
 
@@ -181,7 +181,3 @@ Whereas measures (blue dots) are calculated, and require some thought and explan
 </table>
 
 _&#42;All of the Opportunities that gave any type of attribution credit to a Program. Opportunities can be influenced by one or more leads and by one or more Programs._
-
->[!MORELIKETHIS]
->
->[Create a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

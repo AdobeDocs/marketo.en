@@ -144,7 +144,3 @@ To view available dimensions or measures within a category, click the right arro
   </tr>
  </tbody>
 </table>
-
->[!MORELIKETHIS]
->
->[Create a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
