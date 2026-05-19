@@ -8,13 +8,13 @@ exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
 
 Audit your programs for best practices across all components, such as emails, landing pages, campaigns, and more.
 
->[!PREREQUISITES]
->
->To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
-
 >[!AVAILABILITY]
 >
->This feature is in limited availability. To request access for your subscription, contact your Account Manager.
+>This feature is in limited availability. To request access for your subscription, contact the Adobe Account Team (your account manager).
+
+>[!PREREQUISITES]
+>
+>To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact your account manager for details.
 
 ## How to use {#how-to-use}
 

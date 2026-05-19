@@ -8,13 +8,13 @@ exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
 
 Marketo AI provides agents designed to automate time-consuming but important marketing functions.
 
->[!PREREQUISITES]
->
->To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
-
 >[!AVAILABILITY]
 >
->This feature is in limited availability. To request access for your subscription, contact your Account Manager.
+>This feature is in limited availability. To request access for your subscription, contact the Adobe Account Team (your account manager).
+
+>[!PREREQUISITES]
+>
+>To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact your account manager for details.
 
 >[!IMPORTANT]
 >
