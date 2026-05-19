@@ -12,9 +12,9 @@ Learn how to enable permissions and use the Settings area to view connection det
 >
 >To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->This feature is in closed beta and is currently in a phased rollout over the next few months. You will know when it is been enabled for your subscription when you see a _Build with AI_ tile on your My Marketo screen.
+>This feature is in limited availability. To request access for your subscription, contact your Account Manager.
 
 ## Permissions and roles {#permission-and-role}
 
