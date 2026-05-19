@@ -14,7 +14,7 @@ Import and deduplicate lead lists into your Marketo Engage database with field m
 
 >[!AVAILABILITY]
 >
->This feature is in closed beta and is currently in a phased rollout over the next few months. You will know when it has been enabled for your subscription when you see the _Build with AI_ tile on your My Marketo screen.
+>This feature is in limited availability. To request access for your subscription, contact your Account Manager.
 
 ## How to use {#how-to-use}
 
