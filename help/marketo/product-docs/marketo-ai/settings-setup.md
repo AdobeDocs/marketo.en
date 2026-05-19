@@ -8,13 +8,13 @@ exl-id: faf642a1-25f0-4566-b35d-074b003835ed
 
 Learn how to enable permissions and use the Settings area to view connection details, define organizational rules, and set up integrations and notifications.
 
->[!PREREQUISITES]
->
->To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
-
 >[!AVAILABILITY]
 >
->This feature is in limited availability. To request access for your subscription, contact your Account Manager.
+>This feature is in limited availability. To request access for your subscription, contact the Adobe Account Team (your account manager).
+
+>[!PREREQUISITES]
+>
+>To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact your account manager for details.
 
 ## Permissions and roles {#permission-and-role}
 
