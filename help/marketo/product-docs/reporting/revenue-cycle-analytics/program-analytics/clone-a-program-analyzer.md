@@ -1,0 +1,38 @@
+---
+unique-page-id: 11383877
+description: "Learn how to clone a program analyzer in Marketo Engage using clone a program analyzer clone-a-program-analyzer. Use this guide to complete your next step."
+title: Clone a Program Analyzer
+exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
+feature: Reporting, Revenue Cycle Analytics
+---
+# Clone a Program Analyzer {#clone-a-program-analyzer}
+
+After you've saved an analyzer, it is easy to clone it to create a new one. Then, go in and edit the new one if it needs any changes.
+
+1. Click the **[!UICONTROL Analytics]** tile.
+
+   ![](assets/2017-05-01-08-20-37.png)
+
+1. Click the **[!UICONTROL Program Analyzer]** tile.
+
+   ![](assets/program-analyzer-icon-hand.png)
+
+1. While your saved analyzer is open, open the Analyzer Actions drop-down and select **[!UICONTROL Clone Analyzer]**.
+
+   ![](assets/image2016-10-31-16-3a12-3a6.png)
+
+1. Select the location for the cloned analyzer from the **[!UICONTROL Clone To]** and **[!UICONTROL Folder]** drop-downs.
+
+   ![](assets/image2016-10-31-16-3a13-3a42.png)
+
+1. Name the cloned analyzer and click **[!UICONTROL Clone]**.
+
+   ![](assets/image2016-10-31-16-3a15-3a15.png)
+
+1. Now, you've got two identical analyzers with different names. Open the clone to make any necessary changes.
+
+   ![](assets/image2016-10-31-16-3a17-3a11.png)
+
+   >[!MORELIKETHIS]
+   >
+   >[Create a [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
