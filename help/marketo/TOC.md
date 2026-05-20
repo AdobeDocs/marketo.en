@@ -1914,7 +1914,8 @@ feature-set: Marketo Engage
   + {hide-from-toc} [Current Release TEMP](release-notes/current-temp.md)
   + [Dynamic Chat Release](release-notes/dynamic-chat.md)
   + {hide-from-toc} [Dynamic Chat Release TEMP](release-notes/dynamic-chat-temp.md)
-  + Previous Releases {#previous-releases}
+  + [Previous Releases](release-notes/previous-releases.md)
+  + {hide-from-toc} Previous Releases {#previous-releases}
     + 2026 {#2026}
       + [Release Notes: January '26](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [Release Notes: February '26](release-notes/previous-releases/2026/release-notes-feb-26.md)
