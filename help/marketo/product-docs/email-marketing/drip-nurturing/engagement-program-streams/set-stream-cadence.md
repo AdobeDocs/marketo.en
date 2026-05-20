@@ -42,11 +42,11 @@ You can send engagement content at any interval you want. For example: once a we
 
    ![](assets/image2017-12-5-14-3a10-3a17.png)
 
-1. Now choose if you want the cadence to happen every week or more spaced out. Let's pick every 2 weeks.
+1. Now choose if you want the cadence to happen every week or more spaced out. Pick every 2 weeks.
 
    ![](assets/image2017-12-5-14-3a10-3a56.png)
 
-1. Decide which days of the week. In this case let's do Tuesday, Wednesday, and Thursday.
+1. Decide which days of the week. In this case, select Tuesday, Wednesday, and Thursday.
 
    ![](assets/image2017-12-5-14-3a12-3a29.png)
 
@@ -62,13 +62,13 @@ You can send engagement content at any interval you want. For example: once a we
    >
    >The content will go out on the date you select for the first cast, so make sure it coincides with the day of the week you choose; otherwise it will go out twice in the first week.
 
-1. Hover over the cadence. You'll see what days future casts will go out.
+1. Hover over the cadence. The days of future casts will appear.
 
    ![](assets/image2017-12-5-14-3a17-3a29.png)
 
    >[!NOTE]
    >
-   >In this example, an email will go out on Thursday. We then skip a week, and send again on Tuesday, Wednesday, and Thursday of the following week. And then we loop again.
+   >In this example, an email will go out on Thursday. The following week is skipped, and the email sends again on Tuesday, Wednesday, and Thursday of the week after. The cycle then repeats.
 
 ## Monthly {#monthly}
 
@@ -80,7 +80,7 @@ You can send engagement content at any interval you want. For example: once a we
 
    ![](assets/image2014-9-15-16-3a30-3a11.png)
 
-1. Select if you want it to be every month or more spaced out... Let's pick every fourth month.
+1. Select if you want it to be every month or more spaced out. Pick every fourth month.
 
    ![](assets/image2014-9-15-16-3a30-3a7.png)
 
@@ -96,7 +96,7 @@ You can send engagement content at any interval you want. For example: once a we
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
-1. Hover over the cadence. You'll see what days future casts will go out.
+1. Hover over the cadence. The days of future casts will appear.
 
    ![](assets/image2014-9-15-16-3a29-3a38.png)
 
@@ -104,7 +104,7 @@ You can send engagement content at any interval you want. For example: once a we
    >
    >If you decide to modify your engagement stream cadence later, make sure the first cast is set to a future date.
 
-Now you know how to set up a stream cadence!
+Now you know how to set up a stream cadence.
 
 >[!MORELIKETHIS]
 >

@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Add a Stream {#add-a-stream}
 
-Engagement programs can hold more than one stream. Here's how to add a new one.
+Engagement programs can hold more than one stream.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -31,7 +31,5 @@ Engagement programs can hold more than one stream. Here's how to add a new one.
    >[!NOTE]
    >
    >You can add up to 25 streams per engagement program.
-
-   And... done!
 
    ![](assets/image2014-9-15-16-3a56-3a27.png)

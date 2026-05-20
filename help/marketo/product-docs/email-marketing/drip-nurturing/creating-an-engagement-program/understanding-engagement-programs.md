@@ -81,7 +81,7 @@ A **person cadence** is a status that defines its ability to receive content fro
 
 ## Exhausted {#exhausted}
 
-Once a person has received every piece of content in a stream, we call the person **Exhausted**.
+Once a person has received every piece of content in a stream, the person is called **Exhausted**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 

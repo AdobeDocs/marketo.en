@@ -234,7 +234,7 @@ Edits to a fragment depend on its current status:
 
 1. If you want to update the content, click **[!UICONTROL Create draft version]** at the top right.
 
-   Click **[!UICONTROL OK]** in the dialog to open the draft version in the visual designer. You can change the `image source` KG - LINK HERE if needed.
+   Click **[!UICONTROL OK]** in the dialog to open the draft version in the visual designer. You can change the `image source`.
 
    ![Create draft version dialog](assets/fragments-create-draft-version.png){width="300"}
 

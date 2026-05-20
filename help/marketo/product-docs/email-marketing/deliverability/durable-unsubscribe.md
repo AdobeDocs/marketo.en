@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Durable Unsubscribe {#durable-unsubscribe}
 
-Marketo has enhanced the behavior of the unsubscribe functionality to make it "durable." We've added a master email status, which is separate from the unsubscribe flag visible on the person detail record.
+Marketo has enhanced the behavior of the unsubscribe functionality to make it "durable." A master email status has been added, which is separate from the unsubscribe flag visible on the person detail record.
 
 If the unsubscribe flag is set from false to true, the master email status is updated, and the change is propagated to other people with the same email address. If a person is removed and recreated, or if a new record is created with the same email address, the unsubscribe flag will **not** be overwritten.
 
@@ -34,13 +34,13 @@ In Marketo, clear the unsubscribed box in the Info tab of the person's record.
 
 ![Clearing the unsubscribe box in a person record](assets/durable-unsubscribe-2.png)
 
-Run a _Change Data Value_ flow step as shown below on one or many people.
+Run a **[!UICONTROL Change Data Value]** flow step as shown below on one or many people.
 
 ![Change data value flow step](assets/durable-unsubscribe-3.png)
 
 ## Creating a New Person {#creating-a-new-person}
 
-When a new person is created, Marketo checks it against the master email status table. If the person was previously unsubscribed, we'll update the record to be unsubscribed.
+When a new person is created, Marketo checks it against the master email status table. If the person was previously unsubscribed, the record will be updated to unsubscribed.
 
 ## Changing an Email Address {#changing-an-email-address}
 
@@ -48,7 +48,7 @@ If you change the email address of a person to an unsubscribed email address, th
 
 ## Re-subscribing {#re-subscribing}
 
-Just as an unsubscribe would cause all people with the same email address to become unsubscribed, a resubscribe would in fact resubscribe every person with the same email address.
+Just as an unsubscribe would cause all people with the same email address to become unsubscribed, a resubscribe will also resubscribe every person with the same email address.
 
 >[!MORELIKETHIS]
 >

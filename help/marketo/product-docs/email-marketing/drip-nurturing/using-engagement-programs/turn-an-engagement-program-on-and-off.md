@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Turn an Engagement Program On and Off {#turn-an-engagement-program-on-and-off}
 
-You can turn off an engagement program with the flick of a switch. This will stop any content from being sent out. Here's how.
+You can turn off an engagement program with the flick of a switch. This will stop any content from being sent out.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -36,4 +36,4 @@ You can turn off an engagement program with the flick of a switch. This will sto
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
-There you go! You can turn it back on using the same steps.
+You can turn it back on using the same steps.

@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Add Content to a Stream {#add-content-to-a-stream}
 
-Once you've created your engagement program, you need to add content to the stream(s). You can add emails or programs to a stream.
+After you have created your engagement program, you must add content to the stream. You can add emails or programs to a stream.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -49,8 +49,6 @@ Once you've created your engagement program, you need to add content to the stre
    >[!NOTE]
    >
    >A smart campaign must contain the **[!UICONTROL Member of Engagement Program]** filter for it to work properly.
-
-Great job! You now know how to add content to your program streams. Add as much as you need for your nurture. See the related article below for more details.
 
 >[!MORELIKETHIS]
 >

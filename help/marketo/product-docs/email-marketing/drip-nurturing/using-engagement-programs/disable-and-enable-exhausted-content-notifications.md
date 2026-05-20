@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Disable and Enable Exhausted Content Notifications {#disable-and-enable-exhausted-content-notifications}
 
-When people exhaust all content in a stream, Marketo can send you a notification. You can disable/enable the notifications based on your needs. Here's how.
+When people exhaust all content in a stream, Marketo can send you a notification. You can disable/enable the notifications based on your needs.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -32,4 +32,4 @@ When people exhaust all content in a stream, Marketo can send you a notification
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
-   Super! If you enable notifications, you will see something on the stream itself as well as receive an email notification.
+   If you enable notifications, you will see something on the stream itself as well as receive an email notification.

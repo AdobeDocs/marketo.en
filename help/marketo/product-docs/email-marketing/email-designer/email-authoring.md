@@ -41,11 +41,7 @@ topic_v2:
 ---
 # Email authoring {#email-authoring}
 
-Learn how to create, personalize, and preview emails in the new Marketo Engage Email Designer.
-
->[!PREREQUISITES]
->
->In order to access the new email designer, your Marketo Engage subscription must be migrated to the [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}. If yours hasn't been yet and you'd like to request it be expedited, please contact the Adobe Account Team (your account manager), or [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+Learn how to create, personalize, and preview emails in the Email Designer.
 
 ## Create an email {#create-an-email}
 
@@ -81,7 +77,7 @@ Emails from the email designer can only be created in the Design Studio and refe
 
    ![](assets/create-an-email-5.png)
 
-1. You have two options to create a new email. Right-click on the name of your Email Program and select **New local asset**, or click the **+New Email** button in the Email box on the dashboard. In this example, we'll do the former.
+1. You have two options to create a new email. Right-click on the name of your Email Program and select **New local asset**, or click the **+New Email** button in the Email box on the dashboard. In this example, the first option is used.
 
    ![](assets/create-an-email-6.png)
 

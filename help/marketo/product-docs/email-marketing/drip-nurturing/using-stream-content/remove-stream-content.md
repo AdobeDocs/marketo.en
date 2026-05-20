@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Remove Stream Content {#remove-stream-content}
 
-You can either remove or archive a piece of content. Unlike removing stream content, [archiving](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) preserves all the history associated to the content. If you don't mind losing the historical stats of some content and want to remove it, here's how to do it.
+You can either remove or archive a piece of content. Unlike removing stream content, [archiving](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) preserves all the history associated to the content. If you do not mind losing the historical stats of some content and want to remove it, here is how.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -30,6 +30,6 @@ You can either remove or archive a piece of content. Unlike removing stream cont
 
    >[!CAUTION]
    >
-   >Remove content only if you don't care about history. If you want to preserve history, [archive](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) it instead.
+   >Remove content only if you do not care about history. If you want to preserve history, [archive](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) it instead.
 
    Now you know how to remove a piece of content.

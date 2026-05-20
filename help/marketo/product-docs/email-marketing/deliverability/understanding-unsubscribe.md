@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Understanding Unsubscribe {#understanding-unsubscribe}
 
-There are actually several different types of built-in unsubscribes in Marketo. They're all represented by fields on the person object, just like First Name.
+There are several different types of built-in unsubscribes in Marketo. They are all represented by fields on the person object, just like First Name.
 
 All of these fields are built-in to your Marketo subscription. They are all boolean (checkbox) type. They can be used in Forms or [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) flow steps.
 
@@ -32,10 +32,10 @@ This status blocks a person from mailings for 24 hours after a hard bounce occur
 
 >[!NOTE]
 >
->Email Suspended will remain checked even after the 24 hour period is over, so you can refer to people who have historically been marked as such. To see if the person is mailable, simply calculate 24 hours after the moment of email suspension.
+>Email Suspended will remain checked even after the 24 hour period is over, so you can refer to people who have historically been marked as such. To see if the person is mailable, calculate 24 hours after the moment of email suspension.
 
 ## Blocklisted {#blocklisted}
 
-[Use this for people like competitors](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Anyone you want receiving **no** emails—operational, marketing, etc. They get nothing!
+[Use this for people like competitors](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Anyone you want receiving **no** emails—operational, marketing, etc. They receive no emails.
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

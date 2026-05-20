@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Edit Availability of Stream Content {#edit-availability-of-stream-content}
 
-You can set a time frame for the content to be active in your stream. Here's how.
+You can set a time frame for the content to be active in your stream. Here is how.
 
 1. Select your engagement program and go to the **[!UICONTROL Streams]** tab.
 
@@ -32,6 +32,6 @@ You can set a time frame for the content to be active in your stream. Here's how
    >
    >You can leave **[!UICONTROL Active Through]** blank to make content available forever.
 
-   Perfect! You will see the clock icon next to the scheduled content. It will become active and inactive according to the schedule you set.
+   You will see the clock icon next to the scheduled content. It will become active and inactive according to the schedule you set.
 
    ![](assets/image2014-9-15-17-3a36-3a4.png)

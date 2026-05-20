@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Rename a Stream {#rename-a-stream}
 
-If you like to stay organized, you can rename your streams. Here's how to do it.
+If you like to stay organized, you can rename your streams.
 
 1. Find and select your engagement program, then click **[!UICONTROL Streams]**.
 
@@ -27,5 +27,3 @@ If you like to stay organized, you can rename your streams. Here's how to do it.
 1. Enter the new stream **[!UICONTROL Name]** and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
-
-   And voila! You now know how to rename streams.

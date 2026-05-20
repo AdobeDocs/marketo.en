@@ -14,8 +14,6 @@ feature_v2:
 ---
 # Avoid Sending Duplicate Content {#avoid-sending-duplicate-content}
 
-Have you ever received the same email twice? Annoying, is not it?
-
 Here are seven possible scenarios and results to be aware of to prevent sending someone the same message twice with engagement programs.
 
 ## Scenarios {#scenarios}
@@ -24,8 +22,8 @@ Here are seven possible scenarios and results to be aware of to prevent sending 
 |---|---|---|
 | A campaign in a separate, stand-alone, default program  |Not a member of the default program |Yes |
 | A campaign in a separate, stand-alone, default program |A member of the default program |No |
-| A campaign within a default program that's triggered from a cast within the **same** CEE program |A member of the default program |No |
-| A campaign within a default program that's triggered from a cast within the **same** CEE program |Not a member of the default program |Yes |
-| A campaign within a default program that's triggered from a cast within a **different** CEE program |A member of the default program |No |
-| A campaign within a default program that's triggered from a cast within a **different** CEE program |Not a member of the default program |Yes |
+| A campaign within a default program that is triggered from a cast within the **same** CEE program |A member of the default program |No |
+| A campaign within a default program that is triggered from a cast within the **same** CEE program |Not a member of the default program |Yes |
+| A campaign within a default program that is triggered from a cast within a **different** CEE program |A member of the default program |No |
+| A campaign within a default program that is triggered from a cast within a **different** CEE program |Not a member of the default program |Yes |
 | A **different** CEE program using a smart stream |A member of both CEE programs |No |

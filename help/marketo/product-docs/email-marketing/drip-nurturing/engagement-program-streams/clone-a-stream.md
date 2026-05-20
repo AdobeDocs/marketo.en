@@ -28,8 +28,6 @@ Clone a stream for various reasons, including testing different orders and diffe
    >
    >You can have up to 25 streams per engagement program.
 
-   Nicely done! Don't you love things that make your life easier?
-
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
    >[!CAUTION]

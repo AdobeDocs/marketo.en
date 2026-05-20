@@ -30,15 +30,13 @@ Stream content is OFF by default. Activate content to send them out during engag
 
    >[!NOTE]
    >
-   >Emails must be approved in order to activate them.
+   >Emails must be approved to activate them.
 
    ![](assets/image2014-9-15-16-3a33-3a42.png)
 
    >[!TIP]
    >
    >You can also activate all content in a stream by clicking the gear icon at the top level, then clicking **[!UICONTROL Activate all content]**.
-
-   Nice work! Now you know how to activate content in your streams.
 
 ## Deactivate Stream Content {#deactivate-stream-content}
 

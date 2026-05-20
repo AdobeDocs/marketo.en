@@ -201,7 +201,7 @@ Your custom CSS is added to the end of the `<head>` section as part of a `<style
       }
     </style>
     <style data-name="global-custom" type="text/css">
-      /* Add you custom CSS here */
+      /* Add your custom CSS here */
     </style>
   </head>
   <body>

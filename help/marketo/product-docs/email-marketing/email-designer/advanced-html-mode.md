@@ -53,7 +53,7 @@ To open the advanced HTML editor and edit your template source, follow these ste
 
     >[!WARNING]
     >
-    >Make sure to enter correct HTML and CSS code as there is no syntax validation process and Adobe Support cannot assist with HTML edits.
+    >Ensure you enter correct HTML and CSS code as there is no syntax validation process and Adobe Support cannot assist with HTML edits.
 
 1. Content simulation and saving are not available in advanced HTML view for compatibility reasons. Switch back to Desktop view to preview your content and save your changes.
 

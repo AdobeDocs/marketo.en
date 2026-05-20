@@ -42,7 +42,7 @@ Want to know how your engagement content is performing? Try the engagement strea
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
-   Alright! Now let's check out the settings.
+   Now configure the settings.
 
 ## Edit Settings {#edit-settings}
 
@@ -60,7 +60,7 @@ Want to know how your engagement content is performing? Try the engagement strea
 
 ## Run Report {#run-report}
 
-1. To run the report simply click on the **[!UICONTROL Report]** tab.
+1. To run the report, click the **[!UICONTROL Report]** tab.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
@@ -68,4 +68,4 @@ Want to know how your engagement content is performing? Try the engagement strea
    >
    >Although not illustrated, Engagement Score is a column in this report. See [Understanding the Engagement Score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) for details on what it is.
 
-   Great job! Notice that the report is grouped by engagement program.
+   Notice that the report is grouped by engagement program.

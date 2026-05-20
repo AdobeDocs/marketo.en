@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Archive and Unarchive Stream Content {#archive-and-unarchive-stream-content}
 
-If you no longer want to use a piece of content in a stream you can either [remove](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) it or archive it. Here's how to archive content.
+If you no longer want to use a piece of content in a stream you can either [remove](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) it or archive it. Here is how to archive content.
 
 >[!TIP]
 >
@@ -46,4 +46,4 @@ If you no longer want to use a piece of content in a stream you can either [remo
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
-   Perfect! Now this content is available to be prioritized and activated.
+   Now this content is available to be prioritized and activated.

@@ -121,7 +121,7 @@ You can also upload a brand asset to use content inside the asset as a reference
 
    ![](assets/use-the-ai-assistant-5.png)
 
-To choose a variation, select its checkbox and click **Select**. You can also tweak it by clicking **Refine**. Additionaly, you can provide feedback by clicking the thumbs up or thumbs down icon so the Gen-AI technology learns your preferences.
+To choose a variation, select its checkbox and click **Select**. You can also tweak it by clicking **Refine**. Additionally, you can provide feedback by clicking the thumbs up or thumbs down icon so the Gen-AI technology learns your preferences.
 
 After making your selection, the Subject Line is populated in your Email Details.
 
