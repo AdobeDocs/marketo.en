@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Prioritize Stream Content {#prioritize-stream-content}
 
-After you've added content to your stream, you may want to change the priority. The content is always delivered from the top down in each cast, and no content is sent to the same person twice.
+After you have added content to your stream, you may want to change the priority. The content is always delivered from the top down in each cast, and no content is sent to the same person twice.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -24,7 +24,7 @@ After you've added content to your stream, you may want to change the priority. 
 
    ![](assets/cloneasteam-1.jpg)
 
-1. Now simply drag and drop the content into the order in which you want it.
+1. Drag and drop the content into the order in which you want it.
 
    ![](assets/image2014-9-15-17-3a5-3a45.png)
 
@@ -32,4 +32,3 @@ After you've added content to your stream, you may want to change the priority. 
    >
    >Priority will always be read from top to bottom at time of cast.
 
-   It is that easy! Now you know how to prioritize your stream content.

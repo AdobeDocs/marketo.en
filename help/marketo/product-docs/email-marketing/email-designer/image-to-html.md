@@ -72,7 +72,7 @@ To convert an image into a fully customizable HTML email template, follow the st
 
    ![](assets/image-to-html-3.png)
 
-1. Scroll down and select the _The upload file does not contain..._ checkbox. Click **Convert**.
+1. Scroll down and select the _uploaded file does not contain..._ checkbox. Click **Convert**.
 
    ![](assets/image-to-html-4.png)
 

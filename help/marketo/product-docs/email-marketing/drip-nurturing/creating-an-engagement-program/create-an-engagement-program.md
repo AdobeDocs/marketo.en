@@ -28,8 +28,6 @@ You can use engagement programs in Marketo to accomplish email nurturing with ea
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 
-1. Alright, now that you have an engagement program, let's move forward and dress it up.
-
    ![](assets/image2014-9-15-15-3a35-3a38.png)
 
    >[!MORELIKETHIS]

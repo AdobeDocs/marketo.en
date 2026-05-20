@@ -1,13 +1,12 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TITLE
-description: "Learn how to apply brand themes to emails for consistent design. Use reusable themes and modules in the Email Designer."
+title: Apply themes to your email content
+description: Learn how to apply brand themes to emails for consistent design. Use reusable themes and modules in the Email Designer.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
-
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
 ---
 # Apply themes to your email content {#apply-email-themes}
@@ -41,7 +40,7 @@ Key Benefits:
 
 * When creating an email from scratch, you can choose to start building your content using a theme to quickly apply a specific styling that fits your brand and design.
 
-   If you choose the _Manual Styling_ mode, you won't be able to apply any themes unless you reset your email.
+   If you choose the _Manual Styling_ mode, you will not be able to apply any themes unless you reset your email.
 
 * [Fragments](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) are not cross-compatible between the _Use Themes_ and _Manual Styling_ modes.
 
@@ -123,9 +122,9 @@ To apply default or custom styling themes to an email, follow the steps below.
 
       >[!CAUTION]
       >
-      >If you choose the _Manual Styling_ mode, you won't be able to apply any themes unless you reset your email.
+      >* If you choose the _Manual Styling_ mode, you will not be able to apply any themes unless you reset your email.
       >
-      >To use a [fragment](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) in _Use Themes_ mode, this fragment must have been created itself using the _Use Themes_ mode.
+      >* To use a [fragment](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) in _Use Themes_ mode, this fragment must have been created itself using the _Use Themes_ mode.
 
 1. Once in the Email Designer, click the **[!UICONTROL Themes]** button on the right rail. The default theme or the template's theme is displayed. You can switch between the two color variants for this theme.
 

@@ -43,18 +43,18 @@ It is easy to add an email to a stream in an engagement program, and it works fi
 When using a nested program, the decision to send an email to a person is based on the program membership and program ID.
 
 * If you are not a member of a program, you will receive any emails that are part of the program once
-* If you are a member of the program, you won't receive the email
-* If you are no longer a member but received the email earlier through that program, you won't receive the email
+* If you are a member of the program, you will not receive the email
+* If you are no longer a member but received the email earlier through that program, you will not receive the email
 
-When you use a program in a stream, it doesn't matter if you’ve received that specific email before. As long as the email was not sent out before *in that specific program*, you can receive it again.
+When you use a program in a stream, it does not matter if you have received that specific email before. As long as the email was not sent out before *in that specific program*, you can receive it again.
 
 It can get tricky mixing emails and programs in an engagement program. You might want to use one or the other.
 
 >[!TIP]
 >
->Be sure to use a **[!UICONTROL Member of Engagement Program]** filter in your smart list.
+>Use a **[!UICONTROL Member of Engagement Program]** filter in your smart list.
 
-## What happens to people who don't meet the smart list criteria? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
+## What happens to people who do not meet the smart list criteria? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
 In the event that someone is filtered out of the smart list of a nested program’s smart campaign, they do not move on to the next piece of content during the current cast. They will move on to the next piece of content in the stream for the *following* cast.
 

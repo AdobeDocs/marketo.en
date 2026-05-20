@@ -16,7 +16,7 @@ feature_v2:
 ---
 # Test an Engagement Stream {#test-an-engagement-stream}
 
-Once you've added all your content to a stream, you can test them out one piece at a time.
+After you have added all your content to a stream, you can test them out one piece at a time.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
@@ -36,11 +36,11 @@ Once you've added all your content to a stream, you can test them out one piece 
 
    >[!CAUTION]
    >
-   >Make sure that your test person is unique and doesn't have duplicates in the database.
+   >Ensure your test person is unique and has no duplicates in the database.
 
    >[!TIP]
    >
-   >If the test person you are looking for doesn't exist, use the **[!UICONTROL Create Person]** option to create one on the fly.
+   >If the test person you are looking for does not exist, use the **[!UICONTROL Create Person]** option to create one on the fly.
 
    Click **[!UICONTROL Initial Stream]**, select the stream you want to test and click **[!UICONTROL Run Cast]**.
    ![](assets/five-rubiks.png)
@@ -52,8 +52,6 @@ Once you've added all your content to a stream, you can test them out one piece 
 1. The new stream will appear, indicating a successful test.
 
    ![](assets/seven-rubiks.png)
-
-   Good work!
 
    >[!NOTE]
    >

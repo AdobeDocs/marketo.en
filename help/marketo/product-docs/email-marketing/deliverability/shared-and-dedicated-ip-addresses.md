@@ -51,18 +51,18 @@ _Cons_
 
 _Pros_
 
-**Good roommates** - If the folks you are sharing your IP with follow best sending practices, you would benefit.
+**Good roommates** - If the senders sharing your IP follow best sending practices, you would benefit.
 **Mailing frequency** - There is no minimum mailing frequency needed to qualify for a shared IP, unlike with Dedicated IPs.
 **Cost** - There is never an additional charge to send from a Shared IP.
 
 _Cons_
 
-**Bad roommates** - If the folks you are sharing your IP with engage in poor sending practices, your email campaigns could be adversely affected.
+**Bad roommates** - If the senders sharing your IP engage in poor sending practices, your email campaigns could be adversely affected.
 **Control** - You have much less control over your sender reputation.
 **Issue Resolution** - It can often be more difficult to resolve an issue when sending from Shared IPs.
 
 >[!NOTE]
 >
->When making a decision, there's another important factor to consider: sending volume. If you plan to send less than 100,000 emails a month, or less than two mailings in a month, you probably wouldn't benefit from a Dedicated IP. Sending numbers like that are considered low, and it would be difficult to keep your Dedicated IP "warm" enough to be considered safe by the main ISPs. Basically, if you don't mail frequently enough, the ISPs will see a mailing as a sudden "surge" of activity, and may end up blocking it as suspected spam.
+>When making a decision, there is another important factor to consider: sending volume. If you plan to send less than 100,000 emails a month, or less than two mailings in a month, you would probably not benefit from a Dedicated IP. Sending numbers like that are considered low, and it would be difficult to keep your Dedicated IP "warm" enough to be considered safe by the main ISPs. If you do not mail frequently enough, the ISPs will see a mailing as a sudden "surge" of activity, and may end up blocking it as suspected spam.
 
-If you have any questions, or are interested in setting up a Dedicated IP, please contact your Marketo sales rep.
+If you have any questions, or are interested in setting up a Dedicated IP, contact your Marketo Account Representative.

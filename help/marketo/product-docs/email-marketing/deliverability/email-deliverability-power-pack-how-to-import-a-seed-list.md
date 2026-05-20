@@ -45,14 +45,14 @@ A Seed List is a list of email accounts at multiple mailbox providers, including
 
    >[!TIP]
    >
-   >Be sure to name your list in a way that will make it easy to find.
+   >Name your list in a way that makes it easy to find.
 
    >[!CAUTION]
    >
-   >You get a limited amount of these Inbox Placement Campaigns per month. To see how many you get, look at the [!UICONTROL Subscription] section under [!UICONTROL Account Settings] > [!UICONTROL Subscription] in [!DNL Everest]. To obtain more, please contact your Marketo Sales Rep.
+   >You get a limited amount of these Inbox Placement Campaigns per month. To see how many you get, look at the [!UICONTROL Subscription] section under [!UICONTROL Account Settings] > [!UICONTROL Subscription] in [!DNL Everest]. To obtain more, contact your Marketo Sales Rep.
 
 ## Acquiring New Seedlists {#acquiring-new-seedlists}
 
-   Your Seed List can change as often as every month. It is important to log in to the Email Deliverabilty Power Pack regularly and check the status of your Seed List. When new addresses are added or an update is required on your end, you will be alerted via the Notification Icon on the lower left hand side of the application.
+   Your Seed List can change as often as every month. It is important to log in to the Email Deliverability Power Pack regularly and check the status of your Seed List. When new addresses are added or an update is required on your end, you will be alerted via the Notification Icon on the lower-left of the application.
 
 After your static list in Marketo is created, you can begin sending to it to test your email's inbox placement.

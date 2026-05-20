@@ -162,7 +162,7 @@ To personalize your **[!UICONTROL Writing Style]**:
 
 1. If needed, select one of your guideline or exclusion to update or delete.
 
-1. Click the "Edit" to edit your example or the "Delete" icon to delete it. 
+1. Click the **[!UICONTROL Edit]** icon to edit your entry, or the **[!UICONTROL Delete]** icon to delete it. 
 
    SCREENSHOT
 

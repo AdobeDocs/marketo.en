@@ -70,7 +70,7 @@ The following steps are for users on the [Litmus Enterprise Plan](https://www.li
 
     ![](assets/test-email-rendering-with-litmus-6.png)
 
-**OPTIONAL STEP**: If you decide to make changes to your email, after you click **Render email** to view them, be sure to also click the **Retest** button on the upper-right of the Litmus _Email Previews_ screen.
+**OPTIONAL STEP**: If you decide to make changes to your email, after you click **Render email** to view them, remember to also click the **Retest** button on the upper-right of the Litmus _Email Previews_ screen.
 
    ![](assets/test-email-rendering-with-litmus-7.png)
 

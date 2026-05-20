@@ -18,7 +18,7 @@ Marketo AI provides agents designed to automate time-consuming but important mar
 
 >[!IMPORTANT]
 >
->After this feature has been enabled for your subscription, you must perform some [setup steps](/help/marketo/product-docs/marketo-ai/settings-setup.md) to ensure the desired users have access.
+>After this feature has been enabled for your subscription, you must perform some [setup steps](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} to ensure the desired users have access.
 
 ## How to access {#access}
 

@@ -35,13 +35,9 @@ topic_v2:
 
 For an accelerated and improved design process, you can create standalone email templates to easily reuse custom content.
 
->[!PREREQUISITES]
->
->In order to access the new email designer, your Marketo Engage subscription must be migrated to the [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). If yours hasn't been yet and you'd like to request it be expedited, please contact the Adobe Account Team (your account manager), or [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
-
 >[!NOTE]
 >
->Email templates in the new email designer can only be used to create emails in the new email designer. They cannot be referenced in the old email editor.
+>Email templates in the Email Designer can only be used to create emails in the Email Designer. They cannot be referenced in the classic email editor.
 
 ## Create an email template {#create-an-email-template}
 
@@ -189,7 +185,7 @@ Add images that are stored in the [Images and Files](/help/marketo/product-docs/
 
 >[!NOTE]
 >
->You can only add images in the new designer, no other file types at this time.
+>You can only add images in the Email Designer, no other file types at this time.
 
 1. To access your images, click the Asset selector icon.
 
@@ -240,7 +236,7 @@ The example below outlines steps to adjust padding and vertical alignment inside
 
 ### Personalize content {#personalize-content}
 
-Tokens work in the new editor the same way they work in the old, but the icon looks different. The example below outlines adding a first name token with fallback text.
+Tokens work in the Email Designer the same way they work in the classic editor, but the icon looks different. The example below outlines adding a first name token with fallback text.
 
 1. Select the text component. Place the cursor where you want the token to appear and click the **Add personalization** icon.
 
@@ -256,7 +252,7 @@ Tokens work in the new editor the same way they work in the old, but the icon lo
 
    >[!NOTE]
    >
-   >"Fallback text" is the new editor term for default value. Example: ``{{lead.First Name:default=Friend}}``. It is recommended in case there is no value for the person in the field you choose.
+   >"Fallback text" is the Email Designer term for default value. Example: ``{{lead.First Name:default=Friend}}``. It is recommended in case there is no value for the person in the field you choose.
 
 1. Set your fallback text and click **Add**.
 
@@ -388,4 +384,4 @@ From the _Email templates_ listing page, select multiple templates by selecting 
 
 >[!MORELIKETHIS]
 >
->[Email authoring](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Learn how to create, design, and reference an email in the new designer.
+>[Email authoring](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}

@@ -129,7 +129,7 @@ Use the **[!UICONTROL HTML]** component to copy-paste the different parts of you
 
 >[!NOTE]
 >
->To simply make an external content compliant with the Email Designer, Adobe recommends creating a message from scratch and copy the content from your existing email into components.
+>To make external content compliant with the Email Designer, Adobe recommends creating a message from scratch and copy the content from your existing email into components.
 
 ## Image {#image}
 
@@ -192,7 +192,7 @@ Use the **[!UICONTROL Offer decision]** component to insert offers into your mes
 
    SCREENSHOT
 
-1. From the drop-down, select your **[!UICONTROL Placements]**.  Then, select the the **[!UICONTROL Offer decision]** you want to add to your content and click **[!UICONTROL Add]**.
+1. From the drop-down, select your **[!UICONTROL Placements]**. Then, select the **[!UICONTROL Offer decision]** you want to add to your content and click **[!UICONTROL Add]**.
 
    SCREENSHOT
 

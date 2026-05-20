@@ -14,11 +14,11 @@ feature_v2:
 ---
 # Remove a Member from an Engagement Program {#remove-a-member-from-an-engagement-program}
 
-Oops! How did those people get in there? You can remove members from an engagement program with the **[!UICONTROL Change Program Status]** flow step.
+You can remove members from an engagement program with the **[!UICONTROL Change Program Status]** flow step.
 
 >[!TIP]
 >
->Don't use this to pause content for a person. That will eliminate all attribution in analytics. Learn more about how to [pause people in an engagement program](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
+>Do not use this to pause content for a person. That will eliminate all attribution in analytics. Learn more about how to [pause people in an engagement program](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
 
 ## Flow Step {#flow-step}
 
@@ -30,11 +30,11 @@ Oops! How did those people get in there? You can remove members from an engageme
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   Groovy. All the members you've defined in the [smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) will no longer be in this engagement program.
+   All the members you have defined in the [smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) will no longer be in this engagement program.
 
 ## Pause People  {#pause-people}
 
-Sometimes you just want to pause people in an engagement program and not remove them. This is done with the **[!UICONTROL Change Engagement Program Cadence]**.
+Sometimes you want to pause people in an engagement program and not remove them. This is done with the **[!UICONTROL Change Engagement Program Cadence]**.
 
 >[!MORELIKETHIS]
 >
