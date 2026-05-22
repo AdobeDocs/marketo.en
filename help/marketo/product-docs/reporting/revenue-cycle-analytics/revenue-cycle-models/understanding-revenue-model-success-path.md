@@ -11,7 +11,7 @@ feature: Reporting, Revenue Cycle Analytics
 
 In the model, the green path aka the **Success Path** is the optimal path of how a lead linearly transitions to a closed/won business.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![flow chart](assets/image2015-6-12-17-3a12-3a18.png)
 
 Example Stages on a Success Path:
 
@@ -19,7 +19,7 @@ Example Stages on a Success Path:
 |---|---|
 | **Review New Names** |Review if new names are qualified |
 | **Prospect** |Qualified prospects who are not yet sales ready |
-| **Lead** |Marketing qualified leads (“sales ready”) |
+| **Lead** |Marketing qualified leads ("sales ready") |
 | **Opportunity** |Sales accepted leads, actively working |
 | **Customer** |Closed Won deals |
 
@@ -29,7 +29,7 @@ Example Stages on a Success Path:
 
 ## Detours {#detours}
 
-Recognizing that not all leads follow a linear “success path”, you should also define your “detour stages” to capture leads that are not qualified, or that require a few rounds of nurturing before becoming ready. For example:
+Recognizing that not all leads follow a linear "success path", you should also define your "detour stages" to capture leads that are not qualified, or that require a few rounds of nurturing before becoming ready. For example:
 
 | **DETOUR STAGE NAME** |**DEFINITION** |
 |---|---|
