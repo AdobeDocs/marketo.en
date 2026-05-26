@@ -59,7 +59,7 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>Marketo MCP Server</strong>: The Marketo MCP server acts as a bridge between your AI assistant and Marketo Engage. It exposes more than 100 operations across forms, programs, smart campaigns, people/leads, emails, snippets, lists, and folders.</td>
+   <td><strong>Marketo Engage MCP Server</strong>: The Marketo Engage MCP server acts as a bridge between your AI assistant and Marketo Engage. It exposes more than 100 operations across forms, programs, smart campaigns, people/leads, emails, snippets, lists, and folders.</td>
    <td>Limited availability (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">request access here</a>)</td>
    <td><a href="https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html">Marketo MCP Server</a></td>
   </tr>
