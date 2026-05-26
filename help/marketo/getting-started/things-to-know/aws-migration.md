@@ -26,7 +26,7 @@ During your migration window, all Marketo Engage services will be unavailable. W
 
 * **Review and update IP allowlists** for login, API access, email sending, web tracking, and integrations.
 
-* Add the following IP addresses and keep your current IPs as-is:
+* **Add the following IP addresses** and keep your current IPs as-is:
 
    * 54.160.246.246
    * 54.237.141.197
@@ -37,7 +37,36 @@ During your migration window, all Marketo Engage services will be unavailable. W
 The impacts below require no action on your part.
 
 * **CRM integrations and LaunchPoint services** will be disabled but should resume automatically afterward. 
-* **Landing pages, forms, and data collection** will be unavailable, and a maintenance message will be displayed instead. 
+* **Landing pages, forms, and data collection** will be unavailable, and a maintenance message will be displayed instead.
+
+## Schedule {#schedule}
+
+New dates and data centers/pod information is periodically added, so be sure to check back here for details.
+
+Before reviewing the table below, [learn how to identify](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) what data center and pod/server your subscription is located in.
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:75%">Date</th>
+   <th style="width:25%">Pod</th>
+  </tr>
+  <tr>
+   <td>June 5, 2026</td>
+   <td>AB46</td>
+  </tr>
+  <tr>
+   <td>July 8, 2026</td>
+   <td>AB69<br>
+   AB64</td>
+  </tr>
+  <tr>
+   <td>July 9, 2026</td>
+   <td>AB70<br>
+   AB43</td>
+  </tr>
+  </body>
+  </table>
 
 ## Updates and support
 
