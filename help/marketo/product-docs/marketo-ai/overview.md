@@ -10,7 +10,7 @@ Marketo AI provides agents designed to automate time-consuming but important mar
 
 >[!AVAILABILITY]
 >
->This feature is in limited availability. To request access for your subscription, contact the Adobe Account Team (your account manager).
+>This feature is in limited availability. To request access, fill out [this form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}. Be sure to have your subscription's Munchkin ID ready.
 
 >[!PREREQUISITES]
 >
