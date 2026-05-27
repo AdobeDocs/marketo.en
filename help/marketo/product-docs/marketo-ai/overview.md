@@ -50,26 +50,6 @@ Additional agents designed to handle the most repetitive, time-consuming work ar
 * Generate complete Marketo Engage programs directly from a campaign brief.
 * And more.
 
-<!--
-
-### Investigate Lead (Coming soon) {#investigate-lead}
-
-Discover why someone didn't MQL, qualify for a program, or progress through the lifecycle.
-
-### Plan Program (Coming soon) {#plan-program}
-
-Create a program setup document for others to use from a campaign brief.
-
-### Create Program (Coming soon) {#create-program}
-
-Generate an entire Marketo Engage program using a campaign brief, complete with email, landing page, and Smart Campaign.
-
-### Normalize data (Coming soon) {#normalize-data}
-
-Standardize fields such as company name, job title, country, and more.
-
-### Callable agents (Coming soon) {#callable-agents}
-
-These agents run as webhooks in Marketo Engage Smart Campaigns for real-time data processing.
-
--->
+>[!MORELIKETHIS]
+>
+>The [Marketo Engage MCP Server](https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} acts as a bridge between your AI assistant and Marketo Engage.
