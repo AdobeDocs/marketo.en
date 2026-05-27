@@ -117,7 +117,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Missed Chat Status</strong>: Now when an agent does not accept a chat, a new "Missed chat" status will appear in the Activity Details of the person who chatted in.
+   <td><strong>Dynamic Chat - Missed Chat Status</strong>: When an agent does not accept a chat, a new "Missed chat" status will appear in the Activity Details in the Person Record of the person who chatted in.
    </td>
    <td>Released</td>
    <td>n/a</td>
@@ -128,7 +128,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - New Attribute Syncing Behavior</strong>: Previously, adding new attributes blocked changes in the environment for up tp 24 hours while the sync completed, preventing dialogue editing and publishing. Now, while adding a new attribute still requires a full data sync (which may take up to 24 hours), the environment is no longer blocked during this process.
+   <td><strong>Dynamic Chat - New Attribute Syncing Behavior</strong>: Previously, adding new attributes blocked changes in the environment for up tp 24 hours while the sync completed, preventing dialogue editing and publishing. Now, while adding a new attribute still requires a full data sync (which still may take up to 24 hours), the environment is no longer blocked during the process.
    </td>
    <td>Released</td>
    <td>n/a</td>
