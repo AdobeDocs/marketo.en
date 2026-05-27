@@ -48,22 +48,28 @@ Before reviewing the table below, [learn how to identify](/help/marketo/getting-
 <table>
  <tbody>
   <tr>
-   <th style="width:75%">Date</th>
-   <th style="width:25%">Pod</th>
+   <th style="width:50%">Date</th>
+   <th style="width:20%">Pod</th>
+   <th style="width:30%">Time</th>
   </tr>
   <tr>
    <td>June 5, 2026</td>
    <td>AB46</td>
+   <td>5 p.m. PST</td>
   </tr>
   <tr>
    <td>July 8, 2026</td>
    <td>AB69<br>
    AB64</td>
+   <td>5 p.m. PST<br>
+   6 p.m. PST</td>
   </tr>
   <tr>
    <td>July 9, 2026</td>
    <td>AB70<br>
    AB43</td>
+   <td>5 p.m. PST<br>
+   6 p.m. PST</td>
   </tr>
   </body>
   </table>

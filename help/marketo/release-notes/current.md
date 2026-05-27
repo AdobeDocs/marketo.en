@@ -89,6 +89,50 @@ The following features fall under the standard release cycle and will start to b
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Is Typing</strong>: Now both the visitor and the agent see an "is typing..." notification while the other party is typing, preventing one from interrupting the other.
+   </td>
+   <td>Released</td>
+   <td>n/a</td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Marketo Picklist/Drop-down Fields</strong>: Marketo picklist/drop-down person fields (including Salesforce-synced values) are now available as drop-down values in the chat profile editor.
+   </td>
+   <td>Released</td>
+   <td>n/a</td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Missed Chat Status</strong>: Now when an agent does not accept a chat, a new "Missed chat" status will appear in the Activity Details of the person who chatted in.
+   </td>
+   <td>Released</td>
+   <td>n/a</td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - New Attribute Syncing Behavior</strong>: Previously, adding new attributes blocked changes in the environment for up tp 24 hours while the sync completed, preventing dialogue editing and publishing. Now, while adding a new attribute still requires a full data sync (which may take up to 24 hours), the environment is no longer blocked during this process.
+   </td>
+   <td>Released</td>
+   <td>n/a</td>
+  </tr>
   </tbody>
 </table>
 <br/>
