@@ -53,18 +53,6 @@ feature-set: Marketo Engage
     + [Inherited Instance: Document Your Setup](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
     + [Reviewing Core Skills](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Product Docs {#product-docs}
-  + Marketo AI {#marketo-ai}
-    + [Overview](product-docs/marketo-ai/overview.md)
-    + [Settings and Setup](product-docs/marketo-ai/settings-setup.md)
-    + {hide-from-toc} [Settings and Setup](product-docs/marketo-ai/settings-setup-old.md)
-    + Agents {#agents}
-      + {hide-from-toc} [Product knowledge](product-docs/marketo-ai/agents/product-knowledge.md)
-      + {hide-from-toc} [Analytics](product-docs/marketo-ai/agents/analytics.md)
-      + {hide-from-toc} [Create program](product-docs/marketo-ai/agents/create-program.md)
-      + {hide-from-toc} [Clone program](product-docs/marketo-ai/agents/clone-program.md)
-      + {hide-from-toc} [Investigate lead](product-docs/marketo-ai/agents/investigate-lead.md)
-      + [Import leads](product-docs/marketo-ai/agents/import-leads.md)
-      + [Program QA](product-docs/marketo-ai/agents/program-qa.md)
   + Additional Apps {#additional-apps}
     + SEO {#seo}
       + Keywords {#keywords}
@@ -1113,6 +1101,18 @@ feature-set: Marketo Engage
         + [Use the Send Alert Info Token](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
         + [Using URLs in My Tokens](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
       + [Email CC](product-docs/email-marketing/general/email-cc.md)
+  + Marketo AI {#marketo-ai}
+    + [Overview](product-docs/marketo-ai/overview.md)
+    + [Settings and Setup](product-docs/marketo-ai/settings-setup.md)
+    + {hide-from-toc} [Settings and Setup](product-docs/marketo-ai/settings-setup-old.md)
+    + Agents {#agents}
+      + {hide-from-toc} [Product knowledge](product-docs/marketo-ai/agents/product-knowledge.md)
+      + {hide-from-toc} [Analytics](product-docs/marketo-ai/agents/analytics.md)
+      + {hide-from-toc} [Create program](product-docs/marketo-ai/agents/create-program.md)
+      + {hide-from-toc} [Clone program](product-docs/marketo-ai/agents/clone-program.md)
+      + {hide-from-toc} [Investigate lead](product-docs/marketo-ai/agents/investigate-lead.md)
+      + [Import leads](product-docs/marketo-ai/agents/import-leads.md)
+      + [Program QA](product-docs/marketo-ai/agents/program-qa.md)    
   + Marketo Engage Modern UX {#marketo-engage-modern-ux}
     + [Overview](product-docs/marketo-engage-modern-ux/overview.md)
     + [Using the Global Search](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
