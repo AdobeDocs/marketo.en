@@ -1,12 +1,12 @@
 ---
 description: Have a conversation with Marketo AI about your Marketo Engage performance data. Ask questions in plain language and get answers grounded in your Marketo environment.
-title: Analytics
+title: Surface insights
 badge: Beta
 hide: true
 ---
-# Analytics {#analytics}
+# Surface insights {#surface-insights}
 
-Analytics lets you have a conversation about your Marketo performance data. Ask questions in plain language and get answers grounded in your Marketo environment.
+Surface insights lets you have a conversation about your Marketo performance data. Ask questions in plain language and get answers grounded in your Marketo environment.
 
 >[!PREREQUISITES]
 >
@@ -16,7 +16,7 @@ Analytics lets you have a conversation about your Marketo performance data. Ask 
 
 >[!AVAILABILITY]
 >
->This feature is in closed beta and is currently in a phased rollout over the next few months. You will know when it has been enabled for your subscription when you see the _Build with AI_ tile on your My Marketo screen.
+>This feature is currently in closed beta. Please do not disseminate this documentation.
 
 ## How to use {#how-to-use}
 
@@ -38,7 +38,7 @@ Analytics lets you have a conversation about your Marketo performance data. Ask 
 
 ## Things to note {#things-to-note}
 
-* Analytics answers are based on the data available in your Marketo instance. If a program isn't tracked or a metric isn't captured, Marketo AI won't be able to report on it.
+* Surface insights are based on the data available in your Marketo instance. If a program isn't tracked or a metric isn't captured, Marketo AI won't be able to report on it.
 * Very large date ranges or broad questions may return high-level summaries rather than granular detail. For example, "How did all my programs perform over the last two years?"
 * Marketo AI can surface data but cannot make changes to your programs or reports based on what it finds.
 * For detailed custom reporting with specific filters and breakdowns, the Marketo built-in reporting tools or a BI integration may be more appropriate.
