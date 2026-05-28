@@ -1107,12 +1107,12 @@ feature-set: Marketo Engage
     + {hide-from-toc} [Settings and Setup](product-docs/marketo-ai/settings-setup-old.md)
     + Agents {#agents}
       + {hide-from-toc} [Product knowledge](product-docs/marketo-ai/agents/product-knowledge.md)
-      + {hide-from-toc} [Analytics](product-docs/marketo-ai/agents/analytics.md)
-      + {hide-from-toc} [Create program](product-docs/marketo-ai/agents/create-program.md)
+      + {hide-from-toc} [Surface insights](product-docs/marketo-ai/agents/surface-insights.md)
+      + {hide-from-toc} [Build programs](product-docs/marketo-ai/agents/create-program.md)
       + {hide-from-toc} [Clone program](product-docs/marketo-ai/agents/clone-program.md)
-      + {hide-from-toc} [Investigate lead](product-docs/marketo-ai/agents/investigate-lead.md)
+      + {hide-from-toc} [Investigate leads](product-docs/marketo-ai/agents/investigate-leads.md)
       + [Import leads](product-docs/marketo-ai/agents/import-leads.md)
-      + [Program QA](product-docs/marketo-ai/agents/program-qa.md)    
+      + [Validate programs](product-docs/marketo-ai/agents/validate-programs.md)    
   + Marketo Engage Modern UX {#marketo-engage-modern-ux}
     + [Overview](product-docs/marketo-engage-modern-ux/overview.md)
     + [Using the Global Search](product-docs/marketo-engage-modern-ux/using-the-global-search.md)

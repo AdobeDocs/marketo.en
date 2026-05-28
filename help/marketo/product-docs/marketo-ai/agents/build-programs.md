@@ -1,10 +1,10 @@
 ---
 description: Use Marketo AI to build a Marketo program from a plain-language brief. Get smart campaigns, scheduling, and asset placeholders ready to review and refine.
-title: Create program
+title: Build programs
 badge: Beta
 hide: true
 ---
-# Create program {#create-program}
+# Build programs {#build-programs}
 
 Describe a marketing campaign in plain language and Marketo AI will build the program structure, complete with asset placeholders and scheduling.
 
@@ -16,7 +16,7 @@ Describe a marketing campaign in plain language and Marketo AI will build the pr
 
 >[!AVAILABILITY]
 >
->This feature is in closed beta and is currently in a phased rollout over the next few months. You will know when it has been enabled for your subscription when you see the _Build with AI_ tile on your My Marketo screen.
+>This feature is currently in closed beta. Please do not disseminate this documentation.
 
 ## How to use {#how-to-use}
 

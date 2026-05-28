@@ -1,9 +1,9 @@
 ---
 description: Coming soon
-title: Normalize data
+title: Standardize data
 badge: Beta
 hide: true
 ---
-# Normalize data {#normalize-data}
+# Standardize data {#standardize-data}
 
 coming soon
