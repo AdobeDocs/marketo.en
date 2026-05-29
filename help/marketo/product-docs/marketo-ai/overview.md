@@ -36,7 +36,7 @@ The center console features a growing set of agents available to help you with v
 
 ### Program QA {#program-qa}
 
-Program QA automatically checks your setup against Marketo best practices and surfaces issues prior to launch. Learn more about the [Program QA Agent](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}.
+Program QA automatically checks your setup against Marketo best practices and surfaces issues prior to launch. Learn more about the [Validate programs Agent](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md){target="_blank"}.
 
 ### Import leads {#import-leads}
 
