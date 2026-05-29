@@ -37,29 +37,3 @@ Audit your programs for best practices across all components, such as emails, la
    The AI Assistant provides a QA of the selected program, showing you what passed and what failed.
 
    ![](assets/program-qa-6.png)
-
-<!--
-   You have three validation paths to choose from:
-
-   | Path | What You Provide | Verification Type | Best For |
-   | --- | --- | --- | --- |
-   | Rules Only | Nothing | Compliance checks | Org compliance & audits |
-   | + Test Plan | Your team's test document | Rules + Custom checks | Team or channel-specific checks |
-   | + Campaign Brief | Campaign brief document | Exact field matching | Pre-launch readiness |
-
-1. To Upload a Test Plan, a Campaign Brief, or both, click the upload icon, add your files and click **Send**. To proceed with rules only, enter "Proceed with Rules Only" in the prompt window and click **Send**. In this example, we are proceeding with rules only.
-
-PICC
-
-1. To start validation, click **Run QA Validation**.
-
-PICC
-
-1. The report generates. To see the full report, click View Full Report.
-
-PICC
-
-1. The report appears in the center console. Scroll down to view. You can also download the report via .docx file.
-
-PICC
--->
