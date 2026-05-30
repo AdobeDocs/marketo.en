@@ -1,8 +1,6 @@
 ---
 description: Learn how to define a fixed set of values for a field to simplify data and workflow management.
 title: Picklist Management
-hide: true
-
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
 ---

@@ -76,8 +76,8 @@ The following features fall under the standard release cycle and will start to b
   <tr>
    <td><strong>Picklist Management</strong>: You can now specify the values that can be used in fields in Marketo Engage.
    </td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Released</td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">Picklist Management</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>
