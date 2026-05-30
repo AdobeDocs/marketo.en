@@ -52,4 +52,4 @@ Additional agents designed to handle the most repetitive, time-consuming work ar
 
 >[!MORELIKETHIS]
 >
->The [Marketo Engage MCP Server](https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} acts as a bridge between your AI assistant and Marketo Engage.
+>The [Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} acts as a bridge between your AI assistant and Marketo Engage.
