@@ -34,9 +34,9 @@ In the prompt field, click **Get Started** (or type your own query).
 
 The center console features a growing set of agents available to help you with various tasks. Each agent is a purpose-built AI assistant you interact with through natural language to complete a specific task.
 
-### Program QA {#program-qa}
+### Validate programs {#validate-programs}
 
-Program QA automatically checks your setup against Marketo best practices and surfaces issues prior to launch. Learn more about the [Validate programs Agent](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md){target="_blank"}.
+Validate programs automatically checks your setup against Marketo best practices and surfaces issues prior to launch. Learn more about the [Validate programs Agent](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md){target="_blank"}.
 
 ### Import leads {#import-leads}
 
