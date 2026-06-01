@@ -3,3 +3,4 @@
 help/.DS_Store
 .vscode/settings.json
 .pre-commit-config.yaml
+.cursor-agents/
