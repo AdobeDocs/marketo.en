@@ -1108,7 +1108,7 @@ feature-set: Marketo Engage
     + Agents {#agents}
       + {hide-from-toc} [Product knowledge](product-docs/marketo-ai/agents/product-knowledge.md)
       + {hide-from-toc} [Surface insights](product-docs/marketo-ai/agents/surface-insights.md)
-      + {hide-from-toc} [Build programs](product-docs/marketo-ai/agents/create-program.md)
+      + {hide-from-toc} [Build programs](product-docs/marketo-ai/agents/build-programs.md)
       + {hide-from-toc} [Clone program](product-docs/marketo-ai/agents/clone-program.md)
       + {hide-from-toc} [Investigate leads](product-docs/marketo-ai/agents/investigate-leads.md)
       + [Import leads](product-docs/marketo-ai/agents/import-leads.md)
