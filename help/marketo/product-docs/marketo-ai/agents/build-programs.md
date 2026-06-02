@@ -6,7 +6,7 @@ hide: true
 ---
 # Build programs {#build-programs}
 
-Describe a marketing campaign in plain language and Marketo AI will build the program structure, complete with asset placeholders and scheduling.
+Describe a marketing campaign in plain language and Marketo AI builds the program structure, complete with asset placeholders and scheduling.
 
 >[!PREREQUISITES]
 >
