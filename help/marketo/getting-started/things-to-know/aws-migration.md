@@ -53,7 +53,7 @@ Before reviewing the table below, [learn how to identify](/help/marketo/getting-
    <th style="width:30%">Time</th>
   </tr>
   <tr>
-   <td>June 5, 2026</td>
+   <td>June 19, 2026</td>
    <td>AB46</td>
    <td>5 p.m. PST</td>
   </tr>
