@@ -13,17 +13,15 @@ product_v2:
 
 If your Marketo sync user is set to a language other than English you may run into an error when trying to enable a custom object sync.
 
-## The Error {#the-error}
-
 ![](assets/image2014-12-10-13-3a17-3a51.png)
 
-## Getting Around It {#getting-around-it}
+## How to fix {#how-to-fix}
 
 1. Log in to [!DNL Salesforce] using the marketo sync user.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. Under the user name, go to **[!UICONTROL Setup]**.
+1. Click the user name drop-down and select **[!UICONTROL Setup]**.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
@@ -43,19 +41,23 @@ If your Marketo sync user is set to a language other than English you may run in
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Back in Marketo, under **[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objects]**, click **[!UICONTROL Refresh Schema]**.
+1. In your [Adobe Account Profile](https://account.adobe.com/profile){target="_blank"}, scroll down to **[!UICONTROL Preferred languages]** and make sure your first language is set to English.
+
+   ![](assets/enable-non-english-custom-object-sync-step-6.5.png)
+
+1. In Marketo Engage, navigate to **[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objects]**. Click **[!UICONTROL Refresh Schema]**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. This will pull the objects list in English. Now select the object of your choice and click **[!UICONTROL Enable Sync]**.
+1. This pulls the objects list in English. Select the object of your choice and click **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
-1. Notice your custom object is now enabled and syncing.
+1. Your custom object is now enabled and syncing.
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 
-1. Now go back to [!DNL Salesforce] and use the above steps to change the sync user back to your preferred language.
+1. Go back to [!DNL Salesforce] and use the above steps to change the sync user back to your preferred language.
 
 >[!NOTE]
 >
