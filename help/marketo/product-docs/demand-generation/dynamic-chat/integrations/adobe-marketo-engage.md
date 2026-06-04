@@ -39,7 +39,7 @@ After you've completed the [initial setup](/help/marketo/product-docs/demand-gen
 
    >[!NOTE]
    >
-   >If you don't see the tile, reach out to your Marketo Admin.
+   >If you do not see the Dynamic Chat tile in your My Marketo screen, access Dynamic Chat from the App menu on experience.adobe.com and connect to Marketo via **Configuration** > **Integrations**. After connecting, the tile will appear.
 
 1. If you've previously accessed an application with an Adobe ID, you'll be taken straight to Dynamic Chat. If not, [set up your Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 

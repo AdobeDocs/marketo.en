@@ -28,6 +28,10 @@ Contact your Marketo Engage Admin and verify they have [added you as a user](/he
 
 The Dynamic Chat JavaScript snippet can be installed on any website as well as Marketo Landing Pages.
 
+**I have Dynamic Chat but don't see a Dynamic Chat tile in My Marketo. How do I get it?**
+
+Access Dynamic Chat from the App menu on experience.adobe.com and connect to Marketo via **Configuration** > **Integrations**. After connecting, the tile will appear.
+
 **How long is data stored for reporting?**
 
 90 days. For a full list of limits/parameters, see the Marketo Engage [Product Description page](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
