@@ -65,8 +65,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Email Designer - Conditional Content for Email Fragments</strong>: <i>Parity with the old email editor</i>. Conditional content is now supported for Fragments.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Released</td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td>&nbsp;</td>
