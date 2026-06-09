@@ -13,38 +13,38 @@ product_v2:
 
 Preview your landing page to see how it looks before making it live.
 
-## Preview a Landing Page {#preview-a-landing-page-1}
+>[!IMPORTANT]
+>
+>Some custom meta tags are not supported in preview mode (such as the `<meta http-equiv="refresh" ...>` redirect directive), as they can violate the Content Security Policy put in place to keep Marketo Engage secure. Landing pages with these tags can be previewed by generating the preview URL (**Preview actions** > **Generate Preview URL**) and pasting it into a new browser window.
 
-1. Select a landing page and click **[!UICONTROL Preview Page]**.
+## Preview an approved page {#preview-approved-page}
 
-   ![](assets/image2014-9-16-16-3a21-3a10.png)
+1. Select the desired landing page and click **[!UICONTROL Preview]**.
 
-   >[!NOTE]
-   >
-   >The draft is the version you are working on, not the live one customers see.
+   ![](assets/preview-a-landing-page-1.png)
 
-1. You can also right-click your landing page and select **[!UICONTROL Preview]**.
+You can also right-click your landing page and select **[!UICONTROL Preview]**.
 
-   ![](assets/image2014-9-17-10-3a9-3a49.png)
+## Preview a draft {#preview-a-draft}
 
-## Preview a Landing Page Draft {#preview-a-landing-page-draft}
+1. Select the desired landing page and click **[!UICONTROL Preview draft]**.
 
-1. Right click an approved landing page that has a draft version and click on **[!UICONTROL Preview Draft]**.
+   ![](assets/preview-a-landing-page-2.png)
 
-   ![](assets/image2014-9-17-10-3a9-3a56.png)
+>[!NOTE]
+>
+>The draft is the version you are working on, not the live one customers see.
 
-## Preview a Landing Page Draft While Editing {#preview-a-landing-page-draft-while-editing}
+## Preview a landing page draft while editing {#preview-a-draft-while-editing}
 
-1. Select a landing page and click **[!UICONTROL Edit Draft]**.
+1. Select the desired landing page and click **[!UICONTROL Edit draft]**.
 
-   ![](assets/image2014-9-17-10-3a10-3a4.png)
+   ![](assets/preview-a-landing-page-3.png)
 
-1. At any point during your work in the landing page editor, you can click **[!UICONTROL Preview Draft]**.
+1. In the landing page editor, click **[!UICONTROL Preview draft]**.
 
-   ![](assets/image2015-5-21-15-3a48-3a59.png)
+   ![](assets/preview-a-landing-page-4.png)
 
-1. You can quickly return to editing by clicking **[!UICONTROL Edit Draft]**.
+1. Return to editing by clicking **[!UICONTROL Edit draft]**.
 
-   ![](assets/image2014-9-17-10-3a10-3a20.png)
-
-You now know how to preview landing pages.
+   ![](assets/preview-a-landing-page-5.png)
