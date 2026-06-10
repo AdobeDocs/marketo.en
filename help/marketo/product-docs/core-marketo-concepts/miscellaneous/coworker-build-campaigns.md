@@ -1,5 +1,5 @@
 ---
-description: TBD.
+description: A step-by-step guide to building an email campaign in CX Enterprise Coworker, from writing prompts to reviewing and exporting your campaign.
 title: Build and generate email campaigns
 ---
 # Build and generate email campaigns {#build-and-generate-email-campaigns}
