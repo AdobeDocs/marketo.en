@@ -4,7 +4,7 @@ title: Use cases
 ---
 # Use cases {#use-cases}
 
-Below are real prompt patterns that lifecycle and growth marketers are using in CX Enterprise Coworker today. Each one is built to be copied, swapped with your own audience and brand details, and refined in conversation.
+Below are real prompt patterns that lifecycle and growth marketers are using in CX Enterprise Coworker. Each one is built to be copied, swapped with your own audience and brand details, and refined in conversation.
 
 ## How to use
 
