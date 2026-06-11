@@ -34,6 +34,8 @@ From the home page, you have three ways to begin:
 
 [SCREENSHOT: Home page with prompt bar, template row, and "help me prompt" option highlighted]
 
+   ![](assets/generate-email-campaigns-.png)
+
 [FOR KEITH: Brief description of each option and when to use which. Recommend templates for first-timers, free-form prompts for marketers who know what they want, and "help me prompt" for anyone in between.]
 
 ## Step 2: Write your prompt
@@ -55,11 +57,15 @@ Example:
 
 [SCREENSHOT: Prompt bar with example prompt typed in]
 
+   ![](assets/generate-email-campaigns-.png)
+
 ## Step 3: Upload your audience
 
 [FOR KEITH: Walkthrough of CSV upload. Cover: - Where the upload button is in the UI. - Required columns and format expectations. - Personalization fields CX Enterprise Coworker can use (first name, last order date, product category, etc.). - Link to sample CSV. - What happens if data is messy or fields are missing.]
 
 [SCREENSHOT: CSV upload flow]
+
+   ![](assets/generate-email-campaigns-.png)
 
 >[!TIP]
 >
@@ -73,6 +79,8 @@ Here's a deep-dive of my session at summit where I go over this: https://busines
 Limitations – I can connect you with the engg – Neha Pullabhotla, who will be able to help us on specifics here. ]
 
 [SCREENSHOT: Brief / reference attachment UI]
+
+   ![](assets/generate-email-campaigns-.png)
 
 ## Step 5: Generate the campaign
 
@@ -88,6 +96,8 @@ Click **Generate campaign**. CX Enterprise Coworker will:
 
 [SCREENSHOT: Generated campaign board with plan, journey, and content visible]
 
+   ![](assets/generate-email-campaigns-.png)
+
 ## Step 6: Review and refine
 
 The conversational interface makes refinement straightforward. To make changes, talk to CX Enterprise Coworker:
@@ -102,6 +112,8 @@ The conversational interface makes refinement straightforward. To make changes, 
 
 [SCREENSHOT: Conversational refinement in action — show a before-and-after of an email after a chat request]
 
+   ![](assets/generate-email-campaigns-.png)
+
 ## Step 7: Send a proof email
 
 Before launching, send the campaign to yourself or a member of your team to review in a real inbox.
@@ -110,12 +122,15 @@ Before launching, send the campaign to yourself or a member of your team to revi
 
 [SCREENSHOT: Send proof flow]
 
+   ![](assets/generate-email-campaigns-.png)
+
 ## Step 8: Launch or export
 
 When you are satisfied with the campaign, you have a few options:
 
->[!NOTE]
->Launch is not currently available at release but will be enabled within two weeks of the initial release, pending legal clearance.
+>[!AVAILABILITY]
+>
+>Launch is not available at initial release but is planned to be enabled by the end of June. Check back here for updates.
 
 * Launch the campaign.
 * Export individual emails as HTML.
@@ -124,6 +139,8 @@ When you are satisfied with the campaign, you have a few options:
 [FOR KEITH: Details on each option, and any pre-launch checks CX Enterprise Coworker runs (compliance, broken links, missing personalization fields, etc.).]
 
 [SCREENSHOT: Launch / export options]
+
+   ![](assets/generate-email-campaigns-.png)
 
 ## Common questions
 

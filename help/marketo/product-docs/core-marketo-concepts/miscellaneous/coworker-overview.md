@@ -26,7 +26,7 @@ CX Enterprise Coworker is an AI-native marketing application that takes you from
 
 1. (Optional) Upload an HTML email template under **Email templates** for CX Enterprise Coworker to apply your design when generating content.
 
-[SCREENSHOT: Login / welcome screen for CX Enterprise Coworker trial]
+   ![Welcome screen for CX Enterprise Coworker trial](assets/overview-1.png)
 
 You are ready to generate your first campaign.
 
@@ -34,7 +34,7 @@ You are ready to generate your first campaign.
 
 The CX Enterprise Coworker interface is organized around a left-hand navigation.
 
-[SCREENSHOT: Annotated home screen showing left nav (New chat, Home, Chats, Campaigns, Your stuff, Customize) and the central prompt area]
+   ![Home screen](assets/overview-2.gif)
 
 | Section | Purpose |
 |---|---|
