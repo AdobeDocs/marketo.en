@@ -8,9 +8,9 @@ CX Enterprise Coworker is an AI-native marketing application that takes you from
 
 ## How to access
 
->[!AVAILABILITY]
+>[!NOTE]
 >
->CX Enterprise Coworker is available via free trial through September 30, 2026.
+>CX Enterprise Coworker is available via free trial through September 30, 2026. During the trial, all assets and activity is specific to the user.
 
 1. Go to coworker-essentials.experience.adobe.com.
 

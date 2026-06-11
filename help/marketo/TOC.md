@@ -462,7 +462,7 @@ feature-set: Marketo Engage
           + [Sharing a Moment](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
     + Miscellaneous {#miscellaneous}
       + {hide-from-toc} [Coworker Overview](product-docs/core-marketo-concepts/miscellaneous/coworker-overview.md)
-      + {hide-from-toc} [Coworker Build Campaigns](product-docs/core-marketo-concepts/miscellaneous/coworker-build-campaigns.md)
+      + {hide-from-toc} [Coworker Create an Email Campaign](product-docs/core-marketo-concepts/miscellaneous/coworker-create-an-email-campaign.md)
       + {hide-from-toc} [Coworker Use Cases](product-docs/core-marketo-concepts/miscellaneous/coworker-use-cases.md)
       + {hide-from-toc} [Configuring Adobe Experience Manager Integration](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
       + [Create New Campaign Folder](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
