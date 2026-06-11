@@ -34,7 +34,7 @@ You are ready to generate your first campaign.
 
 The CX Enterprise Coworker interface is organized around a left-hand navigation.
 
-   ![Home screen](assets/overview-2.png)
+   ![Home screen](assets/overview-2.gif)
 
 | Section | Purpose |
 |---|---|
