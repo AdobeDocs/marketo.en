@@ -4,7 +4,7 @@ title: CX Enterprise Coworker Overview
 ---
 # CX Enterprise Coworker Overview {#overview}
 
-CX Enterprise Coworker is an AI-native marketing application that takes you from a single prompt to a review-ready campaign in minutes.
+CX Enterprise Coworker is an AI-native marketing application that takes you from a single prompt to a complete review-ready campaign.
 
 ## How to access
 
