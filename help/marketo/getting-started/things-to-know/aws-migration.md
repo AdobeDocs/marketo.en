@@ -3,14 +3,13 @@ description: AWS Migration - Marketo Engage Docs - Product Documentation
 title: AWS Migration
 feature: Getting Started
 hide: true
-
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
 ---
 # AWS Migration {#aws-migration}
 
 Over the next several months, all Marketo Engage subscriptions are being migrated from a private data center to the AWS public cloud to improve reliability, scalability, and speed.
 
-You will receive an email as well as an in-app notification approximately 30 days prior to migration. Use this guide to prepare. 
+You will receive an email as well as an in-app notification approximately 30 days prior to migration. Use this guide to prepare.
 
 ## Recommended actions
 
@@ -32,7 +31,7 @@ During your migration window, all Marketo Engage services will be unavailable. W
 
 The impacts below require no action on your part.
 
-* **CRM integrations and LaunchPoint services** will be disabled but should resume automatically afterward. 
+* **CRM integrations and LaunchPoint services** will be disabled but should resume automatically afterward.
 * **Landing pages, forms, and data collection** will be unavailable, and a maintenance message will be displayed instead.
 
 ## Identify your data center/pod {#identify}
