@@ -31,6 +31,7 @@ feature-set: Marketo Engage
     + {hide-from-toc} [AI Assistant for product knowledge](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
     + {hide-from-toc} [Marketing nation Community](getting-started/things-to-know/community.md)
     + {hide-from-toc} [AWS Migration](getting-started/things-to-know/aws-migration.md)
+    + {hide-from-toc} [New UI](getting-started/things-to-know/new-ui.md)
   + Quick Wins {#quick-wins}
     + [Get Set up and Add a Person](getting-started/quick-wins/get-set-up-and-add-a-person.md)
     + [Send an Email](getting-started/quick-wins/send-an-email.md)

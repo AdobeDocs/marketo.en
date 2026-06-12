@@ -22,11 +22,11 @@ Marketo AI provides agents designed to automate time-consuming but important mar
 
 ## How to access {#access}
 
-On your My Marketo screen, click the **Build with AI** tile.
+On your My Marketo screen, click the **Marketo AI** tile.
 
 ![](assets/overview-1.png)
 
-In the prompt field, click **Get Started** (or type your own query).
+Type your request in the prompt field, or select one of the agents below.
 
 ![](assets/overview-2.png)
 
@@ -40,7 +40,7 @@ Validate programs automatically checks your setup against Marketo best practices
 
 ### Import leads {#import-leads}
 
-Import and deduplicate lead lists into your Marketo Engage database with field mapping assistance. Learn more about the [Import Leads Agent](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}.
+Import and deduplicate lead lists into your Marketo Engage database with field mapping assistance. Learn more about the [Import leads Agent](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}.
 
 ## Coming soon {#coming-soon}
 
