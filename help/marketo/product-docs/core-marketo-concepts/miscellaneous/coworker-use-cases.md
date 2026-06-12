@@ -1,14 +1,14 @@
 ---
-description: Browse real prompt patterns for CX Enterprise Coworker, organized by use case across acquisition, engagement, events, conversion, and retention campaigns.
+description: Browse real prompt patterns for Adobe CX Enterprise Coworker Campaigns, organized by use case across acquisition, engagement, events, conversion, and retention campaigns.
 title: Use cases
 ---
 # Use cases {#use-cases}
 
-Below are real prompt patterns that lifecycle and growth marketers are using in CX Enterprise Coworker. Each one is built to be copied, swapped with your own audience and brand details, and refined in conversation.
+Below are real prompt patterns that lifecycle and growth marketers are using in Adobe CX Enterprise Coworker Campaigns. Each one is built to be copied, swapped with your own audience and brand details, and refined in conversation.
 
 ## How to use
 
-Pick a use case that fits your goal, copy the sample prompt and paste it into CX Enterprise Coworker, replace the placeholders with your specifics, and refine the output via chat. For the full step-by-step, head to Build and generate campaigns.
+Pick a use case that fits your goal, copy the sample prompt and paste it into Coworker Campaigns, replace the placeholders with your specifics, and refine the output via chat. For the full step-by-step, head to Build and generate campaigns.
 
 ## Acquisition and onboarding
 
@@ -18,7 +18,7 @@ Welcome new customers, members, or accounts and set them up for long-term engage
 
 Best for: Enterprise account activation, new SaaS signups, post-sale handoffs.
 
-`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I uploaded and personalize by first name and company name."`
+`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I will upload and personalize by first name and company name."`
 
 ### New member onboarding, B2C
 
@@ -46,7 +46,7 @@ Keep your audience informed, educated, and connected between key moments.
 
 Best for: Customer retention, product awareness, thought leadership.
 
-`"Create a monthly newsletter for our customers. Use the CSV I uploaded. Include product updates, industry insights, and a resource, with simple CTAs."`
+`"Create a monthly newsletter for our customers. Use the CSV I will upload. Include product updates, industry insights, and a resource, with simple CTAs."`
 
 ### Monthly newsletter, B2C
 
@@ -136,7 +136,7 @@ Win back audiences who have drifted, and reactivate dormant segments.
 
 Best for: Lapsed customers, dormant buyers, seasonal reactivation.
 
-`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I uploaded. Include 2-3 emails that feel seasonal and remind them to shop again."`
+`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I will upload. Include 2-3 emails that feel seasonal and remind them to shop again."`
 
 ### Lapsed fan re-engagement, B2C (Sports and entertainment)
 
@@ -152,4 +152,4 @@ Best for: Any audience that has gone quiet.
 
 ## Ready to build?
 
-Pick a use case above, visit _Build and generate campaigns_ for the full step-by-step, and try it out.
+Pick a use case above, visit _Create an email campaign_ for the full step-by-step, and try it out.

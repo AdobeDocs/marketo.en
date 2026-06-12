@@ -1,22 +1,22 @@
 ---
-description: A step-by-step guide to building an email campaign in CX Enterprise Coworker, from writing prompts to reviewing and exporting your campaign.
+description: A step-by-step guide to generating an email campaign in Adobe CX Enterprise Coworker Campaigns, from writing prompts to reviewing and exporting your campaign.
 title: Create an email campaign
 ---
 # Create an email campaign {#create-an-email-campaign}
 
-Learn how to build and review complete email campaigns in minutes.
+Learn how to generate and review complete email campaigns in minutes.
 
    >[!IMPORTANT]
    >
-   >At this time, you can only build campaigns, you cannot send (launch) them. Launch functionality is coming soon.
+   >At this time, you can only generate campaigns, you cannot send (launch) them yet. Launch functionality is coming soon.
 
 ## Before you start
 
 Make sure you have:
 
-* An active CX Enterprise Coworker account ([sign up here](https://coworker-essentials.experience.adobe.com/){target="_blank"} if you have not already).
+* An active Adobe CX Enterprise Coworker Campaigns account ([sign up here](https://coworker-essentials.experience.adobe.com/){target="_blank"} if you have not already).
 
-* Your brand set up under **Your stuff** > **Brands**.
+* Your brand added under **Your stuff** > **Brands**.
 
 * (Optional but recommended) An HTML email template uploaded under **Your stuff** > **Email templates**.
 
@@ -36,7 +36,7 @@ _When to use: When you know exactly what you want._
 
 _When to use: When you are not sure what you want._
 
-**Option three**: Use a "Help me prompt" option from the drop-down in the prompt bar to have CX Enterprise Coworker guide you through writing your prompt.
+**Option three**: Use a "Help me prompt" option from the drop-down in the prompt bar to have Coworker Campaigns guide you through writing your prompt.
 
 _When to use: When you may have an idea what you want, but would like a little help (or, use "Surprise Me" to be surprised)._
 
@@ -44,7 +44,7 @@ _When to use: When you may have an idea what you want, but would like a little h
 
 ## Step 2: Create your prompt
 
-A strong CX Enterprise Coworker prompt includes:
+A strong Coworker Campaigns prompt includes:
 
 * The campaign goal (what you are trying to achieve).
 * The audience (who it is for, or where the audience data is coming from).
@@ -61,11 +61,11 @@ Example:
 
    >[!NOTE]
    >
-   >If you already have a Campaign Brief, upload it along with your prompt as  additional context for the plan that is created for you.
+   >If you already have a Campaign Brief, upload it along with your prompt as  additional context for the plan that it will generate for you.
 
    ![Typing in your own prompt](assets/create-an-email-campaign-2.png)
 
-When you have your prompt ready, click **Generate campaign**. CX Enterprise Coworker will then:
+When you have your prompt ready, click **Generate campaign**. Coworker Campaigns will then:
 
 * Generate a structured campaign plan.
 * Ask for your target audience, which will also be used for content personalization.
@@ -75,7 +75,7 @@ When you have your prompt ready, click **Generate campaign**. CX Enterprise Cowo
 
 ## Step 3: Upload your audience
 
-Audiences are uploaded via CSV. All audiences are specific to their respective campaigns.
+Audiences are uploaded via CSV. All audiences are specific to their respective campaigns (they are not stored anywhere else in your environment at this time).
 
 1. After submitting your prompt, review the tasks that Coworker will execute and click **Build**.
 
@@ -85,15 +85,13 @@ Audiences are uploaded via CSV. All audiences are specific to their respective c
 
    >[!NOTE]
    >
-   >* Email address is a required field, first name and other fields that can be used for personalization are recommended.
-   >
-   >* Personalization fields CX Enterprise Coworker can use: first name, last order date, product category. 
+   >* Email address is a required field, first name, last purchased date, and any other fields that can be used for personalization are recommended.
 
 1. Import your CSV file.
 
-   >[!TIP]
+   >[!IMPORTANT]
    >
-   >Exclude any contacts you do not want to email (unsubscribed users, internal addresses, test accounts) before uploading. While we will progressively enable the functionality to 'exclude' specific users or 'add attributes' during the course of the trial, it is not immediately available from the launch date.
+   >Exclude any contacts you do not want to email (unsubscribed users, internal addresses, test accounts) before uploading. While we will progressively enable the functionality to exclude specific users or add attributes during the course of the trial, it is not immediately available from the launch date.
 
 ## Step 4: Review and refine Campaign Assets
 
@@ -107,12 +105,11 @@ There are two ways to update your content.
 
 -or-
 
-* Use the conversational interface to make changes by talking directly to CX Enterprise Coworker. Some examples include:
+* Use the conversational interface to make changes by talking directly to Coworker Campaigns. Some examples include:
 
   * "Make the subject line more urgent."
   * "Shorten the body copy."
   * "Make the call to action stronger."
-  * "Change the wait from 3 days to 5 days."
 
 You can also use the AI buttons to help refine your Subject or Preheader. 
 
@@ -136,11 +133,11 @@ The Launch functionality (sending your email campaign) is coming soon. Until the
 
 **Why does the first response take so long?**
 
-It is generating an entire campaign for you, including the strategy, the audience you require, the workflow, etc (listen to recording 1:15ish mark)
+It is generating an entire campaign for you, including the strategy, the audience you require, the workflow, etc. The average time of the first response with your content generated is typically around one minute.
 
-**What do I do if the CX Enterprise Coworker output isn't quite right?**
+**What do I do if the Coworker Campaigns output isn't quite right?**
 
-Use the feedback button in the top-right and let us know so we can improve the platform.
+Click the feedback icon in the header and let us know so we can improve the platform.
 
 **Can I edit emails directly, or only via chat?**
 
