@@ -1,6 +1,7 @@
 ---
 description: Browse real prompt patterns for Adobe CX Enterprise Coworker Campaigns, organized by use case across acquisition, engagement, events, conversion, and retention campaigns.
 title: Use cases
+hide: true
 ---
 # Use cases {#use-cases}
 
