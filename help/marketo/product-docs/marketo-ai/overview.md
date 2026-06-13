@@ -1,7 +1,6 @@
 ---
 description: Explore the Marketo AI suite of agents designed to automate marketing tasks like program QA, lead import, data normalization, and more.
 title: Marketo AI Overview
-badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
 ---
 # Marketo AI Overview {#overview}
@@ -10,7 +9,7 @@ Marketo AI provides agents designed to automate time-consuming but important mar
 
 >[!AVAILABILITY]
 >
->This feature is in limited availability. To request access, fill out [this form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}. Be sure to have your subscription's Munchkin ID ready.
+>This feature is in limited availability. To request access, fill out [this form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}. Be sure to have your subscription's Munchkin ID handy.
 
 >[!PREREQUISITES]
 >

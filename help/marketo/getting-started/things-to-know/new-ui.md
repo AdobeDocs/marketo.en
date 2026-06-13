@@ -38,7 +38,7 @@ SCREENSHOT
 
 ## New and Classic UI {#new-and-classic}
 
-To switch to the new UI, click the theme drop-down in the top right corner and select **New (Beta)**.
+To switch to the new UI, click the theme drop-down in the top-right corner and select **New (Beta)**.
 
 SCREENSHOT
 
