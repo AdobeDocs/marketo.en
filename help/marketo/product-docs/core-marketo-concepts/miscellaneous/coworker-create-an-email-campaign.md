@@ -15,7 +15,7 @@ Learn how to generate and review complete email campaigns in minutes.
 
 Make sure you have:
 
-* An active Adobe CX Enterprise Coworker Campaigns account ([sign up here](https://coworker-essentials.experience.adobe.com/){target="_blank"} if you have not already).
+* An active Adobe CX Enterprise Coworker Campaigns account ([sign up here](https://coworker-campaigns.experience.adobe.com/){target="_blank"} if you have not already).
 
 * Your brand added under **Your stuff** > **Brands**.
 
