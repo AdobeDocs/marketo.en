@@ -6,7 +6,7 @@ hide: true
 ---
 # Marketo Engage New UI {#new-ui}
 
-Thank you for participating in the New Marketo Engage UI beta. This update modernizes the styling of Marketo Engage and improves responsiveness, without altering functionality. The new UI is accessed using a theme selector that appears at the top-right corner of most pages in Marketo Engage.
+Thank you for participating in the New Marketo Engage UI beta. This update modernizes the styling of Marketo Engage and improves responsiveness, without altering functionality. The new UI is accessed using a drop-down that appears at the top-right corner of most pages in Marketo Engage.
 
 ## Before you start {#before-starting}
 
@@ -42,7 +42,7 @@ To switch to the new UI, click the UI drop-down in the top-right corner and sele
 
    ![](assets/new-ui-4.png)
 
-If you need to switch back for any reason, click the theme drop-down again and select **Classic**.
+If you need to switch back for any reason, click the UI drop-down again and select **Classic**.
 
 ## Submitting feedback {#feedback}
 
