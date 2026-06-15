@@ -20,7 +20,7 @@ Describe a marketing campaign in plain language and Marketo AI builds the progra
 
 ## How to use {#how-to-use}
 
-1. In your My Marketo, click the **Build with AI** tile.
+1. In your My Marketo, click the **Marketo AI** tile.
 
 1. In the prompt window, type a description of the campaign you want to create. Be as specific or as general as you want (you can always refine).
 

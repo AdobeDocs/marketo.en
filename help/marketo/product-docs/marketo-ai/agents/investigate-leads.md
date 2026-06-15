@@ -21,7 +21,7 @@ Find out why a specific person/lead didn't reach a milestone (like MQL, program 
 
 ## How to use {#how-to-use}
 
-1. In your My Marketo, click the **Build with AI** tile.
+1. In your My Marketo, click the **Marketo AI** tile.
 
 1. In the prompt window, describe what you're investigating. Include the lead (by email or name) and what you expected to happen.
 

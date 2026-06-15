@@ -18,7 +18,7 @@ Product knowledge gives you on-demand access to Marketo expertise without leavin
 
 ## How to use {#how-to-use}
 
-1. In your My Marketo, click the **Build with AI** tile.
+1. In your My Marketo, click the **Marketo AI** tile.
 
 1. In the prompt window, type your question in natural language; no special syntax required.
 
