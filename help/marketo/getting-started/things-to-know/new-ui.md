@@ -46,6 +46,6 @@ If you need to switch back for any reason, click the UI drop-down again and sele
 
 ## Submitting feedback {#feedback}
 
-We very much welcome your feedback. If you encounter any issues accessing or using the functionality while exploring the new UI, or have any suggestions or concerns, click the UI Beta Feedback button on the top-right.
+We very much welcome your feedback. If you encounter any issues accessing or using the functionality while exploring the new UI, or have any suggestions or concerns, click the **UI Beta Feedback** button on the top-right.
 
    ![](assets/new-ui-5.png)
