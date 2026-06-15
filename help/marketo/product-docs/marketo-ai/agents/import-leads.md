@@ -17,7 +17,7 @@ Import and deduplicate lead lists into your Marketo Engage database with field m
 
 ## How to use {#how-to-use}
 
-1. In your My Marketo, click the **Build with AI** tile.
+1. In your My Marketo, click the **Marketo AI** tile.
 
    ![](assets/import-leads-1.png)
 

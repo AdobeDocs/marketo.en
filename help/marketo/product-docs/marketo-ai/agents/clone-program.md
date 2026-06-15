@@ -22,7 +22,7 @@ The Clone program agent copies a working program, including its smart campaigns,
 
 ## How to use {#how-to-use}
 
-1. In your My Marketo, click the **Build with AI** tile.
+1. In your My Marketo, click the **Marketo AI** tile.
 
 1. In the prompt window, type your instructions. For example, "Clone my Q2 Webinar program into the Q3 Campaigns folder and call it Q3 Product Demo Webinar."
 

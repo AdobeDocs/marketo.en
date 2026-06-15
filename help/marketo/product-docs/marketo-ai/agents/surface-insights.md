@@ -20,7 +20,7 @@ Surface insights lets you have a conversation about your Marketo performance dat
 
 ## How to use {#how-to-use}
 
-1. In your My Marketo, click the **Build with AI** tile.
+1. In your My Marketo, click the **Marketo AI** tile.
 
 1. In the prompt window, ask a performance question. Be specific about the timeframe or program if you have one in mind.
 
