@@ -34,7 +34,7 @@ There is an _Access Marketo AI_ permission and a _Marketo AI User_ role, giving 
 
 ### Access Marketo AI permission {#access-marketo-ai-permission}
 
-Follow the steps below to enable _Access Marketo AI_ for qualifying roles that don't already have it enabled.
+Follow the steps below to enable _Access Marketo AI_ for qualifying roles that do not already have it enabled.
 
 1. In your My Marketo, click **Admin**, then **Users & Roles**.
 
