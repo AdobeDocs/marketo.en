@@ -1,8 +1,6 @@
 ---
 description: Use Product knowledge to ask Marketo AI about Marketo Engage features, best practices, and how-tos. Answers are grounded in Adobe's official documentation.
 title: Product knowledge
-badge: Beta
-hide: true
 ---
 # Product knowledge {#product-knowledge}
 
