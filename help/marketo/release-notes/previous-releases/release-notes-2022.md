@@ -60,7 +60,7 @@ The following features are included in the January '22 release. Check your Adobe
 
 The following features will start to be released on **January 21, 2022**, with a phased rollout of every feature over the following weeks (unless specified otherwise).
 
-## Next-Generation Experience {#modern-ux}
+## Next-Generation Experience
 
 * **Updated Screens in the Next-Generation Experience**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
 
@@ -147,7 +147,7 @@ The following features will start to be released on **March 11, 2022**, with a p
 
 * **Email Bot Activity Filtering Enhancement**: As an enhancement to the previously released [Email Bot Activity Filtering](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} feature, you can now opt-in to logging activities that are identified as bots. You can then filter and trigger actions based on activities that are identified as being performed by bots.
 
-## Next-Generation Experience {#modern-ux}
+## Next-Generation Experience
 
 * **Updated Screens in the Next-Generation Experience**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
 
@@ -229,7 +229,7 @@ The following features will start to be released on **May 6, 2022**, with a phas
 
 **[STS Header for Email Tracking Links](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**: Meet security best practices with the ability to apply Secure Transport Security headers to ensure traffic to tracked links is always secure.
 
-## Next-Generation Experience {#modern-ux}
+## Next-Generation Experience
 
 **Toggle Switch Defaulted to the Next-Generation Experience**: The toggle switch will be default to the new experience in all screens where it is available, making it easier for users to discover the updated designs and usability enhancements.
 
@@ -441,7 +441,7 @@ The following features fall under the standard release cycle and will start to b
   </tbody>
 </table>
 
-### Next-generation Experience {#modern-ux}
+### Next-generation Experience
 
 </br>
 
@@ -579,3 +579,4 @@ The following features follow an Agile format and are released on various dates 
 * **Forms 1.0**: The deprecation of Forms 1.0 will be completed with the October release. Forms 1.0 assets will no longer be able to submit data to Marketo Engage and will return errors if attempted.
 
 * **No-Script Forms**: Forms will no longer function when Javascript is disabled in the browser. Form submission will require Javascript be enabled.
+
