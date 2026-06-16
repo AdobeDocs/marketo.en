@@ -1,9 +1,6 @@
 ---
 description: The Investigate lead agent answers the questions marketers ask most often. It's faster and more reliable than manually digging through activity logs, smart campaign history, and scoring records.
 title: Investigate leads
-badge: Beta
-hide: true
-hidefromtoc: yes
 ---
 # Investigate leads {#investigate-leads}
 
