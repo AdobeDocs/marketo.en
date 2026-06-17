@@ -1116,7 +1116,7 @@ feature-set: Marketo Engage
       + {hide-from-toc} [Clone program](product-docs/marketo-ai/agents/clone-program.md)
       + [Investigate leads](product-docs/marketo-ai/agents/investigate-leads.md)
       + [Import leads](product-docs/marketo-ai/agents/import-leads.md)
-      + [Validate programs](product-docs/marketo-ai/agents/validate-programs.md)    
+      + [Validate programs](product-docs/marketo-ai/agents/validate-programs.md)
   + Marketo Engage Modern UX {#marketo-engage-modern-ux}
     + [Overview](product-docs/marketo-engage-modern-ux/overview.md)
     + [Using the Global Search](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
