@@ -29,7 +29,6 @@ feature-set: Marketo Engage
     + [Help center](getting-started/things-to-know/help-center.md)
     + [Subscribe to system status notifications](getting-started/things-to-know/system-status-notifications.md)
     + {hide-from-toc} [AI Assistant for product knowledge](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
-    + {hide-from-toc} [Marketing nation Community](getting-started/things-to-know/community.md)
     + {hide-from-toc} [AWS Migration](getting-started/things-to-know/aws-migration.md)
     + {hide-from-toc} [New UI](getting-started/things-to-know/new-ui.md)
   + Quick Wins {#quick-wins}
@@ -1957,4 +1956,3 @@ feature-set: Marketo Engage
     + [2012](release-notes/previous-releases/release-notes-2012.md)
     + [2010-2011](release-notes/previous-releases/2010-2011.md)
     + [2007-2009](release-notes/previous-releases/2007-2009.md)
- 
