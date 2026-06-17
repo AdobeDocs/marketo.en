@@ -48,3 +48,4 @@ Find out why a specific person/lead did not reach a milestone (like MQL, program
 * Lead Investigation is read-only. It tells you what happened, but does not make changes to the lead record or program membership.
 * For issues that turn out to be data quality problems (missing field values, incorrect lead source), the fix must be made manually in the lead record.
 * If the investigation reveals a smart campaign logic issue affecting many leads, use Program QA to review the full program configuration.
+
