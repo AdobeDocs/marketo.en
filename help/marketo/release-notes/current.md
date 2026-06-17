@@ -45,8 +45,8 @@ The following features fall under the standard release cycle and will start to b
   <tr>
    <td><strong>Marketo AI</strong>: Utilize a suite of agents designed to automate time-consuming but important marketing functions (two agents available now, more coming soon).
 </td>
-   <td>Limited availability (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">request access here</a>)</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview">Marketo AI overview</a></td>
+   <td>Open beta</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AI overview</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>
@@ -55,8 +55,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Marketo Engage MCP Server</strong>: The Marketo Engage MCP server acts as a bridge between your AI assistant and Marketo Engage. It exposes more than 100 operations across forms, programs, smart campaigns, people/leads, emails, snippets, lists, and folders.</td>
-   <td>Limited availability (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">request access here</a>)</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html">Marketo MCP Server</a></td>
+   <td>Open beta</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Marketo MCP Server</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>
@@ -77,7 +77,7 @@ The following features fall under the standard release cycle and will start to b
    <td><strong>Picklist Management</strong>: You can now specify the values that can be used in fields in Marketo Engage.
    </td>
    <td>Released</td>
-   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">Picklist Management</a></td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md" target="_blank">Picklist Management</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>

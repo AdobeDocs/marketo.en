@@ -462,9 +462,6 @@ feature-set: Marketo Engage
           + [Sending a Sample](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
           + [Sharing a Moment](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
     + Miscellaneous {#miscellaneous}
-      + {hide-from-toc} [Coworker Overview](product-docs/core-marketo-concepts/miscellaneous/coworker-overview.md)
-      + {hide-from-toc} [Coworker Create an Email Campaign](product-docs/core-marketo-concepts/miscellaneous/coworker-create-an-email-campaign.md)
-      + {hide-from-toc} [Coworker Use Cases](product-docs/core-marketo-concepts/miscellaneous/coworker-use-cases.md)
       + {hide-from-toc} [Configuring Adobe Experience Manager Integration](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
       + [Create New Campaign Folder](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
       + {hide-from-toc} [Keyboard Shortcuts Glossary](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
@@ -1109,14 +1106,14 @@ feature-set: Marketo Engage
     + [Overview](product-docs/marketo-ai/overview.md)
     + [Settings and Setup](product-docs/marketo-ai/settings-setup.md)
     + {hide-from-toc} [Settings and Setup](product-docs/marketo-ai/settings-setup-old.md)
-    + Agents {#agents}
-      + [Product knowledge](product-docs/marketo-ai/agents/product-knowledge.md)
-      + {hide-from-toc} [Surface insights](product-docs/marketo-ai/agents/surface-insights.md)
-      + {hide-from-toc} [Build programs](product-docs/marketo-ai/agents/build-programs.md)
-      + {hide-from-toc} [Clone program](product-docs/marketo-ai/agents/clone-program.md)
-      + [Investigate leads](product-docs/marketo-ai/agents/investigate-leads.md)
-      + [Import leads](product-docs/marketo-ai/agents/import-leads.md)
-      + [Validate programs](product-docs/marketo-ai/agents/validate-programs.md)
+    + Skills {#skills}
+      + [Product knowledge](product-docs/marketo-ai/skills/product-knowledge.md)
+      + {hide-from-toc} [Surface insights](product-docs/marketo-ai/skills/surface-insights.md)
+      + {hide-from-toc} [Build programs](product-docs/marketo-ai/skills/build-programs.md)
+      + {hide-from-toc} [Clone program](product-docs/marketo-ai/skills/clone-program.md)
+      + [Investigate leads](product-docs/marketo-ai/skills/investigate-leads.md)
+      + [Import leads](product-docs/marketo-ai/skills/import-leads.md)
+      + [Validate programs](product-docs/marketo-ai/skills/validate-programs.md)
   + Marketo Engage Modern UX {#marketo-engage-modern-ux}
     + [Overview](product-docs/marketo-engage-modern-ux/overview.md)
     + [Using the Global Search](product-docs/marketo-engage-modern-ux/using-the-global-search.md)

@@ -1,6 +1,7 @@
 ---
 description: Learn how to audit your programs for best practices across all components, such as emails, landing pages, campaigns, and more.
 title: Validate programs
+badge: beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
 ---
 # Validate programs {#validate-programs}
