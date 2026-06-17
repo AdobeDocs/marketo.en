@@ -37,3 +37,4 @@ Audit your programs for best practices across all components, such as emails, la
    The AI Assistant provides a QA of the selected program, showing you what passed and what failed.
 
    ![](assets/validate-programs-6.png)
+

@@ -53,3 +53,4 @@ Describe a marketing campaign in plain language and Marketo AI builds the progra
 * Marketo AI cannot access your existing audience lists automatically. You must connect smart list filters to your actual segments after the program is created.
 * Complex multi-step programs with advanced branching logic may need manual refinement after creation.
 * If your Marketo environment uses naming conventions or folder structures, specify them in your brief so the program is created in the right place.
+
