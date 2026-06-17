@@ -1,20 +1,21 @@
 ---
 description: The Investigate lead agent answers the questions marketers ask most often. It's faster and more reliable than manually digging through activity logs, smart campaign history, and scoring records.
 title: Investigate leads
+badge: beta
 ---
 # Investigate leads {#investigate-leads}
 
 Find out why a specific person/lead did not reach a milestone (like MQL, program qualification, or a campaign) and get a plain-language explanation of what happened.
 
->[!PREREQUISITES]
+>[!AVAILABILITY]
 >
->* To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
+>This feature is currently in open beta. To request access, contact your account manager. You must also agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 >
 >* You must have view access to the person/lead record and the program or milestone you are investigating.
 
 >[!AVAILABILITY]
 >
->This feature is currently in closed beta. Please do not disseminate this documentation.
+>This feature is currently in open beta. For access reach out to your account manager.
 
 ## How to use {#how-to-use}
 

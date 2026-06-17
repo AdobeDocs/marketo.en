@@ -32,7 +32,7 @@ The Clone program agent copies a working program, including its smart campaigns,
 
 1. Open the new program in Marketo and update what is different: email content, dates, audience filters, tokens, etc.
 
-1. Run the [Program QA](/help/marketo/product-docs/marketo-ai/agents/program-qa.md) agent before activating.
+1. Run the [Program QA](/help/marketo/product-docs/marketo-ai/skills/program-qa.md) agent before activating.
 
 ## Use cases {#use-cases}
 

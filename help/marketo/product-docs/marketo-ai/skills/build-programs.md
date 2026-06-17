@@ -34,7 +34,7 @@ Describe a marketing campaign in plain language and Marketo AI builds the progra
 
 1. Verify smart campaign filters and flow steps match your intended audience and logic.
 
-1. Run the [Validate programs](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md) agent before activating.
+1. Run the [Validate programs](/help/marketo/product-docs/marketo-ai/skills/validate-programs.md) agent before activating.
 
 ## Use cases {#use-cases}
 

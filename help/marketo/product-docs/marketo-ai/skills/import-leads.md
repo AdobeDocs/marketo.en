@@ -2,6 +2,7 @@
 description: Learn how to use the Import Leads agent to upload a CSV, apply business rules, map fields, and import leads directly into your Marketo Engage database.
 title: Import leads
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
+badge: beta
 ---
 # Import leads {#import-leads}
 
@@ -9,11 +10,7 @@ Import and deduplicate lead lists into your Marketo Engage database with field m
 
 >[!AVAILABILITY]
 >
->This feature is in limited availability. To request access, fill out [this form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}. Be sure to have your subscription's Munchkin ID ready.
-
->[!PREREQUISITES]
->
->To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact your account manager for details.
+>This feature is currently in open beta. To request access, contact your account manager. You must also agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 ## How to use {#how-to-use}
 
