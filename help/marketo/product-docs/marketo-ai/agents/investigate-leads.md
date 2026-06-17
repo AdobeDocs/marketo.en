@@ -4,13 +4,13 @@ title: Investigate leads
 ---
 # Investigate leads {#investigate-leads}
 
-Find out why a specific person/lead didn't reach a milestone (like MQL, program qualification, or a campaign) and get a plain-language explanation of what happened.
+Find out why a specific person/lead did not reach a milestone (like MQL, program qualification, or a campaign) and get a plain-language explanation of what happened.
 
 >[!PREREQUISITES]
 >
 >* To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
 >
->* You must have view access to the person/lead record and the program or milestone you're investigating.
+>* You must have view access to the person/lead record and the program or milestone you are investigating.
 
 >[!AVAILABILITY]
 >

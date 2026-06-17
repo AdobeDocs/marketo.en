@@ -4,7 +4,7 @@ title: Product knowledge
 ---
 # Product knowledge {#product-knowledge}
 
-Product knowledge gives you on-demand access to Marketo expertise without leaving the platform. Ask a question in plain language and Marketo AI draws on Adobe's official documentation to answer it.
+Product knowledge gives you on-demand access to Marketo expertise without leaving the platform. Ask a question in plain language and Marketo AI draws on official Adobe documentation to answer it.
 
 >[!PREREQUISITES]
 >

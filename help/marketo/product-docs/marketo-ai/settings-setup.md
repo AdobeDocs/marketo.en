@@ -112,4 +112,4 @@ _This tab may appear in the UI, but it is not yet available for use. Please chec
 
 Manage alert preferences and notification channels.
 
-_This tab may appear in the UI, but it is not yet available for use. Please check back for updates_.
+_This tab may appear in the UI, but it is not yet available for use. Please check this article for updates_.
