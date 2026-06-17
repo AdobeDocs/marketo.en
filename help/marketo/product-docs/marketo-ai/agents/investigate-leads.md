@@ -4,7 +4,7 @@ title: Investigate leads
 ---
 # Investigate leads {#investigate-leads}
 
-Find out why a specific person/lead didn't reach a milestone (like MQL, program qualification, or a campaign) and get a plain-language explanation of what happened.
+Find out why a specific person/lead did not reach a milestone (like MQL, program qualification, or a campaign) and get a plain-language explanation of what happened.
 
 >[!PREREQUISITES]
 >
