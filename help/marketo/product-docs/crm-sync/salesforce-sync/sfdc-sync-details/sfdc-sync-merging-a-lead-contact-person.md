@@ -23,9 +23,13 @@ Sometimes it is best to just list the rules. Here we go:
 >Merging 3 leads (people) with scores of 10 each, will yield a result of 1 lead (person) with a score of 30.
 
 * Conflicting field values are taken from the "winning record." (Record = the resulting lead or contact)
-* If the "losing record" (the one that is disappearing) had a value and the winning record has none, we will keep the losing record. In other words, "Some value is better than no value."
+* If the "losing record" (the one that is disappearing) had a value and the winning record has none (or is null), we will keep the losing record. In other words, "Some value is better than no value."
 * All activity log items are merged.
 
 >[!NOTE]
 >
->Deep dive for more information about [merging people in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.
+>The behavior of boolean fields in an API merge changed in the March '26 release. Now, a False value is treated correctly as having a value for that field. Only a null value is treated as "empty" when evaluating conflicting fields. See [this Community post](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"} more details.
+
+>[!MORELIKETHIS]
+>
+>Deep dive for more information about [merging people in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
