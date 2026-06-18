@@ -398,3 +398,4 @@ Please click the title links to view detailed articles for each feature.
 We are adding a new way to create account lists in ABM. In addition to existing account lists, you can now create dynamic account lists that are generated from public CRM Account Views. A CRM Account View is a set of rules that acts as a filter when displaying accounts. For example, you can use it to find accounts where Industry is Healthcare _and_ Revenue is over $100M.
 
 ![](assets/dynamic-account-list-menu-5b14-5d-copy.png)
+

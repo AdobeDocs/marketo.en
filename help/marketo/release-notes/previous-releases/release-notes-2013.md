@@ -432,3 +432,4 @@ We introduced additional lead and company attributes in [!UICONTROL Email Analys
 ## Enhanced [!DNL BrightTALK] Event Adapter {#enhanced-brighttalk-event-adapter}
 
 Now you can pull registrants into Marketo from your [!DNL BrightTALK] channel and event. You can use this information to inform other marketing campaigns!
+

@@ -606,3 +606,4 @@ Manage and monitor your key high-yield accounts in the new [!UICONTROL Named Acc
 We've added a new Sliding effect for In Zone campaigns to allow for your personalized content to slide into place upon page load.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)
+

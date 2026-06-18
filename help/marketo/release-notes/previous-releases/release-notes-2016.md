@@ -401,3 +401,4 @@ Manage variables and modules for emails in v2.0 format using the Marketo REST AP
 ## [Changes to Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
 Marketo's [!DNL Salesforce] integration is evolving to improve the way that Marketo fields are synced with [!DNL Salesforce]. Now, instead of having to sync a large group of fields that you may or may not need, you can pick and choose which fields you'd like to have included. Check out our documentation here for more information: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+
