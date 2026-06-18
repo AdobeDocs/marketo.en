@@ -89,7 +89,7 @@ The following features will be released on **January 17, 2020**.
 * **Email Template Dependencies API**: Get a list of assets that depend on an email template to understand scope of potential changes and address dependencies to templates can be altered and deleted faster.
 * **Multi-Instance Management Enhancements**: Navigate to the instance you need quickly with a scrollable and alphabetical drop-down menu of your subscriptions.
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 ![(star)](assets/yellow-star.png)
 
@@ -101,7 +101,7 @@ The following features will be released on **January 17, 2020**.
 
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![(star)](assets/yellow-star.png)
 
@@ -112,13 +112,13 @@ The following features are on a non-quarterly cycle and will be released through
 
 * [Image Editing](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Access Adobe's editing capabilities without having to leave Marketo Engage. This new functionality allows you to easily do things like enhance, crop, and add text to images directly in [!UICONTROL Design Studio].
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 * **[!DNL Salesforce Lightning] Bulk Actions**: Enhance Sales efficiency and keep buyers engaged with the ability to add up to 200 contacts/leads to campaigns and send them Marketo Engage emails in bulk with [!DNL Salesforce Lightning].
 * **Mobile Support for [!DNL Salesforce1]**: You now have on-the-go mobile access to all [!DNL Sales Insight] features, like Interesting Moments and Web Activities & Emails, right in the [!DNL Salesforce1] app.
 * **UI Enhancements**: Updated interface with enhancements to readability and a design consistent with our [!DNL Marketo Sky] experience.
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 * **Grid Components**: Optimize your [!DNL Sales Connect] instance with new grid customization functionalities. Choose which columns to display, search for columns, select/deselect all columns, and determine how many rows of data you want to see on each page.
 * **[Content Lockdown](/help/marketo/product-docs/marketo-sales-connect/admin/content-lockdown.md)**: Maximize brand alignment with a subscription-wide setting that controls whether non-admins have the ability to create and edit templates and campaigns.
@@ -141,7 +141,7 @@ The following features are included in the Feb '20 release. Check your Marketo e
 
 **_Quarterly Releases_** The following features were released on **February 21, 2020**.
 
-## Core Marketo Engage {#core-marketo-engage}
+## Core Marketo Engage
 
 * **[!DNL Microsoft Dynamics] "Change Owner in Microsoft" Flow Action**: Maintain control of your [!DNL Microsoft Dynamics] CRM data with the ability to change a lead/contact owner directly from Marketo Engage. This is an enhancement to our Native CRM Integration capability.
 * **User Management APIs**: Automate User and Role management through external identity and org management systems. This is an enhancement to our API Calls capability.
@@ -155,7 +155,7 @@ The following features are included in the Feb '20 release. Check your Marketo e
 
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![(star)](assets/yellow-star.png)
 
@@ -163,18 +163,18 @@ The following features are on a non-quarterly cycle and will be released through
 * **Saving Filters**: Save dashboard-specific filters unique to each user to analyze your dashboards quickly and consistently.
 * **Export to PDF**: Share valuable insights across your organization by exporting Bizible Dashboards as PDFs.
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 * **Compose Window Updates**: We've streamlined the process for selecting templates and sending emails through [!DNL Sales Connect]. Use the Compose window in our web client and Salesforce as a one-stop shop for sellers, with the ability to save template categories, schedule emails, send emails in bulk, and send emails with view and click tracking.
 * **Command Center Updates**: We're rebuilding the [!DNL Sales Connect] Command Center to give sellers insight into all of their Emails, Calls, and Tasks that have been initiated from [!DNL Sales Connect]. They can also view information like email engagement and deliverability all from the Command Center.
 
 <br>&nbsp;
 
-## Announcements {#announcements}
+## Announcements
 
 * **Marketo Engage Success Center**: We're launching the Marketo Success Center in February 2020. The Success Center is an in-product help center that enables you to search Product Docs and the Community, launch how-to guides, access adoption content such as Marketo University and peer best practice videos, and more - right from your Marketo Engage instance. **Note**: This feature will be launched as a beta in ANZ, and will roll out to North America later in the quarter.
 
-## Deprecations {#deprecations}
+## Deprecations
 
 * **Asset API "_method" Parameter**: After September 2020, Asset API Endpoints will no longer accept "_method" to pass Query Parameters in a POST body to bypass URI length limitations. To accommodate requests which required this parameter, the URI limit for Asset APIs will be increased from 6KiB to 65KiB, so that long request URIs may be submitted.
 * **Internet Explorer Support Deprecation**: Beginning with our July release on July 31, 2020, the Marketo Engage user interface will no longer be supported on Internet Explorer.
@@ -191,7 +191,7 @@ The following features are included in the June '20 release. Check your Marketo 
 
 **_Quarterly Releases_** The following features will be released on **June 5, 2020**.
 
-## Core Marketo Engage {#core-marketo-engage}
+## Core Marketo Engage
 
 * **[Predictive Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(star)](assets/yellow-star.png): New Smart List and Smart Campaign filters powered by Adobe AI allow you to create AI-powered audience segments for email, event, and webinar marketing programs. Use AI to help you segment audiences based on lead likelihood to register for an event, attend an event, or unsubscribe. Build lookalike audiences based on past programs to efficiently replicate previous success. Achieve conversion goals with predictive goal-tracking and get recommendations for how to refine your audience segments for event programs.
 * **Batch Email Boost** ![(star)](assets/yellow-star.png): Enhancement to our email marketing capability that allows you to send up to 3 million batch emails per hour. We have re-architected our batch campaign and email report processing to enhance performance of email programs and batch email campaigns. This results in shorter lead time to send, as well as improved completion time. Set up your email sends as you normally would, there is no added complexity. This enhancement is available as a product add-on which also includes a Delivery Services Launch Pack, Email Delivery Tools, and multiple Dedicated IP addresses.
@@ -203,7 +203,7 @@ The following features are included in the June '20 release. Check your Marketo 
 * **Set Email Preheader via API**: Enable the automatic translation and localization of email preheader fields. Enhancement to our API.
 * **Image and Files Caching**: We are enhancing the Marketo Engage server stability by serving Image and File assets from a 60-second cache.
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 ![(star)](assets/yellow-star.png)
 
@@ -217,7 +217,7 @@ The following features are included in the June '20 release. Check your Marketo 
 
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![(star)](assets/yellow-star.png)
 
@@ -227,7 +227,7 @@ The following features are on a non-quarterly cycle and will be released through
 * **[!DNL Bizible] Discover Filters and Enhancements**: Analyze your data with channel, subchannel, campaign, and segment filters across dashboards. Strengthen data visibility with more drill-down attributes. This is an enhancement to our Discover Boards.
 * **Activities Sync for [!DNL Microsoft Dynamics]**: Attribute sales interactions by bringing in [!DNL Microsoft Dynamics] CRM activities to the touchpoint journey and track events such as calls, appointments, or tasks associated with your leads or contacts. Enhancement to our [!DNL Microsoft Dynamics] CRM integration.
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![(star)](assets/yellow-star.png)
 
@@ -235,13 +235,13 @@ The following features are on a non-quarterly cycle and will be released through
 
 <br>&nbsp;
 
-## Announcements {#announcements}
+## Announcements
 
 * **ITP 2.1+ RTP Update**: Due to changes to the cookie policy for [!DNL Safari], RTP cookies' ability to track users across sessions on the same domain will be limited by ITP to either 1 or 7 days based on the browser and browser version used by the visitor. To account for this, we are implementing a new web service to allow RTP cookies to be set with a Set-Cookie header via HTTP response. More information can be found [here](https://nation.marketo.com/t5/Knowledgebase/Browser-Cookie-Updates-How-Marketo-RTP-Is-Affected/ta-p/299603).
 
 * **Batch Campaign Infrastructure Changes**: We are upgrading our batch campaign services throughout the remainder of this year. This will be a seamless update that will not affect any batch campaigns that are in progress and will not result in a change of behavior. No action is required. Find more details in this [Nation post](https://nation.marketo.com/t5/Product-Documents/Batch-Campaign-Processing-Infrastructure-Update/ta-p/301374).
 
-## Deprecations {#deprecations}
+## Deprecations
 
 * **[Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Beginning with the version 159 release of [!DNL Munchkin] JS, a deprecation warning will be logged in the browser console when the Associate Lead method is invoked, indicating that the feature will be removed in a future release.  The full deprecation schedule will be announced at a later date.
 
@@ -257,11 +257,11 @@ The following features are included in the July '20 release. Check your Marketo 
 
 **_Quarterly Releases_** The following features will be released on **July 31, 2020**.
 
-## Administration {#administration}
+## Administration
 
 * **["Used By" Export in Field Management](/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md)**: Admins can now export all "Used By" asset links for a selected field into a CSV file. This enhancement can aid both admins and non-admins in cleaning up unused fields. Additionally, assets can now be opened in a new browser tab or window.
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 ![(star)](assets/yellow-star.png)
 
@@ -281,13 +281,13 @@ The following features are on a non-quarterly cycle and will be released through
 
 * **Increased Asset API URI Size Limit**: The uniform resource identifier (URI) size limit is being increased from 8KB to 65KB in advance of the removal of "_method" parameter. When performing long query strings, this size limit increase will allow the data to to pass more easily. The removal of the "_method" parameter is part of an upcoming security upgrade.
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![(star)](assets/yellow-star.png)
 
 * **[[!DNL Sales Insight] Enabled for Customers with Non-Native [!DNL Salesforce] CRM Integration](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) (Beta)**: Marketo Engage customers with non-native [!DNL Salesforce] CRM integrations can now use [!DNL Sales Insight] to help their sales teams understand, prioritize, and interact with the most engaged leads and opportunities to enable smart selling and faster deals.
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![(star)](assets/yellow-star.png)
 
@@ -295,7 +295,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 <br>&nbsp;
 
-## Announcements & Deprecations {#announcements-deprecations}
+## Announcements & Deprecations
 
 * **Asset API "_method" Parameter Removal**: After September 2020, Asset API endpoints will no longer accept "_method" to pass Query Parameters in a POST body to bypass URI length limitations. To accommodate requests which required this parameter, the URI limits for Asset APIs will be increased from 8KB to 65KB.
 * **[[!DNL Munchkin] Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: With this release of the Munchkin JavaScript Client, version 159, we will begin deprecation of the [!DNL Munchkin] Associate Lead method. If invoked, you will receive a warning indicating that the method will be removed in a future release. Once removed, the method will no longer be functional and attempts to use it will fail. Marketo Engage customers who have used this method recently will be notified individually of their use.
@@ -341,7 +341,7 @@ The following features are included in the October '20 release. Check your Marke
 
 * **[!DNL Facebook] Lead Ads Integrations**: [!DNL Facebook] form tracking parameters can now be captured through the LaunchPoint service for [!DNL Facebook] lead ads. These hidden fields can now be mapped to Marketo fields, allowing marketers to store and act on valuable campaign tracking data.
 
-## Administration {#administration}
+## Administration
 
 * **Export Roles and Permissions**: Export roles and permissions into spreadsheets for easy sharing across teams in your organization. Perform roles and permissions audits easier and faster.
 
@@ -357,13 +357,13 @@ The following features are included in the October '20 release. Check your Marke
 
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![(star)](assets/yellow-star.png)
 
 * **API Optimization and New Governance Configuration Options**: Improve the [!DNL Sales Insight] user experience through enhanced API optimization and added governance features. Configuration settings enable admins to define how campaigns and events are loaded to the Sales Insight dashboard. Flexible calendar activities display options reduce API usage and improve the overall experience.
 
-## Announcements & Deprecations {#announcements-deprecations}
+## Announcements & Deprecations
 
 * **New Marketo Engage Look**: New versions of line, bar, column, and pie charts provide updated visualizations throughout Marketo Engage, including Marketing Activities and all reporting features as well as data visualization that appears in the Marketing Activities. This update is in response to Adobe Flash reaching its end-of-life on December 31st, 2020.
 

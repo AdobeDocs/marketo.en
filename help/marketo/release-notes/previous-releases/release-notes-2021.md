@@ -80,7 +80,7 @@ The following features are included in the Jan '21 release. Check your Marketo e
 
 The following features will be released on **January 15, 2021**.
 
-## Next-Generation User Experience {#next-generation-user-experience}
+## Next-Generation User Experience
 
 * Support for Workspaces: The Marketo Engage next-generation user experience brings together the look and feel of Adobe Experience Cloud with productivity innovations to help marketing practitioners work faster and smarter. In the latest release, we're adding full support for workspaces and partitions, including the ability to share folders across workspaces. The right-hand canvas will offer a toggle switch to allow you to seamlessly transition between old and new experiences per feature without losing context. [Learn more](https://nation.marketo.com/t5/The-modern-ux/modern-ux-FAQ/ba-p/307124) from the next-generation experience FAQ on Marketing Nation.
 
@@ -113,7 +113,7 @@ The following features will be released on **January 15, 2021**.
 
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![(star)](assets/yellow-star.png)
 
@@ -123,7 +123,7 @@ The following features are on a non-quarterly cycle and will be released through
 * **[[!DNL Sales Insight] for Non-Native [!DNL Salesforce] CRM Integrations](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**: GA subscriptions with custom Salesforce CRM integrations can install the [!DNL Sales Insight] package and help sales teams prioritize and interact with the most promising leads and opportunities.
 * **[Best Bets Enhancements](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**: Quickly contact hot leads from the Best Bets tab by emailing or adding them to a Marketo Engage Campaign. View a lead in Marketo Engage or add it to your watchlist. Bulk actions and sorting options on the [!UICONTROL Best Bets] tab save time and improve the sales team's efficiency.
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![(star)](assets/yellow-star.png)
 
@@ -159,11 +159,11 @@ The following features will be released on **May 7, 2021**.
 
 * **Account Smart Lists (general availability)** ![](assets/yellow-star.png): Dynamically identify and qualify accounts with desired account and person attributes to target in cross-channel marketing campaigns and send timely alerts to Sales to close deals faster. This new capability allows for robust automation of account-based marketing strategies. Account Smart Lists are available for customers with Target Account Management that are on the next-generation user experience.
 
-## Next-Generation User Experience {#next-generation-user-experience}
+## Next-Generation User Experience
 
 With global search preview, marketers can quickly see where a shared asset exists in their instance. Browser tabs display the location to improve navigation in [!UICONTROL Marketing Activities] or [!UICONTROL Design Studio]. Additional tree and global search filters help refine your search criteria. Drag-and-drop functionality within the tree has been reinstated, allowing you to move folders and assets quickly and efficiently within the main app areas. Newly updated icons (that meet Adobe's accessibility standards) and status badges allow marketers to distinguish between folders and assets quickly and easily in the tree and identify the status of programs and assets.
 
-## Experience Automation {#experience-automation}
+## Experience Automation
 
 * **Execute Campaign Flow Steps**: Streamline campaign creation workflows and improve campaign performance with a new flow step for Smart Campaigns. Create and save centralized, template campaigns for repetitive tasks in your workspace, such as country code normalization, to be called and run from any Smart Campaign via the new "Execute Campaign" flow step. Linked campaigns will run in the designated order and ensure task completion before advancing to the next flow step. Quickly edit the flow in just one centralized campaign to update every Smart Campaign that's using it to streamline data management, lead scoring and routing workflows.
 
@@ -177,7 +177,7 @@ With global search preview, marketers can quickly see where a shared asset exist
 
 * **Filter-out Email Bots Activity**: Prevent unintended sales alerts and inaccurate email reporting through the new email bot activity filtering capability. Identify and filter out opens and clicks that can be associated with email bots inspecting links leading to false triggers and sales alerts, or incorrect reporting.
 
-## API Enhancements {#api-enhancements}
+## API Enhancements
 
 Several critical updates to Bulk and Lead APIs, including the ability to export custom object data in bulk, associate company with lead in bulk, ability to filter bulk activity extract based on a primary attribute, and the ability to create and update program membership.
 
@@ -205,13 +205,13 @@ Several critical updates to Bulk and Lead APIs, including the ability to export 
 
 * **Search by Lead ID**: Quickly access lead record searching by Adobe Marketo Engage lead ID within the lead database or static list. In the Quick Find window simply type `[id]` with the corresponding number, then the lead information will be displayed. Users can quickly review lead, company, or opportunity details.
 
-## Bizible {#bizible}
+## Bizible
 
 ![](assets/yellow-star.png)
 
 * **Integration with [!DNL LinkedIn] Lead Gen Forms (Beta)**: Gain deep visibility into your [!DNL LinkedIn] channel spend and ROI with Bizible premium attribution solution. Through the latest integration with [!DNL LinkedIn]'s Lead Gen Forms, Bizible gains insight into forms that have been submitted within the [!DNL LinkedIn] platform. These form fills are matched against leads from your CRM (Customer Relationship Management) or Adobe Marketo Engage instance so that they're eligible for attribution and can be tracked against your other marketing engagements.
 
-## Announcements {#announcements}
+## Announcements
 
 * **Marketo Product Docs Switching Platforms**: We're excited to announce that the Marketo Product Docs has joined the Adobe Experience League as of Friday, May 7. You'll still be able to use the URL: docs.marketo.com, and if you have any existing articles bookmarked, you'll be redirected. All product docs are available on the new platform, with enhancements planned for later this year.
 
@@ -233,7 +233,7 @@ The following features are included in the August '21 release. Check your Market
 
 The following features will be released on **August 20, 2021**.
 
-## Experience Automation {#experience-automation}
+## Experience Automation
 
 * **Marketo Engage User Authentication via Adobe Identity**: Soon, new Marketo Engage users with Enterprise packages will be onboarded using Adobe ID user credentials. Migration of current users to the integrated identity system will not occur until mid-2022 and no action is required until further notice. Adobe identity user authentication allows IT/Security admins to manage multiple Marketo Engage product instances along with other Experience Cloud solutions, as well as configuring SSO through a common console. Admins can conveniently manage user groups and user entitlements in one place.
 
@@ -243,7 +243,7 @@ The following features will be released on **August 20, 2021**.
 
 * **[Custom Activities Export](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**: Metadata export now supports all objects and respective metadata which can be used to share, analyze and design your subscription data model.
 
-## API Enhancements {#api-enhancements}
+## API Enhancements
 
 * **Submit Form API**: When an email address is duplicated in two or more Lead records, we update "last updated" record instead of skipping altogether. Provides parity with Forms 2.0 API.
 
@@ -253,13 +253,13 @@ The following features will be released on **August 20, 2021**.
 
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![(star)](assets/yellow-star.png)
 
 * **Enhanced visibility into Lead, Contact, Account & Opportunity Activities for Salesforce CRM Users**: Engagement with prospects during long sales cycles is more informed due to an increased number of engagement records in [!DNL Sales Insight]. Interesting moments, web activity, email, and score tabs show up to 400 activities across Lead, Contact, Account, and Opportunity objects.
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![(star)](assets/yellow-star.png)
 
@@ -271,7 +271,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 * **Enhanced Sales Activity Insights**: Capture and activate personalized engagement based on your sales team's prior activities. New attributes such as Sales Call Recording Link, Sales Campaign Name, and Sales Email Subject can be used in Marketo Engage smart lists.  These activities can be exported and reported through the Marketo Engage REST API or Bulk Export and are available on filters and triggers as additional constraints for smart lists.
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![](assets/yellow-star.png)
 
@@ -291,7 +291,7 @@ This section includes new features for Bizible users that have completed their A
 
 * **[!DNL Bizible] Domain Ownership and Self-Management**: [!DNL Bizible] users can leverage Adobe Admin Console to manage the domains they want [!DNL Bizible] to track. This brings self-service to a previously manual process and provides a consistent experience in how domain ownership and tracking are managed across Adobe Experience Cloud applications.
 
-## Announcements {#announcements}
+## Announcements
 
 * **Update to Subscription Universal ID Settings**: To support the upcoming Marketo Engage and Adobe Identity integration for existing users, all Marketo Engage subscriptions will be unified in the enablement of Universal ID support.
 
@@ -323,7 +323,7 @@ The following features will start to be released on **October 22, 2021**, with a
 
 * **Monitor Tasks**: Monitor the status of tasks running in the background of the new experience via the new task notification tray in the global navigation bar. The tray captures notifications for tasks initiated from the new experience view of form details and landing page list, including changing status on landing pages and general mass actions using the new experience.
 
-## Experience Automation {#experience-automation}
+## Experience Automation
 
 * **Submit Form API Program Member Custom Field Support**: The Submit Form API endpoint has been upgraded to support Program Member Custom Fields, allowing custom form integrations to collect program-specific data.
 
@@ -335,7 +335,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 * **Adobe Experience Platform Marketo Data Source Connector**: Users of both Adobe Experience Platform and Marketo Engage will be able to utilize the Marketo Source Connector in bringing data from Marketo to AEP. You'll be able to stream data (and its changes) from Marketo within AEP to keep data consistent between the two products. The Marketo Connector can be seen via the Sources catalog, listed under "Adobe Applications."
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![(star)](assets/yellow-star.png)
 
@@ -349,7 +349,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 * **Account and Opportunity-level [!UICONTROL Best Bets]**: [!DNL Sales Insight] now offers the ability for sales reps to review Best Bets for all contacts on the account or opportunity they own, even when the contact is assigned to a different team member. This gives account and opportunity owners complete visibility into the activities of relevant contacts and helps them act based on a more holistic view of the account or opportunity.
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![(star)](assets/yellow-star.png)
 
@@ -357,13 +357,13 @@ The following features are on a non-quarterly cycle and will be released through
 
 * **Streamlined User Experience**: This update introduces new fonts, colors, buttons, and modals for [!DNL Sales Connect] that are based on the Adobe Spectrum design system. With these updates, we are delivering a more efficient experience, where sellers can focus on what's needed, when it is needed.
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![](assets/yellow-star.png)
 
 * **[!DNL Bizible] Integration with Adobe Privacy Service (GA)**: [!DNL Bizible] integration with the Adobe Privacy Service centralizes compliance with critical data privacy regulations, such as GDPR (General Data Privacy Regulation) or CCPA (California Consumer Privacy Act) across Adobe Experience Cloud applications. You can now take advantage of this service and manage all privacy requests centrally through Adobe's Privacy Service so that change requests coming into [!DNL Bizible], and other Adobe products, are reflected across applications.
 
-## Announcements {#announcements}
+## Announcements
 
 * **Associate Lead Deprecation/Munchkin Beta 161 Update**: On September 7th, 2021, version 161 of Munchkin began rolling out to 10% of subscriptions with Munchkin Beta enabled, followed by 50% on September 16th, and 100% on September 30th. This change affects Marketo Engage landing pages and the version of the file munchkin-beta.js served to external landing pages which are loaded from subscriptions that the recent version has been rolled out to. This version fully deprecates the [!DNL Munchkin] Associate Lead method, which is a feature that allows the submission of a person's data to a Marketo Engage subscription and associated web browsing history with a known person record. Associate Lead is being removed in favor of more modern and secure alternatives, like the Forms JS API, the Form Submit API, and the Associate Lead REST API. [Learn more about this deprecation here](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
 
