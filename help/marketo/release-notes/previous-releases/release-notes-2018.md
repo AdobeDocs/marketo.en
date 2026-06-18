@@ -122,7 +122,7 @@ Marketo is adding an additional Japanese data source for Web Personalization to 
 
 Web Personalization can now personalize content to a known web visitor who's part of a static list defined in Marketing Activities (MLM). With this enhancement, you can now market to static lists across channels and target people on these lists with personalized content on your website.
 
-## ContentAI {#contentai}
+## ContentAI
 
 **Predictive Algorithm Improvement**
 
@@ -206,7 +206,7 @@ Easily share your Quick Charts with other [!UICONTROL Performance Insights] user
 
 Optimized navigation and improved workflows give you visibility to Program Success criteria and access to Program details.
 
-## ContentAI {#contentai}
+## ContentAI
 
 [Goal Setting](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 

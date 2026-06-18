@@ -95,7 +95,7 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 * **Opt-Out Management**: Easily manage opt-outs by matching the opt-out cookie domain with the [!DNL Munchkin] tracking cookie domain.
 * **Domain-Level Decider Parameter**: Two-letter domains (i.e. " [website.io](https://website.io)") will automatically track in Marketo without additional setup requirements.
 
-## Marketo Sales Engage {#marketo-sales-engage}
+## Marketo Sales Engage
 
 * **[!DNL Salesforce] Custom Profile**: Sales Engage now supports unlimited custom profiles.
 
@@ -109,7 +109,7 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 * **OWA Plugin for [!DNL Windows]**: With one single add-in, all [!DNL Windows Office365] clients will be supported in Sales Engage, providing the ability to use Live Feed in Outlook. The new plugin will be available in the Microsoft Store.
 * **Activities Pusher**: Sync Sales Engage to the core Marketo platform to leverage real-time marketing insights.
 
-## [!DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky]
 
 >[!NOTE]
 >
@@ -128,7 +128,7 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 * **Email Program Usability Enhancements**: We continue to move towards parity in Email Program functionality between our classic Marketo Lead Management platform and the new [!DNL Marketo Sky] experience.
 * **Event-With-Webinar Programs**: Event-With-Webinar programs are now available in [!DNL Marketo Sky] (note: only GoToWebinar will be supported in this release, with further integrations established over time).
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 **[ABM Persona-Based Segmentation & Filtering](/help/marketo/product-docs/target-account-management/using-personas.md)**
 
@@ -197,19 +197,19 @@ Account-Based Marketing
 
 The following features are expected to release throughout the first calendar quarter and into the beginning of the second quarter of 2019.
 
-## [!DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky]
 
 * **Full Email Program Functionality**: Send emails, create A/B tests, and track results in a user-friendly experience.
 * **Smart Campaign Functionality**: Enjoy enhanced stability in a new user interface as smart campaign functionality continues rolling out in Sky.
 * **Manage Design Studio Assets**: Added ability to manage Templates, Images, Forms, Snippets, Files, Emails, and Landing Pages in bulk from Design Studio list views.
 * **Deliver in Recipient Time Zone Dashboard**: Understand customer behavior with reporting for emails sent using the Deliver in Recipient Time Zone feature in Sky.
 
-## Marketo Sales Engage {#marketo-sales-engage}
+## Marketo Sales Engage
 
 * **Enhanced Auditing**: New visibility into all people, emails, and [content](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) in an instance with added ability to [end existing campaigns](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)created by other users.
 * **[Unsubscribe Management](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximize deliverability and compliance with the ability to [block email domains](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) from being contacted. Marketo will also cross-reference the lead database for unsubscribes before sending an email.
 
-## [!DNL Bizible] by Marketo {#bizible-by-marketo}
+## [!DNL Bizible] by Marketo
 
 * **[!DNL Bizible] Discover Feature Enhancements**: New dashboard segmentation capabilities enable marketers to better understand performance.
 * **Multi-Currency Support**: Switch between your corporate currency and any local currency with [!DNL Bizible]'s new automatic currency conversion functionality built on CRM currency tables.
@@ -232,7 +232,7 @@ The following features were released on June 14, 2019.
 >
 >As of June 18, 2019, Email 1.0 is no longer available. You can learn more about Email 2.0 and the deprecation of Email 1.0 [here](https://nation.marketo.com/docs/DOC-7038).
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 * **[!DNL LinkedIn] Account Matching (BETA)** : A new ABM capability is now available in beta, offering you the ability to send lists of known and whitespace accounts directly from Marketo into LinkedIn. This functionality is automatically included for all Marketo ABM customers.
 
@@ -242,7 +242,7 @@ The following features were released on June 14, 2019.
 
 The following features are expected to release throughout the second calendar quarter and into the beginning of the third quarter of 2019.
 
-## [!DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky]
 
 * **Event Caps** and **Event Goals** are generally available in [!DNL Marketo Sky] under the Premium Events add-on.
 
@@ -266,7 +266,7 @@ The following features are expected to release throughout the second calendar qu
 
 * **System Email Templates**: Updated design, responsiveness, and internationalization capabilities.
 
-## [!DNL Bizible] by Marketo {#bizible-by-marketo}
+## [!DNL Bizible] by Marketo
 
 * **Multi-Currency Support for [!DNL Dynamics]**: [!DNL Bizible] now adapts to [!DNL Microsoft Dynamics] currency tables, so you can easily switch between corporate and local currencies. (Note: Support for SFDC was released in Q1 2019.)
 * **Drift Integration**: Understand how Drift conversations impact your customer's journey. [!DNL Bizible] will also pull email addresses from conversations to either create a new lead or connect the touchpoint to an existing lead.

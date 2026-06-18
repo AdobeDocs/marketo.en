@@ -120,7 +120,7 @@ Developers now have additional control over the delivery of Push Notifications w
 
 Improve your targeting with a new filter option, "Member of Vibes List."
 
-## [Legacy Rich Text Editor and Form Editor 1.0 Deprecation](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [Legacy Rich Text Editor and Form Editor 1.0 Deprecation](https://nation.marketo.com/docs/DOC-4315)
 
 Starting August 1, 2017, customers still using the legacy Rich Text Editor and Form Editor 1.0 will be automatically transitioned to the new experience.
 
@@ -156,7 +156,7 @@ Gone are the days of cleaning up outdated templates in [!DNL Sales Insight]. Set
 
 Easily transfer large amounts of person and activity data from Marketo to your external systems.
 
-## ABM Enhancements {#abm-enhancements}
+## ABM Enhancements
 
 **[Custom Fields on ABM Named Accounts](https://docs.marketo.com/x/1wnG)**
 
@@ -170,7 +170,7 @@ Named Account scores can vary greatly. Marketo ABM now automatically calculates 
 
 Take advantage of rich and robust ABM partner integrations with enhanced API support for Named Account Lists.
 
-## Web Personalization Enhancements {#web-personalization-enhancements}
+## Web Personalization Enhancements
 
 ![](assets/dialogoptions.png)
 
@@ -214,7 +214,7 @@ Web Personalization is now offered in all Marketo-supported languages (English, 
 
 Predictive Content is now offered in all Marketo-supported languages (English, Japanese, German, Spanish, French, and Portuguese).
 
-## [Legacy Rich Text Editor and Form Editor 1.0 Deprecation](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [Legacy Rich Text Editor and Form Editor 1.0 Deprecation](https://nation.marketo.com/docs/DOC-4315)
 
 Starting August 1, 2017, customers still using the legacy Rich Text Editor and Form Editor 1.0 will be automatically transitioned to the new experience.
 
@@ -236,7 +236,7 @@ Ensure consistency of message and content by preventing edits to your sales temp
 
 ![](assets/image2017-10-9-10-3a1-3a56.png)
 
-## ABM Enhancements {#abm-enhancements}
+## ABM Enhancements
 
 **Data Source for Japanese Company Lookup**
 
@@ -246,7 +246,7 @@ Match people to Japanese company names in the local language.
 
 [!DNL LeanData] integration now allows for lead-to-account matching in Marketo. Keep marketing and sales aligned by having the same leads associated with accounts within the sales and marketing systems of record. More flexible options give Marketing and Sales Operations more control over lead-to-account matching rules, so they can achieve their desired level of precision.
 
-## Web Personalization Enhancements {#web-personalization-enhancements}
+## Web Personalization Enhancements
 
 **[Campaign Preview Enhancements](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
@@ -319,7 +319,7 @@ We released two features as part of our new Slack integration:
 * System notifications: Get Slack notifications regarding important events in your Marketo instance, like alerts about current campaign statuses and any issues that require immediate attention.
 * Interesting moments: When a Marketo Insight has been triggered by a known individual from a sales account, lead owners can be notified via Slack. Notifications include lead information as well as details about the sales account.
 
-## ABM Enhancements {#abm-enhancements}
+## ABM Enhancements
 
 **[Show Accounts with No Contacts](https://docs.marketo.com/x/fKCt)**
 
@@ -335,7 +335,7 @@ View and compare content performance across ABM Account Lists to optimize existi
 * top converted content
 * AI-powered suggested content for marketing activities
 
-## Web Personalization Enhancements {#web-personalization-enhancements}
+## Web Personalization Enhancements
 
 **[Tokens for Web Campaigns](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
