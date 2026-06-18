@@ -78,7 +78,7 @@ Please click the title links to view detailed articles for each feature, if avai
 >
 >Marketo is upgrading the OAuth version for GoToWebinar from 1.0 to 2.0. Support for OAuth 1.0 will be deprecated in January 2019. If you are a GoToWebinar customer, you will need to re-authenticate your logins through LaunchPoint (in the Admin area) by **January 31, 2019** to ensure that your integration will continue working. For more details, please refer to our [Community page](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019).
 
-## Core Platform Enhancements {#core-platform-enhancements}
+## Core Platform Enhancements
 
 **[Email CC for Marketo Emails](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
@@ -179,7 +179,7 @@ Please click the title links to view detailed articles for each feature, if avai
 
 The following features were released on March 15, 2019.
 
-## Core Platform Enhancements {#core-platform-enhancements}
+## Core Platform Enhancements
 
 * **Waitlisted:** New program/event status for waitlisting a member when you want to [put them on hold](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) until a vacancy opens. This applies to channels associated with Event programs in Marketo Classic, and both Event and Event with Webinar programs in [!DNL Marketo Sky]. By default, Waitlisted has the same step value as Registered.
 * **[Custom Communication Limit](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Admins can now set custom daily or weekly communication limits.

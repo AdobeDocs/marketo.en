@@ -234,7 +234,7 @@ The following features are included in the Fall '18 release. Check your Marketo 
 
 Please click the title links to view detailed articles for each feature, if available.
 
-## Core Platform Enhancements {#core-platform-enhancements}
+## Core Platform Enhancements
 
 **[Web Personalization](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
