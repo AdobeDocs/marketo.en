@@ -589,3 +589,4 @@ Have you ever wondered which campaigns are using a specific flow action, such as
 Go to **[!UICONTROL Admin]** > **[!UICONTROL Treasure Chest]** to enable the **[!UICONTROL Campaign Inspector]**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
+
