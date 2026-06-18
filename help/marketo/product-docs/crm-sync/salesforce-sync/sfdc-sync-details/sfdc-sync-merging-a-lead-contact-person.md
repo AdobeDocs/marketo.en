@@ -28,7 +28,7 @@ Sometimes it is best to just list the rules. Here we go:
 
 >[!NOTE]
 >
->The behavior of boolean fields in an API merge changed in the March '26 release. Now, a False value is treated correctly as having a value for that field. Only a null value is treated as "empty" when evaluating conflicting fields. See [this Community post](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"} more details.
+>The behavior of boolean fields in an API merge changed in the March '26 release. Now, a False value is treated correctly as having a value for that field. Only a null value is treated as "empty" when evaluating conflicting fields. See [this Community post](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"} for more details.
 
 >[!MORELIKETHIS]
 >
