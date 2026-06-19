@@ -40,7 +40,7 @@ Before reviewing the tables below, [learn how to identify](/help/marketo/getting
 
 ## Schedule {#schedule}
 
-New dates and data centers/pod information is periodically added, so be sure to check back here for details.
+New dates and data center/pod information is periodically added, so be sure to check back here for details.
 
 <table>
  <tbody>

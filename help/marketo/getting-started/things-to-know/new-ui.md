@@ -6,7 +6,7 @@ hide: true
 ---
 # Marketo Engage New UI {#new-ui}
 
-Thank you for participating in the New Marketo Engage UI beta. This update modernizes the styling of Marketo Engage and improves responsiveness, without altering functionality. The new UI is accessed using a drop-down that appears at the top-right corner of most pages in Marketo Engage.
+Thank you for participating in the New Marketo Engage UI beta. This update modernizes the styling of Marketo Engage and improves responsiveness without altering functionality. The new UI is accessed using a drop-down that appears at the top-right corner of most pages in Marketo Engage.
 
 ## Before you start {#before-starting}
 
