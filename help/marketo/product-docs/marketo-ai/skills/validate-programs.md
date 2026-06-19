@@ -22,22 +22,16 @@ Audit your programs for best practices across all components, such as emails, la
 
    ![](assets/validate-programs-1.png)
 
-1. Select the **Validate programs** agent.
+1. Select the **Validate programs** skill.
 
 1. Select the program you want to validate in the right pane.
 
    ![](assets/validate-programs-3.png){width="800" zoomable="yes"}
 
    A summary of the selected program appears in the center pane.
-
-   <!--
-   Does not exist
-   ![](assets/validate-programs-4.png){width="450" zoomable="yes"}
-   -->
    
 1. In the prompt window, enter "validate program" and click **Send**.
 
    The AI Assistant provides a QA of the selected program, showing you what passed and what failed.
 
    ![](assets/validate-programs-6.png)
-
