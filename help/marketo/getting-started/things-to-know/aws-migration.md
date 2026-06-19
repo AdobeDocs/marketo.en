@@ -69,32 +69,32 @@ New dates and data center/pod information is periodically added, so be sure to c
    6 p.m. PST</td>
   </tr>
   </body>
-  </table>
+</table>
 
-  ## IP addresses to add {#ip-addresses}
+## IP addresses to add {#ip-addresses}
 
-  Based on your data center, work with your IT department to get the respective IP addresses added.
+Based on your data center, work with your IT department to get the respective IP addresses added.
 
-  <table>
- <tbody>
-  <tr>
-   <th style="width:25%">Data Center</th>
-   <th style="width:75%">IP Addresses</th>
-  </tr>
-  <tr>
-   <td>AB</td>
-   <td>54.160.246.246<br>
-   54.237.141.197<br>
-   52.20.211.99</td>
-  </tr>
-  <tr>
-   <td>NLD</td>
-   <td>34.247.24.245<br>
+<table>
+<tbody>
+<tr>
+  <th style="width:25%">Data Center</th>
+  <th style="width:75%">IP Addresses</th>
+</tr>
+<tr>
+  <td>AB</td>
+  <td>54.160.246.246<br>
+  54.237.141.197<br>
+  52.20.211.99</td>
+</tr>
+<tr>
+  <td>NLD</td>
+  <td>34.247.24.245<br>
 18.200.201.81<br>
 54.220.138.65</td>
-  </tr>
-  </body>
-  </table>
+</tr>
+</body>
+</table>
 
 ## Updates and support
 
