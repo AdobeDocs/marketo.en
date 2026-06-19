@@ -30,8 +30,11 @@ Audit your programs for best practices across all components, such as emails, la
 
    A summary of the selected program appears in the center pane.
 
+   <!--
+   Does not exist
    ![](assets/validate-programs-4.png){width="450" zoomable="yes"}
-
+   -->
+   
 1. In the prompt window, enter "validate program" and click **Send**.
 
    The AI Assistant provides a QA of the selected program, showing you what passed and what failed.
