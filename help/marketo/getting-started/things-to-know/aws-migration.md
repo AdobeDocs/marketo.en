@@ -98,4 +98,4 @@ New dates and data centers/pod information is periodically added, so be sure to 
 
 ## Updates and support
 
-For the latest updates, bookmark this page. If you have any questions, contact Adobe Support via the Support portal in the Admin Console or [Experience League](https://experienceleague.adobe.com/en/support).
+For the latest updates, bookmark this page. If you have any questions, contact Adobe Support via the Support portal in the Admin Console or [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
