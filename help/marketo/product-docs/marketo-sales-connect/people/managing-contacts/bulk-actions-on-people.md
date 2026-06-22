@@ -53,3 +53,4 @@ Perform a bulk unsubscribe on contacts who no longer wish to receive corresponde
 Delete contacts in bulk. Full steps can be found [here](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
 
 ![](assets/delete.png)
+
