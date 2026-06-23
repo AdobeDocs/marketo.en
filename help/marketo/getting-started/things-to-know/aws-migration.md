@@ -50,11 +50,6 @@ New dates and data center/pod information is periodically added, so be sure to c
    <th style="width:30%">Time</th>
   </tr>
   <tr>
-   <td>June 19, 2026</td>
-   <td>AB46</td>
-   <td>POSTPONED</td>
-  </tr>
-  <tr>
    <td>July 8, 2026</td>
    <td>AB69<br>
    AB64</td>
@@ -67,6 +62,11 @@ New dates and data center/pod information is periodically added, so be sure to c
    AB43</td>
    <td>5 p.m. PDT<br>
    6 p.m. PDT</td>
+  </tr>
+  <tr>
+   <td>July 11, 2026</td>
+   <td>AB46</td>
+   <td>10 a.m. PDT</td>
   </tr>
   <tr>
    <td>July 13, 2026</td>
