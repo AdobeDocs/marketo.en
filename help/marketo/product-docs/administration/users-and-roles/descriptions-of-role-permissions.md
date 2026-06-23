@@ -247,15 +247,10 @@ View the Marketing Activities tab, campaigns, and campaign folders.
 * Delete Marketing Asset
 * Edit Campaign Restrictions
 * Edit Marketing Asset
-* Export Campaign Activity&#42;
+* Export Campaign Activity
 * Import Program
 * List Import
 * Schedule Batch Campaign
-
-Access SEO
-
-* Administer SEO
-* Standard SEO
 
 ## Targeting and Personalization {#targeting-and-personalization}
 
