@@ -1,8 +1,7 @@
 ---
-description: Explore the Marketo AI suite of agents designed to automate marketing tasks like program QA, lead import, data normalization, and more.
+description: Review Marketo AI's data scope, governance controls, and PII considerations across key workflows such as lead import, program QA, and data normalization.
 title: Marketo AI data information sheet
 badge: beta
-hide: true
 ---
 # Marketo AI data information sheet {#data-information}
 
@@ -50,7 +49,7 @@ Marketo AI is a native, agentic feature within Adobe Marketo Engage that enables
 
 ## Use cases
 
-Besides the ones listed, consider using Marketo AI to diagnose and troubleshoot complex operational issues (CRM sync failures, webhook errors, email delivery root-cause analysis, field mismatches), conduct audits across your account (email deliverability, subscription center compliance, smart campaign reviews, scoring model assessments), and accelerate program creation from briefs and templates (event programs, multi-language email campaigns, webinar setups). Additional is designed to help with AI-assisted lead classification and data enrichment at scale, performance analytics with remediation recommendations, and guided debugging of technical configurations such as Velocity scripts and lifecycle models.
+Besides the ones listed, consider using Marketo AI to diagnose and troubleshoot complex operational issues (CRM sync failures, webhook errors, email delivery root-cause analysis, field mismatches), conduct audits across your account (email deliverability, subscription center compliance, smart campaign reviews, scoring model assessments), and accelerate program creation from briefs and templates (event programs, multi-language email campaigns, webinar setups). Marketo AI is designed to provide AI-assisted lead classification and data enrichment at scale, performance analytics with remediation recommendations, and guided debugging of technical configurations such as Velocity scripts and lifecycle models.
 
 ## Availability and rollout status
 
@@ -116,9 +115,7 @@ This section summarizes the environments in which Marketo AI operates and where 
 
 **No separate cross-user store:** The service does not introduce a separate user-to-user data-sharing or storage layer.
 
-## PII and data privacy considerations
-
-### Data scope by workflow type
+## PII and data privacy considerations: data scope by workflow type
 
 The data processed by Marketo AI is determined by the user's usage pattern and the specific workflow invoked. Not all workflows require processing lead-level data.
 
@@ -144,7 +141,7 @@ The data processed by Marketo AI is determined by the user's usage pattern and t
 * In all cases, data sent to the AI model is limited to what is required to fulfill the specific user request within that workflow
 * The AI inherits the requesting user's existing Marketo Engage permissions — it cannot access lead records, fields, or programs beyond what the user can already view through the product UI
 * Investigative and data-operations workflows necessarily require lead-level data because the user is explicitly asking the AI to analyze, classify, or act on those records
-* users who wish to limit lead-data processing can restrict access to the tools investigative workflows through existing Marketo Engage role and permission controls while retaining full access to structural and administrative AI capabilities
+* Users who wish to limit lead-data processing can restrict access to the tool's investigative workflows through existing Marketo Engage role and permission controls while retaining full access to structural and administrative AI capabilities
 
 ### No incremental data exposure
 
