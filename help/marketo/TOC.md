@@ -1104,6 +1104,7 @@ feature-set: Marketo Engage
   + Marketo AI {#marketo-ai}
     + [Overview](product-docs/marketo-ai/overview.md)
     + [Settings and Setup](product-docs/marketo-ai/settings-setup.md)
+    + {hide-from-toc} [Marketo AI data information sheet](product-docs/marketo-ai/data-information.md)
     + Skills {#skills}
       + [Product knowledge](product-docs/marketo-ai/skills/product-knowledge.md)
       + {hide-from-toc} [Surface insights](product-docs/marketo-ai/skills/surface-insights.md)
