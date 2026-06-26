@@ -115,11 +115,11 @@ This section summarizes the environments in which Marketo AI operates and where 
 
 **No separate cross-user store:** The service does not introduce a separate user-to-user data-sharing or storage layer.
 
-## PII and data privacy considerations: data scope by workflow type
+## Data scope by workflow type
 
 The data processed by Marketo AI is determined by the user's usage pattern and the specific workflow invoked. Not all workflows require processing lead-level data.
 
-### Workflows that process campaign metadata only (no lead PII)
+### Workflows that leverage campaign metadata only (no lead information)
 
 * Program creation from brief — generates program structures, smart campaigns, flow steps, and content placeholders from natural-language instructions
 * Email cloning and translation — duplicates and translates email HTML content, subject lines, and marketing copy across language variants
@@ -128,9 +128,9 @@ The data processed by Marketo AI is determined by the user's usage pattern and t
 * Subscription center and program architecture reviews — analyzes campaign logic and program structure
 * Product knowledge and best-practice guidance — provides Marketo how-to responses from a shared knowledge layer
 
-### Workflows that process lead-level records (standard B2B contact fields)
+### Workflows that leverage lead-level records (standard B2B contact fields)
 
-* Lead investigation and troubleshooting — examines individual lead field values, activity history, and lifecycle progression to diagnose why a lead did or did not reach MQL or qualify for a marketing campaign
+* Lead investigation and troubleshooting — examines user-supplied individual lead field values, activity history, and lifecycle progression to diagnose why a lead did or did not reach MQL status, or qualify for a marketing campaign
 * Lead import and normalization — processes user-supplied lead data including names, email addresses, phone numbers, and company fields for mapping, cleansing, and deduplication
 * Lead classification and enrichment — evaluates lead records against user-defined scoring or classification logic (e.g., Valid vs Spam leads for database health, Personas for personalization purposes, Business Leads with corporate email leads vs consumer leads)
 * Data quality and deliverability audits — analyzes lead-level engagement data, bounce patterns, and duplicate records to identify database health issues
@@ -139,8 +139,7 @@ The data processed by Marketo AI is determined by the user's usage pattern and t
 ### Data minimization by design
 
 * In all cases, data sent to the AI model is limited to what is required to fulfill the specific user request within that workflow
-* The AI inherits the requesting user's existing Marketo Engage permissions — it cannot access lead records, fields, or programs beyond what the user can already view through the product UI
-* Investigative and data-operations workflows necessarily require lead-level data because the user is explicitly asking the AI to analyze, classify, or act on those records
+* Marketo AI follows the user's existing Marketo Engage permissions — it does not provide access to lead records, fields, or programs beyond what the user has permission to view through the product UI
 * Users who wish to limit lead-data processing can restrict access to the tool's investigative workflows through existing Marketo Engage role and permission controls while retaining full access to structural and administrative AI capabilities
 
 ### No incremental data exposure
