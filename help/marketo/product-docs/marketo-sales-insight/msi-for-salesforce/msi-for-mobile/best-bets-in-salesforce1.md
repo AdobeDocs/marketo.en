@@ -16,9 +16,13 @@ topic_v2:
 
 Your [[!DNL Best Bets]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) are your leads and contacts with the highest urgency and relative score. Only the leads you own are visible in that list, and the list is updated as lead scores change.
 
+>[!AVAILABILITY]
+>
+>Best Bets are not available with the Salesforce Platform License.
+
 1. Go to the Marketo area in the [!DNL Salesforce] app.
 
-   In the drop-down, you can choose “[!UICONTROL My Best Bets]”, “[!UICONTROL My Watch List]”, “[!UICONTROL Web Activity]”, “[!UICONTROL Anonymous Web Activity]”, or “[!UICONTROL My Email].”
+   In the drop-down, you can choose "[!UICONTROL My Best Bets]", "[!UICONTROL My Watch List]", "[!UICONTROL Web Activity]", "[!UICONTROL Anonymous Web Activity]", or "[!UICONTROL My Email]."
 
    ![](assets/one-2.png)
 

@@ -20,15 +20,17 @@ Use the following steps to add access to [!DNL Sales Insight] features in [!DNL 
 
 >[!PREREQUISITES]
 >
->[Update your [!DNL Sales Insight] [!DNL Salesforce] package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} to version 1.8000 or higher to use this feature.
+>[Update your [!DNL Sales Insight] [!DNL Salesforce] package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} to version 1.8000 or higher to use this feature. 
 
 >[!IMPORTANT]
 >
->If you’ve previously given [!DNL Sales Insight] access to all profiles and/or implemented [!DNL Sales Insight] for all your users, you must [remove profile level access](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} to use this permission set.
+>* If you've previously given [!DNL Sales Insight] access to all profiles and/or implemented [!DNL Sales Insight] for all your users, you must [remove profile level access](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} to use this permission set.
+>
+>* The standard Salesforce License is required for full functionality of MSI. Users with the Salesforce Platform License (a limited license class) may see errors performing certain actions or accessing some tabs.
 
 ## Overview {#overview}
 
-“Marketo App” permission is a part of the [!DNL Sales Insight] [!DNL Salesforce] package. It includes access to the below mentioned objects, apex classes, and visualforce pages. These are required to access all [!DNL Sales Insight] features.
+"Marketo App" permission is a part of the [!DNL Sales Insight] [!DNL Salesforce] package. It includes access to the below mentioned objects, apex classes, and visualforce pages. These are required to access all [!DNL Sales Insight] features.
 
 **Object Settings**
 
@@ -81,8 +83,8 @@ Use the following steps to add access to [!DNL Sales Insight] features in [!DNL 
  </tbody>
 </table>
 
-* Apex Class Access: 159 Apex Classes that begin with “mkto_si”
-* Visualforce Page Access: 64 Visualforce Pages that begin with “mkto_si”
+* Apex Class Access: 159 Apex Classes that begin with "mkto_si"
+* Visualforce Page Access: 64 Visualforce Pages that begin with "mkto_si"
 * Custom Setting Definitions: mkto_si.Marketo Settings & mkto_si.User Preferences
 
 ## Adding Marketo App Permission Set to Users {#adding-marketo-app-permission-set-to-users}
@@ -109,12 +111,12 @@ Use the following steps to add access to [!DNL Sales Insight] features in [!DNL 
 
    ![](assets/add-sales-insight-permission-set-5.png)
 
-1. Now when you scroll down the User Detail page you will see “Marketo App Access” under Permission Set Assignments.
+1. Now when you scroll down the User Detail page you will see "Marketo App Access" under Permission Set Assignments.
 
    ![](assets/add-sales-insight-permission-set-6.png)
 
 >[!NOTE]
 >
->Users who don't have access to [!DNL Sales Insight] will see this message: “You do not have sufficient privileges to access this tab.”
+>Users who don't have access to [!DNL Sales Insight] will see this message: "You do not have sufficient privileges to access this tab."
 
-That’s it! You’ve successfully added [!DNL Sales Insight] access. Repeat the same steps for any other profile you’d like to add access for.
+That's it! You've successfully added [!DNL Sales Insight] access. Repeat the same steps for any other profile you'd like to add access for.

@@ -103,6 +103,10 @@ Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited editions by c
 
 ## Grant Sales Insight users profile access to standard Salesforce objects {#grant-sales-insight-users-profile-access}
 
+>[!IMPORTANT]
+>
+>The standard Salesforce License is required for full functionality of MSI. Users with the Salesforce Platform License (a limited license class) may see errors performing certain actions or accessing some tabs.
+
 Due to Salesforce security enhancements, AppExchange packages can no longer grant permission to standard objects, and access must be granted to the relevant Salesforce objects from the Salesforce user's profile. To grant the required permissions, follow these steps.
 
 1. Click **[!UICONTROL Setup]**.

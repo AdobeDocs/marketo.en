@@ -15,6 +15,10 @@ topic_v2:
 
 The [!DNL Best Bets] tab includes a list of all of your hot leads based on their priority, calculated using urgency and relative score.
 
+>[!AVAILABILITY]
+>
+>Best Bets are not available with the Salesforce Platform License.
+
 >[!CAUTION]
 >
 >Be careful not to exceed 1,000 Best Bets, otherwise the page could stop loading. If this occurs, use the filters to narrow down your total number of Best Bets.
