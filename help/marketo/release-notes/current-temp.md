@@ -26,15 +26,15 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Release Notes: May 2026 {#release-notes-may-26}
+# Release Notes: July 2026 #1 of 2 {#release-notes-july-26-one}
 
-Below you'll find all the features included in the May '26 release. Check your Adobe Marketo Engage edition for feature availability.
+Below you'll find all the features included in the first July '26 release. Check your Adobe Marketo Engage edition for feature availability.
 
 The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
-The following features fall under the standard release cycle and will start to be released on **May 22, 2026**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
+The following features fall under the standard release cycle and will start to be released on **July 10, 2026**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -44,9 +44,10 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>Email Designer - Conditional Content for Email Fragments</strong>: <i>Parity with the old email editor</i>. Conditional content is now supported for Fragments.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td><strong>Marketo AI skill - Product knowledge</strong>: Product knowledge gives you on-demand access to Marketo expertise without leaving the platform. Ask a question in plain language and Marketo AI draws on official Adobe documentation to answer it.
+</td>
+   <td>Open beta</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Marketo AI overview</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>
@@ -54,10 +55,21 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Picklist Management</strong>: You can now specify the values that can be used in fields in Marketo Engage.
-   </td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td><strong>Marketo AI skill - Investigate leads</strong>: Find out why a specific person/lead did not reach a milestone (like MQL, program qualification, or a campaign) and get a plain-language explanation of what happened.
+</td>
+   <td>Open beta</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Marketo AI overview</a></td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - AI Assistant Contextual Menu</strong>: The AI Assistant features of the Email Designer can now be accessed from the contextual menu (the black bar). For example, when you select text content, the AI Assistant icon appears on the contextual menu, allowing you to perform quick actions from there.</td>
+   <td><i>Coming soon</i></td>
+   <td><i>Coming soon</i></td>
+  </tr>
   </tr>
   </tbody>
 </table>
@@ -65,17 +77,9 @@ The following features fall under the standard release cycle and will start to b
 
 ## Announcements {#announcements}
 
-* **Social Features Deprecation Fields**: In 2025, Marketo Engage deprecated the following Social features:
-
-  * Polls
-  * Social Button
-  * Referral Offer
-  * Video Share
-  * Sweepstakes
-
-Earlier this year, the related fields that had been left behind were removed from Marketo. Soon after, API requests referencing certain Social-related lead fields returned a "field not found" error, causing interruptions. Service was restored after the impacted fields were made available again, so to prevent further disruption, Marketo has permanently decoupled Social fields from the Social features deprecation (and as such will be available in your Marketo account). Users are encouraged to review API queries and integrations that reference Marketo Social-related fields and determine whether those fields are still required for ongoing business processes.
-
 * **Rest API 'access_token' Parameter Deprecation**: The `access_token` query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after July 31, 2026. All new and existing integrations should authenticate REST API calls using the 'Authorization' header, [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+
+* **REST API Merge Leads limit**: Beginning July 31, 2026, calls that include more than 25 IDs in the leadIds parameter of a Merge Leads API call will result in a 1080 error code, and the call will be skipped. Jobs requiring the merger of more than 25 records into one should be split into multiple jobs to ensure the success of those calls.
 
 * **SOAP API Deprecation**: Support for the Marketo SOAP API will end on July 31, 2026. Services which use SOAP API capabilities should be migrated to the [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 

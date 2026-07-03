@@ -1,0 +1,128 @@
+---
+description: Release Notes - May 2026 - Marketo Docs - Product Documentation
+title: Release Notes - May 2026
+feature: Release Information
+---
+# Release Notes: May 2026 {#release-notes-may-26}
+
+Below you'll find all the features included in the May '26 release. Check your Adobe Marketo Engage edition for feature availability.
+
+The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+
+## Standard Release Cycle Features {#standard-release-cycle-features}
+
+The following features fall under the standard release cycle and will start to be released on **May 22, 2026**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
+
+<table style="table-layout:auto">
+ <tbody>
+ <tr>
+   <th style="width:65%">Feature</th>
+   <th style="width:10%">Status</th>
+   <th style="width:25%">Documentation</th>
+  </tr>
+  <tr>
+   <td><strong>Marketo AI</strong>: Utilize a suite of agents designed to automate time-consuming but important marketing functions (two agents available now, more coming soon).
+</td>
+   <td>Open beta</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AI overview</a></td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Marketo Engage MCP Server</strong>: The Marketo Engage MCP server acts as a bridge between your AI assistant and Marketo Engage. It exposes more than 100 operations across forms, programs, smart campaigns, people/leads, emails, snippets, lists, and folders.</td>
+   <td>Open beta</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Marketo MCP Server</a></td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Conditional Content for Email Fragments</strong>: <i>Parity with the old email editor</i>. Conditional content is now supported for Fragments.</td>
+   <td>Released</td>
+   <td>n/a</td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Picklist Management</strong>: You can now specify the values that can be used in fields in Marketo Engage.
+   </td>
+   <td>Released</td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md" target="_blank">Picklist Management</a></td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Is Typing</strong>: Now both the visitor and the agent see an "is typing..." notification while the other party is typing, preventing one from interrupting the other.
+   </td>
+   <td>Released</td>
+   <td>n/a</td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Marketo Picklist/Drop-down Fields</strong>: Marketo picklist/drop-down person fields (including Salesforce-synced values) are now available as drop-down values in the chat profile editor.
+   </td>
+   <td>Released</td>
+   <td>n/a</td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Missed Chat Status</strong>: When an agent does not accept a chat, a new "Missed chat" status will appear in the Activity Details in the Person Record of the person who chatted in.
+   </td>
+   <td>Released</td>
+   <td>n/a</td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - New Attribute Syncing Behavior</strong>: Previously, adding new attributes blocked changes in the environment for up tp 24 hours while the sync completed, preventing dialogue editing and publishing. Now, while adding a new attribute still requires a full data sync (which still may take up to 24 hours), the environment is no longer blocked during the process.
+   </td>
+   <td>Released</td>
+   <td>n/a</td>
+  </tr>
+  </tbody>
+</table>
+<br/>
+
+## Announcements {#announcements}
+
+* **Social Features Deprecation Fields**: In 2025, Marketo Engage deprecated the following Social features:
+
+  * Polls
+  * Social Button
+  * Referral Offer
+  * Video Share
+  * Sweepstakes
+
+Earlier this year, the related fields that had been left behind were removed from Marketo. Soon after, API requests referencing certain Social-related lead fields returned a "field not found" error, causing interruptions. Service was restored after the impacted fields were made available again, so to prevent further disruption, Marketo has permanently decoupled Social fields from the Social features deprecation (and as such will be available in your Marketo account). Users are encouraged to review API queries and integrations that reference Marketo Social-related fields and determine whether those fields are still required for ongoing business processes.
+
+* **API Merge Functionality for Boolean Fields**: The behavior of boolean fields in an API merge changed in the March '26 release. Now, a False value is treated correctly as having a value for that field. Only a null value is treated as "empty" when evaluating conflicting fields. See [this Community post](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"} for more details.
+
+* **Rest API 'access_token' Parameter Deprecation**: The `access_token` query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after July 31, 2026. All new and existing integrations should authenticate REST API calls using the 'Authorization' header, [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+
+* **REST API Merge Leads limit**: Beginning July 31, 2026, calls that include more than 25 IDs in the leadIds parameter of a Merge Leads API call will result in a 1080 error code, and the call will be skipped. Jobs requiring the merger of more than 25 records into one should be split into multiple jobs to ensure the success of those calls.
+
+* **SOAP API Deprecation**: Support for the Marketo SOAP API will end on July 31, 2026. Services which use SOAP API capabilities should be migrated to the [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+
+* **Static List Size Limits for Get Lead Activities and Get Lead Changes**: Beginning September 30, 2026, calls to the Get Lead Activities and Get Lead Changes endpoints that include the `listId` parameter will return a 1003 error code if the target static list contains 10,000 or more leads. Consult the [Migration Guide](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} for more information.
