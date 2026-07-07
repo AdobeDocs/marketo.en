@@ -1005,6 +1005,7 @@ feature-set: Marketo Engage
       + [Email Collaboration](product-docs/email-marketing/email-designer/email-collaboration.md)
       + [AI Assistant for Email Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
       + [Email Spam Report with SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
+      + {hide-from-toc} [CNIL Open Tracking Guidance](product-docs/email-marketing/email-designer/cnil-guidance.md)
     + Email Programs {#email-programs}
       + Creating an Email Program {#creating-an-email-program}
         + [Create an Email Program](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
