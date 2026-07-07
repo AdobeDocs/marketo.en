@@ -11,7 +11,7 @@ Over the next several months, all Marketo Engage subscriptions are being migrate
 
 You will receive an email as well as an in-app notification approximately 30 days prior to migration. Use this guide to prepare.
 
-## Recommended actions
+## Recommended actions {#actions}
 
 During your migration window, all Marketo Engage services will be unavailable. We recommend taking the following steps to mitigate any impact on your business.
 
@@ -27,7 +27,7 @@ During your migration window, all Marketo Engage services will be unavailable. W
 
 * **Add new IP addresses** and keep your current IPs as-is. See the IP addresses to add via the [table below](#ip-addresses).
 
-## Expected service impacts
+## Expected service impacts {#impacts}
 
 The impacts below require no action on your part.
 
@@ -115,6 +115,6 @@ Based on your data center, work with your IT department to get the respective IP
 </body>
 </table>
 
-## Updates and support
+## Updates and support {#support}
 
 For the latest updates, bookmark this page. If you have any questions, contact Adobe Support via the Support portal in the Admin Console or [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
