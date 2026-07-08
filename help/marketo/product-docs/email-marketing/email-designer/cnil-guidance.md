@@ -63,7 +63,7 @@ In the Email Designer, the **Disable open tracking** checkbox can be found in th
 
    ![](assets/cnil-8.png){width="800" zoomable="yes"}
 
-1. In the flow step, click **Add Choice**. In Choice 1, set **if** to _EmailPixelTracking_, set the operator to _is_, and set the value to _false_. For **Email**, select _Email Two_.
+1. In the flow step, click **Add Choice**. In Choice 1, set **if** to _Email Pixel Tracking_, set the operator to _is_, and set the value to _false_. For **Email**, select _Email Two_.
 
 1. In Default Choice, set the **Email** to _Email One_.
 
