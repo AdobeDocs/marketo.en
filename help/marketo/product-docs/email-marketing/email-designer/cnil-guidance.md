@@ -1,13 +1,12 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: CNIL Guidance Compliance - Conditional Email Open Tracking
+title: CNIL Guidance - Conditional Email Open Tracking
 description: Learn how to configure Marketo Engage for CNIL compliance using a custom boolean field to route email open tracking based on each person's consent status.
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
 ---
-# CNIL guidance compliance: Conditional email open tracking {#cnil}
+# CNIL guidance: Conditional email open tracking {#cnil}
 
 Learn how to configure Marketo Engage to honor end-user consent for email open (pixel) tracking, in alignment with CNIL guidelines (COMMUNITY LINK). The approach uses a custom boolean field to determine which email variant a person receives, one with open tracking enabled or one with it disabled.
 
