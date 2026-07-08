@@ -23,7 +23,7 @@ Learn how to configure Marketo Engage to honor end-user consent for email open (
 
 ## Step 2: Populate the consent field {#populate}
 
-1. Set the EmailPixelTracking field value for each person via data import (API sync or CSV upload).
+1. Set the Email Pixel Tracking field value for each person via data import (API sync or [CSV upload](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
 
    ![](assets/cnil-3.png)
 
@@ -45,7 +45,7 @@ Create two emails. Note that email open tracking is enabled by default for both 
 
    ![](assets/cnil-5.png)
 
-In the Email Designer, the **Disable open tracking** checkbox can be found in the _Details_ tab of the _Summary_ pane to the right of your email. In the legacy email editor, the **Disable open tracking** checkbox can be found in the _Edit Settings_ menu.
+In the Email Designer, the **Disable open tracking** checkbox can be found in the _Details_ tab of the _Summary_ pane to the right of your email. In the legacy email editor, the **Disable open tracking** checkbox can be found in the _Email Settings_ menu.
 
 **Email Designer**
 
@@ -55,9 +55,9 @@ In the Email Designer, the **Disable open tracking** checkbox can be found in th
 
    ![](assets/cnil-7.png){width="800" zoomable="yes"}
 
-## Step 4: Configure the smart campaign {#smart-campaign}
+## Step 4: Configure your Smart Campaign {#smart-campaign}
 
-Create a Smart Campaign to determine which email each person receives.
+[Create a Smart Campaign](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} to determine which email each person receives.
 
 1. In the _Flow_ tab of your Smart Campaign, insert the **Send Email** flow step.
 
