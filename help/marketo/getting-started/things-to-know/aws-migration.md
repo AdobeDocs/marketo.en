@@ -58,10 +58,8 @@ New dates and data center/pod information is periodically added, so be sure to c
   </tr>
   <tr>
    <td>July 9, 2026</td>
-   <td>AB70<br>
-   AB43</td>
-   <td>5 p.m. PDT<br>
-   6 p.m. PDT</td>
+   <td>AB70</td>
+   <td>5 p.m. PDT</td>
   </tr>
   <tr>
    <td>July 11, 2026</td>
