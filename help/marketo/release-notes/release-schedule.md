@@ -57,18 +57,13 @@ _Release dates/features are subject to change_
    <td>Complete</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">July '26 (1 of 2)</a></td>
+  <td><a href="/help/marketo/release-notes/current.md">July '26</a></td>
    <td>July 10, 2026</td>
    <td>On schedule</td>
   </tr>
   <tr>
-  <td>July '26 (2 of 2)</td>
-   <td>July 31, 2026</td>
-   <td>On schedule</td>
-  </tr>
-  <tr>
   <td>August '26</td>
-   <td>August 28, 2026</td>
+   <td>August 14, 2026</td>
    <td>On schedule</td>
   </tr>
   <tr>
