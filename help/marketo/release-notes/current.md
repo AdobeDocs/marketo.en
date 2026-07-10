@@ -25,9 +25,9 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Release Notes: July 2026 #1 of 2 {#release-notes-july-26-one}
+# Release Notes: July 2026 {#release-notes-july-26}
 
-Below you'll find all the features included in the first July '26 release. Check your Adobe Marketo Engage edition for feature availability.
+Below you'll find all the features included in the July '26 release. Check your Adobe Marketo Engage edition for feature availability.
 
 The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
