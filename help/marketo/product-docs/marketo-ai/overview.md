@@ -6,11 +6,11 @@ exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
 ---
 # Marketo AI Overview {#overview}
 
-Marketo AI provides agents designed to automate time-consuming but important marketing functions.
+Marketo AI provides agent skills designed to automate time-consuming but important marketing functions.
 
 >[!AVAILABILITY]
 >
->This feature is currently in open beta. To request access, contact your account manager. You must also agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+>This feature is currently in open beta. To request access, contact your account manager. You must also agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Marketo AI is only optimized for English at this time.
 
 >[!IMPORTANT]
 >
