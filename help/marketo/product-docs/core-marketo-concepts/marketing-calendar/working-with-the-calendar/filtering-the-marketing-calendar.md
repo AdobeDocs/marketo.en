@@ -4,7 +4,7 @@ description: Learn how to filter the Marketing Calendar by entry type, program t
 title: Filtering the Marketing Calendar
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/kMQU58oZslkR2iLG6vy9yLcaN----3rjAIZ5ln3QtMg
+TQID: https://experienceleague.adobe.com/kMQU58oZslkR2iLG6vy9yLcaN%2D%2D%2D%2D3rjAIZ5ln3QtMg
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage

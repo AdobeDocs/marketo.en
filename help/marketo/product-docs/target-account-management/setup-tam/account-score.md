@@ -4,7 +4,7 @@ description: Learn about Account Scoring and how it helps prioritize engaged tar
 title: Account Score
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/l---8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c
+TQID: https://experienceleague.adobe.com/l%2D%2D%2D8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage

@@ -4,7 +4,7 @@ description: Learn how to include a calendar event (.ics) in an email. Add an at
 title: Include a Calendar Event (.ics) in an Email
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/ZJ9XMMLrtdu---ij5DISsdhUTvJ6hjJl07STUdEgWfw
+TQID: https://experienceleague.adobe.com/ZJ9XMMLrtdu%2D%2D%2Dij5DISsdhUTvJ6hjJl07STUdEgWfw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
