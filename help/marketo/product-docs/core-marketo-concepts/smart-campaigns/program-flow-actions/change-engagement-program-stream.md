@@ -4,7 +4,7 @@ description: Learn how to change engagement program stream in a flow step. Move 
 title: Change Engagement Program Stream
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-TQID: https://experienceleague.adobe.com/JODd03zXlwTRCW-jkoQVPS6Up2Gvtzc-GFmI---1-0M
+TQID: https://experienceleague.adobe.com/JODd03zXlwTRCW-jkoQVPS6Up2Gvtzc-GFmI%2D%2D%2D1-0M
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage

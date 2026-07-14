@@ -3,7 +3,7 @@ description: Understand Salesforce diagnostics and error messages for failed dat
 title: Salesforce Diagnostics
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/FMRaCIwUGnTuyrIEi---7I4Tir-uwrZnzYWZxrOkwWg
+TQID: https://experienceleague.adobe.com/FMRaCIwUGnTuyrIEi%2D%2D%2D7I4Tir-uwrZnzYWZxrOkwWg
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
