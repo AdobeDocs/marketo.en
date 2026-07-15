@@ -45,9 +45,10 @@ New dates and data center/pod information is periodically added, so be sure to c
 <table>
  <tbody>
   <tr>
-   <th style="width:50%">Date</th>
-   <th style="width:20%">Data Center/Pod</th>
-   <th style="width:30%">Time</th>
+   <th style="width:25%">Date</th>
+   <th style="width:25%">Data Center/Pod</th>
+   <th style="width:25%">Time</th>
+   <th style="width:25%">Status</th>
   </tr>
   <tr>
    <td>July 8, 2026</td>
@@ -55,21 +56,26 @@ New dates and data center/pod information is periodically added, so be sure to c
    AB64</td>
    <td>5 p.m. PDT<br>
    6 p.m. PDT</td>
+   <td>Completed<br>
+   Completed</td>
   </tr>
   <tr>
    <td>July 9, 2026</td>
    <td>AB70</td>
    <td>5 p.m. PDT</td>
+   <td>Completed</td>
   </tr>
   <tr>
    <td>July 11, 2026</td>
    <td>AB46</td>
    <td>10 a.m. PDT</td>
+   <td>Completed</td>
   </tr>
   <tr>
    <td>July 13, 2026</td>
    <td>NLD101</td>
    <td>10 a.m. PDT</td>
+   <td>Completed</td>
   </tr>
   <tr>
    <td>July 15, 2026</td>
@@ -77,6 +83,8 @@ New dates and data center/pod information is periodically added, so be sure to c
    NLD104</td>
    <td>10 a.m. PDT<br>
    11 a.m. PDT</td>
+   <td>On schedule<br>
+   On schedule</td>
   </tr>
   <tr>
    <td>July 17, 2026</td>
@@ -84,6 +92,8 @@ New dates and data center/pod information is periodically added, so be sure to c
    NLD105</td>
    <td>10 a.m. PDT<br>
    11 a.m. PDT</td>
+   <td>On schedule<br>
+   On schedule</td>
   </tr>
   <tr>
    <td>July 21, 2026</td>
@@ -91,16 +101,20 @@ New dates and data center/pod information is periodically added, so be sure to c
    AB56</td>
    <td>5 p.m. PDT<br>
    6 p.m. PDT</td>
+   <td>On schedule<br>
+   On schedule</td>
   </tr>
   <tr>
    <td>July 23, 2026</td>
    <td>AB48</td>
    <td>5 p.m. PDT</td>
+   <td>On schedule</td>
   </tr>
   <tr>
    <td>July 31, 2026</td>
    <td>AB43</td>
    <td>3 p.m. PDT</td>
+   <td>On schedule</td>
   </tr>
   <tr>
    <td>August 12, 2026</td>
@@ -108,10 +122,13 @@ New dates and data center/pod information is periodically added, so be sure to c
    AB17</td>
    <td>3 p.m. PDT<br>
    4 p.m. PDT</td>
+   <td>On schedule<br>
+   On schedule</td>
   </tr>
   <td>August 13, 2026</td>
    <td>AB68</td>
    <td>4 p.m. PDT</td>
+   <td>On schedule</td>
   </tr>
   </body>
 </table>
