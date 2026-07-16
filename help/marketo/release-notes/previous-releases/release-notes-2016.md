@@ -52,25 +52,35 @@ topic_v2:
 
 The following features are included in the Winter '16 release. Please click the title links to view detailed articles for each feature.
 
-## [Is Anonymous Filter](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
+## Is Anonymous Filter {#is-anonymous-filter}
+
+[Is Anonymous Filter](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
 
 The Is Anonymous filter has been removed for Smart Lists. See the [Next Generation Munchkin Tracking FAQ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) document for details. This change does not affect Web Personalization (RTP), which continues to identify anonymous and known web visitors and personalize content in real time to these visitors.
 
-## [Database Dashboard](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
+## Database Dashboard {#database-dashboard}
+
+[Database Dashboard](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)
 
 The [!UICONTROL Lead Database] has an updated Summary Dashboard that includes total people database size, number of marketable leads, and a breakdown of leads by top five sources.
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
-## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
+## Microsoft Edge Browser {#microsoft-edge-browser}
+
+[Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md)
 
 We've added [!DNL Microsoft Edge] to the [list of browsers](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) supported by Marketo.
 
-## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
+## Microsoft Outlook 2016 {#microsoft-outlook}
+
+[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
 
 [[!DNL Microsoft Outlook] 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) is now supported.
 
-## [Email Program Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
+## Email Program Head Start {#email-program-head-start}
+
+[Email Program Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 
 Use [!UICONTROL Head Start] to indicate that processing for your send should occur ahead of time. Instead of qualifying leads and preparing emails at the scheduled time of the program, [!UICONTROL Head Start] ensures that these tasks are done beforehand. This way, your audience will start receiving emails at the scheduled time.
 
@@ -84,7 +94,9 @@ To use this feature, the email program must be scheduled at least 12 hours in ad
 >
 >This feature will roll out gradually for a week following the Winter '16 Release. It is unavailable for use with smart campaigns or the API.
 
-## [Mobile Marketing Enhancements](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
+## Mobile Marketing Enhancements {#mobile-marketing-enhancements}
+
+[Mobile Marketing Enhancements](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md)
 
 **[!DNL PhoneGap] Support:** We now offer [!DNL PhoneGap] support for your mobile app. [Learn more](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
@@ -92,11 +104,15 @@ To use this feature, the email program must be scheduled at least 12 hours in ad
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [Program API](https://developers.marketo.com/documentation/programs/) {#program-api}
+## Program API {#program-api}
+
+[Program API](https://developers.marketo.com/documentation/programs/)
 
 Create, update, and clone programs via the REST API. This does not include the creation or updating of smart lists and smart campaigns within a program.
 
-## [Microsoft Dynamics Enhancements](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
+## Microsoft Dynamics Enhancements {#microsoft-dynamics-enhancements}
+
+[Microsoft Dynamics Enhancements](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
 
 **[[!UICONTROL Sync Status]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: Keep tabs on the current throughput and backlog of the sync process. Break it down by the count of inserts and updates by object.
 
@@ -106,19 +122,25 @@ Create, update, and clone programs via the REST API. This does not include the c
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
-## [Custom Objects Enhancements](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md) {#custom-objects-enhancements}
+## Custom Objects Enhancements {#custom-objects-enhancements}
+
+[Custom Objects Enhancements](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
 
 You now can create many-to-many relationships between Leads/Accounts and a custom object by using an intermediary object with multiple link fields.
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## Facebook Lead Ads {#facebook-lead-ads}
+
+[Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 
 [[!UICONTROL Facebook Lead ads]](https://www.facebook.com/business/a/lead-ads) are a more direct way for a business to run lead generation campaigns on [!DNL Facebook]. People fill out a form to express interest in a product or service, so the business can follow up with them. The Marketo integration with [!UICONTROL Facebook Lead Ads] automatically captures the information a lead provides within the Lead Ad form. Follow up actions and notifications can then be automated using the new [!UICONTROL Fills Out Facebook Lead Ads] trigger.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
-## [Web (Real-Time Personalization) Campaign Scheduler](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md) {#web-real-time-personalization-campaign-scheduler}
+## Web (Real-Time Personalization) Campaign Scheduler {#web-real-time-personalization-campaign-scheduler}
+
+[Web (Real-Time Personalization) Campaign Scheduler](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md)
 
 Schedule your campaign in advance. Set up a start and end date for personalized web content and repeat campaigns on specific days and times. Personalize the schedule to display the campaign according to the web visitor's time or a selected time zone.
 
@@ -128,7 +150,9 @@ Schedule your campaign in advance. Set up a start and end date for personalized 
 
 The following features are included in the Spring '16 release. Please click the title links to view detailed articles for each feature.
 
-## [Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
+## Email Insights {#email-insights}
+
+[Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md)
 
 Email Insights is a brand new historical aggregate data email analytics experience - redesigned end-to-end for lightning fast performance. It features a completely new user interface design optimized to fit the needs and workflow of Email Marketers.
 
@@ -138,7 +162,9 @@ Email Insights is a brand new historical aggregate data email analytics experien
 
 ![](assets/two.png)
 
-## [Email Template Picker](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
+## Email Template Picker {#email-template-picker}
+
+[Email Template Picker](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
 
 Create beautiful emails using our new Starter Templates! Also, quickly locate your templates from their live thumbnails.
 
@@ -148,33 +174,45 @@ Create beautiful emails using our new Starter Templates! Also, quickly locate yo
 
 ![](assets/5-29-home-starter-templates.png)
 
-## [Email Editing---Re-imagined](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-editing-re-imagined}
+## Email Editing---Re-imagined {#email-editing-re-imagined}
+
+[Email Editing---Re-imagined](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
 
 That's right, a brand new email editor! Use lightweight drag-and-drop functionality to add and re-order content. New elements, including images, videos, variables, and modules, are sure to enhance your editing experience. Also check out the updated code editor, previewer, and preheader support.
 
 ![](assets/17a-29-modules-next.png)
 
-## [Mobile In-App Messages](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md) {#mobile-in-app-messages}
+## Mobile In-App Messages {#mobile-in-app-messages}
+
+[Mobile In-App Messages](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 
 Create stunning in-app messages for your app right within Marketo. Define exactly who should see it and when with the in-app message program. Easily monitor its performance with the program dashboard.
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
-## [No Draft Snippets](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
+## No Draft Snippets {#no-draft-snippets}
+
+[No Draft Snippets](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
 
 Gone are the days where you have to re-approve everything each time a snippet is updated! With No-Draft, all emails and landing pages using a snippet will get the snippet updates and maintain their prior statuses. Each time you approve a snippet, you'll have a choice to run No-Draft and update everything, or create drafts. It is up to you! No-Draft will be available to all customers and controlled by a new permission in Admin.
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [Landing Page, Landing Page Template, and Form APIs](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
+## Landing Page, Landing Page Template, and Form APIs {#landing-page-landing-page-template-and-form-apis}
+
+[Landing Page, Landing Page Template, and Form APIs](https://developers.marketo.com/blog/spring-2016-updates/)
 
 The Marketo REST APIs now support control over Marketo landing pages, landing page templates, and forms. Users can now create, update content, approve, and delete these assets directly via the Marketo REST API.
 
-## [IP Allowlisting for API Access](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
+## IP Allowlisting for API Access {#ip-allowlisting-for-api-access}
+
+[IP Allowlisting for API Access](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
 
 Similar to the IP allowlisting feature for Marketo user logins, Marketo admins can now set up a allowlist of IP addresses that can access the Marketo SOAP and REST APIs, thereby blocking access from non-authorized IP addresses. This provides an added layer of security to your Marketo instance, and ensures that API access can only occur from within your organization's network. Details on how to set this up are available on the [Marketo documentation site](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
-## [New High-Speed Microsoft Dynamics Sync Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
+## New High-Speed Microsoft Dynamics Sync Connector {#new-high-speed-microsoft-dynamics-sync-connector}
+
+[New High-Speed Microsoft Dynamics Sync Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
 
 The new, high-speed Dynamics connector provides speeds up to 20 times faster for initial sync and up to 5 times faster for incremental sync. All new customers will onboard to this connector on the release date, and we will gradually roll it out to existing customers over the summer release time frame.
 
@@ -192,7 +230,9 @@ The new, high-speed Dynamics connector provides speeds up to 20 times faster for
 
 **Plug-In Updates are now documented:** See the [plug-in updates docs article](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
-## [Friendly Instance Name](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
+## Friendly Instance Name {#friendly-instance-name}
+
+[Friendly Instance Name](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md)
 
 Today, it is hard to differentiate between Marketo instances, for example, sandbox and production instances. This feature lets you know which instances you are currently working on.
 
@@ -204,7 +244,9 @@ Today, users are invited to Marketo subscription for an indefinite period of tim
 
 ![](assets/image2016-5-16-15-3a59-3a52.png)
 
-## [Custom Objects Grid](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) {#custom-objects-grid}
+## Custom Objects Grid {#custom-objects-grid}
+
+[Custom Objects Grid](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 Now, you can view the number of records and fields for all published custom objects.
 
@@ -218,7 +260,9 @@ Marketo admins can now define and manage their custom activity types via the Mar
 
 The following features are included in the Summer '16 release. Check your Marketo edition for feature availability. Please click the title links to view detailed articles for each feature.
 
-## [Account Based Marketing](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
+## Account Based Marketing {#account-based-marketing}
+
+[Account Based Marketing](https://docs.marketo.com/display/docs/account+based+marketing)
 
 Marketo Account Based Marketing provides all of the essentials in one unified platform:
 
@@ -232,7 +276,9 @@ Marketo Account Based Marketing provides all of the essentials in one unified pl
 >
 >ABM is available as an add-on to your Marketo subscription, so please contact your sales rep to have it implemented.
 
-## [Audit Trail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
+## Audit Trail {#audit-trail}
+
+[Audit Trail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
 
 Audit trail provides a comprehensive history of the changes made within your Marketo subscription. It will create accountability among users and admins, help identify the cause of unexpected behavior, and provide the security of knowing who's doing what and when. This information will be available at any point in time and can be used to answer questions such as:
 
@@ -252,7 +298,9 @@ Easily create SMS messages right within Marketo. Personalize and target your mes
 
 ![](assets/vibes-sms2.png)
 
-## [Email 2.0 Enhancements](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-enhancements}
+## Email 2.0 Enhancements {#email-enhancements}
+
+[Email 2.0 Enhancements](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
 
 **Module-level Variables**
 
@@ -281,37 +329,51 @@ Gone are the days where email tracking links could only be branded with a single
 
 ![](assets/multiple-branding-domains.png)
 
-## [Program Tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) {#program-tokens}
+## Program Tokens {#program-tokens}
+
+[Program Tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
 
 We've created a new token type for programs. You now can render Program Name, Description, and ID in assets and smart campaign flow steps.
 
 ![](assets/program-tokens.png)
 
-## [Enterprise Key](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
+## Enterprise Key {#enterprise-key}
+
+[Enterprise Key](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md)
 
 Requiring each person on your sales team to install our [!DNL Sales Insight] Plugin for [!DNL Outlook] can be tedious. We have introduced a new way to install the plugin for [!DNL Outlook] remotely using an enterprise key. Send your IT team your unique key found in the Marketo [!DNL Sales Insight] section of [!UICONTROL Admin] and let them do the rest.
 
 ![](assets/enterprise-key.png)
 
-## [Web Personalization Campaigns](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
+## Web Personalization Campaigns {#web-personalization-campaigns}
+
+[Web Personalization Campaigns](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
 Specify a time delay for web campaigns to react on your website.
 
 ![](assets/dialog-campaign-delay.png)
 
-## [Content Analytics and Recommendations Export](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## Content Analytics and Recommendations Export {#content-analytics-and-recommendations-export}
+
+[Content Analytics and Recommendations Export](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
 
 View content analytics and recommendations data offline.
 
-## [API Support for Email Editor 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## API Support for Email Editor 2.0 {#api-support-for-email-editor}
+
+[API Support for Email Editor 2.0](https://developers.marketo.com/documentation/asset-api/)
 
 Pre-existing Asset APIs, previously only compatible with v1.0 emails and templates, are now enabled for v2.0 email assets.
 
-## [Marketo Developers Site](https://developers.marketo.com/) {#marketo-developers-site}
+## Marketo Developers Site {#marketo-developers-site}
+
+[Marketo Developers Site](https://developers.marketo.com/)
 
 New and improved!
 
-## [Privacy Settings](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
+## Privacy Settings {#privacy-settings}
+
+[Privacy Settings](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md)
 
 Marketers can use privacy settings to decide whether or not to track visitors using [!DNL Munchkin] and Web Personalization features. Tracking level is controlled by using the browser's Do Not Track setting, an opt-out cookie, or a non-specific IP. These methods might affect Marketo's value and functionality in specific areas, but if the marketer doesn't change anything, Marketo functionality remains the same.
 
@@ -335,7 +397,9 @@ You can now add predictive content to your email. When the email is opened, the 
 
 ![](assets/predictive.png)
 
-## [Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## Facebook Offline Conversions {#facebook-offline-conversions}
+
+[Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
 
 With [!DNL Facebook] Offline Conversions integration, conversion data in Marketo (for Lead Ad leads) is automatically sent back to [!DNL Facebook] so that your advertising team can better optimize its ad spend. In this [!DNL Facebook] Ad Manager Report, the offline conversions are highlighted.
 
@@ -361,7 +425,9 @@ Now, you can assign account teams to named accounts in Account Based Marketing (
 
 This release also enables you to manage named account attributes and accounts scores in ABM using the Marketo REST API. For more details on the API operations, please visit the [Marketo Developers website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
-## [Audit Trail Enhancements](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
+## Audit Trail Enhancements {#audit-trail-enhancements}
+
+[Audit Trail Enhancements](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
 
 Audit trail provides a comprehensive history of the changes made within your Marketo subscription. We have added additional tracking capabilities for programs as well as surfacing important change details for smart campaigns, smart lists, and changes made to users and roles.
 
@@ -375,7 +441,9 @@ Gone are the days when you had to worry about users sending transactional emails
 
 Why set [campaign restrictions](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) if you can't enforce them? When you set Campaign Limit Settings to restrict the number of people in your database who can be targeted with a single campaign, you now have the ability to restrict which users can override these settings when scheduling a campaign.
 
-## [Sound for Mobile Push Notifications](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
+## Sound for Mobile Push Notifications {#sound-for-mobile-push-notifications}
+
+[Sound for Mobile Push Notifications](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 
 Give your iOS Push Notification added richness by enabling sound. This new feature allows you to trigger a sound when you Push Notification is displayed on the mobile device.
 
@@ -386,19 +454,27 @@ Give your iOS Push Notification added richness by enabling sound. This new featu
 
 ![](assets/sound-for-push-notifications.png)
 
-## [Sales Insight Compatible with Salesforce Encryption](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## Sales Insight Compatible with Salesforce Encryption {#sales-insight-compatible-with-salesforce-encryption}
+
+[Sales Insight Compatible with Salesforce Encryption](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 Market [!DNL Sales Insight] is now compatible with [!DNL Salesforce] Shield Encryption. All [!DNL Sales Insight] customers should upgrade to this latest managed package (version 1.4359.2), which is [available on the [!DNL Appexchange]](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [Named Accounts APIs](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## Named Accounts APIs {#named-accounts-apis}
+
+[Named Accounts APIs](https://developers.marketo.com/rest-api/lead-database/named-accounts/)
 
 With this release, Marketo ABM users can manage named accounts via the Named Accounts API. Users can create, update, and delete named accounts, as well as read and update ABM named account scores.
 
-## [Email Editor v2.0 API Support](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## Email Editor v2.0 API Support {#email-editor-v-api-support}
+
+[Email Editor v2.0 API Support](https://developers.marketo.com/rest-api/assets/emails/)
 
 Manage variables and modules for emails in v2.0 format using the Marketo REST API.
 
-## [Changes to Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## Changes to Marketo Salesforce Sync {#changes-to-marketo-salesforce-sync}
+
+[Changes to Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840)
 
 Marketo's [!DNL Salesforce] integration is evolving to improve the way that Marketo fields are synced with [!DNL Salesforce]. Now, instead of having to sync a large group of fields that you may or may not need, you can pick and choose which fields you'd like to have included. Check out our documentation here for more information: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
 
