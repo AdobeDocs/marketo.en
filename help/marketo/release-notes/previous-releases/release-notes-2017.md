@@ -52,17 +52,23 @@ Please click the title links to view detailed articles for each feature.
 >
 >If a topic has multiple subheadings, the links are placed there.
 
-## [Advanced Matching for Facebook Custom Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## Advanced Matching for Facebook Custom Audiences {#advanced-matching-for-facebook-custom-audiences}
+
+[Advanced Matching for Facebook Custom Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
 
 Basic Matching uses email addresses only, but new Advanced Matching uses an additional seven fields, increasing the match rate for more conversion.
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [Custom Object Import API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## Custom Object Import API {#custom-object-import-api}
+
+[Custom Object Import API](https://developers.marketo.com/rest-api/lead-database/custom-objects/)
 
 This API provides a faster interface to synchronize custom objects into Marketo. You can import CSV, TSV, or SSV spreadsheet files into Marketo as custom objects.
 
-## [Web Personalization Campaigns Export](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## Web Personalization Campaigns Export {#web-personalization-campaigns-export}
+
+[Web Personalization Campaigns Export](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md)
 
 Export all of your Web Campaign details and analytics in a CSV format. You then can view your data in a convenient layout.
 
@@ -112,7 +118,9 @@ There's an improved editing experience and layout that splits content preparatio
 
 Image URL and metadata are now used in the content auto-discovery process.
 
-## [SDK Enhancements](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## SDK Enhancements {#sdk-enhancements}
+
+[SDK Enhancements](https://developers.marketo.com/mobile/)
 
 Developers now have additional control over the delivery of Push Notifications with the addition of a new SDK API call that allows developers to remove push tokens.
 
@@ -120,11 +128,15 @@ Developers now have additional control over the delivery of Push Notifications w
 
 Improve your targeting with a new filter option, "Member of Vibes List."
 
-## [Legacy Rich Text Editor and Form Editor 1.0 Deprecation](https://nation.marketo.com/docs/DOC-4315)
+## Legacy Rich Text Editor and Form Editor 1.0 Deprecation
+
+[Legacy Rich Text Editor and Form Editor 1.0 Deprecation](https://nation.marketo.com/docs/DOC-4315)
 
 Starting August 1, 2017, customers still using the legacy Rich Text Editor and Form Editor 1.0 will be automatically transitioned to the new experience.
 
-## [Marketo Activity APIs](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
+## Marketo Activity APIs {#marketo-activity-apis}
+
+[Marketo Activity APIs](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/)
 
 An important change is coming to Marketo's activity APIs. Are you prepared?
 
@@ -134,7 +146,9 @@ The following features are included in the Spring '17 release. Check your Market
 
 Please click the title links to view detailed articles for each feature. **Note**: If a topic has multiple subheadings, the links are placed there.
 
-## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## LinkedIn Lead Gen Forms {#linkedin-lead-gen-forms}
+
+[LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
 
 [[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) are a more direct way for a business to run lead generation campaigns on [!DNL LinkedIn]. People can fill out forms to express interest in a product or service, enabling the business to capture the person's details and sync them to Marketo, where automated follow-up processes and lead routing activities can occur.
 
@@ -142,7 +156,9 @@ The Marketo integration with [!UICONTROL LinkedIn Lead Gen] Forms automatically 
 
 ![](assets/release-notes-image.png)
 
-## [Expire MSI Template](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
+## Expire MSI Template {#expire-msi-template}
+
+[Expire MSI Template](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
 
 Gone are the days of cleaning up outdated templates in [!DNL Sales Insight]. Set an expiration date when you publish your email and we'll take care of un-publishing it for you when the expiration date rolls around.
 
@@ -152,7 +168,9 @@ Gone are the days of cleaning up outdated templates in [!DNL Sales Insight]. Set
 
 ![](assets/four-281-29.png)
 
-## [Bulk Extract APIs for People and Activities](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## Bulk Extract APIs for People and Activities {#bulk-extract-apis-for-people-and-activities}
+
+[Bulk Extract APIs for People and Activities](https://developers.marketo.com/rest-api/bulk-extract/)
 
 Easily transfer large amounts of person and activity data from Marketo to your external systems.
 
@@ -214,7 +232,9 @@ Web Personalization is now offered in all Marketo-supported languages (English, 
 
 Predictive Content is now offered in all Marketo-supported languages (English, Japanese, German, Spanish, French, and Portuguese).
 
-## [Legacy Rich Text Editor and Form Editor 1.0 Deprecation](https://nation.marketo.com/docs/DOC-4315)
+## Legacy Rich Text Editor and Form Editor 1.0 Deprecation
+
+[Legacy Rich Text Editor and Form Editor 1.0 Deprecation](https://nation.marketo.com/docs/DOC-4315)
 
 Starting August 1, 2017, customers still using the legacy Rich Text Editor and Form Editor 1.0 will be automatically transitioned to the new experience.
 
@@ -224,13 +244,17 @@ The following features are included in the Summer '17 release. Check your Market
 
 Please click the title links to view detailed articles for each feature. Note: Some of the features included in this release do not have associated articles. If a topic has multiple subheadings, the links are placed there.
 
-## [Additional Facebook Offline Conversion Stages](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
+## Additional Facebook Offline Conversion Stages {#additional-facebook-offline-conversion-stages}
+
+[Additional Facebook Offline Conversion Stages](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
 
 Choose up to 7 additional offline conversion stages to map to your Marketo lifecycle stages (beyond the 3 available today). Optimize your [!DNL Facebook] ad spend based on conversions across your customer journey to achieve better ROI.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
-## [Lock Sales Insight Template](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
+## Lock Sales Insight Template {#lock-sales-insight-template}
+
+[Lock Sales Insight Template](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
 
 Ensure consistency of message and content by preventing edits to your sales templates. This helps standardize templates and maintain professional communications.
 
@@ -294,7 +318,9 @@ Take advantage of richer and faster synchronization across Marketo and [!DNL Sal
 
 Recent infrastructure improvements offer increased uptime and stability within the Marketo reporting and analytics tools, allowing you to build ad hoc reports more quickly.
 
-## [Recipient Time Zone](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md) {#recipient-time-zone}
+## Recipient Time Zone {#recipient-time-zone}
+
+[Recipient Time Zone](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 
 With this new feature, you can now hold and deliver email according to local time zones. Email and engagement programs can be configured to be delivered in the recipients' time zones, eliminating the need to create multiple programs—send once and Marketo will automatically hold the email until the correct local time. Lift email metrics, observe local practices, and save time by using a single program globally.
 
@@ -304,11 +330,15 @@ With this new feature, you can now hold and deliver email according to local tim
 >
 >If you can't enable Recipient Time Zone on your email and engagement programs yet, don't panic! We're gradually enabling this feature to all customers.
 
-## [Review Sample Emails by Segment](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
+## Review Sample Emails by Segment {#review-sample-emails-by-segment}
+
+[Review Sample Emails by Segment](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)
 
 Marketo has a new option to pick a segment when sending sample emails for review. You no longer need to manually determine which segment a lead belongs to, making it easier to send emails containing dynamic content to different segments.
 
-## [LinkedIn Lead Gen Custom Questions](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## LinkedIn Lead Gen Custom Questions {#linkedin-lead-gen-custom-questions}
+
+[LinkedIn Lead Gen Custom Questions](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
 
 Customize your [!UICONTROL LinkedIn Lead Gen] forms to collect custom lead attributes. You can now ask up to three custom questions per form, choose from single line text input or multiple-choice questions, and map back to Marketo lead fields.
 
@@ -393,7 +423,9 @@ Please click the title links to view detailed articles for each feature.
 
 ![](assets/image003.png)
 
-## [Dynamic Account Lists](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
+## Dynamic Account Lists {#dynamic-account-lists}
+
+[Dynamic Account Lists](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
 We are adding a new way to create account lists in ABM. In addition to existing account lists, you can now create dynamic account lists that are generated from public CRM Account Views. A CRM Account View is a set of rules that acts as a filter when displaying accounts. For example, you can use it to find accounts where Industry is Healthcare _and_ Revenue is over $100M.
 
