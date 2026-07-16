@@ -34,6 +34,10 @@ The impacts below require no action on your part.
 * **CRM integrations and LaunchPoint services** will be disabled but should resume automatically afterward.
 * **Landing pages, forms, and data collection** will be unavailable, and a maintenance message will be displayed instead.
 
+>[!NOTE]
+>
+>If you use [external forms](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} and would like to preserve data during the migration, contact [Adobe Support](https://experienceleague.adobe.com/en/support){target="_blank"} and provide the Form ID and your subscription's Munchkin ID.
+
 ## Identify your data center/pod {#identify}
 
 Before reviewing the tables below, [learn how to identify](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) what data center and pod/server your subscription is located in.
