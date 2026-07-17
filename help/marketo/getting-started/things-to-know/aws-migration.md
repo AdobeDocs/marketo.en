@@ -96,8 +96,8 @@ New dates and data center/pod information is periodically added, so be sure to c
    NLD105</td>
    <td>10 a.m. PDT<br>
    11 a.m. PDT</td>
-   <td>On schedule<br>
-   On schedule</td>
+   <td>Completed<br>
+   Completed</td>
   </tr>
   <tr>
    <td>July 21, 2026</td>
