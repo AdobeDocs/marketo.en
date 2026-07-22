@@ -220,7 +220,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Personalization Editor</td>
     <td>Ability to personalize content in emails using tokens.</td>
     <td>Available</td>
-    <td>Partially Available</td>
+    <td>Available</td>
   </tr>
   <tr>
     <td>Modules</td>
