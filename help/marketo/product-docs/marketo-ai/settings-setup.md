@@ -75,7 +75,7 @@ You also have the option to [create a new role](https://experienceleague.adobe.c
 
 ## Settings {#settings}
 
-1. In your My Marketo, click the **Marketo AI** tile.
+1. In your My Marketo, click the **[!UICONTROL Marketo AI]** tile.
 
    ![](assets/settings-setup-7.png)
 
