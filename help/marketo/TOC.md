@@ -1113,10 +1113,7 @@ feature-set: Marketo Engage
       + [Investigate leads](product-docs/marketo-ai/skills/investigate-leads.md)
       + [Import leads](product-docs/marketo-ai/skills/import-leads.md)
       + [Validate programs](product-docs/marketo-ai/skills/validate-programs.md)
-  + Marketo Engage Modern UX {#marketo-engage-modern-ux}
-    + [Overview](product-docs/marketo-engage-modern-ux/overview.md)
-    + [Using the Global Search](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
-    + {hide-from-toc} [Toggle Switch](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+    + [Marketo MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Marketo Notifications {#marketo-notifications}
     + {hide-from-toc} [Notification: Websocket Connection](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
