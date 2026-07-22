@@ -50,7 +50,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td>Released</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Toggle Switch</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/home">Toggle Switch</a></td>
   </tr>
   </tbody>
 

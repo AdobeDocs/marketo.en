@@ -289,8 +289,8 @@ The following features will start to be released on **June 24, 2022**, with a ph
 
 **New Toggle Switch Views**: The views below are now available in the Next-generation Experience:
 
-* [Email Details View](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [Email List View](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [Email Details View](https://experienceleague.adobe.com/en/docs/marketo/using/home){target="_blank"}
+* [Email List View](https://experienceleague.adobe.com/en/docs/marketo/using/home){target="_blank"}
 
 ## Experience Automation
 
@@ -354,7 +354,7 @@ The following features began a phased rollout on **August 26, 2022**.
 
 * **Display Folder Hierarchy of Destination Folder in the Move Dialog**: Viewing the folder hierarchy for each folder makes moving assets easier and reduces the likelihood of putting them in the wrong folder.
 
-* **[Updated Screens in the Next-Generation Experience](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"}**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
+* **[Updated Screens in the Next-Generation Experience](https://experienceleague.adobe.com/en/docs/marketo/using/home){target="_blank"}**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
 
   * Snippet Details
   * "Images and Files" Details
@@ -457,7 +457,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td>Released</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Toggle Switch</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/home">Toggle Switch</a></td>
   </tr>
   </tbody>
 </table>
