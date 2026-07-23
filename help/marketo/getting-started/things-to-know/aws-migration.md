@@ -101,12 +101,9 @@ New dates and data center/pod information is periodically added, so be sure to c
   </tr>
   <tr>
    <td>July 21, 2026</td>
-   <td>AB54<br>
-   AB56</td>
-   <td>5 p.m. PDT<br>
-   6 p.m. PDT</td>
-   <td>On schedule<br>
-   On schedule</td>
+   <td>AB54</td>
+   <td>5 p.m. PDT</td>
+   <td>Completed</td>
   </tr>
   <tr>
    <td>July 23, 2026</td>
