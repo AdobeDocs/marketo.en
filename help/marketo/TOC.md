@@ -1656,6 +1656,7 @@ feature-set: Marketo Engage
       + [Edit Predictive Content for the Recommendation Bar](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
   + Reporting {#reporting}
     + [Reporting Overview](product-docs/reporting/reporting-overview.md)
+    + {hide-from-toc} [Marketo Activity Data Retention Policy](product-docs/reporting/data-retention.md)
     + Basic Reporting {#basic-reporting}
       + Creating Reports {#creating-reports}
         + [Create a Report in a Program](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)
