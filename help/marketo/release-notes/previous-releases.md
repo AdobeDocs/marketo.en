@@ -8,13 +8,14 @@ feature: Release Information
 
 >[!NOTE]
 >
->For the current release, see [Current Release Notes](current.md). For the Dynamic Chat release history, see [Dynamic Chat Release Notes](dynamic-chat.md).
+>For the current release, see the [Release Notes](current.md). For Dynamic Chat release information, see [Dynamic Chat Release Notes](dynamic-chat.md).
 
 ## 2026
 
 * [January '26](previous-releases/2026/release-notes-jan-26.md)
 * [February '26](previous-releases/2026/release-notes-feb-26.md)
 * [March '26](previous-releases/2026/release-notes-mar-26.md)
+* [May '26](previous-releases/2026/release-notes-may-26.md)
 
 ## 2025
 
@@ -58,5 +59,5 @@ feature: Release Information
 * [2014](previous-releases/release-notes-2014.md)
 * [2013](previous-releases/release-notes-2013.md)
 * [2012](previous-releases/release-notes-2012.md)
-* [2010–2011](previous-releases/2010-2011.md)
-* [2007–2009](previous-releases/2007-2009.md)
+* [2010-2011](previous-releases/2010-2011.md)
+* [2007-2009](previous-releases/2007-2009.md)
