@@ -44,7 +44,7 @@ Before reviewing the tables below, [learn how to identify](/help/marketo/getting
 
 ## Schedule {#schedule}
 
-New dates and data center/pod information is periodically added, so be sure to check back here for details.
+New dates and data center/pod information is periodically added or changed, so monitor this schedule for updates.
 
 <table>
  <tbody>
@@ -144,6 +144,24 @@ New dates and data center/pod information is periodically added, so be sure to c
    AB44</td>
    <td>5 p.m. PDT<br>
    6 p.m. PDT</td>
+   <td>On schedule<br>
+   On schedule</td>
+  </tr>
+  <tr>
+   <td>August 26, 2026</td>
+   <td>AB40<br>
+   AB50</td>
+   <td>5 p.m. PDT<br>
+   6 p.m. PDT</td>
+   <td>On schedule<br>
+   On schedule</td>
+  </tr>
+  <tr>
+   <td>August 28, 2026</td>
+   <td>AB53<br>
+   AB56</td>
+   <td>3 p.m. PDT<br>
+   4 p.m. PDT</td>
    <td>On schedule<br>
    On schedule</td>
   </tr>
