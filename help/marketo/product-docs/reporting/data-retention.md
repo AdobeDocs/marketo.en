@@ -7,7 +7,7 @@ feature: Reporting
 
 Marketo retains marketing activity data on a rolling basis. Activity and Campaign Membership data is stored for a rolling 25 months past the activity date, and high-volume activity data is retained for a rolling period of 90 days past the activity date by default, which can be adjusted per user. Beyond these retention periods, the data is no longer available through the Marketo UI.
 
-## Marketo analytics reports
+## Marketo Analytics reports
 
 Because activity data is retained for up to 25 months, some Marketo Analytics reports are affected by this policy while others are not. Reports that draw data from person activity logs will only show data for up to 25 months. Reports that do not reference person activity at all are unaffected.
 
@@ -19,7 +19,7 @@ The table below summarizes how each report behaves, including common filter scen
 
 | Report Type | Filter Scenario | Affected by Retention Policy? |
 |---|---|---|
-| **Revenue Cycle Explorer Reports** | No filters available | No — Revenue Cycle Explorer and Advanced Analytics users are fully exempt from these retention limits. RCE data is sent overnight into a separate database server that manages RCE reporting. Because it is housed separately, and not in person activity logs, these reports are not affected by this policy. Revenue Cycle Explorer does not pull data from the person database directly, so filters are not available. |
+| **Revenue Cycle Explorer Reports** | No filters available | No: Revenue Cycle Explorer and Advanced Analytics users are fully exempt from these retention limits. RCE data is sent overnight into a separate database server that manages RCE reporting. Because it is housed separately, and not in person activity logs, these reports are not affected by this policy. Revenue Cycle Explorer does not pull data from the person database directly, so filters are not available. |
 | **People Performance Report** | No Smart List filters | No |
 | | Filters on person attributes (Ex: First Name) | No |
 | | Filters on person activities within the last 25 months | No |
@@ -51,11 +51,11 @@ The table below summarizes how each report behaves, including common filter scen
 | | Filters on person attributes (Ex: First Name) | No |
 | | Filters on person activities within the last 25 months | No |
 | | Filters on person activities with no date constraint | Yes |
-| **Landing Page Performance** | No Smart List filters | No — Landing Page Performance data is retained indefinitely and is not subject to the retention policy. |
+| **Landing Page Performance** | No Smart List filters | No: Landing Page Performance data is retained indefinitely and is not subject to the retention policy. |
 | | Filters on person attributes (Ex: First Name) | No |
 | | Filters on person activities within the last 25 months | No |
 | | Filters on person activities with no date constraint | No |
-| **Web Page Activity** | No Smart List filters | Yes — subject to the 90-day default retention period (adjustable per user) |
+| **Web Page Activity** | No Smart List filters | Yes: Subject to the 90-day default retention period (adjustable per user) |
 | | Filters on person attributes (Ex: First Name) | Yes |
 | | Filters on person activities within the last 25 months | Yes |
 | | Filters on person activities with no date constraint | Yes |
