@@ -16,6 +16,10 @@ topic_v2:
 
 You can use the interesting moment flow step to give your sales team visibility into the cool things your leads are doing in a Smart Campaign.
 
+>[!AVAILABILITY]
+>
+>To use interesting moments you must be a [!DNL Marketo Sales Insight] or a [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) user.
+
 ![](assets/image2016-1-27-11-3a1-3a53.png)
 
 1. Select the interesting moment type you want to use.
