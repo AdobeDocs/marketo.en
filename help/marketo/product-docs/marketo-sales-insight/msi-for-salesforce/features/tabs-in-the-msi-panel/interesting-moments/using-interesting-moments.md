@@ -21,11 +21,11 @@ Interesting moments are the key to communicating with your sales team through th
 
 >[!AVAILABILITY]
 >
->These are available to [!DNL Marketo Sales Insight] and [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) customers only.
+>To use interesting moments you must be a [!DNL Marketo Sales Insight] or a [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) user.
 
 ## What is an interesting moment? {#what-is-an-interesting-moment}
 
-That's up to you! You decide what information is relevant to your sales team. Your sales team might want to know when a lead:
+That's up to you. You decide what information is relevant to your sales team. Your sales team might want to know when a lead:
 
 * Visits the pricing page on your website
 * Clicks a link in a new product announcement email
