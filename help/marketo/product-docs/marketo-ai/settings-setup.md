@@ -1,7 +1,6 @@
 ---
 description: Learn how to enable Marketo AI permissions, configure organizational rules, and manage settings like integrations and notifications.
 title: Settings and Setup
-badge: beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
 ---
 # Settings and setup {#settings-setup}
@@ -10,7 +9,7 @@ Learn how to enable permissions and use the Settings area to view connection det
 
 >[!AVAILABILITY]
 >
->This feature is currently in open beta. To request access, contact your account manager. You must also agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+>This feature is available to all subscriptions. If you do not see the Marketo AI tile on your My Marketo screen, contact your account manager. You must also agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 ## Permissions and roles {#permission-and-role}
 
