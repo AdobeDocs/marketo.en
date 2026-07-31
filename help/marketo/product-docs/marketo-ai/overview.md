@@ -1,7 +1,6 @@
 ---
 description: Explore the Marketo AI suite of agents designed to automate marketing tasks like program QA, lead import, data normalization, and more.
 title: Marketo AI Overview
-badge: beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
 ---
 # Marketo AI Overview {#overview}
@@ -10,7 +9,7 @@ Marketo AI provides agent skills designed to automate time-consuming but importa
 
 >[!AVAILABILITY]
 >
->This feature is currently in open beta. To request access, contact your account manager. You must also agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Marketo AI is only optimized for English at this time.
+>This feature is available to all subscriptions. If you do not see the Marketo AI tile on your My Marketo screen, contact your account manager. You must also agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 >[!IMPORTANT]
 >

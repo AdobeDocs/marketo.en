@@ -1,7 +1,6 @@
 ---
 description: Review Marketo AI's data scope, governance controls, and PII considerations across key workflows such as lead import, program QA, and data normalization.
 title: Marketo AI data information sheet
-badge: beta
 ---
 # Marketo AI data information sheet {#data-information}
 
