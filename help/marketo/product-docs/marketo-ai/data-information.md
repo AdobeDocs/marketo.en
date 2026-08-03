@@ -22,9 +22,11 @@ Marketo AI is a native, agentic feature within Adobe Marketo Engage that enables
 
 **Function:** Processes user-supplied lead data for mapping, normalization, deduplication, and import into Marketo Engage.
 
-### Program QA
+### Validate programs
 
 **Function:** Evaluates Marketo programs against organizational rules defined by users in a Skill markdown file, such as naming standards, approval status, email compliance, and flow logic.
+
+<!--
 
 ### Create program from brief
 
@@ -34,13 +36,19 @@ Marketo AI is a native, agentic feature within Adobe Marketo Engage that enables
 
 **Function:** Executes flow action-triggered AI actions within Smart Campaign flow steps for use cases such as validation, normalization, and bot detection.
 
-### Lead investigation
+-->
+
+### Investigate leads
 
 **Function:** Provides conversational analysis of why a person did or did not progress to a milestone by examining flow-step execution and smart-list membership.
+
+<!--
 
 ### Measurement and analytics
 
 **Function:** Surfaces campaign and program performance analysis, including recommendations and root-cause insights.
+
+-->
 
 ### Product knowledge
 
@@ -52,11 +60,9 @@ Besides the ones listed, consider using Marketo AI to diagnose and troubleshoot 
 
 ## Availability and rollout status
 
-**Eligibility:** Initial user enablement is limited to eligible Marketo Engage users who have accepted the Adobe Gen AI Rider.
+**Eligibility:** Provisioning is limited to Marketo Engage users who have agreed to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
-**Provisioning:** Access is managed through existing product enablement controls and feature-flag provisioning within the Marketo Engage experience.
-
-**Rollout model:** Deployment progresses through Alpha and Private Beta before broader Public Beta expansion.
+**Rollout model:** Deployment progresses through Alpha and Private Beta before broader Public Beta expansion, and ultimately General Availability.
 
 **Geographic scope:** The initial release is intended for global Marketo Engage users, excluding mainland China.
 
