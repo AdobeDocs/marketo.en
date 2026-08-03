@@ -229,7 +229,7 @@ Based on your data center, work with your IT department to get the respective IP
 
 For the latest updates, bookmark this page. If you have any questions, contact Adobe Support via the Support portal in the Admin Console or [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
-## FAQ {faq}
+## FAQ {#faq}
 
 **Where is the data stored?**
 All Marketo user data is stored on Amazon Web Services (AWS). Marketo has migrated its infrastructure from owned physical data centers to AWS's enterprise-grade cloud platform.
