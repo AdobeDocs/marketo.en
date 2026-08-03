@@ -46,6 +46,7 @@ Before reviewing the tables below, [learn how to identify](/help/marketo/getting
 
 New dates and data center/pod information is periodically added or changed, so monitor this schedule for updates.
 
++++July schedule
 <table>
  <tbody>
   <tr>
@@ -115,7 +116,20 @@ New dates and data center/pod information is periodically added or changed, so m
    <td>July 31, 2026</td>
    <td>AB43</td>
    <td>3 p.m. PDT</td>
-   <td>On schedule</td>
+   <td>Completed</td>
+  </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Date</th>
+   <th style="width:25%">Data Center/Pod</th>
+   <th style="width:25%">Time</th>
+   <th style="width:25%">Status</th>
   </tr>
   <tr>
    <td>August 12, 2026</td>
@@ -165,6 +179,24 @@ New dates and data center/pod information is periodically added or changed, so m
    <td>On schedule<br>
    On schedule</td>
   </tr>
+  <tr>
+   <td>September 8, 2026</td>
+   <td>AB01<br>
+   AB02</td>
+   <td>5 p.m. PDT<br>
+   6 p.m. PDT</td>
+   <td>On schedule<br>
+   On schedule</td>
+  </tr>
+  <tr>
+   <td>September 10, 2026</td>
+   <td>AB03<br>
+   AB04</td>
+   <td>5 p.m. PDT<br>
+   6 p.m. PDT</td>
+   <td>On schedule<br>
+   On schedule</td>
+  </tr>
   </body>
 </table>
 
@@ -196,3 +228,21 @@ Based on your data center, work with your IT department to get the respective IP
 ## Updates and support {#support}
 
 For the latest updates, bookmark this page. If you have any questions, contact Adobe Support via the Support portal in the Admin Console or [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
+
+## FAQ {faq}
+
+**Where is the data stored?**
+All Marketo user data is stored on Amazon Web Services (AWS). Marketo has migrated its infrastructure from owned physical data centers to AWS's enterprise-grade cloud platform.
+
+**Where specifically is personal data stored?**
+Personal data is stored in Amazon Aurora, AWS's fully managed relational database service. Aurora replicates data six ways across three separate Availability Zones within the AWS region to protect personal data against hardware failure, storage degradation, and localized infrastructure events.
+
+**Who owns the storage environment?**
+The storage infrastructure is owned and operated by Amazon Web Services (AWS). Adobe (Marketo) operates as a customer of AWS under a shared responsibility model: AWS is responsible for the security and availability of the underlying infrastructure, while Adobe is responsible for the security of the data and applications running within it.
+
+**What are the full details on production, backup/DR locations, and storage technology?**
+Marketo uses Amazon Aurora, a cloud-native relational database engine fully managed by AWS, as its primary database technology. Aurora decouples compute and storage, automatically replicating data six ways across three Availability Zones within the production region and requiring a quorum of four copies to confirm any write operation.
+
+Aurora also performs continuous, automatic backups to Amazon S3 in real time, enabling Point-in-Time Recovery (PITR) to any second within the configured retention window.
+
+At this time, Marketo's Aurora deployment operates within a single AWS region, without cross-region replication. Production data remains within the designated regional infrastructure, and disaster recovery is provided through Aurora's multi-AZ storage redundancy and continuous backups rather than geographic failover to a secondary region. This may be evaluated further as Marketo's AWS infrastructure matures.
