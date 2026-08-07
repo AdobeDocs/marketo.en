@@ -1,8 +1,8 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Use AI Assistant
-description: Learn how to use the AI assistant to add text and images to emails. Use Adobe generative AI in the Email Designer for content ideas.
+title: Generate content in the Email Designer
+description: Learn how to generate content to add text and images to emails. Use Adobe generative AI in the Email Designer for content ideas.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
@@ -19,13 +19,13 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# AI Assistant for Email Designer {#ai-assistant-email-designer}
+# Generate content in the Email Designer {#generate-content}
 
-AI Assistant in the Marketo Engage Email Designer helps you create contemporary, performant, and intuitive emails. This is achieved through Adobe's generative AI technology and prompt library along with Firefly for image generation that aids in creating suitable content for a particular persona/buying group, marketing journey stage, communication strategy, tone, etc. Specific brand assets can be also utilized to create content.
+Generating content in the Marketo Engage Email Designer helps you create contemporary, performant, and intuitive emails. This is achieved through Adobe's generative AI technology and prompt library along with Firefly for image generation that aids in creating suitable content for a particular persona/buying group, marketing journey stage, communication strategy, tone, etc. Specific brand assets can be also utilized to create content.
 
 >[!PREREQUISITES]
 >
->AI Assistant is not enabled by default. You must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} for using the Gen-AI functionality in the Email Designer. Contact the Adobe Account Team (your account manager) for details.
+>This feature is not enabled by default. You must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} for using the Gen-AI functionality in the Email Designer. Contact the Adobe Account Team (your account manager) for details.
 
 ## Set up permissions {#set-up-permissions}
 
@@ -57,15 +57,13 @@ _After_ following the prerequisite above, Marketo admins must apply access to sp
 
 ## Use cases {#use-cases}
 
-There are a few primary use-cases for AI Assistant:
-
 * [Create a subject line and/or preheader](#create-a-subject-line-preheader) for your email
 * [Create content for a specific section](#create-content-for-a-specific-section) of your email
 * [Create an entire email](#create-an-entire-email) from a selected template
 
 ## Create a subject line/preheader {#create-a-subject-line-preheader}
 
-You can use the AI Assistant to create a subject line, a preheader, or both.
+Create a subject line, a preheader, or both.
 
    ![](assets/use-the-ai-assistant-1.png)
 
@@ -73,11 +71,11 @@ The example below illustrates subject line. For a preheader, the same steps can 
 
 When an email is created using the New Email Designer, enter a temporary subject line.
 
-After the email has been created, the subject line is in the _Details_ column on the right. Click the AI assistant button ( ![Filter icon](assets/icon-ai-assistant.png) ) next to it to get assistance creating a new subject line using the Gen AI functionality.
+After the email has been created, the subject line is in the _Details_ column on the right. Click the Generate content button ( ![Filter icon](assets/icon-ai-assistant.png) ) next to it to get assistance creating a new subject line using the Gen AI functionality.
 
    ![](assets/use-the-ai-assistant-2.png)
 
-Enable the **Use reference content** option for AI Assistant to personalize new content based on the selected content.
+Enable the **Use reference content** option to personalize new content based on the selected content.
 
 Enter the prompt to customize the subject line. Enter relevant text settings and upload any brand assets that you want to use as a reference to create an appropriate subject line.
 
@@ -133,7 +131,7 @@ After the email is created, you have the option of modifying certain sections, i
 
    ![](assets/use-the-ai-assistant-7.png)
 
-In this example, we're using a financial template. If one or more of the existing images don't meet your needs, you can instruct AI assistant to create a new image based on your description. Select the desired image and click the AI assistant icon.
+In this example, we're using a financial template. If one or more of the existing images don't meet your needs, you can create a new image based on your description. Select the desired image and click the Generate content icon.
 
    ![](assets/use-the-ai-assistant-8.png)
 
@@ -159,7 +157,7 @@ Similar to image, text portions of the email can be modified as well.
 
 This option is only available if the email is created using an existing template. It can be a standard template provided by the Email Designer, a saved template you already created, or an imported template using the Import HTML option. This option is not available if you choose [Design from Scratch](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch) for your email.
 
-Select a template, without selecting any component within the template, and click the AI assistant button in the Email Designer.
+Select a template, without selecting any component within the template, and click the Generate content button in the Email Designer.
 
    ![](assets/use-the-ai-assistant-12.png)
 
