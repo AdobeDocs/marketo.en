@@ -54,7 +54,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Script builder</strong>: Script Builder is an AI-powered assistant that helps you create personalization scripts faster.
+   <td><strong>Email Designer - Script Builder</strong>: Script Builder is an AI-powered assistant that helps you create personalization scripts faster.
 </td>
    <td><i>Coming soon</i></td>
    <td><i>Coming soon</i></td>
@@ -80,7 +80,6 @@ The following features fall under the standard release cycle and will start to b
 
 * **REST API Campaign Run ID**: Support for the Marketo SOAP API will end on July 31, 2026. Services which use SOAP API capabilities should be migrated to the [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
-* **Static List Size Limits for Get Lead Activities and Get Lead Changes**: Under certain circumstances, the Campaign Run ID value of an activity was sometimes returned with incorrect formatting, between two pairs of quotation marks (for example, `"campaignRunId": ""102938""`).<br/>
-Beginning with the August release, this value will always be returned with the correct numerical format (`"campaignRunId": 102938`)
+* **Static List Size Limits for Get Lead Activities and Get Lead Changes**: Under certain circumstances, the Campaign Run ID value of an activity was sometimes returned with incorrect formatting, between two pairs of quotation marks (for example, `"campaignRunId": ""102938""`).<br/>Beginning with the August release, this value will always be returned with the correct numerical format (`"campaignRunId": 102938`)
 
 * **REST API Merge Leads limit**: As of July 31, 2026, calls that include more than 25 IDs in the leadIds parameter of a Merge Leads API call result in a 1080 error code, and the call is skipped. Jobs requiring the merger of more than 25 records into one should be split into multiple jobs to ensure the success of those calls.
