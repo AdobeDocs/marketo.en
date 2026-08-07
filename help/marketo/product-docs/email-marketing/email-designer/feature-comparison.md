@@ -122,8 +122,8 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Available</td>
   </tr>
   <tr>
-    <td>AI Assistant</td>
-    <td>Ability to generate subject line, portion of content, or entire email through <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md" target="_blank">Generative AI</a> models.</td>
+    <td>Generate content</td>
+    <td>Ability to generate subject line, portion of content, or entire email through <a href="/help/marketo/product-docs/email-marketing/email-designer/generate-content.md" target="_blank">Generative AI</a> models.</td>
     <td>Not Available</td>
     <td>Available</td>
   </tr>
