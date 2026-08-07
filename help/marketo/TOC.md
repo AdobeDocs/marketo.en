@@ -1005,7 +1005,7 @@ nudge: toc-retry
       + [GenStudio Integration for Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
       + [Content Locking](product-docs/email-marketing/email-designer/content-locking.md)
       + [Email Collaboration](product-docs/email-marketing/email-designer/email-collaboration.md)
-      + [AI Assistant for Email Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
+      + [Generate content in the Email Designer](product-docs/email-marketing/email-designer/generate-content.md)
       + [Email Spam Report with SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
       + [CNIL Open Tracking Guidance](product-docs/email-marketing/email-designer/cnil-guidance.md)
     + Email Programs {#email-programs}
