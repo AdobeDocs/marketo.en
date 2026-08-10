@@ -78,8 +78,10 @@ The following features fall under the standard release cycle and will start to b
 
 * **Rest API 'access_token' Parameter Deprecation**: The `access_token` query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after August 31, 2026. All new and existing integrations should authenticate REST API calls using the 'Authorization' header, [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **REST API Campaign Run ID**: Support for the Marketo SOAP API will end on July 31, 2026. Services which use SOAP API capabilities should be migrated to the [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **REST API Campaign Run ID**: Under certain circumstances, the Campaign Run ID value of an activity was sometimes returned with incorrect formatting, between two pairs of quotation marks (for example, `"campaignRunId": ""102938""`).<br/>Beginning with the August release, this value will always be returned with the correct numerical format (`"campaignRunId": 102938`)
 
-* **Static List Size Limits for Get Lead Activities and Get Lead Changes**: Under certain circumstances, the Campaign Run ID value of an activity was sometimes returned with incorrect formatting, between two pairs of quotation marks (for example, `"campaignRunId": ""102938""`).<br/>Beginning with the August release, this value will always be returned with the correct numerical format (`"campaignRunId": 102938`)
+* **Static List Size Limits for Get Lead Activities and Get Lead Changes**: Beginning September 30, 2026, calls to the Get Lead Activities or Get Lead Changes endpoints which include the `listId` parameter will fail if the target lists contain 10,000 or more leads with a 1003 Error Code indicating that the target static list has too many records.
+
+Consult the [Migration Guide](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} for additional information.
 
 * **REST API Merge Leads limit**: As of July 31, 2026, calls that include more than 25 IDs in the leadIds parameter of a Merge Leads API call result in a 1080 error code, and the call is skipped. Jobs requiring the merger of more than 25 records into one should be split into multiple jobs to ensure the success of those calls.
