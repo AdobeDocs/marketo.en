@@ -9,7 +9,7 @@ role: User
 ---
 # Use modules in the Email Designer {#email-modules}
 
-The Email Designer includes a library of _modules_: ready-to-use, fully structured content blocks designed to accelerate email assembly and promote design consistency across your communications.
+The Email Designer includes a library of modules: ready-to-use, fully structured content blocks designed to accelerate email assembly and promote design consistency across your communications.
 
 Unlike [content components](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content), which are empty placeholders that you configure from scratch, modules are pre-built sections (such as a branded header, a product card grid, or a footer with opt-out links) that you drop directly onto your canvas and customize from there.
 
