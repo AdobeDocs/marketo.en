@@ -6,7 +6,6 @@ description: Learn how to access, insert, and customize pre-built modules in the
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
-hide: true
 ---
 # Use modules in the Email Designer {#email-modules}
 
