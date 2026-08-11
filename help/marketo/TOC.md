@@ -987,7 +987,7 @@ nudge: toc-retry
       + [Overview](product-docs/email-marketing/email-designer/overview.md)
       + [Feature Comparison](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [Email Authoring](product-docs/email-marketing/email-designer/email-authoring.md)
-      + {hide-from-toc} [Use modules in the Email Designer](product-docs/email-marketing/email-designer/email-modules.md)
+      + [Use modules in the Email Designer](product-docs/email-marketing/email-designer/email-modules.md)
       + [Conditional Content](product-docs/email-marketing/email-designer/conditional-content.md)
       + [Email Template Authoring](product-docs/email-marketing/email-designer/email-template-authoring.md)
       + [Import a Template](product-docs/email-marketing/email-designer/import-template.md)
