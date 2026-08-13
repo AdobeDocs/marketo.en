@@ -189,12 +189,9 @@ New dates and data center/pod information is periodically added or changed, so m
   </tr>
   <tr>
    <td>September 10, 2026</td>
-   <td>AB03<br>
-   AB04</td>
-   <td>5 p.m. PDT<br>
-   6 p.m. PDT</td>
-   <td>On schedule<br>
-   On schedule</td>
+   <td>AB03</td>
+   <td>5 p.m. PDT</td>
+   <td>On schedule</td>
   </tr>
   <tr>
    <td>September 15, 2026</td>
