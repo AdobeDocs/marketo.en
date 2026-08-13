@@ -149,7 +149,7 @@ New dates and data center/pod information is periodically added or changed, so m
   <td>August 18, 2026</td>
    <td>AB39</td>
    <td>5 p.m. PDT</td>
-   <td>Rescheduled (date TBD)</td>
+   <td>Postponed (date TBD)</td>
   </tr>
   <tr>
    <td>August 20, 2026</td>
