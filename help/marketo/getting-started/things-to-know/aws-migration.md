@@ -143,7 +143,7 @@ New dates and data center/pod information is periodically added or changed, so m
   <td>August 13, 2026</td>
    <td>AB68</td>
    <td>4 p.m. PDT</td>
-   <td>On schedule</td>
+   <td>Completed</td>
   </tr>
   <tr>
   <td>August 18, 2026</td>
