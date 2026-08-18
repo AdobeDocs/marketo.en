@@ -54,7 +54,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Generate Content Contextual Menu</strong>: The "Generate content" features of the Email Designer can now be accessed from the contextual menu (the black bar). For example, when you select text content, the Generate content icon appears on the contextual menu, allowing you to perform quick actions from there.</td>
+   <td><strong>Email Designer - Generate Content Contextual Menu</strong>: The "Generate content" features of the Email Designer can now be accessed from the contextual menu (the black bar). For example, when you select text content, the Generate content icon appears on the contextual menu, allowing you to perform quick actions.</td>
    <td><i>Coming soon</i></td>
 <td><i>Coming soon</i></td>
   </tr>
