@@ -61,7 +61,9 @@ Make Marketo Engage Forms conversational by integrating them with Dynamic Chat C
 
    >[!NOTE]
    >
-   >Criteria Logic set to "all" means every attribute must be met in order to qualify. Criteria Logic set to "any" means any one of the attributes will suffice.
+   >* Criteria Logic set to "all" means every attribute must be met in order to qualify. Criteria Logic set to "any" means any one of the attributes will suffice.
+   >
+   >* For "Member of Smart Lists," the values in the drop-down show all the Smart Lists that are part of any program. They show as `<program name>.<smart list name>`.
 
    **OPTIONAL STEP**: If you add two or more choices, you can reorder them by clicking their up/down arrows.
 
