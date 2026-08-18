@@ -1922,6 +1922,7 @@ nudge: toc-retry
       + [Release Notes: February '26](release-notes/previous-releases/2026/release-notes-feb-26.md)
       + [Release Notes: March '26](release-notes/previous-releases/2026/release-notes-mar-26.md)
       + [Release Notes: May '26](release-notes/previous-releases/2026/release-notes-may-26.md)
+      + [Release Notes: July '26](release-notes/previous-releases/2026/release-notes-july-26.md)
     + 2025 {#2025}
       + [Release Notes: January '25](release-notes/previous-releases/2025/release-notes-jan-25.md)
       + [Release Notes: March '25](release-notes/previous-releases/2025/release-notes-mar-25.md)
