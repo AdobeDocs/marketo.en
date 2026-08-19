@@ -57,7 +57,7 @@ _Release dates/features are subject to change_
    <td>Complete</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/previous-releases/2026/release-notes-july-26.md">July '26</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">July '26</a></td>
    <td>July 10, 2026</td>
    <td>Complete</td>
   </tr>
