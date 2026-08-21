@@ -151,7 +151,7 @@ New dates and data center/pod information is periodically added or changed, so m
    <i>AB44</i></td>
    <td>5 p.m. PDT<br>
    <i>6 p.m. PDT</i></td>
-   <td>On schedule<br>
+   <td>Completed<br>
    <i>Postponed (date TBD)</i></td>
   </tr>
   <tr>
