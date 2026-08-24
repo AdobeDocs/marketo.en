@@ -23,7 +23,7 @@ On your My Marketo screen, click the **Marketo AI** tile.
 
 ![](assets/overview-1.png)
 
-Type your request in the prompt field, or select one of the agents below.
+Type your request in the prompt field, or select one of the skills below.
 
 ![](assets/overview-2.png)
 
