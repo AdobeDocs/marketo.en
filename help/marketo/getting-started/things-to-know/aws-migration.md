@@ -146,12 +146,6 @@ New dates and data center/pod information is periodically added or changed, so m
    <td>Completed</td>
   </tr>
   <tr>
-   <td>August 18, 2026</td>
-   <td><i>AB39</i></td>
-   <td><i>5 p.m. PDT</i></td>
-   <td><i>Postponed (date TBD)</i></td>
-  </tr>
-  <tr>
    <td>August 20, 2026</td>
    <td>AB42<br>
    <i>AB44</i></td>
@@ -162,20 +156,20 @@ New dates and data center/pod information is periodically added or changed, so m
   </tr>
   <tr>
    <td>August 26, 2026</td>
-   <td>AB40<br>
+   <td><i>AB40</i><br>
    AB50</td>
-   <td>5 p.m. PDT<br>
+   <td><i>5 p.m. PDT</i><br>
    6 p.m. PDT</td>
-   <td>On schedule<br>
+   <td><i>Postponed (date TBD)</i><br>
    On schedule</td>
   </tr>
   <tr>
    <td>August 28, 2026</td>
-   <td>AB53<br>
+   <td><i>AB53</i><br>
    AB56</td>
-   <td>3 p.m. PDT<br>
+   <td><i>3 p.m. PDT</i><br>
    4 p.m. PDT</td>
-   <td>On schedule<br>
+   <td><i>Postponed (date TBD)</i><br>
    On schedule</td>
   </tr>
   <tr>
