@@ -161,7 +161,7 @@ New dates and data center/pod information is periodically added or changed, so m
    <td><i>5 p.m. PDT</i><br>
    6 p.m. PDT</td>
    <td><i>Postponed (date TBD)</i><br>
-   On schedule</td>
+   Completed</td>
   </tr>
   <tr>
    <td>August 28, 2026</td>
