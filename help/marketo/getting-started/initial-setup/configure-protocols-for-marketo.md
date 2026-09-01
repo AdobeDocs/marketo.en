@@ -307,102 +307,79 @@ An MX record allows you to receive mail to the domain that you are sending email
 
 An outbound connection is one made by Marketo Engage to a server on the internet on your behalf. Some partners/vendors you work with, or your own IT organization, may use allowlists to restrict access to servers. If so, you must provide them with Marketo Engage outbound IP address blocks to add to their allowlists.
 
-**Webhooks**
+### Webhooks
 
 Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} flow action is executed as part of a smart campaign, an HTTP request is made to an external web service. If the web service publisher uses an allowlist on the firewall of the network where the external web service is located, then the publisher must add the IP address blocks listed below to their allowlist.
 
-**CRM Sync**
+### CRM Sync
 
 Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} are integration mechanisms that make outbound HTTP requests to APIs published by your CRM vendor. You must ensure that your IT organization does not block any of the IP address blocks below from accessing your CRM vendor APIs.
 
-**Marketo Engage Outbound IP Address Blocks**
+### Marketo Engage Outbound IP Address Blocks
 
 The following tables cover all Marketo Engage servers that make outbound calls. Use the lists below if you are configuring any IP allowlist, server, firewall, access control list, security group, or third-party service to receive outgoing connections from Marketo Engage.
 
+**IP Block (CIDR Notation)**
+
 <table>
  <tbody>
-  <tr>
-   <th>IP Block (CIDR Notation)</th>
-  </tr>
    <tr>
    <td>130.248.172.0/24</td>
-  </tr>
-   <tr>
    <td>130.248.173.0/24</td>
   </tr>
-  <tr>
+   <tr>
    <td>130.248.244.88/29</td>
-  </tr>
-  <tr>
    <td>185.28.196.0/22</td>
   </tr>
   <tr>
    <td>192.28.144.0/20</td>
-  </tr>
-  <tr>
    <td>192.28.160.0/19</td>
   </tr>
   <tr>
    <td>199.15.212.0/22</td>
+   <td>&nbsp;</td>
   </tr>
- </tbody>
+  </tbody>
 </table>
 
+**Individual IP address**
+
 <table>
- <tbody>
-  <tr>
-   <th>Individual IP address</th>
-  </tr>
-  <tr>
-   <td>13.237.155.207</td>
-  </tr>
-   <tr>
-   <td>13.55.192.247</td>
-  </tr>
-  <tr>
-   <td>18.200.201.81</td>
-  </tr>
-  <tr>
-   <td>34.247.24.245</td>
-  </tr>
-  <tr>
-   <td>35.165.244.220</td>
-  </tr>
-  <tr>
-   <td>44.235.171.179</td>
-  </tr>
-  <tr>
-   <td>52.20.211.99</td>
-  </tr>
-  <tr>
-   <td>52.64.109.86</td>
-  </tr>
-  <tr>
-   <td>54.160.246.246</td>
-  </tr>
-  <tr>
-   <td>54.212.167.17</td>
-  </tr>
-  <tr>
-   <td>54.220.138.65</td>
-  </tr>
-   <tr>
-   <td>54.237.141.197</td>
-  </tr>
-  <tr>
-   <td>124.47.174.193</td>
-  </tr>
-  <tr>
-   <td>130.248.168.16</td>
-  </tr>
-   <tr>
-   <td>130.248.168.17</td>
-  </tr>
-  <tr>
-   <td>199.15.213.245</td>
-  </tr>
-  <tr>
-   <td>199.15.215.245</td>
-  </tr>
- </tbody>
+  <tbody>
+    <tr>
+      <td>13.237.155.207</td>
+      <td>13.55.192.247</td>
+      <td>18.200.201.81</td>
+    </tr>
+    <tr>
+      <td>34.247.24.245</td>
+      <td>35.165.244.220</td>
+      <td>44.235.171.179</td>
+    </tr>
+    <tr>
+      <td>52.20.211.99</td>
+      <td>52.64.109.86</td>
+      <td>54.160.246.246</td>
+    </tr>
+    <tr>
+      <td>54.212.167.17</td>
+      <td>54.220.138.65</td>
+      <td>54.237.141.197</td>
+    </tr>
+    <tr>
+      <td>66.235.146.130</td>
+      <td>66.235.146.131</td>
+      <td>124.47.174.193</td>
+    </tr>
+    <tr>
+      <td>130.248.168.16</td>
+      <td>130.248.168.17</td>
+      <td>199.15.213.245</td>
+    </tr>
+    <tr>
+      <td>199.15.215.245</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
 </table>
