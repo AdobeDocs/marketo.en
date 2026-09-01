@@ -22,7 +22,7 @@ On your My Marketo screen, click the **Coworker for Marketo Engage** tile.
 
 ![](assets/overview-1.png)
 
-Type your request in the prompt field, or select one of the skills below.
+Type your request in the prompt field, select one of the agent skills, or try one of the sample prompts.
 
 ![](assets/overview-2.png)
 
