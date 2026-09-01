@@ -320,7 +320,6 @@ Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesfo
 The following tables cover all Marketo Engage servers that make outbound calls. Use the lists below if you are configuring any IP allowlist, server, firewall, access control list, security group, or third-party service to receive outgoing connections from Marketo Engage.
 
 **IP Block (CIDR Notation)**
-
 <table>
  <tbody>
    <tr>
@@ -342,8 +341,8 @@ The following tables cover all Marketo Engage servers that make outbound calls. 
   </tbody>
 </table>
 
+<br>
 **Individual IP address**
-
 <table>
   <tbody>
     <tr>
