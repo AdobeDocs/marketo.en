@@ -10,11 +10,15 @@ Learn how to enable permissions and use the Settings area to view connection det
 >
 >This feature is available to all subscriptions. If you do not see the Coworker for Marketo Engage tile on your My Marketo screen, contact your account manager. You must also agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
+>[!IMPORTANT]
+>
+>This feature was formerly known as Marketo AI. The permission and user role names have not been updated yet and will change in a future release. Until then, you'll still see the previous name in the Admin section.
+
 ## Permissions and roles {#permission-and-role}
 
 There is an _Access Marketo AI_ permission and a _Marketo AI User_ role, giving administrators greater control over which users can access the **Marketo AI** feature. The permission is assigned at the role level. The _Marketo AI User_ role comes with the _Access Marketo AI_ permission enabled by default.
 
->[!IMPORTANT]
+>[!NOTE]
 >
 >The _Access Marketo AI_ permission is not enabled by default for all roles. See the table below for details.
 
