@@ -480,6 +480,19 @@ nudge: toc-retry
       + [Getting Started with Predictive Audiences](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
       + [Models and Insights](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [Predictive Filters](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
+  + Coworker for Marketo Engage {#coworker-for-marketo}
+    + {hide-from-toc} [Overview](product-docs/coworker-for-marketo/overview.md)
+    + {hide-from-toc} [Settings and Setup](product-docs/coworker-for-marketo/settings-setup.md)
+    + {hide-from-toc} [Coworker for Marketo Engage data information sheet](product-docs/coworker-for-marketo/data-information.md)
+    + Skills {#skills}
+      + {hide-from-toc} [Product knowledge](product-docs/coworker-for-marketo/skills/product-knowledge.md)
+      + {hide-from-toc} [Surface insights](product-docs/coworker-for-marketo/skills/surface-insights.md)
+      + {hide-from-toc} [Build programs](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + {hide-from-toc} [Clone program](product-docs/coworker-for-marketo/skills/clone-program.md)
+      + {hide-from-toc} [Investigate leads](product-docs/coworker-for-marketo/skills/investigate-leads.md)
+      + {hide-from-toc} [Import leads](product-docs/coworker-for-marketo/skills/import-leads.md)
+      + {hide-from-toc} [Validate programs](product-docs/coworker-for-marketo/skills/validate-programs.md)
+    + {hide-from-toc} [Marketo MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM Sync {#crm-sync}
     + Microsoft Dynamics Sync {#microsoft-dynamics}
       + [Understanding the Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
