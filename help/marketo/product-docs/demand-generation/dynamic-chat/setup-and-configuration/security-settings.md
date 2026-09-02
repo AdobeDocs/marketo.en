@@ -20,6 +20,17 @@ In Security settings, you have the ability to add domains to a blocked or allowe
 
    ![](assets/security-settings-1.png)
 
+>[!IMPORTANT]
+>
+>Block and Allow Email Domain filtering applies only when a visitor enters their email address directly within Dynamic Chat, either in the chatbot or in a conversational flow. It does not apply to email addresses that Dynamic Chat receives from integrated products, such as Marketo Engage. For more information see the table below.
+
+| Scenario | Does filtering apply? |
+|---|---|
+| Visitor types their email directly into the Dynamic Chat chatbot | Yes |
+| Visitor types their email directly into a Dynamic Chat conversational flow | Yes |
+| Email is pre-populated from a Marketo form submission (conversational flow appears after form fill) | No |
+| Email is passed to Dynamic Chat from any other integrated system | No |
+
 ## Blocked Email Domains {#blocked-email-domains}
 
 If there are any visitors with email domains you don't want your agents to interact with (e.g., a competitor), add their email domain to the blocklist.
