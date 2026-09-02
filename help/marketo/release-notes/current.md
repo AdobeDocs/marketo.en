@@ -54,18 +54,18 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Script Builder</strong>: Script Builder is an AI-powered assistant that helps you create personalization scripts faster.
-</td>
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
    <td><strong>Disable Campaigns on Archive</strong>: Archiving a folder now disables and deschedules all campaigns in that folder tree, preventing unexpected execution of archived Smart Campaigns.
+</td>
+   <td>Released</td>
+   <td>n/a</td>
+  </tr>
+    <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Script Builder</strong>: Script Builder is an AI-powered assistant that helps you create personalization scripts faster.
 </td>
    <td><i>Coming soon</i></td>
    <td><i>Coming soon</i></td>
@@ -75,6 +75,8 @@ The following features fall under the standard release cycle and will start to b
 <br/>
 
 ## Announcements {#announcements}
+
+* **Marketo AI is now Coworker for Marketo Engage**: Coworker for Marketo Engage provides agent skills designed to automate time-consuming marketing functions. New name, same features, available to all users. [Learn more](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
 
 * **Rest API 'access_token' Parameter Deprecation**: The `access_token` query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after August 31, 2026. All new and existing integrations should authenticate REST API calls using the 'Authorization' header, [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 

@@ -21,10 +21,10 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>Marketo AI</strong>: Utilize a suite of agents designed to automate time-consuming but important marketing functions (two agents available now, more coming soon).
+   <td><strong>Marketo AI</strong>: Utilize a suite of agent skills designed to automate time-consuming but important marketing functions (two agent skills available now, more coming soon).
 </td>
    <td>Open beta</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AI overview</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Marketo AI overview</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>

@@ -73,7 +73,7 @@ _Release dates/features are subject to change_
   </tr>
   <tr>
   <td>October '26</td>
-   <td>October 30, 2026</td>
+   <td>October 23, 2026</td>
    <td>On schedule</td>
   </tr>
  </tbody>
