@@ -24,7 +24,7 @@ The following features fall under the standard release cycle and will start to b
    <td><strong>Marketo AI Skill - Product knowledge</strong>: Product knowledge gives you on-demand access to Marketo expertise without leaving the platform. Ask a question in plain language and Marketo AI draws on official Adobe documentation to provide an answer.
 </td>
    <td>Released</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Product knowledge</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/skills/product-knowledge" target="_blank">Product knowledge</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>
@@ -35,7 +35,7 @@ The following features fall under the standard release cycle and will start to b
    <td><strong>Marketo AI Skill - Investigate leads</strong>: Find out why a specific person/lead did not reach a milestone (like MQL, program qualification, or a campaign) and get a plain-language explanation of what happened.
 </td>
    <td>Released</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Investigate leads</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/skills/investigate-leads" target="_blank">Investigate leads</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>

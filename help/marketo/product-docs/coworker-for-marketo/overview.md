@@ -12,9 +12,9 @@ Coworker for Marketo Engage provides agent skills designed to automate time-cons
 
 >[!IMPORTANT]
 >
->* After Coworker for Marketo Engage has been enabled for your subscription, you must perform some [setup steps](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} to ensure the desired users have access.
+>* After Coworker for Marketo Engage has been enabled for your subscription, you must perform some [setup steps](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} to ensure the desired users have access.
 >
->* Review data scope, governance controls, and PII considerations in the Coworker for Marketo Engage [data information sheet](/help/marketo/product-docs/marketo-ai/data-information.md){target="_blank"}.
+>* Review data scope, governance controls, and PII considerations in the Coworker for Marketo Engage [data information sheet](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
 
 ## How to access {#access}
 
@@ -32,19 +32,19 @@ The center console features a growing set of agent skills available to help you 
 
 ### Investigate leads {#investigate-leads}
 
-Find out why a specific person/lead did not reach a milestone (like MQL, program qualification, or a campaign) and get a plain-language explanation of what happened. Learn more about the [Investigate leads skill](/help/marketo/product-docs/marketo-ai/skills/investigate-leads.md){target="_blank"}.
+Find out why a specific person/lead did not reach a milestone (like MQL, program qualification, or a campaign) and get a plain-language explanation of what happened. Learn more about the [Investigate leads skill](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
 
 ### Product knowledge {#product-knowledge}
 
-Product knowledge gives you on-demand access to Marketo expertise without leaving the platform. Ask a question in plain language and Coworker for Marketo Engage draws on official Adobe documentation to answer it. Learn more about the [Product knowledge skill](/help/marketo/product-docs/marketo-ai/skills/product-knowledge.md){target="_blank"}.
+Product knowledge gives you on-demand access to Marketo expertise without leaving the platform. Ask a question in plain language and Coworker for Marketo Engage draws on official Adobe documentation to answer it. Learn more about the [Product knowledge skill](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}.
 
 ### Validate programs {#validate-programs}
 
-Validate programs automatically checks your setup against Marketo best practices and surfaces issues prior to launch. Learn more about the [Validate programs skill](/help/marketo/product-docs/marketo-ai/skills/validate-programs.md){target="_blank"}.
+Validate programs automatically checks your setup against Marketo best practices and surfaces issues prior to launch. Learn more about the [Validate programs skill](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md){target="_blank"}.
 
 ### Import leads {#import-leads}
 
-Import and deduplicate lead lists into your Marketo Engage database with field mapping assistance. Learn more about the [Import leads skill](/help/marketo/product-docs/marketo-ai/skills/import-leads.md){target="_blank"}.
+Import and deduplicate lead lists into your Marketo Engage database with field mapping assistance. Learn more about the [Import leads skill](/help/marketo/product-docs/coworker-for-marketo/skills/import-leads.md){target="_blank"}.
 
 ## Coming soon {#coming-soon}
 
