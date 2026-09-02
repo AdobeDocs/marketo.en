@@ -4,7 +4,7 @@ title: Coworker for Marketo Engage Overview
 ---
 # Coworker for Marketo Engage Overview {#overview}
 
-Coworker for Marketo Engage provides agent skills designed to automate time-consuming but important marketing functions.
+Coworker for Marketo Engage (formerly known as Marketo AI) provides agent skills designed to automate time-consuming but important marketing functions.
 
 >[!AVAILABILITY]
 >
