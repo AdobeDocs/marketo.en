@@ -1118,18 +1118,6 @@ nudge: toc-retry
         + [Use the Send Alert Info Token](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
         + [Using URLs in My Tokens](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
       + [Email CC](product-docs/email-marketing/general/email-cc.md)
-  + Marketo AI {#marketo-ai}
-    + {hide-from-toc} [Overview](product-docs/marketo-ai/overview.md)
-    + {hide-from-toc} [Settings and Setup](product-docs/marketo-ai/settings-setup.md)
-    + {hide-from-toc} [Marketo AI data information sheet](product-docs/marketo-ai/data-information.md)
-    + Skills {#skills}
-      + {hide-from-toc} [Product knowledge](product-docs/marketo-ai/skills/product-knowledge.md)
-      + {hide-from-toc} [Surface insights](product-docs/marketo-ai/skills/surface-insights.md)
-      + {hide-from-toc} [Build programs](product-docs/marketo-ai/skills/build-programs.md)
-      + {hide-from-toc} [Clone program](product-docs/marketo-ai/skills/clone-program.md)
-      + {hide-from-toc} [Investigate leads](product-docs/marketo-ai/skills/investigate-leads.md)
-      + {hide-from-toc} [Import leads](product-docs/marketo-ai/skills/import-leads.md)
-      + {hide-from-toc} [Validate programs](product-docs/marketo-ai/skills/validate-programs.md)
   + Marketo Notifications {#marketo-notifications}
     + {hide-from-toc} [Notification: Websocket Connection](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
