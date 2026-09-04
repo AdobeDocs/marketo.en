@@ -10,17 +10,13 @@ Learn how to enable permissions and use the Settings area to view connection det
 >
 >This feature is available to all subscriptions. If you do not see the Coworker for Marketo Engage tile on your My Marketo screen, contact your account manager. You must also agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
->[!IMPORTANT]
->
->This feature was formerly known as Marketo AI. The permission and user role names have not been updated yet and will change in a future release. Until then, you'll still see the previous name in the Admin section.
-
 ## Permissions and roles {#permission-and-role}
 
-There is an _Access Marketo AI_ permission and a _Marketo AI User_ role, giving administrators greater control over which users can access the **Marketo AI** feature. The permission is assigned at the role level. The _Marketo AI User_ role comes with the _Access Marketo AI_ permission enabled by default.
+There is an _Access Coworker for Marketo Engage_ permission and a _Coworker for Marketo Engage User_ role, giving administrators greater control over which users can access the **Coworker for Marketo Engage** feature. The permission is assigned at the role level. The _Coworker for Marketo Engage User_ role comes with the _Access Coworker for Marketo Engage_ permission enabled by default.
 
 >[!NOTE]
 >
->The _Access Marketo AI_ permission is not enabled by default for all roles. See the table below for details.
+>The _Access Coworker for Marketo Engage_ permission is not enabled by default for all roles. See the table below for details.
 
 | Role | Default status |
 | --- | --- |
@@ -28,12 +24,12 @@ There is an _Access Marketo AI_ permission and a _Marketo AI User_ role, giving 
 | Adobe Product Admin | Enabled |
 | Marketing User | Disabled |
 | Standard User | Not available |
-| Marketo AI User | Enabled |
+| Coworker for Marketo Engage User | Enabled |
 | Custom roles | Disabled |
 
-### Access Marketo AI permission {#access-marketo-ai-permission}
+### Access Coworker for Marketo Engage permission {#access-coworker-marketo-permission}
 
-Follow the steps below to enable _Access Marketo AI_ for qualifying roles that do not already have it enabled.
+Follow the steps below to enable _Access Coworker for Marketo Engage_ for qualifying roles that do not already have it enabled.
 
 1. In your My Marketo, click **Admin**, then **Users & Roles**.
 
@@ -43,21 +39,21 @@ Follow the steps below to enable _Access Marketo AI_ for qualifying roles that d
 
    ![](assets/settings-setup-2.png)
 
-1. Scroll down and check the _Access Marketo AI_ checkbox and click **Save**.
+1. Scroll down and check the _Access Coworker for Marketo Engage_ checkbox and click **Save**.
 
    ![](assets/settings-setup-3.png)
 
    >[!NOTE]
    >
-   >You can use these same steps to remove the permission by **un**checking the _Access Marketo AI_ checkbox.
+   >You can use these same steps to remove the permission by **un**checking the _Access Coworker for Marketo Engage_ checkbox.
 
-### Marketo AI User role {#marketo-ai-user-role}
+### Coworker for Marketo Engage User role {#coworker-marketo-user-role}
 
-Follows these steps to assign a specific user to the _Marketo AI User_ role.
+Follow these steps to assign a specific user to the _Coworker for Marketo Engage User_ role.
 
 >[!NOTE]
 >
->This role **only** contains the _Access Marketo AI_ permission.
+>This role **only** contains the _Access Coworker for Marketo Engage_ permission.
 
 1. In your My Marketo, click **Admin**, then **Users & Roles**.
 
@@ -67,13 +63,13 @@ Follows these steps to assign a specific user to the _Marketo AI User_ role.
 
    ![](assets/settings-setup-5.png)
 
-1. In _Roles and Workspaces_, select the _Marketo AI User_ checkbox. If you have more than one workspace, you can specify which ones get access in the **+** sign drop-down. Click **Save** when done.
+1. In _Roles and Workspaces_, select the _Coworker for Marketo Engage User_ checkbox. If you have more than one workspace, you can specify which ones get access in the **+** sign drop-down. Click **Save** when done.
 
    ![](assets/settings-setup-6.png)
 
 ### Custom role {#custom-role}
 
-You also have the option to [create a new role](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} and customize its permissions, adding _Access Marketo AI_, along with anything else you want, and [assigning that role](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} to specific users.
+You also have the option to [create a new role](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} and customize its permissions, adding _Access Coworker for Marketo Engage_, along with anything else you want, and [assigning that role](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} to specific users.
 
 ## Settings {#settings}
 
@@ -87,7 +83,7 @@ You also have the option to [create a new role](https://experienceleague.adobe.c
 
 ### Connection {#connection}
 
-This tab is does not contain editable fields. It shows you account information like your Munchkin ID and IMS Organization.
+This tab does not contain editable fields. It shows account information like your Munchkin ID and IMS Organization.
 
    ![](assets/settings-setup-9.png)
 
