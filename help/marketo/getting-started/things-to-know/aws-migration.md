@@ -238,6 +238,36 @@ New dates and data center/pod information is periodically added or changed, so m
    <td>On schedule<br>
    On schedule</td>
   </tr>
+  <tr>
+   <td>September 29, 2026</td>
+   <td>AB14</td>
+   <td>6 p.m. PDT</td>
+   <td>On schedule</td>
+  </tr>
+   <tr>
+   <td>October 1, 2026</td>
+   <td>AB15<br>
+   AB16</td>
+   <td>5 p.m. PDT<br>
+   6 p.m. PDT</td>
+   <td>On schedule<br>
+   On schedule</td>
+  </tr>
+  <tr>
+   <td>October 6, 2026</td>
+   <td>AB18</td>
+   <td>5 p.m. PDT</td>
+   <td>On schedule</td>
+  </tr>
+  <tr>
+   <td>October 9, 2026</td>
+   <td>AB19<br>
+   AB22</td>
+   <td>4 p.m. PDT<br>
+   5 p.m. PDT</td>
+   <td>On schedule<br>
+   On schedule</td>
+  </tr>
   </body>
 </table>
 
