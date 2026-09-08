@@ -57,7 +57,7 @@ The following features fall under the standard release cycle and will start to b
    <td><strong>Disable Campaigns on Archive</strong>: Archiving a folder now disables and deschedules all campaigns in that folder tree, preventing unexpected execution of archived Smart Campaigns.
 </td>
    <td>Released</td>
-   <td>n/a</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-smart-campaigns-archive" target="_blank">Disable Campaigns on Archive</a></td>
   </tr>
     <tr>
    <td>&nbsp;</td>
