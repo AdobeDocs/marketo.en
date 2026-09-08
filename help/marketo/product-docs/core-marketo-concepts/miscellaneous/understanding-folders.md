@@ -29,11 +29,11 @@ Folders inside a program can be used to organize your smart campaigns and assets
 
 1. Right-click a program and select **[!UICONTROL New Folder]**.
 
-   ![](assets/image2015-4-20-18-3a45-3a14.png)
+   ![](assets/image2015-4-20-18-3a45-3a14.png){width="600" zoomable="yes"}
 
 1. Name the new folder and press **[!UICONTROL Enter]**.
 
-   ![](assets/image2015-4-20-18-3a46-3a57.png)
+   ![](assets/image2015-4-20-18-3a46-3a57.png){width="600" zoomable="yes"}
 
 The new folder is now ready for your local assets.
 
@@ -41,11 +41,11 @@ The new folder is now ready for your local assets.
 
 1. Right-click the folder and select **[!UICONTROL Rename Folder]**.
 
-   ![](assets/image2015-4-20-18-3a49-3a10.png)
+   ![](assets/image2015-4-20-18-3a49-3a10.png){width="600" zoomable="yes"}
 
 1. Type in a new name and press **[!UICONTROL Enter]**.
 
-   ![](assets/image2015-4-20-18-3a52-3a30.png)
+   ![](assets/image2015-4-20-18-3a52-3a30.png){width="600" zoomable="yes"}
 
 ## Delete a folder {#delete-a-folder}
 
@@ -55,13 +55,13 @@ The new folder is now ready for your local assets.
 
 1. Right-click the folder and select **[!UICONTROL Delete Folder]**.
 
-   ![](assets/image2015-4-20-18-3a55-3a51.png)
+   ![](assets/image2015-4-20-18-3a55-3a51.png){width="600" zoomable="yes"}
 
 ## Archive a folder {#archive-a-folder}
 
 In Marketo you have the ability to convert existing folders into Archive folders. Archive folders exist in [!UICONTROL Marketing Activities], [!UICONTROL Database], and [!UICONTROL Design Studio].
 
-![](assets/image2015-4-20-19-3a3-3a46.png)
+![](assets/image2015-4-20-19-3a3-3a46.png){width="600" zoomable="yes"}
 
 When you archive a folder:
 
@@ -75,7 +75,7 @@ Functionality that will **not** change when archiving:
 * Global search still finds results in archived folders
 * You can use a filter to select archived assets for use in reports
 
-### Smart Campaigns disabled upon archive {#disable-smart-campaigns-archive}
+### Disable Campaigns on archive {#disable-campaigns-archive}
 
 When a folder or program is archived, or an active Smart Campaign is moved into a folder that is already archived, Marketo Engage stops the affected campaigns from running:
 
