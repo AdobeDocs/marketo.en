@@ -17,11 +17,11 @@ feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
 ---
-# Understanding Folders {#understanding-folders}
+# Understanding folders {#understanding-folders}
 
 Folders inside a program can be used to organize your smart campaigns and assets. These are different from [campaign folders](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
-## Create a Folder {#create-a-folder}
+## Create a folder {#create-a-folder}
 
 1. Go to the **[!UICONTROL Marketing Activities]** area.
 
@@ -37,7 +37,7 @@ Folders inside a program can be used to organize your smart campaigns and assets
 
 The new folder is now ready for your local assets.
 
-## Rename a Folder {#rename-a-folder}
+## Rename a folder {#rename-a-folder}
 
 1. Right-click the folder and select **[!UICONTROL Rename Folder]**.
 
@@ -47,7 +47,7 @@ The new folder is now ready for your local assets.
 
    ![](assets/image2015-4-20-18-3a52-3a30.png)
 
-## Delete a Folder {#delete-a-folder}
+## Delete a folder {#delete-a-folder}
 
 >[!NOTE]
 >
@@ -57,7 +57,7 @@ The new folder is now ready for your local assets.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 
-## Archive a Folder {#archive-a-folder}
+## Archive a folder {#archive-a-folder}
 
 In Marketo you have the ability to convert existing folders into Archive folders. Archive folders exist in [!UICONTROL Marketing Activities], [!UICONTROL Database], and [!UICONTROL Design Studio].
 
@@ -73,6 +73,28 @@ When you archive a folder:
 Functionality that will **not** change when archiving:
 
 * Global search still finds results in archived folders
-* An asset that is in use will continue to work even after it is archived
 * You can use a filter to select archived assets for use in reports
-* Archived assets are not deactivated. They must also be deactivated if you want them to stop running
+
+### Smart Campaigns disabled upon archive {#disable-smart-campaigns-archive}
+
+When a folder or program is archived, or an active Smart Campaign is moved into a folder that is already archived, Marketo Engage stops the affected campaigns from running:
+
+* **Triggered campaigns** are deactivated.
+* **Batch campaigns** have their pending runs canceled.
+* **Executable campaigns** have no running state, so no action is taken.
+
+**Supported actions**
+
+The following actions deactivate campaigns:
+
+* Dragging and dropping a **folder** containing active campaigns into an archived folder
+* Dragging and dropping a **program** (any type) containing active campaigns into an archived folder
+* Dragging and dropping a **single Smart Campaign** into an archived folder
+* Right-clicking **Move** on a single Smart Campaign into an archived folder
+* Right-clicking **Move Folder** on a folder containing active campaigns into an archived folder
+* Right-clicking **Move** on a program containing active campaigns into an archived folder
+* Right-clicking **Convert to Archived Folder** on a folder to archive it in place without moving it
+
+>[!NOTE]
+>
+>If a Smart Campaign inside the folder or program being archived is referenced elsewhere (e.g., via a "Request Campaign" flow step), archiving is blocked to prevent breaking that other campaign.
