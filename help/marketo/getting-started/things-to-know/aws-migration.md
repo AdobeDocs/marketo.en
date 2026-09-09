@@ -8,7 +8,7 @@ exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
 
 Over the next several months, all Marketo Engage subscriptions are being migrated from a private data center to the AWS public cloud to improve reliability, scalability, and speed.
 
-You will receive an email as well as an in-app notification approximately 30 days prior to migration. Use this guide to prepare.
+You will receive an email as well as an in-app notification approximately 30 days prior to [your migration](#identify). Use this guide to prepare.
 
 ## Recommended actions {#actions}
 
@@ -31,15 +31,17 @@ During your migration window, all Marketo Engage services will be unavailable. W
 The impacts below require no action on your part.
 
 * **CRM integrations and LaunchPoint services** will be disabled but should resume automatically afterward.
-* **Landing pages, forms, and data collection** will be unavailable, and a maintenance message will be displayed instead.
+* **Landing pages, forms, and data collection** will be unavailable, and a maintenance message will be displayed (see below).
 
->[!NOTE]
+   ![Message your customers see when they access your Marketo Engage Landing Pages during the downtime](assets/maintenance-in-progress.png)
+
+>[!IMPORTANT]
 >
 >If you use [external forms](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} and want to avoid losing form submission data collected while Marketo Engage is unavailable during your migration window, contact [Adobe Support](https://experienceleague.adobe.com/en/support){target="_blank"} **at least two business days** beforehand and provide the Form ID and your subscription's Munchkin ID.
 
 ## Identify your data center/pod {#identify}
 
-Before reviewing the tables below, [learn how to identify](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) what data center and pod/server your subscription is located in.
+Before reviewing the schedule below, [learn how to identify](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) what data center and pod/server your subscription is located in.
 
 ## Schedule {#schedule}
 
