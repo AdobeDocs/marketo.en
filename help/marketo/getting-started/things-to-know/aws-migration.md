@@ -45,7 +45,9 @@ Before reviewing the schedule below, [learn how to identify](/help/marketo/getti
 
 ## Schedule {#schedule}
 
-New dates and data center/pod information is periodically added or changed, so monitor this schedule for updates.
+New dates and data center/pod information is periodically added or changed, so monitor this schedule for updates. There is no option to opt out or request your migration be moved to a different date. 
+
+If for some reason a migration is unsuccessful, you will be notified and we will reschedule.
 
 +++July schedule
 <table>
@@ -300,7 +302,9 @@ Based on your data center, work with your IT department to get the respective IP
 
 ## Updates and support {#support}
 
-For the latest updates, bookmark this page. If you have any questions, contact Adobe Support via the Support portal in the Admin Console or [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
+For the latest information, bookmark this page. To receive status updates at the start and completion of the migration, but [you must subscribe](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} to receive them. You can also visit https://status.adobe.com/.
+
+If you have any questions, contact Adobe Support via the Support portal in the Admin Console or [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## FAQ {#faq}
 
