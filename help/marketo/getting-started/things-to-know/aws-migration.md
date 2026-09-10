@@ -302,7 +302,7 @@ Based on your data center, work with your IT department to get the respective IP
 
 ## Updates and support {#support}
 
-For the latest information, bookmark this page. To receive status updates at the start and completion of the migration, but [you must subscribe](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} to receive them. You can also visit https://status.adobe.com/.
+For the latest information, bookmark this page. To receive status updates at the start and completion of the migration, [subscribe](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} to receive them. You can also visit https://status.adobe.com/ during your migration window.
 
 If you have any questions, contact Adobe Support via the Support portal in the Admin Console or [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
