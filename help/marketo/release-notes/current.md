@@ -45,7 +45,7 @@ The following features fall under the standard release cycle and will start to b
   <tr>
    <td><strong>Marketo Engage New UI</strong>: The Marketo Engage interface has a refreshed look, including updated menus, icons, and layout for a cleaner, more modern experience. This is a visual update only; no existing functionality or workflows are affected.
 </td>
-   <td>Phased rollout throughout the month of August</td>
+   <td>Phased rollout throughout August and September</td>
    <td><i>n/a</i></td>
   </tr>
   <tr>
