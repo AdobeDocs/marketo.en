@@ -1021,7 +1021,7 @@ nudge: toc-retry
       + [Email Collaboration](product-docs/email-marketing/email-designer/email-collaboration.md)
       + [Generate content in the Email Designer](product-docs/email-marketing/email-designer/generate-content.md)
       + [Email Spam Report with SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
-      + [CNIL Open Tracking Guidance](product-docs/email-marketing/email-designer/cnil-guidance.md)
+      + [Conditional Open Tracking](product-docs/email-marketing/email-designer/conditional-open-tracking.md)
     + Email Programs {#email-programs}
       + Creating an Email Program {#creating-an-email-program}
         + [Create an Email Program](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
