@@ -30,6 +30,10 @@ Type your request in the prompt field, select one of the agent skills, or try on
 
 The center console features a growing set of agent skills available to help you with various tasks. Each skill is a purpose-built AI assistant you interact with through natural language to complete a specific task.
 
+### Build programs {#build-programs}
+
+Describe a marketing campaign in plain language and Coworker for Marketo Engage builds the program structure, complete with asset placeholders and scheduling. Learn more about the [Build programs skill](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
+
 ### Investigate leads {#investigate-leads}
 
 Find out why a specific person/lead did not reach a milestone (like MQL, program qualification, or a campaign) and get a plain-language explanation of what happened. Learn more about the [Investigate leads skill](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
