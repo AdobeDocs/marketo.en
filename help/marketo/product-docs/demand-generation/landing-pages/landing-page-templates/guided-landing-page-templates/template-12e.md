@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 12E {#template-12e}
 
-Right-click to [download Template 12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
+Right-click to [download Template 12E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-12e.html)
 
 ![](assets/image2015-8-4-14-3a45-3a47.png)
 
@@ -30,4 +30,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
+[Template 12E.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-12e.html)

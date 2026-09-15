@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 5D {#template-5d}
 
-Right-click to [download Template 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
+Right-click to [download Template 5D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-5d.html)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 
@@ -30,4 +30,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
+[Template 5D.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-5d.html)

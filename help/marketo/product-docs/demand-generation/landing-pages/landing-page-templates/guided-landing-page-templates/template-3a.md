@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 3A {#template-3a}
 
-Right-click to [download Template 3A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
+Right-click to [download Template 3A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-3a.html)
 
 ![](assets/image2015-6-12-9-3a2-3a8.png)
 
@@ -30,4 +30,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 3A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
+[Template 3A.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-3a.html)

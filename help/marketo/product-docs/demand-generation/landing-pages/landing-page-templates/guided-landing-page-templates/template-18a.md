@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 18A {#template-18a}
 
-Right-click to [download Template 18A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)
+Right-click to [download Template 18A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-18a.html)
 
 ![](assets/image2015-8-17-17-3a57-3a23.png)
 
@@ -30,4 +30,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 18A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)
+[Template 18A.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-18a.html)

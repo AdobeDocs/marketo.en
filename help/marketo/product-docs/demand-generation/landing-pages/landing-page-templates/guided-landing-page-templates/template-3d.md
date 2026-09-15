@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 3D {#template-3d}
 
-Right-click to [download Template 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+Right-click to [download Template 3D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-3d.html)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 
@@ -30,4 +30,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+[Template 3D.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-3d.html)

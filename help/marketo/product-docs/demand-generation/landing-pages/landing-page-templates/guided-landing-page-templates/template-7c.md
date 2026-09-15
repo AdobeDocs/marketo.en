@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 7C {#template-7c}
 
-Right-click to [download Template 7C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)
+Right-click to [download Template 7C](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-7c.html)
 
 ![](assets/image2015-7-29-14-3a37-3a3.png)
 
@@ -30,4 +30,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 7C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)
+[Template 7C.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-7c.html)

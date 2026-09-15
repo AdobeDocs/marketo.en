@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 3C {#template-3c}
 
-Right-click to [download Template 3C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
+Right-click to [download Template 3C](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-3c.html)
 
 ![](assets/image2015-6-15-11-3a20-3a37.png)
 
@@ -30,4 +30,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 3C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
+[Template 3C.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-3c.html)

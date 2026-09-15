@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 6D {#template-6d}
 
-Right-click to [download Template 6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
+Right-click to [download Template 6D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-6d.html)
 
 ![](assets/image2015-7-29-12-3a1-3a21.png)
 
@@ -29,4 +29,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 6D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
+[Template 6D.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-6d.html)

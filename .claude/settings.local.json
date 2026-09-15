@@ -5,7 +5,9 @@
       "Bash(Get-ChildItem -Path \"c:\\\\Users\\\\gluck\\\\OneDrive - Adobe\\\\Desktop\\\\GitHub\\\\marketo.en\\\\help\\\\marketo\\\\product-docs\\\\demand-generation\\\\landing-pages\\\\\" -Directory | Select-Object Name)",
       "Bash(Get-ChildItem -Path \"c:\\\\Users\\\\gluck\\\\OneDrive - Adobe\\\\Desktop\\\\GitHub\\\\marketo.en\\\\help\\\\marketo\\\\product-docs\\\\demand-generation\\\\landing-pages\" -Recurse -Filter \"*.md\")",
       "Bash(Select-Object -ExpandProperty FullName)",
-      "Bash(Get-ChildItem -Path \"c:\\\\Users\\\\gluck\\\\OneDrive - Adobe\\\\Desktop\\\\GitHub\\\\marketo.en\\\\help\\\\marketo\\\\product-docs\\\\demand-generation\\\\landing-pages\\\\\" -Recurse -Filter \"*.md\" | Select-Object -ExpandProperty FullName | Sort-Object)"
+      "Bash(Get-ChildItem -Path \"c:\\\\Users\\\\gluck\\\\OneDrive - Adobe\\\\Desktop\\\\GitHub\\\\marketo.en\\\\help\\\\marketo\\\\product-docs\\\\demand-generation\\\\landing-pages\\\\\" -Recurse -Filter \"*.md\" | Select-Object -ExpandProperty FullName | Sort-Object)",
+      "WebFetch(domain:experienceleague.adobe.com)",
+      "Bash(xargs -0 sed -i 's#https://experienceleague\\\\.adobe\\\\.com/landing/marketo/lp-templates/#https://51837-micrositemarketo.adobeio-static.net/lp-templates/#g')"
     ]
   }
 }

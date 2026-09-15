@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 10C {#template-10c}
 
-Right-click to [download Template 10C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
+Right-click to [download Template 10C](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-10c.html)
 
 ![](assets/image2015-7-27-10-3a57-3a9.png)
 
@@ -29,4 +29,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 10C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
+[Template 10C.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-10c.html)

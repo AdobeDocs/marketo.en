@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 13A {#template-13a}
 
-Right-click to [download Template 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
+Right-click to [download Template 13A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-13a.html)
 
 ![](assets/image2015-8-11-10-3a15-3a39.png)
 
@@ -29,4 +29,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
+[Template 13A.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-13a.html)

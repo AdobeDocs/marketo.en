@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 9C {#template-9c}
 
-Right-click to [download Template 9C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)
+Right-click to [download Template 9C](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-9c.html)
 
 ![](assets/image2015-7-28-15-3a35-3a30.png)
 
@@ -29,4 +29,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 9C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)
+[Template 9C.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-9c.html)

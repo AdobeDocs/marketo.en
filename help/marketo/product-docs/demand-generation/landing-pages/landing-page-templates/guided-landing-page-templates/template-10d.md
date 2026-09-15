@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 10D {#template-10d}
 
-Right-click to [download Template 10D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)
+Right-click to [download Template 10D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-10d.html)
 
 ![](assets/image2015-7-27-11-3a3-3a12.png)
 
@@ -29,4 +29,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 10D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)
+[Template 10D.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-10d.html)

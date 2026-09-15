@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 8C {#template-8c}
 
-Right-click to [download Template 8C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
+Right-click to [download Template 8C](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-8c.html)
 
 ![](assets/image2015-7-29-14-3a12-3a24.png)
 
@@ -30,4 +30,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 8C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
+[Template 8C.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-8c.html)
