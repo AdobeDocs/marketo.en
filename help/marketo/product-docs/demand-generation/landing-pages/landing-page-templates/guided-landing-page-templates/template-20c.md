@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 20C {#template-20c}
 
-Right-click to [download Template 20C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+Right-click to [download Template 20C](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-20c.html)
 
 ![](assets/template-20c.png)
 
@@ -29,4 +29,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+[Template 20C.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-20c.html)

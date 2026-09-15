@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 19E {#template-19e}
 
-Right-click to [download Template 19E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
+Right-click to [download Template 19E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-19e.html)
 
 ![](assets/image2015-9-16-17-3a4-3a14.png)
 
@@ -29,4 +29,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 19E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
+[Template 19E.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-19e.html)

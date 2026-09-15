@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 2B {#template-2b}
 
-Right-click to [download Template 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+Right-click to [download Template 2B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-2b.html)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -30,4 +30,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+[Template 2B.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-2b.html)

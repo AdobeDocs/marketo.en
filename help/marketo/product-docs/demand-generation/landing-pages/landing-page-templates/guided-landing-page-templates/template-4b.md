@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 4B {#template-4b}
 
-Right-click to [download Template 4B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)
+Right-click to [download Template 4B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-4b.html)
 
 ![](assets/image2015-7-24-10-3a22-3a15.png)
 
@@ -30,4 +30,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 4B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)
+[Template 4B.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-4b.html)

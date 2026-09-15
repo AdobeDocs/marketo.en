@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 8G {#template-8g}
 
-Right-click to [download Template 8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
+Right-click to [download Template 8G](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-8g.html)
 
 ![](assets/image2015-7-29-14-3a58-3a16.png)
 
@@ -30,4 +30,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 8G.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
+[Template 8G.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-8g.html)

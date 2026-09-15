@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 16C {#template-16c}
 
-Right-click to [download Template 16C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)
+Right-click to [download Template 16C](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-16c.html)
 
 ![](assets/image2015-8-14-12-3a58-3a46.png)
 
@@ -30,4 +30,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 16C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)
+[Template 16C.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-16c.html)

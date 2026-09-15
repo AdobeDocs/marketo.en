@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 8E {#template-8e}
 
-Right-click to [download Template 8E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html)
+Right-click to [download Template 8E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-8e.html)
 
 ![](assets/image2015-7-29-14-3a39-3a0.png)
 
@@ -30,4 +30,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 8E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html)
+[Template 8E.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-8e.html)

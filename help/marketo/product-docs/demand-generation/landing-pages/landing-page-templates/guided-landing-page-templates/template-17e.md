@@ -14,7 +14,7 @@ feature_v2:
 ---
 # Template 17E {#template-17e}
 
-Right-click to [download Template 17E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)
+Right-click to [download Template 17E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-17e.html)
 
 ![](assets/image2015-8-17-17-3a43-3a20.png)
 
@@ -29,4 +29,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 17E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)
+[Template 17E.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-17e.html)
