@@ -18,7 +18,7 @@ Right-click to [download Template 1A](https://experienceleague.adobe.com/landing
 
 ![](assets/image2015-5-28-10-3a1-3a40.png)
 
-This template includes the following content:
+This template contains the following content:
 
 * A primary section
 
