@@ -487,7 +487,7 @@ nudge: toc-retry
     + Skills {#skills}
       + [Product knowledge](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc} [Surface insights](product-docs/coworker-for-marketo/skills/surface-insights.md)
-      + [Build programs](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + {hide-from-toc} [Build programs](product-docs/coworker-for-marketo/skills/build-programs.md)
       + {hide-from-toc} [Clone program](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [Investigate leads](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Import leads](product-docs/coworker-for-marketo/skills/import-leads.md)
