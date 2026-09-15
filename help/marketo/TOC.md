@@ -483,6 +483,7 @@ nudge: toc-retry
   + Coworker for Marketo Engage {#coworker-for-marketo}
     + [Overview](product-docs/coworker-for-marketo/overview.md)
     + [Settings and Setup](product-docs/coworker-for-marketo/settings-setup.md)
+    + {hide-from-toc} [Organizational rules](product-docs/coworker-for-marketo/organizational-rules.md)
     + [Coworker for Marketo Engage data information sheet](product-docs/coworker-for-marketo/data-information.md)
     + Skills {#skills}
       + [Product knowledge](product-docs/coworker-for-marketo/skills/product-knowledge.md)

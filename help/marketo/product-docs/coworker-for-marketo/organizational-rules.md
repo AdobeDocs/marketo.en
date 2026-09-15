@@ -1,31 +1,31 @@
 ---
-description: Description goes here.
+description: Learn how Organizational Rules define governance standards and guide Coworker for Marketo Engage across program creation, campaign planning, and validation.
 title: Organizational rules
 ---
 # Organizational rules {#organizational-rules}
 
-Organizational Rules define your marketing operations standards and governance requirements in a single document that guides Coworker across program creation, campaign planning, and validation workflows.
+Organizational Rules define your marketing operations standards and governance requirements in a single document that guides Coworker for Marketo Engage across program creation, campaign planning, and validation workflows.
 
 ## What are Organizational Rules? {#what-are-organizational-rules}
 
-Organizational Rules are a markdown-based configuration document that capture your organization's campaign standards:
+Organizational Rules are a markdown-based configuration document that captures your organization's campaign standards:
 
-* Naming conventions for programs, emails, and smart campaigns
+* Naming conventions for programs, emails, and Smart Campaigns
 * Required assets and structure (folders, tokens, reports)
 * Compliance requirements (unsubscribe links, UTM parameters, exclusion filters)
-* Best practices (email design, smart list configuration)
+* Best practices (email design, Smart List configuration)
 
 Every Marketo instance includes default Organizational Rules. You can customize them to reflect your organization's specific governance needs.
 
 ## Where Organizational Rules are used {#where-organizational-rules-are-used}
 
-Organizational Rules guide Coworker across three skills:
+Organizational Rules guide Coworker for Marketo Engage across three skills:
 
 | Skill | How rules are applied |
 | --- | --- |
-| Build Programs | Rules guide the creation of program structure, naming, and initial setup. Coworker flags any compliance issues in your brief before creating the program. |
-| Plan Campaigns | Rules inform how Coworker structures smart campaigns, filters, and flow steps based on your standards. |
-| Validate Programs | Rules define what Coworker checks when validating programs before activation. |
+| Build Programs | Rules guide the creation of program structure, naming, and initial setup. Coworker for Marketo Engage flags any compliance issues in your brief before creating the program. |
+| Plan Campaigns | Rules inform how Coworker for Marketo Engage structures Smart Campaigns, filters, and flow steps based on your standards. |
+| Validate Programs | Rules define what Coworker for Marketo Engage checks when validating programs before activation. |
 
 ## How to access and customize Organizational Rules {#how-to-access-and-customize-organizational-rules}
 
@@ -41,7 +41,7 @@ Organizational Rules guide Coworker across three skills:
    * Compliance and exclusion standards
 
 1. Update the version number when you make changes.
-1. Save your changes. All Coworker skills will use your customized rules immediately.
+1. Save your changes. All Coworker for Marketo Engage skills will use your customized rules immediately.
 
 ## Organizational Rules structure {#organizational-rules-structure}
 
@@ -49,7 +49,7 @@ Organizational Rules are formatted in markdown with YAML frontmatter:
 
 ```markdown
 ---
-name: Your Organization Name — Marketo Campaign Governance
+name: Your Organization Name - Marketo Campaign Governance
 version: 1.0
 enabled: true
 customized: true
@@ -79,7 +79,7 @@ customized: true
 
 # Email Compliance
 
-## ⚠️ REQUIRED Elements
+## Required Elements
 - Unsubscribe link in footer
 - Company name and physical address
 - All external links include UTM parameters
@@ -95,43 +95,43 @@ customized: true
 * **Keep rules focused**: Only include requirements that matter to your organization. Unnecessary rules create noise and reduce compliance scores unnecessarily.
 * **Use both automated and manual checks**:
 
-  * Automated checks — naming conventions, required folders, token usage (Coworker can verify these)
-  * Manual checks — email visual design, brand compliance, campaign logic (Coworker will flag these as manual review steps)
+  * Automated checks: naming conventions, required folders, token usage (Coworker for Marketo Engage can verify these)
+  * Manual checks: email visual design, brand compliance, campaign logic (Coworker for Marketo Engage will flag these as manual review steps)
 
 * **Balance strictness with flexibility**: Rules that are too strict may slow program creation. Rules that are too loose won't catch important compliance issues.
 * **Version your rules**: Update the version number when you make significant changes so your team knows governance standards have been updated.
 * **Communicate changes**: When you update Organizational Rules, let your marketing ops team know what changed and why.
 
-## What Coworker can and cannot validate {#what-coworker-can-and-cannot-validate}
+## What Coworker for Marketo Engage can and cannot validate {#what-coworker-can-and-cannot-validate}
 
-Coworker CAN validate (automated checks):
+Coworker for Marketo Engage CAN validate (automated checks):
 
 * Naming conventions match your patterns
 * Required folder structure exists
 * Required tokens are in place
 * Email has unsubscribe link and required footer elements
 * External links include UTM parameters
-* Smart campaign names follow conventions
+* Smart Campaign names follow conventions
 
-Coworker CANNOT validate (manual review required):
+Coworker for Marketo Engage CANNOT validate (manual review required):
 
-* Smart list filter logic (API limitation — you must configure filters manually)
-* Smart campaign flow step logic (API limitation — you must configure flows manually)
+* Smart List filter logic (API limitation: you must configure filters manually)
+* Smart Campaign flow step logic (API limitation: you must configure flows manually)
 * Email visual rendering and responsiveness (requires visual inspection)
 * Brand compliance and messaging tone (requires human judgment)
 * Dynamic content segmentation rules (API limitation)
 
-When Coworker encounters something it cannot validate, it flags it as a manual review step in the workflow.
+When Coworker for Marketo Engage encounters something it cannot validate, it flags it as a manual review step in the workflow.
 
 ## Compliance scoring {#compliance-scoring}
 
-When you use Validate Programs, Coworker calculates a compliance score based on:
+When you use Validate Programs, Coworker for Marketo Engage calculates a compliance score based on:
 
-* **Passed checks** — Coworker verified compliance and found no issues
-* **Failed checks** — Coworker found violations of your Organizational Rules
-* **Manual review steps** — Items that require human verification (these do NOT count against your score)
+* **Passed checks**: Coworker for Marketo Engage verified compliance and found no issues
+* **Failed checks**: Coworker for Marketo Engage found violations of your Organizational Rules
+* **Manual review steps**: Items that require human verification (these do NOT count against your score)
 
-A program can have 100% compliance and still require manual review steps — they are excluded from the score calculation.
+A program can have 100% compliance and still require manual review steps; they are excluded from the score calculation.
 
 ## Examples of Organizational Rules customization {#examples-of-organizational-rules-customization}
 
@@ -157,7 +157,7 @@ Use this if you want consistency on region codes but flexibility on the rest.
 **Example 3: Minimal rules (focus on compliance)**
 
 ```markdown
-# Email Compliance — REQUIRED
+# Email Compliance - REQUIRED
 
 - Unsubscribe link present
 - CAN-SPAM physical address in footer
@@ -168,9 +168,9 @@ Use this if your organization prioritizes compliance over naming/structure consi
 
 ## Troubleshooting {#troubleshooting}
 
-**Q: I updated Organizational Rules but Coworker is still using the old rules.**
+**Q: I updated Organizational Rules but Coworker for Marketo Engage is still using the old rules.**
 
-A: Changes take effect immediately for new programs and validations. If you're working on an existing program, refresh your browser or start a new Coworker workflow to see the updated rules.
+A: Changes take effect immediately for new programs and validations. If you're working on an existing program, refresh your browser or start a new Coworker for Marketo Engage workflow to see the updated rules.
 
 **Q: Can I revert to default rules?**
 
