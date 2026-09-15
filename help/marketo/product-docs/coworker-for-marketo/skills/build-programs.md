@@ -1,8 +1,6 @@
 ---
 description: Use Coworker for Marketo Engage to build a Marketo program from a plain-language brief. Get smart campaigns, scheduling, and asset placeholders ready to review and refine.
 title: Build programs
-badge: Beta
-hide: true
 ---
 # Build programs {#build-programs}
 
@@ -13,10 +11,6 @@ Describe a marketing campaign in plain language and Coworker for Marketo Engage 
 >* To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
 >
 >* You must have permission to create programs in your Marketo account.
-
->[!AVAILABILITY]
->
->This feature is currently in closed beta. Please do not disseminate this documentation.
 
 ## How to use {#how-to-use}
 
