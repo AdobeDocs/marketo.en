@@ -15,7 +15,7 @@ Organizational Rules are a markdown-based configuration document that captures y
 * Compliance requirements (unsubscribe links, UTM parameters, exclusion filters)
 * Best practices (email design, Smart List configuration)
 
-Every Marketo instance includes default Organizational Rules. You can customize them to reflect your organization's specific governance needs.
+Every Marketo Engage environment includes default Organizational Rules. You can customize them to reflect your organization's specific governance needs.
 
 ## Where Organizational Rules are used {#where-organizational-rules-are-used}
 
