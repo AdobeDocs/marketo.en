@@ -27,7 +27,7 @@ Browse our collection of example templates for use with the [Guided Landing Page
 
 ## How to import a template into Marketo Engage{#how-to-import}
 
-1. Click on the name of the desired template below to be taken to its dedicated page.
+1. Click on the name of the desired [template below](#all-templates) to be taken to its dedicated page.
 
 1. Right-click on "download Template" and select **Save Link As**. Save the file to the desired location on your computer. 
 
@@ -50,6 +50,10 @@ Browse our collection of example templates for use with the [Guided Landing Page
    ![](assets/guided-landing-page-template-list-6.png)
 
 1. Your template is now imported and ready for your edits.
+
+## All available templates {#all-templates}
+
+Browse the free template library.
 
 <table>
 <tr>
