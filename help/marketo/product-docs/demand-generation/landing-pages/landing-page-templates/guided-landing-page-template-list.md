@@ -29,7 +29,7 @@ Browse our collection of example templates for use with the [Guided Landing Page
 
 1. Click on the name of the desired [template below](#all-templates) to be taken to its dedicated page.
 
-1. Right-click on "download Template" and select **Save Link As**. Save the file to the desired location on your computer. 
+1. Right-click on "download Template" and select **Save link as...**. Save the file to the desired location on your computer. 
 
 1. In Marketo Engage, navigate to the **[!UICONTROL Design Studio]**.
 
@@ -45,7 +45,7 @@ Browse our collection of example templates for use with the [Guided Landing Page
 
    ![](assets/guided-landing-page-template-list-5.png)
 
-1. Choose the downloaded file and click **[!UICONTROL Create]** (selecting **Replace any existing template with this name** is optional).
+1. Choose the template file you downloaded and click **[!UICONTROL Create]** (selecting **Replace any existing template with this name** is optional).
 
    ![](assets/guided-landing-page-template-list-6.png)
 
