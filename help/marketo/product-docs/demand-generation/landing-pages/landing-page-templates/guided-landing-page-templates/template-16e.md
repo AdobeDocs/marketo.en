@@ -14,7 +14,11 @@ feature_v2:
 ---
 # Template 16-E {#template-16e}
 
-Right-click to [download Template 16-E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-16e.html)
+Right-click [download Template 16-E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-16e.html) and select **Save link as...**
+
+>[!NOTE]
+>
+>Complete steps on how to download and import a template [can be found here](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-8-14-13-3a27-3a39.png)
 
@@ -28,6 +32,6 @@ This template includes the following content:
 * Six body sections (optional)
 * Footer (optional)
 
-**Right-click below to download this template:**
+**Right-click below (and select _Save link as..._) to download this template:**
 
 [Template 16-E.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-16e.html)

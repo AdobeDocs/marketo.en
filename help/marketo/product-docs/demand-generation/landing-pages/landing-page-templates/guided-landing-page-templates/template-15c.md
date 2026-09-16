@@ -14,7 +14,11 @@ feature_v2:
 ---
 # Template 15C {#template-15c}
 
-Right-click to [download Template 15C](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-15c.html)
+Right-click [download Template 15C](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-15c.html) and select **Save link as...**
+
+>[!NOTE]
+>
+>Complete steps on how to download and import a template [can be found here](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-8-13-13-3a40-3a23.png)
 
@@ -27,6 +31,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-**Right-click below to download this template:**
+**Right-click below (and select _Save link as..._) to download this template:**
 
 [Template 15C.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-15c.html)
