@@ -14,7 +14,11 @@ feature_v2:
 ---
 # Template 3A {#template-3a}
 
-Right-click to [download Template 3A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-3a.html)
+Right-click [download Template 3A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-3a.html) and select **Save link as...**
+
+>[!NOTE]
+>
+>Complete steps on how to download and import a template [can be found here](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-6-12-9-3a2-3a8.png)
 
@@ -28,6 +32,6 @@ This template includes the following content:
 * Three body sections (optional)
 * Footer (optional)
 
-**Right-click below to download this template:**
+**Right-click below (and select _Save link as..._) to download this template:**
 
 [Template 3A.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-3a.html)

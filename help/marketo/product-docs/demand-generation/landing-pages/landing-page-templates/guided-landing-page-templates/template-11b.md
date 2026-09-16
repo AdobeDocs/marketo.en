@@ -14,7 +14,11 @@ feature_v2:
 ---
 # Template 11B {#template-11b}
 
-Right-click to [download Template 11B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-11b.html)
+Right-click [download Template 11B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-11b.html) and select **Save link as...**
+
+>[!NOTE]
+>
+>Complete steps on how to download and import a template [can be found here](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-8-4-11-3a2-3a54.png)
 
@@ -28,6 +32,6 @@ This template includes the following content:
 * Four body sections (optional)
 * Footer (optional)
 
-**Right-click below to download this template:**
+**Right-click below (and select _Save link as..._) to download this template:**
 
 [Template 11B.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-11b.html)

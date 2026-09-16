@@ -14,7 +14,11 @@ feature_v2:
 ---
 # Template 18D {#template-18d}
 
-Right-click to [download Template 18D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-18d.html)
+Right-click [download Template 18D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-18d.html) and select **Save link as...**
+
+>[!NOTE]
+>
+>Complete steps on how to download and import a template [can be found here](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-8-17-18-3a21-3a27.png)
 
@@ -28,6 +32,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-**Right-click below to download this template:**
+**Right-click below (and select _Save link as..._) to download this template:**
 
 [Template 18D.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-18d.html)

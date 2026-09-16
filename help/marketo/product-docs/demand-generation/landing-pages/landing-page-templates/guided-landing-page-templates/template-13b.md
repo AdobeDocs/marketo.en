@@ -14,7 +14,11 @@ feature_v2:
 ---
 # Template 13B {#template-13b}
 
-Right-click to [download Template 13B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-13b.html)
+Right-click [download Template 13B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-13b.html) and select **Save link as...**
+
+>[!NOTE]
+>
+>Complete steps on how to download and import a template [can be found here](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-8-11-10-3a48-3a42.png)
 
@@ -27,6 +31,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-**Right-click below to download this template:**
+**Right-click below (and select _Save link as..._) to download this template:**
 
 [Template 13B.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-13b.html)

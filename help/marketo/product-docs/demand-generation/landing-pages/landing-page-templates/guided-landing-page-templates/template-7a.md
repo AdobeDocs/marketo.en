@@ -14,7 +14,11 @@ feature_v2:
 ---
 # Template 7A {#template-7a}
 
-Right-click to [download Template 7A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-7a.html)
+Right-click [download Template 7A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-7a.html) and select **Save link as...**
+
+>[!NOTE]
+>
+>Complete steps on how to download and import a template [can be found here](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-7-29-14-3a22-3a54.png)
 
@@ -28,6 +32,6 @@ This template includes the following content:
 * Four body sections (optional)
 * A footer (optional)
 
-**Right-click below to download this template:**
+**Right-click below (and select _Save link as..._) to download this template:**
 
 [Template 7A.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-7a.html)

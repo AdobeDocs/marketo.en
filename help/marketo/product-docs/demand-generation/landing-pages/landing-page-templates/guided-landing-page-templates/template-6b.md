@@ -14,7 +14,11 @@ feature_v2:
 ---
 # Template 6B {#template-6b}
 
-Right-click to [download Template 6B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-6b.html)
+Right-click [download Template 6B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-6b.html) and select **Save link as...**
+
+>[!NOTE]
+>
+>Complete steps on how to download and import a template [can be found here](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-7-29-11-3a33-3a2.png)
 
@@ -27,6 +31,6 @@ This template includes the following content:
 * Four body sections (optional)
 * Footer (optional)
 
-**Right-click below to download this template:**
+**Right-click below (and select _Save link as..._) to download this template:**
 
 [Template 6B.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-6b.html)

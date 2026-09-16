@@ -25,15 +25,31 @@ Browse our collection of example templates for use with the [Guided Landing Page
 >
 >Marketo Support is not set up to assist with troubleshooting HTML. If you need assistance modifying any of these templates, please consult a web developer.
 
-To import a template into Marketo:
+## How to import a template into Marketo Engage{#how-to-import}
 
-1. Click on the name of the template for larger view.
-1. Download the template chosen.
-1. In Marketo, navigate to the **[!UICONTROL Design Studio]**.
-1. Click **[!UICONTROL Landing Pages]** in the left-hand tree, then select **[!UICONTROL Templates]**.
+1. Click on the name of the desired template below to be taken to its dedicated page.
 
-1. In the menu bar, click **[!UICONTROL Import Template]**.
-1. Choose the downloaded file, enter a template name, then click **[!UICONTROL Import]** (make sure to pick a descriptive name and indicate that editing mode is **[!UICONTROL Guided]**).
+1. Right-click on "download Template" and select **Save Link As**. Save the file to the desired location on your computer. 
+
+1. In Marketo Engage, navigate to the **[!UICONTROL Design Studio]**.
+
+1. Select **[!UICONTROL Landing Page Templates]**.
+
+   ![](assets/guided-landing-page-template-list-3.png)
+
+1. In the **[!UICONTROL Landing page template actions]** drop-down, select **[!UICONTROL New landing page template]**.
+
+   ![](assets/guided-landing-page-template-list-4.png)
+
+1. Give your template a name. In the Editing mode drop-down, select **[!UICONTROL Guided]**. Select the **[!UICONTROL Import template]** checkbox.
+
+   ![](assets/guided-landing-page-template-list-5.png)
+
+1. Choose the downloaded file and click **[!UICONTROL Create]** (selecting **Replace any existing template with this name** is optional).
+
+   ![](assets/guided-landing-page-template-list-6.png)
+
+1. Your template is now imported and ready for your edits.
 
 <table>
 <tr>

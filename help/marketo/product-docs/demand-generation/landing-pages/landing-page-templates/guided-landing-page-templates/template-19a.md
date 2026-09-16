@@ -14,7 +14,11 @@ feature_v2:
 ---
 # Template 19A {#template-19a}
 
-Right-click to [download Template 19A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-19a.html)
+Right-click [download Template 19A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-19a.html) and select **Save link as...**
+
+>[!NOTE]
+>
+>Complete steps on how to download and import a template [can be found here](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-9-16-16-3a46-3a31.png)
 
@@ -27,6 +31,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer
 
-**Right-click below to download this template:**
+**Right-click below (and select _Save link as..._) to download this template:**
 
 [Template 19A.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-19a.html)
