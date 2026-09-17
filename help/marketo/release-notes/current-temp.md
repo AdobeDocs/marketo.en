@@ -79,6 +79,16 @@ The following features fall under the standard release cycle and will start to b
    <td><i>Coming soon</i></td>
    <td><i>Coming soon</i></td>
   </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Tables</strong>: You can now drag and drop the content type "table" into your email, with the ability to set the number of columns and rows.</td>
+   <td><i>Coming soon</i></td>
+   <td><i>Coming soon</i></td>
+  </tr>
   </tbody>
 </table>
 <br/>
