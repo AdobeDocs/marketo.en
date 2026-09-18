@@ -483,12 +483,12 @@ nudge: toc-retry
   + Coworker for Marketo Engage {#coworker-for-marketo}
     + [Overview](product-docs/coworker-for-marketo/overview.md)
     + [Settings and Setup](product-docs/coworker-for-marketo/settings-setup.md)
-    + {hide-from-toc} [Organizational rules](product-docs/coworker-for-marketo/organizational-rules.md)
+    + [Organizational rules](product-docs/coworker-for-marketo/organizational-rules.md)
     + [Coworker for Marketo Engage data information sheet](product-docs/coworker-for-marketo/data-information.md)
     + Skills {#skills}
       + [Product knowledge](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc} [Surface insights](product-docs/coworker-for-marketo/skills/surface-insights.md)
-      + {hide-from-toc} [Build programs](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + [Build programs](product-docs/coworker-for-marketo/skills/build-programs.md)
       + {hide-from-toc} [Clone program](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [Investigate leads](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Import leads](product-docs/coworker-for-marketo/skills/import-leads.md)
