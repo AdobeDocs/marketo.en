@@ -25,10 +25,6 @@ Sometimes, you want to give API access only to a specific IP address or a range 
 >
 >**Admin Permissions Required**
 
->[!CAUTION]
->
->Enabling this feature prevents you from being able to access the [Marketo MCP Server](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"} at this time. This is expected to be resolved in an upcoming release.
-
 1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
