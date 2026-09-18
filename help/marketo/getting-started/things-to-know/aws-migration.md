@@ -221,7 +221,7 @@ If for some reason a migration is unsuccessful, you will be notified and we will
    <i>AB08</i></td>
    <td>5 p.m. PDT<br>
    <i>6 p.m. PDT</i></td>
-   <td>On schedule<br>
+   <td>Completed<br>
    <i>Postponed (date TBD)</i></td>
   </tr>
   <tr>
