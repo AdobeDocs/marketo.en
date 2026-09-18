@@ -17,6 +17,7 @@ feature: Release Information
 * [March '26](previous-releases/2026/release-notes-mar-26.md)
 * [May '26](previous-releases/2026/release-notes-may-26.md)
 * [July '26](previous-releases/2026/release-notes-july-26.md)
+* [August '26](previous-releases/2026/release-notes-aug-26.md)
 
 ## 2025
 
