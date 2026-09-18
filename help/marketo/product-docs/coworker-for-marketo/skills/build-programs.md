@@ -6,6 +6,8 @@ title: Build programs
 
 Describe a marketing campaign in plain language and Coworker for Marketo Engage adapts an existing program template to match your needs, automatically updating email content and creating additional assets by duplicating your template structure.
 
+Your organization's [Organizational Rules](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"} guide how Coworker for Marketo Engage structures and validates the program during creation. These rules ensure the new program aligns with your naming conventions, required tokens, folder structure, and compliance standards.
+
 >[!PREREQUISITES]
 >
 >* To use this feature you must first agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contact the Adobe Account Team (your account manager) for details.
