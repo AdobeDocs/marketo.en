@@ -199,21 +199,15 @@ If for some reason a migration is unsuccessful, you will be notified and we will
   </tr>
   <tr>
    <td>September 10, 2026</td>
-   <td>AB03<br>
-   <i>AB04</i></td>
-   <td>5 p.m. PDT<br>
-   <i>6 p.m. PDT</i></td>
-   <td>Completed<br>
-   <i>Postponed (date TBD)</i></td>
+   <td>AB03</td>
+   <td>5 p.m. PDT</td>
+   <td>Completed</td>
   </tr>
   <tr>
    <td>September 15, 2026</td>
-   <td>AB05<br>
-   <i>AB06</i></td>
-   <td>5 p.m. PDT<br>
-   <i>6 p.m. PDT</i></td>
-   <td>Completed<br>
-   <i>Postponed (date TBD)</i></td>
+   <td>AB05</td>
+   <td>5 p.m. PDT</td>
+   <td>Completed</td>
   </tr>
   <tr>
    <td>September 17, 2026</td>
@@ -227,19 +221,19 @@ If for some reason a migration is unsuccessful, you will be notified and we will
   <tr>
    <td>September 22, 2026</td>
    <td>AB09<br>
-   AB12</td>
+   <i>AB12</i></td>
    <td>5 p.m. PDT<br>
-   6 p.m. PDT</td>
+   <i>6 p.m. PDT</i></td>
    <td>On schedule<br>
-   On schedule</td>
+   <i>Postponed (date TBD)</i></td>
   </tr>
   <tr>
    <td>September 25, 2026</td>
-   <td>AB10<br>
+   <td><i>AB10</i><br>
    AB11</td>
-   <td>4 p.m. PDT<br>
+   <td><i>4 p.m. PDT</i><br>
    5 p.m. PDT</td>
-   <td>On schedule<br>
+   <td><i>Postponed (date TBD)</i><br>
    On schedule</td>
   </tr>
   <tr>
