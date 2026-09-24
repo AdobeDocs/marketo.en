@@ -47,7 +47,6 @@ The following features fall under the standard release cycle and will start to b
    <td><i>Coming soon</i></td>
    <td><i>Coming soon</i></td>
   </tr>
-  </tr>
   </tbody>
 </table>
 <br/>
