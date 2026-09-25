@@ -276,11 +276,22 @@ If for some reason a migration is unsuccessful, you will be notified and we will
    On schedule</td>
   </tr>
    <tr>
-   <td>October 30, 2026<br> 
-   (rescheduled from Oct 6)</td>
-   <td>AB18</td>
-   <td>5 p.m. PDT</td>
-   <td>On schedule</td>
+   <td>October 21, 2026</td>
+   <td>AB36<br>
+   AB38</td>
+   <td>5 p.m. PDT<br>
+   6 p.m. PDT</td>
+   <td>On schedule<br>
+   On schedule</td>
+  </tr>
+  <tr>
+   <td>October 22, 2026</td>
+   <td>AB51<br>
+   AB52</td>
+   <td>5 p.m. PDT<br>
+   6 p.m. PDT</td>
+   <td>On schedule<br>
+   On schedule</td>
   </tr>
   </body>
 </table>
