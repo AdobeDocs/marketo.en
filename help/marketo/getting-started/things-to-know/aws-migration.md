@@ -231,7 +231,7 @@ If for some reason a migration is unsuccessful, you will be notified and we will
    <td><i>4 p.m. PDT</i><br>
    5 p.m. PDT</td>
    <td><i>Postponed (date TBD)</i><br>
-   On schedule</td>
+   Completed</td>
   </tr>
   <tr>
    <td>September 29, 2026</td>
