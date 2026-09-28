@@ -13,7 +13,7 @@ feature_v2:
 ---
 # Marketo Engage Icon Glossary {#icon-glossary}
 
-Below are the icons for the current Adobe Marketo Engage interface. If you need to reference the Marketo Classic icons, they can be [found here](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Below are the icons for the current Adobe Marketo Engage interface.
 
 ## General Icons {#general-icons}
 
