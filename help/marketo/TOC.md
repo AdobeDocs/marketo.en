@@ -26,7 +26,7 @@ nudge: toc-retry
   + Things to Know {#things-to-know}
     + [Marketo Engage glossary](getting-started/things-to-know/marketo-engage-glossary.md)
     + [Icon glossary](getting-started/things-to-know/icon-glossary.md)
-    + [Classic icon glossary](getting-started/things-to-know/classic-icon-glossary.md)
+    + {hide-from-toc} [Classic icon glossary](getting-started/things-to-know/classic-icon-glossary.md)
     + [Help center](getting-started/things-to-know/help-center.md)
     + [Subscribe to system status notifications](getting-started/things-to-know/system-status-notifications.md)
     + [AWS Migration](getting-started/things-to-know/aws-migration.md)
