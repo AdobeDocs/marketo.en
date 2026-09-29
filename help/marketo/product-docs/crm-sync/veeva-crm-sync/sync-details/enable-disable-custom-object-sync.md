@@ -44,7 +44,7 @@ Custom Objects created in your [!DNL Veeva] CRM instance can be part of Marketo 
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
-Select the object you wish to sync and click **[!UICONTROL Enable Sync]**.
+1. Select the object you wish to sync and click **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-5.png)
 

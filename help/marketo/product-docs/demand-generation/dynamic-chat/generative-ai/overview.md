@@ -40,9 +40,9 @@ Typically to get the full context of a visitor conversation, you must scroll thr
 
    ![](assets/generative-ai-overview-4.png)
 
-   >[!NOTE]
-   >
-   >A Conversation Summary is generated for both live and automated chats.
+>[!NOTE]
+>
+>A Conversation Summary is generated for both live and automated chats.
 
 ## Question generation {#question-generation}
 

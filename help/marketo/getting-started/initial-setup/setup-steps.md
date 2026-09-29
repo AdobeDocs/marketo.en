@@ -41,9 +41,9 @@ Some steps require help from your IT team.
 
 ## Ensure Email Deliverability {#ensure-email-deliverability}
 
-   >[!NOTE]
-   >
-   >Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with an IT setup instructions document during your kickoff call.
+>[!NOTE]
+>
+>Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with an IT setup instructions document during your kickoff call.
 
 There are several measures you can take to ensure that the emails reach as many of your people as possible.
 
@@ -63,9 +63,9 @@ Choose a CNAME for email tracking links (choose one that is _different_ from the
 
 The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will need to give it to IT.
 
-   >[!CAUTION]
-   >
-   >Email and Landing Page CNAMEs must be different. Also, avoid CNAMEs like 'track' or 'link.' It is often flagged as spam
+>[!CAUTION]
+>
+>Email and Landing Page CNAMEs must be different. Also, avoid CNAMEs like 'track' or 'link.' It is often flagged as spam.
 
    To find your Marketo tracking link, go to the **[!UICONTROL Admin]** area.
 
@@ -91,13 +91,13 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
 ## Customize Your Landing Page URLs with a CNAME {#customize-your-landing-page-urls-with-a-cname}
 
-   >[!NOTE]
-   >
-   >Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with an IT setup instructions document during your kickoff call.
+>[!NOTE]
+>
+>Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with an IT setup instructions document during your kickoff call.
 
-   >[!NOTE]
-   >
-   >**Admin Permissions Required**
+>[!NOTE]
+>
+>**Admin Permissions Required**
 
    Choose a CNAME for your landing pages. Some examples:
 
@@ -105,9 +105,9 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
     * **www2**.[CompanyDomain].com
     * **lp**.[CompanyDomain].com
 
-   >[!TIP]
-   >
-   >Keep it short! Shorter URLs are easier to remember. We suggest "go" as the domain.
+>[!TIP]
+>
+>Keep it short! Shorter URLs are easier to remember. We suggest "go" as the domain.
 
    The first part (in bold) is the `[LandingPageCNAME]`. You'll need it in Step 5.
 
@@ -129,9 +129,9 @@ Configure your domain settings so landing pages use your company's domain instea
 
 ## Ask IT to Configure Protocols {#ask-it-to-configure-protocols}
 
-   >[!NOTE]
-   >
-   >Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with an IT setup instructions document during your kickoff call.
+>[!NOTE]
+>
+>Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with an IT setup instructions document during your kickoff call.
 
    Once you have collected all the necessary information, you are ready to send a request to IT. You can use the text below as a template, replacing the bold text with your own information.
 
@@ -139,9 +139,9 @@ Configure your domain settings so landing pages use your company's domain instea
 
    Paste this text into the email, and replace the bolded placeholders:
 
-   >[!NOTE]
-   >
-   >See Steps 3 and 4 above to determine the text to replace the placeholders. Remember that `[LandingPageCNAME]` and `[EmailTrackingCNAME]` must be different.
+>[!NOTE]
+>
+>See Steps 3 and 4 above to determine the text to replace the placeholders. Remember that `[LandingPageCNAME]` and `[EmailTrackingCNAME]` must be different.
 
 `----------------------------------------------`
 
@@ -170,9 +170,9 @@ Configure your domain settings so landing pages use your company's domain instea
 
       94.236.119.0/26
 
-   >[!NOTE]
-   >
-   >Reach out to Adobe Support if you'd like an abbreviated list of IPs to allowlist specific to your environment.
+>[!NOTE]
+>
+>Reach out to Adobe Support if you'd like an abbreviated list of IPs to allowlist specific to your environment.
 
     * If our anti-spam system uses From domains, add these:
 

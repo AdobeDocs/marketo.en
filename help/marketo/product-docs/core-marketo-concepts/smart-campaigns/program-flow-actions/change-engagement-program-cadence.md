@@ -18,9 +18,9 @@ Once a person is being nurtured by an engagement program, you can temporarily pa
 
    ![](assets/change-engagement-program-cadence-1.png)
 
-   >[!NOTE]
-   >
-   >If a person is not a member of the program and runs through this flow step, they will automatically be added as a member and into your first stream.
+>[!NOTE]
+>
+>If a person is not a member of the program and runs through this flow step, they will automatically be added as a member and into your first stream.
 
 1. Select the engagement program.
 

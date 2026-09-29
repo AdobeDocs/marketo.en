@@ -71,9 +71,9 @@ The What's New tab contains the details of Marketo Engage's latest release.
 
    ![](assets/help-center-7.png)
 
-   >[!TIP]
-   >
-   >Click the arrow icon at the bottom to view the page in Experience League.
+>[!TIP]
+>
+>Click the arrow icon at the bottom to view the page in Experience League.
 
 #### Resources {#resources}
 

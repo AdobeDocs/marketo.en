@@ -16,9 +16,9 @@ feature_v2:
 
 There are many ways to get a person into Marketo Engage. To create one manually, follow the steps below.
 
-   >[!CAUTION]
-   >
-   >Marketo does not support email addresses that contain emojis.
+>[!CAUTION]
+>
+>Marketo does not support email addresses that contain emojis.
 
 1. Go to the **[!UICONTROL Database]**.
 

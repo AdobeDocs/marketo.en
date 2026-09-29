@@ -94,15 +94,15 @@ Perform the following steps for each of the three custom fields to add them. Sta
  </tbody>
 </table>
 
-   >[!NOTE]
-   >
-   >[!DNL Salesforce] appends __c to Field Names when it uses them to create API Names.
+>[!NOTE]
+>
+>[!DNL Salesforce] appends __c to Field Names when it uses them to create API Names.
 
    ![](assets/image2016-5-26-14-3a55-3a33.png)
 
-   >[!NOTE]
-   >
-   >Text and number fields require a length, but Date/Time fields don't. A description is optional.
+>[!NOTE]
+>
+>Text and number fields require a length, but Date/Time fields don't. A description is optional.
 
 1. Click **[!UICONTROL Next]**.
 

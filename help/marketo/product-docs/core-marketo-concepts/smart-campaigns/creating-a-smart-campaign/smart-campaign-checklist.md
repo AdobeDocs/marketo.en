@@ -22,15 +22,15 @@ Follow the below steps to ensure smooth running of the Smart Campaign and preven
 
    ![](assets/smart-campaign-checklist-1.png)
 
-   >[!TIP]
-   >
-   >Red squiggly lines indicate errors or missing information. If not corrected, the campaign will be invalid and won't run.
-   >
-   >Also, keep things simple. If you have dozens or hundreds of filters, it is hard to maintain it and keep track. Fewer filters are also faster to load.
+>[!TIP]
+>
+>Red squiggly lines indicate errors or missing information. If not corrected, the campaign will be invalid and won't run.
+>
+>Also, keep things simple. If you have dozens or hundreds of filters, it is hard to maintain it and keep track. Fewer filters are also faster to load.
 
-   >[!NOTE]
-   >
-   >Using **[!UICONTROL Member of Smart List]** could have errors in that other list. Check there too.
+>[!NOTE]
+>
+>Using **[!UICONTROL Member of Smart List]** could have errors in that other list. Check there too.
 
 ## Get Rid of Flow Errors {#get-rid-of-flow-errors}
 
@@ -38,9 +38,9 @@ In your Smart Campaign, click **[!UICONTROL Flow]**. Get rid of any red squiggly
 
    ![](assets/smart-campaign-checklist-2.png)
 
-   >[!TIP]
-   >
-   >Hover over the red squiggly line to see details of the error.
+>[!TIP]
+>
+>Hover over the red squiggly line to see details of the error.
 
 ## Review the Schedule Tab {#review-the-schedule-tab}
 
@@ -54,9 +54,9 @@ In the **[!UICONTROL Schedule]** tab, confirm the number of qualified people doe
 
    ![](assets/smart-campaign-checklist-4.png)
 
-   >[!TIP]
-   >
-   >If required, you can [override person restrictions in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>[!TIP]
+>
+>If required, you can [override person restrictions in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >

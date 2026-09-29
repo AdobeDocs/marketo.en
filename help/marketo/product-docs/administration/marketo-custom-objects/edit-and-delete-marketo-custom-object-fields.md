@@ -57,6 +57,6 @@ The field is deleted.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 
-   >[!NOTE]
-   >
-   >[Add Marketo Custom Object Fields](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>[!NOTE]
+>
+>[Add Marketo Custom Object Fields](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
