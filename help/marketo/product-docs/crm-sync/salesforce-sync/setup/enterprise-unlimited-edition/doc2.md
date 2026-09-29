@@ -115,9 +115,9 @@ In this article, you will set up user permissions in Salesforce profile, and cre
 
 ## Create Marketo-Salesforce Sync Account {#create-marketo-salesforce-sync-account}
 
-   >[!TIP]
-   >
-   >Create a dedicated Salesforce account (e.g., `marketo@yourcompany.com`) to distinguish the changes made by Marketo versus other Salesforce users.
+>[!TIP]
+>
+>Create a dedicated Salesforce account (e.g., `marketo@yourcompany.com`) to distinguish the changes made by Marketo versus other Salesforce users.
 
 1. Type "Manage users" into the Nav search bar, then click on Users. Click New User.
 

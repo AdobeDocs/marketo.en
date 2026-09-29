@@ -24,9 +24,9 @@ subfeature_v2:
 
 Dynamic Chat allows you to leverage an intuitive interface to target both people and accounts visiting your website. Collect relevant content such as name, contact information, and free text. Site visitors can also chat with a live agent and even book meetings with your Sales Team. Dynamic Chat activity and engagement data can be used to add members to Marketo programs and trigger cross-channel activities.
 
-   >[!TIP]
-   >
-   >Visit [this page](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} to view tutorial videos of Dynamic Chat.
+>[!TIP]
+>
+>Visit [this page](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} to view tutorial videos of Dynamic Chat.
 
 ## Integrations {#integrations}
 

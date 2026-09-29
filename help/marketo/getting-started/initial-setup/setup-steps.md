@@ -41,9 +41,9 @@ Some steps require help from your IT team.
 
 ## Ensure Email Deliverability {#ensure-email-deliverability}
 
-   >[!NOTE]
-   >
-   >Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with an IT setup instructions document during your kickoff call.
+>[!NOTE]
+>
+>Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with an IT setup instructions document during your kickoff call.
 
 There are several measures you can take to ensure that the emails reach as many of your people as possible.
 
@@ -63,156 +63,156 @@ Choose a CNAME for email tracking links (choose one that is _different_ from the
 
 The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will need to give it to IT.
 
-   >[!CAUTION]
-   >
-   >Email and Landing Page CNAMEs must be different. Also, avoid CNAMEs like 'track' or 'link.' It is often flagged as spam
+>[!CAUTION]
+>
+>Email and Landing Page CNAMEs must be different. Also, avoid CNAMEs like 'track' or 'link.' It is often flagged as spam
 
-   To find your Marketo tracking link, go to the **[!UICONTROL Admin]** area.
+To find your Marketo tracking link, go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/setup-steps-1.png)
+![](assets/setup-steps-1.png)
 
-   Click **[!UICONTROL Email]**.
+Click **[!UICONTROL Email]**.
 
-   ![](assets/setup-steps-2.png)
+![](assets/setup-steps-2.png)
 
-   Copy the [!UICONTROL Tracking Link] from your email settings.
+Copy the [!UICONTROL Tracking Link] from your email settings.
 
-   The [!UICONTROL Tracking Link] is in the form: `mkto-[a-z][4 digits].com`.
+The [!UICONTROL Tracking Link] is in the form: `mkto-[a-z][4 digits].com`.
 
-   ![](assets/setup-steps-3.png)
+![](assets/setup-steps-3.png)
 
-   This is your `[MktoTrackingLink]`. Save it. You'll need to give it to IT in Step 5.
+This is your `[MktoTrackingLink]`. Save it. You'll need to give it to IT in Step 5.
 
-   Collect "From" domains. Make a list of all the "From" domains (as in, `[Sender]@[FromDomain].com`) that you plan to use for sending emails from Marketo. For most, there is just one.
+Collect "From" domains. Make a list of all the "From" domains (as in, `[Sender]@[FromDomain].com`) that you plan to use for sending emails from Marketo. For most, there is just one.
 
-   For example, 'marketo.com,' 'info.marketo.com,'. These are `[FromDomain1]`,`[FromDomain2]`, etc. Save them. You'll need to give them to IT in Step 5.
+For example, 'marketo.com,' 'info.marketo.com,'. These are `[FromDomain1]`,`[FromDomain2]`, etc. Save them. You'll need to give them to IT in Step 5.
 
-   You now have all the information you need to send your request to IT!
+You now have all the information you need to send your request to IT!
 
 ## Customize Your Landing Page URLs with a CNAME {#customize-your-landing-page-urls-with-a-cname}
 
-   >[!NOTE]
-   >
-   >Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with an IT setup instructions document during your kickoff call.
+>[!NOTE]
+>
+>Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with an IT setup instructions document during your kickoff call.
 
-   >[!NOTE]
-   >
-   >**Admin Permissions Required**
+>[!NOTE]
+>
+>**Admin Permissions Required**
 
-   Choose a CNAME for your landing pages. Some examples:
+Choose a CNAME for your landing pages. Some examples:
 
-    * **go**.[CompanyDomain].com
-    * **www2**.[CompanyDomain].com
-    * **lp**.[CompanyDomain].com
+   * **go**.[CompanyDomain].com
+   * **www2**.[CompanyDomain].com
+   * **lp**.[CompanyDomain].com
 
-   >[!TIP]
-   >
-   >Keep it short! Shorter URLs are easier to remember. We suggest "go" as the domain.
+>[!TIP]
+>
+>Keep it short! Shorter URLs are easier to remember. We suggest "go" as the domain.
 
-   The first part (in bold) is the `[LandingPageCNAME]`. You'll need it in Step 5.
+The first part (in bold) is the `[LandingPageCNAME]`. You'll need it in Step 5.
 
-   To retrieve the Munchkin ID that you'll be replacing with your landing page CNAME, go to the **Admin** area.
+To retrieve the Munchkin ID that you'll be replacing with your landing page CNAME, go to the **Admin** area.
 
-   ![](assets/setup-steps-4.png)
+![](assets/setup-steps-4.png)
 
-   Click **My Account**.
+Click **My Account**.
 
-   ![](assets/setup-steps-5.png)
+![](assets/setup-steps-5.png)
 
-   Copy the [!UICONTROL Account String] from landing page settings.
+Copy the [!UICONTROL Account String] from landing page settings.
 
-   ![](assets/setup-steps-6.png)
+![](assets/setup-steps-6.png)
 
-   This is the `[Munchkin ID]`. Save it. You'll need to give it to IT in Step 5.
+This is the `[Munchkin ID]`. Save it. You'll need to give it to IT in Step 5.
 
 Configure your domain settings so landing pages use your company's domain instead of Marketo's (where they are hosted).
 
 ## Ask IT to Configure Protocols {#ask-it-to-configure-protocols}
 
-   >[!NOTE]
-   >
-   >Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with an IT setup instructions document during your kickoff call.
+>[!NOTE]
+>
+>Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with an IT setup instructions document during your kickoff call.
 
-   Once you have collected all the necessary information, you are ready to send a request to IT. You can use the text below as a template, replacing the bold text with your own information.
+Once you have collected all the necessary information, you are ready to send a request to IT. You can use the text below as a template, replacing the bold text with your own information.
 
-   [Include a link to this article](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
+[Include a link to this article](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
 
-   Paste this text into the email, and replace the bolded placeholders:
+Paste this text into the email, and replace the bolded placeholders:
 
-   >[!NOTE]
-   >
-   >See Steps 3 and 4 above to determine the text to replace the placeholders. Remember that `[LandingPageCNAME]` and `[EmailTrackingCNAME]` must be different.
-
-`----------------------------------------------`
-
-   Dear IT Administrator,
-
-   Our Marketing Team is now using the Marketo platform to communicate with our people. To ensure great email deliverability, we need to make the following changes:
-
-   `1)` For our landing pages, add a DNS Entry (CNAME) for **[LandingPageCNAME]**.**[CompanyDomain]**.com, pointing to **[Munchkin ID]**.mktoweb.com.
-
-   `2)` For our tracking links in email, add a DNS Entry (CNAME) for **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, pointing to **[MktoTrackingLink]**.
-
-   `3)` Allowlist Marketo.
-
-    * If we use IP addresses in our Email Allowlist, add the IPs listed below:
-      199.15.212.0/22
-
-      192.28.144.0/20
-
-      192.28.160.0/19
-
-      185.28.196.0/22
-
-      130.248.172.0/24
-
-      130.248.173.0/24
-
-      94.236.119.0/26
-
-   >[!NOTE]
-   >
-   >Reach out to Adobe Support if you'd like an abbreviated list of IPs to allowlist specific to your environment.
-
-    * If our anti-spam system uses From domains, add these:
-
-   **`[FromDomain1]`**
-   **`[FromDomain2]`**
-
-   `4)` We need to set up SPF and DKIM so Marketo is authorized to send signed emails on our behalf.
-
-   `a.` To set up SPF, please add following line to our DNS entries:
-
-   IN  TXT **[From Domain]**:  v=spf1 mx ip4:**[Corporate IP(s)]**
-   <br/>include: mktomail.com ~all
-
-   If we already have an existing SPF record in our DNS entry, simply add the following to it:
-
-   include:mktomail.com
-
-   `[`Replace **From Domain** with your Email From Domain (ex: company.com) and **CorpIP** with the IP address of your corporate email server (ex: 255.255.255.255).  If you are going to be sending email from multiple domains through Marketo, you should have your IT staff add this line for each domain (on one line).`]`
-
-   `b.` For DKIM, please create DNS Resource Records for each domain we'd like to setup. Below are the Host Records and TXT Values for each domain we'll be signing for:
-
-   **`[DKIMDomain1]`**: Host Record is **`[HostRecord1]`** and the TXT Value is **`[TXTValue1]`**.
-
-   **`[DKIMDomain2]`**: Host Record is **`[HostRecord2]`** and the TXT Value is **`[TXTValue2]`**.
-
-   `[`Copy the **HostRecord** and **TXTValue** for each **DKIMDomain** you've setup after following the [instructions here](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Don't forget to verify each domain in **Admin > Email > DKIM** after your IT staff has completed this step.`]`
-
-   `5)` We need to ensure there is a valid MX record for our FROM domains **`[FromDomain1]`**, **`[FromDomain2]`**, etc. Can you confirm? If not, please configure to map to our corporate domain MX record. This will ensure we can process replies/autoresponders to our Marketo mailings.
-
-   Let me know when you have completed these steps, so that I can complete the setup process with Marketo.
-
-   Thank you! You're the best!
-
-   Regards,
-
-   **`[Your Name]`**
+>[!NOTE]
+>
+>See Steps 3 and 4 above to determine the text to replace the placeholders. Remember that `[LandingPageCNAME]` and `[EmailTrackingCNAME]` must be different.
 
 `----------------------------------------------`
 
-   Send the email to IT. We understand it can take some time for IT to complete these tasks. You can continue on to the next step, but remember that you must return to this step to complete your Marketo Engage setup.
+Dear IT Administrator,
+
+Our Marketing Team is now using the Marketo platform to communicate with our people. To ensure great email deliverability, we need to make the following changes:
+
+`1)` For our landing pages, add a DNS Entry (CNAME) for **[LandingPageCNAME]**.**[CompanyDomain]**.com, pointing to **[Munchkin ID]**.mktoweb.com.
+
+`2)` For our tracking links in email, add a DNS Entry (CNAME) for **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, pointing to **[MktoTrackingLink]**.
+
+`3)` Allowlist Marketo.
+
+* If we use IP addresses in our Email Allowlist, add the IPs listed below:
+199.15.212.0/22
+
+192.28.144.0/20
+
+192.28.160.0/19
+
+185.28.196.0/22
+
+130.248.172.0/24
+
+130.248.173.0/24
+
+94.236.119.0/26
+
+>[!NOTE]
+>
+>Reach out to Adobe Support if you'd like an abbreviated list of IPs to allowlist specific to your environment.
+
+   * If our anti-spam system uses From domains, add these:
+
+**`[FromDomain1]`**
+**`[FromDomain2]`**
+
+`4)` We need to set up SPF and DKIM so Marketo is authorized to send signed emails on our behalf.
+
+`a.` To set up SPF, please add following line to our DNS entries:
+
+IN  TXT **[From Domain]**:  v=spf1 mx ip4:**[Corporate IP(s)]**
+<br/>include: mktomail.com ~all
+
+If we already have an existing SPF record in our DNS entry, simply add the following to it:
+
+include:mktomail.com
+
+`[`Replace **From Domain** with your Email From Domain (ex: company.com) and **CorpIP** with the IP address of your corporate email server (ex: 255.255.255.255).  If you are going to be sending email from multiple domains through Marketo, you should have your IT staff add this line for each domain (on one line).`]`
+
+`b.` For DKIM, please create DNS Resource Records for each domain we'd like to setup. Below are the Host Records and TXT Values for each domain we'll be signing for:
+
+**`[DKIMDomain1]`**: Host Record is **`[HostRecord1]`** and the TXT Value is **`[TXTValue1]`**.
+
+**`[DKIMDomain2]`**: Host Record is **`[HostRecord2]`** and the TXT Value is **`[TXTValue2]`**.
+
+`[`Copy the **HostRecord** and **TXTValue** for each **DKIMDomain** you've setup after following the [instructions here](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Don't forget to verify each domain in **Admin > Email > DKIM** after your IT staff has completed this step.`]`
+
+`5)` We need to ensure there is a valid MX record for our FROM domains **`[FromDomain1]`**, **`[FromDomain2]`**, etc. Can you confirm? If not, please configure to map to our corporate domain MX record. This will ensure we can process replies/autoresponders to our Marketo mailings.
+
+Let me know when you have completed these steps, so that I can complete the setup process with Marketo.
+
+Thank you! You're the best!
+
+Regards,
+
+**`[Your Name]`**
+
+`----------------------------------------------`
+
+Send the email to IT. We understand it can take some time for IT to complete these tasks. You can continue on to the next step, but remember that you must return to this step to complete your Marketo Engage setup.
 
 ## Complete Your Marketo Setup After IT Finishes {#complete-your-marketo-setup-after-it-finishes}
 

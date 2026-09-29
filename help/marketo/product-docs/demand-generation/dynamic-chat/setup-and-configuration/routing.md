@@ -66,11 +66,11 @@ In this example, all meetings from the inferred states of CA, OR, and WA are rou
 
 Identify and upload your target account and respective sales owners and route visitors coming from those accounts directly to the respective account owner.
 
-   ![](assets/routing-9.png)
+![](assets/routing-9.png)
 
-   >[!PREREQUISITES]
-   >
-   >Before _Account Routing_ is visible in Dynamic Chat, permissions must be enabled in the Admin Console. See [Enable Permissions](#enable-permissions) below.
+>[!PREREQUISITES]
+>
+>Before _Account Routing_ is visible in Dynamic Chat, permissions must be enabled in the Admin Console. See [Enable Permissions](#enable-permissions) below.
 
 ### Enable Permissions {#enable-permissions}
 

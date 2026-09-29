@@ -19,9 +19,9 @@ subfeature_v2:
 
 Learn how to view the results of your Smart Campaign.
 
-   >[!TIP]
-   >
-   >You can see the list of people who were processed by the Smart Campaign by clicking [View Campaign Members](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}.
+>[!TIP]
+>
+>You can see the list of people who were processed by the Smart Campaign by clicking [View Campaign Members](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}.
 
 1. In your Smart Campaign, click **[!UICONTROL Results]**.
 

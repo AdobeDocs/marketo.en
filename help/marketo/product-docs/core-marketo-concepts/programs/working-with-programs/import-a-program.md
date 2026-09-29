@@ -87,9 +87,9 @@ A program can be imported from one Marketo Engage subscription to another. For i
 
 An email confirmation is sent once the import has finished.
 
-   >[!NOTE]
-   >
-   >You'll need to reschedule imported batch campaigns and activate trigger campaigns. The system automatically deactivates campaign schedules and trigger campaigns in the imported program.
+>[!NOTE]
+>
+>You'll need to reschedule imported batch campaigns and activate trigger campaigns. The system automatically deactivates campaign schedules and trigger campaigns in the imported program.
 
 ## Impact on External Assets During Program Imports {#impact-on-external-assets-during-program-imports}
 

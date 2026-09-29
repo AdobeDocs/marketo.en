@@ -47,13 +47,13 @@ Check out how your email program (with or without an A/B test) is performing wit
 
 ## Email Program View {#email-program-view}
 
-   Alternatively, if you did not add an A/B test _or_ if the test is over, the following should be displayed:
+Alternatively, if you did not add an A/B test _or_ if the test is over, the following should be displayed:
 
-   ![](assets/image2014-9-12-14-3a3-3a3.png)
+![](assets/image2014-9-12-14-3a3-3a3.png)
 
-   >[!TIP]
-   >
-   >Experiment by hovering your cursor over the chart widgets. It will show you additional information.
+>[!TIP]
+>
+>Experiment by hovering your cursor over the chart widgets. It will show you additional information.
 
 >[!MORELIKETHIS]
 >

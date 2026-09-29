@@ -47,7 +47,7 @@ PICC
 
 1. Click the Workspaces drop-down and choose the workspace that contains the campaign you want the group added to.
 
-PICC
+   PICC
 
    >[!NOTE]
    >
@@ -81,7 +81,7 @@ PICC
 
 1. Select **[!UICONTROL Marketing Campaign]**.
 
-PICC
+   PICC
 
    >[!NOTE]
    >
@@ -89,7 +89,7 @@ PICC
 
 1. Click the Workspaces drop-down and choose the workspace that contains the campaign you want the group added to.
 
-PICC
+   PICC
 
    >[!NOTE]
    >

@@ -44,11 +44,11 @@ Backlog is observed at a particular 4-hour time interval on the x-axis. This val
 
 The statistics reflect the throughput and backlog status for every object type under sync for the last 24 hours. The object types include all objects under sync, including: Lead, Contact, Account, Opportunity, Campaign, User and Custom Objects. The throughput statistics is auto refreshed every 15 minutes, but you can refresh manually using the refresh icon. The backlog is fetched every hour.
 
-   >[!NOTE]
-   >
-   >Statistics are updated on a rolling basis, not by calendar day.
+>[!NOTE]
+>
+>Statistics are updated on a rolling basis, not by calendar day.
 
-   ![](assets/salesforce-sync-backlog-metrics-4.png)
+![](assets/salesforce-sync-backlog-metrics-4.png)
 
 <table><thead>
   <tr>
@@ -88,7 +88,8 @@ The statistics reflect the throughput and backlog status for every object type u
     <td>Backlog Status</td>
     <td>This shows whether the backlog has grown in the last 6 hours. It is inferred as 'Growing' if the current backlog is greater than the backlog recorded 6 hours ago. Otherwise, it is shown as 'Normal.' This is aimed at showing if the sync throughput is catching up with the backlog.</td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## What causes sync backlogs {#what-causes-sync-backlogs}
 

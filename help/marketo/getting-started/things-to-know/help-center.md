@@ -69,17 +69,17 @@ Guides serve as quick walkthroughs for popular features.
 
 The What's New tab contains the details of Marketo Engage's latest release.
 
-   ![](assets/help-center-7.png)
+![](assets/help-center-7.png)
 
-   >[!TIP]
-   >
-   >Click the arrow icon at the bottom to view the page in Experience League.
+>[!TIP]
+>
+>Click the arrow icon at the bottom to view the page in Experience League.
 
 #### Resources {#resources}
 
 The Resources tab gives you quick and direct access to various ways you can get additional help with your Marketo Engage instance.
 
-   ![](assets/help-center-8.png)
+![](assets/help-center-8.png)
 
 ### Post-Adobe IMS Migration {#post-adobe-ims-integration}
 
@@ -87,20 +87,20 @@ These steps are for Marketo Engage users who have already been migrated to [Adob
 
 [Log in](https://experience.adobe.com/){target="_blank"} to Marketo Engage and click the Help icon.
 
-   ![](assets/help-center-9.png)
+![](assets/help-center-9.png)
 
 The Help Center appears. Click on any of the help resources listed to be taken to its respective area. You can also search for specific terms.
 
-   ![](assets/help-center-10.png)
+![](assets/help-center-10.png)
 
 Guides (formerly part of the Help Center pre-Adobe IMS migration) are now in the left navigation area.
 
-   ![](assets/help-center-11.png)
+![](assets/help-center-11.png)
 
 The Guide Center has two tabs, Guides and What's New. Guides serve as quick walkthroughs for popular features in Marketo Engage. Click on a desired Guide, or search for a specific one.
 
-   ![](assets/help-center-12.png)
+![](assets/help-center-12.png)
 
 The What's New tab contains the details of Marketo Engage's latest release.
 
-   ![](assets/help-center-13.png)
+![](assets/help-center-13.png)

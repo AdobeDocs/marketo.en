@@ -77,7 +77,7 @@ A web campaign is a customized reaction associated with a specific segment and c
   </tr>
   <tr>
    <td colspan="1"><strong>Sticky</strong></td>
-   <td colspan="1">Selecting this assures the widget will appear on all the web pages throughout the visitor’s session.</td>
+   <td colspan="1">Selecting this assures the widget will appear on all the web pages throughout the visitor's session.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Minimize Widget on Campaign Display</strong></td>
@@ -99,29 +99,29 @@ A web campaign is a customized reaction associated with a specific segment and c
  </tbody>
 </table>
 
-   >[!NOTE]
-   >
-   >**Want to A/B test your web campaigns?** One or more web campaigns can be [A/B tested for optimal results](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). With the [!UICONTROL Auto Tune] feature, the platform automatically recognizes the better performing campaigns, continues with the highest converting campaigns and pauses the other ones.
+>[!NOTE]
+>
+>**Want to A/B test your web campaigns?** One or more web campaigns can be [A/B tested for optimal results](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). With the [!UICONTROL Auto Tune] feature, the platform automatically recognizes the better performing campaigns, continues with the highest converting campaigns and pauses the other ones.
 
 ## Edit a Web Campaign {#edit-a-web-campaign}
 
-   From the [!UICONTROL Web Campaigns] page, click **[!UICONTROL Edit]** on the Campaign.
+From the [!UICONTROL Web Campaigns] page, click **[!UICONTROL Edit]** on the Campaign.
 
-   ![](assets/image2016-11-4-13-3a2-3a20.png)
+![](assets/image2016-11-4-13-3a2-3a20.png)
 
-   >[!NOTE]
-   >
-   >To make it easier to find the campaign you want, use the [filter feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+>[!NOTE]
+>
+>To make it easier to find the campaign you want, use the [filter feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 ## Clone a Web Campaign {#clone-a-web-campaign}
 
-   See [Clone a Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
+See [Clone a Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
 ## Preview a Web Campaign {#preview-a-web-campaign}
 
-   From the [!UICONTROL Web Campaigns] page, click **[!UICONTROL Preview]** on the web campaign you wish to preview
+From the [!UICONTROL Web Campaigns] page, click **[!UICONTROL Preview]** on the web campaign you wish to preview
 
-   ![](assets/widget-campaign-preview-hand.png)
+![](assets/widget-campaign-preview-hand.png)
 
 ## Delete a Web Campaign {#delete-a-web-campaign}
 

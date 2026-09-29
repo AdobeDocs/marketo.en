@@ -21,9 +21,9 @@ topic_v2:
 
 Access a form's embed code to host it on your own website.
 
-   >[!PREREQUISITES]
-   >
-   >The form must be approved for the embed code to be available.
+>[!PREREQUISITES]
+>
+>The form must be approved for the embed code to be available.
 
 1. Find and select the desired form.
 

@@ -48,9 +48,9 @@ Marketo Engage automatically de-duplicates when new people enter the system. How
 
 ## Merge People Manually {#merge-people-manually}
 
-   >[!CAUTION]
-   >
-   >When merging people, if the losing person has a Marketo custom object, it will _not_ get re-associated to the winning person. Re-parent the custom object prior to performing the merge.
+>[!CAUTION]
+>
+>When merging people, if the losing person has a Marketo custom object, it will _not_ get re-associated to the winning person. Re-parent the custom object prior to performing the merge.
 
 1. Select the duplicates by holding Ctrl/Cmd and clicking, then click **[!UICONTROL Merge People]**.
 

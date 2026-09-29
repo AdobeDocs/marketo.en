@@ -18,45 +18,45 @@ Follow the below steps to ensure smooth running of the Smart Campaign and preven
 
 ## Get Rid of Smart List Errors {#get-rid-of-smart-list-errors}
 
-   In your Smart Campaign, click on **[!UICONTROL Smart List]**. Get rid of any red squiggly lines that you see by fixing the errors.
+In your Smart Campaign, click on **[!UICONTROL Smart List]**. Get rid of any red squiggly lines that you see by fixing the errors.
 
-   ![](assets/smart-campaign-checklist-1.png)
+![](assets/smart-campaign-checklist-1.png)
 
-   >[!TIP]
-   >
-   >Red squiggly lines indicate errors or missing information. If not corrected, the campaign will be invalid and won't run.
-   >
-   >Also, keep things simple. If you have dozens or hundreds of filters, it is hard to maintain it and keep track. Fewer filters are also faster to load.
+>[!TIP]
+>
+>Red squiggly lines indicate errors or missing information. If not corrected, the campaign will be invalid and won't run.
+>
+>Also, keep things simple. If you have dozens or hundreds of filters, it is hard to maintain it and keep track. Fewer filters are also faster to load.
 
-   >[!NOTE]
-   >
-   >Using **[!UICONTROL Member of Smart List]** could have errors in that other list. Check there too.
+>[!NOTE]
+>
+>Using **[!UICONTROL Member of Smart List]** could have errors in that other list. Check there too.
 
 ## Get Rid of Flow Errors {#get-rid-of-flow-errors}
 
 In your Smart Campaign, click **[!UICONTROL Flow]**. Get rid of any red squiggly lines you see by fixing the errors.
 
-   ![](assets/smart-campaign-checklist-2.png)
+![](assets/smart-campaign-checklist-2.png)
 
-   >[!TIP]
-   >
-   >Hover over the red squiggly line to see details of the error.
+>[!TIP]
+>
+>Hover over the red squiggly line to see details of the error.
 
 ## Review the Schedule Tab {#review-the-schedule-tab}
 
 In the **[!UICONTROL Schedule]** tab, check **[!UICONTROL Smart List Status]** for any errors in the Smart Campaign that needs fixing.
 
-   ![](assets/smart-campaign-checklist-3.png)
+![](assets/smart-campaign-checklist-3.png)
 
 ## Check Person Restrictions Limit {#check-person-restrictions-limit}
 
 In the **[!UICONTROL Schedule]** tab, confirm the number of qualified people does not exceed the person restriction limit.
 
-   ![](assets/smart-campaign-checklist-4.png)
+![](assets/smart-campaign-checklist-4.png)
 
-   >[!TIP]
-   >
-   >If required, you can [override person restrictions in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>[!TIP]
+>
+>If required, you can [override person restrictions in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >

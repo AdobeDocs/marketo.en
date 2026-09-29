@@ -80,6 +80,6 @@ Adding people to your Blocklist prevents them from receiving your correspondence
 
 These people will no longer receive emails.
 
-   >[!TIP]
-   >
-   >Create a [Trigger Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} using **Change Data Value** with **Block Listed is true** for all people in the future that have blocklist-able attributes.
+>[!TIP]
+>
+>Create a [Trigger Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} using **Change Data Value** with **Block Listed is true** for all people in the future that have blocklist-able attributes.

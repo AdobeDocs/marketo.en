@@ -133,8 +133,8 @@ After a live chat ends, click the **Download transcript** button the bottom of t
 
 Conversation Summary generates a quick summary for you in real-time, including topics the visitor has expressed interest in. It is available in the bottom-right of every chat screen.
 
-   ![](assets/agent-inbox-18.png)
+![](assets/agent-inbox-18.png)
 
-   >[!NOTE]
-   >
-   >A completed Conversation Summary can also be found in the activity log of the visitor's Person Record in your Marketo Engage Database.
+>[!NOTE]
+>
+>A completed Conversation Summary can also be found in the activity log of the visitor's Person Record in your Marketo Engage Database.

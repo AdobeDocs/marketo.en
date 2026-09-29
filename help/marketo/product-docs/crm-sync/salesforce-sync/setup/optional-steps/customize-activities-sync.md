@@ -96,10 +96,10 @@ If you don't use Marketo Sales Insight, Marketo Engage can create Salesforce Act
  </tbody>
 </table>
 
-   >[!NOTE]
-   >
-   >"Sales email received" does _not_ mean delivered. Delivered status is not captured for emails sent via Sales Insight.
+>[!NOTE]
+>
+>"Sales email received" does _not_ mean delivered. Delivered status is not captured for emails sent via Sales Insight.
 
-   >[!TIP]
-   >
-   >If you are interested in getting more Marketo information into Salesforce, check out our [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} product.
+>[!TIP]
+>
+>If you are interested in getting more Marketo information into Salesforce, check out our [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} product.

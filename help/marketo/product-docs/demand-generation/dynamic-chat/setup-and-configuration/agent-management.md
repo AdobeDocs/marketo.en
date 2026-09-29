@@ -24,11 +24,11 @@ In Agent Management, view a list of agents in your Dynamic Chat instance, manage
 
 This tab lists all of the agents in your Dynamic Chat instance, and includes such information as their name, email address, live chat status, and more.
 
-   ![](assets/agent-management-2.png){width="800" zoomable="yes"}
+![](assets/agent-management-2.png){width="800" zoomable="yes"}
 
-   >[!NOTE]
-   >
-   >If a recently added agent does not appear here, it could take up to two hours after adding them in the Adobe Admin console.
+>[!NOTE]
+>
+>If a recently added agent does not appear here, it could take up to two hours after adding them in the Adobe Admin console.
 
 ## Teams {#teams}
 
@@ -38,7 +38,7 @@ Admins can create teams of agents to facilitate ease of routing to specific grou
 >
 >Access to Teams requires a Dynamic Chat Prime subscription. Contact the Adobe Account Team (your Account Manager) for details.
 
-   ![](assets/agent-management-3.png)
+![](assets/agent-management-3.png)
 
 ### Create a Team {#create-a-team}
 
