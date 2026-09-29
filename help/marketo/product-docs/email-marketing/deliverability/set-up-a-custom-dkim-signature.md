@@ -16,9 +16,9 @@ topic_v2:
 
 To ensure optimal deliverability, Marketo automatically signs all outbound mail with a shared DKIM signature.
 
-   >[!NOTE]
-   >
-   >You may need the help of your IT team to complete some of the steps in this article.
+>[!NOTE]
+>
+>You may need the help of your IT team to complete some of the steps in this article.
 
 You can personalize the DKIM signature to reflect the domain(s) of your choice.
 

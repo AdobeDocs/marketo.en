@@ -33,11 +33,11 @@ Landing Pages are in draft mode until you approve them. Approval makes pages ava
 
 You can also right-click your Landing Page in the left nav and select **[!UICONTROL Approve]**.
 
-   ![](assets/approve-unapprove-or-delete-a-landing-page-2.png)
+![](assets/approve-unapprove-or-delete-a-landing-page-2.png)
 
-   >[!NOTE]
-   >
-   >An approved Landing Page has a green checkmark added to it.
+>[!NOTE]
+>
+>An approved Landing Page has a green checkmark added to it.
 
 ## Unapprove a Landing Page {#unapprove-a-landing-page}
 

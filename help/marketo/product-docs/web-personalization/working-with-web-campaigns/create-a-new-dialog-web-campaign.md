@@ -69,7 +69,7 @@ A web campaign is a customized reaction associated with a specific segment. The 
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p><strong>By Coordinates</strong></p><p><br></p></td>
-   <td colspan="1" rowspan="1">For additional positioning options of the dialog box, select the checkbox ‘Position Coordinates’ and enter the exact screen coordinates (Horizontal, Vertical) where you would like the dialog to appear.</td>
+   <td colspan="1" rowspan="1">For additional positioning options of the dialog box, select the checkbox 'Position Coordinates' and enter the exact screen coordinates (Horizontal, Vertical) where you would like the dialog to appear.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Button Fill</strong></td>
@@ -132,9 +132,9 @@ A web campaign is a customized reaction associated with a specific segment. The 
  </tbody>
 </table>
 
-   >[!TIP]
-   >
-   >Speed up and simplify your campaign creation process by using our [built in templates](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) or by [saving your existing campaign](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) as a template for reuse.
+>[!TIP]
+>
+>Speed up and simplify your campaign creation process by using our [built in templates](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) or by [saving your existing campaign](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) as a template for reuse.
 
 ## Edit a Web Campaign {#edit-a-web-campaign}
 

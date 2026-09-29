@@ -69,13 +69,13 @@ The root block element setting defines which tags wrap your content. By default,
  </tbody>
 </table>
 
-   >[!TIP]
-   >
-   >You can also change the Landing Page Editor's root block element by following the same steps, but clicking the **[!UICONTROL Landing Page Editor]** drop-down in Step 4 instead of [!UICONTROL Email] / [!UICONTROL Snippet Editor].
+>[!TIP]
+>
+>You can also change the Landing Page Editor's root block element by following the same steps, but clicking the **[!UICONTROL Landing Page Editor]** drop-down in Step 4 instead of [!UICONTROL Email] / [!UICONTROL Snippet Editor].
 
-   >[!NOTE]
-   >
-   >The root block element is always `<p>` for rich-text program tokens.
+>[!NOTE]
+>
+>The root block element is always `<p>` for rich-text program tokens.
 
 ## Features {#features}
 

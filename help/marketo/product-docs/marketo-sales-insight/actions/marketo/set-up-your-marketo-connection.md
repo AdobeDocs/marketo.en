@@ -31,9 +31,9 @@ PICC
 
 PICC
 
-   >[!NOTE]
-   >
-   >When you copy and paste the above info, make sure no spaces get added.
+>[!NOTE]
+>
+>When you copy and paste the above info, make sure no spaces get added.
 
 ## Connect [!DNL Sales Connect] to Marketo {#connect-sales-connect-to-marketo}
 

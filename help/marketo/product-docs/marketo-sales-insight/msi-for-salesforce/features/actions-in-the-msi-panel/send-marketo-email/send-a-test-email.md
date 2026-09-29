@@ -33,6 +33,6 @@ Before sending an email, you can test the email format and tokens by sending a t
 
 You'll receive an email with token values populated for the leads you chose.
 
-   >[!NOTE]
-   >
-   >Don’t worry, you'll remain on the "[!UICONTROL Send Marketo Email]" page even after sending the test email, so you won’t lose the email you’ve created.
+>[!NOTE]
+>
+>Don't worry, you'll remain on the "[!UICONTROL Send Marketo Email]" page even after sending the test email, so you won't lose the email you've created.

@@ -141,7 +141,7 @@ The data unification field sync for Sales Insight Actions enables the system to 
 
    ![](assets/msi-actions-admin-guide-13.png)
 
-Person records that exist in Marketo and [!DNL Salesforce] will be synced to your Marketo Sales Apps account.
+   Person records that exist in Marketo and [!DNL Salesforce] will be synced to your Marketo Sales Apps account.
 
    >[!NOTE]
    >

@@ -48,11 +48,11 @@ The Anchor allows your site visitor to open/close the chatbox. You can choose wh
 
 In Bot Settings, you can add a label to your chatbox (ex: "Adobe Assistant") that will appear at the top of it. You can also determine the response delay (in seconds), and change your chat avatar. To upload your own avatar image, click the **+** button.
 
-   ![](assets/configuration-5.png)
+![](assets/configuration-5.png)
 
-   >[!NOTE]
-   >
-   >Custom avatars should be square images less than 256kb and smaller than 200x200 px. Supported file types include: .jpg, .png, .gif, .webp, .svg.
+>[!NOTE]
+>
+>Custom avatars should be square images less than 256kb and smaller than 200x200 px. Supported file types include: .jpg, .png, .gif, .webp, .svg.
 
 **New message notification sound**
 
@@ -62,27 +62,27 @@ Click the drop-down to select a sound for the visitor each time the chatbot is t
 
 Select the slider to enable "Poke," which displays the opening question next to the chat icon without the visitor having to click on it to see it, for visitors chatting in from a mobile device.
 
-   ![](assets/configuration-6.png)
+![](assets/configuration-6.png)
 
-   >[!NOTE]
-   >
-   >Poke is only available on the first [card](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"} in the conversation.
+>[!NOTE]
+>
+>Poke is only available on the first [card](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"} in the conversation.
 
 When you are done making changes, remember to click **Save**.
 
-   ![](assets/configuration-7.png)
+![](assets/configuration-7.png)
 
 ## Privacy Tab {#privacy-tab}
 
 Click the **Privacy** tab to add/edit the URL of your site's privacy policy (optional).
 
-   ![](assets/configuration-8.png)
+![](assets/configuration-8.png)
 
 ## Installation Tab {#installation-tab}
 
 In order for the chatbot to show up on your website, you'll first need to install the Dynamic Chat JavaScript snippet. Click this tab to find/copy the necessary code. If you are not familiar with this operation, contact your web team or IT department for assistance.
 
-   ![](assets/configuration-9.png)
+![](assets/configuration-9.png)
 
 >[!TIP]
 >

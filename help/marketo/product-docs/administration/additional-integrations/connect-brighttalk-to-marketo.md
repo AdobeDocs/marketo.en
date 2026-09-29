@@ -35,9 +35,9 @@ Learn how to connect your [!DNL BrightTALK] channel to your Marketo instance. In
 
 ## Steps in Marketo {#steps-in-marketo}
 
-   >[!NOTE]
-   >
-   >At this point you are required to set up an [!DNL API Only User Role] and [!DNL API User] in order to restrict what permissions [!DNL BrightTALK] will have in your Marketo instance. Articles are available for those steps.
+>[!NOTE]
+>
+>At this point you are required to set up an [!DNL API Only User Role] and [!DNL API User] in order to restrict what permissions [!DNL BrightTALK] will have in your Marketo instance. Articles are available for those steps.
 
 1. Create an [API Only User Role](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}.
 

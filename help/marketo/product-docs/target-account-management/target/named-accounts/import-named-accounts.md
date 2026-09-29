@@ -99,8 +99,8 @@ Scenarios when you dedupe [!UICONTROL by Account Name]:
  </tbody>
 </table>
 
-   >[!NOTE]
-   >
-   >When Marketo appends a named account, we are updating a rule (behind the scenes) that allows us to identify people that should be a part of the [!UICONTROL Named Account]. Example: if you update "IBM" to "IBM, USA," people with either company name will be associated to the [!UICONTROL Named Account].
+>[!NOTE]
+>
+>When Marketo appends a named account, we are updating a rule (behind the scenes) that allows us to identify people that should be a part of the [!UICONTROL Named Account]. Example: if you update "IBM" to "IBM, USA," people with either company name will be associated to the [!UICONTROL Named Account].
 
-   If Marketo finds records that we see as duplicates, we will only process the first one.
+If Marketo finds records that we see as duplicates, we will only process the first one.

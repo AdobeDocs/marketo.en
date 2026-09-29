@@ -82,21 +82,21 @@ Subscriptions are workspace specific. For example, this list of subscriptions is
 
 ## Email Message {#email-message}
 
-   Recipients will receive an email with an option to download the report, as well as a link directly to the list within the Marketo instance. The download link expires in four days.
+Recipients will receive an email with an option to download the report, as well as a link directly to the list within the Marketo instance. The download link expires in four days.
 
-   >[!NOTE]
-   >
-   >If the [Secure Subscription Admin](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) setting is set to **[!UICONTROL Yes]**, only people with access to the Marketo instance will be able to download the report.
+>[!NOTE]
+>
+>If the [Secure Subscription Admin](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) setting is set to **[!UICONTROL Yes]**, only people with access to the Marketo instance will be able to download the report.
 
-   ![](assets/image2015-4-17-15-3a46-3a47.png)
+![](assets/image2015-4-17-15-3a46-3a47.png)
 
-   If a report has 0 people in it, recipients will still receive an email. However, the email simply states that there are no people to report.
+If a report has 0 people in it, recipients will still receive an email. However, the email simply states that there are no people to report.
 
-   ![](assets/image2015-4-17-16-3a11-3a8.png)
+![](assets/image2015-4-17-16-3a11-3a8.png)
 
-   >[!NOTE]
-   >
-   >When you modify a smart list filter you've based a subscription on, it updates the report as well.
+>[!NOTE]
+>
+>When you modify a smart list filter you've based a subscription on, it updates the report as well.
 
 The email also provides additional information about the filters used to create the list.
 
