@@ -103,11 +103,11 @@ If you haven't received an invite email, ask your Marketo administrator to invit
   </tr>
 </tbody></table>
 
-   *[!DNL Office] 365 version: [!DNL Windows] client only (on [!DNL Windows] 10, [!DNL Enterprise] or [!DNL Pro]).
+*[!DNL Office] 365 version: [!DNL Windows] client only (on [!DNL Windows] 10, [!DNL Enterprise] or [!DNL Pro]).
 
-   >[!IMPORTANT]
-   >
-   >Microsoft has released a [new version of Outlook for Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+>[!IMPORTANT]
+>
+>Microsoft has released a [new version of Outlook for Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 ## Copy Your Registration Code {#copy-your-registration-code}
 

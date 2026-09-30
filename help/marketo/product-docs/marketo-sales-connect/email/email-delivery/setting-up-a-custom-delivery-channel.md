@@ -65,9 +65,9 @@ Users can set up a custom SMTP server for their own individual usage, or Admins 
 
 ## Team SMTP Server {#team-smtp-server}
 
-   >[!NOTE]
-   >
-   >**Admin Permissions Required**
+>[!NOTE]
+>
+>**Admin Permissions Required**
 
 1. Log in to the [web application](https://toutapp.com/login), click the gear icon on the top right and choose **[!UICONTROL Settings]**.
 

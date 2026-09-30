@@ -26,9 +26,9 @@ SCREENSHOT
 
 SCREENSHOT
 
-   >[!NOTE]
-   >
-   >Only repositories that have been associated in the same IMS org as your Marketo Engage subscription are listed.
+>[!NOTE]
+>
+>Only repositories that have been associated in the same IMS org as your Marketo Engage subscription are listed.
 
 1. You must add a [service credential certificate](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) to configure the repository. Click the **+ Add certificate** button.
 

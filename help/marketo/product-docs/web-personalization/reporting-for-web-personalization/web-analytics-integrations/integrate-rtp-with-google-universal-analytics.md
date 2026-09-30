@@ -33,7 +33,7 @@ This post explains how to set up and integrate the [!DNL Marketo Real-Time Perso
 
 **[!DNL Google Universal Analytics]**
 
-[!DNL Google Universal Analytics] with RTP’s data provides you a better understanding of how B2B users interact with your online content and help measure and get better results from your personalization campaigns. [Read more about [!DNL Google Universal Analytics]](https://support.google.com/analytics/answer/2790010/?hl=en&authuser=1).
+[!DNL Google Universal Analytics] with RTP's data provides you a better understanding of how B2B users interact with your online content and help measure and get better results from your personalization campaigns. [Read more about [!DNL Google Universal Analytics]](https://support.google.com/analytics/answer/2790010/?hl=en&authuser=1).
 
 >[!NOTE]
 >
@@ -93,9 +93,9 @@ This post explains how to set up and integrate the [!DNL Marketo Real-Time Perso
  </tbody>
 </table>
 
-   >[!NOTE]
-   >
-   >**Custom Dimension Names** must be exactly as defined in the table above (otherwise custom RTP dashboards and reports in GUA won’t display correctly)
+>[!NOTE]
+>
+>**Custom Dimension Names** must be exactly as defined in the table above (otherwise custom RTP dashboards and reports in GUA won't display correctly)
 
 1. Add the **[!UICONTROL Name]**. Select the Scope as **[!UICONTROL Session]**. Click **[!UICONTROL Create]**.
 

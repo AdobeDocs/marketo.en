@@ -48,7 +48,7 @@ The statistics reflect the throughput and backlog status for every object type u
 >
 >Statistics are updated on a rolling basis, not by calendar day.
 
-   ![](assets/salesforce-sync-backlog-metrics-4.png)
+![](assets/salesforce-sync-backlog-metrics-4.png)
 
 <table><thead>
   <tr>
@@ -88,7 +88,8 @@ The statistics reflect the throughput and backlog status for every object type u
     <td>Backlog Status</td>
     <td>This shows whether the backlog has grown in the last 6 hours. It is inferred as 'Growing' if the current backlog is greater than the backlog recorded 6 hours ago. Otherwise, it is shown as 'Normal.' This is aimed at showing if the sync throughput is catching up with the backlog.</td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## What causes sync backlogs {#what-causes-sync-backlogs}
 

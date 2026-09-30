@@ -51,48 +51,48 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
 1. Enter the [!UICONTROL Field Label], [!UICONTROL Length], and [!UICONTROL Field Name] for the field, as shown in the table below.
 
-<table>
- <thead>
-  <tr>
-   <th>
-    <div>
-      Field Label
-    </div></th>
-   <th>
-    <div>
-      Field Name
-    </div></th>
-   <th>
-    <div>
-      Data Type
-    </div></th>
-   <th>
-    <div>
-      Field Attributes
-    </div></th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>Score</td>
-   <td>mkto71_Lead_Score</td>
-   <td>Number</td>
-   <td>Length 10<br>Decimal Places 0 </td>
-  </tr>
-  <tr>
-   <td>Acquisition Date</td>
-   <td>mkto71_Acquisition_Date</td>
-   <td>Date/Time</td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td>Acquisition Program</td>
-   <td>mkto71_Acquisition_Program</td>
-   <td>Text</td>
-   <td>Length 255</td>
-  </tr>
- </tbody>
-</table>
+   <table>
+   <thead>
+   <tr>
+      <th>
+      <div>
+         Field Label
+      </div></th>
+      <th>
+      <div>
+         Field Name
+      </div></th>
+      <th>
+      <div>
+         Data Type
+      </div></th>
+      <th>
+      <div>
+         Field Attributes
+      </div></th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+      <td>Score</td>
+      <td>mkto71_Lead_Score</td>
+      <td>Number</td>
+      <td>Length 10<br>Decimal Places 0 </td>
+   </tr>
+   <tr>
+      <td>Acquisition Date</td>
+      <td>mkto71_Acquisition_Date</td>
+      <td>Date/Time</td>
+      <td> </td>
+   </tr>
+   <tr>
+      <td>Acquisition Program</td>
+      <td>mkto71_Acquisition_Program</td>
+      <td>Text</td>
+      <td>Length 255</td>
+   </tr>
+   </tbody>
+   </table>
 
 >[!NOTE]
 >

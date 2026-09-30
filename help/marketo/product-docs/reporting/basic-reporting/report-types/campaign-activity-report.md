@@ -33,11 +33,11 @@ See how your [Smart Campaigns](/help/marketo/product-docs/core-marketo-concepts/
 >
 >All [Executable Campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"} show up as "inactive triggered campaigns" in campaign activity reports.
 
-   ![](assets/campaign-activity-report-1.png)
+![](assets/campaign-activity-report-1.png)
 
-   >[!TIP]
-   >
-   >To find the campaigns that processed the most people, for example, [sort your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} on _Total People Processed_ and choose **Sort Descending**.
+>[!TIP]
+>
+>To find the campaigns that processed the most people, for example, [sort your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} on _Total People Processed_ and choose **Sort Descending**.
 
 **[Columns you can select](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for a Campaign Activity report include**:
 

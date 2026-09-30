@@ -43,7 +43,7 @@ Following these steps will allow the Marketo sync user to update the custom fiel
 
 1. Click and drag a new **[!UICONTROL Section]** into the page layout.
 
-1. Enter “Marketo” for **[!UICONTROL Section Name]** and click **[!UICONTROL OK]**.
+1. Enter "Marketo" for **[!UICONTROL Section Name]** and click **[!UICONTROL OK]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-4.png)
 
@@ -83,7 +83,7 @@ Following these steps will allow the Marketo sync user to update the custom fiel
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-7.png)
 
-1. Type “profiles” into the Nav search bar and click the **[!UICONTROL Profiles]** link.
+1. Type "profiles" into the Nav search bar and click the **[!UICONTROL Profiles]** link.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-8.png)
 
@@ -91,7 +91,7 @@ Following these steps will allow the Marketo sync user to update the custom fiel
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-9.png)
 
-1. Select **[!UICONTROL Standard User]**, name the profile “[!UICONTROL Marketo-Salesforce Sync]” and click **[!UICONTROL Save]**.
+1. Select **[!UICONTROL Standard User]**, name the profile "[!UICONTROL Marketo-Salesforce Sync]" and click **[!UICONTROL Save]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-10.png)
 
@@ -184,7 +184,7 @@ Marketo requires credentials to access [!DNL Veeva] CRM. This is best done with 
 >
 >If your organization has no additional [!DNL Veeva] CRM licenses, you can use an existing Marketing user with the System Administrator profile.
 
-1. Enter “users” in the Nav search bar, and click **[!UICONTROL Users]** under [!UICONTROL Manage Users].
+1. Enter "users" in the Nav search bar, and click **[!UICONTROL Users]** under [!UICONTROL Manage Users].
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-20.png)
 

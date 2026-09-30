@@ -25,23 +25,23 @@ To see how well your emails are performing with stats like delivered, opened, cl
 1. [Change the Report Time Frame](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the **[!UICONTROL Report]** tab.
 1. You are there! Now explore the report to see how your email(s) performed.
 
-   >[!NOTE]
-   >
-   >The Sent Date filter is based on the first date that the email was sent.
+>[!NOTE]
+>
+>The Sent Date filter is based on the first date that the email was sent.
 
-   ![](assets/email-performance-report.png)
+![](assets/email-performance-report.png)
 
-   >[!TIP]
-   >
-   >Click the name of an email to open it in the Email Previewer.
+>[!TIP]
+>
+>Click the name of an email to open it in the Email Previewer.
 
-   >[!NOTE]
-   >
-   >An email performance report includes activities for all people, including those that have been deleted since the email was sent. Sometimes, you want to see activities only for active people. In that case, you need to filter deleted people out of your report. Use the **[!UICONTROL Smart List]** tab to [create a smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) for the report. If you aren't filtering on any specific field, set the Email Address filter to: **[!UICONTROL is not empty]**.
+>[!NOTE]
+>
+>An email performance report includes activities for all people, including those that have been deleted since the email was sent. Sometimes, you want to see activities only for active people. In that case, you need to filter deleted people out of your report. Use the **[!UICONTROL Smart List]** tab to [create a smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) for the report. If you aren't filtering on any specific field, set the Email Address filter to: **[!UICONTROL is not empty]**.
 
-   [Select Report Columns](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for an Email Performance report include:
+[Select Report Columns](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for an Email Performance report include:
 
-   <table><thead>
+<table><thead>
 
   <tr>
     <th>Column</th>
@@ -74,9 +74,9 @@ To see how well your emails are performing with stats like delivered, opened, cl
   </tr>
 </tbody></table>
 
-   >[!NOTE]
-   >
-   >Unsubscribe links and email addresses being clicked in an email won't register under Clicked Links in the report.
+>[!NOTE]
+>
+>Unsubscribe links and email addresses being clicked in an email won't register under Clicked Links in the report.
 
 In general, we try to use common sense to record these statistics. For example, if someone clicked a link in an email, they obviously opened the email first. We follow these specific rules for the Email Performance Report:
 

@@ -16,7 +16,7 @@ subfeature_v2:
 ---
 # Enable/Disable Custom Object Sync {#enable-disable-custom-object-sync}
 
-Custom Objects created in your [!DNL Veeva] CRM instance can be part of Marketo Engage, too. Here’s how to set it up.
+Custom Objects created in your [!DNL Veeva] CRM instance can be part of Marketo Engage, too. Here's how to set it up.
 
 ## Enable or Disable the Custom Object Sync {#enable-or-disable-the-custom-object-sync}
 
@@ -74,7 +74,7 @@ Custom Objects created in your [!DNL Veeva] CRM instance can be part of Marketo 
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-You can now use this custom object’s data in [!UICONTROL Smart Campaigns] and [!UICONTROL Smart Lists].
+You can now use this custom object's data in [!UICONTROL Smart Campaigns] and [!UICONTROL Smart Lists].
 
 >[!MORELIKETHIS]
 >

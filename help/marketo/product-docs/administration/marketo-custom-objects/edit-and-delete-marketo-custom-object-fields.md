@@ -55,7 +55,7 @@ When a field in a custom object is no longer needed, you can delete it.
 
 The field is deleted.
 
-   ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
+![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 
 >[!NOTE]
 >

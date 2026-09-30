@@ -18,9 +18,9 @@ Follow the below steps to ensure smooth running of the Smart Campaign and preven
 
 ## Get Rid of Smart List Errors {#get-rid-of-smart-list-errors}
 
-   In your Smart Campaign, click on **[!UICONTROL Smart List]**. Get rid of any red squiggly lines that you see by fixing the errors.
+In your Smart Campaign, click on **[!UICONTROL Smart List]**. Get rid of any red squiggly lines that you see by fixing the errors.
 
-   ![](assets/smart-campaign-checklist-1.png)
+![](assets/smart-campaign-checklist-1.png)
 
 >[!TIP]
 >
@@ -36,7 +36,7 @@ Follow the below steps to ensure smooth running of the Smart Campaign and preven
 
 In your Smart Campaign, click **[!UICONTROL Flow]**. Get rid of any red squiggly lines you see by fixing the errors.
 
-   ![](assets/smart-campaign-checklist-2.png)
+![](assets/smart-campaign-checklist-2.png)
 
 >[!TIP]
 >
@@ -46,13 +46,13 @@ In your Smart Campaign, click **[!UICONTROL Flow]**. Get rid of any red squiggly
 
 In the **[!UICONTROL Schedule]** tab, check **[!UICONTROL Smart List Status]** for any errors in the Smart Campaign that needs fixing.
 
-   ![](assets/smart-campaign-checklist-3.png)
+![](assets/smart-campaign-checklist-3.png)
 
 ## Check Person Restrictions Limit {#check-person-restrictions-limit}
 
 In the **[!UICONTROL Schedule]** tab, confirm the number of qualified people does not exceed the person restriction limit.
 
-   ![](assets/smart-campaign-checklist-4.png)
+![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >

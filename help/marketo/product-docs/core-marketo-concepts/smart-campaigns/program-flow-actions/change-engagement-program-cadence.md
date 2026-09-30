@@ -16,7 +16,7 @@ feature_v2:
 
 Once a person is being nurtured by an engagement program, you can temporarily pause nurturing for them by using this flow step.
 
-   ![](assets/change-engagement-program-cadence-1.png)
+![](assets/change-engagement-program-cadence-1.png)
 
 >[!NOTE]
 >
@@ -30,4 +30,4 @@ Once a person is being nurtured by an engagement program, you can temporarily pa
 
    ![](assets/change-engagement-program-cadence-3.png)
 
-  You can set the person back to **[!UICONTROL Normal]** if you want them to begin receiving content again.
+   You can set the person back to **[!UICONTROL Normal]** if you want them to begin receiving content again.

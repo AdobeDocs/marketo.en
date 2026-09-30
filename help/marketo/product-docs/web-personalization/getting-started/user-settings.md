@@ -51,13 +51,13 @@ Change settings like time zone or Web Personalization email reports.
 
 ## Select Email Reports {#select-email-reports}
 
-   Select which [[!UICONTROL Email Report]](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) to associate to your user, and frequency ([!UICONTROL Daily], [!UICONTROL Weekly] or [!UICONTROL Quarterly]) when the report will be sent.
+Select which [[!UICONTROL Email Report]](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) to associate to your user, and frequency ([!UICONTROL Daily], [!UICONTROL Weekly] or [!UICONTROL Quarterly]) when the report will be sent.
 
-   ![](assets/three.png)
+![](assets/three.png)
 
-   >[!NOTE]
-   >
-   >Clicking **[!UICONTROL Save]** won't exit you out of User Settings. To exit out, click the Marketo logo on the upper-left and select your destination.
+>[!NOTE]
+>
+>Clicking **[!UICONTROL Save]** won't exit you out of User Settings. To exit out, click the Marketo logo on the upper-left and select your destination.
 
 >[!MORELIKETHIS]
 >

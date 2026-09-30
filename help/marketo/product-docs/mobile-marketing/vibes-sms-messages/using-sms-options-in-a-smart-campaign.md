@@ -89,9 +89,9 @@ There are three SMS flow steps to choose from.
   </tbody>
 </table>
 
-   >[!NOTE]
-   >
-   >The **Subscribe to Vibes List** and **Unsubscribe from Vibes List** flows have different requirements. For **Subscribe**, you must select the Vibes list and the Vibes acquisition campaign. For **Unsubscribe**, only the Vibes list is required.
+>[!NOTE]
+>
+>The **Subscribe to Vibes List** and **Unsubscribe from Vibes List** flows have different requirements. For **Subscribe**, you must select the Vibes list and the Vibes acquisition campaign. For **Unsubscribe**, only the Vibes list is required.
 
 >[!MORELIKETHIS]
 >
