@@ -145,7 +145,7 @@ Following these steps will allow the Marketo sync user to update the custom fiel
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-   Locate the unnecessary fields, make sure that [!UICONTROL Read Access] and [!UICONTROL Edit Access] are **un**checked. Click **[!UICONTROL Save]** when done.
+1. Locate the unnecessary fields, make sure that [!UICONTROL Read Access] and [!UICONTROL Edit Access] are **un**checked. Click **[!UICONTROL Save]** when done.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 

@@ -65,7 +65,7 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
 >[!CAUTION]
 >
->Email and Landing Page CNAMEs must be different. Also, avoid CNAMEs like 'track' or 'link.' It is often flagged as spam
+>Email and Landing Page CNAMEs must be different. Also, avoid CNAMEs like 'track' or 'link.' It is often flagged as spam.
 
 To find your Marketo tracking link, go to the **[!UICONTROL Admin]** area.
 
