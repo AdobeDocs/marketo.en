@@ -19,7 +19,11 @@ topic_v2:
 ---
 # Campaign Email Performance Report {#campaign-email-performance-report}
 
-To see your email performance stats grouped by [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), run a Campaign Email Performance report.
+To see your email performance stats grouped by [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), run a Campaign Email Performance report.
+
+>[!NOTE]
+>
+>A Campaign Email Performance Report can only be created as a local asset in a Marketing Activities program. It is not available in the Analytics section.
 
 1. [Create a report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select the **[!UICONTROL Campaign Email Performance]** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
