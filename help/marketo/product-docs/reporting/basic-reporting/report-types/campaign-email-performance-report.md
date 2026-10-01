@@ -25,33 +25,39 @@ To see your email performance stats grouped by [Smart Campaign](/help/marketo/pr
 >
 >A Campaign Email Performance Report can only be created as a local asset in a Marketing Activities program. It is not available in the Analytics section.
 
-1. [Create a report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select the **[!UICONTROL Campaign Email Performance]** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. In your program, click **New** and select **New Local Asset**.
 
-1. [Set the time frame of your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the **[!UICONTROL Report]** tab.
+   ![](assets/campaign-email-performance-report-1.png)
 
-1. Now explore the report to see how each email in your campaigns performed.
+1. Select **Report**.
 
-   ![](assets/image2014-9-16-16-3a19-3a59.png)
+   ![](assets/campaign-email-performance-report-2.png)
 
-   >[!TIP]
-   >
-   >Click the name of an email to open it in the Email Previewer.
+1. In the _Type_ drop-down, select **Campaign Email Performance**. Give your report a name and click **Create**.
 
-   [Columns that you can select](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for a Campaign Email Performance report include:
+   ![](assets/campaign-email-performance-report-3.png)
 
-   | Column |Description |
-   |---|---|
-   | [!UICONTROL Hard Bounced] |Email was rejected because of a permanent condition, such as nonexistent email address. |
-   | [!UICONTROL Soft Bounced] |Email was rejected because of a temporary condition, such as a server being down or a full inbox. |
-   | [!UICONTROL Pending] |Email is still in the process of being delivered. |
-   | [!UICONTROL Clicked Link] |Number of email recipients who clicked a link in the email. |
-   | [!UICONTROL Unsubscribed] |Number of email recipients who clicked the **[!UICONTROL Unsubscribe]** link in the email and filled out the form. |
+1. Define your report's parameters.
 
-   >[!NOTE]
-   >
-   >In general, we try to use common sense to record these statistics. For example, if someone clicked a link in an email, they obviously opened it first. For the specific rules we follow, see the [Email Performance Report](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+   ![](assets/campaign-email-performance-report-4.png)
 
-   >[!MORELIKETHIS]
-   >
-   >* [Filter Assets in a Campaign Email Report](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-   >* [Email Performance Report](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+1. When done, click the **Report** tab to view your report.
+
+[Columns you can select](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for a Campaign Email Performance report include:
+
+| Column |Description |
+|---|---|
+| [!UICONTROL Hard Bounced] |Email was rejected because of a permanent condition, such as nonexistent email address. |
+| [!UICONTROL Soft Bounced] |Email was rejected because of a temporary condition, such as a server being down or a full inbox. |
+| [!UICONTROL Pending] |Email is still in the process of being delivered. |
+| [!UICONTROL Clicked Link] |Number of email recipients who clicked a link in the email. |
+| [!UICONTROL Unsubscribed] |Number of email recipients who clicked the **[!UICONTROL Unsubscribe]** link in the email and filled out the form. |
+
+>[!NOTE]
+>
+>In general, we try to use common sense to record these statistics. For example, if someone clicked a link in an email, they obviously opened it first. For the specific rules we follow, see the [Email Performance Report](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+
+>[!MORELIKETHIS]
+>
+>* [Filter Assets in a Campaign Email Report](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [Email Performance Report](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
