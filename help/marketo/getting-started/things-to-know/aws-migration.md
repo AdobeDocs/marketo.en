@@ -180,6 +180,8 @@ If for some reason a migration is unsuccessful, you will be notified and we will
 
 +++
 
++++September schedule
+
 <table>
  <tbody>
   <tr>
@@ -236,11 +238,24 @@ If for some reason a migration is unsuccessful, you will be notified and we will
    <td><i>6 p.m. PDT</i></td>
    <td><i>Postponed (date TBD)</i></td>
   </tr>
-   <tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Date</th>
+   <th style="width:25%">Data Center/Pod</th>
+   <th style="width:25%">Time</th>
+   <th style="width:25%">Status</th>
+  </tr>
+  <tr>
    <td>October 1, 2026</td>
    <td>AB16</td>
    <td>6 p.m. PDT</td>
-   <td>On schedule</td>
+   <td>Completed</td>
   </tr>
   <tr>
    <td>October 9, 2026</td>
