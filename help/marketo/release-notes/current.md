@@ -45,7 +45,7 @@ The following features fall under the standard release cycle and will start to b
   <tr>
    <td><strong>Marketo Engage New UI</strong>: The Marketo Engage interface has a refreshed look, including updated menus, icons, and layout for a cleaner, more modern experience. This is a visual update only; no existing functionality or workflows are affected. <i>The ability to select the Classic UI will be available through the January 2027 release</i>.
 </td>
-   <td>General Availability by the end of September</td>
+   <td>General Availability by mid-October</td>
    <td><i>n/a</i></td>
   </tr>
   <tr>
