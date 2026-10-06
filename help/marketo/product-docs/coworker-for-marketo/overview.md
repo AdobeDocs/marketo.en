@@ -1,30 +1,30 @@
 ---
-description: Explore the Coworker for Marketo Engage suite of agents designed to automate marketing tasks like program QA, lead import, data normalization, and more.
-title: Coworker for Marketo Engage Overview
+description: Explore the CX Enterprise Coworker for Marketo Engage suite of agents designed to automate marketing tasks like program QA, lead import, data normalization, and more.
+title: CX Enterprise Coworker for Marketo Engage Overview
 ---
-# Coworker for Marketo Engage Overview {#overview}
+# CX Enterprise Coworker for Marketo Engage Overview {#overview}
 
-Coworker for Marketo Engage (formerly known as Marketo AI) provides agent skills designed to automate time-consuming but important marketing functions.
+CX Enterprise Coworker for Marketo Engage provides agent skills designed to automate time-consuming but important marketing functions.
 
 >[!AVAILABILITY]
 >
->This feature is available to all subscriptions. If you do not see the Coworker for Marketo Engage tile on your My Marketo screen, contact your account manager. You must also agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+>This feature is available to all subscriptions. If you do not see the CX Enterprise Coworker for Marketo Engage tile on your My Marketo screen, contact your account manager. You must also agree to the [Core Gen-AI terms and the supplemental terms](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 >[!IMPORTANT]
 >
->* After Coworker for Marketo Engage has been enabled for your subscription, you must perform some [setup steps](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} to ensure the desired users have access.
+>* After CX Enterprise Coworker for Marketo Engage has been enabled for your subscription, you must perform some [setup steps](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} to ensure the desired users have access.
 >
->* Review data scope, governance controls, and PII considerations in the Coworker for Marketo Engage [data information sheet](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
+>* Review data scope, governance controls, and PII considerations in the CX Enterprise Coworker for Marketo Engage [data information sheet](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
 
 ## How to access {#access}
 
-On your My Marketo screen, click the **Coworker for Marketo Engage** tile.
+On your My Marketo screen, click the **CX Enterprise Coworker for Marketo Engage** tile.
 
-![](assets/overview-1.png)
+![](assets/cx-overview-1.png)
 
 Type your request in the prompt field, select one of the agent skills, or try one of the sample prompts.
 
-![](assets/overview-2.png)
+![](assets/cx-overview-2.png)
 
 ## Skills {#skills}
 
@@ -32,7 +32,7 @@ The center console features a growing set of agent skills available to help you 
 
 ### Build programs {#build-programs}
 
-Describe a marketing campaign in plain language and Coworker for Marketo Engage builds the program structure, complete with asset placeholders and scheduling. Learn more about the [Build programs skill](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
+Describe a marketing campaign in plain language and CX Enterprise Coworker for Marketo Engage builds the program structure, complete with asset placeholders and scheduling. Learn more about the [Build programs skill](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
 
 ### Investigate leads {#investigate-leads}
 
@@ -40,7 +40,7 @@ Find out why a specific person/lead did not reach a milestone (like MQL, program
 
 ### Product knowledge {#product-knowledge}
 
-Product knowledge gives you on-demand access to Marketo expertise without leaving the platform. Ask a question in plain language and Coworker for Marketo Engage draws on official Adobe documentation to answer it. Learn more about the [Product knowledge skill](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}.
+Product knowledge gives you on-demand access to Marketo expertise without leaving the platform. Ask a question in plain language and CX Enterprise Coworker for Marketo Engage draws on official Adobe documentation to answer it. Learn more about the [Product knowledge skill](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}.
 
 ### Validate programs {#validate-programs}
 

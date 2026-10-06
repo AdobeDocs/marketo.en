@@ -1,16 +1,16 @@
 ---
-description: Review the Coworker for Marketo Engage data scope, governance controls, and PII considerations across key workflows such as lead import, program QA, and data normalization.
-title: Coworker for Marketo Engage data information sheet
+description: Review the CX Enterprise Coworker for Marketo Engage data scope, governance controls, and PII considerations across key workflows such as lead import, program QA, and data normalization.
+title: CX Enterprise Coworker for Marketo Engage data information sheet
 ---
-# Coworker for Marketo Engage data information sheet {#data-information}
+# CX Enterprise Coworker for Marketo Engage data information sheet {#data-information}
 
-Coworker for Marketo Engage is a native, agentic feature within Adobe Marketo Engage that enables marketing operations teams to automate select workflows through natural-language interaction, including lead import, program validation, data normalization, program creation, lead investigation, analytics, and product guidance. Coworker for Marketo Engage operates within a user's existing Marketo Engage environment and uses Adobe-managed infrastructure for AI reasoning and orchestration.
+CX Enterprise Coworker for Marketo Engage is a native, agentic feature within Adobe Marketo Engage that enables marketing operations teams to automate select workflows through natural-language interaction, including lead import, program validation, data normalization, program creation, lead investigation, analytics, and product guidance. CX Enterprise Coworker for Marketo Engage operates within a user's existing Marketo Engage environment and uses Adobe-managed infrastructure for AI reasoning and orchestration.
 
-**User environment:** Coworker for Marketo Engage operates within an existing Marketo Engage environment and does not introduce a new user-to-user sharing pathway.
+**User environment:** CX Enterprise Coworker for Marketo Engage operates within an existing Marketo Engage environment and does not introduce a new user-to-user sharing pathway.
 
 **Data scope:** The service processes standard B2B marketing data already present in the user environment, including lead records, program data, and smart campaign activity.
 
-**AI services:** Coworker for Marketo Engage leverages an AI-harness built by Adobe, and uses Azure OpenAI GPT-4.1 and Claude on AWS Bedrock for AI reasoning, with Marketo MCP tools supporting execution of product actions.
+**AI services:** CX Enterprise Coworker for Marketo Engage leverages an AI-harness built by Adobe, and uses Azure OpenAI GPT-4.1 and Claude on AWS Bedrock for AI reasoning, with Marketo MCP tools supporting execution of product actions.
 
 **Governance:** AI-generated outputs remain within the user's environment and are subject to existing governance, residency, and retention controls.
 
@@ -56,7 +56,7 @@ Coworker for Marketo Engage is a native, agentic feature within Adobe Marketo En
 
 ## Use cases
 
-Besides the ones listed, consider using Coworker for Marketo Engage to diagnose and troubleshoot complex operational issues (CRM sync failures, webhook errors, email delivery root-cause analysis, field mismatches), conduct audits across your account (email deliverability, subscription center compliance, smart campaign reviews, scoring model assessments), and accelerate program creation from briefs and templates (event programs, multi-language email campaigns, webinar setups). Coworker for Marketo Engage is designed to provide AI-assisted lead classification and data enrichment at scale, performance analytics with remediation recommendations, and guided debugging of technical configurations such as Velocity scripts and lifecycle models.
+Besides the ones listed, consider using CX Enterprise Coworker for Marketo Engage to diagnose and troubleshoot complex operational issues (CRM sync failures, webhook errors, email delivery root-cause analysis, field mismatches), conduct audits across your account (email deliverability, subscription center compliance, smart campaign reviews, scoring model assessments), and accelerate program creation from briefs and templates (event programs, multi-language email campaigns, webinar setups). CX Enterprise Coworker for Marketo Engage is designed to provide AI-assisted lead classification and data enrichment at scale, performance analytics with remediation recommendations, and guided debugging of technical configurations such as Velocity scripts and lifecycle models.
 
 ## Availability and rollout status
 
@@ -72,13 +72,13 @@ Besides the ones listed, consider using Coworker for Marketo Engage to diagnose 
 
 **Documentation:** Experience League documentation is expanding as part of general availability readiness.
 
-**Support model:** The current support approach includes user feedback intake, office hours, and a Coworker for Marketo Engage Experience League community.
+**Support model:** The current support approach includes user feedback intake, office hours, and a CX Enterprise Coworker for Marketo Engage Experience League community.
 
 **Service monitoring:** Adobe identifies observability, feedback dashboards, and quality evaluation mechanisms as important components of launch maturity and ongoing improvement.
 
 ## Out-of-scope data and exclusions
 
-**No new special-category data:** Coworker for Marketo Engage does not introduce new processing for health, financial, precise-location, biometric, or other special-category data.
+**No new special-category data:** CX Enterprise Coworker for Marketo Engage does not introduce new processing for health, financial, precise-location, biometric, or other special-category data.
 
 **No new sharing pathway:** The service does not create a new user-to-user content sharing mechanism.
 
@@ -88,13 +88,13 @@ Besides the ones listed, consider using Coworker for Marketo Engage to diagnose 
 
 ## Use of Azure OpenAI and Claude on AWS Bedrock
 
-This section explains how Azure OpenAI supports Coworker for Marketo Engage workflows. Any related diagrams or flow descriptions should be read together with the controls described here, including limitations on data scope, user oversight, and model training.
+This section explains how Azure OpenAI supports CX Enterprise Coworker for Marketo Engage workflows. Any related diagrams or flow descriptions should be read together with the controls described here, including limitations on data scope, user oversight, and model training.
 
 **Purpose:** Azure OpenAI GPT-4.1 is used for conversational reasoning and orchestration of agent-driven workflows.
 
 **Data scope:** Inputs are limited to standard B2B marketing data already present in the user's Marketo Engage environment and necessary to fulfill the requested workflow.
 
-**AI output:** AI outputs are determined by user prompts and configuration, and Coworker for Marketo Engage features do not make any decisions autonomously without user configuration.
+**AI output:** AI outputs are determined by user prompts and configuration, and CX Enterprise Coworker for Marketo Engage features do not make any decisions autonomously without user configuration.
 
 **Training:** Adobe does not use user data to train or fine-tune Azure OpenAI models for this service.
 
@@ -110,11 +110,11 @@ This section explains how Azure OpenAI supports Coworker for Marketo Engage work
 
 ## Data processing and storage locations
 
-This section summarizes the environments in which Coworker for Marketo Engage operates and where processing occurs. If the document includes regional diagrams or infrastructure visuals, those materials should be understood as high-level representations of service location and processing flow rather than exhaustive network schematics.
+This section summarizes the environments in which CX Enterprise Coworker for Marketo Engage operates and where processing occurs. If the document includes regional diagrams or infrastructure visuals, those materials should be understood as high-level representations of service location and processing flow rather than exhaustive network schematics.
 
-**Application environment:** Coworker for Marketo Engage operates within the user's existing Adobe Marketo Engage environment.
+**Application environment:** CX Enterprise Coworker for Marketo Engage operates within the user's existing Adobe Marketo Engage environment.
 
-**AI processing:** Coworker for Marketo Engage uses Azure OpenAI GPT-4.1 and Claude on AWS Bedrock for conversational reasoning and task orchestration.
+**AI processing:** CX Enterprise Coworker for Marketo Engage uses Azure OpenAI GPT-4.1 and Claude on AWS Bedrock for conversational reasoning and task orchestration.
 
 **User data location:** User data and AI-generated outputs remain within the user's Marketo Engage environment and are subject to the user's existing residency, governance, and retention controls.
 
@@ -122,7 +122,7 @@ This section summarizes the environments in which Coworker for Marketo Engage op
 
 ## Data scope by workflow type
 
-The data processed by Coworker for Marketo Engage is determined by the user's usage pattern and the specific workflow invoked. Not all workflows require processing lead-level data.
+The data processed by CX Enterprise Coworker for Marketo Engage is determined by the user's usage pattern and the specific workflow invoked. Not all workflows require processing lead-level data.
 
 ### Workflows that leverage campaign metadata only (no lead information)
 
@@ -144,9 +144,9 @@ The data processed by Coworker for Marketo Engage is determined by the user's us
 ### Data minimization by design
 
 * In all cases, data sent to the AI model is limited to what is required to fulfill the specific user request within that workflow
-* Coworker for Marketo Engage follows the user's existing Marketo Engage permissions; it does not provide access to lead records, fields, or programs beyond what the user has permission to view through the product UI
+* CX Enterprise Coworker for Marketo Engage follows the user's existing Marketo Engage permissions; it does not provide access to lead records, fields, or programs beyond what the user has permission to view through the product UI
 * Users who wish to limit lead-data processing can restrict access to the tool's investigative workflows through existing Marketo Engage role and permission controls while retaining full access to structural and administrative AI capabilities
 
 ### No incremental data exposure
 
-The AI operates as an accelerator on existing user permissions, not an escalation path. A user who cannot view certain lead fields, programs, or partitions in the Marketo Engage UI also cannot surface that data through Coworker for Marketo Engage. The service does not bypass partition rules, field-level permissions, or workspace restrictions.
+The AI operates as an accelerator on existing user permissions, not an escalation path. A user who cannot view certain lead fields, programs, or partitions in the Marketo Engage UI also cannot surface that data through CX Enterprise Coworker for Marketo Engage. The service does not bypass partition rules, field-level permissions, or workspace restrictions.
