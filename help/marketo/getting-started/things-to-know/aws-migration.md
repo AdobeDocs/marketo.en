@@ -16,7 +16,7 @@ During your migration window, all Marketo Engage services will be unavailable. W
 
 * **Avoid creating or updating leads/people** or running processes that modify Person records.
 
-* **Do not trigger follow-on processes**, as scheduled campaigns will be paused.
+* **Do not trigger follow-on processes**, as all scheduled campaigns will be paused.
 
 * **Temporarily disable any integrations** that send or receive data to or from Marketo Engage.
 
@@ -41,7 +41,7 @@ The impacts below require no action on your part.
 
 ## Identify your data center/pod {#identify}
 
-Before reviewing the schedule below, [learn how to identify](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) what data center and pod/server your subscription is located in.
+Before reviewing the schedule below, [learn how to identify](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify){target="_blank"} what data center and pod/server your subscription is located in.
 
 ## Schedule {#schedule}
 
@@ -335,7 +335,7 @@ Based on your data center, work with your IT department to get the respective IP
 
 ## Updates and support {#support}
 
-For the latest information, bookmark this page. 
+For the latest information, bookmark this page.
 
 For status updates, you can [subscribe to receive them](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} at the start and completion of the migration. You can also visit [status.adobe.com](https://status.adobe.com/){target="_blank"} during your migration window.
 
@@ -358,3 +358,13 @@ Marketo uses Amazon Aurora, a cloud-native relational database engine fully mana
 Aurora also performs continuous, automatic backups to Amazon S3 in real time, enabling Point-in-Time Recovery (PITR) to any second within the configured retention window.
 
 At this time, Marketo's Aurora deployment operates within a single AWS region, without cross-region replication. Production data remains within the designated regional infrastructure, and disaster recovery is provided through Aurora's multi-AZ storage redundancy and continuous backups rather than geographic failover to a secondary region. This may be evaluated further as Marketo's AWS infrastructure matures.
+
+**How are unsubscribes handled during the downtime?**
+Standard and list-unsubscribes (from email clients) are still received, and they will be processed shortly after the migration.
+
+**Are there any alternatives to pausing campaigns?** 
+Yes. If you want to prevent people from advancing but don't want to lose incoming data, consider these options: 
+
+* Add a Choice Step: Instead of disabling your campaign, leave it active but add a [Wait flow step](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} or an immediate "Do Nothing" step at the very top of the flow. Set a [Choice rule](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} that directs your people into this paused state, then update the Choice rules when you are ready. 
+* Remove from Flow: If people have already entered the campaign but you need to halt their progress, use the [Remove from Flow](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} action to pull them out without permanently disabling the campaign's trigger. 
+* Batch Alternative: Consider converting Trigger Campaigns to Batch Campaigns if you don't need instantaneous routing or responses and just want to process people overnight or at scheduled intervals.
