@@ -8,13 +8,13 @@ Audit your programs for best practices across all components, such as emails, la
 
 ## How to use {#how-to-use}
 
-1. In your My Marketo, click the **Coworker for Marketo Engage** tile.
+1. In your My Marketo, click the **CX Enterprise Coworker for Marketo Engage** tile.
 
-   ![](assets/validate-programs-1.png)
+   ![](assets/cx-validate-programs-1.png)
 
 1. Type "I want to validate a Marketo Engage program" in the prompt window.
 
-   ![](assets/validate-programs-2.png)
+   ![](assets/cx-validate-programs-2.png)
 
 1. Select the program you want to validate in the right pane.
 
@@ -24,6 +24,6 @@ Audit your programs for best practices across all components, such as emails, la
    
 1. In the prompt window, enter "validate program" and click **Send**.
 
-   Coworker for Marketo Engage provides a QA of the selected program, showing you what passed and what failed.
+   CX Enterprise Coworker for Marketo Engage provides a QA of the selected program, showing you what passed and what failed.
 
    ![](assets/validate-programs-6.png)

@@ -8,17 +8,17 @@ Import and deduplicate lead lists into your Marketo Engage database with field m
 
 ## How to use {#how-to-use}
 
-1. In your My Marketo, click the **Coworker for Marketo Engage** tile.
+1. In your My Marketo, click the **CX Enterprise Coworker for Marketo Engage** tile.
 
-   ![](assets/import-leads-1.png)
+   ![](assets/cx-import-leads-1.png)
 
 1. Type "Import a lead list and normalize the data" (or select it if it's listed as a sample prompt) and click the up arrow icon.
 
-   ![](assets/import-leads-2.png)
+   ![](assets/cx-import-leads-2.png)
 
 1. You are prompted to upload the CSV file and are shown the upcoming steps.
 
-   ![](assets/import-leads-3.png)
+   ![](assets/cx-import-leads-3.png)
 
 1. Click the **+** icon and select **Upload file**. Find and upload your CSV file.
 

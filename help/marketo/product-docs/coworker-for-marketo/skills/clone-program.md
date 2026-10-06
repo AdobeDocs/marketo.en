@@ -22,16 +22,16 @@ The Clone program agent copies a working program, including its smart campaigns,
 
 ## How to use {#how-to-use}
 
-1. In your My Marketo, click the **Coworker for Marketo Engage** tile.
+1. In your My Marketo, click the **CX Enterprise Coworker for Marketo Engage** tile.
 1. In the prompt window, type your instructions. For example, "Clone my Q2 Webinar program into the Q3 Campaigns folder and call it Q3 Product Demo Webinar."
-1. Coworker for Marketo Engage confirms the source program, destination folder, and new name. Review and confirm.
-1. The clone is created. Coworker for Marketo Engage confirms when it is done and tells you where to find it.
+1. CX Enterprise Coworker for Marketo Engage confirms the source program, destination folder, and new name. Review and confirm.
+1. The clone is created. CX Enterprise Coworker for Marketo Engage confirms when it is done and tells you where to find it.
 1. Open the new program in Marketo and update what is different: email content, dates, audience filters, tokens, etc.
 1. Run the [Program QA](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md) agent before activating.
 
 ## Use cases {#use-cases}
 
-**Quarterly campaign reuse**: A campaign manager runs the same webinar series each quarter. They ask Coworker for Marketo Engage to clone last quarter's webinar program into the new quarter's folder with an updated name. They then update the email copy, webinar date tokens, and registration link, saving hours of setup time.
+**Quarterly campaign reuse**: A campaign manager runs the same webinar series each quarter. They ask CX Enterprise Coworker for Marketo Engage to clone last quarter's webinar program into the new quarter's folder with an updated name. They then update the email copy, webinar date tokens, and registration link, saving hours of setup time.
 
 **Creating a template from a proven program**: A marketing ops specialist clones a high-performing product launch program into a "Templates" folder to serve as the starting point for future launches. The clone is left deactivated and used as a reference copy.
 

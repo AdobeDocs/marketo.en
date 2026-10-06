@@ -1,10 +1,10 @@
 ---
-description: Learn how Organizational Rules define governance standards and guide Coworker for Marketo Engage across program creation, campaign planning, and validation.
+description: Learn how Organizational Rules define governance standards and guide CX Enterprise Coworker for Marketo Engage across program creation, campaign planning, and validation.
 title: Organizational rules
 ---
 # Organizational rules {#organizational-rules}
 
-Organizational Rules define your marketing operations standards and governance requirements in a single document that guides Coworker for Marketo Engage across program creation, campaign planning, and validation workflows.
+Organizational Rules define your marketing operations standards and governance requirements in a single document that guides CX Enterprise Coworker for Marketo Engage across program creation, campaign planning, and validation workflows.
 
 ## What are Organizational Rules? {#what-are-organizational-rules}
 
@@ -19,17 +19,17 @@ Every Marketo Engage environment includes default Organizational Rules. You can 
 
 ## Where Organizational Rules are used {#where-organizational-rules-are-used}
 
-Organizational Rules guide Coworker for Marketo Engage across three skills:
+Organizational Rules guide CX Enterprise Coworker for Marketo Engage across three skills:
 
 | Skill | How rules are applied |
 | --- | --- |
-| Build Programs | Rules guide the creation of program structure, naming, and initial setup. Coworker for Marketo Engage flags any compliance issues in your brief before creating the program. |
-| Plan Campaigns | Rules inform how Coworker for Marketo Engage structures Smart Campaigns, filters, and flow steps based on your standards. |
-| Validate Programs | Rules define what Coworker for Marketo Engage checks when validating programs before activation. |
+| Build Programs | Rules guide the creation of program structure, naming, and initial setup. CX Enterprise Coworker for Marketo Engage flags any compliance issues in your brief before creating the program. |
+| Plan Campaigns | Rules inform how CX Enterprise Coworker for Marketo Engage structures Smart Campaigns, filters, and flow steps based on your standards. |
+| Validate Programs | Rules define what CX Enterprise Coworker for Marketo Engage checks when validating programs before activation. |
 
 ## How to access and customize Organizational Rules {#how-to-access-and-customize-organizational-rules}
 
-1. In your My Marketo, click the **Coworker for Marketo Engage** tile.
+1. In your My Marketo, click the **CX Enterprise Coworker for Marketo Engage** tile.
 1. Click the gear icon.
 1. Select the **Organizational Rules** tab.
 1. Review the default rules (these come pre-populated with marketing operations best practices).
@@ -41,7 +41,7 @@ Organizational Rules guide Coworker for Marketo Engage across three skills:
    * Compliance and exclusion standards
 
 1. Update the version number when you make changes.
-1. Save your changes. All Coworker for Marketo Engage skills will use your customized rules immediately.
+1. Save your changes. All CX Enterprise Coworker for Marketo Engage skills will use your customized rules immediately.
 
 ## Organizational Rules structure {#organizational-rules-structure}
 
@@ -95,16 +95,16 @@ customized: true
 * **Keep rules focused**: Only include requirements that matter to your organization. Unnecessary rules create noise and reduce compliance scores unnecessarily.
 * **Use both automated and manual checks**:
 
-  * Automated checks: naming conventions, required folders, token usage (Coworker for Marketo Engage can verify these)
-  * Manual checks: email visual design, brand compliance, campaign logic (Coworker for Marketo Engage will flag these as manual review steps)
+  * Automated checks: naming conventions, required folders, token usage (CX Enterprise Coworker for Marketo Engage can verify these)
+  * Manual checks: email visual design, brand compliance, campaign logic (CX Enterprise Coworker for Marketo Engage will flag these as manual review steps)
 
 * **Balance strictness with flexibility**: Rules that are too strict may slow program creation. Rules that are too loose won't catch important compliance issues.
 * **Version your rules**: Update the version number when you make significant changes so your team knows governance standards have been updated.
 * **Communicate changes**: When you update Organizational Rules, let your marketing ops team know what changed and why.
 
-## What Coworker for Marketo Engage can and cannot validate {#what-coworker-can-and-cannot-validate}
+## What CX Enterprise Coworker for Marketo Engage can and cannot validate {#what-coworker-can-and-cannot-validate}
 
-Coworker for Marketo Engage CAN validate (automated checks):
+CX Enterprise Coworker for Marketo Engage CAN validate (automated checks):
 
 * Naming conventions match your patterns
 * Required folder structure exists
@@ -113,7 +113,7 @@ Coworker for Marketo Engage CAN validate (automated checks):
 * External links include UTM parameters
 * Smart Campaign names follow conventions
 
-Coworker for Marketo Engage CANNOT validate (manual review required):
+CX Enterprise Coworker for Marketo Engage CANNOT validate (manual review required):
 
 * Smart List filter logic (API limitation: you must configure filters manually)
 * Smart Campaign flow step logic (API limitation: you must configure flows manually)
@@ -121,14 +121,14 @@ Coworker for Marketo Engage CANNOT validate (manual review required):
 * Brand compliance and messaging tone (requires human judgment)
 * Dynamic content segmentation rules (API limitation)
 
-When Coworker for Marketo Engage encounters something it cannot validate, it flags it as a manual review step in the workflow.
+When CX Enterprise Coworker for Marketo Engage encounters something it cannot validate, it flags it as a manual review step in the workflow.
 
 ## Compliance scoring {#compliance-scoring}
 
-When you use Validate Programs, Coworker for Marketo Engage calculates a compliance score based on:
+When you use Validate Programs, CX Enterprise Coworker for Marketo Engage calculates a compliance score based on:
 
-* **Passed checks**: Coworker for Marketo Engage verified compliance and found no issues
-* **Failed checks**: Coworker for Marketo Engage found violations of your Organizational Rules
+* **Passed checks**: CX Enterprise Coworker for Marketo Engage verified compliance and found no issues
+* **Failed checks**: CX Enterprise Coworker for Marketo Engage found violations of your Organizational Rules
 * **Manual review steps**: Items that require human verification (these do NOT count against your score)
 
 A program can have 100% compliance and still require manual review steps; they are excluded from the score calculation.
@@ -168,9 +168,9 @@ Use this if your organization prioritizes compliance over naming/structure consi
 
 ## Troubleshooting {#troubleshooting}
 
-**Q: I updated Organizational Rules but Coworker for Marketo Engage is still using the old rules.**
+**Q: I updated Organizational Rules but CX Enterprise Coworker for Marketo Engage is still using the old rules.**
 
-A: Changes take effect immediately for new programs and validations. If you're working on an existing program, refresh your browser or start a new Coworker for Marketo Engage workflow to see the updated rules.
+A: Changes take effect immediately for new programs and validations. If you're working on an existing program, refresh your browser or start a new CX Enterprise Coworker for Marketo Engage workflow to see the updated rules.
 
 **Q: Can I revert to default rules?**
 
