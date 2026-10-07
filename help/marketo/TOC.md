@@ -596,6 +596,7 @@ nudge: toc-retry
       + [Enable/Disable the Salesforce Sync](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
       + [Implied Salesforce Actions](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
       + [Log in Using OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+      + {hide-from-toc} [Log in Using OAuth 2.0 NEW](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0-new.md)
       + [Salesforce Sync Backlog Metrics](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
       + [Salesforce Sync Errors](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
       + [Salesforce Sync Status](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
