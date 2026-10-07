@@ -56,7 +56,7 @@ Salesforce uses the OAuth protocol to allow users of applications to securely ac
 
    ![](assets/log-in-using-oauth-6.png)
 
-1. Under _Security_, make sure only **Require secret for Web Server Flow**, **Require secret for Refresh Token Flow**, and ***Require Proof Key for Code Exchange (PKCE)...** are selected.
+1. Under _Security_, make sure only **Require secret for Web Server Flow**, **Require secret for Refresh Token Flow**, and **Require Proof Key for Code Exchange (PKCE)...** are selected.
 
    ![](assets/log-in-using-oauth-7-new.png)
 
