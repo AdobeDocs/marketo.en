@@ -1,10 +1,10 @@
 ---
 unique-page-id: 11381917
 description: Learn about Marketo Target Account Management and how it unifies sales and marketing to target key accounts. Get started with licensing and setup steps.
-title: "[!UICONTROL Target Account Management]"
+title: '[!UICONTROL Target Account Management]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/WJmgK-FMQg2-PPCOfJloQIt0spUlqqQ7QHTtI9bgdu0
+TQID: 'https://experienceleague.adobe.com/WJmgK-FMQg2-PPCOfJloQIt0spUlqqQ7QHTtI9bgdu0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,11 @@ feature_v2:
     internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
     internal-label: Personalization
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting

@@ -4,10 +4,13 @@ description: Learn how to assign tasks to team members in Sales Connect. Delegat
 title: Assigning Tasks to Team Members
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/9PbXW9Fq81PW-UtAB21b09OUhf-kW3dBF1cOe9TrG0I
+TQID: 'https://experienceleague.adobe.com/9PbXW9Fq81PW-UtAB21b09OUhf-kW3dBF1cOe9TrG0I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Assigning Tasks to Team Members {#assigning-tasks-to-team-members}
 

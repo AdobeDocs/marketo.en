@@ -3,10 +3,13 @@ description: Learn how to enable call recording in Sales Insight Actions. Turn o
 title: Enable Call Recording
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/37hdOAowbNsB2eZKh7pojClflb0GCKtYywijBS6Pqgo
+TQID: 'https://experienceleague.adobe.com/37hdOAowbNsB2eZKh7pojClflb0GCKtYywijBS6Pqgo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Enable Call Recording {#enable-call-recording}
 

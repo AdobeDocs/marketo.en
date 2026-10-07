@@ -4,10 +4,13 @@ description: Learn how to edit a mobile push notification. Open Marketing Activi
 title: Edit Mobile Push Notification
 exl-id: 3ed36e77-642c-42f9-8714-fc4f718eb073
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/OFL3Q-vIWWyqdOydqHatbz-w88UioUlS-v4as0ZiBbY
+TQID: 'https://experienceleague.adobe.com/OFL3Q-vIWWyqdOydqHatbz-w88UioUlS-v4as0ZiBbY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Edit Mobile Push Notification {#edit-mobile-push-notification}
 

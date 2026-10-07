@@ -4,10 +4,13 @@ description: Email Auto-Response - Marketo Docs - Product Documentation
 title: Email Auto-Response
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/4cmhAOxdpbN23Mnbd5v2oGJUkGTstv-LiRxoibF753w
+TQID: 'https://experienceleague.adobe.com/4cmhAOxdpbN23Mnbd5v2oGJUkGTstv-LiRxoibF753w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 ---
 # Email Auto-Response {#email-auto-response}
 

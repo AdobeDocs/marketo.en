@@ -4,7 +4,7 @@ description: Learn about the Engagement Dashboard and how it shows content perfo
 title: The Engagement Dashboard
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-TQID: https://experienceleague.adobe.com/L-NYq3k9P9grtBXGT070QXkDw7sictQdGauAVu0Wmjc
+TQID: 'https://experienceleague.adobe.com/L-NYq3k9P9grtBXGT070QXkDw7sictQdGauAVu0Wmjc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,11 @@ feature_v2:
     internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting

@@ -3,7 +3,7 @@ description: Use the Sales Insight Actions user onboarding checklist to get star
 title: Sales Insight Actions User Onboarding Checklist
 exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/93vmGSIft9B1vbPvQTSvr-WoFKGlujAVHAT9VQw8Xaw
+TQID: 'https://experienceleague.adobe.com/93vmGSIft9B1vbPvQTSvr-WoFKGlujAVHAT9VQw8Xaw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -12,6 +12,8 @@ feature_v2:
     internal-label: Configuration
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
     internal-label: Resources
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Sales Insight Actions User Onboarding Checklist {#sales-insight-actions-user-onboarding-checklist}
 

@@ -3,10 +3,13 @@ description: Learn about Best Bets in Marketo Sales Insight for Dynamics. See wh
 title: Best Bets
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/hXHMtgJnHJ8nZU3oQi5GcXt86uQeBxKhZ3fMG2FSA7c
+TQID: 'https://experienceleague.adobe.com/hXHMtgJnHJ8nZU3oQi5GcXt86uQeBxKhZ3fMG2FSA7c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights

@@ -4,7 +4,7 @@ description: Learn about the landing page performance report in Marketo. View vi
 title: Landing Page Performance Report
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/ZTj9r8A5fvpeK-9EwNf8LGnsrRXz62NqOM49IK2U0b4
+TQID: 'https://experienceleague.adobe.com/ZTj9r8A5fvpeK-9EwNf8LGnsrRXz62NqOM49IK2U0b4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,11 @@ feature_v2:
     internal-label: Forms
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting

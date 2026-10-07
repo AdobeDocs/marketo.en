@@ -4,7 +4,7 @@ description: Learn how to configure the sync user for Marketo with Dynamics 2013
 title: Step 2 of 3 -Configure Sync User for Marketo (2013 On-Premises)
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/444eg81yH6OiZ6tK6vIedoy5GMvZHTRd3gCJ1pk0-6M
+TQID: 'https://experienceleague.adobe.com/444eg81yH6OiZ6tK6vIedoy5GMvZHTRd3gCJ1pk0-6M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,11 @@ feature_v2:
     internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

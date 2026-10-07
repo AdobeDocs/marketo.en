@@ -4,10 +4,13 @@ description: Understand how tasks work in Sales Connect campaigns. Use email, ca
 title: Using Tasks in Campaigns
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Irny7uMXziNEfsD1pww-v1MB68eDAWKFoQgCYXYsLhA
+TQID: 'https://experienceleague.adobe.com/Irny7uMXziNEfsD1pww-v1MB68eDAWKFoQgCYXYsLhA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Using Tasks in Campaigns {#using-tasks-in-campaigns}
 

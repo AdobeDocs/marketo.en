@@ -4,13 +4,15 @@ description: Get Set up and Add a Person - Marketo Docs - Product Documentation
 title: Get Set up and Add a Person
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/rRqzAz5PfuToNYobPd16xS8kPKeEyiymlN0Bs-YuA5c
+TQID: 'https://experienceleague.adobe.com/rRqzAz5PfuToNYobPd16xS8kPKeEyiymlN0Bs-YuA5c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 ---
 # Get Set up and Add a Person {#get-set-up-and-add-a-person}
 

@@ -1,6 +1,9 @@
 ---
 description: Explore the CX Enterprise Coworker for Marketo Engage suite of agents designed to automate marketing tasks like program QA, lead import, data normalization, and more.
 title: CX Enterprise Coworker for Marketo Engage Overview
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # CX Enterprise Coworker for Marketo Engage Overview {#overview}
 

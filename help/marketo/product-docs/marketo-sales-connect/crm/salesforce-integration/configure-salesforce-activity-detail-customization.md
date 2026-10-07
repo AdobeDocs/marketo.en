@@ -3,10 +3,13 @@ description: Learn how to configure Salesforce activity detail customization for
 title: Configure Salesforce Activity Detail Customization
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/fFax4g3tqI3FlLhe-G2MeG9Rkjh4K86SiA7cAIdmYpo
+TQID: 'https://experienceleague.adobe.com/fFax4g3tqI3FlLhe-G2MeG9Rkjh4K86SiA7cAIdmYpo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Configure [!DNL Salesforce] Activity Detail Customization {#configure-salesforce-activity-detail-customization}
 

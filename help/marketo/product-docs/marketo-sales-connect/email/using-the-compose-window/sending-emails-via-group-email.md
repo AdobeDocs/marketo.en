@@ -4,10 +4,13 @@ description: Learn how to send emails via group email in Sales Connect. Send one
 title: Sending Emails via Group Email
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/f32d4DuWA3TMzH1b-8DJzOGevSpIZ3QQQFDkZbS4QK4
+TQID: 'https://experienceleague.adobe.com/f32d4DuWA3TMzH1b-8DJzOGevSpIZ3QQQFDkZbS4QK4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Sending Emails via Group Email {#sending-emails-via-group-email}
 

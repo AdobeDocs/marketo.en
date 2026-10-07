@@ -4,10 +4,13 @@ description: Add new content manually to the All Content page in Predictive Cont
 title: Add New Content
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/V-Q0zHrqrDtaZg9bbnLzWOonlbfPcjlliCIRSKmieSs
+TQID: 'https://experienceleague.adobe.com/V-Q0zHrqrDtaZg9bbnLzWOonlbfPcjlliCIRSKmieSs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 ---
 # Add New Content {#add-new-content}
 

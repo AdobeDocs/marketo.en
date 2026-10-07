@@ -1,9 +1,17 @@
 ---
 unique-page-id: 4718687
-description: "Learn how to approve/unapprove a revenue model in Marketo Engage using approveunapprove a revenue model. Use this guide to complete your next step."
+description: Learn how to approve/unapprove a revenue model in Marketo Engage using approveunapprove a revenue model. Use this guide to complete your next step.
 title: Approve/Unapprove a Revenue Model
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
 ---
 # Approve/Unapprove a Revenue Model {#approve-unapprove-a-revenue-model}
 

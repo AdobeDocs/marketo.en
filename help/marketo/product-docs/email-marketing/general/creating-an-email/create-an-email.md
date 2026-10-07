@@ -4,7 +4,7 @@ description: Learn how to create an email in Marketo. Choose a template or start
 title: Create an Email
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/OUlBdV1N1VktO-yvX5r11KPiaemdCIInxwpzvJ65xFg
+TQID: 'https://experienceleague.adobe.com/OUlBdV1N1VktO-yvX5r11KPiaemdCIInxwpzvJ65xFg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,11 @@ feature_v2:
     internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 ---
 # Create an Email {#create-an-email}
 

@@ -4,13 +4,18 @@ description: Learn how to turn an engagement program on or off to stop or resume
 title: Turn an Engagement Program On and Off
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/0KMEZLoWwWM8i5v97sz2-LynCi5dcGkzTYoIV32loJQ
+TQID: 'https://experienceleague.adobe.com/0KMEZLoWwWM8i5v97sz2-LynCi5dcGkzTYoIV32loJQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
 ---
 # Turn an Engagement Program On and Off {#turn-an-engagement-program-on-and-off}
 

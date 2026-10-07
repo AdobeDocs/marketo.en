@@ -4,10 +4,16 @@ description: Learn how to filter activity types in the activity log of a person.
 title: Filter Activity Types in the Activity Log of a Person
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/d4hRqMdNQzN9LR7zm-ii9h8g4LcvUFlSG97jIUklf5Y
+TQID: 'https://experienceleague.adobe.com/d4hRqMdNQzN9LR7zm-ii9h8g4LcvUFlSG97jIUklf5Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 ---
 # Filter Activity Types in the Activity Log of a Person {#filter-activity-types-in-the-activity-log-of-a-person}
 

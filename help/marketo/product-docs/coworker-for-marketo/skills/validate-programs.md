@@ -1,6 +1,9 @@
 ---
 description: Learn how to audit your programs for best practices across all components, such as emails, landing pages, campaigns, and more.
 title: Validate programs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Validate programs {#validate-programs}
 

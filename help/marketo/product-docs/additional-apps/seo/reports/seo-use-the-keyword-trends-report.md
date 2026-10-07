@@ -5,13 +5,15 @@ title: SEO - Use the Keyword Trends Report
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 hide: true
 feature: SEO
-TQID: https://experienceleague.adobe.com/sFmST5QmLhm-3VsbtIshZHlHa3leIm4EW2l9sWbdnCk
+TQID: 'https://experienceleague.adobe.com/sFmST5QmLhm-3VsbtIshZHlHa3leIm4EW2l9sWbdnCk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: e7f165cf-33cc-5c68-9025-558e655fec14
+    internal-label: SEO
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization

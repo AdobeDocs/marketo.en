@@ -4,13 +4,15 @@ title: Manage Template Categories
 hide: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/Hu6XQnkSnJWhcwyT6D0AobS8hIRzC0JO7kYyrI7GFsg
+TQID: 'https://experienceleague.adobe.com/Hu6XQnkSnJWhcwyT6D0AobS8hIRzC0JO7kYyrI7GFsg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Manage Template Categories {#manage-template-categories}
 

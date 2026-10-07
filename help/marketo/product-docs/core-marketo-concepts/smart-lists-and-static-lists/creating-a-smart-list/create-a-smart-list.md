@@ -4,10 +4,16 @@ description: Learn how to create a Smart List in Marketo. Add a Smart List in th
 title: Create a Smart List
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/bYuwTZOwI-XTr1re1ETqhdMM-fNF-ojkpVAijBg53O4
+TQID: 'https://experienceleague.adobe.com/bYuwTZOwI-XTr1re1ETqhdMM-fNF-ojkpVAijBg53O4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 ---
 # Create a Smart List {#create-a-smart-list}
 

@@ -4,10 +4,13 @@ description: Learn how to add an email identity in Sales Connect. Set up sending
 title: Add Identity
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/uLOd4gisccc14zCnYMSHdtUTM4TLzRvkqNgtQPOHjBM
+TQID: 'https://experienceleague.adobe.com/uLOd4gisccc14zCnYMSHdtUTM4TLzRvkqNgtQPOHjBM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Add Identity {#add-identity}
 

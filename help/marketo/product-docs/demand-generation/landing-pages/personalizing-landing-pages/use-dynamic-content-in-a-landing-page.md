@@ -4,13 +4,15 @@ description: Learn how to use dynamic content in a Marketo landing page. Show di
 title: Use Dynamic Content in a Landing Page
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/RuwAISV2vhWpTHsJoE5ny6KRSJf8QA3J-JVrA-gF7oo
+TQID: 'https://experienceleague.adobe.com/RuwAISV2vhWpTHsJoE5ny6KRSJf8QA3J-JVrA-gF7oo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
     internal-label: Personalization
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
     internal-label: Segmentation
@@ -18,6 +20,8 @@ subfeature_v2:
     internal-label: Dynamic content
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
     internal-label: Snippets
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization

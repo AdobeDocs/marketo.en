@@ -4,10 +4,13 @@ description: Learn about the Sales Connect and Highspot integration. Attach High
 title: What is the Sales Connect and Highspot Integration?
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/1U81JHYFajHjrVNSJE3i0ewItUVSLp8hUJUU1WFoP98
+TQID: 'https://experienceleague.adobe.com/1U81JHYFajHjrVNSJE3i0ewItUVSLp8hUJUU1WFoP98'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # What is the [!DNL Sales Connect] and [!DNL Highspot] Integration? {#what-is-the-sales-connect-and-highspot-integration}
 

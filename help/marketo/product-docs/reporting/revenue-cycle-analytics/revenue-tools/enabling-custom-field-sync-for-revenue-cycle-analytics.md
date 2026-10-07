@@ -1,9 +1,17 @@
 ---
 unique-page-id: 3571888
-description: "Learn about enabling custom field sync for revenue cycle analytics in Marketo Engage, including enabling custom field. Take the next step confidently."
+description: Learn about enabling custom field sync for revenue cycle analytics in Marketo Engage, including enabling custom field. Take the next step confidently.
 title: Enabling Custom Field Sync for Revenue Cycle Analytics
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
 ---
 # Enabling Custom Field Sync for [!UICONTROL Revenue Cycle Analytics] {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 

@@ -4,7 +4,7 @@ description: Use dynamic content and segmentation to display the unsubscribe mes
 title: Make Your Unsubscribe Message Dynamic for Languages
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/K4c0CGEKTpE-BbYd1i6f24B8L9oltiBYo3AhI6cHHPE
+TQID: 'https://experienceleague.adobe.com/K4c0CGEKTpE-BbYd1i6f24B8L9oltiBYo3AhI6cHHPE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -19,6 +19,8 @@ feature_v2:
     internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
     internal-label: Personalization
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
     internal-label: Segmentation
@@ -26,6 +28,8 @@ subfeature_v2:
     internal-label: Dynamic content
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
     internal-label: Snippets
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization

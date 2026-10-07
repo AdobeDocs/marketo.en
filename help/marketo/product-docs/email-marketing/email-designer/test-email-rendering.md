@@ -6,13 +6,18 @@ description: Learn how to test email rendering across clients with Litmus. Integ
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-TQID: https://experienceleague.adobe.com/HDelTp-9vepH8-TeDRN6FyAe-Nik-hfegvHrakdYDT4
+TQID: 'https://experienceleague.adobe.com/HDelTp-9vepH8-TeDRN6FyAe-Nik-hfegvHrakdYDT4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
     internal-label: Personalization
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate

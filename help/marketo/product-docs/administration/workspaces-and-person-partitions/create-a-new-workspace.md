@@ -4,13 +4,15 @@ description: Steps to create a new workspace, including naming it, selecting per
 title: Create a New Workspace
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-TQID: https://experienceleague.adobe.com/sGqhyPt1HtQUKELmXx-4rqLC551Xhb69BvB048xX8HQ
+TQID: 'https://experienceleague.adobe.com/sGqhyPt1HtQUKELmXx-4rqLC551Xhb69BvB048xX8HQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: fffc2f21-ba05-5d98-924c-16da987a5b69
+    internal-label: Workspaces
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

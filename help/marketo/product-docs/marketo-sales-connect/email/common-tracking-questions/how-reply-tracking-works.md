@@ -4,10 +4,13 @@ description: Understand how reply tracking works in Sales Connect. Learn how rep
 title: How Reply Tracking Works
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/n3WVUG84dSlzCgmYbR1eSlFOL7dPyGasppSRgqiefMQ
+TQID: 'https://experienceleague.adobe.com/n3WVUG84dSlzCgmYbR1eSlFOL7dPyGasppSRgqiefMQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # How Reply Tracking Works {#how-reply-tracking-works}
 

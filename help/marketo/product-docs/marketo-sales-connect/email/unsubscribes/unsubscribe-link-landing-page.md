@@ -4,10 +4,13 @@ description: Learn about the unsubscribe link landing page in Sales Connect. Cus
 title: Unsubscribe Link Landing Page
 exl-id: 1ef22db5-56ca-47fb-894b-ef94ec4527ac
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/99Q9QG-NsyL4ETfwyzGkyIavhWpTnqc50ldFepBDxVs
+TQID: 'https://experienceleague.adobe.com/99Q9QG-NsyL4ETfwyzGkyIavhWpTnqc50ldFepBDxVs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Unsubscribe Link Landing Page {#unsubscribe-link-landing-page}
 

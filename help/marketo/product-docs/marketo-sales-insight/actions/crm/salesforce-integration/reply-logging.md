@@ -4,10 +4,13 @@ title: Reply Logging
 hide: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/Jar0L3yAreXg7V0yVY-fbX2kH-RFklO1jyVEBsindBI
+TQID: 'https://experienceleague.adobe.com/Jar0L3yAreXg7V0yVY-fbX2kH-RFklO1jyVEBsindBI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Reply Logging {#reply-logging}
 

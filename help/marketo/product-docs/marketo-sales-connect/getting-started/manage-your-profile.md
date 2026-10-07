@@ -3,13 +3,15 @@ description: Learn how to manage your Sales Connect profile. Update your name, e
 title: Manage Your Profile
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/4Fa3ONM7mXvFBp4cJF5Y4aHlm-4RQX9bJ-CtS1T8Kbo
+TQID: 'https://experienceleague.adobe.com/4Fa3ONM7mXvFBp4cJF5Y4aHlm-4RQX9bJ-CtS1T8Kbo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
     internal-label: Integrations
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Manage Your Profile {#manage-your-profile}
 

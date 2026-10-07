@@ -3,10 +3,13 @@ description: Learn how to add an email identity in Sales Insight Actions. Add an
 title: Add Identity
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/Ks7LppvQ13D6463U27VN7UMbjS8lfx2WAxii9XCxAig
+TQID: 'https://experienceleague.adobe.com/Ks7LppvQ13D6463U27VN7UMbjS8lfx2WAxii9XCxAig'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Add Identity {#add-identity}
 

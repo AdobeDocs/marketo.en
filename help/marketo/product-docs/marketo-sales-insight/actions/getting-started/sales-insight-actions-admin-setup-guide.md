@@ -3,7 +3,7 @@ description: Learn how to set up Sales Insight Actions as an admin. Configure Ma
 title: Sales Insight Actions Admin Setup Guide
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/OSNakPU4zEu-ORacv80glsvfhIeC-XfwtAcvuE3Iacw
+TQID: 'https://experienceleague.adobe.com/OSNakPU4zEu-ORacv80glsvfhIeC-XfwtAcvuE3Iacw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -12,6 +12,8 @@ feature_v2:
     internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Sales Insight Actions Admin Setup Guide {#sales-insight-actions-admin-setup-guide}
 

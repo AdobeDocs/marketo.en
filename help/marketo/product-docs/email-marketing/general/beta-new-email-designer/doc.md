@@ -1,9 +1,18 @@
 ---
-description: "Temporary doc for the new Email Designer beta. Add assets and use the designer for beta testing (hide from TOC)."
+description: Temporary doc for the new Email Designer beta. Add assets and use the designer for beta testing (hide from TOC).
 title: Temp doc
 hide: true
-hidefromtoc: yes
+hidefromtoc: 'yes'
 feature: Email Editor
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 ---
 # Temp doc {#temp-doc}
 

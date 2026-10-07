@@ -4,13 +4,18 @@ description: Learn how to add modules to your email in Email Editor 2.0. Insert 
 title: Add Modules to your Email
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/4-eqCG-G4WIl7Ei9txgIhjR6x9xItN3CwDxZ70zj19Y
+TQID: 'https://experienceleague.adobe.com/4-eqCG-G4WIl7Ei9txgIhjR6x9xItN3CwDxZ70zj19Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 ---
 # Add Modules to your Email {#add-modules-to-your-email}
 

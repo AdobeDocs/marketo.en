@@ -1,8 +1,14 @@
 ---
-description: "How to create and manage API Only users in Marketo Engage when your subscription uses Adobe IMS."
+description: How to create and manage API Only users in Marketo Engage when your subscription uses Adobe IMS.
 title: Add API Only User for Adobe IMS Enabled Subscriptions
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
 feature: Marketo with Adobe Identity
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b73410f7-454c-5670-baa7-a84eae014e94
+    internal-label: Marketo with Adobe Identity
 ---
 # Add API Only User for Adobe IMS Enabled Subscriptions {#add-api-only-user-for-adobe-ims-enabled-subscriptions}
 

@@ -4,13 +4,15 @@ description: Learn how to create in-app message text and style. Edit main and su
 title: Create In-App Message Text
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/N5ENTkSHHuCq-rrxsBfzpT-zoYP-192ow2MCWCuDVjs
+TQID: 'https://experienceleague.adobe.com/N5ENTkSHHuCq-rrxsBfzpT-zoYP-192ow2MCWCuDVjs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
     internal-label: Forms
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Create In-App Message Text {#create-in-app-message-text}
 

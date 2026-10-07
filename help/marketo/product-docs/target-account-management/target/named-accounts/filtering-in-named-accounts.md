@@ -4,10 +4,16 @@ description: Learn how to filter Named Accounts to narrow down data quickly. Use
 title: Filtering in Named Accounts
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/S0l1fS12Faz-kO3--iP743L4CHGlz0WPdjreuTTMzfw
+TQID: 'https://experienceleague.adobe.com/S0l1fS12Faz-kO3--iP743L4CHGlz0WPdjreuTTMzfw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 ---
 # Filtering in [!UICONTROL Named Accounts] {#filtering-in-named-accounts}
 

@@ -1,8 +1,14 @@
 ---
-description: "Inherited Instance Marketing Activities Checklist - Marketo Docs - Product Documentation"
+description: Inherited Instance Marketing Activities Checklist - Marketo Docs - Product Documentation
 title: Inherited Instance Marketing Activities Checklist
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 ---
 # Inherited Instance: Marketing Activities Checklist {#inherited-instance-marketing-activities-checklist}
 

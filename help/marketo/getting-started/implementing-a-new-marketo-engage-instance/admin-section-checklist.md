@@ -3,7 +3,7 @@ description: Set up the Admin section for your new Marketo Engage instance.
 title: New Instance Best Practices - Admin Section Checklist
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-TQID: https://experienceleague.adobe.com/9yNDZl4AGlgdf3FRLib3H7wVhKYTciLSXevJ0JTEFjQ
+TQID: 'https://experienceleague.adobe.com/9yNDZl4AGlgdf3FRLib3H7wVhKYTciLSXevJ0JTEFjQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -20,6 +20,8 @@ feature_v2:
     internal-label: Administration
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
     internal-label: Implementation
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: a572083b-9238-40c5-8a10-cf294c415aab
     internal-label: marketing calendar

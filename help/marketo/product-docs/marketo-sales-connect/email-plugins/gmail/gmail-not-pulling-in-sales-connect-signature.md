@@ -4,10 +4,13 @@ description: Get help when Gmail is not pulling in your Sales Connect signature.
 title: Gmail Not Pulling In Sales Connect Signature
 exl-id: 33edf360-58bf-4d5a-a7a5-4912b717865f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/dgQ47h5FhmIxUf6l9PuUnN1IsKNuAtdqOovqL0YpsCU
+TQID: 'https://experienceleague.adobe.com/dgQ47h5FhmIxUf6l9PuUnN1IsKNuAtdqOovqL0YpsCU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Gmail Not Pulling In Sales Connect Signature {#gmail-not-pulling-in-sales-connect-signature}
 

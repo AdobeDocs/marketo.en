@@ -4,10 +4,13 @@ description: Learn how to customize stars and flames in Marketo Sales Insight. C
 title: Customize Stars and Flames
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/UioVGSyJiAODYHHjcIpqJqZkO-psgtxKHyeIr-6-Sy4
+TQID: 'https://experienceleague.adobe.com/UioVGSyJiAODYHHjcIpqJqZkO-psgtxKHyeIr-6-Sy4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights

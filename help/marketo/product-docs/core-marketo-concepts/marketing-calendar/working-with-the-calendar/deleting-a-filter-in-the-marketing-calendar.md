@@ -4,10 +4,16 @@ description: Learn how to delete a filter in the Marketing Calendar.
 title: Deleting a Filter in the Marketing Calendar
 exl-id: 1c53f346-ab35-44d4-9b8a-6e31f97044ca
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/yz7ySu7PcMw75WILn3vC-JiIUE2oqMVlmTn6pVIF67E
+TQID: 'https://experienceleague.adobe.com/yz7ySu7PcMw75WILn3vC-JiIUE2oqMVlmTn6pVIF67E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
 ---
 # Deleting a Filter in the Marketing Calendar {#deleting-a-filter-in-the-marketing-calendar}
 

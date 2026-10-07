@@ -3,7 +3,7 @@ description: Learn about common Vibes SMS terms used with Marketo Engage. Use th
 title: SMS Glossary
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-TQID: https://experienceleague.adobe.com/sB7BqmFTiXtdCvMN5cIYQSguA3g3iFdbHOUe2gl3lGI
+TQID: 'https://experienceleague.adobe.com/sB7BqmFTiXtdCvMN5cIYQSguA3g3iFdbHOUe2gl3lGI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -14,6 +14,8 @@ feature_v2:
     internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
     internal-label: Personalization
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
     internal-label: Segmentation

@@ -4,10 +4,13 @@ description: Learn how to delete a mobile push notification and remove it when i
 title: Delete Mobile Push Notification
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/xxppdk2knxCEkS--l7LyrgoDPl-i5RUvFMZPDmB8boc
+TQID: 'https://experienceleague.adobe.com/xxppdk2knxCEkS--l7LyrgoDPl-i5RUvFMZPDmB8boc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Delete Mobile Push Notification {#delete-mobile-push-notification}
 

@@ -4,10 +4,13 @@ description: Learn about two-party consent settings for Sales Connect call recor
 title: Two-Party Consent Settings
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/P-X0nE0gNNWSwQj-tErRy9mMKsOBhqB3J0N3268MncI
+TQID: 'https://experienceleague.adobe.com/P-X0nE0gNNWSwQj-tErRy9mMKsOBhqB3J0N3268MncI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Two-Party Consent Settings {#two-party-consent-settings}
 

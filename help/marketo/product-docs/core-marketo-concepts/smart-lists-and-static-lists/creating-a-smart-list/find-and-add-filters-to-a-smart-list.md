@@ -4,10 +4,16 @@ description: Learn how to find and add filters to a Smart List. Browse and add f
 title: Find and Add Filters to a Smart List
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/eQSlCfCck7SpNY-11SOd-KtnwWFD8eOl-jrTWO8CswM
+TQID: 'https://experienceleague.adobe.com/eQSlCfCck7SpNY-11SOd-KtnwWFD8eOl-jrTWO8CswM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 ---
 # Find and Add Filters to a Smart List {#find-and-add-filters-to-a-smart-list}
 

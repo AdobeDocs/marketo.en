@@ -4,10 +4,13 @@ description: Learn how to send a push notification sample to verify it works. Se
 title: Send a Push Notification Sample
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/TPNT1X4vgRtkP81L20QwsDCTmwhFUOhqbGbVvuPalNw
+TQID: 'https://experienceleague.adobe.com/TPNT1X4vgRtkP81L20QwsDCTmwhFUOhqbGbVvuPalNw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Send a Push Notification Sample {#send-a-push-notification-sample}
 

@@ -1,9 +1,17 @@
 ---
 unique-page-id: 2360429
-description: "Learn about report on your revenue model in Marketo Engage, including report on your revenue model. Use this guide to complete your next step."
+description: Learn about report on your revenue model in Marketo Engage, including report on your revenue model. Use this guide to complete your next step.
 title: Report on Your Revenue Model
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
 ---
 # Report on Your Revenue Model {#report-on-your-revenue-model}
 

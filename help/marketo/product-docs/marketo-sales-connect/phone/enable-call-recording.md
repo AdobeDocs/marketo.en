@@ -4,10 +4,13 @@ description: Learn how to enable call recording in Sales Connect. Turn on record
 title: Enable Call Recording
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/KTDxGB6MI-Dmpt79zcajHuBrNSBczlKw9ascb7id-1Q
+TQID: 'https://experienceleague.adobe.com/KTDxGB6MI-Dmpt79zcajHuBrNSBczlKw9ascb7id-1Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Enable Call Recording {#enable-call-recording}
 

@@ -3,7 +3,7 @@ description: Get help on person account sync between Marketo Engage and Veeva CR
 title: Person Account Sync FAQ
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/7RgVxWE7cvIimLpEMPcBr-DEL2QHVQuDkHR-Tl-ZrcE
+TQID: 'https://experienceleague.adobe.com/7RgVxWE7cvIimLpEMPcBr-DEL2QHVQuDkHR-Tl-ZrcE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -12,6 +12,11 @@ feature_v2:
     internal-label: Forms
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
 ---
 # Person Account Sync FAQ {#person-account-sync-faq}
 

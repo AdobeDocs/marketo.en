@@ -4,10 +4,16 @@ description: Learn how to run Champion/Challenger from-address tests. Test diffe
 title: Champion/Challenger -From Address
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/pw4hCrt1Q4ioBKyeobnEgv3lCjpwkxx1jD5MwPtAo9s
+TQID: 'https://experienceleague.adobe.com/pw4hCrt1Q4ioBKyeobnEgv3lCjpwkxx1jD5MwPtAo9s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 ---
 # Champion/Challenger: From Address {#champion-challenger-from-address}
 

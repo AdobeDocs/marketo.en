@@ -3,10 +3,13 @@ description: Learn how to send sales emails via group email. Email multiple reci
 title: Sending Emails via Group Email
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/M4ZhsvqF5rQrBo9JUHUizghuCD6FXRWOCzzuuaFXOZk
+TQID: 'https://experienceleague.adobe.com/M4ZhsvqF5rQrBo9JUHUizghuCD6FXRWOCzzuuaFXOZk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Sending Emails via Group Email {#sending-emails-via-group-email}
 

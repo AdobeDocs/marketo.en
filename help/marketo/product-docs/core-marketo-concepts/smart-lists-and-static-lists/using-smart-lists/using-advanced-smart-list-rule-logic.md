@@ -4,10 +4,16 @@ description: Learn how to use advanced Smart List rule logic. Combine filters wi
 title: Using Advanced Smart List Rule Logic
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/fApf1UB9N8aT8Eqi8oibEnWYiNjET-QcWYTvCfgJHgs
+TQID: 'https://experienceleague.adobe.com/fApf1UB9N8aT8Eqi8oibEnWYiNjET-QcWYTvCfgJHgs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 ---
 # Using Advanced Smart List Rule Logic {#using-advanced-smart-list-rule-logic}
 

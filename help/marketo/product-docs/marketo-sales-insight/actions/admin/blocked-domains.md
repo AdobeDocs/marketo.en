@@ -3,10 +3,13 @@ description: Learn how to block domains in Sales Insight Actions to prevent emai
 title: Blocked Domains
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/rt1VTGsoWCNAELjwPto-eojaKAEsrGI4ekYHTOk4AZo
+TQID: 'https://experienceleague.adobe.com/rt1VTGsoWCNAELjwPto-eojaKAEsrGI4ekYHTOk4AZo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Blocked Domains {#blocked-domains}
 

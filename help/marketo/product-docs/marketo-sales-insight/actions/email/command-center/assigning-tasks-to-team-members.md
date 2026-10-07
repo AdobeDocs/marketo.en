@@ -3,10 +3,13 @@ description: Learn how to assign tasks to team members from the Command Center. 
 title: Assigning Tasks to Team Members
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/izMi9cHZRxRfGEHwUdNzkM5Y5CGnigs6EbgNWh-rI4c
+TQID: 'https://experienceleague.adobe.com/izMi9cHZRxRfGEHwUdNzkM5Y5CGnigs6EbgNWh-rI4c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Assigning Tasks to Team Members {#assigning-tasks-to-team-members}
 

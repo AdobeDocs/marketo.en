@@ -4,10 +4,16 @@ description: Learn how to add a link to an image in a free-form landing page in 
 title: Add a Link to an Image in a Free-Form Landing Page
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc
+TQID: 'https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 ---
 # Add a Link to an Image in a Free-Form Landing Page {#add-a-link-to-an-image-in-a-free-form-landing-page}
 

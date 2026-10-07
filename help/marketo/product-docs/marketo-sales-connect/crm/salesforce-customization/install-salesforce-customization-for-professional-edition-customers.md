@@ -4,10 +4,13 @@ description: Learn how to install Sales Connect Salesforce customization for Pro
 title: Install [!DNL Salesforce] Customization for Professional Edition Customers
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-u-VxODTzqp8V86ulyItc3J90xNZRV9grChJyR6rcSg
+TQID: 'https://experienceleague.adobe.com/-u-VxODTzqp8V86ulyItc3J90xNZRV9grChJyR6rcSg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Install [!DNL Salesforce] Customization for Professional Edition Customers {#install-salesforce-customization-for-professional-edition-customers}
 

@@ -4,10 +4,13 @@ description: Learn how to edit Salesforce field accessibility for Sales Connect.
 title: Edit Salesforce Field Accesibility
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/eFjPJNOFm7BRh7tR-dJH1-QrbhZ7gYiVEBfvIWY1uyI
+TQID: 'https://experienceleague.adobe.com/eFjPJNOFm7BRh7tR-dJH1-QrbhZ7gYiVEBfvIWY1uyI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
     internal-label: Accessibility

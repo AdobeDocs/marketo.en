@@ -4,10 +4,13 @@ description: Learn how to install Sales Connect buttons in Salesforce. Add Push 
 title: How to Install Sales Connect Buttons in Salesforce
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/NlfDR0iYREXhLnNW-GRSqAw7n61nDZs5BAgxsOnSGvk
+TQID: 'https://experienceleague.adobe.com/NlfDR0iYREXhLnNW-GRSqAw7n61nDZs5BAgxsOnSGvk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # How to Install Sales Connect Buttons in Salesforce {#how-to-install-sales-connect-buttons-in-salesforce}
 

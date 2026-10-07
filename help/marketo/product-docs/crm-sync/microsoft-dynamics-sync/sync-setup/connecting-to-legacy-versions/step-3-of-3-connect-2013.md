@@ -4,10 +4,16 @@ description: Learn how to connect Marketo and Dynamics 2013 on-premises in the f
 title: Step 3 of 3 -Connect Marketo and Dynamics (2013 On-Premises)
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/pERYRYCLDigsARoh7aAWOTXRFmpIWKz8j-tgDb-ShTQ
+TQID: 'https://experienceleague.adobe.com/pERYRYCLDigsARoh7aAWOTXRFmpIWKz8j-tgDb-ShTQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 ---
 # Step 3 of 3: Connect Marketo and [!DNL Dynamics] (2013 On-Premises) {#step-of-connect-marketo-and-dynamics-on-premises}
 

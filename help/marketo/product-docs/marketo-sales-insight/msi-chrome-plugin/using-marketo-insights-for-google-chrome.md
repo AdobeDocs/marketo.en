@@ -4,10 +4,13 @@ description: Learn how to use Marketo Insights for Google Chrome. View person an
 title: Using Marketo Insights for Google Chrome
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/xV6C9XVb7ZQVUlQOdE8oWuc8lNOzoRZIG7XyyTMBwDQ
+TQID: 'https://experienceleague.adobe.com/xV6C9XVb7ZQVUlQOdE8oWuc8lNOzoRZIG7XyyTMBwDQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights

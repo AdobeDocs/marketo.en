@@ -4,10 +4,16 @@ description: Learn how to approve your Champion/Challenger email test. Complete 
 title: Champion/Challenger -Approve Your Email Test
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/5UVOPS2POHH6g9n7nWU1Z4UpSr0nZnNC-RLJ1K5F4WI
+TQID: 'https://experienceleague.adobe.com/5UVOPS2POHH6g9n7nWU1Z4UpSr0nZnNC-RLJ1K5F4WI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 ---
 # Champion/Challenger: Approve Your Email Test {#champion-challenger-approve-your-email-test}
 

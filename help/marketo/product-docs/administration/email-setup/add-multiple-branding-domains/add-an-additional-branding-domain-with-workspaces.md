@@ -4,13 +4,18 @@ description: Add additional branding domains and assign a primary domain per wor
 title: Add an Additional Branding Domain with Workspaces
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/Eg-eHRhBzfidHcy3drdp2jMAdSMy--PvVOSOv-T7UIE
+TQID: 'https://experienceleague.adobe.com/Eg-eHRhBzfidHcy3drdp2jMAdSMy--PvVOSOv-T7UIE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

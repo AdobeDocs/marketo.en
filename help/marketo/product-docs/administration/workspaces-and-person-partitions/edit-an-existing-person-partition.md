@@ -4,7 +4,7 @@ description: Steps to edit a person partition name and workspace assignments.
 title: Edit an Existing Person Partition
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-TQID: https://experienceleague.adobe.com/olo-JO-Hyx3cFfVlGW4ZeVQ3xx2DbQCC34eSBkoPVAk
+TQID: 'https://experienceleague.adobe.com/olo-JO-Hyx3cFfVlGW4ZeVQ3xx2DbQCC34eSBkoPVAk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,8 @@ feature_v2:
     internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: b4e49ca2-9149-5443-90e6-11978bb87c2f
+    internal-label: Partitions
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

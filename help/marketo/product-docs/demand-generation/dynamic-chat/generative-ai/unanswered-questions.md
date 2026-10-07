@@ -3,10 +3,16 @@ description: Learn how to view and respond to unanswered or not-helpful chatbot 
 title: Unanswered Questions
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
-TQID: https://experienceleague.adobe.com/qBCCscCI1eJ7P70HRrD38FxuCMVdMJmkKHtQW5I7obM
+TQID: 'https://experienceleague.adobe.com/qBCCscCI1eJ7P70HRrD38FxuCMVdMJmkKHtQW5I7obM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 ---
 # Unanswered Questions {#unanswered-questions}
 

@@ -4,10 +4,16 @@ description: Learn how to approve an email so it can be used in programs. Comple
 title: Approve an Email
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/qPxju5ob4fktkyD-ISqCMhp9vEM43KdIDABTFubMTUM
+TQID: 'https://experienceleague.adobe.com/qPxju5ob4fktkyD-ISqCMhp9vEM43KdIDABTFubMTUM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 ---
 # Approve an Email {#approve-an-email}
 

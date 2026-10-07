@@ -3,13 +3,15 @@ description: Understand Sales Campaign step types and reminder tasks. Use Email,
 title: Sales Campaign Step Types and Reminder Tasks
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/QnwSipRlTnXV-LV-KG11LPZbHBjHPGsaLMPBrzqD8gM
+TQID: 'https://experienceleague.adobe.com/QnwSipRlTnXV-LV-KG11LPZbHBjHPGsaLMPBrzqD8gM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Sales Campaign Step Types and Reminder Tasks {#sales-campaign-step-types-and-reminder-tasks}
 

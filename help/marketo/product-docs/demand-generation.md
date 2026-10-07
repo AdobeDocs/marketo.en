@@ -1,7 +1,10 @@
 ---
 unique-page-id: 557078
-description: "Demand Generation - Marketo Docs - Product Documentation"
+description: Demand Generation - Marketo Docs - Product Documentation
 title: Demand Generation
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 
 # Demand Generation {#demand-generation}

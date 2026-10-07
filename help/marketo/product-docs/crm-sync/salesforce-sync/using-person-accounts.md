@@ -4,13 +4,18 @@ description: Learn about how Marketo Engage treats Salesforce person accounts. D
 title: Using Person Accounts
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/-NqSQnq-q6-McMyxsWgX5WKx1F7pwTaOIPg1Se8M1zM
+TQID: 'https://experienceleague.adobe.com/-NqSQnq-q6-McMyxsWgX5WKx1F7pwTaOIPg1Se8M1zM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
     internal-label: Forms
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 ---
 # Using Person Accounts {#using-person-accounts}
 

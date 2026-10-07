@@ -5,13 +5,18 @@ title: Transitioning to Email Editor 2.0
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/aRQmCh8C9S72AF97qGor8q3FjCQEjV6DmrnR05ozsTs
+TQID: 'https://experienceleague.adobe.com/aRQmCh8C9S72AF97qGor8q3FjCQEjV6DmrnR05ozsTs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 ---
 # Transitioning to [!DNL Email Editor 2.0] {#transitioning-to-email-editor}
 

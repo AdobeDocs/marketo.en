@@ -3,13 +3,15 @@ description: Learn how to view template engagement in the Analytics Content tab.
 title: Template Engagement
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/tZJt9Qhp2rWlJ-MQGAIaS0PCW4Hy-538JygxDqABFhQ
+TQID: 'https://experienceleague.adobe.com/tZJt9Qhp2rWlJ-MQGAIaS0PCW4Hy-538JygxDqABFhQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Template Engagement {#template-engagement}
 

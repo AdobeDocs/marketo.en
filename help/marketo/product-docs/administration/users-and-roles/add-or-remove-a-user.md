@@ -1,8 +1,14 @@
 ---
-description: "How to add or remove Marketo Engage users in the Adobe Admin Console by selecting a product profile and managing the Users tab."
+description: How to add or remove Marketo Engage users in the Adobe Admin Console by selecting a product profile and managing the Users tab.
 title: Add or Remove a User
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b73410f7-454c-5670-baa7-a84eae014e94
+    internal-label: Marketo with Adobe Identity
 ---
 # Add or Remove a User {#add-or-remove-a-user}
 

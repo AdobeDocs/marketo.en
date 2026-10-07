@@ -4,10 +4,13 @@ description: Get help when Sales Connect activity did not log to Salesforce. Tro
 title: Didn't Log to Salesforce
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/M1LxJEhihbKrr-4Jwj6vmZJz89kpxKaeftapkukwvnk
+TQID: 'https://experienceleague.adobe.com/M1LxJEhihbKrr-4Jwj6vmZJz89kpxKaeftapkukwvnk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Didn't Log to [!DNL Salesforce] {#didnt-log-to-salesforce}
 

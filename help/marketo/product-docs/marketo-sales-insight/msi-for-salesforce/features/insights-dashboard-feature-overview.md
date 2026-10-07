@@ -4,7 +4,7 @@ description: Learn about the Insights Dashboard in Marketo Sales Insight. View e
 title: Insights Dashboard Feature Overview
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/pMPRzDtLNKUNPoOSV9F9OxsiYFdHrU2wYpGQMZAJ7hQ
+TQID: 'https://experienceleague.adobe.com/pMPRzDtLNKUNPoOSV9F9OxsiYFdHrU2wYpGQMZAJ7hQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,8 @@ feature_v2:
     internal-label: Configuration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 subfeature_v2:
   - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
     internal-label: Default programs

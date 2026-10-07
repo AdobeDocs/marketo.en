@@ -4,13 +4,15 @@ description: Learn how to add hyperlinked text to a Sales Connect template. Inse
 title: Add Hyperlinked Text
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Y7qye77OG2UNv4iKP-w-4Z8xSeqzMmii283-gNGGG-I
+TQID: 'https://experienceleague.adobe.com/Y7qye77OG2UNv4iKP-w-4Z8xSeqzMmii283-gNGGG-I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Add Hyperlinked Text {#add-hyperlinked-text}
 

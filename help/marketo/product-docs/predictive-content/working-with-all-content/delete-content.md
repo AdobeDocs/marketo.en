@@ -4,10 +4,13 @@ description: Learn how to delete content from the All Content page when you no l
 title: Delete Content
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/sV45l1U1foBNaxzunMOoqRsyPCGXuOf29qQfR38xs5I
+TQID: 'https://experienceleague.adobe.com/sV45l1U1foBNaxzunMOoqRsyPCGXuOf29qQfR38xs5I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 ---
 # Delete Content {#delete-content}
 

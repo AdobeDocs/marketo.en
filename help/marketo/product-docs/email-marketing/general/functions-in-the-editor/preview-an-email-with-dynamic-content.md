@@ -4,10 +4,16 @@ description: Learn how to preview emails with dynamic content. See how variants 
 title: Preview an Email with Dynamic Content
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/aqq-w-CNbbGHgeB5uwjdOJwsJJVI1OgaWv8zmde7xto
+TQID: 'https://experienceleague.adobe.com/aqq-w-CNbbGHgeB5uwjdOJwsJJVI1OgaWv8zmde7xto'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 ---
 # Preview an Email with Dynamic Content {#preview-an-email-with-dynamic-content}
 

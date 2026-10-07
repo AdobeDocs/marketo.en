@@ -1,7 +1,13 @@
 ---
-description: "Learn about transactional sales email templates in Sales Connect. Use templates that bypass unsubscribe for transactional messages."
+description: Learn about transactional sales email templates in Sales Connect. Use templates that bypass unsubscribe for transactional messages.
 title: Transactional Sales Email Templates
 feature: Marketo Sales Connect
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Transactional Sales Email Templates {#transactional-sales-email-templates}
 

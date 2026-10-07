@@ -4,7 +4,7 @@ description: Learn how to verify push configuration so your mobile app is synced
 title: Verify Push Configuration
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/xXzWA9POETR9p9g-siF2Azsw-bgwz987wg6-KL7JbBA
+TQID: 'https://experienceleague.adobe.com/xXzWA9POETR9p9g-siF2Azsw-bgwz987wg6-KL7JbBA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,8 @@ feature_v2:
     internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
     internal-label: Configuration
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Verify Push Configuration {#verify-push-configuration}
 

@@ -4,10 +4,16 @@ description: Learn how to view entry details in the Marketing Calendar. Select a
 title: View Entry Details
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/3F3TIk5iF3Th4Adi4yj1azuMToNvu3kIXsS4zV2mtAc
+TQID: 'https://experienceleague.adobe.com/3F3TIk5iF3Th4Adi4yj1azuMToNvu3kIXsS4zV2mtAc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
 ---
 # View Entry Details {#view-entry-details}
 

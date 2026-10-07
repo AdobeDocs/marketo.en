@@ -4,7 +4,7 @@ description: Reviewing Core Skills - Marketo Docs - Product Documentation
 title: Reviewing Core Skills
 exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/-7UpdBw6GcuTtJKHU1Wept43ddQqADbET5q9U3-lX4c
+TQID: 'https://experienceleague.adobe.com/-7UpdBw6GcuTtJKHU1Wept43ddQqADbET5q9U3-lX4c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -15,6 +15,8 @@ feature_v2:
     internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting

@@ -4,10 +4,13 @@ description: Get help when the Sales Connect plugin is not showing up in Gmail. 
 title: Sales Connect Plugin Not Showing up in Gmail
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/UkapxaHCL5UbWjOLoFl21XNUXkx-WkbEdl--VjMOEOU
+TQID: 'https://experienceleague.adobe.com/UkapxaHCL5UbWjOLoFl21XNUXkx-WkbEdl--VjMOEOU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # [!DNL Sales Connect] Plugin Not Showing up in Gmail {#sales-connect-plugin-not-showing-up-in-gmail}
 

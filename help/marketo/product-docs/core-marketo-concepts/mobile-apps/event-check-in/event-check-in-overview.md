@@ -3,10 +3,13 @@ description: Learn about Event Check-in for checking in customers from a tablet.
 title: Event Check-in Overview
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/ryjtMEfYnhdTzBAZuJFSvOOz2R-3hgWNJL37Hmcvkok
+TQID: 'https://experienceleague.adobe.com/ryjtMEfYnhdTzBAZuJFSvOOz2R-3hgWNJL37Hmcvkok'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Event Check-in Overview {#event-check-in-overview}
 

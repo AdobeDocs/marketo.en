@@ -1,9 +1,17 @@
 ---
 unique-page-id: 2360403
-description: "Learn about compare program effectiveness with the program analyzer in Marketo Engage, including compare program. Use this guide to complete your next step."
+description: Learn about compare program effectiveness with the program analyzer in Marketo Engage, including compare program. Use this guide to complete your next step.
 title: Compare Program Effectiveness with the Program Analyzer
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
 ---
 # Compare Program Effectiveness with the [!UICONTROL Program Analyzer] {#compare-program-effectiveness-with-the-program-analyzer}
 

@@ -4,10 +4,16 @@ description: Learn how to define Champion criteria for email tests. Set the rule
 title: Champion/Challenger -Define Champion Criteria
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/uCGJ3Nj-5vpy1tGytN5YXEDqB3DQKNk8FlxkVbMoei8
+TQID: 'https://experienceleague.adobe.com/uCGJ3Nj-5vpy1tGytN5YXEDqB3DQKNk8FlxkVbMoei8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 ---
 # Champion/Challenger: Define Champion Criteria {#champion-challenger-define-champion-criteria}
 

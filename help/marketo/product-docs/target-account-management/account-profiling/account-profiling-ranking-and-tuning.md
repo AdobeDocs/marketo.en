@@ -4,13 +4,18 @@ description: Understand how Account Profiling ranks companies by your ICP and ad
 title: Account Profiling Ranking and Tuning
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/nuRK415J6iR46j8ft0lShUapom3GzqWiuNf-k2-Ca5w
+TQID: 'https://experienceleague.adobe.com/nuRK415J6iR46j8ft0lShUapom3GzqWiuNf-k2-Ca5w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience

@@ -1,6 +1,9 @@
 ---
 description: Use Product knowledge to ask CX Enterprise Coworker for Marketo Engage about features, best practices, and how-tos. Answers are grounded in Adobe's official documentation.
 title: Product knowledge
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Product knowledge {#product-knowledge}
 

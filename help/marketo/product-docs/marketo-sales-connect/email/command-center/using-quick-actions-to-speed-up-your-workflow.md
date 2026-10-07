@@ -4,10 +4,13 @@ description: Learn how to use quick actions in Sales Connect to speed up your wo
 title: Using Quick Actions to Speed Up Your Workflow
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/wPFSzvwWQOQXO5fa69BeMxrOEm0--T6gKoyhmky2JJk
+TQID: 'https://experienceleague.adobe.com/wPFSzvwWQOQXO5fa69BeMxrOEm0--T6gKoyhmky2JJk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Using Quick Actions to Speed Up Your Workflow {#using-quick-actions-to-speed-up-your-workflow}
 

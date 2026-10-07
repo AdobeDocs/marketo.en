@@ -3,13 +3,15 @@ description: Learn about transactional sales email templates and when unsubscrib
 title: Transactional Sales Email Templates
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
-TQID: https://experienceleague.adobe.com/jtFUKYM-28npTije11gtCPNGBdsgEcI6Qhp6lbbLWUY
+TQID: 'https://experienceleague.adobe.com/jtFUKYM-28npTije11gtCPNGBdsgEcI6Qhp6lbbLWUY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Transactional Sales Email Templates {#transactional-sales-email-templates}
 

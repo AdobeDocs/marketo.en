@@ -1,6 +1,9 @@
 ---
 description: Review the CX Enterprise Coworker for Marketo Engage data scope, governance controls, and PII considerations across key workflows such as lead import, program QA, and data normalization.
 title: CX Enterprise Coworker for Marketo Engage data information sheet
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # CX Enterprise Coworker for Marketo Engage data information sheet {#data-information}
 

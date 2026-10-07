@@ -1,9 +1,17 @@
 ---
 unique-page-id: 4718666
-description: "Learn how to using revenue model inventory stages in Marketo Engage using using revenue model inventory stages. Use this guide to complete your next step."
+description: Learn how to using revenue model inventory stages in Marketo Engage using using revenue model inventory stages. Use this guide to complete your next step.
 title: Using Revenue Model Inventory Stages
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
 ---
 # Using Revenue Model Inventory Stages {#using-revenue-model-inventory-stages}
 

@@ -1,6 +1,9 @@
 ---
-description: "Get help when sales emails are marked as spam. Learn causes and steps to improve deliverability and avoid spam filters."
+description: Get help when sales emails are marked as spam. Learn causes and steps to improve deliverability and avoid spam filters.
 title: Email Marked as Spam
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Email Marked as Spam {#email-marked-as-spam}
 

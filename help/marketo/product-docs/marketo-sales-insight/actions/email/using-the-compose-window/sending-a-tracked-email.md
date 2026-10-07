@@ -1,8 +1,11 @@
 ---
-description: "Learn how to send a tracked sales email so you can see views, clicks, and replies. Use a delivery channel and track from Command Center."
+description: Learn how to send a tracked sales email so you can see views, clicks, and replies. Use a delivery channel and track from Command Center.
 title: Sending a Tracked Email
 hide: true
-hidefromtoc: yes
+hidefromtoc: 'yes'
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Sending a Tracked Email {#sending-a-tracked-email}
 

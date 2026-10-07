@@ -4,10 +4,13 @@ description: Personalize an Email - Marketo Docs - Product Documentation
 title: Personalize an Email
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/T2rqqrkxA5tScMDEnJ4oEXSwuJKnb36bscUKg5aRXhc
+TQID: 'https://experienceleague.adobe.com/T2rqqrkxA5tScMDEnJ4oEXSwuJKnb36bscUKg5aRXhc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 ---
 # Personalize an Email {#personalize-an-email}
 

@@ -4,10 +4,16 @@ description: Get help on Smart List filter operators. Understand equals, contain
 title: Smart List Filter Operators Glossary
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/srdWBb-dHYhiCNam-GPG6tTIHo3k53IH687LF-UiFg4
+TQID: 'https://experienceleague.adobe.com/srdWBb-dHYhiCNam-GPG6tTIHo3k53IH687LF-UiFg4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 ---
 # Smart List Filter Operators Glossary {#smart-list-filter-operators-glossary}
 

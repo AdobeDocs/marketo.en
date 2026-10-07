@@ -2,10 +2,22 @@
 solution: Marketo Engage
 product: marketo
 title: Edit email templates with the advanced HTML editor
-description: "Learn how to view and edit raw HTML source code in the Marketo Engage Email Designer, including guardrails, access steps, and key limitations."
+description: Learn how to view and edit raw HTML source code in the Marketo Engage Email Designer, including guardrails, access steps, and key limitations.
 level: Intermediate
 feature: Email Designer
 exl-id: b030e56a-de70-4b0d-9788-04a01235cffb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Edit email templates with the advanced HTML editor {#advanced-html-mode}
 

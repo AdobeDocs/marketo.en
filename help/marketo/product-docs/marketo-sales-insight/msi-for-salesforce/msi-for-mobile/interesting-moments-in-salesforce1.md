@@ -4,10 +4,13 @@ description: Learn about interesting moments in Salesforce Mobile (Salesforce1).
 title: Interesting Moments in Salesforce1
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/3J4bWPzp-o4f-N-Lo9ip3xcstSl3SQ7GTPsDWT6q3po
+TQID: 'https://experienceleague.adobe.com/3J4bWPzp-o4f-N-Lo9ip3xcstSl3SQ7GTPsDWT6q3po'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights

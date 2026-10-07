@@ -1,10 +1,15 @@
 ---
-description: "Understand the person detail view in Sales Insight Actions. See contact info, activity history, and quick actions for a lead or contact."
+description: Understand the person detail view in Sales Insight Actions. See contact info, activity history, and quick actions for a lead or contact.
 title: Person Detail View
 hide: true
-
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Person Detail View {#person-detail-view}
 

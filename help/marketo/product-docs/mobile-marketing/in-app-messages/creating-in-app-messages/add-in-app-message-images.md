@@ -4,7 +4,7 @@ description: Learn how to add and customize images in your in-app message. Selec
 title: Add In-App Message Images
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/wKrIxk7qDv37Iza7jA1ORfA16eQlPkP-JtXBWlFcnLs
+TQID: 'https://experienceleague.adobe.com/wKrIxk7qDv37Iza7jA1ORfA16eQlPkP-JtXBWlFcnLs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -15,6 +15,8 @@ feature_v2:
     internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Add In-App Message Images {#add-in-app-message-images}
 

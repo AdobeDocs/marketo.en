@@ -4,10 +4,13 @@ description: Learn how to add a new test device for push notifications. Use a UR
 title: Adding a New Test Device
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/fdjspcqf5-ZQLGd9-1QwuKdAEG0YXSTjVSQvGMPvp8U
+TQID: 'https://experienceleague.adobe.com/fdjspcqf5-ZQLGd9-1QwuKdAEG0YXSTjVSQvGMPvp8U'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Adding a New Test Device {#adding-a-new-test-device}
 

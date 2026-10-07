@@ -4,7 +4,7 @@ description: Learn how to edit a Marketo landing page template. Update templates
 title: Edit a Marketo Landing Page Template
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/wC9hlqZXCOkpBfdi99jUtnbwmVSCPLKjmyx40wUH3h4
+TQID: 'https://experienceleague.adobe.com/wC9hlqZXCOkpBfdi99jUtnbwmVSCPLKjmyx40wUH3h4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,11 @@ feature_v2:
     internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 ---
 # Edit a Marketo Landing Page Template {#edit-a-marketo-landing-page-template}
 

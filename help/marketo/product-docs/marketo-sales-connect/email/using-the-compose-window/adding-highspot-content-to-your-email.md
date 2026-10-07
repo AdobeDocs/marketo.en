@@ -4,10 +4,13 @@ description: Learn how to add Highspot content to your Sales Connect email. Inse
 title: Adding Highspot Content to Your Email
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/kVIAJgt6Jrv6px5XM7lIepJw4m3nxHtn76aGXbUob-0
+TQID: 'https://experienceleague.adobe.com/kVIAJgt6Jrv6px5XM7lIepJw4m3nxHtn76aGXbUob-0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Adding [!DNL Highspot] Content to Your Email {#adding-highspot-content-to-your-email}
 

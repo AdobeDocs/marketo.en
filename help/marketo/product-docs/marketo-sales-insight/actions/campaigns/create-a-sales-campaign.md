@@ -3,10 +3,13 @@ description: Learn how to create a Sales Campaign with email, call, InMail, and 
 title: Create a Sales Campaign
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/UWJhgXOd1e0TPYN0kK49HPWVb4pWrMKzZcTkaVI1Gj8
+TQID: 'https://experienceleague.adobe.com/UWJhgXOd1e0TPYN0kK49HPWVb4pWrMKzZcTkaVI1Gj8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Create a Sales Campaign {#create-a-sales-campaign}
 

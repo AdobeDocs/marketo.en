@@ -1,6 +1,9 @@
 ---
-description: "Learn how to manage your Sales Insight Actions profile. Update name, email, signature, and notification preferences in Settings."
+description: Learn how to manage your Sales Insight Actions profile. Update name, email, signature, and notification preferences in Settings.
 title: Manage Your Profile
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Manage Your Profile {#manage-your-profile}
 

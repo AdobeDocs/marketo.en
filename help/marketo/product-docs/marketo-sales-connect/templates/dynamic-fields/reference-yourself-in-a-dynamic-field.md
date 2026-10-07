@@ -4,13 +4,15 @@ description: Learn how to reference yourself in a Sales Connect dynamic field. U
 title: Reference Yourself in a Dynamic Field
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/dNvB4eEnqeOYCSvNzK6DOdxhAg-1u-FwyuvI-WTElUQ
+TQID: 'https://experienceleague.adobe.com/dNvB4eEnqeOYCSvNzK6DOdxhAg-1u-FwyuvI-WTElUQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Reference Yourself in a Dynamic Field {#reference-yourself-in-a-dynamic-field}
 

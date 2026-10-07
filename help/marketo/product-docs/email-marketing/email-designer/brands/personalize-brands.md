@@ -6,8 +6,18 @@ description: Learn how to personalize your brand guidelines.
 role: User
 level: Beginner, Intermediate
 hide: true
-
 exl-id: 63d2e356-1a42-4cd2-b11f-3499f963c2dd
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Personalize your brand {#personalize}
 

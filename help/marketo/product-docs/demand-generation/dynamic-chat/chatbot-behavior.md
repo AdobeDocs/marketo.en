@@ -3,13 +3,18 @@ description: Learn about Dynamic Chat chatbot behavior across dialogues, priorit
 title: Chatbot Behavior
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-TQID: https://experienceleague.adobe.com/chj5dD8Nrim8XWAnetHEOZbhi8y-q2bivL52y771tdc
+TQID: 'https://experienceleague.adobe.com/chj5dD8Nrim8XWAnetHEOZbhi8y-q2bivL52y771tdc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
     internal-label: Personalization
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization

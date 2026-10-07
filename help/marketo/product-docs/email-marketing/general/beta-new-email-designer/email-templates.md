@@ -4,7 +4,7 @@ title: Email templates
 hide: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-TQID: https://experienceleague.adobe.com/z-unNOgHUxTyNSc8P5r7-xbP8AQd79P3Z0qz3uZkKqw
+TQID: 'https://experienceleague.adobe.com/z-unNOgHUxTyNSc8P5r7-xbP8AQd79P3Z0qz3uZkKqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -17,9 +17,13 @@ feature_v2:
     internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
     internal-label: Adobe Identity Management
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization

@@ -4,10 +4,13 @@ description: Learn about Sales Phone local presence in Sales Connect. Display a 
 title: Sales Phone Local Presence
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-Mw7ww1YsyO-2ejnBdsfAGszUbSNErQdpOMXYPBa7CU
+TQID: 'https://experienceleague.adobe.com/-Mw7ww1YsyO-2ejnBdsfAGszUbSNErQdpOMXYPBa7CU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Sales Phone Local Presence {#sales-phone-local-presence}
 

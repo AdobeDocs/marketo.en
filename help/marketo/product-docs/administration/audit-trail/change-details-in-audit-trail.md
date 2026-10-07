@@ -4,7 +4,7 @@ description: Reference for what change details Audit Trail records for assets an
 title: Change Details in Audit Trail
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-TQID: https://experienceleague.adobe.com/udO9Dc9RJl9vopApjSC6EN-zL3o2Igh6yn-njzaItV0
+TQID: 'https://experienceleague.adobe.com/udO9Dc9RJl9vopApjSC6EN-zL3o2Igh6yn-njzaItV0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -19,6 +19,11 @@ feature_v2:
     internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security

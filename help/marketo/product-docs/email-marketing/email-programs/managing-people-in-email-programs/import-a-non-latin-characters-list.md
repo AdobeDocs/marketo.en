@@ -4,13 +4,18 @@ description: Learn how to import lists with non-Latin characters for email progr
 title: Import a Non-Latin Characters List
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/Gm8yGhCq4D4Is9dE84rHf6XUAOY08viLQNEF-VjR2VA
+TQID: 'https://experienceleague.adobe.com/Gm8yGhCq4D4Is9dE84rHf6XUAOY08viLQNEF-VjR2VA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 ---
 # Import a Non-Latin Characters List {#import-a-non-latin-characters-list}
 

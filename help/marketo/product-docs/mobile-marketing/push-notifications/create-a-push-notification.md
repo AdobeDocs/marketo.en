@@ -4,10 +4,13 @@ description: Learn how to create a push notification. Add it as a local asset in
 title: Create a Push Notification
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/Q2fGYZz-h2s9aMb0rCbwk-PeQkRlnoKrkFid2JWzZQQ
+TQID: 'https://experienceleague.adobe.com/Q2fGYZz-h2s9aMb0rCbwk-PeQkRlnoKrkFid2JWzZQQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Create a Push Notification {#create-a-push-notification}
 

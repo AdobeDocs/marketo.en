@@ -3,7 +3,7 @@ description: Release Notes - July 2024 - Marketo Docs - Product Documentation
 title: Release Notes - July 2024
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-TQID: https://experienceleague.adobe.com/G66a1E1PleerglG-RMkFRmDN6XySVEKNoPkGfpimniA
+TQID: 'https://experienceleague.adobe.com/G66a1E1PleerglG-RMkFRmDN6XySVEKNoPkGfpimniA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -12,9 +12,13 @@ feature_v2:
     internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
     internal-label: Integrations
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
     internal-label: Dynamic Chat
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 ---
 # Release Notes: July 2024 {#release-notes-july-24}
 

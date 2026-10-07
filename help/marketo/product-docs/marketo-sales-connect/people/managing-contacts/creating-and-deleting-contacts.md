@@ -4,10 +4,13 @@ description: Learn how to create and delete contacts in Sales Connect. Add new c
 title: Creating and Deleting Contacts
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/UXdE5MWxchftyKvPznHtJQrbKgSCccQcZ3qrD-nfgqQ
+TQID: 'https://experienceleague.adobe.com/UXdE5MWxchftyKvPznHtJQrbKgSCccQcZ3qrD-nfgqQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Creating and Deleting Contacts {#creating-and-deleting-contacts}
 

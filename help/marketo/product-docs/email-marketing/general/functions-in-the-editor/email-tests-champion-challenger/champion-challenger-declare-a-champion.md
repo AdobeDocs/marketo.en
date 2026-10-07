@@ -4,10 +4,16 @@ description: Learn how to declare a Champion for your email test. Choose the win
 title: Champion/Challenger -Declare a Champion
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/P6vWv-ff-HjwO8-W5zx7uaj2S-vh1lJnEeVyVX1448Q
+TQID: 'https://experienceleague.adobe.com/P6vWv-ff-HjwO8-W5zx7uaj2S-vh1lJnEeVyVX1448Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 ---
 # Champion/Challenger: Declare a Champion {#champion-challenger-declare-a-champion}
 

@@ -4,10 +4,16 @@ description: Learn how to refresh a list or Smart List. Update the people in the
 title: Refresh a List or Smart List
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/9mDk82MHRwR7qY0or3iOXMJbsJb5Frqd3a3doWa0sfM
+TQID: 'https://experienceleague.adobe.com/9mDk82MHRwR7qY0or3iOXMJbsJb5Frqd3a3doWa0sfM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 ---
 # Refresh a List or Smart List {#refresh-a-list-or-smart-list}
 

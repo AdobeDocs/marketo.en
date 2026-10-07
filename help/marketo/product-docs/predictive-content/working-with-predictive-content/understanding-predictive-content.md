@@ -4,10 +4,13 @@ description: Learn about approved Predictive Content titles, enabled sources, cl
 title: Understanding Predictive Content
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/gBdlrGHiT--9DZtU6kSvtDCqWC0XkC5Pqx6kPHSsqJI
+TQID: 'https://experienceleague.adobe.com/gBdlrGHiT--9DZtU6kSvtDCqWC0XkC5Pqx6kPHSsqJI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 ---
 # Understanding Predictive Content {#understanding-predictive-content}
 

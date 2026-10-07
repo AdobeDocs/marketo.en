@@ -4,13 +4,18 @@ description: Learn how to clone an engagement program stream for testing. Clone 
 title: Clone a Stream
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/Z-U9iTTV04OrhnjcfU00R1n9lZ9XB27TIGDhHkzE96M
+TQID: 'https://experienceleague.adobe.com/Z-U9iTTV04OrhnjcfU00R1n9lZ9XB27TIGDhHkzE96M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
 ---
 # Clone a Stream {#clone-a-stream}
 

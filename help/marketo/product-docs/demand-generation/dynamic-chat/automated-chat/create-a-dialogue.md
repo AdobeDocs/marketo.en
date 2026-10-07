@@ -3,13 +3,18 @@ description: Learn how to create a new Dialogue in Dynamic Chat. Choose a templa
 title: Create a Dialogue
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
-TQID: https://experienceleague.adobe.com/xEgZSfcWCOUkzqvq-XzziusQAhEhL4iXpY9oGrxUduA
+TQID: 'https://experienceleague.adobe.com/xEgZSfcWCOUkzqvq-XzziusQAhEhL4iXpY9oGrxUduA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 ---
 # Create a Dialogue {#create-a-dialogue}
 

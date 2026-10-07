@@ -1,9 +1,18 @@
 ---
-description: "Learn how to embed a Conversational Flow in a Marketo landing page. Let visitors schedule meetings through Dynamic Chat without filling out a form."
+description: Learn how to embed a Conversational Flow in a Marketo landing page. Let visitors schedule meetings through Dynamic Chat without filling out a form.
 title: Use a Conversational Flow Landing Page
 hide: true
-hidefromtoc: yes
+hidefromtoc: 'yes'
 feature: Dynamic Chat
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 ---
 # Use a Conversational Flow Landing Page{#use-a-conversational-flow-landing-page}
 

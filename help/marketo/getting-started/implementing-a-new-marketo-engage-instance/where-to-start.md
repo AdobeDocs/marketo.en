@@ -3,7 +3,7 @@ description: Learn the best practices when implementing a new Marketo Engage ins
 title: Where to Start
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-TQID: https://experienceleague.adobe.com/gOkLmDbo6Xff2g7IE-gl7vXswqHfxDaXftd-LZRUFTk
+TQID: 'https://experienceleague.adobe.com/gOkLmDbo6Xff2g7IE-gl7vXswqHfxDaXftd-LZRUFTk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -18,6 +18,8 @@ feature_v2:
     internal-label: Design Studio
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
     internal-label: Implementation
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: b83de148-8847-43b0-9656-84c65c2bf6e1
     internal-label: User setup

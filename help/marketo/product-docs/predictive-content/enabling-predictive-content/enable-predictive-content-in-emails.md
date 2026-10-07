@@ -4,10 +4,13 @@ description: Learn how to make email images predictive with ContentAI after titl
 title: Enable Predictive Content in Emails
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/8SS9vHyFpf7kDWcDSf90qhX2g9dqMyTwTzYZhHf9bwY
+TQID: 'https://experienceleague.adobe.com/8SS9vHyFpf7kDWcDSf90qhX2g9dqMyTwTzYZhHf9bwY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 ---
 # Enable Predictive Content in Emails {#enable-predictive-content-in-emails}
 

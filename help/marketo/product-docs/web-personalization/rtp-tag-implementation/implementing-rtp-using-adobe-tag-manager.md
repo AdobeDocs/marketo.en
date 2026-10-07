@@ -4,7 +4,7 @@ description: Learn about implementing rtp using adobe tag manager in Marketo Eng
 title: Implementing RTP using Adobe Tag Manager
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/aIrAA9GHOTh0EkaSgVYq4veUQH-0uNbIfUvWfV825fQ
+TQID: 'https://experienceleague.adobe.com/aIrAA9GHOTh0EkaSgVYq4veUQH-0uNbIfUvWfV825fQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,8 @@ feature_v2:
     internal-label: Implementation
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
     internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation

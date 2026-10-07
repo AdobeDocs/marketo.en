@@ -4,10 +4,13 @@ description: Learn about the Sales Connect terms of service. Find the legal term
 title: What Are the Sales Connect Terms of Service?
 exl-id: 958d5d0f-1cf4-4653-aaf9-e516a23cb702
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/HvSapSd1ZNlxqtjvBB9TBoVfclytYsC5wldPu6ByIgg
+TQID: 'https://experienceleague.adobe.com/HvSapSd1ZNlxqtjvBB9TBoVfclytYsC5wldPu6ByIgg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # What Are the [!DNL Sales Connect] Terms of Service? {#what-are-the-sales-connect-terms-of-service}
 

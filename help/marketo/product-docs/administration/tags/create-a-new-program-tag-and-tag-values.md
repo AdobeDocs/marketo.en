@@ -4,7 +4,7 @@ description: How to create a custom program tag and assign values, choose progra
 title: Create a New Program Tag and Tag Values
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-TQID: https://experienceleague.adobe.com/7InlxGERcOwp-1fhijay249nQGtkFGEJ1HV8gOURs6Q
+TQID: 'https://experienceleague.adobe.com/7InlxGERcOwp-1fhijay249nQGtkFGEJ1HV8gOURs6Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,9 @@ feature_v2:
     internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+subfeature_v2:
+  - id: eabd8318-c438-41ef-8756-bedd6f38b8fc
+    internal-label: Tag administration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

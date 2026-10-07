@@ -4,10 +4,16 @@ description: Learn how to customize which activities Marketo pushes to Salesforc
 title: Customize Activities Sync
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/-TT0DVds0ztGMA5tCHko6foGA3A3kotXi5qKmspp-Fs
+TQID: 'https://experienceleague.adobe.com/-TT0DVds0ztGMA5tCHko6foGA3A3kotXi5qKmspp-Fs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 ---
 # Customize Activities Sync {#customize-activities-sync}
 

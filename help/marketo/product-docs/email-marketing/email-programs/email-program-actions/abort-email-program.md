@@ -4,13 +4,18 @@ description: Learn how to abort an email program before or during send. Stop del
 title: Abort Email Program
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/joPzsJPtfI-CVTM6H6ItD87iKeGFrFrAHBWCAtvipQc
+TQID: 'https://experienceleague.adobe.com/joPzsJPtfI-CVTM6H6ItD87iKeGFrFrAHBWCAtvipQc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 ---
 # Abort Email Program {#abort-email-program}
 

@@ -1,11 +1,17 @@
 ---
 unique-page-id: 2949471
-description: "Setup Checklist - Marketo Docs - Product Documentation"
+description: Setup Checklist - Marketo Docs - Product Documentation
 title: Setup Checklist
 hide: true
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 ---
 # Setup Checklist {#setup-checklist}
 

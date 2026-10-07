@@ -4,7 +4,7 @@ description: Learn how to set up LinkedIn Lead Gen Forms with Marketo. Connect L
 title: Set up LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-TQID: https://experienceleague.adobe.com/M71uOB2ibUQ43e52t04-kjgVkbI5c4dsw-ajqD44ZIs
+TQID: 'https://experienceleague.adobe.com/M71uOB2ibUQ43e52t04-kjgVkbI5c4dsw-ajqD44ZIs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -15,6 +15,11 @@ feature_v2:
     internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: e9b7b90f-6f8a-4637-a2ca-00239808918c
+    internal-label: Social
 ---
 # Set up LinkedIn Lead Gen Forms {#set-up-linkedin-lead-gen-forms}
 

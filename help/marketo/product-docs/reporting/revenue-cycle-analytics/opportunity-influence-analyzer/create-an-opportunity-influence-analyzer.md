@@ -1,9 +1,17 @@
 ---
 unique-page-id: 2360235
-description: "Learn how to create an opportunity influence analyzer in Marketo Engage using create an opportunity influence. Use this guide to complete your next step."
+description: Learn how to create an opportunity influence analyzer in Marketo Engage using create an opportunity influence. Use this guide to complete your next step.
 title: Create an Opportunity Influence Analyzer
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
 ---
 # Create an Opportunity Influence Analyzer {#create-an-opportunity-influence-analyzer}
 

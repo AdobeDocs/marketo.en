@@ -4,7 +4,7 @@ description: Learn how to use a Marketo list or smart list as a LinkedIn audienc
 title: Use a Marketo List or Smart List as a LinkedIn Audience Segment
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-TQID: https://experienceleague.adobe.com/n7Z4AKx6Hiu6f9cxXPpfSTJJdOLakTwy7ejQ-6LK4Bo
+TQID: 'https://experienceleague.adobe.com/n7Z4AKx6Hiu6f9cxXPpfSTJJdOLakTwy7ejQ-6LK4Bo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -15,6 +15,11 @@ feature_v2:
     internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: e9b7b90f-6f8a-4637-a2ca-00239808918c
+    internal-label: Social
 ---
 # Use a Marketo List or Smart List as a LinkedIn Audience Segment {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 

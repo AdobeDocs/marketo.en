@@ -4,13 +4,18 @@ description: How to change the data type of a custom field in Field Management (
 title: Change the Type of a Marketo Custom Field
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-TQID: https://experienceleague.adobe.com/Tnjq8vp7l6MpqGMlpwHXJXLz2Mi6GkJF8FgmWNQMhU8
+TQID: 'https://experienceleague.adobe.com/Tnjq8vp7l6MpqGMlpwHXJXLz2Mi6GkJF8FgmWNQMhU8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

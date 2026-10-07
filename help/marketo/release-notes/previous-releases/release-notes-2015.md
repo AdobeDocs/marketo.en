@@ -1,7 +1,10 @@
 ---
-title: "2015"
+title: '2015'
 description: 2015 - Marketo Docs - Product Documentation
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
     internal-label: Smart Campaigns
@@ -27,6 +30,8 @@ feature_v2:
     internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
     internal-label: Segmentation
@@ -36,6 +41,8 @@ subfeature_v2:
     internal-label: Snippets
   - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
     internal-label: Custom objects
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting

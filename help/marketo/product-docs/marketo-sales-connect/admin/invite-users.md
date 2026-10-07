@@ -4,10 +4,13 @@ description: Learn how to invite users to your Sales Connect account. Add team m
 title: Invite Users
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/N0ZY75CwdkxCT6PfwBZgK5knAKsYWGA3pwupSLF5AL0
+TQID: 'https://experienceleague.adobe.com/N0ZY75CwdkxCT6PfwBZgK5knAKsYWGA3pwupSLF5AL0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Invite Users {#invite-users}
 

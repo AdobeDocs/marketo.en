@@ -3,10 +3,13 @@ description: Learn how to configure Salesforce activity detail customization for
 title: Configure Salesforce Activity Detail Customization
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/OFYgwAWftCcz7IsGMcdiEI6gzYhdvZB10qlTYpIiX60
+TQID: 'https://experienceleague.adobe.com/OFYgwAWftCcz7IsGMcdiEI6gzYhdvZB10qlTYpIiX60'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Configure [!DNL Salesforce] Activity Detail Customization {#configure-salesforce-activity-detail-customization}
 

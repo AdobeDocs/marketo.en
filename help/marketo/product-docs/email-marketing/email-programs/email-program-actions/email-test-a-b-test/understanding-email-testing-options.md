@@ -4,7 +4,7 @@ description: Learn about email testing options for A/B tests. Understand subject
 title: Understanding Email Testing Options
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 feature: Email Programs, A/B Testing
-TQID: https://experienceleague.adobe.com/ExTkO-1kuTvsd3X4PjOVsirJ7Ha7HwAxZXCSeFuGKbg
+TQID: 'https://experienceleague.adobe.com/ExTkO-1kuTvsd3X4PjOVsirJ7Ha7HwAxZXCSeFuGKbg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,13 @@ feature_v2:
     internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 ---
 # Understanding Email Testing Options {#understanding-email-testing-options}
 

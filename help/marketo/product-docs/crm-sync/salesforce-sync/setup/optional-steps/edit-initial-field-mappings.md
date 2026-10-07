@@ -4,10 +4,16 @@ description: Learn how to edit initial field mappings before the first Salesforc
 title: Edit Initial Field Mappings
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/wqBJIxz5JX1iHb-iE2NuhrbWcUypLEN3dndu36kJNXs
+TQID: 'https://experienceleague.adobe.com/wqBJIxz5JX1iHb-iE2NuhrbWcUypLEN3dndu36kJNXs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 ---
 # Edit Initial Field Mappings {#edit-initial-field-mappings}
 

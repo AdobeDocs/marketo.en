@@ -4,10 +4,13 @@ description: Learn how to share a Moment from the Marketo Moments app. Send key 
 title: Sharing a Moment
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/23phcVfYqFTEoOApmIsIkOvekpuQsH-i545qJtxmbo8
+TQID: 'https://experienceleague.adobe.com/23phcVfYqFTEoOApmIsIkOvekpuQsH-i545qJtxmbo8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Sharing a Moment {#sharing-a-moment}
 

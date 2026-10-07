@@ -4,13 +4,20 @@ description: Learn how to run date/time A/B tests for email programs. Test diffe
 title: Use "Date/Time" A/B Testing
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-TQID: https://experienceleague.adobe.com/V3lRJlUSegVZJbrhyPJRAKopziqMdmpseC16EFLGzrU
+TQID: 'https://experienceleague.adobe.com/V3lRJlUSegVZJbrhyPJRAKopziqMdmpseC16EFLGzrU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 ---
 # Use "Date/Time" A/B Testing {#use-date-time-a-b-testing}
 

@@ -4,10 +4,13 @@ description: Learn how to send a tracked email from Gmail with the Sales Connect
 title: How to Send an Email From Gmail
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/PPvG-SvKYrCpRoakDNEA5hv9hu8p-Gix44nlqWoC5i8
+TQID: 'https://experienceleague.adobe.com/PPvG-SvKYrCpRoakDNEA5hv9hu8p-Gix44nlqWoC5i8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # How to Send an Email From Gmail {#how-to-send-an-email-from-gmail}
 

@@ -4,13 +4,15 @@ description: Learn about Event cards in Marketo Moments. View event program deta
 title: Understanding Event Cards
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/bHRcbjtFH9FHztjFrMujxWZ3ulWfkF2oXm8a93QQfhc
+TQID: 'https://experienceleague.adobe.com/bHRcbjtFH9FHztjFrMujxWZ3ulWfkF2oXm8a93QQfhc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
     internal-label: Event programs

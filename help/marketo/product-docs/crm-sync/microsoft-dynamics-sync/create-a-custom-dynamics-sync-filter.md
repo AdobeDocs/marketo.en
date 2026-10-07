@@ -4,7 +4,7 @@ description: Learn how to create a custom Dynamics sync filter so only selected 
 title: Create a Custom [!DNL Dynamics] Sync Filter
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/XXCfjVD8zv3PdzniEs-eu6SYk6p74rW3jb2s5jbk6YE
+TQID: 'https://experienceleague.adobe.com/XXCfjVD8zv3PdzniEs-eu6SYk6p74rW3jb2s5jbk6YE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,11 @@ feature_v2:
     internal-label: Database
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
     internal-label: Implementation
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation

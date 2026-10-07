@@ -1,6 +1,9 @@
 ---
 description: Learn how to enable Coworker for Marketo Engage permissions, configure organizational rules, and manage settings like integrations and notifications.
 title: Settings and Setup
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Settings and setup {#settings-setup}
 

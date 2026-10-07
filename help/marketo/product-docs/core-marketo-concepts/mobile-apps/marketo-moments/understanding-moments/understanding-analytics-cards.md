@@ -4,10 +4,13 @@ description: Learn about Analytics cards in Marketo Moments. View key metrics an
 title: Understanding Analytics Cards
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/GtluIt4erDOpwskZBf9UYX2o3u6cQfdQ5q10vMzbvFI
+TQID: 'https://experienceleague.adobe.com/GtluIt4erDOpwskZBf9UYX2o3u6cQfdQ5q10vMzbvFI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Understanding Analytics Cards {#understanding-analytics-cards}
 

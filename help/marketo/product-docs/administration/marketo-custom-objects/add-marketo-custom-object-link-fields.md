@@ -4,7 +4,7 @@ description: How to add link fields to connect custom objects to people or compa
 title: Add Marketo Custom Object Link Fields
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-TQID: https://experienceleague.adobe.com/3hHHOXlSyskmUQHHdcknbK8ayhl43mY6rCnhptqWi2I
+TQID: 'https://experienceleague.adobe.com/3hHHOXlSyskmUQHHdcknbK8ayhl43mY6rCnhptqWi2I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -15,6 +15,11 @@ feature_v2:
     internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

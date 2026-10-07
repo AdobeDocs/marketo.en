@@ -3,6 +3,12 @@ description: Learn how to create, customize, share with your team, favorite, arc
 title: Manage Templates
 feature: Marketo Sales Connect
 exl-id: 3b1a0a36-edd1-44f6-964e-4f46b684dba9
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Manage Templates {#manage-templates}
 

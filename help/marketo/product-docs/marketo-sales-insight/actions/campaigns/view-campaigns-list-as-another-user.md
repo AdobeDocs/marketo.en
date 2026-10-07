@@ -3,10 +3,13 @@ description: Learn how to view campaigns as another user when you are an admin. 
 title: View Campaigns List as Another User
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/5QyodCKCmgH4o5-5yG9QPZ8N-m3tTozTjKEp7poGaUI
+TQID: 'https://experienceleague.adobe.com/5QyodCKCmgH4o5-5yG9QPZ8N-m3tTozTjKEp7poGaUI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # View Campaigns List as Another User {#view-campaigns-list-as-another-user}
 

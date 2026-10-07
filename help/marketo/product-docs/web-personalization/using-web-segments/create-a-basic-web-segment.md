@@ -4,7 +4,7 @@ description: Learn how to create a basic web segment in Marketo Engage using cre
 title: Create a Basic Web Segment
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/RHxdeZJ-xUPxVuqPUVbpVk0FeVQcyiHGuE98tyHCPb4
+TQID: 'https://experienceleague.adobe.com/RHxdeZJ-xUPxVuqPUVbpVk0FeVQcyiHGuE98tyHCPb4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,8 @@ feature_v2:
     internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization

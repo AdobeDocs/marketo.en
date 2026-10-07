@@ -4,10 +4,13 @@ description: Get help when the recipient location is incorrect in Sales Connect.
 title: Incorrect Recipient Location
 exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/WXaXEsRVgKATa1H9guhuLGgZk35IjK8Z5dZTbISfF5Q
+TQID: 'https://experienceleague.adobe.com/WXaXEsRVgKATa1H9guhuLGgZk35IjK8Z5dZTbISfF5Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Incorrect Recipient Location {#incorrect-recipient-location}
 

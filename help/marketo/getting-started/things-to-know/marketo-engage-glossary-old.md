@@ -1,9 +1,15 @@
 ---
-description: "Marketo Engage Glossary - Marketo Docs - Product Documentation"
+description: Marketo Engage Glossary - Marketo Docs - Product Documentation
 short-description: Learn Marketo Engage terms and their definitions to help you get up to speed quickly.
 title: Marketo Engage Glossary
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 ---
 # Marketo Engage Glossary {#marketo-engage-glossary}
 

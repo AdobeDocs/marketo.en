@@ -4,10 +4,13 @@ description: Learn how to manage groups in Sales Connect. Create, edit, share, a
 title: Manage Groups
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/yVSaQgo3OykzO8QH-oZwWr--zewybJgT1CVcWzQqxs0
+TQID: 'https://experienceleague.adobe.com/yVSaQgo3OykzO8QH-oZwWr--zewybJgT1CVcWzQqxs0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Manage Groups {#manage-groups}
 
