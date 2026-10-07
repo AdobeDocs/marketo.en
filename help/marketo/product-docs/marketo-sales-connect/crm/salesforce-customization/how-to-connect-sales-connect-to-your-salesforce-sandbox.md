@@ -4,13 +4,15 @@ description: Learn how to connect Sales Connect to your Salesforce sandbox. Set 
 title: How to Connect Sales Connect to Your Salesforce Sandbox
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/hEZXmSaOyNuptcuDEMrsiSeT-n4FSXU67W2DVPwb3uI
+TQID: 'https://experienceleague.adobe.com/hEZXmSaOyNuptcuDEMrsiSeT-n4FSXU67W2DVPwb3uI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
     internal-label: Integrations
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # How to Connect Sales Connect to Your Salesforce Sandbox {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 

@@ -4,10 +4,13 @@ description: Learn how to add a system token as a link in an email. Use tokens i
 title: Add a System Token as a Link in an Email
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-TQID: https://experienceleague.adobe.com/UjNwoeeRWyGrPUCMV--3StSZcbY-fxSj3a5wrm60oL4
+TQID: 'https://experienceleague.adobe.com/UjNwoeeRWyGrPUCMV--3StSZcbY-fxSj3a5wrm60oL4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
 ---
 # Add a System Token as a Link in an Email {#add-a-system-token-as-a-link-in-an-email}
 

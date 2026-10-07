@@ -4,7 +4,7 @@ description: Learn how to create an event with Webex in Marketo. Configure the W
 title: Create an Event with [!DNL Webex]
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-TQID: https://experienceleague.adobe.com/TDiOAkdoh-06ZZwY0uvTUCnSKJBzr3-Ht2Rqty--EIc
+TQID: 'https://experienceleague.adobe.com/TDiOAkdoh-06ZZwY0uvTUCnSKJBzr3-Ht2Rqty--EIc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -15,6 +15,8 @@ feature_v2:
     internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security

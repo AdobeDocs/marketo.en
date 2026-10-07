@@ -4,7 +4,7 @@ description: Learn how to create an event with Adobe Connect in Marketo. Set up 
 title: Create an Event with Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-TQID: https://experienceleague.adobe.com/I6k5QNBRUFdvHu-7xQMolmzHeyVYt-0ajZ0jV-HIPFY
+TQID: 'https://experienceleague.adobe.com/I6k5QNBRUFdvHu-7xQMolmzHeyVYt-0ajZ0jV-HIPFY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -15,6 +15,8 @@ feature_v2:
     internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
     internal-label: Event programs

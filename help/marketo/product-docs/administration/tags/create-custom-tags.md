@@ -4,7 +4,7 @@ description: How to create a new tag type with values, choose which program type
 title: Create Custom Tags
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-TQID: https://experienceleague.adobe.com/ORu7E1aGAIyNwmVIZG8O7-2O2ZFodLFPWTM8eIuic8g
+TQID: 'https://experienceleague.adobe.com/ORu7E1aGAIyNwmVIZG8O7-2O2ZFodLFPWTM8eIuic8g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -15,6 +15,9 @@ feature_v2:
     internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
+subfeature_v2:
+  - id: eabd8318-c438-41ef-8756-bedd6f38b8fc
+    internal-label: Tag administration
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting

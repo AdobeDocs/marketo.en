@@ -5,10 +5,13 @@ title: SEO - Export Issues to CSV
 exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
 hide: true
 feature: SEO
-TQID: https://experienceleague.adobe.com/3YrTasIvX5GHEdWjIIdHQMEpwPcSJMg7-uLWRQIOtnk
+TQID: 'https://experienceleague.adobe.com/3YrTasIvX5GHEdWjIIdHQMEpwPcSJMg7-uLWRQIOtnk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: e7f165cf-33cc-5c68-9025-558e655fec14
+    internal-label: SEO
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization

@@ -3,7 +3,7 @@ description: Release Notes - August 2025 - Marketo Docs - Product Documentation
 title: Release Notes - August 2025
 feature: Release Information
 exl-id: f4f71a77-d0c0-41c3-9362-afbfb467cc7a
-TQID: https://experienceleague.adobe.com/Tt3KgAUlQd8oBN2KV-dFUQdEPmlZ-3tOzQ8T-EaCTfI
+TQID: 'https://experienceleague.adobe.com/Tt3KgAUlQd8oBN2KV-dFUQdEPmlZ-3tOzQ8T-EaCTfI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -18,9 +18,13 @@ feature_v2:
     internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
     internal-label: Dynamic Chat
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting

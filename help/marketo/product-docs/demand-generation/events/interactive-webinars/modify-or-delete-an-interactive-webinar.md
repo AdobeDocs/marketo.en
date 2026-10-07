@@ -3,10 +3,13 @@ description: Learn how to modify or delete an Interactive Webinar in Marketo. Up
 title: Modify or Delete an Interactive Webinar
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-TQID: https://experienceleague.adobe.com/drQyVdmCEcipyzmbkrhLV-VCKsHzSrceZVMRn5d5NKc
+TQID: 'https://experienceleague.adobe.com/drQyVdmCEcipyzmbkrhLV-VCKsHzSrceZVMRn5d5NKc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 ---
 # Modify or Delete an Interactive Webinar {#modify-or-delete-an-interactive-webinar}
 

@@ -4,10 +4,16 @@ description: Learn how to enable or disable Salesforce campaign sync in Marketo 
 title: Enable/Disable Campaign Sync
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/c-K2FlSiqt747Qb1CC0arLbfOD5-SdYeFN6zIMVWa1Q
+TQID: 'https://experienceleague.adobe.com/c-K2FlSiqt747Qb1CC0arLbfOD5-SdYeFN6zIMVWa1Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 ---
 # Enable/Disable Campaign Sync {#enable-disable-campaign-sync}
 

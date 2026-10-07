@@ -4,7 +4,7 @@ description: Learn about the engagement score (0 to 100) and how it measures con
 title: Understanding the Engagement Score
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-TQID: https://experienceleague.adobe.com/b8-UTMy8MRLxXte2IbMJDfBT3srjzy5FIWgLUH256x8
+TQID: 'https://experienceleague.adobe.com/b8-UTMy8MRLxXte2IbMJDfBT3srjzy5FIWgLUH256x8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,11 @@ feature_v2:
     internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting

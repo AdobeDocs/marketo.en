@@ -4,10 +4,13 @@ description: Understand interesting moments in Sales Connect and Marketo. Learn 
 title: Interesting Moments in Sales Connect
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/KgwnG6Rpi3BJy-Vboy7MuPkjhz-O-BOzmncdgpbrNVU
+TQID: 'https://experienceleague.adobe.com/KgwnG6Rpi3BJy-Vboy7MuPkjhz-O-BOzmncdgpbrNVU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Interesting Moments in [!DNL Sales Connect] {#interesting-moments-in-sales-connect}
 

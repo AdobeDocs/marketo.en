@@ -4,7 +4,7 @@ description: Learn how to create a new event program in Marketo. Set up your pro
 title: Create a New Event Program
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-TQID: https://experienceleague.adobe.com/IcnjJtUembK4odgMFbRHwfbkG4-TkQdqL6NJLAqDW8Q
+TQID: 'https://experienceleague.adobe.com/IcnjJtUembK4odgMFbRHwfbkG4-TkQdqL6NJLAqDW8Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,8 @@ feature_v2:
     internal-label: Forms
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 ---
 # Create a New Event Program {#create-a-new-event-program}
 

@@ -4,10 +4,16 @@ description: Learn how to use personas to segment your ABM audience and market t
 title: Using Personas
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/RRkO7yEFUgpggS2n6Ly0B7I7IjY5ATFhAYx93xbIP6w
+TQID: 'https://experienceleague.adobe.com/RRkO7yEFUgpggS2n6Ly0B7I7IjY5ATFhAYx93xbIP6w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience

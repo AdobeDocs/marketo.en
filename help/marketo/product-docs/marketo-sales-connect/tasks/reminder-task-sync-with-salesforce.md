@@ -3,10 +3,13 @@ description: Understand how Sales Connect reminder tasks sync with Salesforce. L
 title: Reminder Task Sync with Salesforce
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/gxQs0GlZN5Bp262OW4wa0Rk4-txe0tC3MBL0V-2mTeo
+TQID: 'https://experienceleague.adobe.com/gxQs0GlZN5Bp262OW4wa0Rk4-txe0tC3MBL0V-2mTeo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Reminder Task Sync with [!DNL Salesforce] {#reminder-task-sync-with-salesforce}
 

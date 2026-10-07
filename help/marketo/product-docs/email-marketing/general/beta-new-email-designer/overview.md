@@ -4,7 +4,7 @@ title: Overview
 hide: true
 feature: Email Editor
 exl-id: 86475b8b-4dd2-4c73-9586-889f6a3c01e8
-TQID: https://experienceleague.adobe.com/xWA-ySSjcd6gFOYB9hRc7mpjLeB8FdB-Mycia55YX7U
+TQID: 'https://experienceleague.adobe.com/xWA-ySSjcd6gFOYB9hRc7mpjLeB8FdB-Mycia55YX7U'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -15,11 +15,15 @@ feature_v2:
     internal-label: Administration
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-    internal-label: Smart Lists
+    internal-label: Smart lists
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
     internal-label: Adobe Identity Management
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

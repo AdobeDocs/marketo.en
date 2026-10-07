@@ -3,10 +3,13 @@ description: Learn about Predictive Audiences models and influencing factors. Us
 title: Models and Insights
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-TQID: https://experienceleague.adobe.com/ikS8VQJfQ9ndHrtDY5K8GYbNYwJjk1nYkuqxnwfcWPY
+TQID: 'https://experienceleague.adobe.com/ikS8VQJfQ9ndHrtDY5K8GYbNYwJjk1nYkuqxnwfcWPY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 60e4be0b-b3ea-5f4e-8b8c-da0f5a08dacd
+    internal-label: Predictive Audiences
 topic_v2:
   - id: b4dd41a7-ccf8-4e9d-918e-acaab534a307
     internal-label: Data quality

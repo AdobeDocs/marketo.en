@@ -4,13 +4,18 @@ description: Learn how to replace an uploaded image or file in Marketo. Update t
 title: Replace an Uploaded Image or File
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-TQID: https://experienceleague.adobe.com/6poiAxaLlG-5pOmdsleecF1-f6c8r6Sl0Tl-SPwJ2UQ
+TQID: 'https://experienceleague.adobe.com/6poiAxaLlG-5pOmdsleecF1-f6c8r6Sl0Tl-SPwJ2UQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
     internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: ecf3b0de-0d29-4cb7-bed7-bf29ea2e2f77
+    internal-label: Image editor
 ---
 # Replace an Uploaded Image or File {#replace-an-uploaded-image-or-file}
 

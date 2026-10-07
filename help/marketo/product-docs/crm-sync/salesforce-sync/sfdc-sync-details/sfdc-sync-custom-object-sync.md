@@ -4,16 +4,20 @@ description: Learn how to set up custom object sync from Salesforce to Marketo. 
 title: SFDC Sync - Custom Object Sync
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/JIkS3cBJD3SlUmKOJKUOuIXTbZyMTZ0LCdOgnz7SHSA
+TQID: 'https://experienceleague.adobe.com/JIkS3cBJD3SlUmKOJKUOuIXTbZyMTZ0LCdOgnz7SHSA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
     internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-    internal-label: Smart Lists
+    internal-label: Smart lists
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 ---
 # SFDC Sync: Custom Object Sync {#sfdc-sync-custom-object-sync}
 

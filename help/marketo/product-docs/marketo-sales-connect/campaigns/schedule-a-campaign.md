@@ -4,10 +4,13 @@ description: Learn how to schedule a Sales Connect campaign. Set send times for 
 title: Schedule a Campaign
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/4mwXaTG4ScoNvv-LSnpGuE6RjDTpa1kkeIPMzp09a-w
+TQID: 'https://experienceleague.adobe.com/4mwXaTG4ScoNvv-LSnpGuE6RjDTpa1kkeIPMzp09a-w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Schedule a Campaign {#schedule-a-campaign}
 

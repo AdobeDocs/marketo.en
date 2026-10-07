@@ -4,10 +4,13 @@ description: Learn how to approve your in-app message to launch it. Pause, resum
 title: Approve Your In-App Message
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/MODdLWOZwhG8ojcd1sZQdP9v-c9Jo8lKVngIvzJ4ZXs
+TQID: 'https://experienceleague.adobe.com/MODdLWOZwhG8ojcd1sZQdP9v-c9Jo8lKVngIvzJ4ZXs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Approve Your In-App Message {#approve-your-in-app-message}
 

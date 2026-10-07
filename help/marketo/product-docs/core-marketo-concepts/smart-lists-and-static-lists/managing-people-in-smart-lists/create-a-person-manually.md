@@ -4,13 +4,18 @@ description: Learn how to create a person manually in the Database. Add a new le
 title: Create a Person Manually
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/MbEBE0fLA0Idw-vJUgaw5x9qZNN3hMsv2zSP2vAEIng
+TQID: 'https://experienceleague.adobe.com/MbEBE0fLA0Idw-vJUgaw5x9qZNN3hMsv2zSP2vAEIng'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 ---
 # Create a Person Manually {#create-a-person-manually}
 

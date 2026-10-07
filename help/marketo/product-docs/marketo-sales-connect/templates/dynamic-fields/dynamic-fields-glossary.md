@@ -4,13 +4,15 @@ description: Learn about dynamic fields in Sales Connect. Use this glossary to f
 title: Dynamic Fields Glossary
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/5cRospk9mWomxfUH-DWHLiWWT75TpolXq5sjHDknric
+TQID: 'https://experienceleague.adobe.com/5cRospk9mWomxfUH-DWHLiWWT75TpolXq5sjHDknric'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Dynamic Fields Glossary {#dynamic-fields-glossary}
 

@@ -4,13 +4,15 @@ description: Learn how to lock a sales template in Marketo Sales Insight. Preven
 title: Lock Sales Template
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/PNWQ3RaspZ-Vf3LHoCqPRH3cVlV2grC8iDPo1s1sbvg
+TQID: 'https://experienceleague.adobe.com/PNWQ3RaspZ-Vf3LHoCqPRH3cVlV2grC8iDPo1s1sbvg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights

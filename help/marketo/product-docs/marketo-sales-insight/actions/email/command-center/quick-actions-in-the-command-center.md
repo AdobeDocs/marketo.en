@@ -3,10 +3,13 @@ description: Learn about quick actions in the Command Center for sales emails an
 title: Quick Actions in the Command Center
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ
+TQID: 'https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Quick Actions in the [!UICONTROL Command Center] {#quick-actions-in-the-command-center}
 

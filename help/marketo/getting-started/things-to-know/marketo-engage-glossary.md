@@ -4,7 +4,7 @@ short-description: Learn Marketo Engage terms and their definitions to help you 
 title: Marketo Engage Glossary
 feature: Getting Started
 exl-id: dd97b50c-4148-473e-b9fb-4e76ef733e5d
-TQID: https://experienceleague.adobe.com/PTGIP2b0gv2iYVUC6dXES-Sh2XNeCLZJT-VnWZ5-1Yk
+TQID: 'https://experienceleague.adobe.com/PTGIP2b0gv2iYVUC6dXES-Sh2XNeCLZJT-VnWZ5-1Yk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -16,7 +16,7 @@ feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
     internal-label: Integrations
   - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
-    internal-label: Demand generation
+    internal-label: Assets
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
   - id: c954475c-8548-4e33-a0b8-6b550d956115
@@ -31,6 +31,8 @@ feature_v2:
     internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
     internal-label: Personalization
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
     internal-label: Segmentation
@@ -45,7 +47,7 @@ subfeature_v2:
   - id: cfb57412-021b-4a60-afde-b402d442e24f
     internal-label: Marketing activities
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-    internal-label: Smart Lists
+    internal-label: Smart lists
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
     internal-label: Microsoft Dynamics
   - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1

@@ -1,7 +1,10 @@
 ---
 unique-page-id: 2953432
-description: "CRM Sync - Marketo Docs - Product Documentation"
+description: CRM Sync - Marketo Docs - Product Documentation
 title: CRM Sync
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 
 # CRM Sync {#crm-sync}

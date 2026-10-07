@@ -4,10 +4,16 @@ description: Learn how to install the Marketo solution for Dynamics 2015 on-prem
 title: Install Marketo for Microsoft Dynamics 2015 On-Premises Step 1 of 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/i6ILYEtzZ2vJnyELO-Zb8T-hRh0b2yVzbHaOzIEkF-k
+TQID: 'https://experienceleague.adobe.com/i6ILYEtzZ2vJnyELO-Zb8T-hRh0b2yVzbHaOzIEkF-k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 ---
 # Step 1 of 3: Configure Sync User for Marketo (2015 On-Prem) {#step-of-configure-sync-user-for-marketo-on-premises-2015}
 

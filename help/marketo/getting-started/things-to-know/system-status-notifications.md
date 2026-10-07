@@ -3,6 +3,12 @@ description: Subscribe to System Status Notifications - Marketo Engage Docs - Pr
 title: Subscribe to System Status Notifications
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 ---
 # Subscribe to system status notifications {#subscribe-to-system-status-notifications}
 

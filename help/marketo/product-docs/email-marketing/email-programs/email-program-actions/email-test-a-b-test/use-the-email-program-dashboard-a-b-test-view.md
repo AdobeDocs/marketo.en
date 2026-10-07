@@ -4,13 +4,20 @@ description: Learn how to use the email program dashboard A/B test view. Monitor
 title: Use the Email Program Dashboard - A/B Test View
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 feature: Email Programs, A/B Testing
-TQID: https://experienceleague.adobe.com/O1NTM6Lrrk0d-2tC-nLCFkFYnKgm3xBr51ZERYSnEx8
+TQID: 'https://experienceleague.adobe.com/O1NTM6Lrrk0d-2tC-nLCFkFYnKgm3xBr51ZERYSnEx8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 ---
 # Use the Email Program Dashboard - A/B Test View {#use-the-email-program-dashboard-a-b-test-view}
 

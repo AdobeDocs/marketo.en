@@ -4,10 +4,13 @@ description: Learn about ON24 event registration updates and how they sync with 
 title: ON24 Event Registration Updates
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-TQID: https://experienceleague.adobe.com/2G9BHBIeyQS6ID6nT8rjDbRfx1re3z4tUslY4QEki7Y
+TQID: 'https://experienceleague.adobe.com/2G9BHBIeyQS6ID6nT8rjDbRfx1re3z4tUslY4QEki7Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 ---
 # ON24 Event Registration Updates {#on-event-registration-updates}
 

@@ -4,7 +4,7 @@ description: Learn how to create an event with Zoom in Marketo. Set up the Zoom 
 title: Create an Event with [!DNL Zoom]
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-TQID: https://experienceleague.adobe.com/U5xsTJ-TgiTymlWAOWIuACLSeGE9iuPVjym-z3-VlvA
+TQID: 'https://experienceleague.adobe.com/U5xsTJ-TgiTymlWAOWIuACLSeGE9iuPVjym-z3-VlvA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -15,6 +15,8 @@ feature_v2:
     internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

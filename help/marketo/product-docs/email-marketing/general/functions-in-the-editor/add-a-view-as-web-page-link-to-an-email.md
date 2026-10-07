@@ -4,7 +4,7 @@ description: Learn how to add a View as Web Page link to an email. Let recipient
 title: Add a View as Web Page Link to an Email
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/6jbDSriI0SyR5-ymeg-vougnydh4Ygs7uoW4Q63KT0I
+TQID: 'https://experienceleague.adobe.com/6jbDSriI0SyR5-ymeg-vougnydh4Ygs7uoW4Q63KT0I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -15,6 +15,11 @@ feature_v2:
     internal-label: Administration
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

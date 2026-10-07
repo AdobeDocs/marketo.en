@@ -5,10 +5,13 @@ title: SEO - Exporting Keyword Results
 exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 hide: true
 feature: SEO
-TQID: https://experienceleague.adobe.com/V8HVfCGhMhXFAMkW5ruLIs0JAdN-JRK54uQnxXCrfmo
+TQID: 'https://experienceleague.adobe.com/V8HVfCGhMhXFAMkW5ruLIs0JAdN-JRK54uQnxXCrfmo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: e7f165cf-33cc-5c68-9025-558e655fec14
+    internal-label: SEO
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization

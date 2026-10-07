@@ -6,7 +6,7 @@ description: Learn how to lock content in email templates so others cannot edit 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-TQID: https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo
+TQID: 'https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -15,6 +15,11 @@ feature_v2:
     internal-label: Configuration
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate

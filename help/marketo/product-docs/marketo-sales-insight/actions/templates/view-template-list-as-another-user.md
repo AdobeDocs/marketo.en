@@ -4,13 +4,15 @@ title: View Template List as Another User
 hide: true
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/PDzUjbvrcCC-xh8aFl2DQYEmBe7DMIKRvKdsKIFylhI
+TQID: 'https://experienceleague.adobe.com/PDzUjbvrcCC-xh8aFl2DQYEmBe7DMIKRvKdsKIFylhI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # View Template List as Another User {#view-template-list-as-another-user}
 

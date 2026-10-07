@@ -4,13 +4,15 @@ description: Learn about Sales Connect and GDPR compliance. Understand how Sales
 title: Sales Connect and GDPR Compliance
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/7LgLCoMIcJI-0o3Cw8BYnLUH-0QJTVsMwLi-aeWkwtw
+TQID: 'https://experienceleague.adobe.com/7LgLCoMIcJI-0o3Cw8BYnLUH-0QJTVsMwLi-aeWkwtw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience

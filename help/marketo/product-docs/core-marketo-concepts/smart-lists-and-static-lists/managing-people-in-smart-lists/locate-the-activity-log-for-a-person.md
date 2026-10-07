@@ -4,13 +4,18 @@ description: Learn how to locate the activity log for a person. View email, web,
 title: Locate the Activity Log for a Person
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/Ymczp2DWw7WFHrr5U-fqk-zC1LWRZyq0CTfwnoX64Qk
+TQID: 'https://experienceleague.adobe.com/Ymczp2DWw7WFHrr5U-fqk-zC1LWRZyq0CTfwnoX64Qk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 ---
 # Locate the Activity Log for a Person {#locate-the-activity-log-for-a-person}
 

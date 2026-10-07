@@ -4,10 +4,13 @@ description: Understand how view tracking works in Sales Connect. Learn when an 
 title: How View Tracking Works
 exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ZhM38XC2nxZuvt7-HFX9JfXW2abdbGHBYOwrmg-pMmg
+TQID: 'https://experienceleague.adobe.com/ZhM38XC2nxZuvt7-HFX9JfXW2abdbGHBYOwrmg-pMmg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # How View Tracking Works {#how-view-tracking-works}
 

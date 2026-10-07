@@ -4,10 +4,13 @@ description: Learn how to use URLs in My Tokens. Store and reference URLs in tok
 title: Using URLs in My Tokens
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-TQID: https://experienceleague.adobe.com/d7nzJcfEeJutTNuo95NXcT1eTQXBdNZJoEq5-BdTxs0
+TQID: 'https://experienceleague.adobe.com/d7nzJcfEeJutTNuo95NXcT1eTQXBdNZJoEq5-BdTxs0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
 ---
 # Using URLs in My Tokens {#using-urls-in-my-tokens}
 

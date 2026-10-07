@@ -4,10 +4,13 @@ description: Learn how to share Sales Connect call recordings with your team. Ac
 title: Share Call Recordings with Your Team
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/tXpUxHcMFEmJew6jNl3B-MlvqELIGcicj9bZ-A7ykiM
+TQID: 'https://experienceleague.adobe.com/tXpUxHcMFEmJew6jNl3B-MlvqELIGcicj9bZ-A7ykiM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Share Call Recordings with Your Team {#share-call-recordings-with-your-team}
 

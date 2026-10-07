@@ -4,13 +4,18 @@ description: Learn how to create an email template in Email Editor 2.0. Build re
 title: Create an Email Template
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/VLvIcKbZdX6oqItqsbeRB01kCNDALI3CfYPxgdqI4E4
+TQID: 'https://experienceleague.adobe.com/VLvIcKbZdX6oqItqsbeRB01kCNDALI3CfYPxgdqI4E4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
     internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting

@@ -3,10 +3,16 @@ description: Learn how to grant consent for the client ID and app registration u
 title: Grant Consent for Client Id and App Registration
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/HOqR2iJ4eN5091PyTeOLtCeYkVrj9TMs5MuKK8tEeYo
+TQID: 'https://experienceleague.adobe.com/HOqR2iJ4eN5091PyTeOLtCeYkVrj9TMs5MuKK8tEeYo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 ---
 # Grant Consent for Client Id and App Registration {#grant-consent-for-client-id-and-app-registration}
 

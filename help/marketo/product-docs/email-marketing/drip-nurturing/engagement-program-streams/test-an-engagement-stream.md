@@ -4,7 +4,7 @@ description: Learn how to test an engagement stream with a test person. Use Prog
 title: Test an Engagement Stream
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/idDd76zfpXOVc7RIRfubWZ1bScpjAR6rECV69EaivpI
+TQID: 'https://experienceleague.adobe.com/idDd76zfpXOVc7RIRfubWZ1bScpjAR6rECV69EaivpI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,11 @@ feature_v2:
     internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
 ---
 # Test an Engagement Stream {#test-an-engagement-stream}
 

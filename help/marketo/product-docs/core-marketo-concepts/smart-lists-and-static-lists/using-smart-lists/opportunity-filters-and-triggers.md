@@ -4,10 +4,16 @@ description: Learn about opportunity filters and triggers in Marketo. Segment an
 title: Opportunity Filters and Triggers
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/e5Nz6uthpqduyCkhoo1or70-Ych-DaAeZ-iOSEPxyA8
+TQID: 'https://experienceleague.adobe.com/e5Nz6uthpqduyCkhoo1or70-Ych-DaAeZ-iOSEPxyA8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 ---
 # Opportunity Filters and Triggers {#opportunity-filters-and-triggers}
 

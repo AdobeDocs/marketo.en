@@ -4,10 +4,13 @@ description: Learn how to install the Sales Connect email plugin for Outlook. Ad
 title: Install the Sales Connect Email Plugin for Outlook
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/hi31NUvqfTfY7-EsFSkdihoG8FDnwaV6gC3ttGyRsKU
+TQID: 'https://experienceleague.adobe.com/hi31NUvqfTfY7-EsFSkdihoG8FDnwaV6gC3ttGyRsKU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Install the Sales Connect Email Plugin for Outlook (Online, Mac, and Windows) {#install-the-sales-connect-email-plugin-for-outlook}
 

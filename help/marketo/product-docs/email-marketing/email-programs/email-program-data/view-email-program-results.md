@@ -4,7 +4,7 @@ description: Learn how to view email program results and performance. Access ope
 title: View Email Program Results
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/HfnjaDH6LCNw89OIs-vAtx7lKaVIaxiTJMvgjPm3IGc
+TQID: 'https://experienceleague.adobe.com/HfnjaDH6LCNw89OIs-vAtx7lKaVIaxiTJMvgjPm3IGc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,11 @@ feature_v2:
     internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 ---
 # View Email Program Results {#view-email-program-results}
 

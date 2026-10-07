@@ -4,10 +4,13 @@ description: Learn how to resubscribe a contact who unsubscribed in Sales Connec
 title: Resubscribing an Unsubscribe
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/W215ia0s7e6sze5shnYJyExnzeezcmMRTKrXeJDcht4
+TQID: 'https://experienceleague.adobe.com/W215ia0s7e6sze5shnYJyExnzeezcmMRTKrXeJDcht4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Resubscribing an [!UICONTROL Unsubscribe] {#resubscribing-an-unsubscribe}
 

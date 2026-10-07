@@ -4,10 +4,13 @@ description: Learn how to test your ON24 event integration with Marketo. Verify 
 title: Test Your ON24 Event Integration
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-TQID: https://experienceleague.adobe.com/u5RzlTajaIZk5-9ESOX2LPYAj9bmbmMdJdraLwFlFqM
+TQID: 'https://experienceleague.adobe.com/u5RzlTajaIZk5-9ESOX2LPYAj9bmbmMdJdraLwFlFqM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 ---
 # Test Your ON24 Event Integration {#test-your-on-event-integration}
 

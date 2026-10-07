@@ -4,10 +4,16 @@ description: Learn about the TAM main dashboard and summary of your target accou
 title: TAM Main Dashboard
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/PZ1Pc-6nLi2gS6RzUOe3QY7EFoFLd2LoIXa9wa8OGy4
+TQID: 'https://experienceleague.adobe.com/PZ1Pc-6nLi2gS6RzUOe3QY7EFoFLd2LoIXa9wa8OGy4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights

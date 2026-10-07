@@ -5,7 +5,7 @@ description: Learn about the Email Designer and its drag-and-drop editor. Create
 title: Overview
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-TQID: https://experienceleague.adobe.com/cw1syg5OvYwuB1v-MnQEmW7NB5-A5TnkBn-bnxEzFgw
+TQID: 'https://experienceleague.adobe.com/cw1syg5OvYwuB1v-MnQEmW7NB5-A5TnkBn-bnxEzFgw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -22,9 +22,13 @@ feature_v2:
     internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
     internal-label: Adobe Identity Management
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization

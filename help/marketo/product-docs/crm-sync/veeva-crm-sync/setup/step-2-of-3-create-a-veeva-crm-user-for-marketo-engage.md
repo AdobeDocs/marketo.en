@@ -3,10 +3,16 @@ description: Learn how to create a Veeva CRM user for Marketo Engage sync. Set p
 title: Step 2 of 3 - Create a Veeva CRM User for Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g
+TQID: 'https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
     internal-label: Accessibility

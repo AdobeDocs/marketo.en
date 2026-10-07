@@ -4,7 +4,7 @@ description: Learn about free-form vs guided landing pages in Marketo. Choose th
 title: Understanding Free-form vs Guided Landing Pages
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/wfLJUpCFZ-40o1zHWdUBLiOOcUtGBbya2d8MQQ1JFlw
+TQID: 'https://experienceleague.adobe.com/wfLJUpCFZ-40o1zHWdUBLiOOcUtGBbya2d8MQQ1JFlw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,11 @@ feature_v2:
     internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 ---
 # Understanding Free-form vs Guided Landing Pages {#understanding-free-form-vs-guided-landing-pages}
 

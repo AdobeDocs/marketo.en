@@ -1,9 +1,15 @@
 ---
-description: "Help Center - Marketo Engage Docs - Product Documentation"
+description: Help Center - Marketo Engage Docs - Product Documentation
 title: Help Center
 feature: Getting Started
 hide: true
-hidefromtoc: yes
+hidefromtoc: 'yes'
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 ---
 # Help Center {#help-center}
 

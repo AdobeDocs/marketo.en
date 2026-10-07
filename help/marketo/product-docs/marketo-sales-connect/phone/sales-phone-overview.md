@@ -4,10 +4,13 @@ description: Learn about Sales Phone in Sales Connect. Make calls from the app, 
 title: Sales Phone Overview
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/QoZ57b9CNmr-R1LI-JYJFDq8Vks7FjQwWtj71yawHtY
+TQID: 'https://experienceleague.adobe.com/QoZ57b9CNmr-R1LI-JYJFDq8Vks7FjQwWtj71yawHtY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Sales Phone Overview {#sales-phone-overview}
 

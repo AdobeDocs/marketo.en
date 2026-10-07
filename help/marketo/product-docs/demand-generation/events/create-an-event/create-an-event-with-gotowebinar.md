@@ -4,7 +4,7 @@ description: Learn how to create an event with GotoWebinar in Marketo. Configure
 title: Create an Event with [!DNL GotoWebinar]
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-TQID: https://experienceleague.adobe.com/cHkEawyFkPdyns0aeVTSbHoUGLF8zs-v6ClkXXOyW98
+TQID: 'https://experienceleague.adobe.com/cHkEawyFkPdyns0aeVTSbHoUGLF8zs-v6ClkXXOyW98'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -15,6 +15,8 @@ feature_v2:
     internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

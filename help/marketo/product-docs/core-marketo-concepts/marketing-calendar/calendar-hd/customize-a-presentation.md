@@ -4,10 +4,16 @@ description: Learn how to customize a Marketing Calendar presentation with views
 title: Customize a Presentation
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/DDmFzhg3-yRx3ktlHa5TICBSOmG6hlrANlH6tb7FGIY
+TQID: 'https://experienceleague.adobe.com/DDmFzhg3-yRx3ktlHa5TICBSOmG6hlrANlH6tb7FGIY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
 ---
 # Customize a Presentation {#customize-a-presentation}
 

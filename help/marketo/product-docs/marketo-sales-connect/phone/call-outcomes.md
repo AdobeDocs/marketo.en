@@ -3,10 +3,13 @@ description: Understand call outcomes in Sales Connect. Log outcome after each c
 title: Call Outcomes
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/16T8TecqodLvoaD8Epnt2hgMcIbixKgG8jfgE0veggo
+TQID: 'https://experienceleague.adobe.com/16T8TecqodLvoaD8Epnt2hgMcIbixKgG8jfgE0veggo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
     internal-label: Customer engagement

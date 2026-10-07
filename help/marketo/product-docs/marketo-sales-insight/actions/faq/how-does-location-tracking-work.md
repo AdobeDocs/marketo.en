@@ -3,10 +3,13 @@ description: Understand how location tracking works for sales emails. Learn what
 title: How Does Location Tracking Work
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/OMtsvCFUgGLH-VyS8cuMMdZ-WSOCogIhqh9gSoKrMk0
+TQID: 'https://experienceleague.adobe.com/OMtsvCFUgGLH-VyS8cuMMdZ-WSOCogIhqh9gSoKrMk0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # How Does Location Tracking Work? {#how-does-location-tracking-work}
 

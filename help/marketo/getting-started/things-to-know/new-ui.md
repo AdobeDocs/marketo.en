@@ -3,6 +3,12 @@ description: Marketo Engage New UI - Marketo Engage Docs - Product Documentation
 title: Marketo Engage New UI
 feature: Getting Started
 hide: true
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 ---
 # Marketo Engage New UI {#new-ui}
 

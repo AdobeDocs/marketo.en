@@ -4,7 +4,7 @@ short-description: Just getting started with Adobe Marketo Engage? Learn what st
 title: Setup Steps
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-TQID: https://experienceleague.adobe.com/RkW-U6fZa-sLIdAWdbLET8S2f8yEFYaELRktRXCrCho
+TQID: 'https://experienceleague.adobe.com/RkW-U6fZa-sLIdAWdbLET8S2f8yEFYaELRktRXCrCho'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,8 @@ feature_v2:
     internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
     internal-label: Microsoft Dynamics

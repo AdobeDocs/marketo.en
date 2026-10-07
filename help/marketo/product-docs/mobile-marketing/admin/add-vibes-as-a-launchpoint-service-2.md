@@ -1,9 +1,15 @@
 ---
-description: "Learn how to add Vibes as a LaunchPoint service. Enter credentials in Admin to enable SMS and use SMS activity in Marketo Engage."
+description: Learn how to add Vibes as a LaunchPoint service. Enter credentials in Admin to enable SMS and use SMS activity in Marketo Engage.
 title: Add Vibes as a LaunchPoint Service
 hide: true
-hidefromtoc: yes
+hidefromtoc: 'yes'
 feature: Mobile Marketing
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Add Vibes as a LaunchPoint Service {#add-vibes-as-a-launchpoint-service}
 

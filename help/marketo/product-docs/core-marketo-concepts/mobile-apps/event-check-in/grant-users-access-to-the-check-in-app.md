@@ -4,13 +4,15 @@ description: Learn how to grant users access to the Event Check-in app. Assign t
 title: Grant Users Access to the Check-in App
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/GKLCTK-Wc-rwTfbcNIEzferpYBJDvpKjelUm5-89WIU
+TQID: 'https://experienceleague.adobe.com/GKLCTK-Wc-rwTfbcNIEzferpYBJDvpKjelUm5-89WIU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Grant Users Access to the Check-in App {#grant-users-access-to-the-check-in-app}
 

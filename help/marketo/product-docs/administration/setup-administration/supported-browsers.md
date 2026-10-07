@@ -4,7 +4,7 @@ description: List of browsers and versions supported for Marketo Engage, includi
 title: Supported Browsers
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
-TQID: https://experienceleague.adobe.com/ZkQ8fNmRZ4HKn2ucCInWdQsEvDbLNu-FaGPKfXUrBk0
+TQID: 'https://experienceleague.adobe.com/ZkQ8fNmRZ4HKn2ucCInWdQsEvDbLNu-FaGPKfXUrBk0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,8 @@ feature_v2:
     internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

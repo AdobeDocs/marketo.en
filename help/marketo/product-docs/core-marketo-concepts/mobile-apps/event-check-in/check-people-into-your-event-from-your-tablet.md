@@ -4,7 +4,7 @@ description: Learn how to check people into your event from a tablet. Use the Ev
 title: Check People into Your Event from Your Tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/Yv6Wi3rjG60gWp-JjafS9WKBrGbhg0dhSFGXEcPmCkk
+TQID: 'https://experienceleague.adobe.com/Yv6Wi3rjG60gWp-JjafS9WKBrGbhg0dhSFGXEcPmCkk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,8 @@ feature_v2:
     internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
     internal-label: Event programs

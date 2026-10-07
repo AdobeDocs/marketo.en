@@ -3,6 +3,12 @@ description: Learn how to create, edit, merge duplicates, and delete Marketo Sal
 title: Manage Template Categories
 feature: Marketo Sales Connect
 exl-id: 60836705-1e9a-422b-86c5-e8be1d58380a
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Manage Template Categories {#manage-template-categories}
 

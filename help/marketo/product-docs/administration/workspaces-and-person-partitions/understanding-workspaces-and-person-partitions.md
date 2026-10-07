@@ -4,7 +4,7 @@ description: Learn how workspaces organize marketing assets and how person parti
 title: Understanding Workspaces and Person Partitions
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-TQID: https://experienceleague.adobe.com/Ex-WBSNYTFvevcwryuO4CzUsg79nOmjkVx4WMUx9nqA
+TQID: 'https://experienceleague.adobe.com/Ex-WBSNYTFvevcwryuO4CzUsg79nOmjkVx4WMUx9nqA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -23,9 +23,13 @@ feature_v2:
     internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: b4e49ca2-9149-5443-90e6-11978bb87c2f
+    internal-label: Partitions
+  - id: fffc2f21-ba05-5d98-924c-16da987a5b69
+    internal-label: Workspaces
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-    internal-label: Smart Lists
+    internal-label: Smart lists
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

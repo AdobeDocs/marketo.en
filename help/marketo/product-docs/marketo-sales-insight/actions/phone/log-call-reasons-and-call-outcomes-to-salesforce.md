@@ -3,7 +3,7 @@ description: Learn how to log call reasons and call outcomes to Salesforce. Ensu
 title: Log Call Reasons and Call Outcomes to Salesforce
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/JStWQ2NIpa5ct7f5cvFzrHjNHsBnoDJK1vgCxNcAUQ0
+TQID: 'https://experienceleague.adobe.com/JStWQ2NIpa5ct7f5cvFzrHjNHsBnoDJK1vgCxNcAUQ0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -12,6 +12,8 @@ feature_v2:
     internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting

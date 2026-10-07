@@ -4,10 +4,13 @@ description: Learn about interesting moments in the Marketo Sales Insight panel.
 title: Interesting Moments Overview
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/987o7hkp-WjgYBLBE7J8P-erbckKLALHxcOBP84Cc6Q
+TQID: 'https://experienceleague.adobe.com/987o7hkp-WjgYBLBE7J8P-erbckKLALHxcOBP84Cc6Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights

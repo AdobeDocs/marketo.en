@@ -4,13 +4,18 @@ description: Learn how to use dedicated IP addresses for email sending in Market
 title: Use Your Dedicated IP Addresses to Send Emails
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-TQID: https://experienceleague.adobe.com/eZdDKPbVZJ5CCk9J73Wn934Bachb-y-rzyKBCznhlPw
+TQID: 'https://experienceleague.adobe.com/eZdDKPbVZJ5CCk9J73Wn934Bachb-y-rzyKBCznhlPw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
 topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy

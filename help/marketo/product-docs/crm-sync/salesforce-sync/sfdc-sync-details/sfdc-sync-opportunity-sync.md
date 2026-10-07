@@ -4,13 +4,18 @@ description: Learn how opportunity sync works from Salesforce to Marketo. See ho
 title: SFDC Sync - Opportunity Sync
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/r8JobWyGrFmN71de8J5xI-2-Ze7lPEsNRQ6V41Q4JQM
+TQID: 'https://experienceleague.adobe.com/r8JobWyGrFmN71de8J5xI-2-Ze7lPEsNRQ6V41Q4JQM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

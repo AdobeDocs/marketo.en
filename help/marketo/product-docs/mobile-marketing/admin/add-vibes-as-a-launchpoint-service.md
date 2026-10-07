@@ -4,10 +4,13 @@ description: Learn how to add Vibes as a LaunchPoint service. Enter credentials 
 title: Add Vibes as a LaunchPoint Service
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/gEjUFyBWpi3na2ipKGw51TStNkZauQyhrRipUov1Fng
+TQID: 'https://experienceleague.adobe.com/gEjUFyBWpi3na2ipKGw51TStNkZauQyhrRipUov1Fng'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security

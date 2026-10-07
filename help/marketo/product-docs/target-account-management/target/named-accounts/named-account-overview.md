@@ -1,13 +1,19 @@
 ---
 unique-page-id: 11378809
 description: Learn about Named Accounts and how they hold people from your targeted companies. View current attribute data for all named accounts on the dashboard.
-title: "[!UICONTROL Named Account] Overview"
+title: '[!UICONTROL Named Account] Overview'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/HXLDqMzv9yi6NfjC2nJq7Fh2Hy95UAX3UMx2S5rg7vA
+TQID: 'https://experienceleague.adobe.com/HXLDqMzv9yi6NfjC2nJq7Fh2Hy95UAX3UMx2S5rg7vA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 ---
 # [!UICONTROL Named Account] Overview {#named-account-overview}
 

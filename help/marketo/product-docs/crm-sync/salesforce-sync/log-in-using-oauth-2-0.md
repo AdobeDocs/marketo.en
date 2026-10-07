@@ -3,13 +3,18 @@ description: Learn how to connect Marketo and Salesforce using OAuth 2.0. Set up
 title: Log in Using OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/DG57bnPnHcwgMX16fmboe5t0W3anVkVt4BNba3ltgqI
+TQID: 'https://experienceleague.adobe.com/DG57bnPnHcwgMX16fmboe5t0W3anVkVt4BNba3ltgqI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
     internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security

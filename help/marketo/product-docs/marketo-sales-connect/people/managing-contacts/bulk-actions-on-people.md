@@ -4,13 +4,15 @@ description: Learn how to use bulk actions on the People page in Sales Connect. 
 title: Bulk Actions on People
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/QtKi9nvrLTAONooRnJvOy2fmB2yg0pp03gwGNq7dLpQ
+TQID: 'https://experienceleague.adobe.com/QtKi9nvrLTAONooRnJvOy2fmB2yg0pp03gwGNq7dLpQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Bulk Actions on People {#bulk-actions-on-people}
 

@@ -4,10 +4,13 @@ description: Understand the Team tab and team-wide metrics in Sales Connect. Vie
 title: Understanding the [!UICONTROL Team] Tab
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Z3EoI8BoNSwmJKCKz-dP8ml8PaTFBTfWYgT8VqwYB0c
+TQID: 'https://experienceleague.adobe.com/Z3EoI8BoNSwmJKCKz-dP8ml8PaTFBTfWYgT8VqwYB0c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Understanding the [!UICONTROL Team] Tab {#understanding-the-team-tab}
 

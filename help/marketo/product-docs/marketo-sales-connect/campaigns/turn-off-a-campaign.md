@@ -4,10 +4,13 @@ description: Learn how to turn off a Sales Connect campaign when a recipient rep
 title: Turn off a Campaign
 exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/cjWi7igx6LLK6QI-tdOhcoq0TUC6mqZ4TMtHzRc7yHk
+TQID: 'https://experienceleague.adobe.com/cjWi7igx6LLK6QI-tdOhcoq0TUC6mqZ4TMtHzRc7yHk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Turn off a Campaign {#turn-off-a-campaign}
 

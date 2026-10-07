@@ -4,10 +4,16 @@ description: Learn how to edit landing page title and metadata in Marketo. Updat
 title: Edit Landing Page Title and Metadata
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/xox4waa9DvtyMtj1oEWF0ySjX8kUX3dW6TvAeJU6lOk
+TQID: 'https://experienceleague.adobe.com/xox4waa9DvtyMtj1oEWF0ySjX8kUX3dW6TvAeJU6lOk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
     internal-label: Metadata

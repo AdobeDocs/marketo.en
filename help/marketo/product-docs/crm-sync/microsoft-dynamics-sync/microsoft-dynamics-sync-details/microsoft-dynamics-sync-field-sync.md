@@ -4,10 +4,16 @@ description: Learn about how field sync works between Microsoft Dynamics and Mar
 title: Microsoft Dynamics Sync -Field Sync
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/w8YaiXwVC27ovOf63p8xVCaVM9N9KFJJIPzduSoyWME
+TQID: 'https://experienceleague.adobe.com/w8YaiXwVC27ovOf63p8xVCaVM9N9KFJJIPzduSoyWME'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 ---
 # [!DNL Microsoft Dynamics] Sync: Field Sync {#microsoft-dynamics-sync-field-sync}
 

@@ -3,10 +3,13 @@ description: Learn how to manage groups of contacts in Sales Insight Actions. Cr
 title: Manage Groups
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/yN7o-BB4oNeM-x78M5-CH3WDctyqoO-mlZriZGGRn8A
+TQID: 'https://experienceleague.adobe.com/yN7o-BB4oNeM-x78M5-CH3WDctyqoO-mlZriZGGRn8A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Manage Groups {#manage-groups}
 

@@ -4,13 +4,18 @@ description: Learn about ways people become members of engagement programs. Use 
 title: Add People to an Engagement Program
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/T1jA16N8Aqp7-hFI1-Ruv-54pQs4NFDAz7xgOC7QzAk
+TQID: 'https://experienceleague.adobe.com/T1jA16N8Aqp7-hFI1-Ruv-54pQs4NFDAz7xgOC7QzAk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
 ---
 # Add People to an Engagement Program {#add-people-to-an-engagement-program}
 

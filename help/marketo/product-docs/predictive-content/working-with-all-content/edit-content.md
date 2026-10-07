@@ -4,10 +4,13 @@ description: Learn how to edit All Content listings for title, URL, categories, 
 title: Edit Content
 exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/oD18RRwL0cNaf-2SfsnlYD7DoxtjG9R5bzfS2JUpjh0
+TQID: 'https://experienceleague.adobe.com/oD18RRwL0cNaf-2SfsnlYD7DoxtjG9R5bzfS2JUpjh0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 ---
 # Edit Content {#edit-content}
 

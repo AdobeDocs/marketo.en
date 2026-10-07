@@ -3,7 +3,7 @@ description: Set up the Marketing Activities section for your new Marketo Engage
 title: New Instance Best Practices - Marketing Activities Checklist
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-TQID: https://experienceleague.adobe.com/jxPaBHvXVW-op-FmERQ-LmF4GHOB0BCMxtXNWsc2Hvo
+TQID: 'https://experienceleague.adobe.com/jxPaBHvXVW-op-FmERQ-LmF4GHOB0BCMxtXNWsc2Hvo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -26,6 +26,8 @@ feature_v2:
     internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
     internal-label: Flow Step

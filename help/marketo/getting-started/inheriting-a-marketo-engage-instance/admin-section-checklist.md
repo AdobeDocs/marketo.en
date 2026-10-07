@@ -3,7 +3,7 @@ description: Inherited Instance Admin Checklist - Marketo Docs - Product Documen
 title: Inherited Instance Admin Checklist
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-TQID: https://experienceleague.adobe.com/FCMSgPqv3eJh4Etqe3J7305tnfQbVrghY8nc2Im6Ww8
+TQID: 'https://experienceleague.adobe.com/FCMSgPqv3eJh4Etqe3J7305tnfQbVrghY8nc2Im6Ww8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -22,6 +22,8 @@ feature_v2:
     internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
     internal-label: Custom activities

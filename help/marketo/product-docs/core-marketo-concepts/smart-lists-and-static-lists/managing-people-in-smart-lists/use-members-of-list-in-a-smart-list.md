@@ -4,10 +4,16 @@ description: Learn how to use members of list in a Smart List filter. Include or
 title: Use Members of List in a Smart List
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/jdDSap50wIaNp7YH9Z3vNA2tRFoPugU103HgmmMjFIM
+TQID: 'https://experienceleague.adobe.com/jdDSap50wIaNp7YH9Z3vNA2tRFoPugU103HgmmMjFIM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 ---
 # Use Members of List in a Smart List {#use-members-of-list-in-a-smart-list}
 

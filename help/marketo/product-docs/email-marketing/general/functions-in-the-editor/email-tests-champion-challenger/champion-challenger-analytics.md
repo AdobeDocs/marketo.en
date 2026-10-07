@@ -4,13 +4,18 @@ description: Learn how to view Champion/Challenger analytics and configure repor
 title: Champion/Challenger -Configure Report Alerts
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/idG-mOrJdcShh-sv41sQUVXykShdhnEyxMpg2znKLrU
+TQID: 'https://experienceleague.adobe.com/idG-mOrJdcShh-sv41sQUVXykShdhnEyxMpg2znKLrU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
     internal-label: Configuration
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
     internal-label: Experimentation

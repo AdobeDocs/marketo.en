@@ -1,7 +1,10 @@
 ---
 unique-page-id: 557082
-description: "Reporting - Marketo Docs - Product Documentation"
+description: Reporting - Marketo Docs - Product Documentation
 title: Reporting
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 
 # Reporting {#reporting}

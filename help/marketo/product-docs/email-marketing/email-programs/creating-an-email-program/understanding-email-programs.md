@@ -4,7 +4,7 @@ description: Learn about email programs and the control panel. Send emails, run 
 title: Understanding Email Programs
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/XGvX0752QGmkdQ2qTq6dt27HJNCvso-e2xFXY99Y63E
+TQID: 'https://experienceleague.adobe.com/XGvX0752QGmkdQ2qTq6dt27HJNCvso-e2xFXY99Y63E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,11 @@ feature_v2:
     internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting

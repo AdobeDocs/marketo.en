@@ -4,10 +4,13 @@ description: Learn how to enable Content Discovery so Predictive Content auto-di
 title: Enable Content Discovery
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/9MTP4S-1LzNBwVBp1SvsfxtGCmj-eat8j-6niXHYK3w
+TQID: 'https://experienceleague.adobe.com/9MTP4S-1LzNBwVBp1SvsfxtGCmj-eat8j-6niXHYK3w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 ---
 # Enable Content Discovery {#enable-content-discovery}
 

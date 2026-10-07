@@ -3,10 +3,13 @@ description: Learn how to set up a custom delivery channel for your team. Config
 title: Set up a Custom Delivery Channel for Your Team
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/IM33WTRE7TrMGcbBsiiMBpFrT-tZpvy8xXpXvt0RDsk
+TQID: 'https://experienceleague.adobe.com/IM33WTRE7TrMGcbBsiiMBpFrT-tZpvy8xXpXvt0RDsk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Set up a Custom Delivery Channel for Your Team {#set-up-a-custom-delivery-channel-for-your-team}
 

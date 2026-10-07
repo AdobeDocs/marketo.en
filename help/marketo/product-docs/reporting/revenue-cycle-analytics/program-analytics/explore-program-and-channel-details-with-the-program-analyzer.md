@@ -1,9 +1,17 @@
 ---
 unique-page-id: 2360437
-description: "Learn about explore program & channel details with the program analyzer in Marketo Engage, including explore program. Use this guide to complete your next step."
+description: Learn about explore program & channel details with the program analyzer in Marketo Engage, including explore program. Use this guide to complete your next step.
 title: Explore Program & Channel Details with the Program Analyzer
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
 ---
 # Explore Program & Channel Details with the [!UICONTROL Program Analyzer] {#explore-program-channel-details-with-the-program-analyzer}
 

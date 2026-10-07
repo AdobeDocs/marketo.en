@@ -4,13 +4,15 @@ description: Learn about the Sales Connect Analytics page and email engagement d
 title: Analytics Page Overview
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/4OI9sdjmBSDprhWlcIuv1xyv5icTu1hOwOMMTebs8gY
+TQID: 'https://experienceleague.adobe.com/4OI9sdjmBSDprhWlcIuv1xyv5icTu1hOwOMMTebs8gY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # [!UICONTROL Analytics] Page Overview {#analytics-page-overview}
 

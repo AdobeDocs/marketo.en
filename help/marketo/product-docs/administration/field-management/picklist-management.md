@@ -3,6 +3,15 @@ description: Learn how to define a fixed set of values for a field to simplify d
 title: Picklist Management
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 ---
 # Picklist Management {#picklist-management}
 

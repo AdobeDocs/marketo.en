@@ -4,10 +4,16 @@ description: Learn how to import a seed list into Marketo Engage for inbox place
 title: Email Deliverability Power Pack - How to Import a Seed List
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-TQID: https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0
+TQID: 'https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
 ---
 # Email Deliverability Power Pack: How to Import a Seed List {#email-deliverability-power-pack-how-to-import-a-seed-list}
 

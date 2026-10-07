@@ -4,10 +4,13 @@ description: Understand the Me tab and your email engagement stats in Sales Conn
 title: Understanding the [!UICONTROL Me] Tab
 exl-id: 5ae0e091-e315-4182-81d3-134113c8288f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/22Ov2Hv4pabAUb7O-6OSA85Xrigdh5SZwnbWwjYGNcs
+TQID: 'https://experienceleague.adobe.com/22Ov2Hv4pabAUb7O-6OSA85Xrigdh5SZwnbWwjYGNcs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Understanding the [!UICONTROL Me] Tab {#understanding-the-me-tab}
 

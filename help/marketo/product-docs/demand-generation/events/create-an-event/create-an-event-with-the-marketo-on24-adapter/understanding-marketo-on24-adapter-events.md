@@ -4,10 +4,13 @@ description: Learn about the Marketo ON24 adapter and how it connects ON24 webin
 title: Understanding Marketo On24 Adapter Events
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-TQID: https://experienceleague.adobe.com/LtTKin68LiI09y1m2hu1BIhhSE4d03-HkGHCfsDNxE0
+TQID: 'https://experienceleague.adobe.com/LtTKin68LiI09y1m2hu1BIhhSE4d03-HkGHCfsDNxE0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 ---
 # Understanding Marketo On24 Adapter Events {#understanding-marketo-on-adapter-events}
 

@@ -4,13 +4,18 @@ description: Learn how to edit your email header (from name, from email, reply-t
 title: Edit Your Email Header
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/bhEcWw0qUWfZSg4imEOnVeGjZ0uukWgRC9QqeQuuhko
+TQID: 'https://experienceleague.adobe.com/bhEcWw0qUWfZSg4imEOnVeGjZ0uukWgRC9QqeQuuhko'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

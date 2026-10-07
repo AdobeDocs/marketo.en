@@ -4,10 +4,16 @@ description: Learn how to delete a Marketing Calendar presentation. Remove old p
 title: Delete a Presentation
 exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/sDs7lwyTYgG4taPC6NxImkvlR1NQyUcXNoZ43Q2BHdQ
+TQID: 'https://experienceleague.adobe.com/sDs7lwyTYgG4taPC6NxImkvlR1NQyUcXNoZ43Q2BHdQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
 ---
 # Delete a Presentation {#delete-a-presentation}
 

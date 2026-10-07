@@ -4,10 +4,13 @@ description: Learn about Marketo Sales Connect and how it drives engagement acro
 title: Sales Connect Overview
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/e9-WD7YGig59MLzMMrBidiGIZ0XAqFKCnUhRvs20q8k
+TQID: 'https://experienceleague.adobe.com/e9-WD7YGig59MLzMMrBidiGIZ0XAqFKCnUhRvs20q8k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Sales Connect Overview {#sales-connect-overview}
 

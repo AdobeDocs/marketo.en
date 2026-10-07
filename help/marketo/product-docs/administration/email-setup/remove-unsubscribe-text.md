@@ -1,9 +1,18 @@
 ---
 unique-page-id: 2360245
-description: "Remove the default unsubscribe content from Admin Email by using an HTML comment when building the link into templates."
+description: Remove the default unsubscribe content from Admin Email by using an HTML comment when building the link into templates.
 title: Remove Unsubscribe Text
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 ---
 # Remove Unsubscribe Text {#remove-unsubscribe-text}
 

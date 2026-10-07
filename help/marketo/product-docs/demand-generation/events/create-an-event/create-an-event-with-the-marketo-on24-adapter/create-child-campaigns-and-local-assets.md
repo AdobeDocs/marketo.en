@@ -4,13 +4,15 @@ description: Learn how to create child campaigns and local assets for ON24 event
 title: Create Child Campaigns and Local Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-TQID: https://experienceleague.adobe.com/A4HlSGhMyiSBCbwSKrSoHgGmL6WZDU6Ev1NtyK8N5mA
+TQID: 'https://experienceleague.adobe.com/A4HlSGhMyiSBCbwSKrSoHgGmL6WZDU6Ev1NtyK8N5mA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
     internal-label: Design Studio
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 ---
 # Create Child Campaigns and Local Assets {#create-child-campaigns-and-local-assets}
 

@@ -4,10 +4,13 @@ description: Learn how to connect your Sales Connect account to Salesforce. Enab
 title: Connect Your Sales Connect Account to Salesforce
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/6xFDgorkB9v29Onhd4AiXA-XFKoKRV0Tk-3hGGrIu38
+TQID: 'https://experienceleague.adobe.com/6xFDgorkB9v29Onhd4AiXA-XFKoKRV0Tk-3hGGrIu38'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Connect Your Sales Connect Account to Salesforce {#connect-your-sales-connect-account-to-salesforce}
 

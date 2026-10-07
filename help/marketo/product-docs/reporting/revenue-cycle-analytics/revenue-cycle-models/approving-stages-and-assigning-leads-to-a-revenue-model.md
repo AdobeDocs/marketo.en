@@ -1,9 +1,17 @@
 ---
 unique-page-id: 4718683
-description: "Learn about approving stages and assigning leads to a revenue model in Marketo Engage, including approving stages and. Take the next step confidently."
+description: Learn about approving stages and assigning leads to a revenue model in Marketo Engage, including approving stages and. Take the next step confidently.
 title: Approving Stages and Assigning Leads to a Revenue Model
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
 ---
 # Approving Stages and Assigning Leads to a Revenue Model {#approving-stages-and-assigning-leads-to-a-revenue-model}
 

@@ -4,10 +4,13 @@ description: Learn about Sales Connect customization versions for Salesforce. Un
 title: Customization Versions
 exl-id: 4ca3e330-0d3f-428b-a2a4-19bce63ca08c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-F9r5sTkTh8-MzNPar6fpT1q2zxeIPp-q3LtR16ML5I
+TQID: 'https://experienceleague.adobe.com/-F9r5sTkTh8-MzNPar6fpT1q2zxeIPp-q3LtR16ML5I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Customization Versions {#customization-versions}
 

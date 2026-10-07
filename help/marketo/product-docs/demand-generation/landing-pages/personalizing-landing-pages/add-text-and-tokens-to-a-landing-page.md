@@ -4,10 +4,16 @@ description: Learn how to add text and tokens to a Marketo landing page. Insert 
 title: Add Text and Tokens to a Landing Page
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/-WO74fBXUqqawkC75M5bH2pFdWk3jcVhZghU2o5vEmk
+TQID: 'https://experienceleague.adobe.com/-WO74fBXUqqawkC75M5bH2pFdWk3jcVhZghU2o5vEmk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 ---
 # Add Text and Tokens to a Landing Page {#add-text-and-tokens-to-a-landing-page}
 

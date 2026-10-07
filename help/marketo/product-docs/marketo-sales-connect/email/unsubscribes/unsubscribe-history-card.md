@@ -4,10 +4,13 @@ description: Learn about the unsubscribe history card in Sales Connect. View whe
 title: Unsubscribe History Card
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/AogYVGru2hgF-2rVus2wl96P7DqQ4MeN0Ib6jsvTgYI
+TQID: 'https://experienceleague.adobe.com/AogYVGru2hgF-2rVus2wl96P7DqQ4MeN0Ib6jsvTgYI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Unsubscribe History Card {#unsubscribe-history-card}
 

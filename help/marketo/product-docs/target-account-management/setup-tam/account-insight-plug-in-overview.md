@@ -1,10 +1,10 @@
 ---
 unique-page-id: 12979282
 description: Learn about the Account Insight Chrome plug-in that surfaces TAM insights to sales teams. View named accounts, activity feed, and engage accounts effectively.
-title: "[!DNL Account Insight] Plug-in Overview"
+title: '[!DNL Account Insight] Plug-in Overview'
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/v50PensJweW1ETBunBu0F0WHYggw9H6gEpEKRQhvjMs
+TQID: 'https://experienceleague.adobe.com/v50PensJweW1ETBunBu0F0WHYggw9H6gEpEKRQhvjMs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,9 @@ feature_v2:
     internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights

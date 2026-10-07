@@ -4,7 +4,7 @@ description: Learn how to filter the Marketing Calendar by entry type, program t
 title: Filtering the Marketing Calendar
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/kMQU58oZslkR2iLG6vy9yLcaN%2D%2D%2D%2D3rjAIZ5ln3QtMg
+TQID: 'https://experienceleague.adobe.com/kMQU58oZslkR2iLG6vy9yLcaN%2D%2D%2D%2D3rjAIZ5ln3QtMg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,11 @@ feature_v2:
     internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
 ---
 # Filtering the Marketing Calendar {#filtering-the-marketing-calendar}
 

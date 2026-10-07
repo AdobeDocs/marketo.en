@@ -4,10 +4,13 @@ description: Learn how to verify your email in Sales Connect. Complete email ver
 title: Verify Your Email
 exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/6dX26M2k3ZoRa7KLiopasn5Mb-7fqM-hVGtWb-hPvAg
+TQID: 'https://experienceleague.adobe.com/6dX26M2k3ZoRa7KLiopasn5Mb-7fqM-hVGtWb-hPvAg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Verify Your Email {#verify-your-email}
 

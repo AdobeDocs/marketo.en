@@ -4,13 +4,20 @@ description: Learn how to run from-address A/B tests. Test different sender addr
 title: Use "From Address" A/B Testing
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 feature: Email Programs, A/B Testing
-TQID: https://experienceleague.adobe.com/rerG-Wyn1X53QQBDXFwyg74uEOznGcYcBis9EwX4vQU
+TQID: 'https://experienceleague.adobe.com/rerG-Wyn1X53QQBDXFwyg74uEOznGcYcBis9EwX4vQU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 ---
 # Use "[!UICONTROL From Address]" A/B Testing {#use-from-address-a-b-testing}
 

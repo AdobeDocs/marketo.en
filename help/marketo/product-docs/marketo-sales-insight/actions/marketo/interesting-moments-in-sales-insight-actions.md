@@ -3,10 +3,13 @@ description: Learn about interesting moments in Sales Insight Actions. Understan
 title: Interesting Moments in Sales Insight Actions
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/--be0j0yB-bSIgIqwXzBN2tIXb715oyun3RNqPj5-F0
+TQID: 'https://experienceleague.adobe.com/--be0j0yB-bSIgIqwXzBN2tIXb715oyun3RNqPj5-F0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Interesting Moments in [!DNL Sales Insight Actions] {#interesting-moments-in-sales-insight-actions}
 

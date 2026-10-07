@@ -1,9 +1,15 @@
 ---
-description: "Learn about engagement tools in Interactive Webinars. Use polls, Q&A, and other features to boost attendee interaction during webinars."
+description: Learn about engagement tools in Interactive Webinars. Use polls, Q&A, and other features to boost attendee interaction during webinars.
 title: Engagement Tools in Interactive Webinars
 hide: true
-hidefromtoc: yes
+hidefromtoc: 'yes'
 feature: Interactive Webinars
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 ---
 # Engagement Tools in Interactive Webinars {#engagement-tools-in-interactive-webinars}
 

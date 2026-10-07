@@ -4,7 +4,7 @@ description: Learn how to prepare for your event with Event Check-in. Set up the
 title: Prepare for Your Event
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/bqaLAyN4ltIiO-S6DcBmmhiC09N1ZRPDOgSPYMnMjjM
+TQID: 'https://experienceleague.adobe.com/bqaLAyN4ltIiO-S6DcBmmhiC09N1ZRPDOgSPYMnMjjM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,8 @@ feature_v2:
     internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Prepare for Your Event {#prepare-for-your-event}
 

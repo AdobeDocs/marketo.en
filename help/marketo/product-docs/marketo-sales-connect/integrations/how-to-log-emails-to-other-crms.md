@@ -4,7 +4,7 @@ description: Learn how to log Sales Connect emails to CRMs other than Salesforce
 title: How to Log Emails to Other CRMs
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/n5lXuin4JrmOG0WHKpVd9MkumYCvjrEpzNun5RaZERw
+TQID: 'https://experienceleague.adobe.com/n5lXuin4JrmOG0WHKpVd9MkumYCvjrEpzNun5RaZERw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,8 @@ feature_v2:
     internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
     internal-label: Configuration
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # How to Log Emails to Other CRMs {#how-to-log-emails-to-other-crms}
 

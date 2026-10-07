@@ -4,10 +4,16 @@ description: Learn how to run a single flow step from a Smart List. Execute one 
 title: Run a Single Flow Step from a Smart List
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/GdWQiObUSnllii3M8x1bTuHRByAtg-UF03V-3sOuI9I
+TQID: 'https://experienceleague.adobe.com/GdWQiObUSnllii3M8x1bTuHRByAtg-UF03V-3sOuI9I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 ---
 # Run a Single Flow Step from a Smart List {#run-a-single-flow-step-from-a-smart-list}
 

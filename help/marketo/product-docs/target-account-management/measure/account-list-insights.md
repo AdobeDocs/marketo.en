@@ -4,10 +4,16 @@ description: Learn about the Account List dashboard and aggregated insights from
 title: Account List Insights
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/izizFMysvg2jawj-424w0n6AIsNT5dwJG3cw0iwo6cg
+TQID: 'https://experienceleague.adobe.com/izizFMysvg2jawj-424w0n6AIsNT5dwJG3cw0iwo6cg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights

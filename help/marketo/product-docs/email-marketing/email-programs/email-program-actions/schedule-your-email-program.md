@@ -4,13 +4,18 @@ description: Learn how to schedule your email program. Set the date and time for
 title: Schedule Your Email Program
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/mB-ot4Cdsc80DCdpPOzzY9QRyfvNYwZb4xZbiHUq1vE
+TQID: 'https://experienceleague.adobe.com/mB-ot4Cdsc80DCdpPOzzY9QRyfvNYwZb4xZbiHUq1vE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 ---
 # Schedule Your Email Program {#schedule-your-email-program}
 

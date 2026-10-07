@@ -4,10 +4,16 @@ description: Learn about the Microsoft Dynamics sync status and how to monitor t
 title: Sync Status
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/GPyQNHoAdVHHBUSbkTTupH02XNnlD3UESZsxMpuJK3Q
+TQID: 'https://experienceleague.adobe.com/GPyQNHoAdVHHBUSbkTTupH02XNnlD3UESZsxMpuJK3Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 ---
 # Sync Status {#sync-status}
 

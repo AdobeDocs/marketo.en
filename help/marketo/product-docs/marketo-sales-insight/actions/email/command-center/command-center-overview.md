@@ -3,10 +3,13 @@ description: Learn about the Command Center for managing sales emails and tasks.
 title: Command Center Overview
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/Qyv0jDwHTbvZV3dG2ywoaFkEOunuhJN2yBbWRbdp1HI
+TQID: 'https://experienceleague.adobe.com/Qyv0jDwHTbvZV3dG2ywoaFkEOunuhJN2yBbWRbdp1HI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Command Center Overview {#command-center-overview}
 

@@ -4,10 +4,13 @@ description: Learn about the Command Center in Sales Connect. Manage your email 
 title: Command Center Overview
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/hzr8OOsBDYhff0UJ-DqyaG6GGnfMePWeagHF78RbF7E
+TQID: 'https://experienceleague.adobe.com/hzr8OOsBDYhff0UJ-DqyaG6GGnfMePWeagHF78RbF7E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Command Center Overview {#command-center-overview}
 

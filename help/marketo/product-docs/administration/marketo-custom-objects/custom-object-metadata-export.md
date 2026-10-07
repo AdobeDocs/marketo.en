@@ -3,13 +3,18 @@ description: How to export custom object metadata schema for SOAP or Munchkin AP
 title: Custom Object Metadata Export
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-TQID: https://experienceleague.adobe.com/7eZF1c45qtTibEHxI-QLu3KvT0rV-pRZSF66DxpD5eg
+TQID: 'https://experienceleague.adobe.com/7eZF1c45qtTibEHxI-QLu3KvT0rV-pRZSF66DxpD5eg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
     internal-label: Metadata

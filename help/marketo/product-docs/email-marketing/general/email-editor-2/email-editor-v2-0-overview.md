@@ -4,13 +4,18 @@ description: Learn about Email Editor v2.0 and its features. Create and edit ema
 title: Email Editor v2.0 Overview
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM
+TQID: 'https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
     internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 ---
 # Email Editor v2.0 Overview {#email-editor-v2-overview}
 

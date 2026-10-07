@@ -3,7 +3,7 @@ description: Learn about predictive filters for targeting audiences with AI. Use
 title: Predictive Filters
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-TQID: https://experienceleague.adobe.com/-P6jjTHT-YDpoEE6yg23rd48s3YYN4kzABbJwZp4rig
+TQID: 'https://experienceleague.adobe.com/-P6jjTHT-YDpoEE6yg23rd48s3YYN4kzABbJwZp4rig'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -14,9 +14,11 @@ feature_v2:
     internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: 60e4be0b-b3ea-5f4e-8b8c-da0f5a08dacd
+    internal-label: Predictive Audiences
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-    internal-label: Smart Lists
+    internal-label: Smart lists
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
     internal-label: Event programs
 topic_v2:

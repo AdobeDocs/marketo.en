@@ -4,7 +4,7 @@ description: Learn how to confirm tentative Smart Campaign and email program ent
 title: Confirm Entries Directly In the Marketing Calendar
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/fRh1emGZ3AzFAP-ZjUPHgtXAxpz1dtX-3FCpFmn55ng
+TQID: 'https://experienceleague.adobe.com/fRh1emGZ3AzFAP-ZjUPHgtXAxpz1dtX-3FCpFmn55ng'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,11 @@ feature_v2:
     internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
 ---
 # Confirm Entries Directly In the Marketing Calendar {#confirm-entries-directly-in-the-marketing-calendar}
 

@@ -4,10 +4,13 @@ description: Learn how to create workflow rules in Salesforce for Sales Connect 
 title: Creating Workflow Rules in Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0
+TQID: 'https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Creating Workflow Rules in Salesforce {#creating-workflow-rules-in-salesforce}
 

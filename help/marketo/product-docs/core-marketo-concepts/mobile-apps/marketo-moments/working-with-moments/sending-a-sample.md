@@ -4,10 +4,13 @@ description: Learn how to send a sample email from Marketo Moments. Test your em
 title: Sending a Sample
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/kL9XREdcHmZtdefbUFNHEOJcp73wS0LQdtf70uCGzvg
+TQID: 'https://experienceleague.adobe.com/kL9XREdcHmZtdefbUFNHEOJcp73wS0LQdtf70uCGzvg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Sending a Sample {#sending-a-sample}
 

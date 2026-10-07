@@ -4,7 +4,7 @@ description: Learn how to integrate rtp with google universal analytics in Marke
 title: Integrate RTP with Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/ozCazXzX-TzsUx61u7c30v2p-Z4k1b-kQbEsw9HvgPo
+TQID: 'https://experienceleague.adobe.com/ozCazXzX-TzsUx61u7c30v2p-Z4k1b-kQbEsw9HvgPo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -17,6 +17,8 @@ feature_v2:
     internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
     internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting

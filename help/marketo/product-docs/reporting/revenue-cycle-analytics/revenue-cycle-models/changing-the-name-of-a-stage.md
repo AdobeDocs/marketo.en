@@ -1,9 +1,17 @@
 ---
 unique-page-id: 4718675
-description: "Learn about changing the name of a stage in Marketo Engage, including changing the name of a stage. Use this guide to complete your next step."
+description: Learn about changing the name of a stage in Marketo Engage, including changing the name of a stage. Use this guide to complete your next step.
 title: Changing the Name of a Stage
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 feature: Reporting, Revenue Cycle Analytics
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
 ---
 # Changing the Name of a Stage {#changing-the-name-of-a-stage}
 

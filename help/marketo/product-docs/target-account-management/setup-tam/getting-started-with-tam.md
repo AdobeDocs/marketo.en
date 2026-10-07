@@ -4,10 +4,16 @@ description: Learn how to get started with TAM after it is added to your instanc
 title: Getting Started with TAM
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/GTPzG-MpCbU0vy85c8tc5gBqb8CeTI9eTamHsPdascU
+TQID: 'https://experienceleague.adobe.com/GTPzG-MpCbU0vy85c8tc5gBqb8CeTI9eTamHsPdascU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 ---
 # Getting Started with TAM {#getting-started-with-tam}
 

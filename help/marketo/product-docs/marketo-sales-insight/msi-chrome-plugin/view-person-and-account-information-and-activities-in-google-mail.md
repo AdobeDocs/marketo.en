@@ -4,10 +4,13 @@ description: Learn how to view person and account information and activities in 
 title: View Person and Account Information and Activities in Google Mail
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/VdwGWuUbaN8xEagWhjxEBP6Tt5OYVh94ql7RQuXUcrU
+TQID: 'https://experienceleague.adobe.com/VdwGWuUbaN8xEagWhjxEBP6Tt5OYVh94ql7RQuXUcrU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights

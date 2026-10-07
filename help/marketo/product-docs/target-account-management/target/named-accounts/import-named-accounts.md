@@ -4,10 +4,16 @@ description: Learn how to import named accounts from a CSV file into TAM. Upload
 title: Import [!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/aLuxfKOeRsPYXa5i5l86wj-ACPyKcJ4-f3ecmIZq8s0
+TQID: 'https://experienceleague.adobe.com/aLuxfKOeRsPYXa5i5l86wj-ACPyKcJ4-f3ecmIZq8s0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 ---
 # Import [!UICONTROL Named Accounts] {#import-named-accounts}
 

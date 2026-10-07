@@ -4,13 +4,15 @@ description: Learn how to uninstall the Sales Connect plugin from Outlook. Remov
 title: How to Uninstall Sales Connect from Outlook
 exl-id: 42e12144-665e-4560-84ad-1c0631ed0c9b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/t6MmIpBpN5qSdq5fGPV0IfRA-V8nrs0A9p2A-2kpJ2w
+TQID: 'https://experienceleague.adobe.com/t6MmIpBpN5qSdq5fGPV0IfRA-V8nrs0A9p2A-2kpJ2w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # How to Uninstall [!DNL Sales Connect] from [!DNL Outlook] {#how-to-uninstall-sales-connect-from-outlook}
 

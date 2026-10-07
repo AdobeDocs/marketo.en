@@ -3,10 +3,13 @@ description: Learn whether you can track multiple recipients when using CC and B
 title: Can I Track Multiple Recipients with CC/BCC
 exl-id: cc14cbb5-6c1f-470c-9836-dd853ef7befc
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/IrCQgggwZlh9qC0j3dAAniEBt60oRfJtaOt3C6qclYk
+TQID: 'https://experienceleague.adobe.com/IrCQgggwZlh9qC0j3dAAniEBt60oRfJtaOt3C6qclYk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Can I Track Multiple Recipients with CC/BCC? {#can-i-track-multiple-recipients-with-cc-bcc}
 

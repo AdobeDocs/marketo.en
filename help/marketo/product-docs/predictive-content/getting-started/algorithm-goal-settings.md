@@ -4,10 +4,13 @@ description: Learn how to set the Predictive Content algorithm goal to Clicks or
 title: Algorithm Goal Settings
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/AWWzwAwRxqy6w-NDGCJX4X-KNAGFWGCQnawyRGpKjG8
+TQID: 'https://experienceleague.adobe.com/AWWzwAwRxqy6w-NDGCJX4X-KNAGFWGCQnawyRGpKjG8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
     internal-label: Artificial intelligence

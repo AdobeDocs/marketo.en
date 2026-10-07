@@ -4,13 +4,15 @@ description: Steps to create a new person partition, name it, and assign it to w
 title: Create a Person Partition
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-TQID: https://experienceleague.adobe.com/4g-iqBI-P6rlgXmXFFqVpK5cJlCv3ZqVV4EcOSuu6tE
+TQID: 'https://experienceleague.adobe.com/4g-iqBI-P6rlgXmXFFqVpK5cJlCv3ZqVV4EcOSuu6tE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: b4e49ca2-9149-5443-90e6-11978bb87c2f
+    internal-label: Partitions
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

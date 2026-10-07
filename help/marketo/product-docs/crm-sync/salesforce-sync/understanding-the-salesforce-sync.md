@@ -4,13 +4,18 @@ description: Learn how the Salesforce sync keeps Marketo and Salesforce data in 
 title: Understanding the Salesforce Sync
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/1H8ol0eKIzfQoQR-Je4jCdZX7R-rWWD63qrhkrsWtyg
+TQID: 'https://experienceleague.adobe.com/1H8ol0eKIzfQoQR-Je4jCdZX7R-rWWD63qrhkrsWtyg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 ---
 # Understanding the [!DNL Salesforce] Sync {#understanding-the-salesforce-sync}
 

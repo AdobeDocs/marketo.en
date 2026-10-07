@@ -4,13 +4,18 @@ description: Learn how to add a Champion/Challenger email test. Set up multiple 
 title: Add an Email Champion/Challenger
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/SJcI4kx5bUCRuXvNoZRQjZSfdfxP24UIp5s-Hst6tks
+TQID: 'https://experienceleague.adobe.com/SJcI4kx5bUCRuXvNoZRQjZSfdfxP24UIp5s-Hst6tks'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 ---
 # Add an Email Champion/Challenger {#add-an-email-champion-challenger}
 

@@ -4,7 +4,7 @@ description: Learn how to integrate rtp with google analytics in Marketo Engage 
 title: Integrate RTP with Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/nnx4MhOQreSZOHY2526qb11svyumVMlOzqbybuPWxRQ
+TQID: 'https://experienceleague.adobe.com/nnx4MhOQreSZOHY2526qb11svyumVMlOzqbybuPWxRQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -15,6 +15,8 @@ feature_v2:
     internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
     internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
     internal-label: Segmentation

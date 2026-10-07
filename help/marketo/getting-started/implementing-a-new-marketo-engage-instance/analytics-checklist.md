@@ -3,7 +3,7 @@ description: Set up the Analytics section for your new Marketo Engage instance.
 title: New Instance Best Practices - Analytics Checklist
 feature: Getting Started
 exl-id: ddbb9bc7-d06a-4a2e-a560-9d308630ae3f
-TQID: https://experienceleague.adobe.com/NyaiBxKLN8JNM5IaXlY0f9hnKVTjMsyu2s15t0Sn63s
+TQID: 'https://experienceleague.adobe.com/NyaiBxKLN8JNM5IaXlY0f9hnKVTjMsyu2s15t0Sn63s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -28,11 +28,13 @@ feature_v2:
     internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
     internal-label: Segmentation
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-    internal-label: Smart Lists
+    internal-label: Smart lists
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
     internal-label: Snippets
 topic_v2:

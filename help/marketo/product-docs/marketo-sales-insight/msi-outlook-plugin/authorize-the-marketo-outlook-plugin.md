@@ -4,10 +4,13 @@ description: Learn how to authorize the Marketo Outlook plugin. Complete OAuth s
 title: Authorize the Marketo [!DNL Outlook] Plugin
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/IQv2V0dX-p2RE5zfco8s8Q5hSaD35mpQyuWGPpxcITE
+TQID: 'https://experienceleague.adobe.com/IQv2V0dX-p2RE5zfco8s8Q5hSaD35mpQyuWGPpxcITE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights

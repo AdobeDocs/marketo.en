@@ -4,10 +4,13 @@ description: Learn how to choose an action in Sales Insight from the MSI panel. 
 title: Choose an Action in Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/6vIT4McO438BYxmyDV-V3PJSWyHaljESAxOfG5CTrxM
+TQID: 'https://experienceleague.adobe.com/6vIT4McO438BYxmyDV-V3PJSWyHaljESAxOfG5CTrxM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights

@@ -4,13 +4,18 @@ description: Learn about recipient time zone scheduling for email programs. Deli
 title: Understanding Recipient Time Zone
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/KAj3dO4Md7Zel5SqR4m2OrTjp93ZD735gNWWRinNV5k
+TQID: 'https://experienceleague.adobe.com/KAj3dO4Md7Zel5SqR4m2OrTjp93ZD735gNWWRinNV5k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 ---
 # Understanding Recipient Time Zone {#understanding-recipient-time-zone}
 

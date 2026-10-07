@@ -4,7 +4,7 @@ description: Get help when your Sales Connect email was marked as spam. Learn ho
 title: Email Marked as Spam
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Ubj-3HXG3DKCMlyrNBcVEL3-mbXmbcR8fSZNMpCDNjw
+TQID: 'https://experienceleague.adobe.com/Ubj-3HXG3DKCMlyrNBcVEL3-mbXmbcR8fSZNMpCDNjw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,6 +13,8 @@ feature_v2:
     internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security

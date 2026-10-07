@@ -4,13 +4,18 @@ description: Learn how to find new accounts to target using AI-powered recommend
 title: New Account Discovery
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/9Bf4cR5lkY9pIFqUSVSpgQL8XJwTv0-jX8-zQdD9Bbw
+TQID: 'https://experienceleague.adobe.com/9Bf4cR5lkY9pIFqUSVSpgQL8XJwTv0-jX8-zQdD9Bbw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
     internal-label: Personalization
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization

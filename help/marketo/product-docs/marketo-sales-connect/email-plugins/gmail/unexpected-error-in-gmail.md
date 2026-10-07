@@ -4,10 +4,13 @@ description: Get help when you see an unexpected error in the Sales Connect Gmai
 title: Unexpected Error in Gmail
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/dJWrlEZcu0Y7WcKjxnA15QJEkv3p9IYSvhz5Wbhg-Ak
+TQID: 'https://experienceleague.adobe.com/dJWrlEZcu0Y7WcKjxnA15QJEkv3p9IYSvhz5Wbhg-Ak'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Unexpected Error in Gmail {#unexpected-error-in-gmail}
 

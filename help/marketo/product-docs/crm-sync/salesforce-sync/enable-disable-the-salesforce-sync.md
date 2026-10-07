@@ -4,10 +4,16 @@ description: Learn how to enable or disable the Salesforce sync in Marketo. Turn
 title: Enable/Disable the Salesforce Sync
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/HxNiD8gOQAVK3EG6tLzgSdXDg41molWzswqkZtmkuxA
+TQID: 'https://experienceleague.adobe.com/HxNiD8gOQAVK3EG6tLzgSdXDg41molWzswqkZtmkuxA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 ---
 # Enable/Disable the [!DNL Salesforce] Sync {#enable-disable-the-salesforce-sync}
 

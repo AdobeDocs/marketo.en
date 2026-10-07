@@ -4,13 +4,18 @@ description: Learn how to edit a custom activity and how draft or published stat
 title: Edit a Custom Activity
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 feature: Custom Activities
-TQID: https://experienceleague.adobe.com/ilHeQJ-3pI0BCr2TLJuFVpHDfscSdZbNnmy9jdlunms
+TQID: 'https://experienceleague.adobe.com/ilHeQJ-3pI0BCr2TLJuFVpHDfscSdZbNnmy9jdlunms'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

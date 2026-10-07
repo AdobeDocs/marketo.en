@@ -4,10 +4,16 @@ description: Learn about default Salesforce field mapping between Salesforce and
 title: Default Salesforce Field Mapping
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/i7ducTSqHY1rBTOQ8qNHPRCuETASKkuVWNsQGOW3OPE
+TQID: 'https://experienceleague.adobe.com/i7ducTSqHY1rBTOQ8qNHPRCuETASKkuVWNsQGOW3OPE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 ---
 # Default [!DNL Salesforce] Field Mapping {#default-salesforce-field-mapping}
 

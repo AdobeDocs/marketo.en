@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-TQID: https://experienceleague.adobe.com/cs-7nueaGEFS1geKikrmqBOJAu5US4RX53yLqsnjoSM
+TQID: 'https://experienceleague.adobe.com/cs-7nueaGEFS1geKikrmqBOJAu5US4RX53yLqsnjoSM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -22,9 +22,13 @@ feature_v2:
     internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
     internal-label: Dynamic content
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

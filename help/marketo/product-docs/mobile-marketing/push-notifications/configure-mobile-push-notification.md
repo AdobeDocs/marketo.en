@@ -3,7 +3,7 @@ description: Learn how to configure a mobile push notification. Set app, message
 title: Configure Mobile Push Notification
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/-8Uq6iWU2ithRZ9pUDoFgCjICxCIggt2jtrQapokriw
+TQID: 'https://experienceleague.adobe.com/-8Uq6iWU2ithRZ9pUDoFgCjICxCIggt2jtrQapokriw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -12,6 +12,8 @@ feature_v2:
     internal-label: Forms
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
     internal-label: Design Studio
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Configure Mobile Push Notification {#configure-mobile-push-notification}
 

@@ -4,7 +4,7 @@ short-description: After completing the initial setup steps, learn how to establ
 title: User Setup Checklist
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-TQID: https://experienceleague.adobe.com/LAFZ0QGdWLREK-wGSy-YMgmEMXP7dQSsaGI9MV5hTic
+TQID: 'https://experienceleague.adobe.com/LAFZ0QGdWLREK-wGSy-YMgmEMXP7dQSsaGI9MV5hTic'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -15,6 +15,8 @@ feature_v2:
     internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: b83de148-8847-43b0-9656-84c65c2bf6e1
     internal-label: User setup

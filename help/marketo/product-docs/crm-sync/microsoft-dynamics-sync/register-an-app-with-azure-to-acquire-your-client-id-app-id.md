@@ -4,10 +4,16 @@ description: Learn how to register an app with Azure to get your Client ID and A
 title: Register an App with Azure to Acquire Your Client ID/App ID
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/d3mD6KvWIa2q6EWknuPJvnn5oLO-P6hd1zaDxDYuVJg
+TQID: 'https://experienceleague.adobe.com/d3mD6KvWIa2q6EWknuPJvnn5oLO-P6hd1zaDxDYuVJg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 ---
 # Register an App with Azure to Acquire Your Client ID/App ID {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 

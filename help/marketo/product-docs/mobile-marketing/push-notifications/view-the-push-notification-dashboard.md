@@ -4,10 +4,13 @@ description: Learn how to view the push notification dashboard. See Total Sent, 
 title: View the Push Notification Dashboard
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/KXMLSV-xX5YhIwocSxAtnz534ecP1ahOH0nk0N-i2SA
+TQID: 'https://experienceleague.adobe.com/KXMLSV-xX5YhIwocSxAtnz534ecP1ahOH0nk0N-i2SA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # View the Push Notification Dashboard {#view-the-push-notification-dashboard}
 

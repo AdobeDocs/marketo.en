@@ -1,8 +1,14 @@
 ---
-description: "Steps to add or remove Product Admins in the Adobe Admin Console."
+description: Steps to add or remove Product Admins in the Adobe Admin Console.
 title: Add or Remove a Product Admin
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b73410f7-454c-5670-baa7-a84eae014e94
+    internal-label: Marketo with Adobe Identity
 ---
 # Add or Remove a Product Admin {#add-or-remove-a-product-admin}
 

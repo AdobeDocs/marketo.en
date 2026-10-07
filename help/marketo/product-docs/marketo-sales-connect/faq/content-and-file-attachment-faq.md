@@ -4,13 +4,15 @@ description: Get answers to content and file attachment questions in Sales Conne
 title: Content and File Attachment FAQ
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Wj6Lh-3GYl3HY0I3Rvmf572XxLEM-bl-2X68XPaYXu8
+TQID: 'https://experienceleague.adobe.com/Wj6Lh-3GYl3HY0I3Rvmf572XxLEM-bl-2X68XPaYXu8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Content and File Attachment FAQ {#content-and-file-attachment-faq}
 

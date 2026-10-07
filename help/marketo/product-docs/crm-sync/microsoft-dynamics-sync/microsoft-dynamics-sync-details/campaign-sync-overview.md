@@ -3,10 +3,16 @@ description: Learn about campaign sync between Microsoft Dynamics and Marketo. U
 title: Campaign Sync Overview
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/UsgsW3vzyxFDw5zz1nFKRymF8ULV-I-pWrV9rAuLX6A
+TQID: 'https://experienceleague.adobe.com/UsgsW3vzyxFDw5zz1nFKRymF8ULV-I-pWrV9rAuLX6A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 ---
 # Campaign Sync Overview {#campaign-sync-overview}
 

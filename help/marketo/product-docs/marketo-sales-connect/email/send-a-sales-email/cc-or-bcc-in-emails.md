@@ -4,10 +4,13 @@ description: Learn how to use CC or BCC in Sales Connect emails. Add carbon copy
 title: CC or BCC in Emails
 exl-id: c4136fec-a85a-4927-9e1f-1e82274232a9
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/gyHvxwvW5tqkkZ6nX1s0V5vV5Oy4DJnbaFPK-gN5Xao
+TQID: 'https://experienceleague.adobe.com/gyHvxwvW5tqkkZ6nX1s0V5vV5Oy4DJnbaFPK-gN5Xao'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # CC or BCC in Emails {#cc-or-bcc-in-emails}
 

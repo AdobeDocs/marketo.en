@@ -1,9 +1,17 @@
 ---
 unique-page-id: 7514149
-description: "Learn about attribution example 3 in Marketo Engage, including attribution example 3 attribution-example. Use this guide to complete your next step."
+description: Learn about attribution example 3 in Marketo Engage, including attribution example 3 attribution-example. Use this guide to complete your next step.
 title: Attribution Example 3
 exl-id: d8ca63a2-58de-4cde-b915-ff7f2e6468d9
 feature: Reporting, Revenue Cycle Analytics
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
 ---
 # Attribution Example 3 {#attribution-example}
 

@@ -4,10 +4,16 @@ description: Learn how to make the Marketo sync user a Marketing user in Salesfo
 title: Make Marketo Sync User a Marketing User
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/42ACB3EIyob3z4J9OAXmejZCHIxQ6nmoTayn67kw4-8
+TQID: 'https://experienceleague.adobe.com/42ACB3EIyob3z4J9OAXmejZCHIxQ6nmoTayn67kw4-8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 ---
 # Make Marketo Sync User a Marketing User {#make-marketo-sync-user-a-marketing-user}
 

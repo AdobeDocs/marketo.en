@@ -4,13 +4,18 @@ description: Learn how to add people to a named account using flow actions, smar
 title: Add People to a Named Account
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/ULcIzU4HwBSuZaPemgtYhWZTjv5tzMqmKtzcY70qx74
+TQID: 'https://experienceleague.adobe.com/ULcIzU4HwBSuZaPemgtYhWZTjv5tzMqmKtzcY70qx74'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 ---
 # Add People to a [!UICONTROL Named Account] {#add-people-to-a-named-account}
 

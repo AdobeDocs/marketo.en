@@ -3,7 +3,7 @@ description: Set up the Design Studio section for your new Marketo Engage instan
 title: New Instance Best Practices - Design Studio Checklist
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-TQID: https://experienceleague.adobe.com/RBppQJwjVVJ-5eQDWh-990TJDXF4c7EPEja7uHRlI6I
+TQID: 'https://experienceleague.adobe.com/RBppQJwjVVJ-5eQDWh-990TJDXF4c7EPEja7uHRlI6I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -22,6 +22,8 @@ feature_v2:
     internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
     internal-label: Segmentation

@@ -3,7 +3,7 @@ description: Release Notes - July 2025 - Marketo Docs - Product Documentation
 title: Release Notes - July 2025
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-TQID: https://experienceleague.adobe.com/wIsDclvCMFe7vmLbXB6gk5P1gL1hq-8IBePO5LJaddc
+TQID: 'https://experienceleague.adobe.com/wIsDclvCMFe7vmLbXB6gk5P1gL1hq-8IBePO5LJaddc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -16,11 +16,15 @@ feature_v2:
     internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
     internal-label: Dynamic Chat
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
     internal-label: Field management
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

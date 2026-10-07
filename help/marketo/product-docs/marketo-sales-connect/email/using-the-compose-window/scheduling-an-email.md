@@ -4,10 +4,13 @@ description: Learn how to schedule an email in Sales Connect. Set a date and tim
 title: Scheduling an Email
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/dztU4ffCzIPtOTpnv7zQjSqPw2-6ZrX1drDtHkE2Y-A
+TQID: 'https://experienceleague.adobe.com/dztU4ffCzIPtOTpnv7zQjSqPw2-6ZrX1drDtHkE2Y-A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Scheduling an Email {#scheduling-an-email}
 

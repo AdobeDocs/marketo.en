@@ -3,7 +3,7 @@ description: Release Notes - January 2023 - Marketo Docs - Product Documentation
 title: Release Notes - January 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-TQID: https://experienceleague.adobe.com/fB2DSNQ-lP-D8y9ISOy-TCHaJ2BiwQtqcKoTNv8t-Mk
+TQID: 'https://experienceleague.adobe.com/fB2DSNQ-lP-D8y9ISOy-TCHaJ2BiwQtqcKoTNv8t-Mk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -14,6 +14,11 @@ feature_v2:
     internal-label: Administration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
     internal-label: Personalization
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
     internal-label: Accessibility

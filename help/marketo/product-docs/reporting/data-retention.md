@@ -2,6 +2,12 @@
 description: Learn how Marketo's 25-month and 90-day data retention policies affect Analytics reports, with a per-report breakdown and tips for retaining data longer.
 title: Data retention
 feature: Reporting
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 ---
 # Marketo activity data retention policy - Impact on reporting
 

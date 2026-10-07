@@ -4,13 +4,18 @@ description: Learn how to use built-in and system Smart Lists. Use pre-built lis
 title: Use Built-in/System Smart Lists
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/RIEW9YbPX55xD1xVWCu750UYD5wZBHP0BG2x75QYPP8
+TQID: 'https://experienceleague.adobe.com/RIEW9YbPX55xD1xVWCu750UYD5wZBHP0BG2x75QYPP8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 ---
 # Use Built-in System Smart Lists {#use-built-in-system-smart-lists}
 

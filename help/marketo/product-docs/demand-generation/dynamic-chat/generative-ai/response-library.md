@@ -3,10 +3,16 @@ description: Learn how to manage the Response Library for Generative AI in Dynam
 title: Response Library
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-TQID: https://experienceleague.adobe.com/huqmL3JA7BaWaekIcKm2HjeqYCW6pALsp7fNyhTO1XU
+TQID: 'https://experienceleague.adobe.com/huqmL3JA7BaWaekIcKm2HjeqYCW6pALsp7fNyhTO1XU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 ---
 # Response Library {#response-library}
 

@@ -4,10 +4,16 @@ description: Learn how to run Champion/Challenger subject line tests. Test diffe
 title: Champion/Challenger -Subject Line
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/CyptDxnnRX1bG8RvAXE-lpfEVoibAkdBFcmMZzDqfxM
+TQID: 'https://experienceleague.adobe.com/CyptDxnnRX1bG8RvAXE-lpfEVoibAkdBFcmMZzDqfxM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 ---
 # Champion/Challenger: Subject Line {#champion-challenger-subject-line}
 

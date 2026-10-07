@@ -4,10 +4,13 @@ description: Learn how to import a Salesforce ID into Sales Connect. Map Salesfo
 title: Import a Salesforce ID into Sales Connect
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/XyIV-7nKIRIKm7e6xsiSzzlQ87TmUJD9n42WHsmfS4g
+TQID: 'https://experienceleague.adobe.com/XyIV-7nKIRIKm7e6xsiSzzlQ87TmUJD9n42WHsmfS4g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Import a Salesforce ID into Sales Connect {#import-a-salesforce-id-into-sales-connect}
 

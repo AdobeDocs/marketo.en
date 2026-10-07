@@ -4,10 +4,16 @@ description: Learn how to add a rectangle to a free-form landing page in Marketo
 title: Adding a Rectangle to a Free-Form Landing Page
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/jKfwONyZaf3HXfYg2i1bl0ncsuXp5ALCh6HuCw-Vf5M
+TQID: 'https://experienceleague.adobe.com/jKfwONyZaf3HXfYg2i1bl0ncsuXp5ALCh6HuCw-Vf5M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 ---
 # Adding a Rectangle to a Free-Form Landing Page {#adding-a-rectangle-to-a-free-form-landing-page}
 

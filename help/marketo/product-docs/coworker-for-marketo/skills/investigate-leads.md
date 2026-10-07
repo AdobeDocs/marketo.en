@@ -1,6 +1,9 @@
 ---
 description: The Investigate lead agent answers the questions marketers ask most often. It's faster and more reliable than manually digging through activity logs, smart campaign history, and scoring records.
 title: Investigate leads
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Investigate leads {#investigate-leads}
 

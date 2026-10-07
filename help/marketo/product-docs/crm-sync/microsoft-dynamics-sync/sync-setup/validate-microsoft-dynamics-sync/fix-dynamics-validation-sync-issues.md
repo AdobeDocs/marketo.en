@@ -4,13 +4,18 @@ description: Learn how to fix Dynamics validation sync issues when the Validate 
 title: Fix Dynamics Validation Sync Issues
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/VKcPe4kYhM2tid0-Fl4ga9-uAQbgUSwHux8XCBwXjwA
+TQID: 'https://experienceleague.adobe.com/VKcPe4kYhM2tid0-Fl4ga9-uAQbgUSwHux8XCBwXjwA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
     internal-label: Resources
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security

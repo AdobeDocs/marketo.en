@@ -2,6 +2,15 @@
 description: Release Notes - July 2026 - Marketo Docs - Product Documentation
 title: Release Notes - July 2026
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 ---
 # Release Notes: August 2026 {#release-notes-aug-26}
 

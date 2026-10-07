@@ -3,13 +3,15 @@ description: Learn how to run bulk actions on people in Sales Insight Actions. A
 title: Bulk Actions on People
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/2-KLQFrmCoj92iXhmKIAke-h4L2XPXgo2SeXFS9TQGE
+TQID: 'https://experienceleague.adobe.com/2-KLQFrmCoj92iXhmKIAke-h4L2XPXgo2SeXFS9TQGE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Bulk Actions on People {#bulk-actions-on-people}
 

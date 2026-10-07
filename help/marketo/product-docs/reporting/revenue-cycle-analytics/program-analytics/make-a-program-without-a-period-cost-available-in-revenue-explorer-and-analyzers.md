@@ -1,9 +1,17 @@
 ---
 unique-page-id: 2360389
-description: "Learn about make a program without a period cost available in revenue explorer and analyzers in Marketo Engage. Use this guide to complete your next step."
+description: Learn about make a program without a period cost available in revenue explorer and analyzers in Marketo Engage. Use this guide to complete your next step.
 title: Make a Program Without a Period Cost Available in Revenue Explorer and Analyzers
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
 ---
 # Make a Program Without a Period Cost Available in Revenue Explorer and Analyzers {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 

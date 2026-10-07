@@ -4,10 +4,13 @@ description: Learn about Predictive Content Analytics dashboards for top views, 
 title: Predictive Content Analytics Overview
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E
+TQID: 'https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights

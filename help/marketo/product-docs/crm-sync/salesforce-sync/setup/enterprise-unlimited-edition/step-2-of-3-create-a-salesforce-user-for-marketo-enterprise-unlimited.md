@@ -4,13 +4,18 @@ description: Learn how to create a Salesforce user for Marketo with Enterprise o
 title: Step 2 of 3 -Create a Salesforce User for Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/QFFzCkj2oeYkcK36qKjLXDhit4XhWrSX4iMJDQOnor0
+TQID: 'https://experienceleague.adobe.com/QFFzCkj2oeYkcK36qKjLXDhit4XhWrSX4iMJDQOnor0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
     internal-label: Accessibility

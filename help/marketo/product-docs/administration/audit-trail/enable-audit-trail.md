@@ -4,13 +4,18 @@ description: Enable Audit Trail and Login History for a role and assign the role
 title: Enable Audit Trail
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-TQID: https://experienceleague.adobe.com/-JXuS64rGSiaTMaiwUfzQWBAekwzj-53w8A2q1oLQWg
+TQID: 'https://experienceleague.adobe.com/-JXuS64rGSiaTMaiwUfzQWBAekwzj-53w8A2q1oLQWg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

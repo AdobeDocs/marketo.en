@@ -4,10 +4,16 @@ description: Learn how to save a filter definition in the Marketing Calendar. Sa
 title: Saving a Filter Definition in the Marketing Calendar
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/W3KwfZv1of5jaqdiocNPIQlbc-7ccaelEw-L-VU17lI
+TQID: 'https://experienceleague.adobe.com/W3KwfZv1of5jaqdiocNPIQlbc-7ccaelEw-L-VU17lI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
 ---
 # Saving a Filter Definition in the Marketing Calendar {#saving-a-filter-definition-in-the-marketing-calendar}
 

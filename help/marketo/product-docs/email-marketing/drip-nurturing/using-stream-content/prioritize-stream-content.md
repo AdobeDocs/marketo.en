@@ -4,13 +4,18 @@ description: Learn how to prioritize stream content by drag and drop. Content is
 title: Prioritize Stream Content
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/TaFWfyjnC7V5Pu22rJbgx6AyPwDmbV--dyMzreyDLBo
+TQID: 'https://experienceleague.adobe.com/TaFWfyjnC7V5Pu22rJbgx6AyPwDmbV--dyMzreyDLBo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
 ---
 # Prioritize Stream Content {#prioritize-stream-content}
 

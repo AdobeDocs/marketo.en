@@ -1,9 +1,17 @@
 ---
 unique-page-id: 2360399
-description: "Learn how to create a program analyzer in Marketo Engage using create a program analyzer create-a-program-analyzer. Use this guide to complete your next step."
+description: Learn how to create a program analyzer in Marketo Engage using create a program analyzer create-a-program-analyzer. Use this guide to complete your next step.
 title: Create a Program Analyzer
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
 ---
 # Create a [!UICONTROL Program Analyzer] {#create-a-program-analyzer}
 

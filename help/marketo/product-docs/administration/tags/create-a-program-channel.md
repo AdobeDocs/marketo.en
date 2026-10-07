@@ -4,7 +4,7 @@ description: Steps to create a program channel with statuses and progression ste
 title: Create a Program Channel
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-TQID: https://experienceleague.adobe.com/Ficlv7OfEScqLRVbOfc2hc-S3cQ2YjriiKWnbS1Op9A
+TQID: 'https://experienceleague.adobe.com/Ficlv7OfEScqLRVbOfc2hc-S3cQ2YjriiKWnbS1Op9A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -18,6 +18,8 @@ feature_v2:
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
     internal-label: Event programs
+  - id: eabd8318-c438-41ef-8756-bedd6f38b8fc
+    internal-label: Tag administration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration

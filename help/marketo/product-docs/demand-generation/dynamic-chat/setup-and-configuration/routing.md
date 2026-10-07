@@ -3,13 +3,18 @@ description: Learn about routing meetings and live chat in Dynamic Chat. Set up 
 title: Routing
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-TQID: https://experienceleague.adobe.com/AmH0g8c2lKCUOyMiZ2m5J5h-pHbb0JFyq-m7ujEEwow
+TQID: 'https://experienceleague.adobe.com/AmH0g8c2lKCUOyMiZ2m5J5h-pHbb0JFyq-m7ujEEwow'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
     internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security

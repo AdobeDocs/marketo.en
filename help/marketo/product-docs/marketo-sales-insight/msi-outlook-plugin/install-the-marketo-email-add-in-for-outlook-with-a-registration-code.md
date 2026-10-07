@@ -4,10 +4,13 @@ description: Learn how to install the Marketo Email Add-in for Outlook with a re
 title: Install the Marketo Email Add-in for [!DNL Outlook] with a Registration Code
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/bu311YmDSYHNbjD-WfmOzLK21N0rpYu9kAChA82T5IE
+TQID: 'https://experienceleague.adobe.com/bu311YmDSYHNbjD-WfmOzLK21N0rpYu9kAChA82T5IE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security

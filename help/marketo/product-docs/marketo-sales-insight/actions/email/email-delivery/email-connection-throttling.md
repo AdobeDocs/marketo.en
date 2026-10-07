@@ -3,10 +3,13 @@ description: Understand email connection throttling and sending limits in Sales 
 title: Email Connection Throttling
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/9EY5VJaKJCwaBE-YJ8qCXreorIIXjj4hX4Ybvwm5ijg
+TQID: 'https://experienceleague.adobe.com/9EY5VJaKJCwaBE-YJ8qCXreorIIXjj4hX4Ybvwm5ijg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Email Connection Throttling {#email-connection-throttling}
 

@@ -1,7 +1,10 @@
 ---
 unique-page-id: 7516612
-description: "Learn about Marketo mobile apps including Event Check-in and Marketo Moments. Check in event attendees and view key insights when they matter most."
+description: Learn about Marketo mobile apps including Event Check-in and Marketo Moments. Check in event attendees and view key insights when they matter most.
 title: Mobile Apps
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 
 # Mobile Apps {#mobile-apps}

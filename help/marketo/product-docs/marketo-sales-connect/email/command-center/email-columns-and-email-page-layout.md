@@ -4,13 +4,15 @@ description: Learn about email columns and email page layout in Sales Connect. C
 title: Email Columns and Email Page Layout
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Bnlf8w9L3M-wZJQZUJoWNLgSQvLOmMmw4oKuV1ToJnk
+TQID: 'https://experienceleague.adobe.com/Bnlf8w9L3M-wZJQZUJoWNLgSQvLOmMmw4oKuV1ToJnk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
     internal-label: Configuration
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Email Columns and Email Page Layout {#email-columns-and-email-page-layout}
 

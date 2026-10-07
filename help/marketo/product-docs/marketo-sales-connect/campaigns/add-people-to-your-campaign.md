@@ -4,10 +4,13 @@ description: Learn how to add people to a Sales Connect campaign from the web ap
 title: Add People to your Campaign
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/B8bUpUpnVRSEtdGX5sMP4o0-wmFj8gJOiBJPXYfuLEs
+TQID: 'https://experienceleague.adobe.com/B8bUpUpnVRSEtdGX5sMP4o0-wmFj8gJOiBJPXYfuLEs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Add People to your Campaign {#add-people-to-your-campaign}
 

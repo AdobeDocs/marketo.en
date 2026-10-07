@@ -4,13 +4,18 @@ description: Learn how to find people who have exhausted all stream content.
 title: People Who Have Exhausted Content
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/jtRKV09Yhwtwadw3sPB7CI7pqdhEw42ANU9MjoeC1Qk
+TQID: 'https://experienceleague.adobe.com/jtRKV09Yhwtwadw3sPB7CI7pqdhEw42ANU9MjoeC1Qk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
     internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
 ---
 # People Who Have Exhausted Content {#people-who-have-exhausted-content}
 

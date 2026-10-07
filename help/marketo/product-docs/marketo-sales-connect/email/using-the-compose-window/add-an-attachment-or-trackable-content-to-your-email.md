@@ -4,10 +4,13 @@ description: Learn how to add an attachment or trackable content to your Sales C
 title: Add an Attachment or Trackable Content to Your Email
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/UqC-6S-D0UXuCyoQL4ut3N2s67Wm2ywVndovL5Buc50
+TQID: 'https://experienceleague.adobe.com/UqC-6S-D0UXuCyoQL4ut3N2s67Wm2ywVndovL5Buc50'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Add an Attachment or Trackable Content to Your Email {#add-an-attachment-or-trackable-content-to-your-email}
 

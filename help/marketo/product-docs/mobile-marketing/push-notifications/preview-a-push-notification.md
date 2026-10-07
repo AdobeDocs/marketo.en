@@ -4,10 +4,13 @@ description: Learn how to preview a push notification on Android and iOS. See ho
 title: Preview a Push Notification
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/NhCFj8K9wVU4-fDLt8s3vYsccElm2NcHQ9VV19cD5lU
+TQID: 'https://experienceleague.adobe.com/NhCFj8K9wVU4-fDLt8s3vYsccElm2NcHQ9VV19cD5lU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Preview a Push Notification {#preview-a-push-notification}
 

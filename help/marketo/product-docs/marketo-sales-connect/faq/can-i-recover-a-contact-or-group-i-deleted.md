@@ -4,10 +4,13 @@ description: Get help on whether you can recover a deleted contact or group in S
 title: Can I Recover a Contact or Group I Deleted?
 exl-id: 2d12187b-c64a-431f-aefa-d8ed1c90909c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/1X5V24S-dbglE9OpnFvG0aRbL5cqk8ndHoBKw0GxyrY
+TQID: 'https://experienceleague.adobe.com/1X5V24S-dbglE9OpnFvG0aRbL5cqk8ndHoBKw0GxyrY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Can I Recover a Contact or Group I Deleted? {#can-i-recover-a-contact-or-group-i-deleted}
 

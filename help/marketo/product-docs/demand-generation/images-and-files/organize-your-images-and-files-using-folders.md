@@ -4,13 +4,18 @@ description: Learn how to organize images and files using folders in Marketo. Cr
 title: Organize Your Images and Files Using Folders
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-TQID: https://experienceleague.adobe.com/V3M5hJaWEtN8C98L88riBgTm-I396PYWp5Rqao6sNeM
+TQID: 'https://experienceleague.adobe.com/V3M5hJaWEtN8C98L88riBgTm-I396PYWp5Rqao6sNeM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
     internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: ecf3b0de-0d29-4cb7-bed7-bf29ea2e2f77
+    internal-label: Image editor
 ---
 # Organize Your Images and Files Using Folders {#organize-your-images-and-files-using-folders}
 

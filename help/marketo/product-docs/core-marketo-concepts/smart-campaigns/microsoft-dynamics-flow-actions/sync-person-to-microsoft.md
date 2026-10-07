@@ -4,13 +4,18 @@ description: Learn how to sync a person to Microsoft Dynamics with a flow step. 
 title: Sync Person to Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/MsSuD-phRt8OzuNxiQ-jZPtcRBtmfq2nE4ajRHU0eGY
+TQID: 'https://experienceleague.adobe.com/MsSuD-phRt8OzuNxiQ-jZPtcRBtmfq2nE4ajRHU0eGY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
     internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 ---
 # Sync Person to Microsoft {#sync-person-to-microsoft}
 

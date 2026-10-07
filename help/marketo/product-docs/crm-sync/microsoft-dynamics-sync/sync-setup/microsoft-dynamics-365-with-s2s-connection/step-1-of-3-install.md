@@ -3,10 +3,16 @@ description: Learn how to install the Marketo solution in Dynamics 365 with Serv
 title: Step 1 of 3 - Install the Marketo Solution with Server to Server Connection
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/Zxz0uXhcLankhjuBt-n5T-kAuPxiSR--Jka2uybXqi4
+TQID: 'https://experienceleague.adobe.com/Zxz0uXhcLankhjuBt-n5T-kAuPxiSR--Jka2uybXqi4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 ---
 # Step 1 of 3: Install the Marketo Solution with Server to Server Connection {#step-1-of-3-install-the-marketo-solution-s2s}
 

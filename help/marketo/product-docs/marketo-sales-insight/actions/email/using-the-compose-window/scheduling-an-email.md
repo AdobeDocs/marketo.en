@@ -1,6 +1,9 @@
 ---
-description: "Learn how to schedule a sales email for later delivery. Set date and time when composing in Sales Insight Actions or your inbox."
+description: Learn how to schedule a sales email for later delivery. Set date and time when composing in Sales Insight Actions or your inbox.
 title: Scheduling an Email
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 ---
 # Scheduling an Email {#scheduling-an-email}
 

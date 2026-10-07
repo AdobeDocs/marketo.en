@@ -4,7 +4,7 @@ title: Email authoring
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-TQID: https://experienceleague.adobe.com/T4P378JxWQuCWzPMUsgXoQvnPhaRxdAnZUxVzpZuqWo
+TQID: 'https://experienceleague.adobe.com/T4P378JxWQuCWzPMUsgXoQvnPhaRxdAnZUxVzpZuqWo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -21,13 +21,17 @@ feature_v2:
     internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-    internal-label: Smart Lists
+    internal-label: Smart lists
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
     internal-label: Adobe Identity Management
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
     internal-label: Event programs
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate

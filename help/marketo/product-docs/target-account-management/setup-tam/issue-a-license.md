@@ -4,10 +4,16 @@ description: Learn how to issue a TAM license to users so they can use Target Ac
 title: Issue a License
 exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/TNMC41Pp62AjtdY-aQBjZvaooPGyEZpgBgMn-v5IC-U
+TQID: 'https://experienceleague.adobe.com/TNMC41Pp62AjtdY-aQBjZvaooPGyEZpgBgMn-v5IC-U'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 ---
 # Issue a License {#issue-a-license}
 

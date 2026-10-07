@@ -3,10 +3,13 @@ description: Learn how to enable auto-login from Salesforce so users authenticat
 title: Auto Login from Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/q6r5vG5dwpOpfUAaJ98MGhf5PW8ppw3bYv-Yv52A5DY
+TQID: 'https://experienceleague.adobe.com/q6r5vG5dwpOpfUAaJ98MGhf5PW8ppw3bYv-Yv52A5DY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 ---
 # Auto Login from [!DNL Salesforce] {#auto-login-from-salesforce}
 

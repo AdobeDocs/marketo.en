@@ -4,10 +4,13 @@ description: Learn how to send a mobile push notification. Use a smart campaign 
 title: Send a Mobile Push Notification
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/ktMtQUJT2YaXM2BzF4yTIBLfXoR0Wrm5aQLb3WalZoc
+TQID: 'https://experienceleague.adobe.com/ktMtQUJT2YaXM2BzF4yTIBLfXoR0Wrm5aQLb3WalZoc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 ---
 # Send a Mobile Push Notification {#send-a-mobile-push-notification}
 

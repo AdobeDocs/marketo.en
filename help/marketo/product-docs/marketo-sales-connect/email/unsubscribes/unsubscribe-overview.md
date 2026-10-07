@@ -4,10 +4,13 @@ description: Learn about unsubscribes in Sales Connect. Manage opt-outs, unsubsc
 title: Unsubscribe Overview
 exl-id: 3212d5be-07ea-47bd-874e-25d02513c23b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/oWYNQUFMIteRhrg21CLG62MZq-p9MM7x59nG8IvXmN8
+TQID: 'https://experienceleague.adobe.com/oWYNQUFMIteRhrg21CLG62MZq-p9MM7x59nG8IvXmN8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy

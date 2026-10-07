@@ -4,10 +4,13 @@ description: Learn how to sync Sales Connect unsubscribes with Salesforce. Keep 
 title: Syncing Unsubscribes with Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g
+TQID: 'https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 ---
 # Syncing Unsubscribes with [!DNL Salesforce] {#syncing-unsubscribes-with-salesforce}
 
