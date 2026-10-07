@@ -57,7 +57,7 @@ Salesforce uses the OAuth protocol to allow users of applications to securely ac
 
    ![](assets/log-in-using-oauth-6.png)
 
-1. Under _Security_, make sure only **Require secret for Web Server Flow** and **Require secret for Refresh Token Flow** are selected.
+1. Under _Security_, make sure only **Require secret for Web Server Flow**, **Require secret for Refresh Token Flow**, and **Require Proof Key for Code Exchange (PKCE)...** are selected.
 
    ![](assets/log-in-using-oauth-7.png)
 
@@ -79,9 +79,9 @@ Salesforce uses the OAuth protocol to allow users of applications to securely ac
 >
 >* API access must be enabled for the Salesforce Sync User (if you are a Salesforce Professional Edition user, that access is not available by default&#8212;contact your Salesforce Account Executive).
 >* Marketo Sync user has to be created in Salesforce.
->* For existing customers, Feature to "Enable OAuth for SFDC sync" is enabled on the customer's subscription.
 >* Pop-up blockers are disabled.
 >* Connected App is created and the [!UICONTROL Consumer Key] and [!UICONTROL Consumer Secret] are available for use.
+>* Contact [Marketo Support](https://experienceleague.adobe.com/en/support) to get the following features enabled: Enable OAuth for SFDC sync, Require secret for Refresh Token Flow, and Proof Key for Code Exchange (PKCE).
 
 >[!CAUTION]
 >
