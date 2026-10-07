@@ -80,7 +80,7 @@ Salesforce uses the OAuth protocol to allow users of applications to securely ac
 >* Marketo Sync user has to be created in Salesforce.
 >* Pop-up blockers are disabled.
 >* Connected App is created and the [!UICONTROL Consumer Key] and [!UICONTROL Consumer Secret] are available for use.
->* Contact Marketo Support to get the following features enabled: Enable OAuth for SFDC sync, Require secret for Refresh Token Flow, and Proof Key for Code Exchange (PKCE).
+>* Contact [Marketo Support](https://experienceleague.adobe.com/en/support) to get the following features enabled: Enable OAuth for SFDC sync, Require secret for Refresh Token Flow, and Proof Key for Code Exchange (PKCE).
 
 >[!CAUTION]
 >
