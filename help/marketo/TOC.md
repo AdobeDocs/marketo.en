@@ -480,11 +480,11 @@ nudge: toc-retry
       + [Getting Started with Predictive Audiences](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
       + [Models and Insights](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [Predictive Filters](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
-  + Coworker for Marketo Engage {#coworker-for-marketo}
+  + CX Enterprise Coworker for Marketo Engage {#coworker-for-marketo}
     + [Overview](product-docs/coworker-for-marketo/overview.md)
     + [Settings and Setup](product-docs/coworker-for-marketo/settings-setup.md)
     + [Organizational rules](product-docs/coworker-for-marketo/organizational-rules.md)
-    + [Coworker for Marketo Engage data information sheet](product-docs/coworker-for-marketo/data-information.md)
+    + [CX Enterprise Coworker for Marketo Engage data information sheet](product-docs/coworker-for-marketo/data-information.md)
     + Skills {#skills}
       + [Product knowledge](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc} [Surface insights](product-docs/coworker-for-marketo/skills/surface-insights.md)
