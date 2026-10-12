@@ -134,7 +134,7 @@ In this tutorial, you learn how to import people from a spreadsheet file into Ma
    >
    >If there are any fields you don't want to import, select **Ignore** in the Marketo Field drop-down menu.
 
-1. _If_ you have [Person Partitions](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"} set up, select it here. Select **My Tradeshow Program** for the **[!UICONTROL Acquisition Program]**, then click **[!UICONTROL Import]**.
+1. If you have [Person Partitions](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"} set up, select the desired one here. Select **My Tradeshow Program** for the **[!UICONTROL Acquisition Program]**, then click **[!UICONTROL Import]**.
 
    ![](assets/import-a-list-of-people-13-new.png)
 

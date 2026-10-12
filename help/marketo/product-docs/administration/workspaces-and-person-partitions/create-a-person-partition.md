@@ -48,3 +48,7 @@ Create a new person partition following these steps.
 After creating the partition, you should see the update.
 
    ![](assets/create-a-person-partition-5.png)
+
+>[!TIP]
+>
+>You can select a specific Person Partition to filter people into during the [list import](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"} process.

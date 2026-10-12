@@ -57,8 +57,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Select Partition on Import</strong>: You can now select from the local workspace's list of Partitions when importing person records in environments that have Workspaces and Partitions enabled.</td>
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Released</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up" target="_blank">List import</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>
