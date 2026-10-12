@@ -4,7 +4,7 @@ description: Learn about Smart Lists for finding groups of people with filters i
 title: Understanding Smart Lists
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/wXznZtdBlYA4Ma2PLQRXHdvfBuDIwUpUtH8p-IJnpZA
+TQID: 'https://experienceleague.adobe.com/wXznZtdBlYA4Ma2PLQRXHdvfBuDIwUpUtH8p-IJnpZA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -17,7 +17,7 @@ feature_v2:
     internal-label: Programs
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-    internal-label: Smart Lists
+    internal-label: Smart lists
 ---
 # Understanding Smart Lists {#understanding-smart-lists}
 

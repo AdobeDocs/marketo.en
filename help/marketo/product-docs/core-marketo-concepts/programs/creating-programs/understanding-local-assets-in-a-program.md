@@ -4,7 +4,7 @@ description: Learn about local assets in a program. Understand how emails, landi
 title: Understanding Local Assets in a Program
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-TQID: https://experienceleague.adobe.com/96IMgGjyqieCZlEjI0Df2jKRa5LSZYEGanUBPpg9IQ4
+TQID: 'https://experienceleague.adobe.com/96IMgGjyqieCZlEjI0Df2jKRa5LSZYEGanUBPpg9IQ4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -19,7 +19,7 @@ feature_v2:
     internal-label: Reporting
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-    internal-label: Smart Lists
+    internal-label: Smart lists
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting

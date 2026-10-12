@@ -4,7 +4,7 @@ description: Learn how to view Smart Campaign results. See who qualified, ran th
 title: View Smart Campaign Results
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-TQID: https://experienceleague.adobe.com/5yRRPiKZAZ1ip1BsoOi2JG9jzQfRKW1T8vCKix7wKnw
+TQID: 'https://experienceleague.adobe.com/5yRRPiKZAZ1ip1BsoOi2JG9jzQfRKW1T8vCKix7wKnw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,7 +13,7 @@ feature_v2:
     internal-label: Smart Campaigns
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-    internal-label: Smart Lists
+    internal-label: Smart lists
 ---
 # View Smart Campaign Results {#view-smart-campaign-results}
 
