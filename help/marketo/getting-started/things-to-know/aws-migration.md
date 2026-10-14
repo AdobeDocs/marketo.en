@@ -269,14 +269,8 @@ If for some reason a migration is unsuccessful, you will be notified and we will
    AB22</td>
    <td>4 p.m. PDT<br>
    5 p.m. PDT</td>
-   <td>On schedule<br>
-   On schedule</td>
-  </tr>
-  <tr>
-   <td>October 14, 2026</td>
-   <td>AB25</td>
-   <td>5 p.m. PDT</td>
-   <td>On schedule</td>
+   <td>Completed<br>
+   Completed</td>
   </tr>
   <tr>
    <td>October 16, 2026</td>
@@ -307,9 +301,12 @@ If for some reason a migration is unsuccessful, you will be notified and we will
   </tr>
   <tr>
    <td>October 28, 2026</td>
-   <td>AB15</td>
-   <td>5 p.m. PDT</td>
-   <td>On schedule</td>
+   <td>AB15<br>
+   AB25</td>
+   <td>5 p.m. PDT<br>
+   6 p.m. PDT</td>
+   <td>On schedule<br>
+   On schedule</td>
   </tr>
   </body>
 </table>
