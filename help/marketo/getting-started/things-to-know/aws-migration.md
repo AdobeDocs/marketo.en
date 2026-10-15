@@ -283,12 +283,9 @@ If for some reason a migration is unsuccessful, you will be notified and we will
   </tr>
    <tr>
    <td>October 21, 2026</td>
-   <td>AB36<br>
-   AB38</td>
-   <td>5 p.m. PDT<br>
-   6 p.m. PDT</td>
-   <td>On schedule<br>
-   On schedule</td>
+   <td>AB38</td>
+   <td>5 p.m. PDT</td>
+   <td>On schedule</td>
   </tr>
   <tr>
    <td>October 22, 2026</td>
@@ -305,6 +302,15 @@ If for some reason a migration is unsuccessful, you will be notified and we will
    AB25</td>
    <td>5 p.m. PDT<br>
    6 p.m. PDT</td>
+   <td>On schedule<br>
+   On schedule</td>
+  </tr>
+  <tr>
+   <td>November 6, 2026</td>
+   <td>AB18<br>
+   AB36</td>
+   <td>4 p.m. PST<br>
+   5 p.m. PST</td>
    <td>On schedule<br>
    On schedule</td>
   </tr>
@@ -332,6 +338,12 @@ Based on your data center, work with your IT department to get the respective IP
   <td>34.247.24.245<br>
 18.200.201.81<br>
 54.220.138.65</td>
+</tr>
+<tr>
+  <td>SJ</td>
+  <td>54.212.167.17<br>
+35.165.244.220<br>
+44.235.171.179</td>
 </tr>
 </body>
 </table>
