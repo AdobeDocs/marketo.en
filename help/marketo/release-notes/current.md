@@ -27,15 +27,15 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Release Notes: September 2026 {#release-notes-sep-26}
+# Release Notes: October 2026 {#release-notes-oct-26}
 
-Below you'll find all the features included in the September '26 release. Check your Adobe Marketo Engage edition for feature availability.
+Below you'll find all the features included in the October '26 release. Check your Adobe Marketo Engage edition for feature availability.
 
 The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
-The following features fall under the standard release cycle and will start to be released on **September 25, 2026**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
+The following features fall under the standard release cycle and will start to be released on **October 23, 2026**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -45,50 +45,21 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>Marketo Engage New UI</strong>: The Marketo Engage interface has a refreshed look, including updated menus, icons, and layout for a cleaner, more modern experience. This is a visual update only; no existing functionality or workflows are affected. <i>The ability to select the Classic UI will be available through the January 2027 release</i>.
-</td>
-   <td>General Availability by mid-October</td>
-   <td><i>n/a</i></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Select Partition on Import</strong>: You can now select from the local workspace's list of Partitions when importing person records in environments that have Workspaces and Partitions enabled.</td>
-   <td>Released</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up" target="_blank">List import</a></td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Instant Alert on CRM Sync</strong>: Users subscribed to CRM notifications will receive an immediate notification when the enabled status of their native CRM sync changes, giving admins greater visibility of their CRM sync status.</td>
+   <td><strong>Clone to This Program/Folder</strong>: Cloning operations across Marketo Engage now consistently offer a "This Folder" or "This Program" option as a first choice when choosing the destination of the cloned asset. Choosing this option clones the asset to the parent program or folder of the current asset.</td>
    <td><i>Coming soon</i></td>
    <td><i>Coming soon</i></td>
   </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
    <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Self-Service Flow Steps - Increased Callback Timeout</strong>: The callback timeout period for Self-Service Flow Steps is being increased from one hour to four hours. No action is required on your end.</td>
+   <td><strong>Instant alert on CRM sync</strong>: Enabling or disabling the native CRM sync for an environment now triggers a notification to users who are subscribed to the CRM notification channel.</td>
    <td><i>Coming soon</i></td>
    <td><i>Coming soon</i></td>
   </tr>
-  <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Tables</strong>: You can now drag and drop the content type "table" into your email, with the ability to set the number of columns and rows.</td>
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
   </tr>
   </tbody>
 </table>
@@ -96,12 +67,8 @@ The following features fall under the standard release cycle and will start to b
 
 ## Announcements {#announcements}
 
+* **Deprecation of Grab Images from Web**: To conform to modern security and privacy best practices, the [Grab Images from Web](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} feature will be deprecated as of the October release.
+
 * **API Name Restrictions for Custom Activity Attributes**: API Names for Custom Activity Attributes created via the API or UI may now only contain alphanumeric characters and underscores, and must begin with an alphanumeric character.
 
-* **Static List Size Limits for Get Lead Activities and Get Lead Changes**: Beginning September 30, 2026, calls to the Get Lead Activities or Get Lead Changes endpoints which include the `listId` parameter will fail with a 1003 Error Code (indicating that the target static list has too many records) if the target lists contain 10,000 or more leads. Consult the [Migration Guide](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} for additional information.
-
-* **REST API 'access_token' Parameter Deprecation**: The `access_token` query parameter used to authenticate Marketo REST API calls has been deprecated as of August 31, 2026. All new and existing integrations should authenticate REST API calls using the 'Authorization' header, [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
-
-* **REST API Campaign Run ID**: Under certain circumstances, the Campaign Run ID value of an activity was sometimes returned with incorrect formatting, between two pairs of quotation marks (for example, `"campaignRunId": ""102938""`).<br/>As of the August release, this value will always be returned with the correct numerical format (`"campaignRunId": 102938`).
-
-* **Deprecation of Grab Images from Web**: To conform to modern security and privacy best practices, the [Grab Images from Web](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} feature will be deprecated as of the October release.
+* **Static List Size Limits for Get Lead Activities and Get Lead Changes**: As of September 30, 2026, calls to the Get Lead Activities or Get Lead Changes endpoints which include the `listId` parameter began to fail with a 1003 Error Code (indicating that the target static list has too many records) if the target lists contain 10,000 or more leads. Consult the [Migration Guide](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} for additional information.
