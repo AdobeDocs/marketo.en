@@ -1,6 +1,6 @@
 ---
-description: Release Notes - July 2026 - Marketo Docs - Product Documentation
-title: Release Notes - July 2026
+description: Release Notes - August 2026 - Marketo Docs - Product Documentation
+title: Release Notes - August 2026
 feature: Release Information
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615

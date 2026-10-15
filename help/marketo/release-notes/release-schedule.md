@@ -72,12 +72,12 @@ _Release dates/features are subject to change_
    <td>Complete</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">September '26</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">September '26</a></td>
    <td>September 25, 2026</td>
    <td>In progress</td>
   </tr>
   <tr>
-  <td>October '26</td>
+  <td><a href="/help/marketo/release-notes/current.md">October '26</a></td>
    <td>October 23, 2026</td>
    <td>On schedule</td>
   </tr>
