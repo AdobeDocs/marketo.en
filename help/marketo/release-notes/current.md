@@ -45,6 +45,26 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
+   <td><strong>Plan Campaigns skill</strong>: CX Enterprise Coworker for Marketo Engage can now turn a campaign brief into a complete Marketo Engage program setup document. The document includes folder structure, smart campaigns, email configurations, tokens, and a QA checklist. This helps teams launch campaigns faster and standardize program setup. The skill is configurable via markdown.</td>
+   <td><i>Coming soon</i></td>
+   <td><i>Coming soon</i></td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td><strong>Callable Agents</strong>: Create AI agents that run as a flow step in your smart campaigns and act on a lead record based on instructions you write in plain language. For example, an agent can normalize a lead's data or flag likely bots, then write the result back to fields on the lead. This brings judgment-based lead processing into your campaigns without custom code.</td>
+   <td><i>Coming soon</i></td>
+   <td><i>Coming soon</i></td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
    <td><strong>Clone to This Program/Folder</strong>: Cloning operations across Marketo Engage now consistently offer a "This Folder" or "This Program" option as a first choice when choosing the destination of the cloned asset. Choosing this option clones the asset to the parent program or folder of the current asset.</td>
    <td><i>Coming soon</i></td>
    <td><i>Coming soon</i></td>
