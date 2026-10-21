@@ -77,8 +77,8 @@ _Release dates/features are subject to change_
    <td>In progress</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">October '26</a></td>
-   <td>October 23, 2026</td>
+  <td><a href="/help/marketo/release-notes/current.md">November '26</a></td>
+   <td>November 6, 2026</td>
    <td>On schedule</td>
   </tr>
  </tbody>
