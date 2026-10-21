@@ -311,6 +311,21 @@ If for some reason a migration is unsuccessful, you will be notified and we will
    <td>On schedule<br>
    On schedule</td>
   </tr>
+  <tr>
+   <td>November 18, 2026</td>
+   <td>SJ14</td>
+   <td>5 p.m. PST</td>
+   <td>On schedule</td>
+  </tr>
+  <tr>
+   <td>November 20, 2026</td>
+   <td>AB44<br>
+   SJ38</td>
+   <td>5 p.m. PST<br>
+   6 p.m. PST</td>
+   <td>On schedule<br>
+   On schedule</td>
+  </tr>
   </body>
 </table>
 
