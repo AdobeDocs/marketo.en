@@ -79,4 +79,4 @@ The following features fall under the standard release cycle and will start to b
 
 * **REST API Campaign Run ID**: Under certain circumstances, the Campaign Run ID value of an activity was sometimes returned with incorrect formatting, between two pairs of quotation marks (for example, `"campaignRunId": ""102938""`).<br/>As of the August release, this value will always be returned with the correct numerical format (`"campaignRunId": 102938`).
 
-* **Deprecation of Grab Images from Web**: To conform to modern security and privacy best practices, the [Grab Images from Web](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} feature will be deprecated as of the October release.
+* **Deprecation of Grab Images from Web**: To conform to modern security and privacy best practices, the [Grab Images from Web](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} feature will be deprecated as of the November release.
