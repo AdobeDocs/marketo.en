@@ -304,12 +304,9 @@ If for some reason a migration is unsuccessful, you will be notified and we will
   </tr>
   <tr>
    <td>November 6, 2026</td>
-   <td>AB18<br>
-   AB36</td>
-   <td>4 p.m. PST<br>
-   5 p.m. PST</td>
-   <td>On schedule<br>
-   On schedule</td>
+   <td>AB18</td>
+   <td>4 p.m. PST</td>
+   <td>On schedule</td>
   </tr>
   <tr>
    <td>November 18, 2026</td>
