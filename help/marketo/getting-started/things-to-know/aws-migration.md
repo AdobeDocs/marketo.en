@@ -282,7 +282,7 @@ If for some reason a migration is unsuccessful, you will be notified and we will
    <td>October 21, 2026</td>
    <td>AB38</td>
    <td>5 p.m. PDT</td>
-   <td>On schedule</td>
+   <td>Completed</td>
   </tr>
   <tr>
    <td>October 22, 2026</td>
