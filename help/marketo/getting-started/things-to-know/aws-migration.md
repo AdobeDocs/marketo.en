@@ -328,7 +328,7 @@ If for some reason a migration is unsuccessful, you will be notified and we will
 
 ## IP addresses to add {#ip-addresses}
 
-Based on your data center, work with your IT department to get the respective IP addresses added.
+If your organization uses an IP allowlist, firewall, access control list, security group, or any other server or third-party service configured to accept connections from Marketo Engage, work with your IT department to add the IP addresses specific to your data center, listed in the table below.
 
 <table>
 <tbody>
