@@ -28,7 +28,7 @@ During your migration window, all Marketo Engage services will be unavailable. W
 
 * **Avoid running** data imports or exports or any major lead/person-generation campaigns.
 
-* **Review and update IP allowlists** for login, API access, email sending, web tracking, and integrations.
+* **Review and update IP allowlists** for login, API access, email sending, web tracking, and integrations (such as CRM sync and Webhooks).
 
 * **Add new IP addresses** and keep your current IPs as-is. See the IP addresses to add via the [table below](#ip-addresses).
 
