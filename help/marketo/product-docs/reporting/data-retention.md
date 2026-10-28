@@ -11,7 +11,7 @@ feature_v2:
 ---
 # Marketo activity data retention policy - Impact on reporting
 
-Marketo retains marketing activity data on a rolling basis. Activity and Campaign Membership data is stored for a rolling 25 months past the activity date, and high-volume activity data is retained for a rolling period of 90 days past the activity date by default, which can be adjusted per user. Beyond these retention periods, the data is no longer available through the Marketo UI.
+Marketo retains marketing activity data on a rolling basis. Activity and Campaign Membership data is stored for a rolling 25 months past the activity date, and high-volume activity data is retained for a rolling period of 90 days past the activity date by default. Beyond these retention periods, the data is no longer available through the Marketo UI.
 
 ## Marketo Analytics reports
 
