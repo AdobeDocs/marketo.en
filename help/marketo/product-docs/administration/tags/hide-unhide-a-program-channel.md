@@ -30,7 +30,7 @@ You can [delete a program channel](/help/marketo/product-docs/administration/tag
 
 ## Hide a Program Channel {#hide-a-program-channel}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 

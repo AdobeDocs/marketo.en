@@ -28,7 +28,7 @@ You must approve a custom object before you can use it. The process is slightly 
 
 A new custom object has been created. Follow the steps below to approve it.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/approve-a-custom-object-1.png)
 

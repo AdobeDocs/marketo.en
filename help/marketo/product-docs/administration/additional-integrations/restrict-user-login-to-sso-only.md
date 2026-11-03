@@ -31,7 +31,7 @@ If you are [using SSO](/help/marketo/product-docs/administration/additional-inte
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 

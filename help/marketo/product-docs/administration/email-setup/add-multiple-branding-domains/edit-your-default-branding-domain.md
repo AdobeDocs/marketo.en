@@ -28,7 +28,7 @@ Editing your default branding domain is the first step in working with branding 
 >
 >Make sure you've [set up a CNAME in your DNS](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} before you add your branding domains in Marketo.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/edit-your-default-branding-domain-1.png)
 

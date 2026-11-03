@@ -26,7 +26,7 @@ After you have created a custom object, you need to add fields to it to meet you
 
 Fields define the specific information used by a custom object. Link fields serve a specific purpose (connecting custom objects) and are covered in a [separate article](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 

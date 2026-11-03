@@ -36,7 +36,7 @@ You can create custom [tags](/help/marketo/product-docs/core-marketo-concepts/pr
 >
 >Program Tag Value: SMB, Enterprise, Mid-Market
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 

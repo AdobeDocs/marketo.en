@@ -29,7 +29,7 @@ Marketo manages your [!DNL Level 3 Web Meeting] registration and attendance.
 >
 >An existing subscription to [!DNL Level 3 Web Meeting] and administration rights are necessary for this step. Have your Access Number, Access Code, and Passcode at hand.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-1.png)
 

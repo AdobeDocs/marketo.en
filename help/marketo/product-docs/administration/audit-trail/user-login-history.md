@@ -40,7 +40,7 @@ The User Login History identifies people who log in by:
 
 To view the User Login History:
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/user-login-history-1.png)
 

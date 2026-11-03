@@ -23,7 +23,7 @@ When a new [!DNL Microsoft Dynamics] solutions is released for [!DNL Sales Insig
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 

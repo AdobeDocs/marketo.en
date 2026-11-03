@@ -27,7 +27,7 @@ topic_v2:
 >
 >You are not able to delete the Default workspace in Marketo.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-workspace-1.png)
 

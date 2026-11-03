@@ -29,7 +29,7 @@ If you are using the SOAP API or [!DNL Munchkin] API, Custom Object Metadata Sch
 >
 >Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/custom-object-metadata-export-1.png)
 

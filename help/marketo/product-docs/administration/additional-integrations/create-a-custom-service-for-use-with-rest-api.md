@@ -37,7 +37,7 @@ If you want to integrate with Marketo via the ReST API, create a custom service.
 
 ## Create Custom Service {#create-custom-service}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
@@ -61,7 +61,7 @@ If you want to integrate with Marketo via the ReST API, create a custom service.
 
 ## Credentials for API Access {#credentials-for-api-access}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 

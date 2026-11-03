@@ -30,7 +30,7 @@ You can trust the data in some lists more than others. Sometimes you have questi
 
 ## Blocking Field Updates From Untrusted Sources {#blocking-field-updates-from-untrusted-sources}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 

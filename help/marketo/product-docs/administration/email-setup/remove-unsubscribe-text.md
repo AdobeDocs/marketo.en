@@ -18,7 +18,7 @@ subfeature_v2:
 
 The only reason you should ever completely remove the unsubscribe content from the **[!UICONTROL Admin]** > **[!UICONTROL Email]** area is if you are choosing to build the unsubscribe link into the email templates themselves. The text box has validation that does not allow you to save with no content. You can get around this by adding a small HTML comment. The HTML comment will not show up in the email client, because it is rendering the email in HTML and the comments are omitted.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 

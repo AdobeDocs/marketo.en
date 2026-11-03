@@ -28,7 +28,7 @@ Follow these steps to create a new custom activity.
 >
 >Most subscriptions have an allocated limit of 10 Custom Activity types.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-activity-1.png)
 

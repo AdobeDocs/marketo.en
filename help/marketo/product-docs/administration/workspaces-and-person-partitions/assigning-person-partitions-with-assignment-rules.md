@@ -33,7 +33,7 @@ When using person partitions, set up assignment rules to route people created fr
 >
 >Only people created in Marketo from your CRM and via the SOAP API will have assignment rules applied to them.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 

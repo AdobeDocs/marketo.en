@@ -26,7 +26,7 @@ topic_v2:
 
 Learn how to create a custom field in Marketo Engage to store and capture data.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 

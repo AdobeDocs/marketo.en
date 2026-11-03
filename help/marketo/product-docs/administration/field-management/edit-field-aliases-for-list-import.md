@@ -30,7 +30,7 @@ When you import a list with unknown headers, you can create field aliases to sim
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 

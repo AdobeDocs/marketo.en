@@ -25,7 +25,7 @@ Marketo Engage manages your [!DNL Webex] webinar registration and attendance. Yo
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-1.png)
 

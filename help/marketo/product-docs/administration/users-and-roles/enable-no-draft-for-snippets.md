@@ -42,7 +42,7 @@ No-Draft is automatically enabled for all Administrator roles. An admin can then
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 

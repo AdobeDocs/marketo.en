@@ -30,7 +30,7 @@ If you are using the [!DNL SOAP API] or the [!DNL Munchkin API], you will need a
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-1.png)
 

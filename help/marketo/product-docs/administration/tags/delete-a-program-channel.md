@@ -24,7 +24,7 @@ Program channels are a collection of statuses or checkpoints leads should go thr
 
 If you make one by accident or no longer need one, you can delete it.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-program-channel-1.png)
 

@@ -38,7 +38,7 @@ There is a feature in Marketo to limit the _maximum_ number of people who can qu
 >
 >This applies only to batch campaigns and email programs.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 

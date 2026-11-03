@@ -34,7 +34,7 @@ topic_v2:
 
 ## Adding Tag Values {#adding-tag-values}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/managing-tag-values-1.png)
 

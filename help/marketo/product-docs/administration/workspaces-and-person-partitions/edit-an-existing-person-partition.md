@@ -31,7 +31,7 @@ A person partition is like having a second (or third) database. A partition can 
 >
 >[Create a Person Partition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/edit-an-existing-person-partition-1.png)
 

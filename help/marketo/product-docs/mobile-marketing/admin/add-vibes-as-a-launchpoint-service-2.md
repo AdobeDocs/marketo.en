@@ -23,7 +23,7 @@ You can send SMS messages to the people opted in to your Vibes SMS campaigns, le
 >
 >You must have an active Vibes account and an Adobe license for Vibes SMS.
 
-1. In My Marketo, go to the **[!UICONTROL Admin]** area.
+1. In My Marketo, In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 

@@ -36,7 +36,7 @@ Workspaces are useful for subdividing your company. Reasons for setting up works
 >
 >To learn more about Workspace best practices, contact [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-a-new-workspace-1.png)
 

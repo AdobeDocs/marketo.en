@@ -28,7 +28,7 @@ As an Admin, you can export related assets of a field so you can delegate their 
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 

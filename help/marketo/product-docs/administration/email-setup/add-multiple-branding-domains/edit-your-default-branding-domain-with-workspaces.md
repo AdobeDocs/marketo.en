@@ -22,7 +22,7 @@ topic_v2:
 ---
 # Edit Your Default Branding Domain with Workspaces {#edit-your-default-branding-domain-with-workspaces}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 

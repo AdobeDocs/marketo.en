@@ -26,7 +26,7 @@ Learn how to add, change, or remove a custom activity field.
 
 ## Add a Custom Activity Field {#add-a-custom-activity-field}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
@@ -62,7 +62,7 @@ Learn how to add, change, or remove a custom activity field.
 
 ## Edit a Custom Activity Field {#edit-a-custom-activity-field}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
@@ -106,7 +106,7 @@ The field has been updated.
 
 ## Delete a Custom Activity Field {#delete-a-custom-activity-field}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 

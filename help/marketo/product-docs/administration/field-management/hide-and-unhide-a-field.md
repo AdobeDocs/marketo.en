@@ -32,7 +32,7 @@ If you no longer need a field in Marketo Engage, you can hide it from the UI so 
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
@@ -60,7 +60,7 @@ If you no longer need a field in Marketo Engage, you can hide it from the UI so 
 
 ## Unhide a Field {#unhide-a-field}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-6.png)
 

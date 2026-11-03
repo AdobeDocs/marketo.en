@@ -21,7 +21,7 @@ topic_v2:
 
 Learn how to download the activity log to troubleshoot issues.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/download-googleadwords-activity-log-1.png)
 

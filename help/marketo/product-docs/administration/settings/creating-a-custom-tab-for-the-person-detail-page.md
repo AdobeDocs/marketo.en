@@ -21,7 +21,7 @@ topic_v2:
 
 If you frequently need to access a specific set of fields in the person detail page, consider creating a custom layout.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 

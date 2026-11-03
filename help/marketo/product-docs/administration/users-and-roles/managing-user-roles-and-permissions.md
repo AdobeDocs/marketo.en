@@ -47,7 +47,7 @@ You cannot delete the Admin or Adobe Product Admin roles, but you can edit/delet
 
 You can assign roles to a user when you [create users for the first time](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md).
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
@@ -71,7 +71,7 @@ You can assign roles to a user when you [create users for the first time](/help/
 
 Sometimes, your organization has employees in very specific roles that require a custom combination of permissions.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
@@ -95,7 +95,7 @@ Sometimes, your organization has employees in very specific roles that require a
 
 If you need to change the permissions that are associated with an existing role, you can edit the role.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
@@ -123,7 +123,7 @@ If you need to change the permissions that are associated with an existing role,
 
 If a role becomes unnecessary, you can delete it.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 

@@ -27,7 +27,7 @@ feature_v2:
 
 ## Step 1: Start a New Redirect Rule {#step-start-a-new-redirect-rule}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/redirect-a-landing-page-1.png)
 

@@ -35,7 +35,7 @@ topic_v2:
 
 ## Create a Role {#create-a-role}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
@@ -53,7 +53,7 @@ topic_v2:
 
 ## Delete a Role {#delete-a-role}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
@@ -79,7 +79,7 @@ topic_v2:
 >
 >To edit your own user role, you will have to log in as another user with Admin rights.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
@@ -105,7 +105,7 @@ topic_v2:
 
 ## Change a User's Role {#change-a-users-role}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 

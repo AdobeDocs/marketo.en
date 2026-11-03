@@ -28,7 +28,7 @@ You may want to know which [!DNL Salesforce] fields a specific Marketo field is 
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
 

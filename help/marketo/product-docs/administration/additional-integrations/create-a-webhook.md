@@ -26,7 +26,7 @@ topic_v2:
 
 Use [!DNL Webhooks] to take advantage of third-party web services to send text messages, expand person data, and more.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-a-webhook-1.png)
 

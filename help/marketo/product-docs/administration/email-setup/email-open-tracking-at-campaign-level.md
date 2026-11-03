@@ -29,7 +29,7 @@ This feature allows you to control email open tracking, either once for each ope
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/email-open-tracking-at-campaign-level-1.png)
 

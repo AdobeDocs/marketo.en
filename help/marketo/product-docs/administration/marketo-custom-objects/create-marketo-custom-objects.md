@@ -38,7 +38,7 @@ Use custom objects in Marketo to track metrics specific to your business. This c
 
 This example shows a Car custom object, for use in a one-to-many structure. Later, you will create a course custom object and an intermediary object to use in a many-to-many structure.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-1.png)
 
@@ -84,7 +84,7 @@ This example shows a course custom object, which you will use for creating a man
 >
 >For a many-to-many relationship, you do not need to create a link in the custom object. Instead, you will add two links to the intermediary object (see below).
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-7.png)
 
@@ -126,7 +126,7 @@ Use an intermediary object to connect a custom object to people or companies. In
 >
 >You do not need to create an intermediary object for a one-to-many custom object structure.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-13.png)
 

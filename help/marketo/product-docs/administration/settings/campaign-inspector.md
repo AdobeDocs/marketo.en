@@ -25,7 +25,7 @@ Use the Campaign Inspector to view and search all of your Smart Campaigns in one
 
 ## Enable Campaign Inspector {#enable-campaign-inspector}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/campaign-inspector-1.png)
 
