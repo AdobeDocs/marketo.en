@@ -16,7 +16,7 @@ subfeature_v2:
 ---
 # Edit User Workspaces {#edit-user-workspaces}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/edit-user-workspaces-1.png)
 

@@ -30,7 +30,7 @@ Blocking updates to a field allows you to write to the field once and then retai
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/block-updates-to-a-field-1.png)
 

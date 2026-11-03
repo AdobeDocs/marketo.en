@@ -28,7 +28,7 @@ Add an additional branding domain when you are running multiple brands out of a 
 >
 >You must [replace the generic tracking link](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"} with a branded domain before adding additional branded domains.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/add-an-additional-branding-domain-1.png)
 

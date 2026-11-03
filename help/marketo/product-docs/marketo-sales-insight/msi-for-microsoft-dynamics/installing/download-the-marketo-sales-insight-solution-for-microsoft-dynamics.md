@@ -25,7 +25,7 @@ topic_v2:
 >
 >The plugin on this page is for those syncing to Marketo Engage using Marketo's native CRM sync solution to [!DNL Dynamics 365]. For those who have: a custom sync, [!DNL MS Dynamics 365 Online] (9.x and above), and have purchased [!DNL Marketo Sales Insight], the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/mainnavhand.png)
 

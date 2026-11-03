@@ -22,7 +22,7 @@ topic_v2:
 ---
 # Delete a Branding Domain {#delete-a-branding-domain}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-branding-domain-1.png)
 

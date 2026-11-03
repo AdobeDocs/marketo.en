@@ -30,7 +30,7 @@ topic_v2:
 
 Use the Custom Object Actions menu to edit or delete a custom object.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
 
@@ -60,7 +60,7 @@ Deleting a custom object requires care. Custom objects may be connected to other
 >
 >You cannot restore a custom object after you delete it.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
 

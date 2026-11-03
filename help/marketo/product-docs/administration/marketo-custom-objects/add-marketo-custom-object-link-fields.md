@@ -39,7 +39,7 @@ When you create custom objects, you must provide link fields to connect the cust
 
 Follow the steps below to create a link field in a custom object for a one-to-many structure.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
@@ -93,7 +93,7 @@ Follow the steps below to create a link field in an intermediary object for use 
 >
 >You must have already created the intermediary object and any custom objects you intend to link it to.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 

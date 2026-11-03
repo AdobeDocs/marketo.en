@@ -29,7 +29,7 @@ Please set up the following configuration in order to begin using the new Insigh
 
 1. Open a new tab in your browser to get the [!DNL Marketo Sales Insights] credentials from your Marketo account.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/configuration-for-existing-customers-1.png)
 

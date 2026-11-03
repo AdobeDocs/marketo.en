@@ -24,7 +24,7 @@ topic_v2:
 
 Program statuses are the checkpoints through a program's path (channel). If you make a status by mistake or no longer need it, you can delete it.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 

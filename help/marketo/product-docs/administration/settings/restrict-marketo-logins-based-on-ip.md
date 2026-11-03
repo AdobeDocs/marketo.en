@@ -32,7 +32,7 @@ You can restrict or enable users from accessing Marketo based on their IP addres
 >
 >After Q1 2027, Marketo Engage IP restrictions will be retired. IP-based access will be managed exclusively through AAC and must be configured to enforce login restrictions. A final transition date will be announced later.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 

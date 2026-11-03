@@ -26,7 +26,7 @@ topic_v2:
 
 Learn how to publish your custom activity.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/publish-a-custom-activity-1.png)
 

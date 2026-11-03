@@ -28,7 +28,7 @@ If you want to integrate with Marketo via the [REST API](https://experienceleagu
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-an-api-only-user-role-1.png)
 

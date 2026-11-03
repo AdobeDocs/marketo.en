@@ -31,7 +31,7 @@ Workspaces can be for any reason (such as business unit or geography separation)
 >
 >Learn more about [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/allow-user-access-to-a-workspace-1.png)
 

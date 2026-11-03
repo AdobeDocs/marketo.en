@@ -40,7 +40,7 @@ This feature allows you to export all objects and their metadata.
 
 ## Export Object Metadata {#export-object-metadata}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/export-all-object-metadata-1.png)
 

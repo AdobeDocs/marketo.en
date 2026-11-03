@@ -23,7 +23,7 @@ Fallback pages are the last line of defense if your landing page is offline or n
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
      ![](assets/set-a-fallback-page-1.png)
 

@@ -30,7 +30,7 @@ If you have workspaces, you can add additional branding domains.
 >
 >* [Replace the generic tracking link](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) with a branding domain before adding additional branding domains.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-1.png)
 

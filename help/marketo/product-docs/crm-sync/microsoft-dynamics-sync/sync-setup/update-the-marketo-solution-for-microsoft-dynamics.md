@@ -27,7 +27,7 @@ When a new [!DNL Microsoft Dynamics] solutions is released, you can download the
 >
 >it is imperative you download the latest Marketo Solution _before_ performing any update.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 

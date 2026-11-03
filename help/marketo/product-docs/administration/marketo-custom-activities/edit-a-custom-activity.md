@@ -24,7 +24,7 @@ topic_v2:
 
 To make changes to a custom activity that has already been created, follow the steps below.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/edit-a-custom-activity-1.png)
 

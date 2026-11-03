@@ -39,7 +39,7 @@ Learn more about [Google's offline conversion import feature](https://support.go
 >
 >You can also integrate a [[!DNL Google AdWords] as a [!DNL Launchpoint] service with a manager account](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-1.png)
 

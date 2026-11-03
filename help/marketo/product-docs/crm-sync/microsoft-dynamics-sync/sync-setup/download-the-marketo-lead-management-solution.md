@@ -31,7 +31,7 @@ You will need to download and install a Marketo Solution into your [!DNL Microso
 >
 >Marketo only supports SSL certs that are compatible with Java 7 at this time.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 

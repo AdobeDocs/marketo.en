@@ -19,7 +19,7 @@ Learn how to view and edit the default currency for your Marketo Engage subscrip
 >
 >**Admin permissions required.**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/set-default-currency-1.png)
 

@@ -32,7 +32,7 @@ It is important not to over-communicate with your people. Setting communication 
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/enable-communication-limits-1.png)
 

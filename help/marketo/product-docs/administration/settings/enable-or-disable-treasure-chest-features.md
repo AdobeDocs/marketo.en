@@ -23,7 +23,7 @@ The Treasure Chest contains experimental features that are not fully supported.
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 

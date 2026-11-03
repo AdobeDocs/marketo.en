@@ -32,7 +32,7 @@ Enable or disable person and company tokens used in emails.
 >
 >Encoding converts characters into their HTML code versions to prevent confusion when being transmitted (i.e. "&" is changed to `&amp;`). For more details, consult a web developer.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/html-encode-tokens-in-emails-1.png)
 

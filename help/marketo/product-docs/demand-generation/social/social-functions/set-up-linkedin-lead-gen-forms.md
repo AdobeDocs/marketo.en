@@ -33,7 +33,7 @@ Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads f
 >
 >* A LinkedIn lead will not come into Marketo Engage if it matches an existing person record in Marketo that's associated with a company record created using Company APIs, and the Marketo subscription is not connected to a CRM.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/set-up-linkedin-lead-gen-forms-1.png)
 

@@ -29,7 +29,7 @@ Sales emails automatically put the unsubscribe footer at the bottom. However, yo
 >
 >**Sales emails** are those sent from [!DNL Sales Insight] (it does not include those sent from the Marketo Outlook Plugin).
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/one-1.png)
 

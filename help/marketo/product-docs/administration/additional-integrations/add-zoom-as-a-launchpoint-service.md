@@ -29,7 +29,7 @@ Marketo manages your [!DNL Zoom] registration and attendance.
 >
 >An existing subscription to [!DNL Zoom] and administration rights are necessary for this step. Have the email and password you use to sign in to [!DNL Zoom] on hand.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 

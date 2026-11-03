@@ -67,7 +67,7 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 
 SSO is disabled by default. Follow these steps to enable SAML and configure it.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 

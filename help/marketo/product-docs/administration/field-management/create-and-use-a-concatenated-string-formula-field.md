@@ -24,7 +24,7 @@ topic_v2:
 
 You can combine values from multiple fields or build a conditional value using a Marketo Engage formula field.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 

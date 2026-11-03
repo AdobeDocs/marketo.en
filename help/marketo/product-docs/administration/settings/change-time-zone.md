@@ -15,7 +15,7 @@ feature_v2:
 
 Learn how to change the time zone in your Marketo Engage subscription.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/change-time-zone-1.png)
 

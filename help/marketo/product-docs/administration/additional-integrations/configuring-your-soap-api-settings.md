@@ -28,7 +28,7 @@ topic_v2:
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/configuring-your-soap-api-settings-1.png)
 

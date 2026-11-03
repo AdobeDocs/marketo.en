@@ -30,7 +30,7 @@ Learn how to edit the "[View as a Webpage](/help/marketo/product-docs/email-mark
 
 ## Edit the "View as Web Page" Message {#edit-the-view-as-web-page-message-1}
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 

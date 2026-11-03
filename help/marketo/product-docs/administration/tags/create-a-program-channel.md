@@ -36,7 +36,7 @@ A program is one specific marketing initiative. The channel is intended to be th
 >
 >Learn more about [programs](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), the most important element in Marketo.
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/create-a-program-channel-1.png)
 

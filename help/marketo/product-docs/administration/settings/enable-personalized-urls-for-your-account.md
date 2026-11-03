@@ -23,7 +23,7 @@ Personalized URLs are useful for print mail campaigns.
 >
 >**Admin Permissions Required**
 
-1. Go to the **[!UICONTROL Admin]** area.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 
