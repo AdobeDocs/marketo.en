@@ -1,7 +1,6 @@
 ---
 description: Clone program duplicates an existing Marketo program into a new folder with a new name, preserving its structure while letting you customize the new campaign.
 title: Clone program
-badge: Beta
 hide: true
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615

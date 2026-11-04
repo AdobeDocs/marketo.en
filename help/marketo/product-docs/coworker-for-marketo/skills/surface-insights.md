@@ -1,7 +1,6 @@
 ---
 description: Have a conversation with CX Enterprise Coworker for Marketo Engage about your performance data. Ask questions in plain language and get answers grounded in your Marketo Engage environment.
 title: Surface insights
-badge: Beta
 hide: true
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
