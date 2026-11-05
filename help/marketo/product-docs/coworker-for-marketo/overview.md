@@ -33,6 +33,10 @@ Type your request in the prompt field, select one of the agent skills, or try on
 
 The center console features a growing set of agent skills available to help you with various tasks. Each skill is a purpose-built AI assistant you interact with through natural language to complete a specific task.
 
+### Plan campaigns {#plan-campaigns}
+
+Turn a campaign brief into a structured implementation plan for Marketo Engage. The Plan campaigns skill outlines program structure, audience logic, emails, Smart Campaigns, tokens, reporting, and pre-activation checks. Learn more about the [Plan campaigns skill](/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md){target="_blank"}.
+
 ### Build programs {#build-programs}
 
 Describe a marketing campaign in plain language and CX Enterprise Coworker for Marketo Engage builds the program structure, complete with asset placeholders and scheduling. Learn more about the [Build programs skill](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
@@ -55,11 +59,7 @@ Import and deduplicate lead lists into your Marketo Engage database with field m
 
 ## Coming soon {#coming-soon}
 
-Additional agents designed to handle the most repetitive, time-consuming work are coming soon, such as:
-
-* Diagnose why a lead didn't MQL or progress through the lifecycle.
-* Generate complete Marketo Engage programs directly from a campaign brief.
-* And more.
+Additional skills designed to handle the most repetitive, time-consuming work are coming soon.
 
 >[!MORELIKETHIS]
 >

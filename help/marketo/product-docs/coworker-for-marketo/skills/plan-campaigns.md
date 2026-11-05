@@ -8,7 +8,8 @@ Turn a campaign brief into a structured implementation plan for Marketo Engage. 
 
 >[!NOTE]
 >
->This skill generates implementation plans for Marketo Engage programs (structured documents that tell a human or automation system exactly how to build a campaign). It does not create anything in Marketo Engage. There is a separate skill for [building programs](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md).
+>- This skill generates implementation plans for Marketo Engage programs (structured documents that tell a human or automation system exactly how to build a campaign). It does not create anything in Marketo Engage. There is a separate skill for [building programs](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
+>- This skill is guided by [Organizational Rules](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}.
 
 ## Prerequisites {#prerequisites}
 
