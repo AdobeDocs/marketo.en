@@ -81,5 +81,10 @@ _Release dates/features are subject to change_
    <td>November 6, 2026</td>
    <td>On schedule</td>
   </tr>
+  <tr>
+  <td>January '27</td>
+   <td>January 15, 2027</td>
+   <td>On schedule</td>
+  </tr>
  </tbody>
 </table>
