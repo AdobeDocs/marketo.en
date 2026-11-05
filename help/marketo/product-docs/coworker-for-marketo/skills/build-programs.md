@@ -16,7 +16,7 @@ Your organization's [Organizational Rules](/help/marketo/product-docs/coworker-f
 
 ## How to use {#how-to-use}
 
-1. In your My Marketo, click the **CX Enterprise Coworker for Marketo Engage** tile.
+1. In your My Marketo, click the **[!UICONTROL CX Enterprise Coworker for Marketo Engage]** tile.
 
 1. Select a template program. Choose an existing program that matches your campaign type (e.g., Email, Webinar, Nurture).
 
