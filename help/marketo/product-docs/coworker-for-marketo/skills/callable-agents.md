@@ -54,7 +54,7 @@ Choose a template to prefill the instructions, input fields, and output fields. 
 
 | Template | Purpose | Inputs | Outputs |
 | --- | --- | --- | --- |
-| Company Name Normalizer | Cleans company names by removing legal suffixes, correcting common typos, and applying standard brand capitalization. | Company | Normalized company (text); confidence (number, 0-1) |
+| Company Name Normalizer | Cleans company names by removing legal suffixes, correcting common typos, and applying standard brand capitalization. | Company | Normalized company (text); confidence (number) |
 | Phone E.164 Formatter | Formats phone numbers to the international E.164 standard. | Phone | Normalized phone (text); confidence (number) |
 | Job Title Standardizer | Standardizes job titles and derives seniority. | Title | Normalized title (text); seniority (C-Level, VP, Director, Manager, Individual, or Unknown); confidence |
 | Bot and Spam Detector | Flags bot or spam form submissions. | Email, First name, Last name, Company, Phone | Is bot (true/false); confidence; reason; flags (comma-separated) |
