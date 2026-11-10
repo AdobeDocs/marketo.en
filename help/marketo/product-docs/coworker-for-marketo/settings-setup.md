@@ -34,6 +34,10 @@ There is an _Access Coworker for Marketo Engage_ permission and a _Coworker for 
 
 Follow the steps below to enable _Access Coworker for Marketo Engage_ for qualifying roles that do not already have it enabled.
 
+>[!NOTE]
+>
+>**Admin Permissions Required**
+
 1. In your My Marketo, click **Admin**, then **Users & Roles**.
 
    ![](assets/settings-setup-1.png)

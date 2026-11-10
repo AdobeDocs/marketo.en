@@ -32,6 +32,10 @@ Organizational Rules guide CX Enterprise Coworker for Marketo Engage across thre
 
 ## How to access and customize Organizational Rules {#how-to-access-and-customize-organizational-rules}
 
+>[!NOTE]
+>
+>**Admin Permissions Required**
+
 1. In your My Marketo, click the **CX Enterprise Coworker for Marketo Engage** tile.
 1. Click the gear icon.
 1. Select the **Organizational Rules** tab.
