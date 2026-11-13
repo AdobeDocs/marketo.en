@@ -56,6 +56,7 @@ New dates and data center/pod information is periodically added or changed, so m
 If for some reason a migration is unsuccessful, you will be notified and we will reschedule.
 
 +++July schedule
+
 <table>
  <tbody>
   <tr>
@@ -249,6 +250,8 @@ If for some reason a migration is unsuccessful, you will be notified and we will
 
 +++
 
++++ October Schedule
+
 <table>
  <tbody>
   <tr>
@@ -302,17 +305,30 @@ If for some reason a migration is unsuccessful, you will be notified and we will
    <td>Completed<br>
    Completed</td>
   </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Date</th>
+   <th style="width:25%">Data Center/Pod</th>
+   <th style="width:25%">Time</th>
+   <th style="width:25%">Status</th>
+  </tr>
   <tr>
    <td>November 6, 2026</td>
    <td>AB18</td>
    <td>4 p.m. PST</td>
-   <td>On schedule</td>
+   <td>Completed</td>
   </tr>
   <tr>
    <td>November 18, 2026</td>
-   <td>SJ14</td>
-   <td>5 p.m. PST</td>
-   <td>On schedule</td>
+   <td><i>SJ14</i></td>
+   <td><i>5 p.m. PST</i></td>
+   <td><i>Postponed (date TBD)</i></td>
   </tr>
   <tr>
    <td>November 20, 2026</td>
