@@ -496,6 +496,8 @@ nudge: toc-retry
       + [Import leads](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Validate programs](product-docs/coworker-for-marketo/skills/validate-programs.md)
     + [Marketo MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+  + CX Enterprise Coworker Panel {#coworker-panel}
+    + {hide-from-toc} [Overview](product-docs/coworker-panel/overview.md)
   + CRM Sync {#crm-sync}
     + Microsoft Dynamics Sync {#microsoft-dynamics}
       + [Understanding the Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
