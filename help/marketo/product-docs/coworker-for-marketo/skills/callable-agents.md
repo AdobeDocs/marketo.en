@@ -9,9 +9,9 @@ product_v2:
 
 Callable agents let you use an AI agent as a step in a Marketo Engage Smart Campaign. Build an agent in CX Enterprise Coworker for Marketo Engage, choose the lead fields it reads and updates, and publish it for use in campaigns. Agents can help clean up data, classify leads, enrich missing information, or screen form submissions.
 
->[!PREREQUISITES]
+>[!NOTE]
 >
->You must have the **Access admin** permission in Marketo Engage.
+>**Admin** permissions required.
 
 ## Before you begin {#before-you-begin}
 

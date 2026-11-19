@@ -18,7 +18,7 @@ The Coworker panel lets you open CX Enterprise Coworker directly from Marketo En
 
 | Area | Details |
 | --- | --- |
-| Access | Open the embedded beta from within Marketo Engage. The existing CX Enterprise Coworker for Marketo Engage experience remains available through its [current access point](/help/marketo/product-docs/coworker-for-marketo/overview.md#access). |
+| Access | Open the embedded Coworker beta experience from within Marketo Engage. The existing CX Enterprise Coworker for Marketo Engage experience remains available through its [current access point](/help/marketo/product-docs/coworker-for-marketo/overview.md#access). |
 | Existing conversations | Your existing conversation history remains available in the current CX Enterprise Coworker for Marketo Engage experience. Enabling the beta does not remove that history. |
 | History and context | The beta and the existing experience have separate conversation history and context. A conversation in one is not available in the other. |
 | Existing functionality | Remains available in the current experience. |
