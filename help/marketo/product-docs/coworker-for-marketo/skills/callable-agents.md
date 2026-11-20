@@ -22,17 +22,31 @@ Callable agents let you use an AI agent as a step in a Marketo Engage Smart Camp
 
 1. In your My Marketo, click the **[!UICONTROL CX Enterprise Coworker for Marketo Engage]** tile.
 
-1. Select **[!UICONTROL Callable agents]** in the left navigation. The list shows each agent's name, creation date, creator, and status. Search by name or sort by name or creation date.
+   ![](assets/callable-agents-1.png)
 
-1. Select **[!UICONTROL Create callable agent]**. Choose a template, or leave the template picker empty to start from scratch.
+1. In the upper-right, select **[!UICONTROL Agents]**.
 
-1. Enter an **[!UICONTROL Agent name]** and write **[!UICONTROL Agent instructions]** describing how to process each lead.
+   ![](assets/callable-agents-2.png)
 
-1. Under **[!UICONTROL Lead fields to send]**, add the lead fields the agent needs as inputs. Under **[!UICONTROL Lead fields to update]**, add each value the agent should return and map it to an updatable lead field.
+1. Select **[!UICONTROL Create callable agent]**.
 
-1. Select **[!UICONTROL Save]** to save a draft, or **[!UICONTROL Save and publish]** to make the agent available in Marketo Engage.
+   ![](assets/callable-agents-3.png)
 
-1. Open a Smart Campaign and select the **[!UICONTROL Flow]** tab. In the Marketing section of the flow-step list, find **Call agent: _[Agent name]_** and drag it into the flow.
+1. To use a template, click **Start from a template** and select one.
+
+1. To build your own, enter an **[!UICONTROL Agent name]** and write **[!UICONTROL Agent instructions]** describing how to process each lead.
+
+1. Under **[!UICONTROL Lead fields to send]**, add the lead fields the agent needs as inputs. Under **[!UICONTROL Lead fields to update]**, add each value the agent should return and map it to an updatable lead field. Click **[!UICONTROL Create]** when done.
+
+   ![](assets/callable-agents-4.png)
+
+1. Open a Smart Campaign and select the **[!UICONTROL Flow]** tab.
+
+   ![](assets/callable-agents-5.png)
+
+1. Enter "callable" in the flow actions search. Locate your desired agent and drag it onto the canvas.
+
+   ![](assets/callable-agents-6.png)
 
 1. Test the campaign with a small set of leads. Review the activity log and confirm that output fields update as expected before activating the campaign for all leads.
 
