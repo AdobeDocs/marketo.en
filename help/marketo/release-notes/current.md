@@ -56,8 +56,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Callable Agents</strong>: Create AI agents that run as a flow step in your smart campaigns and act on a lead record based on instructions you write in plain language. For example, an agent can normalize a lead's data or flag likely bots, then write the result back to fields on the lead. This brings judgment-based lead processing into your campaigns without custom code.</td>
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Released</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/callable-agents.md" target="_blank">Callable agents</a></td>
   </tr>
   <tr>
    <td>&nbsp;</td>
