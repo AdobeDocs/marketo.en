@@ -34,6 +34,10 @@ Callable agents let you use an AI agent as a step in a Marketo Engage Smart Camp
 
 1. To use a template, click **Start from a template** and select one.
 
+   >[!NOTE]
+   >
+   >For more details on callable agent templates, see [Start from a template](#start-from-a-template).
+
 1. To build your own, enter an **[!UICONTROL Agent name]** and write **[!UICONTROL Agent instructions]** describing how to process each lead.
 
 1. Under **[!UICONTROL Lead fields to send]**, add the lead fields the agent needs as inputs. Under **[!UICONTROL Lead fields to update]**, add each value the agent should return and map it to an updatable lead field. Click **[!UICONTROL Create]** when done.
