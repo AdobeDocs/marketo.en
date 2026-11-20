@@ -108,6 +108,7 @@ nudge: toc-retry
       + [Enable Communication Limits](product-docs/administration/email-setup/enable-communication-limits.md)
       + [Enable Person Restrictions for Smart Campaigns](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
       + [Email Open Tracking at Campaign Level](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
+      + {hide-from-toc} [Email Tracking at Person Level](product-docs/administration/email-setup/email-tracking-at-person-level.md)
       + [Filtering Email Bot Activity](product-docs/administration/email-setup/filtering-email-bot-activity.md)
       + [Remove Unsubscribe Text](product-docs/administration/email-setup/remove-unsubscribe-text.md)
     + Field Management {#field-management}
