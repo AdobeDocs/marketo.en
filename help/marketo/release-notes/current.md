@@ -66,8 +66,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr>
    <td><strong>Clone to This Program/Folder</strong>: Cloning operations across Marketo Engage now consistently offer a "This Folder" or "This Program" option as a first choice when choosing the destination of the cloned asset. Choosing this option clones the asset to the parent program or folder of the current asset.</td>
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Released</td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td>&nbsp;</td>
@@ -77,8 +77,8 @@ The following features fall under the standard release cycle and will start to b
   <tr>
    <tr>
    <td><strong>Instant alert on CRM sync</strong>: Enabling or disabling the native CRM sync for an environment now triggers a notification to users who are subscribed to the CRM notification channel.</td>
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Released</td>
+   <td>n/a</td>
   </tr>
   </tr>
   </tbody>
