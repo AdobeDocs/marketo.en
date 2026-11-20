@@ -11,7 +11,7 @@ Callable agents let you use an AI agent as a step in a Marketo Engage Smart Camp
 
 >[!NOTE]
 >
->**Admin** permissions required.
+>**Admin permissions required.**
 
 ## Before you begin {#before-you-begin}
 

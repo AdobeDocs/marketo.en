@@ -488,7 +488,7 @@ nudge: toc-retry
     + [CX Enterprise Coworker for Marketo Engage data information sheet](product-docs/coworker-for-marketo/data-information.md)
     + Skills {#skills}
       + [Product knowledge](product-docs/coworker-for-marketo/skills/product-knowledge.md)
-      + {hide-from-toc} [Callable agents](product-docs/coworker-for-marketo/skills/callable-agents.md)
+      + [Callable agents](product-docs/coworker-for-marketo/skills/callable-agents.md)
       + {hide-from-toc} [Surface insights](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + [Build programs](product-docs/coworker-for-marketo/skills/build-programs.md)
       + [Plan campaigns](product-docs/coworker-for-marketo/skills/plan-campaigns.md)
