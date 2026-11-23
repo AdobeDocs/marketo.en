@@ -336,8 +336,8 @@ If for some reason a migration is unsuccessful, you will be notified and we will
    SJ38</td>
    <td>5 p.m. PST<br>
    6 p.m. PST</td>
-   <td>On schedule<br>
-   On schedule</td>
+   <td>Completed<br>
+   Completed</td>
   </tr>
   </body>
 </table>
