@@ -79,7 +79,6 @@ nudge: toc-retry
       + [Add Single Sign-On to a Portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
       + [Add Webex as a LaunchPoint Service](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
       + [Add Zoom as a LaunchPoint Service](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
-      + {hide-from-toc} [Configuring Your SOAP API Settings](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
       + [Connect BrightTALK to Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
       + [Create a Custom Service for Use with ReST API](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
       + [Create a Webhook](product-docs/administration/additional-integrations/create-a-webhook.md)
