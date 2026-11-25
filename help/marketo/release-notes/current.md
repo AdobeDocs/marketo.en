@@ -45,6 +45,16 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
+   <td><strong>Email Tracking at Person Level</strong>: Person-level Email Tracking Overrides allows you to control email open and click tracking for an individual person; supporting consent and privacy requirements.</td>
+   <td>Released</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/email-tracking-at-person-level.md" target="_blank">Email Tracking at Person Level</a></td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr>
    <td><strong>Plan Campaigns skill</strong>: CX Enterprise Coworker for Marketo Engage can now turn a campaign brief into a complete Marketo Engage program setup document. The document includes folder structure, smart campaigns, email configurations, tokens, and a QA checklist. This helps teams launch campaigns faster and standardize program setup. The skill is configurable via markdown.</td>
    <td>Released</td>
    <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md" target="_blank">Plan campaigns</a></td>
